@@ -8,1913 +8,1923 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: help@scratch.mit.edu\n"
 "POT-Creation-Date: 2008-08-19 12:36+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2014-08-09 17:47+0000\n"
+"Last-Translator: Muhsin <abdkalanzi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: lg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.2.0\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1407606456.000000\n"
 
-############################################
+# ##########################################
 # FORMATTING
-############################################
+# ##########################################
 # Language name as you'd like it to appear in the Languages menu
 # (Required)
 msgid "Language-Name"
-msgstr ""
+msgstr "Luganda- Erinnya"
 
 # Directionality of language
 # LTR = Left to Right
 # RTL = Right to Left
 msgid "Language-Direction"
-msgstr ""
+msgstr "Luganda- Gyotunudde"
 
 # Scale to apply to font size (2 for twice as large)
 # Use this if the font is too small for legibility on the Scratch interface
 msgid "Font-Scale"
-msgstr ""
+msgstr "Obunene bwennyukuta"
 
 # Set to 'true' or 'false'
 # Use this if you do not want any of the text to be bolded, for legibility
 msgid "Suppress-Bold"
-msgstr ""
+msgstr "Nnyiga ate ogezze"
 
 # Font to use on a Windows system
 msgid "Win-Font"
-msgstr ""
+msgstr "Obunene bwe nnyukuta eza window"
 
 # Font to use on a Mac system
 msgid "Mac-Font"
-msgstr ""
+msgstr "obunene bwe nnyukuta eza mac"
 
 # Font to use on a Linux system
 msgid "Linux-Font"
-msgstr ""
+msgstr "obunene bwe nnyukuta eza linux"
 
-############################################
+# ##########################################
 # BLOCKS
-############################################
+# ##########################################
+# 
 msgid "%H sensor value"
-msgstr ""
+msgstr "% Ha ekiraga omuwendo"
 
 msgid "%L contains %s"
-msgstr ""
+msgstr "% La ngerimu %sa"
 
 msgid "%a of %m"
-msgstr ""
+msgstr "%a eya %ma"
 
 msgid "%b and %b"
-msgstr ""
+msgstr "%ba ne %ba"
 
 msgid "%b or %b"
-msgstr ""
+msgstr "%ba oba %ba"
 
 msgid "%f of %n"
-msgstr ""
+msgstr "%fa eya %na"
 
 msgid "%n mod %n"
-msgstr ""
+msgstr "%na ekika ekya %ha"
 
 msgid "add %s to %L"
-msgstr ""
+msgstr "gatta %sa ku %La"
 
 msgid "answer"
-msgstr ""
+msgstr "okuddibwamu"
 
 msgid "ask %s and wait"
-msgstr ""
+msgstr "buuza %sa ate olinde"
 
 msgid "background #"
-msgstr ""
+msgstr "eby'emabegga "
 
 msgid "broadcast %e"
-msgstr ""
+msgstr "okuteeka ku mpewo %e"
 
 msgid "broadcast %e and wait"
-msgstr ""
+msgstr "okuteeka ku mpewo %e era olinde"
 
 msgid "change %g effect by %n"
-msgstr ""
+msgstr "kyusa %ga ebinavamu ebya %na"
 
 msgid "change %v by %n"
-msgstr ""
+msgstr "kyusa %va ne %na"
 
 msgid "change pen color by %n"
-msgstr ""
+msgstr "kyusa langi ye kalaamu ne %na"
 
 msgid "change pen shade by %n"
-msgstr ""
+msgstr "kyusa okusiiga kwe kalaamu ne %na"
 
 msgid "change pen size by %n"
-msgstr ""
+msgstr "kyusa obunene bwe kalaamu ne %na"
 
 msgid "change size by %n"
-msgstr ""
+msgstr "kyusa obunene ne %na"
 
 msgid "change tempo by %n"
-msgstr ""
+msgstr "kyusa ebugumu n'obunyogovu ne %na"
 
 msgid "change volume by %n"
-msgstr ""
+msgstr "kyusa obungi ne %na"
 
 msgid "change x by %n"
-msgstr ""
+msgstr "kyusa x ne %na"
 
 msgid "change y by %n"
-msgstr ""
+msgstr "kyusa ya ne %na"
 
 msgid "clear"
-msgstr ""
+msgstr "sangula"
 
 msgid "clear graphic effects"
-msgstr ""
+msgstr "sangula ebivudde mu bisigiddwa"
 
 msgid "color %C is touching %C?"
-msgstr ""
+msgstr "lwaki langi ya %cha ekwata %cha?"
 
 msgid "control"
-msgstr ""
+msgstr "kakanya"
 
 msgid "costume #"
-msgstr ""
+msgstr "ekyambaalo"
 
 msgid "delete %y of %L"
-msgstr ""
+msgstr "gyawo %ya eya %La"
 
 msgid "direction"
-msgstr ""
+msgstr "Oludda"
 
 msgid "distance to %m"
-msgstr ""
+msgstr "ebbanga okutuka ku %ma"
 
 msgid "else"
-msgstr ""
+msgstr "ekirala"
 
 msgid "forever"
-msgstr ""
+msgstr "oluberera"
 
 msgid "forever if %b"
-msgstr ""
+msgstr "Lubereera singa %ba"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr ""
+msgstr "sereeza %na obutikiti kux:%na ya:%na"
 
 msgid "go back %n layers"
-msgstr ""
+msgstr "genda emabega %na emigigi"
 
 msgid "go to %m"
-msgstr ""
+msgstr "genda ku %ma"
 
 msgid "go to front"
-msgstr ""
+msgstr "genda mu maaso"
 
 msgid "go to x:%n y:%n"
-msgstr ""
+msgstr "genda ku x:%na ya:%na"
 
 msgid "hide"
-msgstr ""
+msgstr "kwekweka"
 
 msgid "hide variable %v"
-msgstr ""
+msgstr "kwekweka ebikyukakyuka %va"
 
 msgid "if %b"
-msgstr ""
+msgstr "neya %ba"
 
 msgid "if on edge, bounce"
-msgstr ""
+msgstr "oba ku enjegooyego ,kutomera ne kidda"
 
 msgid "insert %s at %i of %L"
-msgstr ""
+msgstr "kuteekamu %sa ku %i eya %La"
 
 msgid "item %i of %L"
-msgstr ""
+msgstr "ekintu ekimu ku lukalala %i eya %La"
 
 msgid "join %s %s"
-msgstr ""
+msgstr "gatta %sa %sa"
 
 msgid "key %k pressed?"
-msgstr ""
+msgstr "ekisumuluzo %ka onyigiriza?"
 
 msgid "length of %L"
-msgstr ""
+msgstr "obuwanvu obwa %La"
 
 msgid "length of %s"
-msgstr ""
+msgstr "Obuwanvu obwa %sa"
 
 msgid "letter %n of %s"
-msgstr ""
+msgstr "ennyukuta %na eya %sa"
 
 msgid "list"
-msgstr ""
+msgstr "olukalala"
 
 msgid "looks"
-msgstr ""
+msgstr "entunula"
 
 msgid "loud?"
-msgstr ""
+msgstr "eddobbozi eddene?"
 
 msgid "loudness"
-msgstr ""
+msgstr "eddobbozi eddene "
 
 msgid "motion"
-msgstr ""
+msgstr "ekitambula"
 
 msgid "motor direction %W"
-msgstr ""
+msgstr "oludda lwa yingini ereeta amaanyi %Wa"
 
 msgid "motor off"
-msgstr ""
+msgstr "yingini ereeta amaanyi eviddeko"
 
 msgid "motor on"
-msgstr ""
+msgstr "yingini ereeta amaanyi kweli"
 
 msgid "motor on for %n secs"
-msgstr ""
+msgstr "yingini ereeta amaanyi  kweli okumala %na obutikiti"
 
 msgid "motor power %n"
-msgstr ""
+msgstr "yingni ereeta amaanyi  %na"
 
 msgid "mouse down?"
-msgstr ""
+msgstr "emmese wansi?"
 
 msgid "mouse x"
-msgstr ""
+msgstr "emmese x"
 
 msgid "mouse y"
-msgstr ""
+msgstr "emmese ya"
 
 msgid "move %n steps"
-msgstr ""
+msgstr "tambula %na ebigere"
 
 msgid "next background"
-msgstr ""
+msgstr "ekiddako emabega"
 
 msgid "next costume"
-msgstr ""
+msgstr "ekyambalo ekiddako"
 
 msgid "not %b"
-msgstr ""
+msgstr "si %ba"
 
 msgid "operators"
-msgstr ""
+msgstr "abalongoosa"
 
 msgid "pen"
-msgstr ""
+msgstr "ekalamu"
 
 msgid "pen down"
-msgstr ""
+msgstr "ekkalaamu ya bwino wansi"
 
 msgid "pen up"
-msgstr ""
+msgstr "ekalaamu ya bwino wangu"
 
 msgid "pick random %n to %n"
-msgstr ""
+msgstr "kulonda ky'osanga %na ku %na"
 
 msgid "play drum %D for %n beats"
-msgstr ""
+msgstr "zanya engoma %Da eya %na okutambulira ku luyimba oba ekitontome"
 
 msgid "play note %N for %n beats"
 msgstr ""
+"zannya obubaka obuwandiike ku kapapula %Na eya %na okutambulira ku luyimba "
+"oba ekitontome"
 
 msgid "play sound %S"
-msgstr ""
+msgstr "zannya eddobbozi %Sa"
 
 msgid "play sound %S until done"
-msgstr ""
+msgstr " zannya eddobbozi %Sa okutussa nga omazze"
 
 msgid "point in direction %d"
-msgstr ""
+msgstr "nsonga ku ludda %da"
 
 msgid "point towards %m"
-msgstr ""
+msgstr "nsonga oludda luli %ma"
 
 msgid "repeat %n"
-msgstr ""
+msgstr "ddamu %na"
 
 msgid "repeat until %b"
-msgstr ""
+msgstr "kuddamu okutussa %ba"
 
 msgid "replace item %i of %L with %s"
-msgstr ""
+msgstr "kuzzaawo ekintu ekimu ku lukalala lwa %i kya %La ne %sa"
 
 msgid "reset timer"
-msgstr ""
+msgstr "ddamu osetinge obudde"
 
 msgid "rest for %n beats"
-msgstr ""
+msgstr "kuwummulako ku %na  okutambulira ku luyimba oba ekitontome"
 
 msgid "round %n"
-msgstr ""
+msgstr "kyetooloovu %na"
 
 msgid "say %s"
-msgstr ""
+msgstr "gamba %sa"
 
 msgid "say %s for %n secs"
-msgstr ""
+msgstr "gamba %sa eya %na obutikiti"
 
 msgid "sensing"
-msgstr ""
+msgstr "kulozaako"
 
 msgid "sensor %h?"
-msgstr ""
+msgstr "okulowozaako %ha?"
 
 msgid "set %g effect to %n"
-msgstr ""
+msgstr "tegeka %ga ebivuddemu ku %na"
 
 msgid "set %v to %n"
-msgstr ""
+msgstr "tegeka %va ku %na"
 
 msgid "set instrument to %I"
-msgstr ""
+msgstr "tegeka ebivugga ku %I"
 
 msgid "set pen color to %c"
-msgstr ""
+msgstr "tegeka langi ye kalaamu ku %cha"
 
 msgid "set pen color to %n"
-msgstr ""
+msgstr "tegeka langi ye kalaamu ku %na"
 
 msgid "set pen shade to %n"
-msgstr ""
+msgstr "tegeka okusiiga kwe kalaamu ku %na"
 
 msgid "set pen size to %n"
-msgstr ""
+msgstr "tegeka ekipimo ky'obunene bwe kalaamu ku %na"
 
 msgid "set size to %n%"
-msgstr ""
+msgstr "tegeka ekipimo ky'obunene ku %na%"
 
 msgid "set tempo to %n bpm"
-msgstr ""
+msgstr "tegeka embiro ku %na bapama"
 
 msgid "set volume to %n%"
-msgstr ""
+msgstr "Tegeka ebbanga ekintu lye kitwala ku %na%"
 
 msgid "set x to %n"
-msgstr ""
+msgstr "tegeka x ku %na"
 
 msgid "set y to %n"
-msgstr ""
+msgstr "tegeka ya ku %na"
 
 msgid "show"
-msgstr ""
+msgstr "kulaga"
 
 msgid "show variable %v"
-msgstr ""
+msgstr "okulaga obikyusibwa kyusibwa ebya %va"
 
 msgid "size"
-msgstr ""
+msgstr "ekipimo ky'obunene"
 
 msgid "sound"
-msgstr ""
+msgstr "eddoboozi"
 
 msgid "stamp"
-msgstr ""
+msgstr "laama"
 
 msgid "stop all"
-msgstr ""
+msgstr "yimiriza byonna"
 
 msgid "stop all sounds"
-msgstr ""
+msgstr "yimiriiza amaloboozi gonna"
 
 msgid "stop script"
-msgstr ""
+msgstr "yimirizza ebiwandikibwa"
 
 msgid "switch to background %l"
-msgstr ""
+msgstr "genda ku byemabega %I"
 
 msgid "switch to costume %l"
-msgstr ""
+msgstr "genda ku byennyambala %I"
 
 msgid "tempo"
-msgstr ""
+msgstr "Embiro"
 
 msgid "think %s"
-msgstr ""
+msgstr "lowooza %sa"
 
 msgid "think %s for %n secs"
-msgstr ""
+msgstr "lowooza %sa eya %na obutikiti"
 
 msgid "timer"
-msgstr ""
+msgstr "ekigerageranya ebanga oba obudde ekintu lye kigenda okutwala"
 
 msgid "touching %m?"
-msgstr ""
+msgstr "okukwatako %ma?"
 
 msgid "touching color %C?"
-msgstr ""
+msgstr "okukwatako langi %cha?"
 
 msgid "turn %n degrees"
-msgstr ""
+msgstr "kukyuka %na kipimo ky'ebbugumu oba ensonda"
 
 msgid "variables"
-msgstr ""
+msgstr "obikyukakyuka"
 
 msgid "volume"
-msgstr ""
+msgstr "ebbanga ekintu lye kitwala oba lye kijjuza"
 
 msgid "wait %n secs"
-msgstr ""
+msgstr "kulindako %na obutikiti"
 
 msgid "wait until %b"
-msgstr ""
+msgstr "kulindako okutuusa %ba"
 
 msgid "when %k key pressed"
-msgstr ""
+msgstr "Nga ekisumuluzo kya %ka kinyigiriziddwa"
 
 msgid "when %m clicked"
-msgstr ""
+msgstr "Nga %ma  ekoneddwako"
 
 msgid "when I receive %e"
-msgstr ""
+msgstr "Nga I emazze okufuna %e"
 
 msgid "x position"
-msgstr ""
+msgstr "ekifo kya x"
 
 msgid "y position"
-msgstr ""
+msgstr "ekifo kya ya"
 
-############################################
+# ##########################################
 # USER INTERFACE
-############################################
+# ##########################################
+# 
 msgid "(empty)"
-msgstr ""
+msgstr "(kyereere)"
 
 msgid "1 script"
-msgstr ""
+msgstr "Nnamba emu eye'kiwandikiddwa"
 
 msgid "About Scratch"
-msgstr ""
+msgstr "Ebya kutakula"
 
 msgid "About this project:"
-msgstr ""
+msgstr "ebya pulojekiti eno"
 
 msgid "abs"
-msgstr ""
+msgstr "ebasa"
 
 msgid "add comment"
-msgstr ""
+msgstr "gatta ennyinnyonnyola"
 
 msgid "add comment here"
-msgstr ""
+msgstr "gatta enyinnyonnyola wano"
 
 msgid "all"
-msgstr ""
+msgstr "byonna"
 
 msgid "and"
-msgstr ""
+msgstr "ne"
 
 msgid "Animation"
-msgstr ""
+msgstr "Enimesoni"
 
 msgid "any"
-msgstr ""
+msgstr "yenna aliwo"
 
 msgid "Art"
-msgstr ""
+msgstr "Amagezi agatali ga butonde"
 
 msgid "background"
-msgstr ""
+msgstr "ebyemabega"
 
 msgid "backgrounds"
-msgstr ""
+msgstr "ebyemabega ebingi"
 
 msgid "Backgrounds"
-msgstr ""
+msgstr "eby'emabega ebingi"
 
 msgid "brightness"
-msgstr ""
+msgstr "obutanganvu"
 
 msgid "Brush size: "
-msgstr ""
+msgstr "obunene bwakaswaki"
 
 msgid "button"
-msgstr ""
+msgstr "epeesa"
 
 msgid "button pressed"
-msgstr ""
+msgstr "epeesa linyigiriziddwa"
 
 msgid "Camera"
-msgstr ""
+msgstr "ekikubba ebifanani"
 
 msgid "can rotate"
-msgstr ""
+msgstr " nga wetoloola"
 
 msgid "cancel"
-msgstr ""
+msgstr "okusazaamu"
 
 msgid "Cancel"
-msgstr ""
+msgstr "Okusazaamu"
 
 msgid "Choose a folder"
-msgstr ""
+msgstr "okulonda fayilo"
 
 msgid "Choose new sprite from file"
-msgstr ""
+msgstr "okulonda enziruka empya okuva mu fayilo"
 
 msgid "clean up"
-msgstr ""
+msgstr "okulongossa"
 
 msgid "Clear"
-msgstr ""
+msgstr "okusangula"
 
 msgid "Clear canvas"
-msgstr ""
+msgstr "sangula kanvansi"
 
 msgid "Close and continue"
-msgstr ""
+msgstr "ggalaawo ate weyongere okugenda mu maaso"
 
 msgid "Close dialog?"
-msgstr ""
+msgstr "ggalaawo okukkannya?"
 
 msgid "Close paint editor?"
-msgstr ""
+msgstr "galaawo w'okyusizza kyusizza ebisiinge?"
 
 msgid "close port"
-msgstr ""
+msgstr "ggalaawo ewayingirirwa"
 
 msgid "Close sound recorder?"
-msgstr ""
+msgstr "Ggalaawo ekitelyeka emaloboozzi?"
 
 msgid "color"
-msgstr ""
+msgstr "langi"
 
 msgid "Compress Images"
-msgstr ""
+msgstr "ebifananyi ebinyigiddwa"
 
 msgid "Compress Sounds"
-msgstr ""
+msgstr "amaloboozi aganyigiddwa"
 
 msgid "Compress sounds and images"
-msgstr ""
+msgstr "amaloboozi ne bifanannyi ebinyigiddwa"
 
 msgid "Computer"
-msgstr ""
+msgstr "Ekyuma ekibala n'okutegeka ebintu eby'enjawulo amangu"
 
 msgid "connected"
-msgstr ""
+msgstr "okuyungibbwa"
 
 msgid "Connecting to "
-msgstr ""
+msgstr "okuyungibbwa ku"
 
 msgid "Copy"
-msgstr ""
+msgstr "okufaananya"
 
 msgid "costume"
-msgstr ""
+msgstr "ekyambalo"
 
 msgid "costumes"
-msgstr ""
+msgstr "ebyambalo"
 
 msgid "Costumes"
-msgstr ""
+msgstr "ebyambalo"
 
 msgid "Could not read"
-msgstr ""
+msgstr "tasoboola kusoma"
 
 msgid "Could not read project; file may be damaged"
-msgstr ""
+msgstr "tasoboola kusoma pulojekiti; fayiro eyinza okononebbwa"
 
 msgid "Could not write file"
-msgstr ""
+msgstr "obutasoboola kuwandika fayiro"
 
 msgid "Create account"
-msgstr ""
+msgstr "tondawo akawunti"
 
 msgid "Create an empty project"
-msgstr ""
+msgstr "tondawo pulojekiti enkalu"
 
 msgid "Data sent. Waiting for response..."
-msgstr ""
+msgstr "emiwendo kisindikiddwa.linda okuddibwamu.."
 
 msgid "delete"
-msgstr ""
+msgstr "kusangulawo"
 
 msgid "Delete"
-msgstr ""
+msgstr "okusangulawo"
 
 msgid "Delete a list"
-msgstr ""
+msgstr "okusangulawo olukalala"
 
 msgid "Delete a variable"
-msgstr ""
+msgstr "okusangulawo ebikyusibwa kyusibwa"
 
 msgid "Delete this background"
-msgstr ""
+msgstr "okusangulawo eby'emabega"
 
 msgid "Delete this costume"
-msgstr ""
+msgstr "okusangulawo ekyambalo"
 
 msgid "Delete this sound"
-msgstr ""
+msgstr "okusangulawo eddoboozi"
 
 msgid "Delete this sprite"
-msgstr ""
+msgstr "okusangulawo embirro"
 
 msgid "Desktop"
-msgstr ""
+msgstr "desikitopu"
 
 msgid "disable remote sensor connections"
-msgstr ""
+msgstr "Jjaako rimoti ya sense eyungiddwa"
 
 msgid "distance"
-msgstr ""
+msgstr "ebbanga"
 
 msgid "Documents"
-msgstr ""
+msgstr "ebiwandiiko"
 
 msgid "don't rotate"
-msgstr ""
+msgstr "tewetolala"
 
 msgid "Don't Save"
-msgstr ""
+msgstr "tebiterekka"
 
 msgid "Done"
-msgstr ""
+msgstr "okumaririzza"
 
 msgid "down"
-msgstr ""
+msgstr "wansi"
 
 msgid "down arrow"
-msgstr ""
+msgstr "wansi wa kasaale"
 
 msgid "drag to resize"
-msgstr ""
+msgstr "situla osobole okukyuza obunene"
 
 msgid "drag to rotate"
-msgstr ""
+msgstr "situla osobole okwetololoa"
 
 msgid "draggable on website?"
-msgstr ""
+msgstr "okusitula ku lutimbe lwa yintaneti?"
 
 msgid "duplicate"
-msgstr ""
+msgstr "ekifaanana nga kinnaakyo"
 
 msgid "Duplicate"
-msgstr ""
+msgstr "ekifaanana nga kinnaakyo"
 
 msgid "edge"
-msgstr ""
+msgstr "enjegooyego"
 
 msgid "Edit"
-msgstr ""
+msgstr "okutegeka ebiwandikiddwa"
 
 msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
 msgstr ""
+"ekyuma kya ekiripuse(kuba ebiri kulukalala oba okujjuza ekiripuse oba "
+"ekyetolovu"
 
 msgid "enable remote sensor connections"
-msgstr ""
+msgstr "okusobozessa rimoti okusensinga ebiyungiddwa"
 
 msgid "Enter presentation mode"
-msgstr ""
+msgstr "Yingizza ekika kya pulizentekyoni "
 
 msgid "Eraser"
-msgstr ""
+msgstr "ekisangula"
 
 msgid "Eraser size"
-msgstr ""
+msgstr "obunene bwe kisangula"
 
 msgid "Error!"
-msgstr ""
+msgstr "Ensobi!"
 
 msgid "Examples"
-msgstr ""
+msgstr "ebyokulabirako"
 
 msgid "Exit presentation"
-msgstr ""
+msgstr "ggalaawo pulizentesoni"
 
 msgid "Exit presentation mode"
-msgstr ""
+msgstr "ggalaawo ekika kya pulizentesoni"
 
 msgid "export"
-msgstr ""
+msgstr "Jjayo okitteke ewalala"
 
 msgid "Export Background"
-msgstr ""
+msgstr "Jjayo ebyemabega"
 
 msgid "Export Costume"
-msgstr ""
+msgstr "Jjayo ebyambalo"
 
 msgid "Export failed"
-msgstr ""
+msgstr "okujjayo kukanganya"
 
 msgid "Export Sound"
-msgstr ""
+msgstr "Jjayo edobboozi"
 
 msgid "Export Sprite"
-msgstr ""
+msgstr "Jjayo embbiro"
 
 msgid "export this costume"
-msgstr ""
+msgstr "Jjayo ekyambalo kino"
 
 msgid "export this sound"
-msgstr ""
+msgstr "Jjayo edobboozi lino"
 
 msgid "export this sprite"
-msgstr ""
+msgstr "Jjayo embbiro zino"
 
 msgid "Extras menu"
-msgstr ""
+msgstr "olukalaala olulala"
 
 msgid "Eyedropper tool (select a color)"
-msgstr ""
+msgstr "ekyuma ekisula eriso(londa langi)"
 
 msgid "Failed:"
-msgstr ""
+msgstr "okulemererwa:"
 
 msgid "false"
-msgstr ""
+msgstr "ekitali kituufu"
 
 msgid "File"
-msgstr ""
+msgstr "Fayiro"
 
 msgid "File not found"
-msgstr ""
+msgstr "Fayiro terabiddwa"
 
 msgid "Fill tool (fill areas with color or gradient)"
-msgstr ""
+msgstr "Jjuzza ekyuma(Jjuzza ebitundu ne langi oba okusseregetta"
 
 msgid "first"
-msgstr ""
+msgstr "Okusooka"
 
 msgid "fisheye"
-msgstr ""
+msgstr "obuttategerekeka"
 
 msgid "Flash blocks (fast)"
-msgstr ""
+msgstr "Ekimyanso kya mabuloka(mubwangu)"
 
 msgid "Flash blocks (slow)"
-msgstr ""
+msgstr "Ekimyanso kya mabuloka(okugenda mpola)"
 
 msgid "Flip horizontally"
-msgstr ""
+msgstr "Wuumba mubukiika"
 
 msgid "Flip vertically"
-msgstr ""
+msgstr "Wuumba mubusimba"
 
 msgid "For all sprites"
-msgstr ""
+msgstr "Nga zonna mbbiro"
 
 msgid "For this sprite only"
-msgstr ""
+msgstr "Nga mbbiro zino zokka"
 
 msgid "Game"
-msgstr ""
+msgstr "omuzannyo"
 
 msgid "Get surprise sprite"
-msgstr ""
+msgstr "Funa ekirabo ky'embbiro"
 
 msgid "Get the last thing deleted"
-msgstr ""
+msgstr "okufuna ekintu ekisebyeyo okusimulwa"
 
 msgid "Getting Started"
-msgstr ""
+msgstr "okutandika"
 
 msgid "ghost"
-msgstr ""
+msgstr "Omusambwa"
 
 msgid "Go To Scratch Website"
-msgstr ""
+msgstr "Genda ku lutimbe lw'okutakula"
 
 msgid "grab screen region for new costume"
-msgstr ""
+msgstr "Nyakula ekifo kyo ku lutimbe eky'ebyennyambala ekiggya"
 
 msgid "grab screen region for new sprite"
-msgstr ""
+msgstr "Nyakula ekifo kyo lutimbe ekya ebbiro empya"
 
 msgid "Grow"
-msgstr ""
+msgstr "Okukula"
 
 msgid "Grow sprite"
-msgstr ""
+msgstr "Okukula embbiro"
 
 msgid "hello "
-msgstr ""
+msgstr "Helo"
 
 msgid "Hello!"
-msgstr ""
+msgstr "Helo!"
 
 msgid "help"
-msgstr ""
+msgstr "okuyamba"
 
 msgid "Help"
-msgstr ""
+msgstr "okuyamba"
 
 msgid "Help Page"
-msgstr ""
+msgstr "olupapula w'ofuna obuyambi"
 
 msgid "Help Screens"
-msgstr ""
+msgstr "Olutimbe okuli okuyambibwa"
 
 msgid "Hide Motor Blocks"
-msgstr ""
+msgstr "okukweka bulooka za yingni ereeta amaanyi"
 
 msgid "High (biggest)"
-msgstr ""
+msgstr "Obuwanvu(ekisinga obunene)"
 
 msgid "Hmm..."
-msgstr ""
+msgstr "Haamuu...."
 
 msgid "Home"
-msgstr ""
+msgstr "eka"
 
 msgid "Images compressed"
-msgstr ""
+msgstr "ebifaananyi ebinyigiddwa"
 
 msgid "import"
-msgstr ""
+msgstr "okuleeta ebitnu okuva ewalala"
 
 msgid "Import"
-msgstr ""
+msgstr "okuleeta ekintu oukva ewalala"
 
 msgid "Import an image on top of your current canvas"
-msgstr ""
+msgstr "okuleeta ekifaananyi wangulu wa kanvansi yo"
 
 msgid "Import Background"
-msgstr ""
+msgstr "okuleeta ekintu okuva emabega"
 
 msgid "Import Costume"
-msgstr ""
+msgstr "okuleeta ekyembalo okuva ewalala"
 
 msgid "Import Image"
-msgstr ""
+msgstr "okuleeta ebifaananyi okuva ewalala"
 
 msgid "Import List"
-msgstr ""
+msgstr "okuleeta olukalaala okuva ewalala"
 
 msgid "Import Project"
-msgstr ""
+msgstr "okuleeta pulojekiti okuva ewalala"
 
 msgid "import project"
-msgstr ""
+msgstr "okuleeta Pulojekiti okuva ewalala"
 
 msgid "Import Sound"
-msgstr ""
+msgstr "okuleeta eddoboozi okuva ewalala"
 
 msgid "Incompatible Scratch file format"
-msgstr ""
+msgstr "okukwataganya ekika kya fayiro ya kutakula"
 
 msgid "Is the folder read-only?"
-msgstr ""
+msgstr "eno foludda esomebbwe-busomebbwa?"
 
 msgid "JPEG Quality (10-100)?"
-msgstr ""
+msgstr "obulungi bwa JPEG (kumi-kikumi)?"
 
 msgid "kbytes"
-msgstr ""
+msgstr "kabytes"
 
 msgid "Language"
-msgstr ""
+msgstr "olulimi"
 
 msgid "large readout"
-msgstr ""
+msgstr "okusoma obigezeddwa"
 
 msgid "last"
-msgstr ""
+msgstr "ekisembayo"
 
 msgid "left"
-msgstr ""
+msgstr "kkono"
 
 msgid "left arrow"
-msgstr ""
+msgstr "ekasale ku kkono"
 
 msgid "length"
-msgstr ""
+msgstr "obuwanvu"
 
 msgid "light"
-msgstr ""
+msgstr "obutangaavu"
 
 msgid "Line tool (draw lines)"
-msgstr ""
+msgstr "omusittale gwe kyuma(kukuba omusittale)"
 
 msgid "List name?"
-msgstr ""
+msgstr "olukalaala lwa manya?"
 
 msgid "Low"
-msgstr ""
+msgstr "wansi"
 
 msgid "Lowest (smallest)"
-msgstr ""
+msgstr "ekisinga okubbera wansi( ekitono)"
 
 msgid "Make a list"
-msgstr ""
+msgstr "okukola olukalaala"
 
 msgid "Make a variable"
-msgstr ""
+msgstr "okukola ebikyusibwa kyusibwa"
 
 msgid "Max:"
-msgstr ""
+msgstr "Ekisinga okubera ekingi:"
 
 msgid "meow"
-msgstr ""
+msgstr "okukaaba nga kapa oba ppusi"
 
 msgid "Message name:"
-msgstr ""
+msgstr "Erinnya lyo bubaka:"
 
 msgid "Min:"
-msgstr ""
+msgstr "ekisinga okubera ekitono:"
 
 msgid "mod"
-msgstr ""
+msgstr "ekika"
 
 msgid "more"
-msgstr ""
+msgstr "okwongera oba okusingako"
 
 msgid "More tags:"
-msgstr ""
+msgstr "okwongera ekiraga:"
 
 msgid "mosaic"
-msgstr ""
+msgstr "Mozayiki"
 
 msgid "mouse x:"
-msgstr ""
+msgstr "emmesse x:"
 
 msgid "mouse y:"
-msgstr ""
+msgstr "emmesse y:"
 
 msgid "mouse-pointer"
-msgstr ""
+msgstr "ekisonga ku mmesse"
 
 msgid "Move"
-msgstr ""
+msgstr "okwejjulula"
 
 msgid "Music"
-msgstr ""
+msgstr "amaloboozi amalungi agayimbibwa oba agava mu kivuga"
 
 msgid "My Projects"
-msgstr ""
+msgstr "omulimi gwange omuteeketeeke"
 
 msgid "new"
-msgstr ""
+msgstr "ekiggya"
 
 msgid "New"
-msgstr ""
+msgstr "Ekiggya"
 
 msgid "New background:"
-msgstr ""
+msgstr "ebyemabega ebiggya:"
 
 msgid "New costume:"
-msgstr ""
+msgstr "ebyenyambalo ebiggya:"
 
 msgid "New file name?"
-msgstr ""
+msgstr "Erinnya lya fayiro eriggya?"
 
 msgid "New Filename:"
-msgstr ""
+msgstr "Erinnya lya fayiro empya:"
 
 msgid "New sound:"
-msgstr ""
+msgstr "eddoboozi eriggya"
 
 msgid "New Sprite"
-msgstr ""
+msgstr "embbiro empya"
 
 msgid "New sprite:"
-msgstr ""
+msgstr "Embbiro empya:"
 
 msgid "No"
-msgstr ""
+msgstr "Nedda"
 
 msgid "No MIDI ports currently available."
-msgstr ""
+msgstr "Tewali bituli bya MIDI biriiwo mu kiseera kino."
 
 msgid "No motion blocks"
-msgstr ""
+msgstr "Tewali bulooka kutambula"
 
 msgid "no scripts"
-msgstr ""
+msgstr "tewali biwandiko"
 
 msgid "No serial ports found"
-msgstr ""
+msgstr "Tewali bitulI bya lukalala bisangiddwawo"
 
 msgid "No variables."
-msgstr ""
+msgstr "Tewali bikyusibwa kyusibwa."
 
 msgid "Normal"
-msgstr ""
+msgstr "ebyabulijjo"
 
 msgid "normal readout"
-msgstr ""
+msgstr "ensoma eya bulijjo"
 
 msgid "Off"
-msgstr ""
+msgstr "okujjako"
 
 msgid "OK"
-msgstr ""
+msgstr "kale"
 
 msgid "On"
-msgstr ""
+msgstr "okuteekako"
 
 msgid "only face left-right"
-msgstr ""
+msgstr "tunnula kukkono oba mu bukiikaddyo kwokka"
 
 msgid "Open"
-msgstr ""
+msgstr "Ggulaawo"
 
 msgid "Open a Scratch project"
-msgstr ""
+msgstr "Ggulaawo omulimi omuteeketekee ogwo kutakula"
 
 msgid "Open Project"
-msgstr ""
+msgstr "Ggulaawo omulimu omuteeketeeke"
 
 msgid "or"
-msgstr ""
+msgstr "oba"
 
 msgid "Paint"
-msgstr ""
+msgstr "okusiiga"
 
 msgid "Paint Editor"
-msgstr ""
+msgstr "etereeza ebisinge"
 
 msgid "Paint new sprite"
-msgstr ""
+msgstr "okusiiga embiro empya"
 
 msgid "Paintbrush"
-msgstr ""
+msgstr "akasiiga ebisinge"
 
 msgid "Password:"
-msgstr ""
+msgstr "pasiwaadi:"
 
 msgid "Percent? (100 gives original size)"
-msgstr ""
+msgstr "ku buli kikumi?(ekikumi ekiwa sayizi entuffu)"
 
 msgid "Pictures"
-msgstr ""
+msgstr "Ebifaananyi"
 
 msgid "pixelate"
-msgstr ""
+msgstr "piseletti"
 
 msgid "play"
-msgstr ""
+msgstr "okuzzanya"
 
 msgid "Please enter a number"
-msgstr ""
+msgstr "Munnage yingiza e nnamba"
 
 msgid "pop"
-msgstr ""
+msgstr "popu"
 
 msgid "Position the cross-hair to set the rotation center"
-msgstr ""
+msgstr "tekawo bukyiika nga osinzira wakati okwetoloola"
 
 msgid "Preparing project..."
-msgstr ""
+msgstr "okwetegekere omulimu omuteeketeeke...."
 
 msgid "Project author:"
-msgstr ""
+msgstr "omuwandisi w'omulimu omuteeketeeke:"
 
 msgid "Project name"
-msgstr ""
+msgstr "Erinnya ly'omulimu omuteeketeeke"
 
 msgid "Project Notes"
-msgstr ""
+msgstr "Obubaka obuwandiike obw'omulimu omuteeketeeke."
 
 msgid "Project notes"
-msgstr ""
+msgstr "obubaka obuwandiike obw'omulimu omuteeketeeke"
 
 msgid "Project uploaded."
-msgstr ""
+msgstr "omulimu onuteeketeeke nga gutereddwa ku yinteneti."
 
 msgid "Projects"
-msgstr ""
+msgstr "emirimu emiteeketeeke"
 
 msgid "Quit"
-msgstr ""
+msgstr "okuleka"
 
 msgid "Quit Scratch"
-msgstr ""
+msgstr "okuleka takula"
 
 msgid "Reading"
-msgstr ""
+msgstr "Okusoma"
 
 msgid "record"
-msgstr ""
+msgstr "okutereeka ekintu"
 
 msgid "Record"
-msgstr ""
+msgstr "Okutereeka Ekintu"
 
 msgid "recording"
-msgstr ""
+msgstr "okutereekanga ekintu"
 
 msgid "Rectangle tool (draw outlined or filled rectangle or square)"
 msgstr ""
+"ekyuma ky'enjuyi ennya(okukuba ebiri kulukalala oba jjuza ekintu ekyenjuyi "
+"ennya oba sikweeya"
 
 msgid "Redo"
-msgstr ""
+msgstr "okuddamu okukola ekintu"
 
 msgid "Reference Guide"
-msgstr ""
+msgstr "Ekitabo wetwejjukanyizza"
 
 msgid "Remote sensor connections enabled"
-msgstr ""
+msgstr "rimoti sensa esobodde okuyungibbwa"
 
 msgid "Remove viewer from stage"
-msgstr ""
+msgstr "jjaako ekitangazzo okuva ku sitengi"
 
 msgid "resistance"
-msgstr ""
+msgstr "okuwankannya"
 
 msgid "resize this sprite"
-msgstr ""
+msgstr "kyusa obunene bw'embbiro"
 
 msgid "reverse"
-msgstr ""
+msgstr "okuddayo emabega"
 
 msgid "right"
-msgstr ""
+msgstr "Ddyo"
 
 msgid "right arrow"
-msgstr ""
+msgstr "ekasaale ka ddyo"
 
 msgid "Rotate clock-wise"
-msgstr ""
+msgstr "wetoloole nga obalamiriizza ku ddyo"
 
 msgid "Rotate counter-clock-wise"
-msgstr ""
+msgstr "Wetoloole kawunta- nga obalamiriizza ku ddyo"
 
 msgid "rotate this sprite"
-msgstr ""
+msgstr "wetoloole embirro zino"
 
 msgid "Rotation degrees?"
-msgstr ""
+msgstr "Wetoloole ebipiimo?"
 
 msgid "Save"
-msgstr ""
+msgstr "Okutereka"
 
 msgid "Save a copy of the current project"
-msgstr ""
+msgstr "Tereeka kopi y'omulimu omuteeketeeke eguliiko kati"
 
 msgid "Save As"
-msgstr ""
+msgstr "Tereeka nga"
 
 msgid "Save changes before quitting?"
-msgstr ""
+msgstr "Okutereka obikyusiddwa nga tonnagalaawo?"
 
 msgid "Save failed"
-msgstr ""
+msgstr "Okutereka kugannya"
 
 msgid "save picture of scripts"
-msgstr ""
+msgstr "Okutereka ebifaananyi bye biwandikiddwa"
 
 msgid "save picture of stage..."
-msgstr ""
+msgstr "Okutereka ebifaananyi ebya sitengi...."
 
 msgid "Save Project"
-msgstr ""
+msgstr "Okutereka omulimu omuteeketeeke"
 
 msgid "Save Scripts Snapshot"
-msgstr ""
+msgstr "Okutereka ebiwandikiddwa ebikubiddwa ekifaananyi"
 
 msgid "Save Stage Shot"
-msgstr ""
+msgstr "Okutereka ewagenda okukubibbwa obifaananyi"
 
 msgid "Save the current project"
-msgstr ""
+msgstr "Okutereka omulimu omuteeketeeke eguliiko"
 
 msgid "Save the current project?"
-msgstr ""
+msgstr "Okutereka omulimu omuteeketeeke eguliiko?"
 
 msgid "Save this project"
-msgstr ""
+msgstr "Okuteereka omulimu omuteeketeeke"
 
 msgid "Scripts"
-msgstr ""
+msgstr "ebiwandikiddwa"
 
 msgid "select serial/USB port"
-msgstr ""
+msgstr "okulonda siriyo/ekituli kya USB"
 
 msgid "Select tool (move, modify, or delete selection)"
-msgstr ""
+msgstr "okulonda ekyuma(okutambula,okuterezza oba okusangula ekilondeddwa"
 
 msgid "Set costume center"
-msgstr ""
+msgstr "okutegekka wakati w'ebyambalo"
 
 msgid "Set language"
-msgstr ""
+msgstr "okutegekka olulimi"
 
 msgid "Set rotation center"
-msgstr ""
+msgstr "Okutegekka wakati ow'kwetoloole"
 
 msgid "Set Single Stepping"
-msgstr ""
+msgstr "Okutegeka ewasookerwa okulinnya"
 
 msgid "set slider min and max"
-msgstr ""
+msgstr "okutegeka ekiseereza mu butono ne mubbungi"
 
 msgid "Share"
-msgstr ""
+msgstr "okugabana"
 
 msgid "Share this project"
-msgstr ""
+msgstr "okugabana omulimu omuteeketeeke"
 
 msgid "Share This Project Online"
-msgstr ""
+msgstr "Okugabana omulimi omuteeketeeke nga guli onilayiini"
 
 msgid "Show Motor Blocks"
-msgstr ""
+msgstr "Okulaga bulooka za yingini ereeta amaanyi"
 
 msgid "show ScratchBoard watcher"
-msgstr ""
+msgstr "Okulaga olubaawo lyo kutakula mu kwegendereza"
 
 msgid "Shrink"
-msgstr ""
+msgstr "okuyimpawala"
 
 msgid "Shrink sprite"
-msgstr ""
+msgstr "Okuyimpawala mu mbbiro"
 
 msgid "Simulation"
-msgstr ""
+msgstr "okuyeeyereza"
 
 msgid "Single-step speed?"
-msgstr ""
+msgstr "Eddala erimu mu bwangu?"
 
 msgid "slider"
-msgstr ""
+msgstr "okuseereza"
 
 msgid "Slider range:"
-msgstr ""
+msgstr "okuseereza mu kibangirizi:"
 
 msgid "Sound quality:"
-msgstr ""
+msgstr "Eddoboozi eddungi:"
 
 msgid "Sound Recorder"
-msgstr ""
+msgstr "ekitereeka amaloboozi"
 
 msgid "Sounds"
-msgstr ""
+msgstr "amaloboozi"
 
 msgid "Sounds compressed"
-msgstr ""
+msgstr "amaloboozi ganyiggiddwa"
 
 msgid "space"
-msgstr ""
+msgstr "ebbanga oba ekifo"
 
 msgid "Sprite"
-msgstr ""
+msgstr "mbbiro"
 
 msgid "Sprites"
-msgstr ""
+msgstr "Embbiro"
 
 msgid "sqrt"
-msgstr ""
+msgstr "sqrt"
 
 msgid "Stage"
-msgstr ""
+msgstr "webakolera emizannyo"
 
 msgid "Stage selected:"
-msgstr ""
+msgstr "webakolera emizannyo waloddeddwa:"
 
 msgid "Stamp tool (select area, then stamp copies of it)"
-msgstr ""
+msgstr "Ekyuma kya laama(londa ekifo ate otekeeko laama kubifaanangana)"
 
 msgid "Start green flag scripts"
-msgstr ""
+msgstr "Tandiika bendera eyakiragala eyebiwandikiddwa"
 
 msgid "Start Single Stepping"
-msgstr ""
+msgstr "Okutandiika okulinnya ebbigere ebisooka"
 
 msgid "stop"
-msgstr ""
+msgstr "Okulimiirira"
 
 msgid "Stop everything"
-msgstr ""
+msgstr "Okulimiriiza ekintu kyonna"
 
 msgid "Stop Single Stepping"
-msgstr ""
+msgstr "Okutandiika okulinnya ebbigere ebisooka"
 
 msgid "Story"
-msgstr ""
+msgstr "Olugero"
 
 msgid "Support Site"
-msgstr ""
+msgstr "Ekifo wo fuuna obuyambi"
 
 msgid "Switch colors"
-msgstr ""
+msgstr "Okukyuusa langi"
 
 msgid "Switch to full stage"
-msgstr ""
+msgstr "Kyusa okudda webazzanyira emizannyo"
 
 msgid "Switch to presentation mode"
-msgstr ""
+msgstr "Kyusa odde ku pulizentoshoni eya kika kya mode"
 
 msgid "Switch to small stage"
-msgstr ""
+msgstr "Kyusa odde mu kifo ekitono we bazanyira emizannyo"
 
 msgid "Tags:"
-msgstr ""
+msgstr "Ebikozesebbwa mu kulamba ekintu:"
 
 msgid "Text tool (edit text layer)"
-msgstr ""
+msgstr "Ekyuma ekiwandiika obubaka(okutereeza omuko gwa bubaka)"
 
 msgid "That variable name is already in use"
-msgstr ""
+msgstr "Erinnya lye bikyusibbwa kyusibbwa lyekozeseddwa dda"
 
 msgid "that way"
-msgstr ""
+msgstr "Kwaata eyo"
 
 msgid "The file name already exists. Overwrite existing file?"
-msgstr ""
+msgstr "Erinnya lya fayiro gyeriri.okuwandiika no ssussa mu fayiro eriiwo?"
 
 msgid "thing"
-msgstr ""
+msgstr "ekintu"
 
 msgid "this way"
-msgstr ""
+msgstr "Oludda luno"
 
 msgid "tilt"
-msgstr ""
+msgstr "Okukyussa kyusa ekintu"
 
 msgid "true"
-msgstr ""
+msgstr "ekituufu"
 
 msgid "Turbo speed"
-msgstr ""
+msgstr "ekyuma eky'emisinde emingi"
 
 msgid "turn into new sprite"
-msgstr ""
+msgstr "kyuka odde mu mbbiro empya"
 
 msgid "Undelete"
-msgstr ""
+msgstr "tekyassaguddwa"
 
 msgid "Undo"
-msgstr ""
+msgstr "Okujjaawo ekintu ekibadde kikolebbwa"
 
 msgid "up"
-msgstr ""
+msgstr "Waggulu"
 
 msgid "up arrow"
-msgstr ""
+msgstr "Akasaale waggulu"
 
 msgid "Updating thumbnails"
-msgstr ""
+msgstr "Okutereeza enjaala z'ekyenkumu"
 
 msgid "Upload succeeded!"
-msgstr ""
+msgstr "Okuteekaayo kusobwosse!"
 
 msgid "Upload to Scratch Server"
-msgstr ""
+msgstr "Okutekaayo ku saava ya scratch"
 
 msgid "Uploading"
-msgstr ""
+msgstr "Okuteekayo ekintu ku mukuttu gwa yinteneti"
 
 msgid "Variable name?"
-msgstr ""
+msgstr "Erinnya lye bikyussibbwa Kyussibbwa?"
 
 msgid "View on stage"
-msgstr ""
+msgstr "Okulabbira mu kifo emizannyo we gizannyibbwa"
 
 msgid "What's your name?"
-msgstr ""
+msgstr "Gwe anni erinnya lyo?"
 
 msgid "whirl"
-msgstr ""
+msgstr "Okukyusakyusa"
 
 msgid "world"
-msgstr ""
+msgstr "Ensi"
 
 msgid "Write Multiple Project Summaries"
-msgstr ""
+msgstr "Wandiika mubufunze emirimu emiteeketeeke egiweraako"
 
 msgid "Write Project Summary"
-msgstr ""
+msgstr "wandiika omulimi omuteeketeeke mubufunze"
 
 msgid "Yes"
-msgstr ""
+msgstr "Yee"
 
 msgid "Your project is now online at"
-msgstr ""
+msgstr "Omulimu gwo omuteeketeeke guli ku mutimbanganno gwa yinteneti"
 
 msgid "Your Scratch website login name:"
-msgstr ""
+msgstr "Erinnya lyo mukutu ogukuyingizza mu kutakula:"
 
 msgid "Zoom in"
-msgstr ""
+msgstr "okufunza ekintu nga odd munda"
 
 msgid "Zoom out"
-msgstr ""
+msgstr "Okugeezzamu ekintu"
 
-############################################
+# ##########################################
 # MIDI INSTRUMENTS
-############################################
+# ##########################################
+# 
 msgid "Accordion"
-msgstr ""
+msgstr "Okusinzira"
 
 msgid "Acoustic Bass"
-msgstr ""
+msgstr "Mu ddoboozi erya wansi"
 
 msgid "Acoustic Bass Drum"
-msgstr ""
+msgstr "Ekivuga kyebakubba mu ddoboozi erya wansi"
 
 msgid "Acoustic Grand"
-msgstr ""
+msgstr "Mu ddoboozi ery'ekitiibwa"
 
 msgid "Acoustic Snare"
-msgstr ""
+msgstr "Mu ddoboozi erya kakunizo"
 
 msgid "Agogo"
-msgstr ""
+msgstr "Agogo"
 
 msgid "Alto Sax"
-msgstr ""
+msgstr "Alto Sax"
 
 msgid "Applause"
-msgstr ""
+msgstr "Okukungiriizza ekintu oba omuntu"
 
 msgid "Bagpipe"
-msgstr ""
+msgstr "Ensawo yo luppira"
 
 msgid "Banjo"
-msgstr ""
+msgstr "Banjo"
 
 msgid "Baritone Sax"
-msgstr ""
+msgstr "Baritoni Sax"
 
 msgid "Bass Drum 1"
-msgstr ""
+msgstr "Ekivuga namba emu mu ddoboozi erya wansi"
 
 msgid "Bassoon"
-msgstr ""
+msgstr "Bassoon"
 
 msgid "Bird Tweet"
-msgstr ""
+msgstr "Eddoboozi lye kinyonyi"
 
 msgid "Blown Bottle"
-msgstr ""
+msgstr "Eccuppa envuggiddwa"
 
 msgid "Brass Section"
-msgstr ""
+msgstr "Ekitundu ekisaliddwako ku kyuma ekiwewufu "
 
 msgid "Breath Noise"
-msgstr ""
+msgstr "Okussa mu ddoboozi eddene"
 
 msgid "Bright Acoustic"
-msgstr ""
+msgstr "Eddoboozi eritanganvu"
 
 msgid "Cabasa"
-msgstr ""
+msgstr "Cabasa"
 
 msgid "Celesta"
-msgstr ""
+msgstr "Celesta"
 
 msgid "Cello"
-msgstr ""
+msgstr "Cello"
 
 msgid "Chinese Cymbal"
-msgstr ""
+msgstr "Cymbal ekyayyiina"
 
 msgid "Choir Aahs"
-msgstr ""
+msgstr "ekibiina kya bayimba Aahs"
 
 msgid "Church Organ"
-msgstr ""
+msgstr "Ennanga ye kkanisa"
 
 msgid "Clarinet"
-msgstr ""
+msgstr "karinnetti"
 
 msgid "Claves"
-msgstr ""
+msgstr "kilaavizzi"
 
 msgid "Clavinet"
-msgstr ""
+msgstr "kilaavinetti"
 
 msgid "Closed Hi-Hat"
-msgstr ""
+msgstr "Enkofira eyeggadde"
 
 msgid "Contrabass"
-msgstr ""
+msgstr "amaloboozi ebbiri agawansi"
 
 msgid "Cowbell"
-msgstr ""
+msgstr "ekidde kye nte"
 
 msgid "Crash Cymbal 1"
-msgstr ""
+msgstr "Okunyigga Cymbal esooka"
 
 msgid "Crash Cymbal 2"
-msgstr ""
+msgstr "Okunyigga Cymbal eyokkubiri"
 
 msgid "Distortion Guitar"
-msgstr ""
+msgstr "ekivuga ekibuzzabuzza"
 
 msgid "Drawbar Organ"
-msgstr ""
+msgstr "Okukuba ekitundu ky'ekintu"
 
 msgid "Dulcimer"
-msgstr ""
+msgstr "Dulusiima"
 
 msgid "Electric Bass (finger)"
-msgstr ""
+msgstr "Ekyuma kya masanyalaze okivaamu eddoboozi erya wansi( obuggalo)"
 
 msgid "Electric Bass (pick)"
-msgstr ""
+msgstr "kyuma kya masanyalaze okivaamu eddoboozi erya wansi( Londa)"
 
 msgid "Electric Clean Guitar"
-msgstr ""
+msgstr "Longosa ekivuga oba Gitta ekya masanyalaze"
 
 msgid "Electric Grand"
-msgstr ""
+msgstr "Ekyamasanyalaze ekikulu"
 
 msgid "Electric Jazz Guitar"
-msgstr ""
+msgstr "Ekivuga oba Gitta ya Jazz"
 
 msgid "Electric Muted Guitar"
-msgstr ""
+msgstr "Ekivuga oba Gitta eya masanyalaze nga amumunyadde"
 
 msgid "Electric Piano 1"
-msgstr ""
+msgstr "Okukuba ekivuga kimu ekya masanyalaze ng'okendeezezza"
 
 msgid "Electric Piano 2"
-msgstr ""
+msgstr "Okukuba ekivuga ekyokkubiri ekya masanyalaze ng'okendeezezza"
 
 msgid "Electric Snare"
-msgstr ""
+msgstr "Omutego oba ekakwakunizo eka masanyalaze"
 
 msgid "English Horn"
-msgstr ""
+msgstr "ekkondeere lyo Lungereza"
 
 msgid "FX 1 (rain)"
-msgstr ""
+msgstr "FX nnamba emu (enkuba)"
 
 msgid "FX 2 (soundtrack)"
-msgstr ""
+msgstr "FX nnamba bbiri(okutambula kwe ddoboozi)"
 
 msgid "FX 3 (crystal)"
-msgstr ""
+msgstr "FX nnamba ssatu(ejjinja eryo muwendo)"
 
 msgid "FX 4 (atmosphere)"
-msgstr ""
+msgstr "FX nnamba nnya(ebbanga)"
 
 msgid "FX 5 (brightness)"
-msgstr ""
+msgstr "FX nnamba ttaano(okwakayakanna)"
 
 msgid "FX 6 (goblins)"
-msgstr ""
+msgstr "FX nnamba mukaaga(embbiro)"
 
 msgid "FX 7 (echoes)"
-msgstr ""
+msgstr "FX nnamba musanvu(amaloboozi egawuulilwa okuva awala)"
 
 msgid "FX 8 (sci-fi)"
-msgstr ""
+msgstr "FX nnamba munnana(sci-fi)"
 
 msgid "Fiddle"
-msgstr ""
+msgstr "Kulyakula oba kukumpanya"
 
 msgid "Flute"
-msgstr ""
+msgstr "Endere"
 
 msgid "French Horn"
-msgstr ""
+msgstr "Endere yo mufalansa"
 
 msgid "Fretless Bass"
-msgstr ""
+msgstr "Eddoboozi erittarimu Kutaataaganya"
 
 msgid "Glockenspiel"
-msgstr ""
+msgstr "Glockenspiel"
 
 msgid "Guitar Fret Noise"
-msgstr ""
+msgstr "Ekivuga oba Giita eya ddoboozi eritarimu kutaataaganya"
 
 msgid "Guitar Harmonics"
-msgstr ""
+msgstr "Ekivuga oba Giita eya maloboozi eg'enjawulo agakwatagana obulungi"
 
 msgid "Gunshot"
-msgstr ""
+msgstr "Okuvugga kwe mmundu"
 
 msgid "Hand Clap"
-msgstr ""
+msgstr "Okukubba mu ngalo"
 
 msgid "Harmonica"
-msgstr ""
+msgstr "Okukwatagana obulungi"
 
 msgid "Harpsichord"
-msgstr ""
+msgstr "Harpsichord"
 
 msgid "Helicopter"
-msgstr ""
+msgstr "Ennyonyi namunkanga"
 
 msgid "Hi Bongo"
-msgstr ""
+msgstr "Kyi Bongo"
 
 msgid "Hi Wood Block"
-msgstr ""
+msgstr "Kyi Wood Block"
 
 msgid "Hi-Mid Tom"
-msgstr ""
+msgstr "Kyi-Mid Tom"
 
 msgid "High Agogo"
-msgstr ""
+msgstr "Obuwanvu Agogo"
 
 msgid "High Floor Tom"
-msgstr ""
+msgstr "Obuwanvu bwo'mwaliiro gwa Tom"
 
 msgid "High Timbale"
-msgstr ""
+msgstr "Obuwanvu bwa Timbale"
 
 msgid "High Tom"
-msgstr ""
+msgstr "Obuwanvu bwa Tom"
 
 msgid "Honky-Tonk"
-msgstr ""
+msgstr "Honky-Tonk"
 
 msgid "Kalimba"
-msgstr ""
+msgstr "Kalimba"
 
 msgid "Koto"
-msgstr ""
+msgstr "Koto"
 
 msgid "Lead 1 (square)"
-msgstr ""
+msgstr "kukulembera nnamba emu(ekirina ensonda ennya nga zonna zenkana)"
 
 msgid "Lead 2 (sawtooth)"
-msgstr ""
+msgstr "kukulembera nnamba bbiri(sawtooth)"
 
 msgid "Lead 3 (calliope)"
-msgstr ""
+msgstr "Kukulembera nnamba ssatu(calliope)"
 
 msgid "Lead 4 (chiff)"
-msgstr ""
+msgstr "Kukulembera nnamba nnya(chiff)"
 
 msgid "Lead 5 (charang)"
-msgstr ""
+msgstr "Kukulembera nnamba ttano(charang)"
 
 msgid "Lead 6 (voice)"
-msgstr ""
+msgstr "Kukulembera nnamba mukaaga(ddoboozi)"
 
 msgid "Lead 7 (fifths)"
-msgstr ""
+msgstr "Kukulembera nnamba musanvu(ekyokutaano)"
 
 msgid "Lead 8 (bass+lead)"
-msgstr ""
+msgstr "Kukulembera nnamba munnana(eddoboozi erya wansi ogatteko okukulembera)"
 
 msgid "Long Guiro"
-msgstr ""
+msgstr "Obuwanvu bwa Guiro"
 
 msgid "Long Whistle"
-msgstr ""
+msgstr "Okufuuwa Omuleele ebanga eriwanvu"
 
 msgid "Low Agogo"
-msgstr ""
+msgstr "Agogo owawansi"
 
 msgid "Low Bongo"
-msgstr ""
+msgstr "Bongo owawansi"
 
 msgid "Low Conga"
-msgstr ""
+msgstr "Conga owawansi"
 
 msgid "Low Floor Tom"
-msgstr ""
+msgstr "Omwaliiro gwa Tom ogwa'wansi"
 
 msgid "Low Timbale"
-msgstr ""
+msgstr "Timbale owawansi"
 
 msgid "Low Tom"
-msgstr ""
+msgstr "Tom owawansi"
 
 msgid "Low Wood Block"
-msgstr ""
+msgstr "Wood Block owawansi"
 
 msgid "Low-Mid Tom"
-msgstr ""
+msgstr "Mid Tom- owawansi"
 
 msgid "Maracas"
-msgstr ""
+msgstr "Maracas"
 
 msgid "Marimba"
-msgstr ""
+msgstr "Marimba"
 
 msgid "Melodic Tom"
-msgstr ""
+msgstr "Eddoboozi lyo luyimba lwa Tom"
 
 msgid "Music Box"
-msgstr ""
+msgstr "essanduuke ye nnyimba"
 
 msgid "Mute Cuica"
-msgstr ""
+msgstr "Okusiirisa Cuica"
 
 msgid "Mute Hi Conga"
-msgstr ""
+msgstr "Okusiirisa Kyi Conga"
 
 msgid "Mute Triangle"
-msgstr ""
+msgstr "Okusiirisa ekintu ekirina ensonda ssatu"
 
 msgid "Muted Trumpet"
-msgstr ""
+msgstr "Ekkondeere erissirisiddwa"
 
 msgid "Nylon String Guitar"
-msgstr ""
+msgstr "Ekivuga oba Giita erina oluwuzi lwa Nylon"
 
 msgid "Oboe"
-msgstr ""
+msgstr "Oboe"
 
 msgid "Ocarina"
-msgstr ""
+msgstr "Ocarina"
 
 msgid "Open Cuica"
-msgstr ""
+msgstr "Ggulaawo Cuica"
 
 msgid "Open Hi Conga"
-msgstr ""
+msgstr "Ggulaawo Kyi Conga"
 
 msgid "Open Hi-Hat"
-msgstr ""
+msgstr "Ggulaawo kyi enkoofira"
 
 msgid "Open Triangle"
-msgstr ""
+msgstr "Ggulaawo ekintu ekirina ensonda ssatu"
 
 msgid "Orchestra Hit"
-msgstr ""
+msgstr "Okutegeeka okukuba"
 
 msgid "Orchestral Strings"
-msgstr ""
+msgstr "Okutegeeka luwuzi"
 
 msgid "Overdriven Guitar"
-msgstr ""
+msgstr "Ekivuga Oba Gitta ekubiddwa ennyo"
 
 msgid "Pad 1 (new age)"
-msgstr ""
+msgstr "enkata nnamba emu(omulembe omuggya)"
 
 msgid "Pad 2 (warm)"
-msgstr ""
+msgstr "Enkata nnamba bbiri(ekibuguma)"
 
 msgid "Pad 3 (polysynth)"
-msgstr ""
+msgstr "Enkata nnamba ssatu(polysynth)"
 
 msgid "Pad 4 (choir)"
-msgstr ""
+msgstr "Enkata nnamba nnya(ekibiina ky'abayimbi)"
 
 msgid "Pad 5 (bowed)"
-msgstr ""
+msgstr "Enkata nnamba Ttano(okwesulika)"
 
 msgid "Pad 6 (metallic)"
-msgstr ""
+msgstr "Enkata nnamba mukaaga(ekintu nga kya kyuma)"
 
 msgid "Pad 7 (halo)"
-msgstr ""
+msgstr "Enkata nnamba musanvu( halo)"
 
 msgid "Pad 8 (sweep)"
-msgstr ""
+msgstr "Enkata nnamba munnaana(kwera)"
 
 msgid "Pan Flute"
-msgstr ""
+msgstr "endere ye sseffuliya"
 
 msgid "Pedal Hi-Hat"
-msgstr ""
+msgstr "Ekisiiba Kyi Enkoofira"
 
 msgid "Percussive Organ"
-msgstr ""
+msgstr "Ekyuma Ekisendasenda"
 
 msgid "Piccolo"
-msgstr ""
+msgstr "Piccolo"
 
 msgid "Pizzicato Strings"
-msgstr ""
+msgstr "Wuzzi za Pizzicato"
 
 msgid "Recorder"
-msgstr ""
+msgstr "Ekyuma ekitereeka amaloboozi"
 
 msgid "Reed Organ"
-msgstr ""
+msgstr "ekitundu kya kati akakwata ekimuli"
 
 msgid "Reverse Cymbal"
-msgstr ""
+msgstr "okudda ekyennyumannyuma Cymbal"
 
 msgid "Ride Bell"
-msgstr ""
+msgstr "okwebagala ekidde"
 
 msgid "Ride Cymbal 1"
-msgstr ""
+msgstr "okwebagala Cymbla emu"
 
 msgid "Ride Cymbal 2"
-msgstr ""
+msgstr "Okwebagala Cymbla bbiri"
 
 msgid "Rock Organ"
-msgstr ""
+msgstr "Ekitundu kyo lwazzi"
 
 msgid "Seashore"
-msgstr ""
+msgstr "Embaalama ze nnyanja"
 
 msgid "Shakuhachi"
-msgstr ""
+msgstr "Shakuhachi"
 
 msgid "Shamisen"
-msgstr ""
+msgstr "Shamisen"
 
 msgid "Shanai"
-msgstr ""
+msgstr "Shanai"
 
 msgid "Short Guiro"
-msgstr ""
+msgstr "Guiro kimpi"
 
 msgid "Short Whistle"
-msgstr ""
+msgstr "Firimbi nnyimpi"
 
 msgid "Side Stick"
-msgstr ""
+msgstr "Oludda lw'omuggo"
 
 msgid "Sitar"
-msgstr ""
+msgstr "Sitar"
 
 msgid "Slap Bass 1"
-msgstr ""
+msgstr "Okukuba ekivuga ekisooka mu ddoboozi ery'wansi"
 
 msgid "Slap Bass 2"
-msgstr ""
+msgstr "Okukuba ekivuga ekyokkubiri mu ddoboozi ery'wansi"
 
 msgid "Soprano Sax"
-msgstr ""
+msgstr "eddoboozi ly'abayimbi erisinga okuba waggulu Sax"
 
 msgid "Splash Cymbal"
-msgstr ""
+msgstr "Okusassanya Cymbal"
 
 msgid "Steel Drums"
-msgstr ""
+msgstr "Ebivuga by'ekyuma eky'ekkalwe"
 
 msgid "Steel String Guitar"
-msgstr ""
+msgstr "Ekivuga eky'enkoba or ggita eyawuzzi ez'ekyuma eky'ekkalwe"
 
 msgid "String Ensemble 1"
-msgstr ""
+msgstr "Olunyiriri lwa wuzzi esooka"
 
 msgid "String Ensemble 2"
-msgstr ""
+msgstr "Olunyiriri lwa wuuzzi ey'okubbiri"
 
 msgid "Synth Bass 1"
-msgstr ""
+msgstr "Synth esooka ey'ddoboozi eriri wansi "
 
 msgid "Synth Bass 2"
-msgstr ""
+msgstr "Synth eyokubbiri ey'ddoboozi eriri wansi"
 
 msgid "Synth Drum"
-msgstr ""
+msgstr "Ekivuga kya Synth"
 
 msgid "Synth Voice"
-msgstr ""
+msgstr "Eddoboozi lya Synth"
 
 msgid "SynthBrass 1"
-msgstr ""
+msgstr "Ekyuma kimu ekiwewufu ekya Synth"
 
 msgid "SynthBrass 2"
-msgstr ""
+msgstr "Ekyuma ekyokubbiri ekiwewufu ekya Synth"
 
 msgid "SynthStrings 1"
-msgstr ""
+msgstr "Oluwuzzi lumu olwa Synth"
 
 msgid "SynthStrings 2"
-msgstr ""
+msgstr "Oluwuzzi nnamba bbiri olwa Synth"
 
 msgid "Taiko Drum"
-msgstr ""
+msgstr "Ekivuga Taiko"
 
 msgid "Tambourine"
-msgstr ""
+msgstr "Tambourine"
 
 msgid "Tango Accordion"
-msgstr ""
+msgstr "Okusinzira ku Tango"
 
 msgid "Telephone Ring"
-msgstr ""
+msgstr "Okuvuga kwe ssimu"
 
 msgid "Tenor Sax"
-msgstr ""
+msgstr "Eddoboozi ly'abasajja erya waggulu Sax"
 
 msgid "Timpani"
-msgstr ""
+msgstr "Timpani"
 
 msgid "Tinkle Bell"
-msgstr ""
+msgstr "Okuvuga kwe kide"
 
 msgid "Tremolo Strings"
-msgstr ""
+msgstr "wuuzzi za Tremolo"
 
 msgid "Trombone"
-msgstr ""
+msgstr "Trombone"
 
 msgid "Trumpet"
-msgstr ""
+msgstr "Ekkondeere"
 
 msgid "Tuba"
-msgstr ""
+msgstr "Tuba"
 
 msgid "Tubular Bells"
-msgstr ""
+msgstr "Ebidde ebirimu ekituli ekisomokka"
 
 msgid "Vibraphone"
-msgstr ""
+msgstr "Okujugumira kwe ssimu"
 
 msgid "Vibraslap"
-msgstr ""
+msgstr "Okujugumira kwo luyyi"
 
 msgid "Viola"
-msgstr ""
+msgstr "Viola"
 
 msgid "Violin"
-msgstr ""
+msgstr "ennanga"
 
 msgid "Voice Oohs"
-msgstr ""
+msgstr "Amaloboozi Oohs"
 
 msgid "Whistle"
-msgstr ""
+msgstr "Ffirimbi"
 
 msgid "Woodblock"
-msgstr ""
+msgstr "Buloka yo lubaawo"
 
 msgid "Xylophone"
-msgstr ""
+msgstr "Amadinda"

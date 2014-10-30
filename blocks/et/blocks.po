@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-08-27 11:17+0200\n"
+"PO-Revision-Date: 2014-10-28 20:22+0000\n"
 "Last-Translator: Jüri <juri.vilipold@ttu.ee>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: et\n"
@@ -11,7 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.1.6\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1414527750.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -183,11 +184,11 @@ msgid "if on edge, bounce"
 msgstr "kui äärel, põrka"
 
 msgid "insert %s at %d.listItem of %m.list"
-msgstr "sisesta %s %m.list %d.listItem"
+msgstr "sisesta %s kohale %d.listItem loendis %m.list"
 
 # lühem on parem, kasutatakse avaldises
 msgid "item %d.listItem of %m.list"
-msgstr "%m.list %d.listItem"
+msgstr "väärtus %d.listItem loendis %m.list"
 
 # tekstide ühendamise plokk läks pidevalt segamini liitmise plokiga; võtmesõna "ühenda" oleks liiga pikk
 msgid "join %s %s"
@@ -285,7 +286,7 @@ msgid "repeat until %b"
 msgstr "korda kuni %b"
 
 msgid "replace item %d.listItem of %m.list with %s"
-msgstr "asenda %m.list %d.listItem %s -ga"
+msgstr "asenda väärtus %d.listItem loendis %m.list %s-ga"
 
 msgid "reset timer"
 msgstr "taimer algseisu"

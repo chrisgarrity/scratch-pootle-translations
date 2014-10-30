@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-09-19 03:48-0400\n"
-"PO-Revision-Date: 2014-02-09 11:44+0200\n"
+"PO-Revision-Date: 2014-07-24 08:21+0000\n"
 "Last-Translator: Emmanuella Pramudita <emma.rumanti@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
@@ -11,7 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Pootle 2.1.6\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1406190085.000000\n"
 
 # ##########################################
 # FORMATTING
@@ -145,7 +146,7 @@ msgstr "bersihkan"
 
 # more correct
 msgid "clear graphic effects"
-msgstr "bersihkan semua efek grafik"
+msgstr "hapus semua efek grafik"
 
 # simpler
 msgid "color %C is touching %C?"
@@ -1150,7 +1151,7 @@ msgid "Remote sensor connections enabled"
 msgstr "Hubungan remote sensor sudah diaktifkan"
 
 msgid "Remove viewer from stage"
-msgstr "Hapus pengamat dari panggung"
+msgstr "Hapus pengamat dari latar"
 
 msgid "resistance"
 msgstr "resistansi"
@@ -1198,7 +1199,7 @@ msgid "save picture of scripts"
 msgstr "simpan gambar dari semua skrip"
 
 msgid "save picture of stage..."
-msgstr "simpan gambar dari panggung..."
+msgstr "simpan gambar dari latar..."
 
 msgid "Save Project"
 msgstr "Simpan Proyek"
@@ -1207,7 +1208,7 @@ msgid "Save Scripts Snapshot"
 msgstr "Simpan Gambar Jepretan dari semua Skrip"
 
 msgid "Save Stage Shot"
-msgstr "Simpan Gambar Jepretan Panggung"
+msgstr "Simpan Gambar Latar"
 
 msgid "Save the current project"
 msgstr "Simpan proyek sekarang"
@@ -1300,10 +1301,10 @@ msgid "sqrt"
 msgstr "akar kuadrat"
 
 msgid "Stage"
-msgstr "Panggung"
+msgstr "Latar"
 
 msgid "Stage selected:"
-msgstr "Panggung yang dipilih:"
+msgstr "Latar terpilih:"
 
 msgid "Stamp tool (select area, then stamp copies of it)"
 msgstr "Alat Cap (pilih area, lalu capkan salinan dari area tersebut)"
@@ -1333,13 +1334,13 @@ msgid "Switch colors"
 msgstr "Tukarkan warnanya"
 
 msgid "Switch to full stage"
-msgstr "Ubah ke panggung penuh"
+msgstr "Ubah ke latar penuh"
 
 msgid "Switch to presentation mode"
 msgstr "Ubah ke mode presentasi"
 
 msgid "Switch to small stage"
-msgstr "Ubah ke panggung kecil"
+msgstr "Ubah ke latar kecil"
 
 msgid "Tags:"
 msgstr "Label:"
@@ -1402,7 +1403,7 @@ msgid "Variable name?"
 msgstr "Nama variabel?"
 
 msgid "View on stage"
-msgstr "Lihat di panggung"
+msgstr "Lihat di latar"
 
 msgid "What's your name?"
 msgstr "Siapa namamu?"

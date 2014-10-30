@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-04-22 02:45+0200\n"
+"PO-Revision-Date: 2014-10-22 06:58+0000\n"
 "Last-Translator: Chao-Hsiung <pesder@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_TW\n"
@@ -11,7 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Pootle 2.1.6\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1413961105.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -306,9 +307,8 @@ msgstr "設定樂器為 %d.instrument"
 # 89%
 # 86%
 # 97%
-#, fuzzy
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "設定 %m.motor 運轉方向 %m.motorDirection"
+msgstr "設定 %m.motor2運轉方向 %m.motor"
 
 # 77%
 # 75%
@@ -449,7 +449,7 @@ msgid "when %m.key key pressed"
 msgstr "當按下 %m.key 鍵"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr ""
+msgstr "當%m.sensor %m.lessMore %n"
 
 msgid "when %m.triggerSensor > %n"
 msgstr "當 %m.triggerSensor > %n"
@@ -462,7 +462,7 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "當背景切換為 %m.backdrop"
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
+msgstr "當距離%m.lessMore %n"
 
 msgid "when I receive %m.broadcast"
 msgstr "當我接收到 %m.broadcast"
@@ -471,13 +471,13 @@ msgid "when I start as a clone"
 msgstr "當分身產生時"
 
 msgid "when Stage clicked"
-msgstr ""
+msgstr "當舞臺被點一下"
 
 msgid "when this sprite clicked"
 msgstr "當角色被點一下"
 
 msgid "when tilt %m.eNe %n"
-msgstr ""
+msgstr "當傾斜%m.eNe %n"
 
 msgid "x position"
 msgstr "x 座標"

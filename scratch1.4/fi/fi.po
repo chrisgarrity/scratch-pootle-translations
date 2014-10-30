@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Scratch\n"
 "Report-Msgid-Bugs-To: Evelyn Eastmond <evelyn@media.mit.edu>\n"
 "POT-Creation-Date: 2007-12-25\n"
-"PO-Revision-Date: 2014-04-01 07:54+0200\n"
+"PO-Revision-Date: 2014-06-05 15:13+0000\n"
 "Last-Translator: Juha <juha.harviainen@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fi\n"
@@ -11,7 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.1.6\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1401981228.000000\n"
 
 ############################################
 # FORMATTING
@@ -1580,7 +1581,7 @@ msgid "Harmonica"
 msgstr "Harmonikka"
 
 msgid "Harpsichord"
-msgstr ""
+msgstr "Cembalo"
 
 msgid "Helicopter"
 msgstr "Helikopteri"
@@ -1643,7 +1644,7 @@ msgid "Long Guiro"
 msgstr ""
 
 msgid "Long Whistle"
-msgstr "Vihellys pitkä"
+msgstr "Pitkä vihellys"
 
 msgid "Low Agogo"
 msgstr ""

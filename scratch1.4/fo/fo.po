@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2013-05-21 00:43+0200\n"
+"PO-Revision-Date: 2013-05-22 00:07+0000\n"
 "Last-Translator: karihj <kari.holm.johannesen@gmail.com>\n"
 "Language-Team: \n"
 "Language: fo\n"
@@ -11,7 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.1.6\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1369181273.000000\n"
 
 # ##########################################
 # FORMATTING
@@ -302,7 +303,7 @@ msgid "replace item %i of %L with %s"
 msgstr "být %i av %L um við %s"
 
 msgid "reset timer"
-msgstr "nullstill teljara"
+msgstr "endurstilla teljara"
 
 msgid "rest for %n beats"
 msgstr "steðga í %n sløgum"
@@ -768,7 +769,7 @@ msgid "Get surprise sprite"
 msgstr ""
 
 msgid "Get the last thing deleted"
-msgstr ""
+msgstr "Fá tað síðsta tú hevur strikað"
 
 msgid "Getting Started"
 msgstr "Soleiðis byrjar tú"
@@ -936,16 +937,16 @@ msgid "mouse y:"
 msgstr "mús y:"
 
 msgid "mouse-pointer"
-msgstr ""
+msgstr "músavísi"
 
 msgid "Move"
-msgstr ""
+msgstr "Flyt"
 
 msgid "Music"
-msgstr ""
+msgstr "Tónleikur"
 
 msgid "My Projects"
-msgstr ""
+msgstr "Mínar verkætlanir"
 
 msgid "new"
 msgstr "nýtt"
@@ -1008,16 +1009,16 @@ msgid "On"
 msgstr "Tendrað"
 
 msgid "only face left-right"
-msgstr ""
+msgstr "vend einans til vinstru móti høgru"
 
 msgid "Open"
 msgstr "Lat upp"
 
 msgid "Open a Scratch project"
-msgstr ""
+msgstr "Lat eina Scratch-verkætlan upp"
 
 msgid "Open Project"
-msgstr ""
+msgstr "Lat verkætlan upp"
 
 msgid "or"
 msgstr "ella"
@@ -1068,10 +1069,10 @@ msgid "Project name"
 msgstr "Navn á verkætlan"
 
 msgid "Project Notes"
-msgstr ""
+msgstr "Viðmerkingar til verkætlanina"
 
 msgid "Project notes"
-msgstr ""
+msgstr "Viðmerkingar til verkætlanina"
 
 msgid "Project uploaded."
 msgstr "Verkætlanin er nú løgd út."
@@ -1105,7 +1106,7 @@ msgid "Redo"
 msgstr "Ger aftur"
 
 msgid "Reference Guide"
-msgstr ""
+msgstr "Tilvísingarskrá"
 
 msgid "Remote sensor connections enabled"
 msgstr ""
@@ -1135,10 +1136,10 @@ msgid "Rotate counter-clock-wise"
 msgstr "Snara móti klokkuni"
 
 msgid "rotate this sprite"
-msgstr ""
+msgstr "snara tekningini"
 
 msgid "Rotation degrees?"
-msgstr ""
+msgstr "Hvussu nógv stig skal snarast?"
 
 msgid "Save"
 msgstr "Goym"
@@ -1183,19 +1184,19 @@ msgid "Scripts"
 msgstr "Boðrit"
 
 msgid "select serial/USB port"
-msgstr ""
+msgstr "Vel serial/USB portur"
 
 msgid "Select tool (move, modify, or delete selection)"
 msgstr "Vel amboð (flyt, broyt ella strika tað ið valt er)"
 
 msgid "Set costume center"
-msgstr ""
+msgstr "Set búnan mitt fyri"
 
 msgid "Set language"
 msgstr "Áset mál"
 
 msgid "Set rotation center"
-msgstr ""
+msgstr "Set snaringar-miðstøðuna"
 
 msgid "Set Single Stepping"
 msgstr ""
@@ -1219,28 +1220,28 @@ msgid "show ScratchBoard watcher"
 msgstr ""
 
 msgid "Shrink"
-msgstr ""
+msgstr "Minka"
 
 msgid "Shrink sprite"
-msgstr ""
+msgstr "Minka tekning"
 
 msgid "Simulation"
-msgstr ""
+msgstr "Eftirgerð"
 
 msgid "Single-step speed?"
 msgstr ""
 
 msgid "slider"
-msgstr ""
+msgstr "dragistýrari"
 
 msgid "Slider range:"
 msgstr ""
 
 msgid "Sound quality:"
-msgstr ""
+msgstr "Ljóðgóðska:"
 
 msgid "Sound Recorder"
-msgstr ""
+msgstr "Ljóðupptakari"
 
 msgid "Sounds"
 msgstr "Ljóð"
@@ -1252,22 +1253,22 @@ msgid "space"
 msgstr "millumrúm"
 
 msgid "Sprite"
-msgstr ""
+msgstr "Tekning"
 
 msgid "Sprites"
-msgstr ""
+msgstr "Tekningar"
 
 msgid "sqrt"
-msgstr ""
+msgstr "ferrót"
 
 msgid "Stage"
-msgstr ""
+msgstr "Pallur"
 
 msgid "Stage selected:"
-msgstr ""
+msgstr "Valdur pallur:"
 
 msgid "Stamp tool (select area, then stamp copies of it)"
-msgstr ""
+msgstr "Stempul (vel øki, og stempla avrit av tí)"
 
 msgid "Start green flag scripts"
 msgstr "Byrja grønt flag boðrit"
@@ -1294,46 +1295,46 @@ msgid "Switch colors"
 msgstr "Skift litir"
 
 msgid "Switch to full stage"
-msgstr ""
+msgstr "Skift til fullan pall"
 
 msgid "Switch to presentation mode"
-msgstr ""
+msgstr "Skift til framløguvísing"
 
 msgid "Switch to small stage"
-msgstr ""
+msgstr "Skift til lítlan pall"
 
 msgid "Tags:"
-msgstr ""
+msgstr "Frámerki:"
 
 msgid "Text tool (edit text layer)"
-msgstr ""
+msgstr "Tekstamboð (broyt lag við teksti)"
 
 msgid "That variable name is already in use"
-msgstr ""
+msgstr "Navni á brigdlinum er longu brúkt"
 
 msgid "that way"
-msgstr ""
+msgstr "handan vegin"
 
 msgid "The file name already exists. Overwrite existing file?"
-msgstr ""
+msgstr "Navnið á fíluni finst longu. Ynskri tú at skriva oman á fíluna?"
 
 msgid "thing"
-msgstr ""
+msgstr "ting"
 
 msgid "this way"
-msgstr ""
+msgstr "hendan vegin"
 
 msgid "tilt"
-msgstr ""
+msgstr "hella"
 
 msgid "true"
 msgstr "satt"
 
 msgid "Turbo speed"
-msgstr ""
+msgstr "Turboferð"
 
 msgid "turn into new sprite"
-msgstr ""
+msgstr "ger um til nýggja tekning"
 
 msgid "Undelete"
 msgstr "Angra striking"
@@ -1345,7 +1346,7 @@ msgid "up"
 msgstr "uppeftir"
 
 msgid "up arrow"
-msgstr "Pílur upp"
+msgstr "píl upp"
 
 msgid "Updating thumbnails"
 msgstr "Dagførir tummilútgávu"

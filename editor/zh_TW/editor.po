@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2014-02-24 03:31+0200\n"
+"PO-Revision-Date: 2014-10-22 06:57+0000\n"
 "Last-Translator: Chao-Hsiung <pesder@gmail.com>\n"
 "Language-Team: Chinese (traditional)  <zh-l10n@lists.linux.org.tw>\n"
 "Language: zh_TW\n"
@@ -12,15 +12,16 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Pootle 2.1.6\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1413961038.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
 
-msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
-msgstr ""
-"<b>雲端變數的</b><br>&nbsp;<br>目前只能用數字<br>不能用聊天室，會被刪除。<br>更多相關資訊<a "
-"href=\"/help/faq/#clouddata\" target=\"_blank\">請看雲端資料FAQ!</a>"
+#~ msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>雲端變數的</b><br>&nbsp;<br>目前只能用數字<br>不能用聊天室，會被刪除。<br>更多相關資訊<a "
+#~ "href=\"/help/faq/#clouddata\" target=\"_blank\">請看雲端資料FAQ!</a>"
 
 msgid "A connected"
 msgstr "A 已連接"
@@ -29,13 +30,13 @@ msgid "a copy of the project file on your computer."
 msgstr "已經有專案的副本在你的電腦上"
 
 msgid "About"
-msgstr ""
+msgstr "關於"
 
 msgid "About LEGO WeDo extension..."
-msgstr ""
+msgstr "關於 LEGO WeDo 擴充功能…"
 
 msgid "About PicoBoard extension..."
-msgstr ""
+msgstr "關於 PicoBoard 擴充功能…"
 
 msgid "abs"
 msgstr "絕對值"
@@ -47,7 +48,7 @@ msgid "acos"
 msgstr "acos"
 
 msgid "Add an Extension"
-msgstr ""
+msgstr "加入擴充功能"
 
 msgid "Add boolean input:"
 msgstr "新增布林輸入"
@@ -56,7 +57,7 @@ msgid "add comment"
 msgstr "新增評論"
 
 msgid "Add label text:"
-msgstr "新增標籤文字"
+msgstr "增加文字標籤"
 
 msgid "Add number input:"
 msgstr "新增數字輸入"
@@ -71,10 +72,10 @@ msgid "all"
 msgstr "所有的"
 
 msgid "all around"
-msgstr "周圍所有的"
+msgstr "各地"
 
 msgid "all motors"
-msgstr ""
+msgstr "所有馬達"
 
 msgid "Animal"
 msgstr "動物"
@@ -134,7 +135,7 @@ msgid "Bassoon"
 msgstr "低音管"
 
 msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
-msgstr "因為您有了新的 Scratch 帳號，任何對雲端資料的變更都尚未儲存。請保持登入網站，您很快就會能使用雲端資料！"
+msgstr "因為您有了新的 Scratch 帳號，任何雲端資料的變更尚未儲存。請持續留在網站上，您很快就能夠使用雲端資料！"
 
 msgid "Bitmap"
 msgstr "點矩陣圖"
@@ -212,7 +213,7 @@ msgid "Choose costume from library"
 msgstr "從造型庫中選擇裝扮"
 
 msgid "Choose sound from library"
-msgstr "從音效庫中選擇聲音"
+msgstr "選擇聲音"
 
 msgid "Choose sprite from library"
 msgstr "從角色倉庫中選擇裝扮"
@@ -238,8 +239,8 @@ msgstr "清除"
 msgid "clear senders/receivers"
 msgstr "清除發送者/接收者"
 
-msgid "Click "Save now" to try again or "Download" to save"
-msgstr "點選\"立即儲存\"以重試或\"下載\"以儲存"
+#~ msgid "Click "Save now" to try again or "Download" to save"
+#~ msgstr "點選\"立即儲存\"以重試或\"下載\"以儲存"
 
 msgid "Close"
 msgstr "結束"
@@ -266,7 +267,7 @@ msgid "Connecting to Cloud data server..."
 msgstr "連接雲端資料伺服器之中...."
 
 msgid "Convert to bitmap"
-msgstr "轉換成點陣圖檔"
+msgstr "轉換成點陣圖"
 
 msgid "Convert to vector"
 msgstr "轉換成向量圖"
@@ -284,7 +285,7 @@ msgid "cos"
 msgstr "cos"
 
 msgid "Costume"
-msgstr "服裝造型"
+msgstr "造型"
 
 msgid "costume #"
 msgstr "造型編號"
@@ -393,7 +394,7 @@ msgid "Electric Guitar"
 msgstr "電吉他"
 
 msgid "Electric Piano"
-msgstr "電鋼琴"
+msgstr "電子琴"
 
 msgid "Electronic"
 msgstr "電子"
@@ -402,7 +403,7 @@ msgid "Ellipse"
 msgstr "橢圓"
 
 msgid "Erase"
-msgstr "擦除"
+msgstr "消除"
 
 # 92%
 msgid "Eraser width"
@@ -412,16 +413,16 @@ msgid "Error!"
 msgstr "錯誤！"
 
 msgid "everything"
-msgstr ""
+msgstr "每件東西"
 
 msgid "export"
 msgstr "匯出"
 
 msgid "Extension Library"
-msgstr ""
+msgstr "擴充功能庫"
 
 msgid "Extension Problem"
-msgstr ""
+msgstr "擴展問題"
 
 msgid "fade in"
 msgstr "淡入"
@@ -493,7 +494,7 @@ msgid "Hand Clap"
 msgstr "拍掌"
 
 msgid "Hardware"
-msgstr ""
+msgstr "硬體"
 
 msgid "hide"
 msgstr "隱藏"
@@ -527,7 +528,7 @@ msgid "Instruments"
 msgstr "樂器"
 
 msgid "large readout"
-msgstr ""
+msgstr "大型顯示"
 
 msgid "last"
 msgstr "最後的"
@@ -542,24 +543,23 @@ msgid "left-right"
 msgstr "左-右"
 
 msgid "LEGO WeDo"
-msgstr ""
+msgstr "LEGO WeDo"
 
 msgid "length"
 msgstr "長度"
 
 msgid "Library"
-msgstr "庫房"
+msgstr "庫"
 
 msgid "light"
 msgstr "光線"
 
 # 83%
-#, fuzzy
 msgid "lights"
 msgstr "光線"
 
 msgid "limit reached"
-msgstr "抵達上(下)限"
+msgstr "抵達限制"
 
 msgid "Line"
 msgstr "線"
@@ -576,7 +576,7 @@ msgid "List name"
 msgstr "列表名稱"
 
 msgid "ln"
-msgstr "ln"
+msgstr "在"
 
 msgid "Loading project..."
 msgstr "專案載入中..."
@@ -594,7 +594,7 @@ msgid "Low C"
 msgstr "低音 C"
 
 msgid "Make a Block"
-msgstr "新增積木指令"
+msgstr "做一個區塊"
 
 msgid "Make a List"
 msgstr "做一個清單"
@@ -639,13 +639,13 @@ msgid "motion"
 msgstr "動作"
 
 msgid "motor"
-msgstr ""
+msgstr "馬達"
 
 msgid "motor A"
-msgstr ""
+msgstr "馬達 A"
 
 msgid "motor B"
-msgstr ""
+msgstr "馬達 B"
 
 msgid "mouse-pointer"
 msgstr "滑鼠游標"
@@ -660,7 +660,7 @@ msgid "Music Box"
 msgstr "音樂盒"
 
 msgid "Music Loops"
-msgstr "音樂迴圈"
+msgstr "音樂循環"
 
 msgid "My Stuff"
 msgstr "我的東西"
@@ -696,7 +696,7 @@ msgid "New name"
 msgstr "新名字："
 
 msgid "New sound:"
-msgstr "新聲音："
+msgstr "新增聲音："
 
 msgid "New sprite from camera"
 msgstr "從相機擷取新角色"
@@ -708,16 +708,16 @@ msgid "New Variable"
 msgstr "新變數"
 
 msgid "No motion blocks"
-msgstr "本區無動作積木"
+msgstr "隱藏動作區塊"
 
 msgid "normal readout"
-msgstr ""
+msgstr "一般顯示"
 
 msgid "not ="
-msgstr ""
+msgstr "不等於"
 
 msgid "Not saved; network or server problem."
-msgstr "沒有儲存；網路或伺服器有問題"
+msgstr "沒有儲存，網路或伺服器出現問題"
 
 msgid "Not saved; project did not load."
 msgstr "尚未儲存；專案尚未載入。"
@@ -838,7 +838,7 @@ msgid "Remixing..."
 msgstr "混合中..."
 
 msgid "Remove extension blocks"
-msgstr ""
+msgstr "移除擴充功能區塊"
 
 msgid "Rename"
 msgstr "重新命名"
@@ -925,7 +925,7 @@ msgid "See project page"
 msgstr "檢視專案頁面"
 
 msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
-msgstr ""
+msgstr "查閱密訣視窗 (在右側) 以安裝外掛程式並讓擴充功能生效。"
 
 msgid "Select"
 msgstr "選擇"
@@ -1299,3 +1299,14 @@ msgstr "線條寬度"
 
 #~ msgid "Short Guiro"
 #~ msgstr "短梗笛"
+
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+"For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>雲端變數的</b><br>&nbsp;<br>目前只能用數字<br>不能用聊天室，會被刪除。<br>更多相關資訊<a href=\""
+"/help/faq/#clouddata\" target=\"_blank\">請看雲端資料FAQ!</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "點選\"立即儲存\"以重試或\"下載\"以儲存"

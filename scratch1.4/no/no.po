@@ -3,20 +3,20 @@ msgstr ""
 "Project-Id-Version: Scratch\n"
 "Report-Msgid-Bugs-To: Evelyn Eastmond <evelyn@media.mit.edu>\n"
 "POT-Creation-Date: 2008-03-13\n"
-"PO-Revision-Date: 2009-06-07 14:12-0400\n"
-"Last-Translator: Torbjorn Skauli <torbjorn.skauli@ffi.no>\n"
+"PO-Revision-Date: 2013-01-06 12:07+0000\n"
+"Last-Translator: Torbjorn <torbjorn.skauli@ffi.no>\n"
 "Language-Team: \n"
 "Language: no\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 1.2.0\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1357474069.000000\n"
 
 ############################################
 # FORMATTING
 ############################################
-
 # Language name as you'd like it to appear in the Languages menu
 # (Required)
 msgid "Language-Name"
@@ -30,30 +30,34 @@ msgstr "LTR"
 
 # Scale to apply to font size (2 for twice as large)
 # Use this if the font is too small for legibility on the Scratch interface
+# 
 msgid "Font-Scale"
-msgstr ""
+msgstr "1"
 
 # Set to 'true' or 'false'
 # Use this if you do not want any of the text to be bolded, for legibility
+# 
 msgid "Suppress-Bold"
-msgstr ""
+msgstr "false"
 
 # Font to use on a Windows system
+# 
 msgid "Win-Font"
 msgstr ""
 
 # Font to use on a Mac system
+# 
 msgid "Mac-Font"
 msgstr ""
 
 # Font to use on a Linux system
+# 
 msgid "Linux-Font"
 msgstr ""
 
 ############################################
 # BLOCKS
 ############################################
-
 msgid "%H sensor value"
 msgstr "%H sensorverdi"
 
@@ -441,7 +445,6 @@ msgstr "y-posisjon"
 ############################################
 # USER INTERFACE
 ############################################
-
 msgid "(empty)"
 msgstr "(tom)"
 
@@ -975,7 +978,7 @@ msgid "New costume:"
 msgstr "Ny drakt:"
 
 msgid "New file name?"
-msgstr ""
+msgstr "Navn på ny fil?"
 
 msgid "New Filename:"
 msgstr "Nytt filnavn:"
@@ -1307,6 +1310,7 @@ msgid "Story"
 msgstr "Fortelling"
 
 # Må sjekke om dette blir riktig i sammenhengen
+# 
 #, fuzzy
 msgid "Support Site"
 msgstr "Brukerstøtte"
@@ -1419,7 +1423,6 @@ msgstr "Zoom ut"
 ############################################
 # MIDI INSTRUMENTS
 ############################################
-
 msgid "Accordion"
 msgstr "Trekkspill"
 
@@ -1944,4 +1947,3 @@ msgstr "Trekloss"
 
 msgid "Xylophone"
 msgstr "Xylofon"
-

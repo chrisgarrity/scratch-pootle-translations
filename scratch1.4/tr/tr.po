@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Scratch\n"
 "Report-Msgid-Bugs-To: Evelyn Eastmond <evelyn@media.mit.edu>\n"
 "POT-Creation-Date: 2008-01-03 20:45+0200\n"
-"PO-Revision-Date: 2013-03-10 22:47+0200\n"
+"PO-Revision-Date: 2014-09-09 01:35+0000\n"
 "Last-Translator: Suha <suhaaktan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tr\n"
@@ -11,7 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Pootle 2.1.6\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1410226550.000000\n"
 
 ############################################
 # FORMATTING
@@ -935,9 +936,8 @@ msgstr "farenin y'si:"
 msgid "mouse-pointer"
 msgstr "farenin oku"
 
-#, fuzzy
 msgid "Move"
-msgstr "Hareket"
+msgstr "İlerle"
 
 msgid "Music"
 msgstr "Müzik"

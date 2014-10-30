@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2014-06-23 22:04+0200\n"
+"PO-Revision-Date: 2014-10-18 10:29+0000\n"
 "Last-Translator: Manuel <mcaeiror@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: gl\n"
@@ -11,23 +11,24 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.1.6\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1413628146.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
 
-msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Información sobre variables da nube</b><br>&nbsp;<br>Agora, só se poden "
-"utilizar números<br>Non se permiten as salas de chat e serán "
-"eliminadas<br>Para máis información, <a href=\"/help/faq/#clouddata\" "
-"target=\"_blank\">revisa as preguntas sobre información da nube!</a>"
+#~ msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Información sobre variables da nube</b><br>&nbsp;<br>Agora, só se poden "
+#~ "utilizar números<br>Non se permiten as salas de chat e serán "
+#~ "eliminadas<br>Para máis información, <a href=\"/help/faq/#clouddata\" "
+#~ "target=\"_blank\">revisa as preguntas sobre información da nube!</a>"
 
 msgid "A connected"
 msgstr "A conectado"
 
 msgid "a copy of the project file on your computer."
-msgstr "unha copia do arquivo do proxecto no teu ordenador."
+msgstr "unha copia do ficheiro do proxecto no teu ordenador."
 
 msgid "About"
 msgstr "Acerca de"
@@ -213,13 +214,13 @@ msgid "Choose backdrop from library"
 msgstr "Elexir un fondo da biblioteca"
 
 msgid "Choose costume from library"
-msgstr "Elexir un disfrace da biblioteca"
+msgstr "Elexir unha vestimenta da biblioteca"
 
 msgid "Choose sound from library"
 msgstr "Elexir un son da biblioteca"
 
 msgid "Choose sprite from library"
-msgstr "Elexir un obxecto da biblioteca"
+msgstr "Elexir unha figura da biblioteca"
 
 msgid "Circle"
 msgstr "Círculo"
@@ -242,8 +243,8 @@ msgstr "Limpar"
 msgid "clear senders/receivers"
 msgstr "limpar emisores/receptores"
 
-msgid "Click "Save now" to try again or "Download" to save"
-msgstr "Preme  para intentar de novo ou en  para gardar"
+#~ msgid "Click "Save now" to try again or "Download" to save"
+#~ msgstr "Preme  para intentar de novo ou en  para gardar"
 
 msgid "Close"
 msgstr "Pechar"
@@ -288,31 +289,31 @@ msgid "cos"
 msgstr "coseno"
 
 msgid "Costume"
-msgstr "Disfrace"
+msgstr "Vestimenta"
 
 msgid "costume #"
-msgstr "disfrace #"
+msgstr "vestimenta #"
 
 msgid "Costume Library"
-msgstr "Biblioteca de disfraces"
+msgstr "Biblioteca de vestimentas"
 
 msgid "costume name"
-msgstr "nome do disfrace"
+msgstr "nome da vestimenta"
 
 msgid "costume1"
-msgstr "disfrace1"
+msgstr "vestimenta1"
 
 msgid "costume2"
-msgstr "disfrace2"
+msgstr "vestimenta2"
 
 msgid "Costumes"
-msgstr "Disfraces"
+msgstr "Vestimentas"
 
 msgid "Costumes > 1"
-msgstr "Disfraces > 1"
+msgstr "Vestimentas > 1"
 
 msgid "Costumes:"
-msgstr "Disfraces:"
+msgstr "Vestimentas:"
 
 msgid "Cowbell"
 msgstr "Cencerro"
@@ -438,7 +439,7 @@ msgid "Features"
 msgstr "Características"
 
 msgid "File"
-msgstr "Arquivo"
+msgstr "Ficheiro"
 
 msgid "Fill with color"
 msgstr "Encher con cor"
@@ -465,10 +466,10 @@ msgid "Font:"
 msgstr "Fonte:"
 
 msgid "For all sprites"
-msgstr "Para todos os obxectos"
+msgstr "Para todos as figuras"
 
 msgid "For this sprite only"
-msgstr "Só para éste obxecto"
+msgstr "Só para esta figura"
 
 msgid "Forward a layer"
 msgstr "Una capa cara adiante"
@@ -681,10 +682,10 @@ msgid "New backdrop:"
 msgstr "Novo fondo:"
 
 msgid "New costume from camera"
-msgstr "Novo disfrace dende a cámara"
+msgstr "Nova vestimenta dende a cámara"
 
 msgid "New costume:"
-msgstr "Novo disfrace:"
+msgstr "Nova vestimenta:"
 
 msgid "New List"
 msgstr "Nova lista"
@@ -699,10 +700,10 @@ msgid "New sound:"
 msgstr "Novo son:"
 
 msgid "New sprite from camera"
-msgstr "Novo obxecto dende a cámara"
+msgstr "Nova figura dende a cámara"
 
 msgid "New sprite:"
-msgstr "Novo obxecto:"
+msgstr "Nova figura:"
 
 msgid "New Variable"
 msgstr "Nova Variable"
@@ -756,7 +757,7 @@ msgid "Other"
 msgstr "Outro"
 
 msgid "other scripts in sprite"
-msgstr "outros programas no obxecto"
+msgstr "outros programas na figura"
 
 msgid "Outdoors"
 msgstr "Exteriores"
@@ -765,10 +766,10 @@ msgid "Paint new backdrop"
 msgstr "Debuxar novo fondo"
 
 msgid "Paint new costume"
-msgstr "Debuxar novo disfrace"
+msgstr "Debuxar nova vestimenta"
 
 msgid "Paint new sprite"
-msgstr "Debuxar novo obxecto"
+msgstr "Debuxar nova figura"
 
 msgid "paste"
 msgstr "pegar"
@@ -894,7 +895,7 @@ msgid "Save now"
 msgstr "Gargar agora"
 
 msgid "save to local file"
-msgstr "gardar a un arquivo local"
+msgstr "gardar a un ficheiro local"
 
 msgid "Saved"
 msgstr "Gardado"
@@ -941,10 +942,10 @@ msgid "Send to back"
 msgstr "Enviar ao fondo"
 
 msgid "Set costume center"
-msgstr "Fixar o centro do disfrace"
+msgstr "Fixar o centro da vestimenta"
 
 msgid "Set Costume Center"
-msgstr "Fixar o Centro do Disfrace"
+msgstr "Fixar o Centro da vestimenta"
 
 msgid "set slider min and max"
 msgstr "fixar o máximo e mínimo da barra de desprazamento"
@@ -1034,16 +1035,16 @@ msgid "Sports"
 msgstr "Deportes"
 
 msgid "Sprite"
-msgstr "Obxecto"
+msgstr "Figura"
 
 msgid "Sprite Library"
-msgstr "Biblioteca de obxectos"
+msgstr "Biblioteca de figura"
 
 msgid "Sprite1"
-msgstr "Obxecto1"
+msgstr "Figura1"
 
 msgid "Sprites"
-msgstr "Obxectos"
+msgstr "Figurass"
 
 msgid "sqrt"
 msgstr "raíz cadrada"
@@ -1102,7 +1103,7 @@ msgid "this script"
 msgstr "este programa"
 
 msgid "this sprite"
-msgstr "este obxecto"
+msgstr "esta figura"
 
 msgid "this way"
 msgstr "por aquí"
@@ -1167,19 +1168,19 @@ msgid "up arrow"
 msgstr "frecha arriba"
 
 msgid "Upload backdrop from file"
-msgstr "Cargar fondo desde arquivo"
+msgstr "Cargar fondo desde ficheiro"
 
 msgid "Upload costume from file"
-msgstr "Cargar disfrace desde arquivo"
+msgstr "Cargar vestimenta desde ficheiro"
 
 msgid "Upload from your computer"
 msgstr "Cargar dende o teu ordenador"
 
 msgid "Upload sound from file"
-msgstr "Cargar son desde arquivo"
+msgstr "Cargar son desde ficheiro"
 
 msgid "Upload sprite from file"
-msgstr "Cargar obxecto desde arquivo"
+msgstr "Cargar figura desde ficheiro"
 
 msgid "Uploading image..."
 msgstr "Cargando imaxe..."
@@ -1188,7 +1189,7 @@ msgid "Uploading sound..."
 msgstr "Cargando son..."
 
 msgid "Uploading sprite..."
-msgstr "Cargando obxecto..."
+msgstr "Cargando figura..."
 
 msgid "variable"
 msgstr "variable"
@@ -1257,3 +1258,16 @@ msgstr "Groso da goma:"
 
 msgid "Line width:"
 msgstr "Groso da liña:"
+
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+"For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Información sobre variables da nube</b><br>&nbsp;<br>Agora, só se poden "
+"utilizar números<br>Non se permiten as salas de chat e serán eliminadas<br>"
+"Para máis información, <a href=\"/help/faq/#clouddata\" target=\"_blank\">"
+"revisa as preguntas sobre información da nube!</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "Preme  para intentar de novo ou en  para gardar"

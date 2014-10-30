@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: Scratch\n"
 "Report-Msgid-Bugs-To: Evelyn Eastmond <evelyn@media.mit.edu>\n"
 "POT-Creation-Date: 2007-12-06\n"
-"PO-Revision-Date: 2010-12-06 15:47-0400\n"
-"Last-Translator: Кирилл Пименов <kirushik@gmail.com>\n"
+"PO-Revision-Date: 2014-10-26 19:15+0000\n"
+"Last-Translator: Андрей <aabuchba@mail.ru>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -12,12 +12,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Pootle 1.2.1\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1414350900.000000\n"
 
 ############################################
 # FORMATTING
 ############################################
-
 # Language name as you'd like it to appear in the Languages menu
 # (Required)
 msgid "Language-Name"
@@ -55,7 +55,6 @@ msgstr "Mona"
 ############################################
 # BLOCKS
 ############################################
-
 msgid "%H sensor value"
 msgstr "%H значение сенсора"
 
@@ -156,16 +155,16 @@ msgid "forever"
 msgstr "всегда"
 
 msgid "forever if %b"
-msgstr "всегда, если  %b"
+msgstr "всегда, если %b"
 
 msgid "glide %n secs to x:%n y:%n"
 msgstr "плыть %n секунд в точку x:%n y:%n"
 
 msgid "go back %n layers"
-msgstr "перейти назад на  %n слоев"
+msgstr "перейти назад на %n слоев"
 
 msgid "go to %m"
-msgstr "идти в  %m"
+msgstr "идти в %m"
 
 msgid "go to front"
 msgstr "перейти в верхний слой"
@@ -192,10 +191,10 @@ msgid "item %i of %L"
 msgstr "элемент %i из %L"
 
 msgid "join %s %s"
-msgstr "слить  %s %s"
+msgstr "слить %s %s"
 
 msgid "key %k pressed?"
-msgstr "кнопка %s нажата?"
+msgstr "кнопка %k нажата?"
 
 msgid "length of %L"
 msgstr "длина списка %L"
@@ -393,7 +392,7 @@ msgid "think %s"
 msgstr "думать %s"
 
 msgid "think %s for %n secs"
-msgstr "думать %s  %n секунд"
+msgstr "думать %s %n секунд"
 
 msgid "timer"
 msgstr "таймер"
@@ -437,7 +436,6 @@ msgstr "положение y"
 ############################################
 # USER INTERFACE
 ############################################
-
 msgid "(empty)"
 msgstr "(пусто)"
 
@@ -448,7 +446,7 @@ msgid "About Scratch"
 msgstr "О языке Скретч"
 
 msgid "About this project:"
-msgstr "Про этот проект"
+msgstr "Про этот проект:"
 
 msgid "abs"
 msgstr "модуль"
@@ -487,7 +485,7 @@ msgid "brightness"
 msgstr "яркость"
 
 msgid "Brush size: "
-msgstr "Размер кисти:"
+msgstr "Размер кисти: "
 
 msgid "button"
 msgstr "кнопка"
@@ -556,7 +554,7 @@ msgid "connected"
 msgstr "связь установлена"
 
 msgid "Connecting to "
-msgstr "Связываемся с"
+msgstr "Связываемся с "
 
 msgid "Copy"
 msgstr "Копировать"
@@ -622,7 +620,7 @@ msgid "distance"
 msgstr "расстояние"
 
 msgid "Documents"
-msgstr "Мои Документы"
+msgstr "Мои документы"
 
 msgid "don't rotate"
 msgstr "не поворачивать"
@@ -652,7 +650,7 @@ msgid "duplicate"
 msgstr "дублировать"
 
 msgid "Duplicate"
-msgstr "дублировать"
+msgstr "Дублировать"
 
 msgid "edge"
 msgstr "край"
@@ -790,7 +788,7 @@ msgid "Grow sprite"
 msgstr "Увеличить спрайт"
 
 msgid "hello "
-msgstr "привет"
+msgstr "привет "
 
 msgid "Hello!"
 msgstr "Привет!"
@@ -814,7 +812,7 @@ msgid "High (biggest)"
 msgstr "Наибольшее"
 
 msgid "Hmm..."
-msgstr "Ммм.."
+msgstr "Ммм..."
 
 msgid "Home"
 msgstr "Главная"
@@ -860,7 +858,7 @@ msgid "Is the folder read-only?"
 msgstr "Эта папка только для чтения?"
 
 msgid "JPEG Quality (10-100)?"
-msgstr "Качество JPEG (10-100)"
+msgstr "Качество JPEG (10-100)?"
 
 msgid "kbytes"
 msgstr "килобайт"
@@ -887,7 +885,7 @@ msgid "light"
 msgstr "свет"
 
 msgid "Line tool (draw lines)"
-msgstr "Линия"
+msgstr "Линия (рисует линии)"
 
 msgid "List name?"
 msgstr "Имя для списка?"
@@ -923,7 +921,7 @@ msgid "more"
 msgstr "больше"
 
 msgid "More tags:"
-msgstr "Другие метки"
+msgstr "Другие метки:"
 
 msgid "mosaic"
 msgstr "мозаика"
@@ -956,13 +954,13 @@ msgid "New background:"
 msgstr "Новый фон:"
 
 msgid "New costume:"
-msgstr "Новый костюм"
+msgstr "Новый костюм:"
 
 msgid "New file name?"
 msgstr "Новое имя файла?"
 
 msgid "New Filename:"
-msgstr "Новое имя файла: "
+msgstr "Новое имя файла:"
 
 msgid "New sound:"
 msgstr "Новый звук:"
@@ -971,13 +969,13 @@ msgid "New Sprite"
 msgstr "Новый объект"
 
 msgid "New sprite:"
-msgstr "Новый объект"
+msgstr "Новый объект:"
 
 msgid "No"
 msgstr "Нет"
 
 msgid "No MIDI ports currently available."
-msgstr "Миди порты не доступны"
+msgstr "MIDI порты не доступны."
 
 msgid "No motion blocks"
 msgstr "Нет блоков движения"
@@ -989,7 +987,7 @@ msgid "No serial ports found"
 msgstr "Не обнаружены порты"
 
 msgid "No variables."
-msgstr "Нет переменных"
+msgstr "Нет переменных."
 
 msgid "Normal"
 msgstr "Нормально"
@@ -1001,7 +999,7 @@ msgid "Off"
 msgstr "Выключить"
 
 msgid "OK"
-msgstr "ОК"
+msgstr "OK"
 
 msgid "On"
 msgstr "Включить"
@@ -1010,7 +1008,7 @@ msgid "only face left-right"
 msgstr "только поворот влево-вправо"
 
 msgid "Open"
-msgstr "открыть"
+msgstr "Открыть"
 
 msgid "Open a Scratch project"
 msgstr "Открыть проект скретча"
@@ -1058,22 +1056,22 @@ msgid "Position the cross-hair to set the rotation center"
 msgstr "Установить центр вращения"
 
 msgid "Preparing project..."
-msgstr "Подготовка проекта ..."
+msgstr "Подготовка проекта..."
 
 msgid "Project author:"
 msgstr "Автор проекта:"
 
 msgid "Project name"
-msgstr "название проекта"
+msgstr "Название проекта"
 
 msgid "Project Notes"
-msgstr "описание проекта"
+msgstr "Описание проекта"
 
 msgid "Project notes"
-msgstr "описание проекта"
+msgstr "Описание проекта"
 
 msgid "Project uploaded."
-msgstr "Проект загружен"
+msgstr "Проект загружен."
 
 msgid "Projects"
 msgstr "Проекты"
@@ -1091,13 +1089,13 @@ msgid "record"
 msgstr "записать"
 
 msgid "Record"
-msgstr "записать"
+msgstr "Записать"
 
 msgid "recording"
 msgstr "запись"
 
 msgid "Rectangle tool (draw outlined or filled rectangle or square)"
-msgstr "Поворот"
+msgstr "Прямоугольник (контурный или закрашенный прямоугольник или квадрат)"
 
 msgid "Redo"
 msgstr "Отмена"
@@ -1136,10 +1134,10 @@ msgid "rotate this sprite"
 msgstr "повернуть объект"
 
 msgid "Rotation degrees?"
-msgstr "Угол поворота"
+msgstr "Угол поворота?"
 
 msgid "Save"
-msgstr "сохранить"
+msgstr "Сохранить"
 
 msgid "Save a copy of the current project"
 msgstr "Сохранить копию текущего проекта"
@@ -1148,13 +1146,13 @@ msgid "Save As"
 msgstr "Сохранить как"
 
 msgid "Save changes before quitting?"
-msgstr "Сохранить изменения перед завершением"
+msgstr "Сохранить изменения перед завершением?"
 
 msgid "Save failed"
 msgstr "Запись не удалась"
 
 msgid "save picture of scripts"
-msgstr "Сохранить изображение скрипта"
+msgstr "сохранить изображение скрипта"
 
 msgid "save picture of stage..."
 msgstr "сохранить рисунок этапа..."
@@ -1178,10 +1176,10 @@ msgid "Save this project"
 msgstr "Сохранить это проект"
 
 msgid "Scripts"
-msgstr "скрипты"
+msgstr "Скрипты"
 
 msgid "select serial/USB port"
-msgstr "Выбрать серийный/usb порт"
+msgstr "выбрать последовательный/usb порт"
 
 msgid "Select tool (move, modify, or delete selection)"
 msgstr "Выбор (переместить, изменить, удалить выбранное)"
@@ -1196,7 +1194,7 @@ msgid "Set rotation center"
 msgstr "Установить центр вращения"
 
 msgid "Set Single Stepping"
-msgstr "установить единичный шаг"
+msgstr "Установить единичный шаг"
 
 msgid "set slider min and max"
 msgstr "установить максимум и минимум рычажка"
@@ -1214,7 +1212,7 @@ msgid "Show Motor Blocks"
 msgstr "Показать блоки мотора"
 
 msgid "show ScratchBoard watcher"
-msgstr "показать данные ScratchBoard "
+msgstr "показать данные ScratchBoard"
 
 msgid "Shrink"
 msgstr "Сжать"
@@ -1226,10 +1224,10 @@ msgid "Simulation"
 msgstr "Моделирование"
 
 msgid "Single-step speed?"
-msgstr "скорость шага"
+msgstr "Скорость шага?"
 
 msgid "slider"
-msgstr "Рычажок"
+msgstr "рычажок"
 
 msgid "Slider range:"
 msgstr "Размер рычажка:"
@@ -1241,7 +1239,7 @@ msgid "Sound Recorder"
 msgstr "Запись звука"
 
 msgid "Sounds"
-msgstr "звуки"
+msgstr "Звуки"
 
 msgid "Sounds compressed"
 msgstr "Звуки сжаты"
@@ -1268,19 +1266,19 @@ msgid "Stamp tool (select area, then stamp copies of it)"
 msgstr "Печать (выберите область и отпечатайте копии)"
 
 msgid "Start green flag scripts"
-msgstr "зеленый флаг запуска скрипта"
+msgstr "Зеленый флаг запуска скрипта"
 
 msgid "Start Single Stepping"
-msgstr "начать пошаговое выполнение"
+msgstr "Начать пошаговое выполнение"
 
 msgid "stop"
 msgstr "стоп"
 
 msgid "Stop everything"
-msgstr "остановить всё"
+msgstr "Остановить всё"
 
 msgid "Stop Single Stepping"
-msgstr "остановить шаг"
+msgstr "Остановить пошаговое выполнекние"
 
 msgid "Story"
 msgstr "Рассказ"
@@ -1337,7 +1335,7 @@ msgid "Undelete"
 msgstr "Отменить удаление"
 
 msgid "Undo"
-msgstr "отмена"
+msgstr "Отмена"
 
 msgid "up"
 msgstr "вверх"
@@ -1373,10 +1371,10 @@ msgid "world"
 msgstr "мир"
 
 msgid "Write Multiple Project Summaries"
-msgstr "записать описание нескольких проектов"
+msgstr "Записать описание нескольких проектов"
 
 msgid "Write Project Summary"
-msgstr "записать содержание проекта"
+msgstr "Записать содержание проекта"
 
 msgid "Yes"
 msgstr "Да"
@@ -1396,7 +1394,6 @@ msgstr "Уменьшение"
 ############################################
 # MIDI INSTRUMENTS
 ############################################
-
 msgid "Accordion"
 msgstr "Акордеон"
 
@@ -1437,7 +1434,7 @@ msgid "Bassoon"
 msgstr "Фагот"
 
 msgid "Bird Tweet"
-msgstr "птичка Твити"
+msgstr "Птичка Твити"
 
 msgid "Blown Bottle"
 msgstr "Дуновение в бутылку"
@@ -1479,7 +1476,7 @@ msgid "Clavinet"
 msgstr "Клавинет"
 
 msgid "Closed Hi-Hat"
-msgstr "Closed Hi-Hat"
+msgstr "Закрытый хай-хэт"
 
 msgid "Contrabass"
 msgstr "Контрабас"
@@ -1521,7 +1518,7 @@ msgid "Electric Muted Guitar"
 msgstr "Электрическая приглушенная гитара"
 
 msgid "Electric Piano 1"
-msgstr "Электрическое пианино"
+msgstr "Электрическое пианино 1"
 
 msgid "Electric Piano 2"
 msgstr "Электрическое пианино 2"
@@ -1536,25 +1533,25 @@ msgid "FX 1 (rain)"
 msgstr "FX 1 (дождь)"
 
 msgid "FX 2 (soundtrack)"
-msgstr "спецэффект 2 (саундтрек)"
+msgstr "Спецэффект 2 (саундтрек)"
 
 msgid "FX 3 (crystal)"
-msgstr "спецэффект 3 (кристал)"
+msgstr "Спецэффект 3 (кристалл)"
 
 msgid "FX 4 (atmosphere)"
-msgstr "спецэффект 4 (атомосфера)"
+msgstr "Спецэффект 4 (атмосфера)"
 
 msgid "FX 5 (brightness)"
-msgstr "спецэффект 5 (блеск)"
+msgstr "Спецэффект 5 (блеск)"
 
 msgid "FX 6 (goblins)"
-msgstr "спецэффект 6 (гоблины)"
+msgstr "Спецэффект 6 (гоблины)"
 
 msgid "FX 7 (echoes)"
-msgstr "спецэффект 7 (эхо)"
+msgstr "Спецэффект 7 (эхо)"
 
 msgid "FX 8 (sci-fi)"
-msgstr "спецэффект 8 (научная фантастика)"
+msgstr "Спецэффект 8 (научная фантастика)"
 
 msgid "Fiddle"
 msgstr "Уличная скрипка"
@@ -1566,10 +1563,10 @@ msgid "French Horn"
 msgstr "Французский рожок"
 
 msgid "Fretless Bass"
-msgstr "Безладовая бас-гитара "
+msgstr "Безладовая бас-гитара"
 
 msgid "Glockenspiel"
-msgstr "Колокольчики "
+msgstr "Колокольчики"
 
 msgid "Guitar Fret Noise"
 msgstr "Шум гитарных ладов"
@@ -1650,7 +1647,7 @@ msgid "Long Guiro"
 msgstr "Длинное гуиро"
 
 msgid "Long Whistle"
-msgstr "Длинный свисток "
+msgstr "Длинный свисток"
 
 msgid "Low Agogo"
 msgstr "Низкий агого"
@@ -1659,7 +1656,7 @@ msgid "Low Bongo"
 msgstr "Низкий бонго"
 
 msgid "Low Conga"
-msgstr "Низкая конга "
+msgstr "Низкая конга"
 
 msgid "Low Floor Tom"
 msgstr "Низкий напольный томтом"
@@ -1707,7 +1704,7 @@ msgid "Oboe"
 msgstr "Гобой"
 
 msgid "Ocarina"
-msgstr "Окарина "
+msgstr "Окарина"
 
 msgid "Open Cuica"
 msgstr "Открытая куика"
@@ -1716,10 +1713,10 @@ msgid "Open Hi Conga"
 msgstr "Открытая конга"
 
 msgid "Open Hi-Hat"
-msgstr "Open Hi-Hat"
+msgstr "Открытый хай-хэт"
 
 msgid "Open Triangle"
-msgstr "Открытый треугольник "
+msgstr "Открытый треугольник"
 
 msgid "Orchestra Hit"
 msgstr "Оркестровый акцент"
@@ -1731,13 +1728,13 @@ msgid "Overdriven Guitar"
 msgstr "Гитара с перемодуляцией"
 
 msgid "Pad 1 (new age)"
-msgstr "Синтезаторный звук (нью-эйдж)"
+msgstr "Синтезаторный звук 1 (нью-эйдж)"
 
 msgid "Pad 2 (warm)"
-msgstr "Синтезаторный звук 2  (Теплый)"
+msgstr "Синтезаторный звук 2 (теплый)"
 
 msgid "Pad 3 (polysynth)"
-msgstr "Синтезаторный звук 3 (Полисинтезатор)"
+msgstr "Синтезаторный звук 3 (полисинтезатор)"
 
 msgid "Pad 4 (choir)"
 msgstr "Синтезаторный звук 4 (хоровой)"
@@ -1752,13 +1749,13 @@ msgid "Pad 7 (halo)"
 msgstr "Синтезаторный звук 7 (ореол)"
 
 msgid "Pad 8 (sweep)"
-msgstr "Синтезаторный звук 8 (Качающийся звук)"
+msgstr "Синтезаторный звук 8 (качающийся звук)"
 
 msgid "Pan Flute"
 msgstr "Флейта Пана"
 
 msgid "Pedal Hi-Hat"
-msgstr "Хэт (педалью) "
+msgstr "Хэт (педалью)"
 
 msgid "Percussive Organ"
 msgstr "Орган с ударной атакой"
@@ -1818,7 +1815,7 @@ msgid "Slap Bass 1"
 msgstr "Слэп 1"
 
 msgid "Slap Bass 2"
-msgstr "Слэп  2"
+msgstr "Слэп бас 2"
 
 msgid "Soprano Sax"
 msgstr "Soprano Sax"
@@ -1830,13 +1827,13 @@ msgid "Steel Drums"
 msgstr "Steel Drums"
 
 msgid "Steel String Guitar"
-msgstr "Steel String Guitar"
+msgstr "Гитара со стальными струнами"
 
 msgid "String Ensemble 1"
-msgstr "Струнные  1"
+msgstr "Струнный ансамбль 1"
 
 msgid "String Ensemble 2"
-msgstr "Струнные  2"
+msgstr "Струнный ансамбль 2"
 
 msgid "Synth Bass 1"
 msgstr "Синтезаторный бас 1"
@@ -1884,7 +1881,7 @@ msgid "Tinkle Bell"
 msgstr "Звенящий колокольчик"
 
 msgid "Tremolo Strings"
-msgstr "Тремолирующие струнные "
+msgstr "Тремолирующие струнные"
 
 msgid "Trombone"
 msgstr "Тромбон"

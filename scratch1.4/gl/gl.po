@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Scratch\n"
 "Report-Msgid-Bugs-To: Evelyn Eastmond <evelyn@media.mit.edu>\n"
 "POT-Creation-Date: 2007-10-28\n"
-"PO-Revision-Date: 2014-03-04 18:13+0200\n"
+"PO-Revision-Date: 2014-10-18 10:25+0000\n"
 "Last-Translator: Manuel <mcaeiror@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: gl\n"
@@ -11,7 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.1.6\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1413627930.000000\n"
 
 ############################################
 # FORMATTING
@@ -141,7 +142,7 @@ msgid "control"
 msgstr "control"
 
 msgid "costume #"
-msgstr "disfrace #"
+msgstr "vestimenta #"
 
 msgid "delete %y of %L"
 msgstr "borrar %y de %L"
@@ -162,7 +163,7 @@ msgid "forever if %b"
 msgstr "para sempre se %b"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr "desprazar %n segundos cara a x:%n y:%n"
+msgstr "esbarar %n segundos cara a x:%n y:%n"
 
 msgid "go back %n layers"
 msgstr "enviar cara atrás %n capas"
@@ -255,7 +256,7 @@ msgid "next background"
 msgstr "seguinte fondo de pantalla"
 
 msgid "next costume"
-msgstr "seguinte disfrace"
+msgstr "seguinte vestimenta"
 
 msgid "not %b"
 msgstr "non %b"
@@ -282,10 +283,10 @@ msgid "play note %N for %n beats"
 msgstr "facer soar a nota %N durante %n pulsos"
 
 msgid "play sound %S"
-msgstr "facer soar %S"
+msgstr "reproducir son %S"
 
 msgid "play sound %S until done"
-msgstr "facer soar %S e agardar"
+msgstr "reporducir son %S ata rematar"
 
 msgid "point in direction %d"
 msgstr "apuntar cara a dirección %d"
@@ -387,7 +388,7 @@ msgid "switch to background %l"
 msgstr "mudar o fondo a %l"
 
 msgid "switch to costume %l"
-msgstr "mudar o disfrace a %l"
+msgstr "mudar a vestimenta a %l"
 
 msgid "tempo"
 msgstr "ritmo"
@@ -514,7 +515,7 @@ msgid "Choose a folder"
 msgstr "Escoller carpeta"
 
 msgid "Choose new sprite from file"
-msgstr "Escoller novo obxeto desde arquivo"
+msgstr "Escoller nova figura desde ficheiro"
 
 msgid "clean up"
 msgstr "limpar"
@@ -565,22 +566,22 @@ msgid "Copy"
 msgstr "Copiar"
 
 msgid "costume"
-msgstr "disfrace"
+msgstr "vestimenta"
 
 msgid "costumes"
-msgstr "disfraces"
+msgstr "vestimentas"
 
 msgid "Costumes"
-msgstr "Disfraces"
+msgstr "Vestimentas"
 
 msgid "Could not read"
 msgstr "Non se pode ler"
 
 msgid "Could not read project; file may be damaged"
-msgstr "Non se pode ler o proxecto; o arquivo pode estar danado"
+msgstr "Non se pode ler o proxecto; o ficheiro pode estar danado"
 
 msgid "Could not write file"
-msgstr "Non se pode escribir o arquivo"
+msgstr "Non se pode escribir o ficheiro"
 
 msgid "Create account"
 msgstr "Crear conta"
@@ -607,13 +608,13 @@ msgid "Delete this background"
 msgstr "Borrar este fondo"
 
 msgid "Delete this costume"
-msgstr "Borrar este disfrace"
+msgstr "Borrar esta vestimenta"
 
 msgid "Delete this sound"
 msgstr "Borrar este son"
 
 msgid "Delete this sprite"
-msgstr "Borrar este obxecto"
+msgstr "Borrar esta figura"
 
 msgid "Desktop"
 msgstr "Escritorio"
@@ -698,7 +699,7 @@ msgid "Export Background"
 msgstr "Exportar Fondo"
 
 msgid "Export Costume"
-msgstr "Exportar Disfrace"
+msgstr "Exportar Vestimenta"
 
 msgid "Export failed"
 msgstr "Fallo de exportación"
@@ -707,16 +708,16 @@ msgid "Export Sound"
 msgstr "Exportar Son"
 
 msgid "Export Sprite"
-msgstr "Exportar Obxecto"
+msgstr "Exportar Figura"
 
 msgid "export this costume"
-msgstr "exportar este disfrace"
+msgstr "exportar esta vestimenta"
 
 msgid "export this sound"
 msgstr "exportar este son"
 
 msgid "export this sprite"
-msgstr "exportar este obxecto"
+msgstr "exportar esta figura"
 
 msgid "Extras menu"
 msgstr "Menú de extras"
@@ -731,10 +732,10 @@ msgid "false"
 msgstr "falso"
 
 msgid "File"
-msgstr "Arquivo"
+msgstr "Ficheiro"
 
 msgid "File not found"
-msgstr "Arquivo non atopado"
+msgstr "Ficheiro non atopado"
 
 msgid "Fill tool (fill areas with color or gradient)"
 msgstr "Ferramenta de recheo (enche áreas con cor ou gradación)"
@@ -758,16 +759,16 @@ msgid "Flip vertically"
 msgstr "Xirar verticalmente"
 
 msgid "For all sprites"
-msgstr "Para todos os obxectos"
+msgstr "Para todas as figuras"
 
 msgid "For this sprite only"
-msgstr "Só para este obxecto"
+msgstr "Só para esta figura"
 
 msgid "Game"
 msgstr "Xogo"
 
 msgid "Get surprise sprite"
-msgstr "Obtén un obxecto sorpresa"
+msgstr "Obtén unha figura sorpresa"
 
 msgid "Get the last thing deleted"
 msgstr "Obtén a última cousa borrada"
@@ -782,16 +783,16 @@ msgid "Go To Scratch Website"
 msgstr "Vai ao sitio web de Scratch"
 
 msgid "grab screen region for new costume"
-msgstr "seleccionar a rexión da pantalla para un novo disfrace"
+msgstr "seleccionar a rexión da pantalla para unha nova vestimenta"
 
 msgid "grab screen region for new sprite"
-msgstr "seleccionar a rexión da pantalla para un novo obxecto"
+msgstr "seleccionar a rexión da pantalla para unha nova figura"
 
 msgid "Grow"
 msgstr "Agrandar"
 
 msgid "Grow sprite"
-msgstr "Agrandar obxecto"
+msgstr "Agrandar figura"
 
 msgid "hello "
 msgstr "ola "
@@ -839,7 +840,7 @@ msgid "Import Background"
 msgstr "Importar Fondo"
 
 msgid "Import Costume"
-msgstr "Importar Disfrace"
+msgstr "Importar Vestimenta"
 
 msgid "Import Image"
 msgstr "Importar Imaxe"
@@ -857,7 +858,7 @@ msgid "Import Sound"
 msgstr "Importar Son"
 
 msgid "Incompatible Scratch file format"
-msgstr "Formato de arquivo Scratch incompatible"
+msgstr "Formato de ficheiro Scratch incompatible"
 
 msgid "Is the folder read-only?"
 msgstr "É o cartafol só de lectura?"
@@ -959,22 +960,22 @@ msgid "New background:"
 msgstr "Novo fondo:"
 
 msgid "New costume:"
-msgstr "Novo disfrace:"
+msgstr "Nova vestimenta:"
 
 msgid "New file name?"
-msgstr "Novo nome de arquivo?"
+msgstr "Novo nome de ficheiro?"
 
 msgid "New Filename:"
-msgstr "Novo Nome de Arquivo:"
+msgstr "Novo Nome de Ficheiro:"
 
 msgid "New sound:"
 msgstr "Novo son:"
 
 msgid "New Sprite"
-msgstr "Novo Obxecto"
+msgstr "Nova Figura"
 
 msgid "New sprite:"
-msgstr "Novo obxecto:"
+msgstr "Nova figura:"
 
 msgid "No"
 msgstr "Non"
@@ -1031,7 +1032,7 @@ msgid "Paint Editor"
 msgstr "Editor de Imaxes"
 
 msgid "Paint new sprite"
-msgstr "Debuxar novo obxecto"
+msgstr "Debuxar nova figura"
 
 msgid "Paintbrush"
 msgstr "Brocha"
@@ -1120,7 +1121,7 @@ msgid "resistance"
 msgstr "resistencia"
 
 msgid "resize this sprite"
-msgstr "redimensionar este obxecto"
+msgstr "redimensionar esta figura"
 
 msgid "reverse"
 msgstr "virar"
@@ -1138,7 +1139,7 @@ msgid "Rotate counter-clock-wise"
 msgstr "Rotar no sentido contrario ás agullas do reloxio"
 
 msgid "rotate this sprite"
-msgstr "rotar este obxecto"
+msgstr "rotar esta figura"
 
 msgid "Rotation degrees?"
 msgstr "Grados de rotación?"
@@ -1192,7 +1193,7 @@ msgid "Select tool (move, modify, or delete selection)"
 msgstr "Ferramenta de selección (mover, modificar ou borrar selección)"
 
 msgid "Set costume center"
-msgstr "Fixar o centro do disfrace"
+msgstr "Fixar o centro da vestimenta"
 
 msgid "Set language"
 msgstr "Seleccionar o idioma"
@@ -1225,7 +1226,7 @@ msgid "Shrink"
 msgstr "Encoller"
 
 msgid "Shrink sprite"
-msgstr "Encoller obxecto"
+msgstr "Encoller figura"
 
 msgid "Simulation"
 msgstr "Simulación"
@@ -1255,10 +1256,10 @@ msgid "space"
 msgstr "espazo"
 
 msgid "Sprite"
-msgstr "Obxecto"
+msgstr "Figura"
 
 msgid "Sprites"
-msgstr "Obxectos"
+msgstr "Figuras"
 
 msgid "sqrt"
 msgstr "raíz cadrada"
@@ -1336,7 +1337,7 @@ msgid "Turbo speed"
 msgstr "Velocidade turbo"
 
 msgid "turn into new sprite"
-msgstr "converter nun obxecto novo"
+msgstr "converter nunha figura nova"
 
 msgid "Undelete"
 msgstr "Desfacer borrado"

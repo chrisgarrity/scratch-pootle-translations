@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-07-29 23:22+0200\n"
+"PO-Revision-Date: 2014-10-18 10:26+0000\n"
 "Last-Translator: Manuel <mcaeiror@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: gl\n"
@@ -11,7 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.1.6\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1413627988.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -104,7 +105,7 @@ msgid "Control"
 msgstr "Control"
 
 msgid "costume #"
-msgstr "disfrace #"
+msgstr "vestimenta # "
 
 msgid "create clone of %m.spriteOnly"
 msgstr "crear clon de %m.spriteOnly"
@@ -146,7 +147,7 @@ msgid "forever"
 msgstr "para sempre"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr "moverse %n seg cara a x:%n y:%n"
+msgstr "esbarar %n seg cara a x:%n y:%n"
 
 msgid "go back %n layers"
 msgstr "enviar atrás %n capas"
@@ -225,7 +226,7 @@ msgid "next backdrop"
 msgstr "seguinte fondo de pantalla"
 
 msgid "next costume"
-msgstr "seguinte disfrace"
+msgstr "seguinte vestimenta"
 
 msgid "not %b"
 msgstr "non %b"
@@ -253,10 +254,10 @@ msgid "play note %d.note for %n beats"
 msgstr "facer soar a nota %d.note durante %n pulsos"
 
 msgid "play sound %m.sound"
-msgstr "facer soar %m.sound"
+msgstr "reproducir son %m.sound"
 
 msgid "play sound %m.sound until done"
-msgstr "facer soar %m.sound e agardar"
+msgstr "reproducir son %m.sound ata rematar"
 
 msgid "point in direction %d.direction"
 msgstr "apuntar cara á dirección %d.direction"
@@ -378,7 +379,7 @@ msgid "switch backdrop to %m.backdrop and wait"
 msgstr "trocar fondo a %m.backdrop e agardar"
 
 msgid "switch costume to %m.costume"
-msgstr "trocar disfrace a %m.costume"
+msgstr "trocar vestimenta a %m.costume"
 
 msgid "tempo"
 msgstr "tempo"
@@ -470,7 +471,7 @@ msgid "when Stage clicked"
 msgstr "ao premer no Escenario"
 
 msgid "when this sprite clicked"
-msgstr "ao premer este obxecto"
+msgstr "ao premer nesta figura"
 
 msgid "when tilt %m.eNe %n"
 msgstr "cando a pendente %m.eNe %n"

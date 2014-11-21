@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2014-06-12 19:24+0000\n"
+"PO-Revision-Date: 2014-11-01 06:44+0000\n"
 "Last-Translator: Suha <suhaaktan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1402601054.000000\n"
+"X-POOTLE-MTIME: 1414824298.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -34,10 +34,10 @@ msgid "About"
 msgstr "Hakkında"
 
 msgid "About LEGO WeDo extension..."
-msgstr "LEGO WeDo eklentisi hakkında..."
+msgstr "LEGO WeDo uzantısı hakkında..."
 
 msgid "About PicoBoard extension..."
-msgstr "PicoBoard eklentisi hakkında..."
+msgstr "PicoBoard uzantısı hakkında..."
 
 msgid "abs"
 msgstr "mutlak değer"
@@ -49,7 +49,7 @@ msgid "acos"
 msgstr "acos"
 
 msgid "Add an Extension"
-msgstr "Bir Eklenti ekle"
+msgstr "Bir Uzantı ekle"
 
 # 90%
 msgid "Add boolean input:"
@@ -165,7 +165,7 @@ msgid "brightness"
 msgstr "parlaklık"
 
 msgid "Bring to front"
-msgstr "En üste çıkart"
+msgstr "Öne getir"
 
 msgid "Broadcast"
 msgstr "Yayın"
@@ -192,7 +192,7 @@ msgid "Camera"
 msgstr "Kamera"
 
 msgid "can drag in player:"
-msgstr "oyunda sürüklenebilir:"
+msgstr "oyuncu sürükleyebilir:"
 
 msgid "Cancel"
 msgstr "İptal"
@@ -201,7 +201,7 @@ msgid "Cannot Delete"
 msgstr "Silemem"
 
 msgid "Can’t find network connection or reach server."
-msgstr "Ağ bağlantısı bulamadım ya da sunucuya ulaşamıyorum"
+msgstr "Ağ bağlantısı bulunamadı ya da sunucuya ulaşılamadı"
 
 msgid "Castle"
 msgstr "Kale"
@@ -434,10 +434,10 @@ msgid "export"
 msgstr "dönüştür kaydet"
 
 msgid "Extension Library"
-msgstr "Eklenti Kütüphanesi"
+msgstr "Uzantı Kütüphanesi"
 
 msgid "Extension Problem"
-msgstr "Eklenti Problemi"
+msgstr "Uzantı Problemi"
 
 msgid "fade in"
 msgstr "giderek yükselt"
@@ -726,7 +726,7 @@ msgid "New Variable"
 msgstr "Yeni Değişken"
 
 msgid "No motion blocks"
-msgstr "Hareket bloğu yok"
+msgstr "Hareket taşı yok"
 
 msgid "normal readout"
 msgstr "normal görünüm"
@@ -857,7 +857,7 @@ msgid "Remixing..."
 msgstr "Ekliyorum..."
 
 msgid "Remove extension blocks"
-msgstr "Eklenti taşlarını kaldır"
+msgstr "Uzantı taşlarını kaldır"
 
 msgid "Rename"
 msgstr "Yeniden adlandır"
@@ -947,7 +947,7 @@ msgstr "Proje sayfasına bak"
 
 msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
 msgstr ""
-"Eklentiyi yüklemek ve çalıştırmak için (sağ taraftaki) ipuçları penceresine "
+"Uzantıyı yüklemek ve çalıştırmak için (sağ taraftaki) ipuçları penceresine "
 "gözat."
 
 msgid "Select"
@@ -1118,7 +1118,7 @@ msgstr "Muhtelif"
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
 msgstr ""
 "Bu proje \"kullanıcı adı\" taşını kullanarak kendisini kimin kullandığını "
-"bilebilir. Kimliğini gizlemek için, projeyi kullanmadan önce çıkış yap."
+"bilebilir. Kimliğini gizlemek istiyorsan, projeyi kullanmadan önce çıkış yap."
 
 msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
 msgstr ""
@@ -1144,7 +1144,9 @@ msgid "Tips"
 msgstr "İpuçları"
 
 msgid "To delete a block definition, first remove all uses of the block."
-msgstr "Bir blok tanımını silebilmek için, önce bloğu kullananları sil."
+msgstr ""
+"Bir taşın tanımını silebilmek için, önce o taşın kullanıldığı yerleri bul ve "
+"sil."
 
 msgid "Transportation"
 msgstr "Ulaşım"

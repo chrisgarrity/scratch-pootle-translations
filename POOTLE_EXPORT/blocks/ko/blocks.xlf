@@ -6,6 +6,9 @@
         <source>Language-Name</source>
         <target state="translated">한국어</target>
         <note from="translator">The language name as it will appear in the language menu</note>
+        <alt-trans xml:space="preserve" origin="11tnwls12">
+          <target>언어 이름</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="%b and %b">
         <source>%b and %b</source>
@@ -21,29 +24,25 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="%m.list contains %s">
         <source>%m.list contains %s</source>
-        <target state="translated">%m.list 에 %s 포함?</target>
+        <target state="translated">%m.list 리스트에 %s 포함되었는가</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="%m.mathOp of %n">
         <source>%m.mathOp of %n</source>
-        <target state="translated">%n 의 %m.mathOp</target>
+        <target state="translated">%m.mathOp ( %n )</target>
+        <note from="translator">%m.mathOp 와 %n 의 순서를 바꾸면 번역이 반영되지 않는다.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="%m.sensor sensor value">
         <source>%m.sensor sensor value</source>
-        <target state="translated">%m.sensor센서값</target>
-        <alt-trans xml:space="preserve" origin="janggoons">
-          <target>%m.sensor 센서값</target>
-        </alt-trans>
+        <target state="translated">%m.sensor 의 센서값</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="%n mod %n">
         <source>%n mod %n</source>
-        <target state="translated">%n / %n 의 나머지</target>
+        <target state="translated">%n 나누기 %n 의 나머지</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="add %s to %m.list">
         <source>add %s to %m.list</source>
-        <target state="translated">%m.list에 %s 추가하기</target>
-        <alt-trans xml:space="preserve" origin="janggoons">
-          <target>%m.list 에 %s 추가하기</target>
-        </alt-trans>
+        <target state="translated">%s 항목을 %m.list 에 추가하기</target>
+        <note from="translator">%m.list 에 %s 항목 추가하기</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="answer">
         <source>answer</source>
@@ -51,23 +50,17 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="ask %s and wait">
         <source>ask %s and wait</source>
-        <target state="translated">%s을(를) 묻고 기다리기</target>
-        <alt-trans xml:space="preserve" origin="janggoons">
-          <target>%s 을(를) 묻고 기다리기</target>
-        </alt-trans>
+        <target state="translated">%s 묻고 기다리기</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="backdrop #">
+      <trans-unit xml:space="preserve" approved="yes" id="backdrop #">
         <source>backdrop #</source>
-        <target state="needs-translation">배경 #</target>
+        <target state="translated">배경 번호 #</target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="backdrop name">
         <source>backdrop name</source>
-        <target state="translated"></target>
+        <target state="translated">배경 이름</target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
-        <alt-trans xml:space="preserve" origin="picxenk">
-          <target>배경 이름</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="broadcast %m.broadcast">
         <source>broadcast %m.broadcast</source>
@@ -79,43 +72,43 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="change %m.effect effect by %n">
         <source>change %m.effect effect by %n</source>
-        <target state="translated">%m.effect 효과 %n 만큼 바꾸기</target>
+        <target state="translated">%m.effect 효과를 %n 만큼 바꾸기</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="change %m.var by %n">
         <source>change %m.var by %n</source>
-        <target state="translated">%m.var 에 %n 씩 누적하기</target>
+        <target state="translated">%m.var 을(를) %n 만큼 바꾸기</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="change pen color by %n">
         <source>change pen color by %n</source>
-        <target state="translated">펜 색상 %n 만큼 바꾸기</target>
+        <target state="translated">펜 색깔을 %n 만큼 바꾸기</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="change pen shade by %n">
         <source>change pen shade by %n</source>
-        <target state="translated">펜 농도 %n 만큼 바꾸기</target>
+        <target state="translated">펜 명암을 %n 만큼 바꾸기</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="change pen size by %n">
         <source>change pen size by %n</source>
-        <target state="translated">펜 굵기 %n 만큼 바꾸기</target>
+        <target state="translated">펜 굵기를 %n 만큼 바꾸기</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="change size by %n">
         <source>change size by %n</source>
-        <target state="translated">크기 %n 만큼 바꾸기</target>
+        <target state="translated">크기를 %n 만큼 바꾸기</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="change tempo by %n">
         <source>change tempo by %n</source>
-        <target state="translated">템포 %n 만큼 바꾸기</target>
+        <target state="translated">빠르기를 %n 만큼 바꾸기</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="change volume by %n">
         <source>change volume by %n</source>
-        <target state="translated">음량 %n 만큼 바꾸기</target>
+        <target state="translated">음량을 %n 만큼 바꾸기</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="change x by %n">
         <source>change x by %n</source>
-        <target state="translated">x좌표 %n 만큼 바꾸기</target>
+        <target state="translated">x좌표를 %n 만큼 바꾸기</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="change y by %n">
         <source>change y by %n</source>
-        <target state="translated">y좌표 %n 만큼 바꾸기</target>
+        <target state="translated">y좌표를 %n 만큼 바꾸기</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="clear">
         <source>clear</source>
@@ -127,7 +120,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="color %c is touching %c?">
         <source>color %c is touching %c?</source>
-        <target state="translated">%c 색이 %c 색에 닿기?</target>
+        <target state="translated">%c 색이 %c 색에 닿았는가?</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Control">
         <source>Control</source>
@@ -139,54 +132,36 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="create clone of %m.spriteOnly">
         <source>create clone of %m.spriteOnly</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="ahnsang">
-          <target>%m.spriteOnly 복제하기</target>
-        </alt-trans>
-        <alt-trans xml:space="preserve" origin="janggoons">
-          <target>%m.spriteOnly 클론 만들기</target>
-        </alt-trans>
+        <target state="translated">%m.spriteOnly 복제하기</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="current %m.timeAndDate">
         <source>current %m.timeAndDate</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="janggoons">
-          <target>현재 %m.timeAndDate</target>
-        </alt-trans>
+        <target state="translated">현재 %m.timeAndDate</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Data">
         <source>Data</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="janggoons">
-          <target>데이터</target>
-        </alt-trans>
+        <target state="translated">데이터</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="days since 2000">
         <source>days since 2000</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="ahnsang">
-          <target>2000년 이후의 날짜</target>
-        </alt-trans>
+        <target state="translated">2000년 이후 현재까지 날짜수</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="define">
         <source>define</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="janggoons">
-          <target>정의하기</target>
-        </alt-trans>
+        <target state="translated">정의하기</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="delete %d.listDeleteItem of %m.list">
         <source>delete %d.listDeleteItem of %m.list</source>
-        <target state="translated">%m.list 에서 %d.listDeleteItem 위치의 아이템 삭제하기</target>
+        <target state="translated">%d.listDeleteItem 번째 항목을 %m.list 에서 삭제하기</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="delete this clone">
         <source>delete this clone</source>
-        <target state="translated"></target>
+        <target state="translated">이 복제본 삭제하기</target>
         <alt-trans xml:space="preserve" origin="ahnsang">
           <target>복사본 삭제하기</target>
         </alt-trans>
-        <alt-trans xml:space="preserve" origin="janggoons">
-          <target>이 클론 삭제하기</target>
+        <alt-trans xml:space="preserve" origin="11tnwls12">
+          <target>지금의 복사본 삭제하기</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="direction">
@@ -195,10 +170,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="distance">
         <source>distance</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="janggoons">
-          <target>거리</target>
-        </alt-trans>
+        <target state="translated">거리</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="distance to %m.spriteOrMouse">
         <source>distance to %m.spriteOrMouse</source>
@@ -206,25 +178,19 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="else">
         <source>else</source>
-        <target state="translated">그렇지 않으면</target>
+        <target state="translated">아니면</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Events">
         <source>Events</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="janggoons">
-          <target>이벤트</target>
-        </alt-trans>
+        <target state="translated">이벤트</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="forever">
         <source>forever</source>
-        <target state="translated">무한 반복</target>
-        <alt-trans xml:space="preserve" origin="janggoons">
-          <target>무한 반복하기</target>
-        </alt-trans>
+        <target state="translated">무한 반복하기</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="glide %n secs to x:%n y:%n">
         <source>glide %n secs to x:%n y:%n</source>
-        <target state="translated">x:%n, y:%n 로 %n 초간 움직이기</target>
+        <target state="translated">%n 초 동안 x:%n y:%n 으로 움직이기</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="go back %n layers">
         <source>go back %n layers</source>
@@ -232,21 +198,18 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="go to %m.spriteOrMouse">
         <source>go to %m.spriteOrMouse</source>
-        <target state="translated">%m.spriteOrMouse 위치로 가기</target>
-        <alt-trans xml:space="preserve" origin="janggoons">
-          <target>%m.spriteOrMouse 위치로 움직이기</target>
-        </alt-trans>
+        <target state="translated">%m.spriteOrMouse 위치로 이동하기</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="go to front">
         <source>go to front</source>
         <target state="translated">맨 앞으로 나오기</target>
+        <alt-trans xml:space="preserve" origin="11tnwls12">
+          <target>맨 앞으로 순서 바꾸기</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="go to x:%n y:%n">
         <source>go to x:%n y:%n</source>
-        <target state="translated">x:%n, y:%n 로 가기</target>
-        <alt-trans xml:space="preserve" origin="janggoons">
-          <target>x:%n, y:%n 로 움직이기</target>
-        </alt-trans>
+        <target state="translated">x:%n y:%n 로 이동하기</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="hide">
         <source>hide</source>
@@ -254,48 +217,47 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="hide list %m.list">
         <source>hide list %m.list</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="janggoons">
-          <target>%m.list 리스트 숨기기</target>
-        </alt-trans>
+        <target state="translated">%m.list 리스트 숨기기</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="hide variable %m.var">
         <source>hide variable %m.var</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="janggoons">
-          <target>%m.var 변수 숨기기</target>
-        </alt-trans>
+        <target state="translated">%m.var 변수 숨기기</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="if %b then">
         <source>if %b then</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="ahnsang">
-          <target>만약 %b 라면</target>
-        </alt-trans>
+        <target state="translated">만약 %b 라면</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="if on edge, bounce">
         <source>if on edge, bounce</source>
-        <target state="translated">벽에 닿으면 튀어나오기</target>
+        <target state="translated">벽에 닿으면 튕기기</target>
+        <alt-trans xml:space="preserve" origin="11tnwls12">
+          <target>벽에 닿으면 방향돌리기</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="insert %s at %d.listItem of %m.list">
         <source>insert %s at %d.listItem of %m.list</source>
-        <target state="translated">%m.list 의 %d.listItem 위치에 %s 넣기</target>
+        <target state="translated">%s 을(를) %d.listItem 번째 %m.list 에 넣기</target>
+        <note from="translator">%m.list 의 %d.listItem 에 %s 넣기</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="item %d.listItem of %m.list">
         <source>item %d.listItem of %m.list</source>
-        <target state="translated">%m.list %i 위치의 아이템</target>
+        <target state="translated">%d.listItem 번째 %m.list 항목</target>
+        <note from="translator">%m.list 의 %d.listItem 번째 항목</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="join %s %s">
         <source>join %s %s</source>
         <target state="translated">%s %s 결합하기</target>
+        <alt-trans xml:space="preserve" origin="11tnwls12">
+          <target>%s 와 %s 이어붙이기</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="key %m.key pressed?">
         <source>key %m.key pressed?</source>
-        <target state="translated">%m.key 키 클릭하기?</target>
+        <target state="translated">%m.key 키를 눌렀는가?</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="length of %m.list">
         <source>length of %m.list</source>
-        <target state="translated">%m.list 의 크기</target>
+        <target state="translated">%m.list 리스트의 항목 수</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="length of %s">
         <source>length of %s</source>
@@ -303,10 +265,8 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="letter %n of %s">
         <source>letter %n of %s</source>
-        <target state="translated">%s의 %n 번째 글자</target>
-        <alt-trans xml:space="preserve" origin="ahnsang">
-          <target>%s 의 %n 번째 글자</target>
-        </alt-trans>
+        <target state="translated">%n 번째 글자 ( %s )</target>
+        <note from="translator">%n 과 %s 의 순서를 바꾸면 번역이 반영되지 않는다.</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Looks">
         <source>Looks</source>
@@ -318,13 +278,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="More Blocks">
         <source>More Blocks</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="janggoons">
-          <target>추가블록</target>
-        </alt-trans>
-        <alt-trans xml:space="preserve" origin="picxenk">
-          <target>추가 블록</target>
-        </alt-trans>
+        <target state="translated">추가 블록</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Motion">
         <source>Motion</source>
@@ -332,32 +286,35 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="mouse down?">
         <source>mouse down?</source>
-        <target state="translated">마우스 클릭하기?</target>
+        <target state="translated">마우스를 클릭했는가?</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="mouse x">
         <source>mouse x</source>
-        <target state="translated">마우스 x좌표</target>
+        <target state="translated">마우스의 x좌표</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="mouse y">
         <source>mouse y</source>
-        <target state="translated">마우스 y좌표</target>
+        <target state="translated">마우스의 y좌표</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="move %n steps">
         <source>move %n steps</source>
         <target state="translated">%n 만큼 움직이기</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="next backdrop">
+      <trans-unit xml:space="preserve" approved="yes" id="next backdrop">
         <source>next backdrop</source>
-        <target state="needs-translation">다음 배경</target>
+        <target state="translated">다음 배경으로 바꾸기</target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="next costume">
         <source>next costume</source>
-        <target state="translated">다음 모양</target>
+        <target state="translated">다음 모양으로 바꾸기</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="not %b">
         <source>not %b</source>
-        <target state="translated">%b (이)가 아니다</target>
+        <target state="translated">%b 아니다</target>
+        <alt-trans xml:space="preserve" origin="11tnwls12">
+          <target>%b 가 아니다</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Operators">
         <source>Operators</source>
@@ -381,20 +338,32 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="play drum %d.drum for %n beats">
         <source>play drum %d.drum for %n beats</source>
-        <target state="translated">%d.drum 드럼 %n 박자로 연주하기</target>
+        <target state="translated">%d.drum 번 타악기를 %n 박자로 연주하기</target>
+        <alt-trans xml:space="preserve" origin="11tnwls12">
+          <target>%d.drum 번 타악기를 %n 박자만큼 연주하기</target>
+        </alt-trans>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="play note %d.note for %n beats">
+      <trans-unit xml:space="preserve" approved="yes" id="play note %d.note for %n beats">
         <source>play note %d.note for %n beats</source>
-        <target state="needs-translation">%d.note 음계 %n 박자로 연주하기</target>
+        <target state="translated">%d.note 번 음을 %n 박자로 연주하기</target>
         <note from="translator">83%</note>
+        <alt-trans xml:space="preserve" origin="11tnwls12">
+          <target>%d.note 번 음을 %n 박자만큼 연주하기</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="play sound %m.sound">
         <source>play sound %m.sound</source>
         <target state="translated">%m.sound 소리내기</target>
+        <alt-trans xml:space="preserve" origin="11tnwls12">
+          <target>%m.sound 재생하기</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="play sound %m.sound until done">
         <source>play sound %m.sound until done</source>
-        <target state="translated">%m.sound 끝까지 소리내기 </target>
+        <target state="translated">%m.sound 끝까지 소리내기</target>
+        <alt-trans xml:space="preserve" origin="11tnwls12">
+          <target>%m.sound 끝까지 재생하기</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="point in direction %d.direction">
         <source>point in direction %d.direction</source>
@@ -406,21 +375,16 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="repeat %n">
         <source>repeat %n</source>
-        <target state="translated">반복 %n 회</target>
-        <alt-trans xml:space="preserve" origin="janggoons">
-          <target>%n 번 반복하기</target>
-        </alt-trans>
+        <target state="translated">%n 번 반복하기</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="repeat until %b">
         <source>repeat until %b</source>
-        <target state="translated">반복 %b 까지</target>
-        <alt-trans xml:space="preserve" origin="janggoons">
-          <target>%b 까지 반복하기</target>
-        </alt-trans>
+        <target state="translated">%b 까지 반복하기</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="replace item %d.listItem of %m.list with %s">
         <source>replace item %d.listItem of %m.list with %s</source>
-        <target state="translated">%m.list %i 위치의 아이템을 %s 로 바꾸기</target>
+        <target state="translated">%d.listItem 번째 %m.list 의 항목을 %s (으)로 바꾸기</target>
+        <note from="translator">%m.list 의 %d.listItem 번째 항목을 %s (으)로 바꾸기</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="reset timer">
         <source>reset timer</source>
@@ -440,7 +404,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="say %s for %n secs">
         <source>say %s for %n secs</source>
-        <target state="translated">%s %n 초간 말하기</target>
+        <target state="translated">%s 을(를) %n 초동안 말하기</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sensing">
         <source>Sensing</source>
@@ -449,114 +413,87 @@
       <trans-unit xml:space="preserve" approved="yes" id="sensor %m.booleanSensor?">
         <source>sensor %m.booleanSensor?</source>
         <target state="translated">센서의 %m.booleanSensor?</target>
-        <alt-trans xml:space="preserve" origin="janggoons">
-          <target>센서 %m.booleanSensor ?</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set %m.effect effect to %n">
         <source>set %m.effect effect to %n</source>
-        <target state="translated">%m.effect 효과 %n 로 정하기</target>
+        <target state="translated">%m.effect 효과를 %n (으)로 정하기</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set %m.var to %s">
         <source>set %m.var to %s</source>
-        <target state="translated">%m.var 에 %n 저장하기</target>
-        <alt-trans xml:space="preserve" origin="janggoons">
-          <target>%m.var 에 %s 저장하기</target>
-        </alt-trans>
+        <target state="translated">%m.var 을(를) %s 로 정하기</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set instrument to %d.instrument">
         <source>set instrument to %d.instrument</source>
-        <target state="translated">%d.instrument 번 악기 사용하기</target>
-        <alt-trans xml:space="preserve" origin="janggoons">
-          <target>%d.instrument 번 악기로 정하기</target>
-        </alt-trans>
+        <target state="translated">%d.instrument 번 악기로 정하기</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="set motor direction %m.motorDirection">
-        <source>set motor direction %m.motorDirection</source>
-        <target state="needs-translation">모터 %m.motorDirection 회전</target>
-        <note from="translator">89%</note>
-        <alt-trans xml:space="preserve" origin="janggoons">
-          <target>%m.motorDirection 로 모터 방향 정하기</target>
-        </alt-trans>
+      <trans-unit xml:space="preserve" approved="yes" id="set %m.motor2 direction to %m.motorDirection">
+        <source>set %m.motor2 direction to %m.motorDirection</source>
+        <target state="translated">%m.motor2 방향을 %m.motorDirection 쪽으로 정하기</target>
+        <note from="translator">89%
+86%
+97%</note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="set motor power %n">
-        <source>set motor power %n</source>
-        <target state="needs-translation">모터 파워 %n</target>
-        <note from="translator">77%</note>
-        <alt-trans xml:space="preserve" origin="janggoons">
-          <target>%n 로 모터 파워 정하기</target>
-        </alt-trans>
+      <trans-unit xml:space="preserve" approved="yes" id="set %m.motor power to %n">
+        <source>set %m.motor power to %n</source>
+        <target state="translated">%m.motor 파워를 %n (으)로 정하기</target>
+        <note from="translator">77%
+75%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set pen color to %c">
         <source>set pen color to %c</source>
-        <target state="translated">펜 색상 %c 로 정하기</target>
+        <target state="translated">펜 색깔을 %c (으)로 정하기</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set pen color to %n">
         <source>set pen color to %n</source>
-        <target state="translated">펜 색상 %c 로 정하기</target>
-        <alt-trans xml:space="preserve" origin="janggoons">
-          <target>펜 색상 %n 로 정하기</target>
-        </alt-trans>
-        <alt-trans xml:space="preserve" origin="ahnsang">
-          <target>펜 색상 %n (으)로 정하기</target>
-        </alt-trans>
+        <target state="translated">펜 색깔을 %n (으)로 정하기</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set pen shade to %n">
         <source>set pen shade to %n</source>
-        <target state="translated">펜 농도 %n 로 정하기</target>
+        <target state="translated">펜 명암을 %n (으)로 정하기</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set pen size to %n">
         <source>set pen size to %n</source>
-        <target state="translated">펜 굵기 %n 로 정하기</target>
+        <target state="translated">펜 굵기를 %n (으)로 정하기</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set rotation style %m.rotationStyle">
         <source>set rotation style %m.rotationStyle</source>
-        <target state="translated"></target>
+        <target state="translated">회전방식을 %m.rotationStyle 로 정하기</target>
         <alt-trans xml:space="preserve" origin="picxenk">
           <target>회전방식 %m.rotationStyle 로 정하기</target>
-        </alt-trans>
-        <alt-trans xml:space="preserve" origin="janggoons">
-          <target>%m.rotationStyle 로 회전방식 정하기</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set size to %n%">
         <source>set size to %n%</source>
-        <target state="translated">크기 %n% 로 정하기</target>
+        <target state="translated">크기를 %n% 로 정하기</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set tempo to %n bpm">
         <source>set tempo to %n bpm</source>
-        <target state="translated">템포 %n BPM로 맞추기</target>
+        <target state="translated">빠르기를 %n BPM 으로 정하기</target>
         <alt-trans xml:space="preserve" origin="picxenk">
           <target>템포 %n BPM로 정하기</target>
-        </alt-trans>
-        <alt-trans xml:space="preserve" origin="janggoons">
-          <target>템포 %n BPM 으로 정하기</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set video transparency to %n%">
         <source>set video transparency to %n%</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="janggoons">
-          <target>비디오 투명도 %n% 로 정하기</target>
-        </alt-trans>
+        <target state="translated">비디오 투명도를 %n% 로 정하기</target>
         <alt-trans xml:space="preserve" origin="picxenk">
           <target>비디오 투명도  %n% 로 정하기</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="ahnsang">
+          <target>비디오 투명도 %n% %로 정하기</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set volume to %n%">
         <source>set volume to %n%</source>
-        <target state="translated">음량 %n% 로 맞추기</target>
-        <alt-trans xml:space="preserve" origin="picxenk">
-          <target>음량 %n% 로 정하기</target>
-        </alt-trans>
+        <target state="translated">음량을 %n% (으)로 정하기</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set x to %n">
         <source>set x to %n</source>
-        <target state="translated">x좌표 %n 로 정하기</target>
+        <target state="translated">x좌표를 %n (으)로 정하기</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set y to %n">
         <source>set y to %n</source>
-        <target state="translated">y좌표 %n 로 정하기</target>
+        <target state="translated">y좌표를 %n (으)로 정하기</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="show">
         <source>show</source>
@@ -564,23 +501,11 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="show list %m.list">
         <source>show list %m.list</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="picxenk">
-          <target>리스트 %m.list 보이기</target>
-        </alt-trans>
-        <alt-trans xml:space="preserve" origin="janggoons">
-          <target>%m.list 리스트 보이기</target>
-        </alt-trans>
+        <target state="translated">%m.list 리스트 보이기</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="show variable %m.var">
         <source>show variable %m.var</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="picxenk">
-          <target>변수 %m.var 보이기</target>
-        </alt-trans>
-        <alt-trans xml:space="preserve" origin="janggoons">
-          <target>%m.var 변수 보이기</target>
-        </alt-trans>
+        <target state="translated">%m.var 변수 보이기</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="size">
         <source>size</source>
@@ -592,14 +517,11 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="stamp">
         <source>stamp</source>
-        <target state="translated">스탬프</target>
+        <target state="translated">도장찍기</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="stop %m.stop">
         <source>stop %m.stop</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="picxenk">
-          <target>%m.stop 멈추기</target>
-        </alt-trans>
+        <target state="translated">%m.stop 멈추기</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="stop all sounds">
         <source>stop all sounds</source>
@@ -607,33 +529,21 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="switch backdrop to %m.backdrop">
         <source>switch backdrop to %m.backdrop</source>
-        <target state="translated"></target>
+        <target state="translated">배경을 %m.backdrop (으)로 바꾸기</target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
-        <alt-trans xml:space="preserve" origin="picxenk">
-          <target>%m.backdrop 로 배경 바꾸기</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="switch backdrop to %m.backdrop and wait">
         <source>switch backdrop to %m.backdrop and wait</source>
-        <target state="translated"></target>
+        <target state="translated">배경을 %m.backdrop (으)로 바꾸고 기다리기</target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
-        <alt-trans xml:space="preserve" origin="picxenk">
-          <target>%m.backdrop 로 배경 바꾸고 기다리기</target>
-        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="switch costume to %m.costume">
         <source>switch costume to %m.costume</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="janggoons">
-          <target>%m.costume 로 모양 바꾸기</target>
-        </alt-trans>
-        <alt-trans xml:space="preserve" origin="ahnsang">
-          <target>%m.costume (으)로 모양 바꾸기</target>
-        </alt-trans>
+        <target state="translated">모양을 %m.costume (으)로 바꾸기</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tempo">
         <source>tempo</source>
-        <target state="translated">템포</target>
+        <target state="translated">빠르기</target>
         <alt-trans xml:space="preserve" origin="ahnsang">
           <target>박자</target>
         </alt-trans>
@@ -644,14 +554,11 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="think %s for %n secs">
         <source>think %s for %n secs</source>
-        <target state="translated">%s %n 초간 생각하기</target>
+        <target state="translated">%s 을(를) %n 초동안 생각하기</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="tilt">
         <source>tilt</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="janggoons">
-          <target>틸트</target>
-        </alt-trans>
+        <target state="translated">기울기</target>
         <alt-trans xml:space="preserve" origin="ahnsang">
           <target>기울이기</target>
         </alt-trans>
@@ -662,80 +569,53 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="touching %m.touching?">
         <source>touching %m.touching?</source>
-        <target state="translated">%m.touching 에 닿기?</target>
+        <target state="translated">%m.touching 에 닿았는가?</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="touching color %c?">
         <source>touching color %c?</source>
-        <target state="translated">%c 색에 닿기?</target>
+        <target state="translated">%c 색에 닿았는가?</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="turn @turnLeft %n degrees">
         <source>turn @turnLeft %n degrees</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="picxenk">
-          <target>%n @turnLeft 도 돌기</target>
-        </alt-trans>
+        <target state="translated">@turnLeft %n 도 돌기</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="turn @turnRight %n degrees">
         <source>turn @turnRight %n degrees</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="picxenk">
-          <target>%n @turnRight 도 돌기</target>
-        </alt-trans>
+        <target state="translated">@turnRight %n 도 돌기</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="turn motor off">
-        <source>turn motor off</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="picxenk">
-          <target>모터 끄기</target>
-        </alt-trans>
+      <trans-unit xml:space="preserve" approved="yes" id="turn %m.motor off">
+        <source>turn %m.motor off</source>
+        <target state="translated">%m.motor 끄기</target>
+        <note from="translator">82%</note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="turn motor on">
-        <source>turn motor on</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="picxenk">
-          <target>모터 켜기</target>
-        </alt-trans>
+      <trans-unit xml:space="preserve" approved="yes" id="turn %m.motor on">
+        <source>turn %m.motor on</source>
+        <target state="translated">%m.motor 켜기</target>
+        <note from="translator">81%</note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="turn motor on for %n secs">
-        <source>turn motor on for %n secs</source>
-        <target state="needs-translation">%n초 동안 모터 켜기</target>
-        <note from="translator">80%</note>
-        <alt-trans xml:space="preserve" origin="MaxSpade360ZXA">
-          <target>%n 초 동안 모터 를 켜기</target>
-        </alt-trans>
-        <alt-trans xml:space="preserve" origin="janggoons">
-          <target>%n 초 동안 모터 켜기</target>
-        </alt-trans>
+      <trans-unit xml:space="preserve" approved="yes" id="turn %m.motor on for %n secs">
+        <source>turn %m.motor on for %n secs</source>
+        <target state="translated">%n 초 동안 %m.motor 켜기</target>
+        <note from="translator">80%
+89%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="turn video %m.videoState">
         <source>turn video %m.videoState</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="picxenk">
-          <target>비디오 %m.videoState</target>
-        </alt-trans>
+        <target state="translated">비디오 %m.videoState</target>
         <alt-trans xml:space="preserve" origin="MaxSpade360ZXA">
           <target>비디오 돌기 %m.videoState</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="user id">
-        <source>user id</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="ahnsang">
-          <target>사용자 이름</target>
-        </alt-trans>
-        <alt-trans xml:space="preserve" origin="MaxSpade360ZXA">
-          <target>사용자 이릉</target>
-        </alt-trans>
-        <alt-trans xml:space="preserve" origin="picxenk">
-          <target>사용자 아이디</target>
+      <trans-unit xml:space="preserve" approved="yes" id="username">
+        <source>username</source>
+        <target state="translated">사용자이름</target>
+        <alt-trans xml:space="preserve" origin="11tnwls12">
+          <target>사용자아이디</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="video %m.videoMotionType on %m.stageOrThis">
         <source>video %m.videoMotionType on %m.stageOrThis</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="janggoons">
-          <target>%m.stageOrThis 에서 비디오 %m.videoMotionType</target>
-        </alt-trans>
+        <target state="translated">비디오 %m.videoMotionType 에 대한 %m.stageOrThis 에서의 관찰값</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="volume">
         <source>volume</source>
@@ -749,58 +629,60 @@
         <source>wait until %b</source>
         <target state="translated">%b 까지 기다리기</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="no" id="when %m.booleanSensor">
+      <trans-unit xml:space="preserve" approved="yes" id="when %m.booleanSensor">
         <source>when %m.booleanSensor</source>
-        <target state="needs-translation">센서의 %m.booleanSensor?</target>
+        <target state="translated">%m.booleanSensor 일 때</target>
         <note from="translator">75%</note>
-        <alt-trans xml:space="preserve" origin="janggoons">
-          <target>%m.booleanSensor 이면</target>
+        <alt-trans xml:space="preserve" origin="11tnwls12">
+          <target>센서의 %m.booleanSensor 라면?</target>
         </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when %m.key key pressed">
         <source>when %m.key key pressed</source>
-        <target state="translated">%m.key 키 눌릴 때</target>
+        <target state="translated">%m.key 키를 눌렀을 때</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="when %m.sensor %m.lessMore %n">
+        <source>when %m.sensor %m.lessMore %n</source>
+        <target state="translated">%m.sensor %m.lessMore %n 일 때</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when %m.triggerSensor &gt; %n">
         <source>when %m.triggerSensor &gt; %n</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="janggoons">
-          <target>%m.triggerSensor &gt; %n 일 때</target>
-        </alt-trans>
+        <target state="translated">%m.triggerSensor &gt; %n 일 때</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when @greenFlag clicked">
         <source>when @greenFlag clicked</source>
-        <target state="translated">@greenFlag 클릭될 때</target>
+        <target state="translated">@greenFlag 클릭했을 때</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when backdrop switches to %m.backdrop">
         <source>when backdrop switches to %m.backdrop</source>
-        <target state="translated"></target>
+        <target state="translated">배경이 %m.backdrop (으)로 바뀌었을 때</target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
-        <alt-trans xml:space="preserve" origin="picxenk">
-          <target>배경이 %m.backdrop 로 바뀔 때</target>
-        </alt-trans>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="when distance &lt; %n">
-        <source>when distance &lt; %n</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="janggoons">
-          <target>거리 &lt; %n 일 때</target>
-        </alt-trans>
+      <trans-unit xml:space="preserve" approved="yes" id="when distance %m.lessMore %n">
+        <source>when distance %m.lessMore %n</source>
+        <target state="translated">거리 %m.lessMore %n 일 때</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when I receive %m.broadcast">
         <source>when I receive %m.broadcast</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="picxenk">
-          <target>%m.broadcast 받을 때</target>
-        </alt-trans>
+        <target state="translated">%m.broadcast 을(를) 받았을 때</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when I start as a clone">
         <source>when I start as a clone</source>
-        <target state="translated"></target>
+        <target state="translated">복제되었을 때</target>
+        <alt-trans xml:space="preserve" origin="11tnwls12">
+          <target>복사되었을 때</target>
+        </alt-trans>
+        <alt-trans xml:space="preserve" origin="goodideal">
+          <target>이 복사본으로 시작할 때</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="when Stage clicked">
+        <source>when Stage clicked</source>
+        <target state="translated">배경을 클릭했을 때</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when this sprite clicked">
         <source>when this sprite clicked</source>
-        <target state="translated"></target>
+        <target state="translated">이 스프라이트를 클릭했을 때</target>
         <alt-trans xml:space="preserve" origin="MaxSpade360ZXA">
           <target>이 스프라이트 눌렸을 때</target>
         </alt-trans>
@@ -808,15 +690,9 @@
           <target>현재 스프라이트가 클릭될 때</target>
         </alt-trans>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="when tilt = %n">
-        <source>when tilt = %n</source>
-        <target state="translated"></target>
-        <alt-trans xml:space="preserve" origin="janggoons">
-          <target>틸트 = %n 일 때</target>
-        </alt-trans>
-        <alt-trans xml:space="preserve" origin="MaxSpade360ZXA">
-          <target>돌기가 %n 때</target>
-        </alt-trans>
+      <trans-unit xml:space="preserve" approved="yes" id="when tilt %m.eNe %n">
+        <source>when tilt %m.eNe %n</source>
+        <target state="translated">기울기 %m.eNe %n 일 때</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="x position">
         <source>x position</source>
@@ -825,6 +701,46 @@
       <trans-unit xml:space="preserve" approved="yes" id="y position">
         <source>y position</source>
         <target state="translated">y좌표</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set motor direction %m.motorDirection">
+        <source>set motor direction %m.motorDirection</source>
+        <target state="translated">모터 방향을 %m.motorDirection 쪽으로 정하기</target>
+        <note from="translator">89%</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set motor power %n">
+        <source>set motor power %n</source>
+        <target state="translated">모터 파워를 %n (으)로 정하기</target>
+        <note from="translator">77%</note>
+        <alt-trans xml:space="preserve" origin="11tnwls12">
+          <target>모터 속도를 %n (으)로 정하기</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="turn motor off">
+        <source>turn motor off</source>
+        <target state="translated">모터 끄기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="turn motor on">
+        <source>turn motor on</source>
+        <target state="translated">모터 켜기</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="turn motor on for %n secs">
+        <source>turn motor on for %n secs</source>
+        <target state="translated">%n 초 동안 모터 켜기</target>
+        <note from="translator">80%</note>
+        <alt-trans xml:space="preserve" origin="MaxSpade360ZXA">
+          <target>%n 초 동안 모터 를 켜기</target>
+        </alt-trans>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="when distance &lt; %n">
+        <source>when distance &lt; %n</source>
+        <target state="translated">거리 &lt; %n 일 때</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="when tilt = %n">
+        <source>when tilt = %n</source>
+        <target state="translated">기울기 = %n 일 때</target>
+        <alt-trans xml:space="preserve" origin="MaxSpade360ZXA">
+          <target>돌기가 %n 때</target>
+        </alt-trans>
       </trans-unit>
     </body>
   </file>

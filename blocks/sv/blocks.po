@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-07-11 18:10+0000\n"
-"Last-Translator: Anders <anders.berggren@smedjebacken.se>\n"
+"PO-Revision-Date: 2014-11-09 18:23+0000\n"
+"Last-Translator: Robert <rob313663@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1405102216.000000\n"
+"X-POOTLE-MTIME: 1415557396.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -50,11 +50,11 @@ msgstr "fråga %s och vänta"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
-msgstr "bakgrund #"
+msgstr "bakgrundsnummer"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr "bakgrundens namn"
+msgstr "bakgrundsnamn"
 
 msgid "broadcast %m.broadcast"
 msgstr "skicka %m.broadcast"
@@ -105,7 +105,7 @@ msgid "Control"
 msgstr "Kontroll"
 
 msgid "costume #"
-msgstr "klädsel #"
+msgstr "klädselnummer"
 
 msgid "create clone of %m.spriteOnly"
 msgstr "skapa klon av %m.spriteOnly"
@@ -189,10 +189,10 @@ msgid "key %m.key pressed?"
 msgstr "tangent %m.key nedtryckt?"
 
 msgid "length of %m.list"
-msgstr "längden på %m.list"
+msgstr "längden av %m.list"
 
 msgid "length of %s"
-msgstr "längden på %s"
+msgstr "längden av %s"
 
 msgid "letter %n of %s"
 msgstr "bokstav %n i %s"
@@ -204,13 +204,13 @@ msgid "loudness"
 msgstr "ljudnivå"
 
 msgid "More Blocks"
-msgstr "Fler Block"
+msgstr "Fler block"
 
 msgid "Motion"
 msgstr "Rörelse"
 
 msgid "mouse down?"
-msgstr "musknappen?"
+msgstr "musknappen nedtryckt?"
 
 msgid "mouse x"
 msgstr "mus x"
@@ -462,7 +462,7 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "när bakgrunden växlar till %m.backdrop"
 
 msgid "when distance %m.lessMore %n"
-msgstr "när distans %m.lessMore %n"
+msgstr "när avstånd %m.lessMore %n"
 
 msgid "when I receive %m.broadcast"
 msgstr "när jag tar emot %m.broadcast"
@@ -471,13 +471,13 @@ msgid "when I start as a clone"
 msgstr "när jag startar som klon"
 
 msgid "when Stage clicked"
-msgstr "när Scenen klickas på"
+msgstr "när scenen klickas på"
 
 msgid "when this sprite clicked"
-msgstr "när denna sprite klickas på"
+msgstr "när denna sprajt klickas på"
 
 msgid "when tilt %m.eNe %n"
-msgstr "när luta %m.eNe %n"
+msgstr "när lutning är %m.eNe %n"
 
 msgid "x position"
 msgstr "x-läge"
@@ -507,7 +507,7 @@ msgid "when distance < %n"
 msgstr "när avståndet är < %n"
 
 msgid "when tilt = %n"
-msgstr "om luta = %n"
+msgstr "om lutning = %n"
 
 # 89%
 # 86%

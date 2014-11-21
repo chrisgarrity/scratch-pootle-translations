@@ -1,0 +1,495 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-25 22:29+0200\n"
+"PO-Revision-Date: 2014-11-16 15:51+0000\n"
+"Last-Translator: aabuchba <aabuchba@mail.ru>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ab\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1416153068.000000\n"
+
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "Аҧсшәа (Абхазский)"
+
+msgid "%b and %b"
+msgstr "%b и %b"
+
+msgid "%b or %b"
+msgstr "%b ма %b"
+
+msgid "%m.attribute of %m.spriteOrStage"
+msgstr "%m.атрибут %m.spriteOrStage аҟынтә"
+
+msgid "%m.list contains %s"
+msgstr "%m.list иаҵанакуеит %s"
+
+msgid "%m.mathOp of %n"
+msgstr "%m.mathOp %n аҟынтә"
+
+msgid "%m.sensor sensor value"
+msgstr "%m.sensor арбага аҵакы"
+
+msgid "%n mod %n"
+msgstr "%n mod %n"
+
+msgid "add %s to %m.list"
+msgstr "иацҵатәуп %s %m.list ахь"
+
+msgid "answer"
+msgstr "аҭак"
+
+msgid "ask %s and wait"
+msgstr "иазҵаатәуп %s нас иҧштәуп"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "backdrop #"
+msgstr "аҿаҧшыра #"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "backdrop name"
+msgstr "аҿаҧшыра ахьӡ"
+
+msgid "broadcast %m.broadcast"
+msgstr "иҭатәуп %m.broadcast"
+
+msgid "broadcast %m.broadcast and wait"
+msgstr "иҭатәуп %m.broadcast нас иҧштәуп"
+
+msgid "change %m.effect effect by %n"
+msgstr "иҧсахтәуп %m.effect аефект %n ала"
+
+msgid "change %m.var by %n"
+msgstr "иҧсахтәуп %m.var %n ала"
+
+msgid "change pen color by %n"
+msgstr "иҧсахтәуп акалам аҧштәы %n ала"
+
+msgid "change pen shade by %n"
+msgstr "иҧсахтәуп акалам агага %n ала"
+
+msgid "change pen size by %n"
+msgstr "иҧсахтәуп акалам ашәагаа %n ала"
+
+msgid "change size by %n"
+msgstr "иҧсахтәуп ашәагаа %n ала"
+
+msgid "change tempo by %n"
+msgstr "иҧсахтәуп атемп %n ала"
+
+msgid "change volume by %n"
+msgstr "иҧсахтәуп абжьы %n ала"
+
+msgid "change x by %n"
+msgstr "иҧсахтәуп x %n ала"
+
+msgid "change y by %n"
+msgstr "иҧсахтәуп y %n ала"
+
+msgid "clear"
+msgstr "ирыцқьатәуп"
+
+msgid "clear graphic effects"
+msgstr "иқәгатәуп аграфикатә ефектқәа"
+
+msgid "color %c is touching %c?"
+msgstr "аҧштәы %c иадкьыслоума %c?"
+
+msgid "Control"
+msgstr "Аконтроль"
+
+msgid "costume #"
+msgstr "акостиум №"
+
+msgid "create clone of %m.spriteOnly"
+msgstr "иаҧҵатәуп аиҧш %m.spriteOnly"
+
+msgid "current %m.timeAndDate"
+msgstr "уажәтәи %m.timeAndDate"
+
+msgid "Data"
+msgstr "Адыррақәа"
+
+msgid "days since 2000"
+msgstr "амшқәа 01.01.2000 инаркны"
+
+msgid "define"
+msgstr "ишьақәыргылатәуп"
+
+msgid "delete %d.listDeleteItem of %m.list"
+msgstr "ианыхтәуп %d.listDeleteItem %m.list аҟынтә"
+
+msgid "delete this clone"
+msgstr "ианыхтәуп аиҧш"
+
+msgid "direction"
+msgstr "ахырхарҭа"
+
+msgid "distance"
+msgstr "ирыбжьоу"
+
+msgid "distance to %m.spriteOrMouse"
+msgstr "ирыбжьоу %m.spriteOrMouse аҟынӡа"
+
+msgid "else"
+msgstr "акәмзар"
+
+msgid "Events"
+msgstr "Ахҭысқәа"
+
+msgid "forever"
+msgstr "инагӡалатәуп"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "иқәҵәраатәуп x:%n y:%n ахь %n секундк"
+
+msgid "go back %n layers"
+msgstr "ииастәуп шьҭахьҟа %n ҿыгҳарак рыла"
+
+msgid "go to %m.spriteOrMouse"
+msgstr "ииастәуп %m.spriteOrMouse ахь"
+
+msgid "go to front"
+msgstr "ииастәуп аҩадатәи аҿыгҳара ахь"
+
+msgid "go to x:%n y:%n"
+msgstr "ииастәуп x:%n y:%n ахь"
+
+msgid "hide"
+msgstr "аҽыҵәахра"
+
+msgid "hide list %m.list"
+msgstr "иҵәахтәуп ахьӡынҵа %m.list"
+
+msgid "hide variable %m.var"
+msgstr "иҵәахтәуп аҽеиҭак %m.var"
+
+msgid "if %b then"
+msgstr "%b акәзар"
+
+msgid "if on edge, bounce"
+msgstr "акьыҧшь акәзар, иадҧатәуп"
+
+msgid "insert %s at %d.listItem of %m.list"
+msgstr "иқәргылатәуп %s %d.listItem ахь %m.list аҟынтә"
+
+msgid "item %d.listItem of %m.list"
+msgstr "аелемент %d.listItem %m.list аҟынтә"
+
+msgid "join %s %s"
+msgstr "иеиҧшьтәуп %s%s"
+
+msgid "key %m.key pressed?"
+msgstr "аклавиша %m.key иақәӷәӷәоума?"
+
+msgid "length of %m.list"
+msgstr "ахьӡынҵа аура %m.list"
+
+msgid "length of %s"
+msgstr "ацәаҳәа аура %s"
+
+msgid "letter %n of %s"
+msgstr "анбан %n %s аҟны"
+
+msgid "Looks"
+msgstr "аҧшра-асахьа"
+
+msgid "loudness"
+msgstr "абжьы аҳаракыра"
+
+msgid "More Blocks"
+msgstr "Аблок ҿыцқәа"
+
+msgid "Motion"
+msgstr "Аиҭаҵра"
+
+msgid "mouse down?"
+msgstr "ахәына иақәӷәӷәоума?"
+
+msgid "mouse x"
+msgstr "ахәына x ала"
+
+msgid "mouse y"
+msgstr "ахәына y ала"
+
+msgid "move %n steps"
+msgstr "ицатәуп %n шьаҿак"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "next backdrop"
+msgstr "анаҩстәи аҿаҧшыра"
+
+msgid "next costume"
+msgstr "анаҩстәи акостиум"
+
+msgid "not %b"
+msgstr "%b акәӡам"
+
+msgid "Operators"
+msgstr "Аоператорқәа"
+
+msgid "Pen"
+msgstr "акалам"
+
+msgid "pen down"
+msgstr "акалам лашьҭтәуп"
+
+msgid "pen up"
+msgstr "акалам иҩахатәуп"
+
+msgid "pick random %n to %n"
+msgstr "иарбанзаалакь %n -и %n рыбжьара"
+
+msgid "play drum %d.drum for %n beats"
+msgstr "адаул %d.drum иастәуп %n тактк"
+
+msgid "play note %d.note for %n beats"
+msgstr "анота %d.note ихәмартәуп %n тактк"
+
+msgid "play sound %m.sound"
+msgstr "иргатәуп абжьы %m.sound"
+
+msgid "play sound %m.sound until done"
+msgstr "иргатәуп абжьы %m.sound инҵәаанӡа"
+
+msgid "point in direction %d.direction"
+msgstr "инарҳәтәуп абрахь %d.direction"
+
+msgid "point towards %m.spriteOrMouse"
+msgstr "%m.spriteOrMouse ахь инаҳәтәуп"
+
+msgid "repeat %n"
+msgstr "инагӡалатәуп %n - нтә"
+
+msgid "repeat until %b"
+msgstr "инагӡалатәуп %b акәмзар"
+
+msgid "replace item %d.listItem of %m.list with %s"
+msgstr "иҧсахтәуп аелемент %d.listItem %m.list аҿы %s ала"
+
+msgid "reset timer"
+msgstr "аамҭарбага ҿыц идәықәҵатәуп"
+
+msgid "rest for %n beats"
+msgstr "иҧштәуп %n тактк"
+
+msgid "round %n"
+msgstr "ихаргежьтәуп %n"
+
+msgid "say %s"
+msgstr "иҳәатәуп %s"
+
+msgid "say %s for %n secs"
+msgstr "иҳәалатәуп %s аамҭала %n секундк"
+
+msgid "Sensing"
+msgstr "Асенсорқәа"
+
+msgid "sensor %m.booleanSensor?"
+msgstr "асенсор %m.booleanSensor?"
+
+msgid "set %m.effect effect to %n"
+msgstr "ишьақәргылатәуп аефект %m.effect %n аҿы"
+
+msgid "set %m.var to %s"
+msgstr "ишьақәргылатәуп %m.var %s аҿы"
+
+msgid "set instrument to %d.instrument"
+msgstr "иалхтәуп амыруга %d.instrument"
+
+msgid "set %m.motor2 direction to %m.motorDirection"
+msgstr "ишьақәыргылатәуп ахырхарҭа %m.motor2 азы %m.motorDirection аҟны"
+
+msgid "set %m.motor power to %n"
+msgstr "ишьақәыргылатәуп амчра %m.motor азы %n аҟны"
+
+msgid "set pen color to %c"
+msgstr "ишьақәыргылатәуп акалам аҧштәы %c"
+
+msgid "set pen color to %n"
+msgstr "ишьақәыргылатәуп акалам аҧштәы %n"
+
+msgid "set pen shade to %n"
+msgstr "ишьақәыргылатәуп акалам агага %n"
+
+msgid "set pen size to %n"
+msgstr "ишьақәыргылатәуп акалам ашәагаа %n"
+
+msgid "set rotation style %m.rotationStyle"
+msgstr "аргежьра астиль %m.rotationStyle"
+
+msgid "set size to %n%"
+msgstr "ишьақәыргылатәуп ашәагаа %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "ишьақәыргылатәуп атемп %n bpm"
+
+msgid "set video transparency to %n%"
+msgstr "ишьақәыргылатәуп авидео аҵәцара %n%"
+
+msgid "set volume to %n%"
+msgstr "ишьақәыргылатәуп абжьы аҳаракыра %n%"
+
+msgid "set x to %n"
+msgstr "ишьақәыргылатәуп x %n аҿы"
+
+msgid "set y to %n"
+msgstr "ишьақәыргылатәуп y %n аҿы"
+
+msgid "show"
+msgstr "ацәырҵра"
+
+msgid "show list %m.list"
+msgstr "иаарҧштәуп ахьӡынҵа %m.list"
+
+msgid "show variable %m.var"
+msgstr "иаарҧштәуп аҽеиҭак %m.var"
+
+msgid "size"
+msgstr "ашәагаа"
+
+msgid "Sound"
+msgstr "Абжьы"
+
+msgid "stamp"
+msgstr "аштамп"
+
+msgid "stop %m.stop"
+msgstr "аанкылара %m.stop"
+
+msgid "stop all sounds"
+msgstr "иаанкылатәуп абжьқәа зегьы"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop"
+msgstr "иҧсахтәуп аҿаҧшыра %m.backdrop ала"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop and wait"
+msgstr "иҧсахтәуп аҿаҧшыра %m.backdrop ала нас иҧштәуп"
+
+msgid "switch costume to %m.costume"
+msgstr "иҧсахтәуп акостиум %m.costume ала"
+
+msgid "tempo"
+msgstr "атемп"
+
+msgid "think %s"
+msgstr "ахәцра %s"
+
+msgid "think %s for %n secs"
+msgstr "ахәцра %s %n секундк"
+
+msgid "tilt"
+msgstr "анаара"
+
+msgid "timer"
+msgstr "аамҭарбага"
+
+msgid "touching %m.touching?"
+msgstr "иадкьыслоума %m.touching?"
+
+msgid "touching color %c?"
+msgstr "иадкьыслоума аҧштәы %c?"
+
+msgid "turn @turnLeft %n degrees"
+msgstr "иргьежьтәуп @turnLeft %n градус рыла"
+
+msgid "turn @turnRight %n degrees"
+msgstr "иргьежьтәуп @turnRight %n градус рыла"
+
+msgid "turn %m.motor off"
+msgstr "ирцәатәуп %m.motor"
+
+msgid "turn %m.motor on"
+msgstr "иарктәуп %m.motor"
+
+msgid "turn %m.motor on for %n secs"
+msgstr "иарктәуп %m.motor %n секундк"
+
+msgid "turn video %m.videoState"
+msgstr "иргьежьтәуп авидео %m.videoState ала"
+
+msgid "username"
+msgstr "алахәлаҩ ихьӡ"
+
+msgid "video %m.videoMotionType on %m.stageOrThis"
+msgstr "авидео %m.videoMotionType %m.stageOrThis ала"
+
+msgid "volume"
+msgstr "абжьы аҳаракыра"
+
+msgid "wait %n secs"
+msgstr "иҧштәуп %n секундк"
+
+msgid "wait until %b"
+msgstr "иҧштәуп %b -нӡа"
+
+msgid "when %m.booleanSensor"
+msgstr "асенсор %m.booleanSensor"
+
+msgid "when %m.key key pressed"
+msgstr "аклавиша %m.key ианақәыӷәӷәоу"
+
+msgid "when %m.sensor %m.lessMore %n"
+msgstr "%m.sensor %m.lessMore %n анакәу"
+
+msgid "when %m.triggerSensor > %n"
+msgstr "%m.triggerSensor анакәу > %n"
+
+msgid "when @greenFlag clicked"
+msgstr "@greenFlag ианақәыӷәӷәалакь"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "when backdrop switches to %m.backdrop"
+msgstr "аҿаҧшыра аҽанаҧсахуа %m.backdrop ала"
+
+msgid "when distance %m.lessMore %n"
+msgstr "ирыбжьоу %m.lessMore %n анакәу"
+
+msgid "when I receive %m.broadcast"
+msgstr "сара %m.broadcast ансоуа"
+
+msgid "when I start as a clone"
+msgstr "аиҧш еиҧш саналаго"
+
+msgid "when Stage clicked"
+msgstr "Асцена ианақәыгәгәуалакь"
+
+msgid "when this sprite clicked"
+msgstr "анагӡаҩ ианақәыгәгәуалакь"
+
+msgid "when tilt %m.eNe %n"
+msgstr "анаара %m.eNe %n анакәу"
+
+msgid "x position"
+msgstr "x аҭыҧ"
+
+msgid "y position"
+msgstr "y аҭыҧ"
+
+msgid "set motor direction %m.motorDirection"
+msgstr "амотор ахырхарҭа %m.motorDirection"
+
+msgid "set motor power %n"
+msgstr "аматор амчра %n"
+
+msgid "turn motor off"
+msgstr "аматор арцәара"
+
+msgid "turn motor on"
+msgstr "аматор аркра"
+
+msgid "turn motor on for %n secs"
+msgstr "иарктәуп аматор %n секундк"
+
+msgid "when distance < %n"
+msgstr "ирыбжьоу < %n аасҭа"
+
+msgid "when tilt = %n"
+msgstr "анаара = %n ианаҟароу"

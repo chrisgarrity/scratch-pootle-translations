@@ -6,6 +6,9 @@
         <source>Language-Name</source>
         <target state="translated">Ελληνικά</target>
         <note from="translator">The language name as it will appear in the language menu</note>
+        <alt-trans xml:space="preserve" origin="harispc">
+          <target>Ελληνικά (Σύγχρονα)</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="%b and %b">
         <source>%b and %b</source>
@@ -21,7 +24,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="%m.list contains %s">
         <source>%m.list contains %s</source>
-        <target state="translated">%m.list περιέχει %s</target>
+        <target state="translated">Η λίστα %m.list περιέχει %s</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="%m.mathOp of %n">
         <source>%m.mathOp of %n</source>
@@ -30,6 +33,9 @@
       <trans-unit xml:space="preserve" approved="yes" id="%m.sensor sensor value">
         <source>%m.sensor sensor value</source>
         <target state="translated">τιμή αισθητήρα %m.sensor</target>
+        <alt-trans xml:space="preserve" origin="harispc">
+          <target>τιμή του αισθητήρα %m.sensor</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="%n mod %n">
         <source>%n mod %n</source>
@@ -37,15 +43,21 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="add %s to %m.list">
         <source>add %s to %m.list</source>
-        <target state="translated">πρόσθεσε το %s στο %m.list</target>
+        <target state="translated">πρόσθεσε το %s στη λίστα %m.list</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="answer">
         <source>answer</source>
         <target state="translated">απάντηση</target>
+        <alt-trans xml:space="preserve" origin="harispc">
+          <target>απαντήστε</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="ask %s and wait">
         <source>ask %s and wait</source>
         <target state="translated">ρώτησε %s και περίμενε</target>
+        <alt-trans xml:space="preserve" origin="harispc">
+          <target>ρώτησε %s και περίμενε όσπου να λάβεις απάντηση</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="backdrop #">
         <source>backdrop #</source>
@@ -60,10 +72,16 @@
       <trans-unit xml:space="preserve" approved="yes" id="broadcast %m.broadcast">
         <source>broadcast %m.broadcast</source>
         <target state="translated">μετάδωσε %m.broadcast</target>
+        <alt-trans xml:space="preserve" origin="harispc">
+          <target>μετάδωσε το %m.broadcast</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="broadcast %m.broadcast and wait">
         <source>broadcast %m.broadcast and wait</source>
         <target state="translated">μετάδωσε το %m.broadcast και περίμενε</target>
+        <alt-trans xml:space="preserve" origin="harispc">
+          <target>μετάδωσε το %m.broadcast και περίμενε όσπου να λάβεις απάντηση</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="change %m.effect effect by %n">
         <source>change %m.effect effect by %n</source>
@@ -87,7 +105,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="change size by %n">
         <source>change size by %n</source>
-        <target state="translated">άλλαξε το μέγεθος κατά %n</target>
+        <target state="translated">άλλαξε το μέγεθος του αντικειμένου κατά %n</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="change tempo by %n">
         <source>change tempo by %n</source>
@@ -111,7 +129,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="clear graphic effects">
         <source>clear graphic effects</source>
-        <target state="translated">καθάρισε τα γραφικά εφέ</target>
+        <target state="translated">επανάφερε τα γραφικά εφέ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="color %c is touching %c?">
         <source>color %c is touching %c?</source>
@@ -131,7 +149,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="current %m.timeAndDate">
         <source>current %m.timeAndDate</source>
-        <target state="translated">τρέχων %m.timeAndDate</target>
+        <target state="translated">%m.timeAndDate </target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Data">
         <source>Data</source>
@@ -163,7 +181,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="distance to %m.spriteOrMouse">
         <source>distance to %m.spriteOrMouse</source>
-        <target state="translated">απόσταση μέχρι το %m.spriteOrMouse</target>
+        <target state="translated">η απόσταση μέχρι το %m.spriteOrMouse</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="else">
         <source>else</source>
@@ -179,7 +197,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="glide %n secs to x:%n y:%n">
         <source>glide %n secs to x:%n y:%n</source>
-        <target state="translated">κινήσου ομαλά για %n δευτ. στο x:%n y:%n</target>
+        <target state="translated">πήγαινε αργά για %n δευτ. στη θέση x:%n και y:%n</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="go back %n layers">
         <source>go back %n layers</source>
@@ -187,19 +205,19 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="go to %m.spriteOrMouse">
         <source>go to %m.spriteOrMouse</source>
-        <target state="translated">πήγαινε στο %m.spriteOrMouse</target>
+        <target state="translated">πήγαινε στη θέση του %m.spriteOrMouse</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="go to front">
         <source>go to front</source>
-        <target state="translated">πήγαινε σε πρώτο πλάνο</target>
+        <target state="translated">πήγαινε στην μπροστινή στρώση</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="go to x:%n y:%n">
         <source>go to x:%n y:%n</source>
-        <target state="translated">πήγαινε στη θέση x:%n y:%n</target>
+        <target state="translated">πήγαινε στη θέση x:%n και y:%n</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="hide">
         <source>hide</source>
-        <target state="translated">κρύψου</target>
+        <target state="translated">εξαφανίσου</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="hide list %m.list">
         <source>hide list %m.list</source>
@@ -215,15 +233,15 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="if on edge, bounce">
         <source>if on edge, bounce</source>
-        <target state="translated">εάν στα όρια, αναπήδησε</target>
+        <target state="translated">εάν βρίσκεσαι στα όρια, αναπήδησε</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="insert %s at %d.listItem of %m.list">
         <source>insert %s at %d.listItem of %m.list</source>
-        <target state="translated">βάλε το %s στη θέση %d.listItem του %m.list</target>
+        <target state="translated">βάλε το %s στη θέση %d.listItem της λίστας %m.list</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="item %d.listItem of %m.list">
         <source>item %d.listItem of %m.list</source>
-        <target state="translated">το στοιχείο %d.listItem του %m.list</target>
+        <target state="translated">το στοιχείο %d.listItem της λίστας %m.list</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="join %s %s">
         <source>join %s %s</source>
@@ -235,15 +253,15 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="length of %m.list">
         <source>length of %m.list</source>
-        <target state="translated">μήκος του %m.list</target>
+        <target state="translated">το μήκος της λίστας %m.list</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="length of %s">
         <source>length of %s</source>
-        <target state="translated">μήκος του %s</target>
+        <target state="translated">το μήκος του %s</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="letter %n of %s">
         <source>letter %n of %s</source>
-        <target state="translated">γράμμα %n του %s</target>
+        <target state="translated">το %n ° γράμμα του %s</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Looks">
         <source>Looks</source>
@@ -255,11 +273,11 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="More Blocks">
         <source>More Blocks</source>
-        <target state="translated">Περισσότερα Μπλοκ</target>
+        <target state="translated">Άλλες Εντολές</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Motion">
         <source>Motion</source>
-        <target state="translated">Κίνηση</target>
+        <target state="translated">Κινήσεις</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="mouse down?">
         <source>mouse down?</source>
@@ -267,11 +285,11 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="mouse x">
         <source>mouse x</source>
-        <target state="translated">θέση x ποντικιού</target>
+        <target state="translated">θέση x του ποντικιού</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="mouse y">
         <source>mouse y</source>
-        <target state="translated">θέση y ποντικιού</target>
+        <target state="translated">θέση y του ποντικιού</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="move %n steps">
         <source>move %n steps</source>
@@ -279,16 +297,16 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="next backdrop">
         <source>next backdrop</source>
-        <target state="translated">επόμενο υπόβαθρο</target>
+        <target state="translated">άλλαξε στο επόμενο υπόβαθρο</target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="next costume">
         <source>next costume</source>
-        <target state="translated">επόμενη ενδυμασία</target>
+        <target state="translated">άλλαξε στην επόμενη ενδυμασία</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="not %b">
         <source>not %b</source>
-        <target state="translated">όχι %b</target>
+        <target state="translated">δεν ισχύει ότι %b</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Operators">
         <source>Operators</source>
@@ -296,7 +314,10 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Pen">
         <source>Pen</source>
-        <target state="translated">Πένα</target>
+        <target state="translated">Σχεδιασμοί Πένας</target>
+        <alt-trans xml:space="preserve" origin="kglezou">
+          <target>Πένα</target>
+        </alt-trans>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pen down">
         <source>pen down</source>
@@ -308,11 +329,11 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="pick random %n to %n">
         <source>pick random %n to %n</source>
-        <target state="translated">επίλεξε τυχαίο αριθμό από το %n μέχρι το %n</target>
+        <target state="translated">επίλεξε έναν τυχαίο αριθμό από το %n μέχρι το %n</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="play drum %d.drum for %n beats">
         <source>play drum %d.drum for %n beats</source>
-        <target state="translated">παίξε τύμπανο %d.drum για %n χρόνους</target>
+        <target state="translated">παίξε το τύμπανο %d.drum για %n χρόνους</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="play note %d.note for %n beats">
         <source>play note %d.note for %n beats</source>
@@ -325,15 +346,15 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="play sound %m.sound until done">
         <source>play sound %m.sound until done</source>
-        <target state="translated">παίξε τον ήχο %m.sound μέχρι τέλους</target>
+        <target state="translated">παίξε τον ήχο %m.sound μέχρι το τέλος</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="point in direction %d.direction">
         <source>point in direction %d.direction</source>
-        <target state="translated">δείξε προς την κατεύθυνση %d.direction</target>
+        <target state="translated">στρίψε προς την κατεύθυνση των %d.direction μοιρών</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="point towards %m.spriteOrMouse">
         <source>point towards %m.spriteOrMouse</source>
-        <target state="translated">δείξε προς το %m.spriteOrMouse</target>
+        <target state="translated">στρίψε προς το %m.spriteOrMouse</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="repeat %n">
         <source>repeat %n</source>
@@ -345,7 +366,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="replace item %d.listItem of %m.list with %s">
         <source>replace item %d.listItem of %m.list with %s</source>
-        <target state="translated">αντικατάστησε το στοιχείο %d.listItem του %m.list με %s</target>
+        <target state="translated">αντικατάστησε το στοιχείο %d.listItem της λίστας %m.list με %s</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="reset timer">
         <source>reset timer</source>
@@ -385,17 +406,20 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set instrument to %d.instrument">
         <source>set instrument to %d.instrument</source>
-        <target state="translated">όρισε το όργανο σε %d.instrument</target>
+        <target state="translated">όρισε το μουσικό όργανο σε %d.instrument</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="set motor direction %m.motorDirection">
-        <source>set motor direction %m.motorDirection</source>
-        <target state="translated">όρισε την κατεύθυνση κίνησης του κινητήρα σε %m.motorDirection</target>
-        <note from="translator">89%</note>
+      <trans-unit xml:space="preserve" approved="yes" id="set %m.motor2 direction to %m.motorDirection">
+        <source>set %m.motor2 direction to %m.motorDirection</source>
+        <target state="translated">όρισε την κατεύθυνση κίνησης του κινητήρα %m.motor2 σε %m.motorDirection</target>
+        <note from="translator">89%
+86%
+97%</note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="set motor power %n">
-        <source>set motor power %n</source>
+      <trans-unit xml:space="preserve" approved="yes" id="set %m.motor power to %n">
+        <source>set %m.motor power to %n</source>
         <target state="translated">όρισε την ισχύ κινητήρα σε %n</target>
-        <note from="translator">77%</note>
+        <note from="translator">77%
+75%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set pen color to %c">
         <source>set pen color to %c</source>
@@ -419,7 +443,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set size to %n%">
         <source>set size to %n%</source>
-        <target state="translated">όρισε το μέγεθος σε %n%</target>
+        <target state="translated">όρισε το μέγεθος του αντικειμένου σε %n%</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set tempo to %n bpm">
         <source>set tempo to %n bpm</source>
@@ -427,7 +451,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set video transparency to %n%">
         <source>set video transparency to %n%</source>
-        <target state="translated">όρισε τη διαφάνεια του βίντεο σε %n%</target>
+        <target state="translated">όρισε τη διαφάνεια προβολής κάμερας σε %n%</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="set volume to %n%">
         <source>set volume to %n%</source>
@@ -459,7 +483,7 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="Sound">
         <source>Sound</source>
-        <target state="translated">Ήχος</target>
+        <target state="translated">Ήχοι</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="stamp">
         <source>stamp</source>
@@ -523,30 +547,32 @@
         <source>turn @turnRight %n degrees</source>
         <target state="translated">στρίψε @turnRight %n μοίρες</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="turn motor off">
-        <source>turn motor off</source>
-        <target state="translated">σβήσε τον κινητήρα</target>
+      <trans-unit xml:space="preserve" approved="yes" id="turn %m.motor off">
+        <source>turn %m.motor off</source>
+        <target state="translated">απενεργοποίησε τον κινητήρα %m.motor</target>
+        <note from="translator">82%</note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="turn motor on">
-        <source>turn motor on</source>
-        <target state="translated">άναψε τον κινητήρα</target>
+      <trans-unit xml:space="preserve" approved="yes" id="turn %m.motor on">
+        <source>turn %m.motor on</source>
+        <target state="translated">ενεργοποίησε τον κινητήρα %m.motor</target>
+        <note from="translator">81%</note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="turn motor on for %n secs">
-        <source>turn motor on for %n secs</source>
-        <target state="translated">άναψε τον κινητήρα για %n δευτερόλεπτα</target>
-        <note from="translator">80%</note>
+      <trans-unit xml:space="preserve" approved="yes" id="turn %m.motor on for %n secs">
+        <source>turn %m.motor on for %n secs</source>
+        <target state="translated">ενεργοποίησε τον κινητήρα %m.motor για %n δευτερόλεπτα</target>
+        <note from="translator">89%</note>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="turn video %m.videoState">
         <source>turn video %m.videoState</source>
-        <target state="translated">όρισε το βίντεο σε %m.videoState</target>
+        <target state="translated">%m.videoState την προβολή κάμερας</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="user id">
-        <source>user id</source>
-        <target state="translated">ταυτότητα χρήστη</target>
+      <trans-unit xml:space="preserve" approved="yes" id="username">
+        <source>username</source>
+        <target state="translated">Όνομα χρήστη</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="video %m.videoMotionType on %m.stageOrThis">
         <source>video %m.videoMotionType on %m.stageOrThis</source>
-        <target state="translated">η %m.videoMotionType στο βίντεο σε %m.stageOrThis</target>
+        <target state="translated">%m.videoMotionType προβολής κάμερας στο %m.stageOrThis</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="volume">
         <source>volume</source>
@@ -567,48 +593,87 @@
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when %m.key key pressed">
         <source>when %m.key key pressed</source>
-        <target state="translated">όταν το πλήκτρο %m.key πατηθεί</target>
+        <target state="translated">Όταν το πλήκτρο %m.key πατηθεί</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="when %m.sensor %m.lessMore %n">
+        <source>when %m.sensor %m.lessMore %n</source>
+        <target state="translated">όταν ο αισθητήρας %m.sensor είναι %m.lessMore %n</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when %m.triggerSensor &gt; %n">
         <source>when %m.triggerSensor &gt; %n</source>
-        <target state="translated">όταν %m.triggerSensor &gt; %n</target>
+        <target state="translated">Όταν %m.triggerSensor &gt; %n</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when @greenFlag clicked">
         <source>when @greenFlag clicked</source>
-        <target state="translated">όταν στο @greenFlag γίνει κλίκ</target>
+        <target state="translated">Όταν στο @greenFlag γίνει κλίκ</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when backdrop switches to %m.backdrop">
         <source>when backdrop switches to %m.backdrop</source>
-        <target state="translated">όταν το υπόβαθρο αλλάξει σε %m.backdrop</target>
+        <target state="translated">Όταν το υπόβαθρο αλλάξει σε %m.backdrop</target>
         <note from="translator">"backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4</note>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="when distance &lt; %n">
-        <source>when distance &lt; %n</source>
-        <target state="translated">όταν η απόσταση &lt; %n</target>
+      <trans-unit xml:space="preserve" approved="yes" id="when distance %m.lessMore %n">
+        <source>when distance %m.lessMore %n</source>
+        <target state="translated">όταν η απόσταση είναι  %m.lessMore %n</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when I receive %m.broadcast">
         <source>when I receive %m.broadcast</source>
-        <target state="translated">όταν λάβω το %m.broadcast</target>
+        <target state="translated">Όταν λάβω το %m.broadcast</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when I start as a clone">
         <source>when I start as a clone</source>
-        <target state="translated">όταν ξεκινήσω σαν κλώνος</target>
+        <target state="translated">Όταν ξεκινήσει ο κλώνος</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="when Stage clicked">
+        <source>when Stage clicked</source>
+        <target state="translated">Όταν γίνει κλικ στο Σκηνικό</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="when this sprite clicked">
         <source>when this sprite clicked</source>
-        <target state="translated">όταν σε αυτή την μορφή γίνει κλικ</target>
+        <target state="translated">Όταν σε αυτό το αντικείμενο γίνει κλικ</target>
       </trans-unit>
-      <trans-unit xml:space="preserve" approved="yes" id="when tilt = %n">
-        <source>when tilt = %n</source>
-        <target state="translated">όταν η κλίση = %n</target>
+      <trans-unit xml:space="preserve" approved="yes" id="when tilt %m.eNe %n">
+        <source>when tilt %m.eNe %n</source>
+        <target state="translated">όταν γέρνει %m.eNe %n</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="x position">
         <source>x position</source>
-        <target state="translated">θέση x</target>
+        <target state="translated">θέση του x</target>
       </trans-unit>
       <trans-unit xml:space="preserve" approved="yes" id="y position">
         <source>y position</source>
-        <target state="translated">θέση y</target>
+        <target state="translated">θέση του y</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set motor direction %m.motorDirection">
+        <source>set motor direction %m.motorDirection</source>
+        <target state="translated">όρισε την κατεύθυνση κίνησης του κινητήρα σε %m.motorDirection</target>
+        <note from="translator">89%</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="set motor power %n">
+        <source>set motor power %n</source>
+        <target state="translated">όρισε την ισχύ κινητήρα σε %n</target>
+        <note from="translator">77%</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="turn motor off">
+        <source>turn motor off</source>
+        <target state="translated">απενεργοποίησε τον κινητήρα</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="turn motor on">
+        <source>turn motor on</source>
+        <target state="translated">ενεργοποίησε τον κινητήρα</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="turn motor on for %n secs">
+        <source>turn motor on for %n secs</source>
+        <target state="translated">ενεργοποίησε τον κινητήρα για %n δευτερόλεπτα</target>
+        <note from="translator">80%</note>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="when distance &lt; %n">
+        <source>when distance &lt; %n</source>
+        <target state="translated">Όταν η απόσταση &lt; %n</target>
+      </trans-unit>
+      <trans-unit xml:space="preserve" approved="yes" id="when tilt = %n">
+        <source>when tilt = %n</source>
+        <target state="translated">Όταν η κλίση = %n</target>
       </trans-unit>
     </body>
   </file>

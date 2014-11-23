@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-01 08:55+0200\n"
+"POT-Creation-Date: 2014-11-23 12:41+0000\n"
 "PO-Revision-Date: 2014-11-15 19:29+0000\n"
 "Last-Translator: aabuchba <aabuchba@mail.ru>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -29,6 +29,9 @@ msgstr "A аимадара шьақәыргылоуп"
 msgid "a copy of the project file on your computer."
 msgstr "апроект акопиа шәара шәкомпиутер аҿы."
 
+msgid "A newer version of Scratch is available"
+msgstr ""
+
 msgid "About"
 msgstr "Апрограмма иазкны"
 
@@ -47,6 +50,9 @@ msgstr "Аккаунт архиарақәа"
 msgid "acos"
 msgstr "acos"
 
+msgid "Add"
+msgstr ""
+
 msgid "Add an Extension"
 msgstr "Иацҵатәуп ахарҭәаара"
 
@@ -55,6 +61,9 @@ msgstr "Иҭагалатәуп алогикатә ҵакы:"
 
 msgid "add comment"
 msgstr "акоментари ацҵатәуп"
+
+msgid "add comment here..."
+msgstr ""
 
 msgid "Add label text:"
 msgstr "Иацҵатәуп атекст аҵаҩымҭа:"
@@ -65,11 +74,11 @@ msgstr "Иацҵатәуп ахыҧхьаӡарақәа рҭагаларатә �
 msgid "Add string input:"
 msgstr "Иацҵатәуп ацәаҳәақәа рҭагаларатә ҭакыра:"
 
-msgid "All"
-msgstr "Зегьы"
-
 msgid "all"
 msgstr "зегьы"
+
+msgid "All"
+msgstr "Зегьы"
 
 msgid "all around"
 msgstr "зегьы рыкәша-мыкәша"
@@ -98,11 +107,11 @@ msgstr "B аимадара шьақәыргылоуп"
 msgid "Back a layer"
 msgstr "Ҵаҟа ҿыгҳарак ала"
 
-msgid "Backdrop"
-msgstr "Аҿаҧшыра"
-
 msgid "backdrop"
 msgstr "аҿаҧшыра"
+
+msgid "Backdrop"
+msgstr "Аҿаҧшыра"
 
 msgid "backdrop #"
 msgstr "аҿаҧшыра #"
@@ -188,6 +197,9 @@ msgstr "арҳәага ашҟа ииажәгар шәылшоит:"
 msgid "Cancel"
 msgstr "Аҟәыхра"
 
+msgid "Cannot Add"
+msgstr ""
+
 msgid "Cannot Delete"
 msgstr "Аныхра ауӡом"
 
@@ -205,6 +217,9 @@ msgstr "аҳәаа"
 
 msgid "Cello"
 msgstr "Авиолончель"
+
+msgid "Check for updates"
+msgstr ""
 
 msgid "Choir"
 msgstr "Ахор"
@@ -233,7 +248,8 @@ msgstr "Акларнет"
 msgid "Claves"
 msgstr "Аклавесин"
 
-msgid "cleanup"
+#, fuzzy
+msgid "clean up"
 msgstr "арыцқьара"
 
 msgid "Clear"
@@ -256,6 +272,9 @@ msgstr "Аҧсҭҳәа"
 
 msgid "Cloud data"
 msgstr "Адыррақәа аҧсҭҳәа аҟынтә"
+
+msgid "Cloud variable (stored on server)"
+msgstr ""
 
 msgid "color"
 msgstr "аҧштәы"
@@ -314,6 +333,9 @@ msgstr "Акостиумқәа > 1"
 msgid "Costumes:"
 msgstr "Акостиумқәа:"
 
+msgid "Could not retrieve new application from server."
+msgstr ""
+
 msgid "Cowbell"
 msgstr "Аҵәҵәа бжьы"
 
@@ -338,11 +360,11 @@ msgstr "арыцхә"
 msgid "day of week"
 msgstr "амчыбжь амш"
 
-msgid "Delete"
-msgstr "Ианыхтәуп"
-
 msgid "delete"
 msgstr "ианыхтәуп"
+
+msgid "Delete"
+msgstr "Ианыхтәуп"
 
 msgid "delete variable"
 msgstr "ианыхтәуп аҽеиҭак"
@@ -356,6 +378,9 @@ msgstr "ахырхарҭа:"
 msgid "don't rotate"
 msgstr "инарҳәтәӡам"
 
+msgid "Don't save"
+msgstr ""
+
 msgid "down"
 msgstr "алада"
 
@@ -367,6 +392,9 @@ msgstr "Иҭыгатәуп"
 
 msgid "Download to your computer"
 msgstr "Иҭыгатәуп шәара шәкомпиутер ахь"
+
+msgid "Downloading new version"
+msgstr ""
 
 msgid "duplicate"
 msgstr "адубликат"
@@ -380,11 +408,11 @@ msgstr "e ^"
 msgid "edge"
 msgstr "акьыҧшь"
 
-msgid "edit"
-msgstr "аредактор"
-
 msgid "Edit"
 msgstr "Аредактор"
+
+msgid "edit"
+msgstr "аредактор"
 
 msgid "Edit Block"
 msgstr "Иҧсахтәуп аблок"
@@ -404,8 +432,14 @@ msgstr "Аелектроника"
 msgid "Ellipse"
 msgstr "Аелипс"
 
+msgid "empty"
+msgstr ""
+
 msgid "Erase"
 msgstr "Аныхга"
+
+msgid "Erase all"
+msgstr ""
 
 msgid "Eraser width"
 msgstr "Аныхга аҭбаара"
@@ -430,6 +464,9 @@ msgstr "иазырҳалатәуп"
 
 msgid "fade out"
 msgstr "ақәӡаара"
+
+msgid "false"
+msgstr ""
 
 msgid "Fantasy"
 msgstr "Афантастика"
@@ -497,11 +534,27 @@ msgstr "Анапеинҟьабжь"
 msgid "Hardware"
 msgstr "Амыругақәа"
 
+msgid "help"
+msgstr ""
+
+msgid "Hello!"
+msgstr ""
+
+msgid "Hmm..."
+msgstr ""
+
+#, fuzzy
+msgid "hello"
+msgstr "Авиолончель"
+
 msgid "hide"
 msgstr "иҵәахтәуп"
 
 msgid "High C"
 msgstr "Иҳаракыу До"
+
+msgid "Holiday"
+msgstr ""
 
 msgid "hour"
 msgstr "сааҭк"
@@ -542,11 +595,11 @@ msgstr "ахыц армарахь"
 msgid "left-right"
 msgstr "армарахь- арӷьарахь"
 
-msgid "LEGO WeDo"
-msgstr "LEGO WeDo"
-
 msgid "length"
 msgstr "аура"
+
+msgid "Letters"
+msgstr ""
 
 msgid "Library"
 msgstr "Абиблиотека"
@@ -614,7 +667,8 @@ msgstr "Ацҳамҭа ахьӡ"
 msgid "message1"
 msgstr "ацҳамҭа1"
 
-msgid "Microphone Volume:"
+#, fuzzy
+msgid "Microphone volume:"
 msgstr "Амикрофон абжьы аҳаракыра:"
 
 msgid "Middle C"
@@ -677,6 +731,9 @@ msgstr "Аҿаҧшыра ҿыц акамера аҟынтә"
 msgid "New backdrop:"
 msgstr "Аҿаҧшыра ҿыц:"
 
+msgid "New Block"
+msgstr ""
+
 msgid "New costume from camera"
 msgstr "Акостиум ҿыц акамера аҟынтә"
 
@@ -685,6 +742,9 @@ msgstr "Акостиум ҿыц:"
 
 msgid "New List"
 msgstr "Ахьӡынҵа ҿыц"
+
+msgid "New Message"
+msgstr ""
 
 msgid "new message..."
 msgstr "ацҳамҭа ҿыц..."
@@ -703,6 +763,9 @@ msgstr "Анагӡаҩ ҿыц:"
 
 msgid "New Variable"
 msgstr "Аҽеиҭак ҿыц"
+
+msgid "next backdrop"
+msgstr ""
 
 msgid "No motion blocks"
 msgstr "Аиҭаҵратә блокқәа ыҟаӡам"
@@ -737,6 +800,9 @@ msgstr "иарктәуп"
 msgid "on-flipped"
 msgstr "инарҳәыу"
 
+msgid "Open"
+msgstr ""
+
 msgid "Open Cuica"
 msgstr "Иаартыу Акуика"
 
@@ -755,6 +821,10 @@ msgstr "Даҽакқәа"
 msgid "other scripts in sprite"
 msgstr "анагӡаҩ егьырҭ ипрограммақәа"
 
+#, fuzzy
+msgid "other scripts in stage"
+msgstr "анагӡаҩ егьырҭ ипрограммақәа"
+
 msgid "Outdoors"
 msgstr "Адәахьы"
 
@@ -766,6 +836,12 @@ msgstr "Иҭыхтәуп акостиум ҿыц"
 
 msgid "Paint new sprite"
 msgstr "Иҭыхтәуп анагӡаҩ ҿыц"
+
+msgid "Password"
+msgstr ""
+
+msgid "Password is required"
+msgstr ""
 
 msgid "paste"
 msgstr "аҭаргылара"
@@ -797,6 +873,9 @@ msgstr "Апиццикато"
 msgid "pop"
 msgstr "апоп"
 
+msgid "previous backdrop"
+msgstr ""
+
 msgid "Profile"
 msgstr "Апрофиль"
 
@@ -806,6 +885,12 @@ msgstr "Апроект ҭагалаӡам."
 msgid "Project not saved!"
 msgstr "Апроект еиқәырхаӡам!"
 
+msgid "Project name"
+msgstr ""
+
+msgid "Project name is required"
+msgstr ""
+
 msgid "random"
 msgstr "иарбанзаалакь"
 
@@ -814,6 +899,9 @@ msgstr "Иҭаҩтәуп"
 
 msgid "Record new sound"
 msgstr "Иҭаҩтәуп абыжь ҿыц"
+
+msgid "record..."
+msgstr ""
 
 msgid "recording1"
 msgstr "Аҭаҩра1"
@@ -884,11 +972,20 @@ msgstr "Идәықәҵатәуп аекран арҿыцрада"
 msgid "Save"
 msgstr "Иеиқәрхатәуп"
 
+msgid "Save a copy of this project and add your own ideas."
+msgstr ""
+
+msgid "Save as"
+msgstr ""
+
 msgid "Save as a copy"
 msgstr "Иеиқәрхатәуп акопиа ҳасабла"
 
 msgid "Save now"
 msgstr "Иеиқәрхатәуп абыржәы"
+
+msgid "Save project?"
+msgstr ""
 
 msgid "save to local file"
 msgstr "иеиқәрхатәуп алокалтә фаил"
@@ -904,6 +1001,12 @@ msgstr "Аиқәрхара..."
 
 msgid "Saxophone"
 msgstr "Асаксафон"
+
+msgid "Scratch Updater"
+msgstr ""
+
+msgid "Scratch 2.0 Offline Editor"
+msgstr ""
 
 msgid "Script"
 msgstr "Апрограмма"
@@ -937,17 +1040,23 @@ msgstr "Иалхтәуп нас акопиа ахыхтәуп"
 msgid "Send to back"
 msgstr "Ииагатәуп шьҭахьҟа"
 
-msgid "Set costume center"
-msgstr "Ишьақәыргылатәуп акостиум агәҭа"
-
 msgid "Set Costume Center"
 msgstr "Ишьақәыргылатәуп Акостиум Агәҭа"
+
+msgid "Set costume center"
+msgstr "Ишьақәыргылатәуп акостиум агәҭа"
 
 msgid "set slider min and max"
 msgstr "Ишьақәыргылатәуп амаксимуми аминимуми аныраа хәуҷ азы"
 
 msgid "Share"
 msgstr "Акциа"
+
+msgid "Share to website"
+msgstr ""
+
+msgid "Share to Scratch website"
+msgstr ""
 
 msgid "shared"
 msgstr "азеиҧш"
@@ -1021,11 +1130,11 @@ msgstr "Абжьқәа рбиблиотека"
 msgid "Sounds"
 msgstr "Абжьқәа"
 
-msgid "space"
-msgstr "абжьажьга"
-
 msgid "Space"
 msgstr "Акосмос"
+
+msgid "space"
+msgstr "абжьажьга"
 
 msgid "Sports"
 msgstr "Аспорт"
@@ -1072,17 +1181,33 @@ msgstr "Атамбурин"
 msgid "tan"
 msgstr "tan"
 
+#, fuzzy
+msgid "text"
+msgstr "Атекст"
+
 msgid "Text"
 msgstr "Атекст"
 
 msgid "that way"
 msgstr "анахь"
 
+msgid "The name is already is use."
+msgstr ""
+
+msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgstr ""
+
 msgid "Theme"
 msgstr "Атема"
 
 msgid "Things"
 msgstr "Амаҭәарқәа"
+
+msgid "thing"
+msgstr ""
+
+msgid "This is the current version."
+msgstr ""
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
 msgstr ""
@@ -1124,6 +1249,9 @@ msgstr "Ахкәакь"
 msgid "Trombone"
 msgstr "Атромбон"
 
+msgid "true"
+msgstr ""
+
 msgid "Turbo mode"
 msgstr "Турбо арежим"
 
@@ -1139,11 +1267,11 @@ msgstr "Ианыхыу ырхынҳәтәуп"
 msgid "Underwater"
 msgstr "Аӡаҵаҟатәи адунеи"
 
-msgid "Undo"
-msgstr "Архынҳәра шьҭахьҟа"
-
 msgid "undo"
 msgstr "архынҳәра шьҭахьҟа"
+
+msgid "Undo"
+msgstr "Архынҳәра шьҭахьҟа"
 
 msgid "Undo Revert"
 msgstr "Иаҟәыхтәуп аргежьра"
@@ -1159,6 +1287,15 @@ msgstr "аҩада"
 
 msgid "up arrow"
 msgstr "ахыц аҩада"
+
+msgid "Update failed"
+msgstr ""
+
+msgid "Update not needed"
+msgstr ""
+
+msgid "Update now"
+msgstr ""
 
 msgid "Upload backdrop from file"
 msgstr "Иҭагалатәуп аҿаҧшыра афаил аҟынтәи"
@@ -1202,6 +1339,9 @@ msgstr "Авибрафон"
 msgid "Vibraslap"
 msgstr "Авибрациа змоу аслеп"
 
+msgid "video direction"
+msgstr ""
+
 msgid "video motion"
 msgstr "авидео аиҭаҵра"
 
@@ -1223,6 +1363,9 @@ msgstr "Ишәҭахыума иеиқәшәырхарц? Шәақәыгәгәа 
 msgid "Which column do you want to import"
 msgstr "Иарбан еиҵаргылоу аимпорт ахь ишәышьҭуа"
 
+msgid "What's your name?"
+msgstr ""
+
 msgid "whirl"
 msgstr "акьаҳәхара"
 
@@ -1231,6 +1374,9 @@ msgstr "Амҿтәы шәындыҟәра хуҷы"
 
 msgid "Wooden Flute"
 msgstr "Амҿтәы флеита"
+
+msgid "world"
+msgstr ""
 
 msgid "x position"
 msgstr "аҭыҧ x ахырхарҭахь"
@@ -1246,21 +1392,36 @@ msgstr ""
 "Шәара ишәылшом аҧсҭҳәатә дыррақәа рыҧсахра ишәтәым апроектқәа рҿы<br>"
 "Иарбанзаалакь иалажәгало аҧсахрақәа, аредакциа арежим аҟны иаамҭалатәихоит."
 
-msgid "Eraser width:"
-msgstr "Аныхга аҭбаара:"
-
-msgid "Line width:"
-msgstr "Ацәаҳәа аҭбаара:"
-
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-"For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgid "Your Scratch name"
 msgstr ""
-"<b>Аинформациа аҧсҭҳәатә ҽеиҭакқәа ирызкны</b><br>&nbsp;<br>Уажәтәи аамҭазы "
-"ахархәара зуа ихыҧхьаӡаратәу аҽеиҭакқәа роуп<br>Чат-ауадақәа ауӡом, "
-"ианыххоит<br>Ахарҭәаагатә информациа азы<a href= target=>шәахәаҧш АЦХЫРААРА "
-"аҧсҭҳәатә дыррақәа ирызкыу</a>"
 
-msgid "Click  to try again or  to save"
-msgstr "Шәақәыгәгәа аиҭаҟаҵаразы ма аиқәырхараз"
+msgid "Your Scratch name is required"
+msgstr ""
+
+#~ msgid "cleanup"
+#~ msgstr "арыцқьара"
+
+#~ msgid "LEGO WeDo"
+#~ msgstr "LEGO WeDo"
+
+#~ msgid "Microphone Volume:"
+#~ msgstr "Амикрофон абжьы аҳаракыра:"
+
+#~ msgid "Eraser width:"
+#~ msgstr "Аныхга аҭбаара:"
+
+#~ msgid "Line width:"
+#~ msgstr "Ацәаҳәа аҭбаара:"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Аинформациа аҧсҭҳәатә ҽеиҭакқәа ирызкны</b><br>&nbsp;<br>Уажәтәи аамҭазы "
+#~ "ахархәара зуа ихыҧхьаӡаратәу аҽеиҭакқәа роуп<br>Чат-ауадақәа ауӡом, "
+#~ "ианыххоит<br>Ахарҭәаагатә информациа азы<a href= target=>шәахәаҧш АЦХЫРААРА "
+#~ "аҧсҭҳәатә дыррақәа ирызкыу</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Шәақәыгәгәа аиҭаҟаҵаразы ма аиқәырхараз"

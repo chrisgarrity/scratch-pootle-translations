@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-01 08:55+0200\n"
+"POT-Creation-Date: 2014-11-23 12:43+0000\n"
 "PO-Revision-Date: 2014-06-03 21:22+0000\n"
 "Last-Translator: Juha <juha.harviainen@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,17 +17,20 @@ msgstr ""
 msgid "10 ^"
 msgstr "10 ^"
 
-#~ msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Tietoa pilvipalveluista ja -muuttujista</b><br>&nbsp;<br>Tällä hetkellä "
-#~ "vain numerot on tuettuja<br>Keskustelufoorumeja ei sallita ja ne "
-#~ "poistetaan<br>Lisätietoa: <a href= target=>usein kysytyt kysymykset</a>"
+msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Tietoa pilvipalveluista ja -muuttujista</b><br>&nbsp;<br>Tällä hetkellä "
+"vain numerot on tuettuja<br>Keskustelufoorumeja ei sallita ja ne "
+"poistetaan<br>Lisätietoa: <a href= target=>usein kysytyt kysymykset</a>"
 
 msgid "A connected"
 msgstr "A liitetty"
 
 msgid "a copy of the project file on your computer."
 msgstr "kopio projektitiedostosta tietokoneessasi."
+
+msgid "A newer version of Scratch is available"
+msgstr ""
 
 msgid "About"
 msgstr "Tietoa"
@@ -47,6 +50,9 @@ msgstr "Tiliasetukset"
 msgid "acos"
 msgstr "acos"
 
+msgid "Add"
+msgstr ""
+
 msgid "Add an Extension"
 msgstr "Lisää laajennus"
 
@@ -56,6 +62,9 @@ msgstr "Lisää totuusarvo:"
 
 msgid "add comment"
 msgstr "lisää kommentti"
+
+msgid "add comment here..."
+msgstr ""
 
 msgid "Add label text:"
 msgstr "Lisää otsaketeksti:"
@@ -68,11 +77,11 @@ msgstr "Lisää numerosyöttö:"
 msgid "Add string input:"
 msgstr "Lisää tekstisyöttö:"
 
-msgid "All"
-msgstr "Kaikki"
-
 msgid "all"
 msgstr "kaikki"
+
+msgid "All"
+msgstr "Kaikki"
 
 msgid "all around"
 msgstr "joka suuntaan"
@@ -102,13 +111,13 @@ msgid "Back a layer"
 msgstr "Kerros takaisin"
 
 # 88%
+msgid "backdrop"
+msgstr "tausta"
+
+# 88%
 # 87%
 msgid "Backdrop"
 msgstr "Tausta"
-
-# 88%
-msgid "backdrop"
-msgstr "tausta"
 
 msgid "backdrop #"
 msgstr "tausta #"
@@ -196,6 +205,9 @@ msgstr "voidaan raahata pelissä:"
 msgid "Cancel"
 msgstr "Peruuta"
 
+msgid "Cannot Add"
+msgstr ""
+
 msgid "Cannot Delete"
 msgstr "Ei voi poistaa"
 
@@ -213,6 +225,9 @@ msgstr "pyöristys ylös"
 
 msgid "Cello"
 msgstr "Sello"
+
+msgid "Check for updates"
+msgstr ""
 
 msgid "Choir"
 msgstr "Kuoro"
@@ -241,7 +256,8 @@ msgstr "Klarinetti"
 msgid "Claves"
 msgstr "Palikat"
 
-msgid "cleanup"
+#, fuzzy
+msgid "clean up"
 msgstr "siivoa"
 
 msgid "Clear"
@@ -250,8 +266,8 @@ msgstr "Puhdista"
 msgid "clear senders/receivers"
 msgstr "pyyhi lähettimet/vastaanottimet"
 
-#~ msgid "Click "Save now" to try again or "Download" to save"
-#~ msgstr "Klikkaa uudellaan tai tallenna"
+msgid "Click "Save now" to try again or "Download" to save"
+msgstr "Klikkaa uudellaan tai tallenna"
 
 msgid "Close"
 msgstr "Sulje"
@@ -264,6 +280,9 @@ msgstr "Pilvi"
 
 msgid "Cloud data"
 msgstr "Pilvidata"
+
+msgid "Cloud variable (stored on server)"
+msgstr ""
 
 msgid "color"
 msgstr "väri"
@@ -325,6 +344,9 @@ msgstr "Asusteet > 1"
 msgid "Costumes:"
 msgstr "Asusteet:"
 
+msgid "Could not retrieve new application from server."
+msgstr ""
+
 msgid "Cowbell"
 msgstr "Lehmänkello"
 
@@ -349,12 +371,12 @@ msgstr "päiväys"
 msgid "day of week"
 msgstr "viikonpäivä"
 
+msgid "delete"
+msgstr "poista"
+
 # 83%
 msgid "Delete"
 msgstr "Poista"
-
-msgid "delete"
-msgstr "poista"
 
 msgid "delete variable"
 msgstr "poista muuttuja"
@@ -369,6 +391,9 @@ msgstr "suunta:"
 msgid "don't rotate"
 msgstr "älä kierrä"
 
+msgid "Don't save"
+msgstr ""
+
 msgid "down"
 msgstr "alas"
 
@@ -380,6 +405,9 @@ msgstr "Lataa"
 
 msgid "Download to your computer"
 msgstr "Lataa tietokoneeseen"
+
+msgid "Downloading new version"
+msgstr ""
 
 msgid "duplicate"
 msgstr "kopioi"
@@ -393,11 +421,11 @@ msgstr "e ^"
 msgid "edge"
 msgstr "reuna"
 
-msgid "edit"
-msgstr "muokkaa"
-
 msgid "Edit"
 msgstr "Muokkaa"
+
+msgid "edit"
+msgstr "muokkaa"
 
 msgid "Edit Block"
 msgstr "Muokkaa lohkoa"
@@ -417,8 +445,14 @@ msgstr "Sähköinen"
 msgid "Ellipse"
 msgstr "Ellipsi"
 
+msgid "empty"
+msgstr ""
+
 msgid "Erase"
 msgstr "Kumita"
+
+msgid "Erase all"
+msgstr ""
 
 # 92%
 msgid "Eraser width"
@@ -444,6 +478,9 @@ msgstr "vaimenna alku"
 
 msgid "fade out"
 msgstr "vaimenna loppu"
+
+msgid "false"
+msgstr ""
 
 msgid "Fantasy"
 msgstr "Fantasia"
@@ -511,11 +548,27 @@ msgstr "Taputus"
 msgid "Hardware"
 msgstr "Laitteisto"
 
+msgid "help"
+msgstr ""
+
+msgid "Hello!"
+msgstr ""
+
+msgid "Hmm..."
+msgstr ""
+
+#, fuzzy
+msgid "hello"
+msgstr "Sello"
+
 msgid "hide"
 msgstr "piilota"
 
 msgid "High C"
 msgstr "Ylä-C"
+
+msgid "Holiday"
+msgstr ""
 
 msgid "hour"
 msgstr "tunti"
@@ -557,11 +610,11 @@ msgstr "nuoli vasemmalle"
 msgid "left-right"
 msgstr "vasen-oikea"
 
-msgid "LEGO WeDo"
-msgstr "LEGO WeDo"
-
 msgid "length"
 msgstr "pituus"
+
+msgid "Letters"
+msgstr ""
 
 msgid "Library"
 msgstr "Kirjasto"
@@ -632,7 +685,8 @@ msgstr "Viestinnimi"
 msgid "message1"
 msgstr "viesti1"
 
-msgid "Microphone Volume:"
+#, fuzzy
+msgid "Microphone volume:"
 msgstr "Mikrofonin äänenvoimakkuus:"
 
 msgid "Middle C"
@@ -696,6 +750,9 @@ msgstr "Uusi tausta kamerasta"
 msgid "New backdrop:"
 msgstr "Uusi tausta:"
 
+msgid "New Block"
+msgstr ""
+
 msgid "New costume from camera"
 msgstr "Uusi asuste kamerasta"
 
@@ -705,6 +762,9 @@ msgstr "Uusi asuste:"
 
 msgid "New List"
 msgstr "Uusi lista"
+
+msgid "New Message"
+msgstr ""
 
 msgid "new message..."
 msgstr "uusi viesti..."
@@ -724,6 +784,9 @@ msgstr "Uusi hahmo:"
 
 msgid "New Variable"
 msgstr "Uusi muuttuja"
+
+msgid "next backdrop"
+msgstr ""
 
 msgid "No motion blocks"
 msgstr "Ei liikelohkoja"
@@ -758,6 +821,9 @@ msgstr "päälle"
 msgid "on-flipped"
 msgstr "päälle-käännetty"
 
+msgid "Open"
+msgstr ""
+
 msgid "Open Cuica"
 msgstr "avoin Cuica"
 
@@ -777,6 +843,9 @@ msgstr "Muu"
 msgid "other scripts in sprite"
 msgstr "muut hahmossa olevat skriptit"
 
+msgid "other scripts in stage"
+msgstr "muut skriptit kentällä"
+
 msgid "Outdoors"
 msgstr "Ulkona"
 
@@ -788,6 +857,12 @@ msgstr "Piirrä uusi asuste"
 
 msgid "Paint new sprite"
 msgstr "Piirrä uusi hahmo"
+
+msgid "Password"
+msgstr ""
+
+msgid "Password is required"
+msgstr ""
 
 msgid "paste"
 msgstr "liitä"
@@ -819,6 +894,9 @@ msgstr "Pizzicato"
 msgid "pop"
 msgstr "pop"
 
+msgid "previous backdrop"
+msgstr ""
+
 msgid "Profile"
 msgstr "Profiili"
 
@@ -828,6 +906,12 @@ msgstr "Projekti ei latautunut."
 msgid "Project not saved!"
 msgstr "Projektia ei ole tallennettu!"
 
+msgid "Project name"
+msgstr ""
+
+msgid "Project name is required"
+msgstr ""
+
 msgid "random"
 msgstr "satunnainen"
 
@@ -836,6 +920,9 @@ msgstr "Nauhoita"
 
 msgid "Record new sound"
 msgstr "Äänitä uusi ääni"
+
+msgid "record..."
+msgstr ""
 
 msgid "recording1"
 msgstr "nauhoitus1"
@@ -907,11 +994,20 @@ msgstr "Aja ilman ruudunpäivitystä"
 msgid "Save"
 msgstr "Tallenna"
 
+msgid "Save a copy of this project and add your own ideas."
+msgstr ""
+
+msgid "Save as"
+msgstr ""
+
 msgid "Save as a copy"
 msgstr "Tallenna kopio"
 
 msgid "Save now"
 msgstr "Tallenna nyt"
+
+msgid "Save project?"
+msgstr ""
 
 msgid "save to local file"
 msgstr "tallenna paikalliseen tiedostoon"
@@ -927,6 +1023,12 @@ msgstr "Tallennetaan..."
 
 msgid "Saxophone"
 msgstr "Saksofoni"
+
+msgid "Scratch Updater"
+msgstr ""
+
+msgid "Scratch 2.0 Offline Editor"
+msgstr ""
 
 msgid "Script"
 msgstr "Skripti"
@@ -960,10 +1062,10 @@ msgstr "Valitse ja monista"
 msgid "Send to back"
 msgstr "Vie taakse"
 
-msgid "Set costume center"
+msgid "Set Costume Center"
 msgstr "Aseta asusteen keskipiste"
 
-msgid "Set Costume Center"
+msgid "Set costume center"
 msgstr "Aseta asusteen keskipiste"
 
 msgid "set slider min and max"
@@ -971,6 +1073,12 @@ msgstr "aseta säätimen minimi ja maksimi"
 
 msgid "Share"
 msgstr "Jaa"
+
+msgid "Share to website"
+msgstr ""
+
+msgid "Share to Scratch website"
+msgstr ""
 
 msgid "shared"
 msgstr "jaettu"
@@ -1045,12 +1153,12 @@ msgstr "Äänikirjasto"
 msgid "Sounds"
 msgstr "Äänet"
 
-msgid "space"
-msgstr "välilyönti"
-
 # 80%
 msgid "Space"
 msgstr "Välilyönti"
+
+msgid "space"
+msgstr "välilyönti"
 
 msgid "Sports"
 msgstr "Urheilu"
@@ -1099,11 +1207,21 @@ msgstr "Tamburiini"
 msgid "tan"
 msgstr "tan"
 
+#, fuzzy
+msgid "text"
+msgstr "Teksti"
+
 msgid "Text"
 msgstr "Teksti"
 
 msgid "that way"
 msgstr "tuohon suuntaan"
+
+msgid "The name is already is use."
+msgstr ""
+
+msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgstr ""
 
 msgid "Theme"
 msgstr "Aihe"
@@ -1111,10 +1229,16 @@ msgstr "Aihe"
 msgid "Things"
 msgstr "Asiat"
 
+msgid "thing"
+msgstr ""
+
+msgid "This is the current version."
+msgstr ""
+
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
 msgstr ""
-"Tämä projekti voi tunnistaa kuka käyttää sitä, hyödyntäen \"käyttäjänimi\" "
-"-lohkoa. Piilottaaksesi omat tietosi, kirjaudu ulos ennen kuin käytät tätä "
+"Tämä projekti voi tunnistaa kuka käyttää sitä, hyödyntäen \"käyttäjänimi\" -"
+"lohkoa. Piilottaaksesi omat tietosi, kirjaudu ulos ennen kuin käytät tätä "
 "projektia."
 
 msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
@@ -1154,6 +1278,9 @@ msgstr "Kolmio"
 msgid "Trombone"
 msgstr "Trumpetti"
 
+msgid "true"
+msgstr ""
+
 msgid "Turbo mode"
 msgstr "Turbomoodi"
 
@@ -1170,12 +1297,12 @@ msgstr "Peruuta poisto"
 msgid "Underwater"
 msgstr "Vedenalainen"
 
+msgid "undo"
+msgstr "peruuta"
+
 # 75%
 msgid "Undo"
 msgstr "Peruuta"
-
-msgid "undo"
-msgstr "peruuta"
 
 msgid "Undo Revert"
 msgstr "Poista palautus"
@@ -1191,6 +1318,15 @@ msgstr "ylös"
 
 msgid "up arrow"
 msgstr "nuoli ylös"
+
+msgid "Update failed"
+msgstr ""
+
+msgid "Update not needed"
+msgstr ""
+
+msgid "Update now"
+msgstr ""
 
 msgid "Upload backdrop from file"
 msgstr "Lataa tausta tiedostoista"
@@ -1234,6 +1370,9 @@ msgstr "Vibraphone"
 msgid "Vibraslap"
 msgstr "Vibraslap"
 
+msgid "video direction"
+msgstr ""
+
 msgid "video motion"
 msgstr "videoliike"
 
@@ -1255,6 +1394,9 @@ msgstr "Haluatko tallentaa? Valitse remix"
 msgid "Which column do you want to import"
 msgstr "Minkä sarakkeen haluat tuoda"
 
+msgid "What's your name?"
+msgstr ""
+
 msgid "whirl"
 msgstr "pyörre"
 
@@ -1263,6 +1405,9 @@ msgstr "Puupalikka"
 
 msgid "Wooden Flute"
 msgstr "Puuhuilu"
+
+msgid "world"
+msgstr ""
 
 msgid "x position"
 msgstr "x-sijainti"
@@ -1278,11 +1423,26 @@ msgstr ""
 "Et voi muokata pilvitietoa jonkun toisen projektissa.<br>Kaikki muutokset "
 "joita teet ovat paikallisia eivät tallennu."
 
-msgid "Eraser width:"
-msgstr "Kumin leveys"
+msgid "Your Scratch name"
+msgstr ""
 
-msgid "Line width:"
-msgstr "Viivanleveys:"
+msgid "Your Scratch name is required"
+msgstr ""
+
+#~ msgid "cleanup"
+#~ msgstr "siivoa"
+
+#~ msgid "LEGO WeDo"
+#~ msgstr "LEGO WeDo"
+
+#~ msgid "Microphone Volume:"
+#~ msgstr "Mikrofonin äänenvoimakkuus:"
+
+#~ msgid "Eraser width:"
+#~ msgstr "Kumin leveys"
+
+#~ msgid "Line width:"
+#~ msgstr "Viivanleveys:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "lisää boolean input"
@@ -1400,23 +1560,20 @@ msgstr "Viivanleveys:"
 #~ msgid "Open Triangle"
 #~ msgstr "Open Triangle"
 
-#~ msgid "other scripts in stage"
-#~ msgstr "muut skriptit kentällä"
-
 #~ msgid "Pedal Hi-Hat"
 #~ msgstr "Pedal Hi-Hat"
 
 #~ msgid "Short Guiro"
 #~ msgstr "Short Guiro"
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-"For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Tietoa pilvipalveluista ja -muuttujista</b><br>&nbsp;<br>Tällä hetkellä "
-"vain numerot on tuettuja<br>Keskustelufoorumeja ei sallita ja ne "
-"poistetaan<br>Lisätietoa: <a href= target=>usein kysytyt kysymykset</a>"
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Tietoa pilvipalveluista ja -muuttujista</b><br>&nbsp;<br>Tällä hetkellä "
+#~ "vain numerot on tuettuja<br>Keskustelufoorumeja ei sallita ja ne "
+#~ "poistetaan<br>Lisätietoa: <a href= target=>usein kysytyt kysymykset</a>"
 
-msgid "Click  to try again or  to save"
-msgstr "Klikkaa uudellaan tai tallenna"
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Klikkaa uudellaan tai tallenna"

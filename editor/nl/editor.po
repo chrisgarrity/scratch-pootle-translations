@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-01 08:55+0200\n"
+"POT-Creation-Date: 2014-11-23 12:46+0000\n"
 "PO-Revision-Date: 2014-07-12 12:37+0000\n"
 "Last-Translator: S.D. <internet@meijer-online.nl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,17 +17,20 @@ msgstr ""
 msgid "10 ^"
 msgstr "10 ^"
 
-#~ msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Informatie over cloud-variabelen</b><br>&nbsp;<br>Op dit moment worden "
-#~ "alleen nummers ondersteund.<br>Chatruimtes zijn niet toegestaan en worden "
-#~ "verwijderd.<br>Voor meer info, <a href= target=>zie cloud-data FAQ!</a>"
+msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Informatie over cloud-variabelen</b><br>&nbsp;<br>Op dit moment worden "
+"alleen nummers ondersteund.<br>Chatruimtes zijn niet toegestaan en worden "
+"verwijderd.<br>Voor meer info, <a href= target=>zie cloud-data FAQ!</a>"
 
 msgid "A connected"
 msgstr "A verbonden"
 
 msgid "a copy of the project file on your computer."
 msgstr "een kopie van het projectbestand op je computer."
+
+msgid "A newer version of Scratch is available"
+msgstr ""
 
 msgid "About"
 msgstr "Over"
@@ -47,6 +50,9 @@ msgstr "Account-instellingen"
 msgid "acos"
 msgstr "acos"
 
+msgid "Add"
+msgstr ""
+
 msgid "Add an Extension"
 msgstr "Voeg een uitbreiding toe"
 
@@ -55,6 +61,9 @@ msgstr "Voeg ja/nee-veld toe:"
 
 msgid "add comment"
 msgstr "nieuw commentaar"
+
+msgid "add comment here..."
+msgstr ""
 
 msgid "Add label text:"
 msgstr "Voeg label toe:"
@@ -65,11 +74,11 @@ msgstr "Voeg getalveld toe:"
 msgid "Add string input:"
 msgstr "Voeg tekstvak toe:"
 
-msgid "All"
-msgstr "Alle"
-
 msgid "all"
 msgstr "alle"
+
+msgid "All"
+msgstr "Alle"
 
 # wordt waarschijnlijk gebruikt bij rotatiemogelijkheden van een sprite
 msgid "all around"
@@ -99,11 +108,11 @@ msgstr "B verbonden"
 msgid "Back a layer"
 msgstr "Een laag terug"
 
-msgid "Backdrop"
-msgstr "Achtergrond"
-
 msgid "backdrop"
 msgstr "achtergrond"
+
+msgid "Backdrop"
+msgstr "Achtergrond"
 
 msgid "backdrop #"
 msgstr "achtergrond #"
@@ -189,6 +198,9 @@ msgstr "kan in speler gesleept worden:"
 msgid "Cancel"
 msgstr "Annuleren"
 
+msgid "Cannot Add"
+msgstr ""
+
 msgid "Cannot Delete"
 msgstr "Verwijderen niet mogelijk"
 
@@ -207,6 +219,9 @@ msgstr "boven"
 
 msgid "Cello"
 msgstr "Cello"
+
+msgid "Check for updates"
+msgstr ""
 
 msgid "Choir"
 msgstr "Koor"
@@ -235,7 +250,8 @@ msgstr "Klarinet"
 msgid "Claves"
 msgstr "Claves"
 
-msgid "cleanup"
+#, fuzzy
+msgid "clean up"
 msgstr "opruimen"
 
 msgid "Clear"
@@ -244,8 +260,8 @@ msgstr "Wissen"
 msgid "clear senders/receivers"
 msgstr "wis zenders/ontvangers"
 
-#~ msgid "Click "Save now" to try again or "Download" to save"
-#~ msgstr "Klik  om opnieuw te proberen of  bewaar"
+msgid "Click "Save now" to try again or "Download" to save"
+msgstr "Klik  om opnieuw te proberen of  bewaar"
 
 msgid "Close"
 msgstr "Sluiten"
@@ -258,6 +274,9 @@ msgstr "Cloud"
 
 msgid "Cloud data"
 msgstr "Cloud-data"
+
+msgid "Cloud variable (stored on server)"
+msgstr ""
 
 msgid "color"
 msgstr "kleur"
@@ -318,6 +337,9 @@ msgstr "Uiterlijken > 1"
 msgid "Costumes:"
 msgstr "Uiterlijken:"
 
+msgid "Could not retrieve new application from server."
+msgstr ""
+
 msgid "Cowbell"
 msgstr "Koebel"
 
@@ -343,11 +365,11 @@ msgstr "datum"
 msgid "day of week"
 msgstr "dag van de week"
 
-msgid "Delete"
-msgstr "Verwijderen"
-
 msgid "delete"
 msgstr "verwijderen"
+
+msgid "Delete"
+msgstr "Verwijderen"
 
 msgid "delete variable"
 msgstr "verwijder variabele"
@@ -361,6 +383,9 @@ msgstr "richting:"
 msgid "don't rotate"
 msgstr "niet draaien"
 
+msgid "Don't save"
+msgstr ""
+
 msgid "down"
 msgstr "omlaag"
 
@@ -372,6 +397,9 @@ msgstr "Download"
 
 msgid "Download to your computer"
 msgstr "Naar je computer downloaden"
+
+msgid "Downloading new version"
+msgstr ""
 
 msgid "duplicate"
 msgstr "kopie maken"
@@ -385,11 +413,11 @@ msgstr "e ^"
 msgid "edge"
 msgstr "rand"
 
-msgid "edit"
-msgstr "bewerken"
-
 msgid "Edit"
 msgstr "Bewerken"
+
+msgid "edit"
+msgstr "bewerken"
 
 msgid "Edit Block"
 msgstr "Bewerk blok"
@@ -409,8 +437,14 @@ msgstr "Electronisch"
 msgid "Ellipse"
 msgstr "Ovaal"
 
+msgid "empty"
+msgstr ""
+
 msgid "Erase"
 msgstr "Wissen"
+
+msgid "Erase all"
+msgstr ""
 
 # 92%
 msgid "Eraser width"
@@ -436,6 +470,9 @@ msgstr "fade in"
 
 msgid "fade out"
 msgstr "fade uit"
+
+msgid "false"
+msgstr ""
 
 msgid "Fantasy"
 msgstr "Fantasie"
@@ -503,6 +540,19 @@ msgstr "Handenklap"
 msgid "Hardware"
 msgstr "Hardware"
 
+msgid "help"
+msgstr ""
+
+msgid "Hello!"
+msgstr ""
+
+msgid "Hmm..."
+msgstr ""
+
+#, fuzzy
+msgid "hello"
+msgstr "Cello"
+
 # [sdmeijer] Deze vertaling gebruikt, aangezien ze de editor en block bestanden mergen. Hierdoor staat op de blokken niet verschijn/verdwijn.
 # Is doorgegeven aan ScratchTeam.
 msgid "hide"
@@ -510,6 +560,9 @@ msgstr "verdwijn"
 
 msgid "High C"
 msgstr "Hoge C"
+
+msgid "Holiday"
+msgstr ""
 
 msgid "hour"
 msgstr "uur"
@@ -551,11 +604,11 @@ msgstr "pijltje links"
 msgid "left-right"
 msgstr "links-rechts"
 
-msgid "LEGO WeDo"
-msgstr "LEGO WeDo"
-
 msgid "length"
 msgstr "lengte"
+
+msgid "Letters"
+msgstr ""
 
 msgid "Library"
 msgstr "Bibliotheek"
@@ -625,7 +678,8 @@ msgstr "Berichtnaam"
 msgid "message1"
 msgstr "bericht1"
 
-msgid "Microphone Volume:"
+#, fuzzy
+msgid "Microphone volume:"
 msgstr "Microfoonvolume:"
 
 msgid "Middle C"
@@ -688,6 +742,9 @@ msgstr "Nieuwe achtergrond van camera"
 msgid "New backdrop:"
 msgstr "Nieuwe achtergrond:"
 
+msgid "New Block"
+msgstr ""
+
 msgid "New costume from camera"
 msgstr "Nieuw uiterlijk van camera"
 
@@ -697,6 +754,9 @@ msgstr "Nieuw uiterlijk:"
 
 msgid "New List"
 msgstr "Nieuwe lijst"
+
+msgid "New Message"
+msgstr ""
 
 msgid "new message..."
 msgstr "nieuw bericht..."
@@ -715,6 +775,9 @@ msgstr "Nieuwe sprite:"
 
 msgid "New Variable"
 msgstr "Nieuwe variabele"
+
+msgid "next backdrop"
+msgstr ""
 
 msgid "No motion blocks"
 msgstr "Geen beweegblokken"
@@ -749,6 +812,9 @@ msgstr "aan"
 msgid "on-flipped"
 msgstr "aan-gespiegeld"
 
+msgid "Open"
+msgstr ""
+
 msgid "Open Cuica"
 msgstr "Cuíca"
 
@@ -767,6 +833,10 @@ msgstr "Andere"
 msgid "other scripts in sprite"
 msgstr "andere scripts in sprite"
 
+#, fuzzy
+msgid "other scripts in stage"
+msgstr "andere scripts in sprite"
+
 msgid "Outdoors"
 msgstr "Buiten"
 
@@ -778,6 +848,12 @@ msgstr "Teken nieuw uiterlijk"
 
 msgid "Paint new sprite"
 msgstr "Teken nieuwe sprite"
+
+msgid "Password"
+msgstr ""
+
+msgid "Password is required"
+msgstr ""
 
 msgid "paste"
 msgstr "plakken"
@@ -809,6 +885,9 @@ msgstr "Pizzicato"
 msgid "pop"
 msgstr "plop"
 
+msgid "previous backdrop"
+msgstr ""
+
 msgid "Profile"
 msgstr "Profiel"
 
@@ -818,6 +897,12 @@ msgstr "Project werd niet geladen."
 msgid "Project not saved!"
 msgstr "Project niet opgeslagen!"
 
+msgid "Project name"
+msgstr ""
+
+msgid "Project name is required"
+msgstr ""
+
 msgid "random"
 msgstr "willekeurig"
 
@@ -826,6 +911,9 @@ msgstr "Opnemen"
 
 msgid "Record new sound"
 msgstr "Neem nieuw geluid op"
+
+msgid "record..."
+msgstr ""
 
 msgid "recording1"
 msgstr "opname1"
@@ -896,11 +984,20 @@ msgstr "Speel zonder het scherm te verversen"
 msgid "Save"
 msgstr "Opslaan"
 
+msgid "Save a copy of this project and add your own ideas."
+msgstr ""
+
+msgid "Save as"
+msgstr ""
+
 msgid "Save as a copy"
 msgstr "Opslaan als"
 
 msgid "Save now"
 msgstr "Nu opslaan"
+
+msgid "Save project?"
+msgstr ""
 
 msgid "save to local file"
 msgstr "opslaan naar lokaal bestand"
@@ -916,6 +1013,12 @@ msgstr "Opslaan..."
 
 msgid "Saxophone"
 msgstr "Saxofoon"
+
+msgid "Scratch Updater"
+msgstr ""
+
+msgid "Scratch 2.0 Offline Editor"
+msgstr ""
 
 msgid "Script"
 msgstr "Script"
@@ -950,10 +1053,10 @@ msgstr "Selecteer en maak kopie"
 msgid "Send to back"
 msgstr "Naar achtergrond"
 
-msgid "Set costume center"
+msgid "Set Costume Center"
 msgstr "Middelpunt van uiterlijk bepalen"
 
-msgid "Set Costume Center"
+msgid "Set costume center"
 msgstr "Middelpunt van uiterlijk bepalen"
 
 msgid "set slider min and max"
@@ -961,6 +1064,12 @@ msgstr "stel min en max van schuif in"
 
 msgid "Share"
 msgstr "Delen"
+
+msgid "Share to website"
+msgstr ""
+
+msgid "Share to Scratch website"
+msgstr ""
 
 msgid "shared"
 msgstr "gedeeld"
@@ -1037,12 +1146,12 @@ msgstr "Geluidenbibliotheek"
 msgid "Sounds"
 msgstr "Geluiden"
 
-msgid "space"
-msgstr "spatiebalk"
-
 # Bedoeld voor sprite-bibliotheek
 msgid "Space"
 msgstr "Ruimte"
+
+msgid "space"
+msgstr "spatiebalk"
 
 msgid "Sports"
 msgstr "Sport"
@@ -1089,17 +1198,33 @@ msgstr "Tamboerijn"
 msgid "tan"
 msgstr "tan"
 
+#, fuzzy
+msgid "text"
+msgstr "Tekst"
+
 msgid "Text"
 msgstr "Tekst"
 
 msgid "that way"
 msgstr "daarheen"
 
+msgid "The name is already is use."
+msgstr ""
+
+msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgstr ""
+
 msgid "Theme"
 msgstr "Thema"
 
 msgid "Things"
 msgstr "Voorwerpen"
+
+msgid "thing"
+msgstr ""
+
+msgid "This is the current version."
+msgstr ""
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
 msgstr ""
@@ -1145,6 +1270,9 @@ msgstr "Triangel"
 msgid "Trombone"
 msgstr "Trombone"
 
+msgid "true"
+msgstr ""
+
 msgid "Turbo mode"
 msgstr "Turbomodus"
 
@@ -1160,11 +1288,11 @@ msgstr "Ongedaan maken"
 msgid "Underwater"
 msgstr "Onder water"
 
-msgid "Undo"
-msgstr "Ongedaan maken"
-
 msgid "undo"
 msgstr "ongedaan maken"
+
+msgid "Undo"
+msgstr "Ongedaan maken"
 
 msgid "Undo Revert"
 msgstr "Terugdraaien ongedaan maken"
@@ -1180,6 +1308,15 @@ msgstr "omhoog"
 
 msgid "up arrow"
 msgstr "pijltje omhoog"
+
+msgid "Update failed"
+msgstr ""
+
+msgid "Update not needed"
+msgstr ""
+
+msgid "Update now"
+msgstr ""
 
 msgid "Upload backdrop from file"
 msgstr "Upload achtergrond"
@@ -1223,6 +1360,9 @@ msgstr "Vibrafoon"
 msgid "Vibraslap"
 msgstr "Vibraslap"
 
+msgid "video direction"
+msgstr ""
+
 msgid "video motion"
 msgstr "videobeweging"
 
@@ -1244,6 +1384,9 @@ msgstr "Wil je opslaan? Klik op remix"
 msgid "Which column do you want to import"
 msgstr "Welke kolom wil je importeren"
 
+msgid "What's your name?"
+msgstr ""
+
 msgid "whirl"
 msgstr "draaikolk"
 
@@ -1252,6 +1395,9 @@ msgstr "Woodblock"
 
 msgid "Wooden Flute"
 msgstr "Blokfluit"
+
+msgid "world"
+msgstr ""
 
 msgid "x position"
 msgstr "x-positie"
@@ -1267,11 +1413,26 @@ msgstr ""
 "Je kunt geen cloud-data van iemand anders veranderen.<br>Elke verandering "
 "die je maakt is tijdelijk en wordt niet bewaard."
 
-msgid "Eraser width:"
-msgstr "Gum-breedte:"
+msgid "Your Scratch name"
+msgstr ""
 
-msgid "Line width:"
-msgstr "Lijn-breedte:"
+msgid "Your Scratch name is required"
+msgstr ""
+
+#~ msgid "cleanup"
+#~ msgstr "opruimen"
+
+#~ msgid "LEGO WeDo"
+#~ msgstr "LEGO WeDo"
+
+#~ msgid "Microphone Volume:"
+#~ msgstr "Microfoonvolume:"
+
+#~ msgid "Eraser width:"
+#~ msgstr "Gum-breedte:"
+
+#~ msgid "Line width:"
+#~ msgstr "Lijn-breedte:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Voeg boolean-veld toe:"
@@ -1421,14 +1582,14 @@ msgstr "Lijn-breedte:"
 #~ msgid "Short Guiro"
 #~ msgstr "korte güiro"
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-"For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Informatie over cloud-variabelen</b><br>&nbsp;<br>Op dit moment worden "
-"alleen nummers ondersteund.<br>Chatruimtes zijn niet toegestaan en worden "
-"verwijderd.<br>Voor meer info, <a href= target=>zie cloud-data FAQ!</a>"
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Informatie over cloud-variabelen</b><br>&nbsp;<br>Op dit moment worden "
+#~ "alleen nummers ondersteund.<br>Chatruimtes zijn niet toegestaan en worden "
+#~ "verwijderd.<br>Voor meer info, <a href= target=>zie cloud-data FAQ!</a>"
 
-msgid "Click  to try again or  to save"
-msgstr "Klik  om opnieuw te proberen of  bewaar"
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Klik  om opnieuw te proberen of  bewaar"

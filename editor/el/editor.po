@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-01 08:55+0200\n"
+"POT-Creation-Date: 2014-11-23 12:43+0000\n"
 "PO-Revision-Date: 2014-06-19 16:55+0000\n"
 "Last-Translator: Stavros Rafael <georgekourkouliss@yahoo.gr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,19 +17,22 @@ msgstr ""
 msgid "10 ^"
 msgstr "10 ^"
 
-#~ msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Πληροφορίες σχετικά με τις μεταβλητές Cloud</b><br>&nbsp;<br>Προς το "
-#~ "παρόν, μόνο οι αριθμητικές μεταβλητές Cloud υποστηρίζονται.<br> Οι χώροι "
-#~ "συνομιλίας (Chat room) μέσω των μεταβλητών Cloud δεν επιτρέπονται και θα "
-#~ "διαγράφονται.<br>Για περισσότερες πληροφορίες, <a href= target=>δείτε τις "
-#~ "Συχνές Ερωτήσεις για τα δεδομένα Cloud.</a>"
+msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Πληροφορίες σχετικά με τις μεταβλητές Cloud</b><br>&nbsp;<br>Προς το "
+"παρόν, μόνο οι αριθμητικές μεταβλητές Cloud υποστηρίζονται.<br> Οι χώροι "
+"συνομιλίας (Chat room) μέσω των μεταβλητών Cloud δεν επιτρέπονται και θα "
+"διαγράφονται.<br>Για περισσότερες πληροφορίες, <a href= target=>δείτε τις "
+"Συχνές Ερωτήσεις για τα δεδομένα Cloud.</a>"
 
 msgid "A connected"
 msgstr "το Α είναι συνδεδεμένο"
 
 msgid "a copy of the project file on your computer."
 msgstr "Ένα αντίγραφο του έργου στον υπολογιστή σας."
+
+msgid "A newer version of Scratch is available"
+msgstr ""
 
 msgid "About"
 msgstr "Σχετικά"
@@ -49,6 +52,9 @@ msgstr "Ρυθμίσεις Λογαριασμού"
 msgid "acos"
 msgstr "acos"
 
+msgid "Add"
+msgstr ""
+
 msgid "Add an Extension"
 msgstr "Προσθήκη Επέκτασης"
 
@@ -57,6 +63,9 @@ msgstr "Εισάγετε ένα δεδομένο boolean:"
 
 msgid "add comment"
 msgstr "Προσθήκη σχόλιου"
+
+msgid "add comment here..."
+msgstr ""
 
 msgid "Add label text:"
 msgstr "Προσθήκη κειμένου σε ετικέτα:"
@@ -67,11 +76,11 @@ msgstr "Εισάγετε ένα αριθμητικό δεδομένο:"
 msgid "Add string input:"
 msgstr "Εισάγετε ένα δεδομένο σειράς λέξεων:"
 
-msgid "All"
-msgstr "Όλα"
-
 msgid "all"
 msgstr "όλα"
+
+msgid "All"
+msgstr "Όλα"
 
 msgid "all around"
 msgstr "ελεύθερο"
@@ -100,12 +109,12 @@ msgstr "το B είναι συνδεδεμένο"
 msgid "Back a layer"
 msgstr "Πίσω κατά 1 στρώση"
 
-msgid "Backdrop"
-msgstr "Υπόβαθρο"
-
 # 88%
 msgid "backdrop"
 msgstr "υπόβαθρο"
+
+msgid "Backdrop"
+msgstr "Υπόβαθρο"
 
 msgid "backdrop #"
 msgstr "υπόβαθρο #"
@@ -192,6 +201,9 @@ msgstr "Δυνατότητα μετακίνησης:"
 msgid "Cancel"
 msgstr "Ακύρωση"
 
+msgid "Cannot Add"
+msgstr ""
+
 msgid "Cannot Delete"
 msgstr "Αδύνατη η Διαγραφή"
 
@@ -209,6 +221,9 @@ msgstr "ceiling"
 
 msgid "Cello"
 msgstr "Τσέλο"
+
+msgid "Check for updates"
+msgstr ""
 
 msgid "Choir"
 msgstr "Χορωδία "
@@ -237,7 +252,8 @@ msgstr "Κλαρινέτο"
 msgid "Claves"
 msgstr "Ξυλάκια"
 
-msgid "cleanup"
+#, fuzzy
+msgid "clean up"
 msgstr "Εκκαθάριση"
 
 msgid "Clear"
@@ -246,8 +262,8 @@ msgstr "Καθαρισμός"
 msgid "clear senders/receivers"
 msgstr "Εκκαθάριση των Αποστολέων/Παραληπτών"
 
-#~ msgid "Click "Save now" to try again or "Download" to save"
-#~ msgstr "Πατήστε  για να προσπαθήσετε ξανά ή πατήστε  για να κάνετε αποθήκευση."
+msgid "Click "Save now" to try again or "Download" to save"
+msgstr "Πατήστε  για να προσπαθήσετε ξανά ή πατήστε  για να κάνετε αποθήκευση."
 
 msgid "Close"
 msgstr "Κλείσιμο"
@@ -260,6 +276,9 @@ msgstr "Cloud"
 
 msgid "Cloud data"
 msgstr "Δεδομένα Cloud"
+
+msgid "Cloud variable (stored on server)"
+msgstr ""
 
 msgid "color"
 msgstr "χρώματος"
@@ -318,6 +337,9 @@ msgstr "Ενδυμασίες > 1"
 msgid "Costumes:"
 msgstr "Ενδυμασίες:"
 
+msgid "Could not retrieve new application from server."
+msgstr ""
+
 msgid "Cowbell"
 msgstr "Κουδουνάκι αγελάδας"
 
@@ -343,10 +365,10 @@ msgstr "ημερομηνία"
 msgid "day of week"
 msgstr "μέρα της εβδομάδας"
 
-msgid "Delete"
+msgid "delete"
 msgstr "Διαγραφή"
 
-msgid "delete"
+msgid "Delete"
 msgstr "Διαγραφή"
 
 msgid "delete variable"
@@ -361,6 +383,9 @@ msgstr "Κατεύθυνση:"
 msgid "don't rotate"
 msgstr "[να μην γίνεται περιστροφή]"
 
+msgid "Don't save"
+msgstr ""
+
 msgid "down"
 msgstr "κάτω"
 
@@ -372,6 +397,9 @@ msgstr "Κατέβασμα"
 
 msgid "Download to your computer"
 msgstr "Κατέβασμα έργου στον υπολογιστή"
+
+msgid "Downloading new version"
+msgstr ""
 
 msgid "duplicate"
 msgstr "Διπλασιασμός"
@@ -385,10 +413,10 @@ msgstr "e ^"
 msgid "edge"
 msgstr "όρια"
 
-msgid "edit"
+msgid "Edit"
 msgstr "Επεξεργασία"
 
-msgid "Edit"
+msgid "edit"
 msgstr "Επεξεργασία"
 
 msgid "Edit Block"
@@ -409,8 +437,14 @@ msgstr "Ηλεκτρονικά"
 msgid "Ellipse"
 msgstr "Έλλειψη"
 
+msgid "empty"
+msgstr ""
+
 msgid "Erase"
 msgstr "Σβήσιμο"
+
+msgid "Erase all"
+msgstr ""
 
 # 92%
 msgid "Eraser width"
@@ -436,6 +470,9 @@ msgstr "Σταδιακή αύξηση της έντασης"
 
 msgid "fade out"
 msgstr "Σταδιακή μείωση της έντασης"
+
+msgid "false"
+msgstr ""
 
 msgid "Fantasy"
 msgstr "Φανταστικά"
@@ -503,11 +540,27 @@ msgstr "Χειροκρότημα"
 msgid "Hardware"
 msgstr ""
 
+msgid "help"
+msgstr ""
+
+msgid "Hello!"
+msgstr ""
+
+msgid "Hmm..."
+msgstr ""
+
+#, fuzzy
+msgid "hello"
+msgstr "Τσέλο"
+
 msgid "hide"
 msgstr "Απόκρυψη"
 
 msgid "High C"
 msgstr "Υψηλή C"
+
+msgid "Holiday"
+msgstr ""
 
 msgid "hour"
 msgstr "ώρα"
@@ -549,11 +602,11 @@ msgstr "αριστερό βέλος"
 msgid "left-right"
 msgstr "οριζόντιο"
 
-msgid "LEGO WeDo"
-msgstr ""
-
 msgid "length"
 msgstr "Μήκος"
+
+msgid "Letters"
+msgstr ""
 
 msgid "Library"
 msgstr "Βιβλιοθήκη"
@@ -624,7 +677,8 @@ msgstr "Όνομα μηνύματος"
 msgid "message1"
 msgstr "μήνυμα1"
 
-msgid "Microphone Volume:"
+#, fuzzy
+msgid "Microphone volume:"
 msgstr "Ένταση Μικροφώνου:"
 
 msgid "Middle C"
@@ -687,6 +741,9 @@ msgstr "Νέο υπόβαθρο τραβηγμένο από την κάμερα"
 msgid "New backdrop:"
 msgstr "Νέο υπόβαθρο:"
 
+msgid "New Block"
+msgstr ""
+
 msgid "New costume from camera"
 msgstr "Νέα ενδυμασία τραβηγμένη από την κάμερα"
 
@@ -695,6 +752,9 @@ msgstr "Νέα ενδυμασία:"
 
 msgid "New List"
 msgstr "Νέα Λίστα"
+
+msgid "New Message"
+msgstr ""
 
 msgid "new message..."
 msgstr "Νέο μήνυμα..."
@@ -713,6 +773,9 @@ msgstr "Νέο αντικείμενο:"
 
 msgid "New Variable"
 msgstr "Νέα Μεταβλητή"
+
+msgid "next backdrop"
+msgstr ""
 
 msgid "No motion blocks"
 msgstr "Κανένα τετράγωνο εντολών κίνησης"
@@ -747,6 +810,9 @@ msgstr "Ενεργοποίησε"
 msgid "on-flipped"
 msgstr "καθρεφτισμένο"
 
+msgid "Open"
+msgstr ""
+
 msgid "Open Cuica"
 msgstr "Ανοιχτό Κουίκα"
 
@@ -765,6 +831,10 @@ msgstr "Άλλα"
 msgid "other scripts in sprite"
 msgstr "Άλλα σενάρια στο αντικείμενο αυτό"
 
+#, fuzzy
+msgid "other scripts in stage"
+msgstr "Άλλα σενάρια στο αντικείμενο αυτό"
+
 msgid "Outdoors"
 msgstr "Εξωτερικοί Χώροι"
 
@@ -776,6 +846,12 @@ msgstr "Δημιουργία νέας ενδυμασίας"
 
 msgid "Paint new sprite"
 msgstr "Δημιουργία νέου αντικειμένου"
+
+msgid "Password"
+msgstr ""
+
+msgid "Password is required"
+msgstr ""
 
 msgid "paste"
 msgstr "Επικόλληση"
@@ -807,6 +883,9 @@ msgstr "Πιτσικάτο"
 msgid "pop"
 msgstr "μπουμ"
 
+msgid "previous backdrop"
+msgstr ""
+
 msgid "Profile"
 msgstr "Προφίλ"
 
@@ -816,6 +895,12 @@ msgstr "Το έργο δεν φορτώθηκε."
 msgid "Project not saved!"
 msgstr "Το έργο δεν αποθηκεύτηκε!"
 
+msgid "Project name"
+msgstr ""
+
+msgid "Project name is required"
+msgstr ""
+
 msgid "random"
 msgstr "τυχαία επιλογή"
 
@@ -824,6 +909,9 @@ msgstr "Ηχογράφηση"
 
 msgid "Record new sound"
 msgstr "Ηχογράφηση νέου ήχου"
+
+msgid "record..."
+msgstr ""
 
 msgid "recording1"
 msgstr "ηχογράφηση1"
@@ -894,11 +982,20 @@ msgstr "Να μην γίνεται ανανέωση οθόνης:"
 msgid "Save"
 msgstr "Αποθήκευση"
 
+msgid "Save a copy of this project and add your own ideas."
+msgstr ""
+
+msgid "Save as"
+msgstr ""
+
 msgid "Save as a copy"
 msgstr "Αποθήκευση ενός Αντιγράφου"
 
 msgid "Save now"
 msgstr "Αποθήκευση τώρα"
+
+msgid "Save project?"
+msgstr ""
 
 msgid "save to local file"
 msgstr "Αποθήκευση σε Τοπικό Αρχείο"
@@ -914,6 +1011,12 @@ msgstr "Γίνεται αποθήκευση..."
 
 msgid "Saxophone"
 msgstr "Σαξόφωνο"
+
+msgid "Scratch Updater"
+msgstr ""
+
+msgid "Scratch 2.0 Offline Editor"
+msgstr ""
 
 msgid "Script"
 msgstr "ΣενάριΟ"
@@ -945,17 +1048,23 @@ msgstr "Επιλογή και Διπλασιασμός"
 msgid "Send to back"
 msgstr "Μετακίνηση Πίσω"
 
-msgid "Set costume center"
-msgstr "Επιλογή Κέντρου της Ενδυμασίας"
-
 msgid "Set Costume Center"
 msgstr "Επιλογή του κέντρου της ενδυμασίας"
+
+msgid "Set costume center"
+msgstr "Επιλογή Κέντρου της Ενδυμασίας"
 
 msgid "set slider min and max"
 msgstr "Ορισμός μετακύλισης σε ελάχιστο και μέγιστο"
 
 msgid "Share"
 msgstr "Κάντε κοινή χρήση του έργου"
+
+msgid "Share to website"
+msgstr ""
+
+msgid "Share to Scratch website"
+msgstr ""
 
 msgid "shared"
 msgstr "Γίνεται κοινή χρήση του έργου"
@@ -1029,11 +1138,11 @@ msgstr "Βιβλιοθήκη Ήχων"
 msgid "Sounds"
 msgstr "Ήχοι"
 
-msgid "space"
-msgstr "space"
-
 msgid "Space"
 msgstr "Διάστημα"
+
+msgid "space"
+msgstr "space"
 
 msgid "Sports"
 msgstr "Αθλήματα"
@@ -1080,17 +1189,33 @@ msgstr "Ντέφι"
 msgid "tan"
 msgstr "tan"
 
+#, fuzzy
+msgid "text"
+msgstr "Κείμενο"
+
 msgid "Text"
 msgstr "Κείμενο"
 
 msgid "that way"
 msgstr "προς εκείνη την κατεύθυνση"
 
+msgid "The name is already is use."
+msgstr ""
+
+msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgstr ""
+
 msgid "Theme"
 msgstr "Θέματα"
 
 msgid "Things"
 msgstr "Πράγματα"
+
+msgid "thing"
+msgstr ""
+
+msgid "This is the current version."
+msgstr ""
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
 msgstr ""
@@ -1135,6 +1260,9 @@ msgstr "Τρίγωνο"
 msgid "Trombone"
 msgstr "Τρομπόνι"
 
+msgid "true"
+msgstr ""
+
 msgid "Turbo mode"
 msgstr "Λειτουργία Γρήγορης Εκτέλεσης"
 
@@ -1150,10 +1278,10 @@ msgstr "Αναίρεση Διαγραφής"
 msgid "Underwater"
 msgstr "Κάτω από το νερό"
 
-msgid "Undo"
+msgid "undo"
 msgstr "Αναίρεση"
 
-msgid "undo"
+msgid "Undo"
 msgstr "Αναίρεση"
 
 msgid "Undo Revert"
@@ -1170,6 +1298,15 @@ msgstr "Πάνω"
 
 msgid "up arrow"
 msgstr "Πάνω βέλος"
+
+msgid "Update failed"
+msgstr ""
+
+msgid "Update not needed"
+msgstr ""
+
+msgid "Update now"
+msgstr ""
 
 msgid "Upload backdrop from file"
 msgstr "Μεταφόρτωση υποβάθρου από τον υπολογιστή"
@@ -1213,6 +1350,9 @@ msgstr "Μεταλλόφωνο"
 msgid "Vibraslap"
 msgstr "Βίμπρα-σλαπ"
 
+msgid "video direction"
+msgstr ""
+
 msgid "video motion"
 msgstr "κίνηση στην προβολή από κάμερα"
 
@@ -1234,6 +1374,9 @@ msgstr "Θέλετε να κάνετε αποθήκευση; Πατήστε \"Α
 msgid "Which column do you want to import"
 msgstr "Ποια στήλη θέλετε να εισάγετε;"
 
+msgid "What's your name?"
+msgstr ""
+
 msgid "whirl"
 msgstr "περιστροφής"
 
@@ -1242,6 +1385,9 @@ msgstr "Τουβλάκι από ξύλο"
 
 msgid "Wooden Flute"
 msgstr "Ξύλινο φλάουτο"
+
+msgid "world"
+msgstr ""
 
 msgid "x position"
 msgstr "Θέση x"
@@ -1254,15 +1400,27 @@ msgstr "χρόνος"
 
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
 msgstr ""
-"Δεν μπορείτε να επεξεργαστείτε δεδομένα Cloud σε έργο άλλου "
-"χρήστη.<br>Οποιαδήποτε αλλαγή κάνετε στον Επεξεργαστή Έργων είναι προσωρινή "
-"και όχι μόνιμη."
+"Δεν μπορείτε να επεξεργαστείτε δεδομένα Cloud σε έργο άλλου χρήστη.<br>"
+"Οποιαδήποτε αλλαγή κάνετε στον Επεξεργαστή Έργων είναι προσωρινή και όχι "
+"μόνιμη."
 
-msgid "Eraser width:"
-msgstr "Πλάτος γόμας"
+msgid "Your Scratch name"
+msgstr ""
 
-msgid "Line width:"
-msgstr "Πλάτος γραμμής"
+msgid "Your Scratch name is required"
+msgstr ""
+
+#~ msgid "cleanup"
+#~ msgstr "Εκκαθάριση"
+
+#~ msgid "Microphone Volume:"
+#~ msgstr "Ένταση Μικροφώνου:"
+
+#~ msgid "Eraser width:"
+#~ msgstr "Πλάτος γόμας"
+
+#~ msgid "Line width:"
+#~ msgstr "Πλάτος γραμμής"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Προσθέστε μια τιμή boolean:"
@@ -1392,16 +1550,16 @@ msgstr "Πλάτος γραμμής"
 #~ msgid "Short Guiro"
 #~ msgstr "Βραχύχρονο Γκουίρο"
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-"For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Πληροφορίες σχετικά με τις μεταβλητές Cloud</b><br>&nbsp;<br>Προς το "
-"παρόν, μόνο οι αριθμητικές μεταβλητές Cloud υποστηρίζονται.<br> Οι χώροι "
-"συνομιλίας (Chat room) μέσω των μεταβλητών Cloud δεν επιτρέπονται και θα "
-"διαγράφονται.<br>Για περισσότερες πληροφορίες, <a href= target=>δείτε τις "
-"Συχνές Ερωτήσεις για τα δεδομένα Cloud.</a>"
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Πληροφορίες σχετικά με τις μεταβλητές Cloud</b><br>&nbsp;<br>Προς το "
+#~ "παρόν, μόνο οι αριθμητικές μεταβλητές Cloud υποστηρίζονται.<br> Οι χώροι "
+#~ "συνομιλίας (Chat room) μέσω των μεταβλητών Cloud δεν επιτρέπονται και θα "
+#~ "διαγράφονται.<br>Για περισσότερες πληροφορίες, <a href= target=>δείτε τις "
+#~ "Συχνές Ερωτήσεις για τα δεδομένα Cloud.</a>"
 
-msgid "Click  to try again or  to save"
-msgstr "Πατήστε  για να προσπαθήσετε ξανά ή πατήστε  για να κάνετε αποθήκευση."
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Πατήστε  για να προσπαθήσετε ξανά ή πατήστε  για να κάνετε αποθήκευση."

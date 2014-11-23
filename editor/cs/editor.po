@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-01 08:55+0200\n"
+"POT-Creation-Date: 2014-11-23 12:42+0000\n"
 "PO-Revision-Date: 2013-11-22 14:09+0000\n"
 "Last-Translator: Karel <janda@ccs.cz>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,17 +17,20 @@ msgstr ""
 msgid "10 ^"
 msgstr "10 ^"
 
-#~ msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Informace o cloudových proměnných</b><br>&nbsp;<br>Prozatím jsou "
-#~ "podorována pouze čísla<br>Chat místnosti nejsou povoleny a budou "
-#~ "smazány<br>Pro více informací <a href= target=>viz cloud data FAQ!</a>"
+msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Informace o cloudových proměnných</b><br>&nbsp;<br>Prozatím jsou "
+"podorována pouze čísla<br>Chat místnosti nejsou povoleny a budou smazány<br>"
+"Pro více informací <a href= target=>viz cloud data FAQ!</a>"
 
 msgid "A connected"
 msgstr "A propojeno"
 
 msgid "a copy of the project file on your computer."
 msgstr "kopie souboru s projektem na tvém počítači."
+
+msgid "A newer version of Scratch is available"
+msgstr ""
 
 msgid "About"
 msgstr ""
@@ -47,6 +50,9 @@ msgstr "Nastavení účtu"
 msgid "acos"
 msgstr "arccos"
 
+msgid "Add"
+msgstr ""
+
 msgid "Add an Extension"
 msgstr ""
 
@@ -56,6 +62,9 @@ msgstr "Přidat logický parametr:"
 
 msgid "add comment"
 msgstr "přidat komentář"
+
+msgid "add comment here..."
+msgstr ""
 
 msgid "Add label text:"
 msgstr "Přidat nápis:"
@@ -68,11 +77,11 @@ msgstr "Přidat číselný parametr:"
 msgid "Add string input:"
 msgstr "Přidat textový parametr:"
 
-msgid "All"
-msgstr "Všechno"
-
 msgid "all"
 msgstr "všechno"
+
+msgid "All"
+msgstr "Všechno"
 
 msgid "all around"
 msgstr "dokola"
@@ -102,13 +111,13 @@ msgid "Back a layer"
 msgstr "Zpět o vrstvu"
 
 # 88%
+msgid "backdrop"
+msgstr "pozadí"
+
+# 88%
 # 87%
 msgid "Backdrop"
 msgstr "Pozadí"
-
-# 88%
-msgid "backdrop"
-msgstr "pozadí"
 
 msgid "backdrop #"
 msgstr "číslo pozadí"
@@ -196,6 +205,9 @@ msgstr "smí být přesouváno hráčem:"
 msgid "Cancel"
 msgstr "Storno"
 
+msgid "Cannot Add"
+msgstr ""
+
 msgid "Cannot Delete"
 msgstr "Nelze smazat"
 
@@ -213,6 +225,9 @@ msgstr "zaokr. nahoru"
 
 msgid "Cello"
 msgstr "Violoncello"
+
+msgid "Check for updates"
+msgstr ""
 
 msgid "Choir"
 msgstr "Sbor"
@@ -241,7 +256,8 @@ msgstr "Klarinet"
 msgid "Claves"
 msgstr "Claves"
 
-msgid "cleanup"
+#, fuzzy
+msgid "clean up"
 msgstr "úklid"
 
 msgid "Clear"
@@ -250,8 +266,8 @@ msgstr "Smaž"
 msgid "clear senders/receivers"
 msgstr "smaž odesílatele/příjemce"
 
-#~ msgid "Click "Save now" to try again or "Download" to save"
-#~ msgstr "Klikni  pro další pokus nebo  pro uložení"
+msgid "Click "Save now" to try again or "Download" to save"
+msgstr "Klikni  pro další pokus nebo  pro uložení"
 
 msgid "Close"
 msgstr "Zavřít"
@@ -264,6 +280,9 @@ msgstr "Cloud"
 
 msgid "Cloud data"
 msgstr "Cloud data"
+
+msgid "Cloud variable (stored on server)"
+msgstr ""
 
 msgid "color"
 msgstr "barva"
@@ -325,6 +344,9 @@ msgstr "Kostýmů > 1"
 msgid "Costumes:"
 msgstr "Kostýmy:"
 
+msgid "Could not retrieve new application from server."
+msgstr ""
+
 msgid "Cowbell"
 msgstr "Kravský zvonec"
 
@@ -349,12 +371,12 @@ msgstr "datum"
 msgid "day of week"
 msgstr "den týdne"
 
+msgid "delete"
+msgstr "smazat"
+
 # 83%
 msgid "Delete"
 msgstr "Smazat"
-
-msgid "delete"
-msgstr "smazat"
 
 msgid "delete variable"
 msgstr "smazat proměnnou"
@@ -369,6 +391,9 @@ msgstr "směr:"
 msgid "don't rotate"
 msgstr "neotáčet"
 
+msgid "Don't save"
+msgstr ""
+
 msgid "down"
 msgstr "dolů"
 
@@ -380,6 +405,9 @@ msgstr "Stáhnout"
 
 msgid "Download to your computer"
 msgstr "Stáhnout do tvého počítače"
+
+msgid "Downloading new version"
+msgstr ""
 
 msgid "duplicate"
 msgstr "kopírovat"
@@ -393,11 +421,11 @@ msgstr "exp"
 msgid "edge"
 msgstr "okraje"
 
-msgid "edit"
-msgstr "upravit"
-
 msgid "Edit"
 msgstr "Upravit"
+
+msgid "edit"
+msgstr "upravit"
 
 msgid "Edit Block"
 msgstr "Editovat blok"
@@ -417,8 +445,14 @@ msgstr "Elektronika"
 msgid "Ellipse"
 msgstr "Elipsa"
 
+msgid "empty"
+msgstr ""
+
 msgid "Erase"
 msgstr "Smazání"
+
+msgid "Erase all"
+msgstr ""
 
 # 92%
 msgid "Eraser width"
@@ -444,6 +478,9 @@ msgstr "rozednívat"
 
 msgid "fade out"
 msgstr "stmívat"
+
+msgid "false"
+msgstr ""
 
 msgid "Fantasy"
 msgstr "Fantazie"
@@ -511,11 +548,27 @@ msgstr "Tlesknutí"
 msgid "Hardware"
 msgstr ""
 
+msgid "help"
+msgstr ""
+
+msgid "Hello!"
+msgstr ""
+
+msgid "Hmm..."
+msgstr ""
+
+#, fuzzy
+msgid "hello"
+msgstr "Violoncello"
+
 msgid "hide"
 msgstr "skrýt"
 
 msgid "High C"
 msgstr "Vysoké C"
+
+msgid "Holiday"
+msgstr ""
 
 msgid "hour"
 msgstr "hodin"
@@ -557,11 +610,11 @@ msgstr "šipka vlevo"
 msgid "left-right"
 msgstr "jen vlevo-vpravo"
 
-msgid "LEGO WeDo"
-msgstr ""
-
 msgid "length"
 msgstr "délka"
+
+msgid "Letters"
+msgstr ""
 
 msgid "Library"
 msgstr "Knihovna"
@@ -633,7 +686,8 @@ msgstr "Název zprávy"
 msgid "message1"
 msgstr "zpráva1"
 
-msgid "Microphone Volume:"
+#, fuzzy
+msgid "Microphone volume:"
 msgstr "Hlasitost mikrofonu:"
 
 msgid "Middle C"
@@ -698,6 +752,9 @@ msgstr "Nové pozadí z kamery"
 msgid "New backdrop:"
 msgstr "Nové pozadí:"
 
+msgid "New Block"
+msgstr ""
+
 msgid "New costume from camera"
 msgstr "Nový kostým z kamery"
 
@@ -707,6 +764,9 @@ msgstr "Nový kostým:"
 
 msgid "New List"
 msgstr "Nový seznam"
+
+msgid "New Message"
+msgstr ""
 
 msgid "new message..."
 msgstr "nová zpráva..."
@@ -726,6 +786,9 @@ msgstr "Nová postava:"
 
 msgid "New Variable"
 msgstr "Nová proměnná"
+
+msgid "next backdrop"
+msgstr ""
 
 msgid "No motion blocks"
 msgstr "Žádné bloky pohybu"
@@ -760,6 +823,9 @@ msgstr "zapnuto"
 msgid "on-flipped"
 msgstr "převrácený"
 
+msgid "Open"
+msgstr ""
+
 msgid "Open Cuica"
 msgstr "Netlumené cuica"
 
@@ -779,6 +845,9 @@ msgstr "Ostatní"
 msgid "other scripts in sprite"
 msgstr "jiné scénáře postavy"
 
+msgid "other scripts in stage"
+msgstr "další scénáře scény"
+
 msgid "Outdoors"
 msgstr "Vnější"
 
@@ -790,6 +859,12 @@ msgstr "Nakreslit nový kostým"
 
 msgid "Paint new sprite"
 msgstr "Nakreslit novou postavu"
+
+msgid "Password"
+msgstr ""
+
+msgid "Password is required"
+msgstr ""
 
 msgid "paste"
 msgstr "vložit"
@@ -822,6 +897,9 @@ msgstr "Drnkání prstem"
 msgid "pop"
 msgstr "pop"
 
+msgid "previous backdrop"
+msgstr ""
+
 msgid "Profile"
 msgstr "Profil"
 
@@ -831,6 +909,12 @@ msgstr "Projekt nebyl stažen."
 msgid "Project not saved!"
 msgstr "Projekt není uložen!"
 
+msgid "Project name"
+msgstr ""
+
+msgid "Project name is required"
+msgstr ""
+
 msgid "random"
 msgstr "náhodně"
 
@@ -839,6 +923,9 @@ msgstr "Nahrávat"
 
 msgid "Record new sound"
 msgstr "Nahrát nový zvuk"
+
+msgid "record..."
+msgstr ""
 
 msgid "recording1"
 msgstr "záznam1"
@@ -910,12 +997,21 @@ msgstr "Spustit bez obnovy obrazovky"
 msgid "Save"
 msgstr "Uložit"
 
+msgid "Save a copy of this project and add your own ideas."
+msgstr ""
+
+msgid "Save as"
+msgstr ""
+
 msgid "Save as a copy"
 msgstr "Uložit jako kopii"
 
 # J.Vaníček
 msgid "Save now"
 msgstr "Uložit aktuální stav"
+
+msgid "Save project?"
+msgstr ""
 
 msgid "save to local file"
 msgstr "uložit do lokálního souboru"
@@ -931,6 +1027,12 @@ msgstr "Ukládám..."
 
 msgid "Saxophone"
 msgstr "Saxofon"
+
+msgid "Scratch Updater"
+msgstr ""
+
+msgid "Scratch 2.0 Offline Editor"
+msgstr ""
 
 # 85%
 msgid "Script"
@@ -965,11 +1067,11 @@ msgstr "Výběr a kopírování"
 msgid "Send to back"
 msgstr "Umístit do pozadí"
 
-# 88%
-msgid "Set costume center"
+msgid "Set Costume Center"
 msgstr "Nastavit střed kostýmu"
 
-msgid "Set Costume Center"
+# 88%
+msgid "Set costume center"
 msgstr "Nastavit střed kostýmu"
 
 msgid "set slider min and max"
@@ -977,6 +1079,12 @@ msgstr "nastav posuvníku min a max"
 
 msgid "Share"
 msgstr "Sdílení"
+
+msgid "Share to website"
+msgstr ""
+
+msgid "Share to Scratch website"
+msgstr ""
 
 msgid "shared"
 msgstr "sdílené"
@@ -1051,12 +1159,12 @@ msgstr "Knihovna zvuků"
 msgid "Sounds"
 msgstr "Zvuky"
 
-msgid "space"
-msgstr "mezerník"
-
 # from library group names list
 msgid "Space"
 msgstr "Vesmír"
+
+msgid "space"
+msgstr "mezerník"
 
 msgid "Sports"
 msgstr "Sporty"
@@ -1106,11 +1214,21 @@ msgstr "Tamburína"
 msgid "tan"
 msgstr "tg"
 
+#, fuzzy
+msgid "text"
+msgstr "Text"
+
 msgid "Text"
 msgstr "Text"
 
 msgid "that way"
 msgstr "jinak"
+
+msgid "The name is already is use."
+msgstr ""
+
+msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgstr ""
 
 msgid "Theme"
 msgstr "Téma"
@@ -1118,10 +1236,16 @@ msgstr "Téma"
 msgid "Things"
 msgstr "Věci"
 
+msgid "thing"
+msgstr ""
+
+msgid "This is the current version."
+msgstr ""
+
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
 msgstr ""
-"Tento projekt může zjistit kdo jej používá skrze blok \"jméno uživatele\". Pro "
-"skrytí své identity se můžeš odhlásit před použitím projektu."
+"Tento projekt může zjistit kdo jej používá skrze blok \"jméno uživatele\". "
+"Pro skrytí své identity se můžeš odhlásit před použitím projektu."
 
 msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
 msgstr ""
@@ -1158,6 +1282,9 @@ msgstr "Triangl"
 msgid "Trombone"
 msgstr "Trombón"
 
+msgid "true"
+msgstr ""
+
 # 90%
 msgid "Turbo mode"
 msgstr "Turbo režim"
@@ -1175,12 +1302,12 @@ msgstr "Obnovit"
 msgid "Underwater"
 msgstr "Podvodní"
 
+msgid "undo"
+msgstr "zpět"
+
 # 75%
 msgid "Undo"
 msgstr "Zpět"
-
-msgid "undo"
-msgstr "zpět"
 
 msgid "Undo Revert"
 msgstr "Zpět"
@@ -1196,6 +1323,15 @@ msgstr "nahoru"
 
 msgid "up arrow"
 msgstr "šipka nahoru"
+
+msgid "Update failed"
+msgstr ""
+
+msgid "Update not needed"
+msgstr ""
+
+msgid "Update now"
+msgstr ""
 
 msgid "Upload backdrop from file"
 msgstr "Nahrát pozadí ze souboru"
@@ -1239,6 +1375,9 @@ msgstr "Vibrafon"
 msgid "Vibraslap"
 msgstr "Vibraslap"
 
+msgid "video direction"
+msgstr ""
+
 msgid "video motion"
 msgstr "pohyb videa"
 
@@ -1260,6 +1399,9 @@ msgstr "Chceš uložit? Klikni na odvození"
 msgid "Which column do you want to import"
 msgstr "Který sloupec chceš importovat"
 
+msgid "What's your name?"
+msgstr ""
+
 msgid "whirl"
 msgstr "víření"
 
@@ -1268,6 +1410,9 @@ msgstr "Dřevěný blok"
 
 msgid "Wooden Flute"
 msgstr "Zobcová flétna"
+
+msgid "world"
+msgstr ""
 
 msgid "x position"
 msgstr "souřadnice x"
@@ -1283,11 +1428,23 @@ msgstr ""
 "Nemůžeš editovat cloud data v projektu někoho jiného.<br>Každá změna kterou "
 "uděláš v editoru bude jen dočasná, ne trvalá."
 
-msgid "Eraser width:"
-msgstr "Šířka gumy:"
+msgid "Your Scratch name"
+msgstr ""
 
-msgid "Line width:"
-msgstr "Šířka úsečky: "
+msgid "Your Scratch name is required"
+msgstr ""
+
+#~ msgid "cleanup"
+#~ msgstr "úklid"
+
+#~ msgid "Microphone Volume:"
+#~ msgstr "Hlasitost mikrofonu:"
+
+#~ msgid "Eraser width:"
+#~ msgstr "Šířka gumy:"
+
+#~ msgid "Line width:"
+#~ msgstr "Šířka úsečky: "
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Přidat logický parametr:"
@@ -1435,23 +1592,20 @@ msgstr "Šířka úsečky: "
 #~ msgid "Open Triangle"
 #~ msgstr "Netlumený triangl"
 
-#~ msgid "other scripts in stage"
-#~ msgstr "další scénáře scény"
-
 #~ msgid "Pedal Hi-Hat"
 #~ msgstr "Hi-hat zavřená pedálem"
 
 #~ msgid "Short Guiro"
 #~ msgstr "Krátké guiro"
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-"For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Informace o cloudových proměnných</b><br>&nbsp;<br>Prozatím jsou "
-"podorována pouze čísla<br>Chat místnosti nejsou povoleny a budou smazány<br>"
-"Pro více informací <a href= target=>viz cloud data FAQ!</a>"
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Informace o cloudových proměnných</b><br>&nbsp;<br>Prozatím jsou "
+#~ "podorována pouze čísla<br>Chat místnosti nejsou povoleny a budou smazány<br>"
+#~ "Pro více informací <a href= target=>viz cloud data FAQ!</a>"
 
-msgid "Click  to try again or  to save"
-msgstr "Klikni  pro další pokus nebo  pro uložení"
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Klikni  pro další pokus nebo  pro uložení"

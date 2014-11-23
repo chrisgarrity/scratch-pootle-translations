@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-01 08:55+0200\n"
+"POT-Creation-Date: 2014-11-23 12:49+0000\n"
 "PO-Revision-Date: 2014-10-22 06:57+0000\n"
 "Last-Translator: Chao-Hsiung <pesder@gmail.com>\n"
 "Language-Team: Chinese (traditional)  <zh-l10n@lists.linux.org.tw>\n"
@@ -13,21 +13,24 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1413961038.000000\n"
+"X-POOTLE-MTIME: 1413961039.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
 
-#~ msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>雲端變數的</b><br>&nbsp;<br>目前只能用數字<br>不能用聊天室，會被刪除。<br>更多相關資訊<a "
-#~ "href=\"/help/faq/#clouddata\" target=\"_blank\">請看雲端資料FAQ!</a>"
+msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgstr ""
+"<b>雲端變數的</b><br>&nbsp;<br>目前只能用數字<br>不能用聊天室，會被刪除。<br>更多相關資訊<a href=\""
+"/help/faq/#clouddata\" target=\"_blank\">請看雲端資料FAQ!</a>"
 
 msgid "A connected"
 msgstr "A 已連接"
 
 msgid "a copy of the project file on your computer."
 msgstr "已經有專案的副本在你的電腦上"
+
+msgid "A newer version of Scratch is available"
+msgstr ""
 
 msgid "About"
 msgstr "關於"
@@ -47,6 +50,9 @@ msgstr "用戶設定"
 msgid "acos"
 msgstr "acos"
 
+msgid "Add"
+msgstr ""
+
 msgid "Add an Extension"
 msgstr "加入擴充功能"
 
@@ -55,6 +61,9 @@ msgstr "新增布林輸入"
 
 msgid "add comment"
 msgstr "新增評論"
+
+msgid "add comment here..."
+msgstr ""
 
 msgid "Add label text:"
 msgstr "增加文字標籤"
@@ -65,11 +74,11 @@ msgstr "新增數字輸入"
 msgid "Add string input:"
 msgstr "新增字串輸入"
 
-msgid "All"
-msgstr "全部"
-
 msgid "all"
 msgstr "所有的"
+
+msgid "All"
+msgstr "全部"
 
 msgid "all around"
 msgstr "各地"
@@ -98,10 +107,10 @@ msgstr "B 已連接"
 msgid "Back a layer"
 msgstr "下移一層"
 
-msgid "Backdrop"
+msgid "backdrop"
 msgstr "背景"
 
-msgid "backdrop"
+msgid "Backdrop"
 msgstr "背景"
 
 msgid "backdrop #"
@@ -185,6 +194,9 @@ msgstr "在播放器中拖移"
 msgid "Cancel"
 msgstr "取消"
 
+msgid "Cannot Add"
+msgstr ""
+
 msgid "Cannot Delete"
 msgstr "無法刪除"
 
@@ -202,6 +214,9 @@ msgstr "天花板"
 
 msgid "Cello"
 msgstr "大提琴 "
+
+msgid "Check for updates"
+msgstr ""
 
 msgid "Choir"
 msgstr "合唱"
@@ -230,7 +245,8 @@ msgstr "單簧管"
 msgid "Claves"
 msgstr "古鋼琴"
 
-msgid "cleanup"
+#, fuzzy
+msgid "clean up"
 msgstr "清除"
 
 msgid "Clear"
@@ -239,8 +255,8 @@ msgstr "清除"
 msgid "clear senders/receivers"
 msgstr "清除發送者/接收者"
 
-#~ msgid "Click "Save now" to try again or "Download" to save"
-#~ msgstr "點選\"立即儲存\"以重試或\"下載\"以儲存"
+msgid "Click "Save now" to try again or "Download" to save"
+msgstr "點選\"立即儲存\"以重試或\"下載\"以儲存"
 
 msgid "Close"
 msgstr "結束"
@@ -253,6 +269,9 @@ msgstr "雲端"
 
 msgid "Cloud data"
 msgstr "雲端資料"
+
+msgid "Cloud variable (stored on server)"
+msgstr ""
 
 msgid "color"
 msgstr "顏色"
@@ -311,6 +330,9 @@ msgstr "造型 > 1"
 msgid "Costumes:"
 msgstr "造型："
 
+msgid "Could not retrieve new application from server."
+msgstr ""
+
 msgid "Cowbell"
 msgstr "牛鈴"
 
@@ -335,11 +357,11 @@ msgstr "日期"
 msgid "day of week"
 msgstr "星期幾"
 
-# 83%
-msgid "Delete"
+msgid "delete"
 msgstr "刪除"
 
-msgid "delete"
+# 83%
+msgid "Delete"
 msgstr "刪除"
 
 msgid "delete variable"
@@ -354,6 +376,9 @@ msgstr "方向"
 msgid "don't rotate"
 msgstr "不要旋轉"
 
+msgid "Don't save"
+msgstr ""
+
 msgid "down"
 msgstr "下"
 
@@ -365,6 +390,9 @@ msgstr "下載"
 
 msgid "Download to your computer"
 msgstr "下載到你的電腦"
+
+msgid "Downloading new version"
+msgstr ""
 
 msgid "duplicate"
 msgstr "複製"
@@ -378,10 +406,10 @@ msgstr "e ^"
 msgid "edge"
 msgstr "邊緣"
 
-msgid "edit"
+msgid "Edit"
 msgstr "編輯"
 
-msgid "Edit"
+msgid "edit"
 msgstr "編輯"
 
 msgid "Edit Block"
@@ -402,8 +430,14 @@ msgstr "電子"
 msgid "Ellipse"
 msgstr "橢圓"
 
+msgid "empty"
+msgstr ""
+
 msgid "Erase"
 msgstr "消除"
+
+msgid "Erase all"
+msgstr ""
 
 # 92%
 msgid "Eraser width"
@@ -429,6 +463,9 @@ msgstr "淡入"
 
 msgid "fade out"
 msgstr "淡出"
+
+msgid "false"
+msgstr ""
 
 msgid "Fantasy"
 msgstr "魔幻"
@@ -496,11 +533,27 @@ msgstr "拍掌"
 msgid "Hardware"
 msgstr "硬體"
 
+msgid "help"
+msgstr ""
+
+msgid "Hello!"
+msgstr ""
+
+msgid "Hmm..."
+msgstr ""
+
+#, fuzzy
+msgid "hello"
+msgstr "大提琴 "
+
 msgid "hide"
 msgstr "隱藏"
 
 msgid "High C"
 msgstr "高音 C"
+
+msgid "Holiday"
+msgstr ""
 
 msgid "hour"
 msgstr "小時"
@@ -542,11 +595,11 @@ msgstr "左移鍵"
 msgid "left-right"
 msgstr "左-右"
 
-msgid "LEGO WeDo"
-msgstr "LEGO WeDo"
-
 msgid "length"
 msgstr "長度"
+
+msgid "Letters"
+msgstr ""
 
 msgid "Library"
 msgstr "庫"
@@ -617,7 +670,8 @@ msgstr "訊息名稱"
 msgid "message1"
 msgstr "訊息1"
 
-msgid "Microphone Volume:"
+#, fuzzy
+msgid "Microphone volume:"
 msgstr "麥克風音量："
 
 msgid "Middle C"
@@ -680,6 +734,9 @@ msgstr "從相機擷取新背景"
 msgid "New backdrop:"
 msgstr "新背景："
 
+msgid "New Block"
+msgstr ""
+
 msgid "New costume from camera"
 msgstr "從相機擷取新造型"
 
@@ -688,6 +745,9 @@ msgstr "新造型："
 
 msgid "New List"
 msgstr "新清單："
+
+msgid "New Message"
+msgstr ""
 
 msgid "new message..."
 msgstr "新訊息..."
@@ -706,6 +766,9 @@ msgstr "新增角色："
 
 msgid "New Variable"
 msgstr "新變數"
+
+msgid "next backdrop"
+msgstr ""
 
 msgid "No motion blocks"
 msgstr "隱藏動作區塊"
@@ -740,6 +803,9 @@ msgstr "開"
 msgid "on-flipped"
 msgstr "翻轉"
 
+msgid "Open"
+msgstr ""
+
 msgid "Open Cuica"
 msgstr "開啟庫加鼓"
 
@@ -758,6 +824,10 @@ msgstr "其他"
 msgid "other scripts in sprite"
 msgstr "出場角色的其他程式"
 
+#, fuzzy
+msgid "other scripts in stage"
+msgstr "出場角色的其他程式"
+
 msgid "Outdoors"
 msgstr "戶外"
 
@@ -769,6 +839,12 @@ msgstr "畫新造型"
 
 msgid "Paint new sprite"
 msgstr "畫新角色"
+
+msgid "Password"
+msgstr ""
+
+msgid "Password is required"
+msgstr ""
 
 msgid "paste"
 msgstr "貼上"
@@ -800,6 +876,9 @@ msgstr "撥奏"
 msgid "pop"
 msgstr "pop聲"
 
+msgid "previous backdrop"
+msgstr ""
+
 msgid "Profile"
 msgstr "基本資料"
 
@@ -809,6 +888,12 @@ msgstr "專案並未載入。"
 msgid "Project not saved!"
 msgstr "專案未儲存"
 
+msgid "Project name"
+msgstr ""
+
+msgid "Project name is required"
+msgstr ""
+
 msgid "random"
 msgstr "隨機"
 
@@ -817,6 +902,9 @@ msgstr "錄音"
 
 msgid "Record new sound"
 msgstr "錄製新音效"
+
+msgid "record..."
+msgstr ""
 
 msgid "recording1"
 msgstr "錄音1"
@@ -888,11 +976,20 @@ msgstr "執行(螢幕無須更新)"
 msgid "Save"
 msgstr "存檔"
 
+msgid "Save a copy of this project and add your own ideas."
+msgstr ""
+
+msgid "Save as"
+msgstr ""
+
 msgid "Save as a copy"
 msgstr "另存新檔"
 
 msgid "Save now"
 msgstr "儲存"
+
+msgid "Save project?"
+msgstr ""
 
 msgid "save to local file"
 msgstr "存檔到電腦"
@@ -908,6 +1005,12 @@ msgstr "儲存中..."
 
 msgid "Saxophone"
 msgstr "薩克斯風"
+
+msgid "Scratch Updater"
+msgstr ""
+
+msgid "Scratch 2.0 Offline Editor"
+msgstr ""
 
 msgid "Script"
 msgstr "程式"
@@ -939,10 +1042,10 @@ msgstr "選擇並複製"
 msgid "Send to back"
 msgstr "送到後面"
 
-msgid "Set costume center"
+msgid "Set Costume Center"
 msgstr "設定造型中心"
 
-msgid "Set Costume Center"
+msgid "Set costume center"
 msgstr "設定造型中心"
 
 msgid "set slider min and max"
@@ -950,6 +1053,12 @@ msgstr "用滑動鈕設定最小與最大值"
 
 msgid "Share"
 msgstr "分享"
+
+msgid "Share to website"
+msgstr ""
+
+msgid "Share to Scratch website"
+msgstr ""
 
 msgid "shared"
 msgstr "已分享"
@@ -1023,11 +1132,11 @@ msgstr "音效庫"
 msgid "Sounds"
 msgstr "音效"
 
-msgid "space"
-msgstr "空白鍵"
-
 # 80%
 msgid "Space"
+msgstr "空白鍵"
+
+msgid "space"
 msgstr "空白鍵"
 
 msgid "Sports"
@@ -1077,17 +1186,33 @@ msgstr "鈴鼓"
 msgid "tan"
 msgstr "tan"
 
+#, fuzzy
+msgid "text"
+msgstr "文字"
+
 msgid "Text"
 msgstr "文字"
 
 msgid "that way"
 msgstr "方向"
 
+msgid "The name is already is use."
+msgstr ""
+
+msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgstr ""
+
 msgid "Theme"
 msgstr "主旋律"
 
 msgid "Things"
 msgstr "東西"
+
+msgid "thing"
+msgstr ""
+
+msgid "This is the current version."
+msgstr ""
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
 msgstr "這個專案可以用「帳戶名稱」積木，找出誰正在使用專案。想要隱藏身份的話，先登出再使用即可。"
@@ -1125,6 +1250,9 @@ msgstr "三角形"
 msgid "Trombone"
 msgstr "長號"
 
+msgid "true"
+msgstr ""
+
 msgid "Turbo mode"
 msgstr "Turbo模式"
 
@@ -1141,11 +1269,11 @@ msgstr "反刪除"
 msgid "Underwater"
 msgstr "水面下"
 
-# 75%
-msgid "Undo"
+msgid "undo"
 msgstr "復原"
 
-msgid "undo"
+# 75%
+msgid "Undo"
 msgstr "復原"
 
 msgid "Undo Revert"
@@ -1162,6 +1290,15 @@ msgstr "上"
 
 msgid "up arrow"
 msgstr "上移鍵"
+
+msgid "Update failed"
+msgstr ""
+
+msgid "Update not needed"
+msgstr ""
+
+msgid "Update now"
+msgstr ""
 
 msgid "Upload backdrop from file"
 msgstr "上傳背景檔案"
@@ -1205,6 +1342,9 @@ msgstr "抖音琴"
 msgid "Vibraslap"
 msgstr "顫擊"
 
+msgid "video direction"
+msgstr ""
+
 msgid "video motion"
 msgstr "視訊動作"
 
@@ -1226,6 +1366,9 @@ msgstr "要儲存嗎？點選混合"
 msgid "Which column do you want to import"
 msgstr "你要載入那個欄位"
 
+msgid "What's your name?"
+msgstr ""
+
 msgid "whirl"
 msgstr "旋轉"
 
@@ -1234,6 +1377,9 @@ msgstr "發音木塊"
 
 msgid "Wooden Flute"
 msgstr "木笛"
+
+msgid "world"
+msgstr ""
 
 msgid "x position"
 msgstr "x座標"
@@ -1247,11 +1393,26 @@ msgstr "年"
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
 msgstr "你不能編輯別人專案的雲端資料。<br>你改的任何東西，都只是暫時的，不會被儲存。"
 
-msgid "Eraser width:"
-msgstr "橡皮擦寬度"
+msgid "Your Scratch name"
+msgstr ""
 
-msgid "Line width:"
-msgstr "線條寬度"
+msgid "Your Scratch name is required"
+msgstr ""
+
+#~ msgid "cleanup"
+#~ msgstr "清除"
+
+#~ msgid "LEGO WeDo"
+#~ msgstr "LEGO WeDo"
+
+#~ msgid "Microphone Volume:"
+#~ msgstr "麥克風音量："
+
+#~ msgid "Eraser width:"
+#~ msgstr "橡皮擦寬度"
+
+#~ msgid "Line width:"
+#~ msgstr "線條寬度"
 
 # 90%
 #, fuzzy
@@ -1300,13 +1461,13 @@ msgstr "線條寬度"
 #~ msgid "Short Guiro"
 #~ msgstr "短梗笛"
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-"For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>雲端變數的</b><br>&nbsp;<br>目前只能用數字<br>不能用聊天室，會被刪除。<br>更多相關資訊<a href=\""
-"/help/faq/#clouddata\" target=\"_blank\">請看雲端資料FAQ!</a>"
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>雲端變數的</b><br>&nbsp;<br>目前只能用數字<br>不能用聊天室，會被刪除。<br>更多相關資訊<a href=\""
+#~ "/help/faq/#clouddata\" target=\"_blank\">請看雲端資料FAQ!</a>"
 
-msgid "Click  to try again or  to save"
-msgstr "點選\"立即儲存\"以重試或\"下載\"以儲存"
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "點選\"立即儲存\"以重試或\"下載\"以儲存"

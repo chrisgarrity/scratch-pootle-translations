@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-01 08:55+0200\n"
+"POT-Creation-Date: 2014-11-23 12:48+0000\n"
 "PO-Revision-Date: 2014-10-22 07:22+0000\n"
 "Last-Translator: kipkea <apichart.dev@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -26,6 +26,9 @@ msgstr ""
 msgid "a copy of the project file on your computer."
 msgstr ""
 
+msgid "A newer version of Scratch is available"
+msgstr ""
+
 msgid "About"
 msgstr "เกี่ยวกับ"
 
@@ -44,6 +47,9 @@ msgstr "ตั้งค่าบัญชี"
 msgid "acos"
 msgstr ""
 
+msgid "Add"
+msgstr ""
+
 msgid "Add an Extension"
 msgstr "เพิ่มส่วนขยาย"
 
@@ -52,6 +58,9 @@ msgstr ""
 
 msgid "add comment"
 msgstr "เพิ่มข้อคิดเห็น"
+
+msgid "add comment here..."
+msgstr ""
 
 msgid "Add label text:"
 msgstr "เพิ่มป้ายข้อความ:"
@@ -62,10 +71,10 @@ msgstr "เพิ่มการป้อนตัวเลข:"
 msgid "Add string input:"
 msgstr "เพิ่มการป้อนข้อความ:"
 
-msgid "All"
+msgid "all"
 msgstr "ทั้งหมด"
 
-msgid "all"
+msgid "All"
 msgstr "ทั้งหมด"
 
 msgid "all around"
@@ -95,10 +104,10 @@ msgstr ""
 msgid "Back a layer"
 msgstr ""
 
-msgid "Backdrop"
+msgid "backdrop"
 msgstr ""
 
-msgid "backdrop"
+msgid "Backdrop"
 msgstr ""
 
 msgid "backdrop #"
@@ -182,6 +191,9 @@ msgstr ""
 msgid "Cancel"
 msgstr "ยกเลิก"
 
+msgid "Cannot Add"
+msgstr ""
+
 msgid "Cannot Delete"
 msgstr "ไม่สามารถลบได้"
 
@@ -200,14 +212,19 @@ msgstr "เพดาน"
 msgid "Cello"
 msgstr "เซลโล"
 
+msgid "Check for updates"
+msgstr ""
+
 msgid "Choir"
 msgstr ""
 
+#, fuzzy
 msgid "Choose backdrop from library"
-msgstr ""
+msgstr "เลือกเสียงจากห้องสมุด"
 
+#, fuzzy
 msgid "Choose costume from library"
-msgstr ""
+msgstr "เลือกเสียงจากห้องสมุด"
 
 msgid "Choose sound from library"
 msgstr "เลือกเสียงจากห้องสมุด"
@@ -227,7 +244,7 @@ msgstr "แคริเน็ท"
 msgid "Claves"
 msgstr "เคลฟวส"
 
-msgid "cleanup"
+msgid "clean up"
 msgstr ""
 
 msgid "Clear"
@@ -250,6 +267,9 @@ msgstr "คลาวด์"
 
 msgid "Cloud data"
 msgstr "ข้อมูลคลาวด์"
+
+msgid "Cloud variable (stored on server)"
+msgstr ""
 
 msgid "color"
 msgstr "สี"
@@ -308,6 +328,9 @@ msgstr ""
 msgid "Costumes:"
 msgstr ""
 
+msgid "Could not retrieve new application from server."
+msgstr ""
+
 msgid "Cowbell"
 msgstr "กระดิ่งวัว"
 
@@ -332,12 +355,12 @@ msgstr "วันที่"
 msgid "day of week"
 msgstr "วันของสัปดาห์"
 
+msgid "delete"
+msgstr "ลบ"
+
 # 83%
 #, fuzzy
 msgid "Delete"
-msgstr "ลบ"
-
-msgid "delete"
 msgstr "ลบ"
 
 msgid "delete variable"
@@ -352,6 +375,9 @@ msgstr "ทิศทาง:"
 msgid "don't rotate"
 msgstr "ห้ามหมุน"
 
+msgid "Don't save"
+msgstr ""
+
 msgid "down"
 msgstr "ลง"
 
@@ -363,6 +389,9 @@ msgstr "ดาวน์โหลด"
 
 msgid "Download to your computer"
 msgstr "ดาวน์โหลดลงเครื่องคอมพิวเตอร์"
+
+msgid "Downloading new version"
+msgstr ""
 
 msgid "duplicate"
 msgstr "ทำซ้ำ"
@@ -376,10 +405,10 @@ msgstr ""
 msgid "edge"
 msgstr "ขอบ"
 
-msgid "edit"
+msgid "Edit"
 msgstr "แก้ไข"
 
-msgid "Edit"
+msgid "edit"
 msgstr "แก้ไข"
 
 msgid "Edit Block"
@@ -400,8 +429,14 @@ msgstr ""
 msgid "Ellipse"
 msgstr "วงรี"
 
+msgid "empty"
+msgstr ""
+
 msgid "Erase"
 msgstr "ลบ"
+
+msgid "Erase all"
+msgstr ""
 
 msgid "Eraser width"
 msgstr "ความกว้างของการลบ"
@@ -425,6 +460,9 @@ msgid "fade in"
 msgstr ""
 
 msgid "fade out"
+msgstr ""
+
+msgid "false"
 msgstr ""
 
 msgid "Fantasy"
@@ -493,10 +531,26 @@ msgstr "เสียงปรบมือ"
 msgid "Hardware"
 msgstr ""
 
+msgid "help"
+msgstr ""
+
+msgid "Hello!"
+msgstr ""
+
+msgid "Hmm..."
+msgstr ""
+
+#, fuzzy
+msgid "hello"
+msgstr "เซลโล"
+
 msgid "hide"
 msgstr "ซ่อน"
 
 msgid "High C"
+msgstr ""
+
+msgid "Holiday"
 msgstr ""
 
 msgid "hour"
@@ -540,11 +594,11 @@ msgstr "ลูกศรชี้ทางซ้าย"
 msgid "left-right"
 msgstr "ซ้าย-ขวา"
 
-msgid "LEGO WeDo"
-msgstr ""
-
 msgid "length"
 msgstr "ความยาว"
+
+msgid "Letters"
+msgstr ""
 
 msgid "Library"
 msgstr "ห้องสมุด"
@@ -615,7 +669,8 @@ msgstr "ชื่อข้อความ"
 msgid "message1"
 msgstr "ข้อความ1"
 
-msgid "Microphone Volume:"
+#, fuzzy
+msgid "Microphone volume:"
 msgstr "ความดังไมโครโฟน:"
 
 msgid "Middle C"
@@ -678,6 +733,9 @@ msgstr ""
 msgid "New backdrop:"
 msgstr ""
 
+msgid "New Block"
+msgstr ""
+
 msgid "New costume from camera"
 msgstr ""
 
@@ -686,6 +744,9 @@ msgstr ""
 
 msgid "New List"
 msgstr "รายการใหม่"
+
+msgid "New Message"
+msgstr ""
 
 msgid "new message..."
 msgstr "ข้อความใหม่..."
@@ -704,6 +765,9 @@ msgstr "ตัวละครใหม่"
 
 msgid "New Variable"
 msgstr "ตัวแปรใหม่"
+
+msgid "next backdrop"
+msgstr ""
 
 msgid "No motion blocks"
 msgstr ""
@@ -738,6 +802,9 @@ msgstr "เปิด"
 msgid "on-flipped"
 msgstr ""
 
+msgid "Open"
+msgstr ""
+
 msgid "Open Cuica"
 msgstr "โอเพน ควีคา"
 
@@ -756,6 +823,10 @@ msgstr "อื่นๆ"
 msgid "other scripts in sprite"
 msgstr "สริปต์อื่นในตัวละคร"
 
+#, fuzzy
+msgid "other scripts in stage"
+msgstr "สริปต์อื่นในตัวละคร"
+
 msgid "Outdoors"
 msgstr ""
 
@@ -767,6 +838,12 @@ msgstr ""
 
 msgid "Paint new sprite"
 msgstr "วาดตัวละครใหม่"
+
+msgid "Password"
+msgstr ""
+
+msgid "Password is required"
+msgstr ""
 
 msgid "paste"
 msgstr "แปะ"
@@ -798,6 +875,9 @@ msgstr ""
 msgid "pop"
 msgstr "ป๊อบ"
 
+msgid "previous backdrop"
+msgstr ""
+
 msgid "Profile"
 msgstr ""
 
@@ -807,6 +887,12 @@ msgstr "โครงการไม่ได้โหลด."
 msgid "Project not saved!"
 msgstr "โครงการไม่ได้จัดเก็บ!"
 
+msgid "Project name"
+msgstr ""
+
+msgid "Project name is required"
+msgstr ""
+
 msgid "random"
 msgstr "สุ่ม"
 
@@ -815,6 +901,9 @@ msgstr "บันทึก"
 
 msgid "Record new sound"
 msgstr "บันทึกเสียงใหม่"
+
+msgid "record..."
+msgstr ""
 
 msgid "recording1"
 msgstr "การบันทึก1"
@@ -887,11 +976,20 @@ msgstr ""
 msgid "Save"
 msgstr "จัดเก็บ"
 
+msgid "Save a copy of this project and add your own ideas."
+msgstr ""
+
+msgid "Save as"
+msgstr ""
+
 msgid "Save as a copy"
 msgstr "จัดเก็บแบบสำเนา"
 
 msgid "Save now"
 msgstr "จัดเก็บทันที"
+
+msgid "Save project?"
+msgstr ""
 
 msgid "save to local file"
 msgstr "จัดเก็บลงแฟ้ม"
@@ -906,6 +1004,12 @@ msgid "Saving..."
 msgstr "กำลังจัดเก็บ"
 
 msgid "Saxophone"
+msgstr ""
+
+msgid "Scratch Updater"
+msgstr ""
+
+msgid "Scratch 2.0 Offline Editor"
 msgstr ""
 
 msgid "Script"
@@ -938,10 +1042,10 @@ msgstr "เลือกและทำซ้ำ"
 msgid "Send to back"
 msgstr "ส่งไปด้านหลัง"
 
-msgid "Set costume center"
+msgid "Set Costume Center"
 msgstr ""
 
-msgid "Set Costume Center"
+msgid "Set costume center"
 msgstr ""
 
 msgid "set slider min and max"
@@ -949,6 +1053,12 @@ msgstr ""
 
 msgid "Share"
 msgstr "แบ่ง"
+
+msgid "Share to website"
+msgstr ""
+
+msgid "Share to Scratch website"
+msgstr ""
 
 msgid "shared"
 msgstr "แบ่ง"
@@ -1022,12 +1132,12 @@ msgstr "ห้องสมุดเสียง"
 msgid "Sounds"
 msgstr "เสียง"
 
-msgid "space"
-msgstr "พื้นที่ว่าง"
-
 # 80%
 #, fuzzy
 msgid "Space"
+msgstr "พื้นที่ว่าง"
+
+msgid "space"
 msgstr "พื้นที่ว่าง"
 
 msgid "Sports"
@@ -1079,16 +1189,32 @@ msgstr "แทมโบรีน"
 msgid "tan"
 msgstr ""
 
+#, fuzzy
+msgid "text"
+msgstr "ข้อความ"
+
 msgid "Text"
 msgstr "ข้อความ"
 
 msgid "that way"
 msgstr "ทางนั้น"
 
+msgid "The name is already is use."
+msgstr ""
+
+msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgstr ""
+
 msgid "Theme"
 msgstr ""
 
 msgid "Things"
+msgstr ""
+
+msgid "thing"
+msgstr ""
+
+msgid "This is the current version."
 msgstr ""
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
@@ -1127,6 +1253,9 @@ msgstr "สามเหลี่ยม"
 msgid "Trombone"
 msgstr "ทรอมโบน"
 
+msgid "true"
+msgstr ""
+
 msgid "Turbo mode"
 msgstr ""
 
@@ -1143,12 +1272,12 @@ msgstr "ยกเลิกการลบ"
 msgid "Underwater"
 msgstr "ใต้น้ำ"
 
+msgid "undo"
+msgstr "ยกเลิกการทำล่าสุด"
+
 # 75%
 #, fuzzy
 msgid "Undo"
-msgstr "ยกเลิกการทำล่าสุด"
-
-msgid "undo"
 msgstr "ยกเลิกการทำล่าสุด"
 
 msgid "Undo Revert"
@@ -1166,11 +1295,21 @@ msgstr "ขึ้น"
 msgid "up arrow"
 msgstr "ลูกศรขึ้น"
 
+msgid "Update failed"
+msgstr ""
+
+msgid "Update not needed"
+msgstr ""
+
+msgid "Update now"
+msgstr ""
+
 msgid "Upload backdrop from file"
 msgstr ""
 
+#, fuzzy
 msgid "Upload costume from file"
-msgstr ""
+msgstr "อัพโหลดเสียงจากแฟ้ม"
 
 msgid "Upload from your computer"
 msgstr "อัพโหลดจากคอมพิวเตอร์"
@@ -1208,6 +1347,9 @@ msgstr "ไวปราโฟน"
 msgid "Vibraslap"
 msgstr "ไวบราสแลป"
 
+msgid "video direction"
+msgstr ""
+
 msgid "video motion"
 msgstr ""
 
@@ -1229,6 +1371,9 @@ msgstr ""
 msgid "Which column do you want to import"
 msgstr ""
 
+msgid "What's your name?"
+msgstr ""
+
 msgid "whirl"
 msgstr "หมุนวน"
 
@@ -1236,6 +1381,9 @@ msgid "Wood Block"
 msgstr ""
 
 msgid "Wooden Flute"
+msgstr ""
+
+msgid "world"
 msgstr ""
 
 msgid "x position"
@@ -1250,11 +1398,20 @@ msgstr "ปี"
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
 msgstr ""
 
-msgid "Eraser width:"
-msgstr "ความกว้างยางลบ:"
+msgid "Your Scratch name"
+msgstr ""
 
-msgid "Line width:"
-msgstr "ความกว้างเส้น:"
+msgid "Your Scratch name is required"
+msgstr ""
+
+#~ msgid "Microphone Volume:"
+#~ msgstr "ความดังไมโครโฟน:"
+
+#~ msgid "Eraser width:"
+#~ msgstr "ความกว้างยางลบ:"
+
+#~ msgid "Line width:"
+#~ msgstr "ความกว้างเส้น:"
 
 # 90%
 #, fuzzy
@@ -1302,12 +1459,3 @@ msgstr "ความกว้างเส้น:"
 
 #~ msgid "Short Guiro"
 #~ msgstr "ช็อตคิวโร"
-
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-"For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-
-msgid "Click  to try again or  to save"
-msgstr ""

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2014-06-11 19:07+0000\n"
+"POT-Creation-Date: 2014-11-23 12:46+0000\n"
+"PO-Revision-Date: 2014-11-23 08:07+0000\n"
 "Last-Translator: Linda <lfahlberg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: mk\n"
@@ -12,23 +12,26 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n==1 || n%10==1 ? 0 : 1;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1402513640.000000\n"
+"X-POOTLE-MTIME: 1416730032.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
 
-#~ msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Информациите за мноштвото променливи</b><br>&nbsp;<br>Моментално само "
-#~ "броеви се подржани<br>Собите за разгвор не се дозволени и ќе бидат "
-#~ "одстранети<br>За повеќе информации, <a href= target=>погледнете ги мноштвото "
-#~ "на податоци FAQ!</a>"
+msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Информациите за мноштвото променливи</b><br>&nbsp;<br>Моментално само "
+"броеви се подржани<br>Собите за разгвор не се дозволени и ќе бидат "
+"одстранети<br>За повеќе информации, <a href= target=>погледнете ги мноштвото "
+"на податоци FAQ!</a>"
 
 msgid "A connected"
 msgstr "Конектирано"
 
 msgid "a copy of the project file on your computer."
 msgstr "копија од проектот во Вашиот компјутер"
+
+msgid "A newer version of Scratch is available"
+msgstr ""
 
 msgid "About"
 msgstr "За"
@@ -48,6 +51,9 @@ msgstr "Подесувања на профил"
 msgid "acos"
 msgstr "а косинус"
 
+msgid "Add"
+msgstr "Додај"
+
 msgid "Add an Extension"
 msgstr "Додај екстензија"
 
@@ -56,6 +62,9 @@ msgstr "Додај децимален влез:"
 
 msgid "add comment"
 msgstr "додај коментар"
+
+msgid "add comment here..."
+msgstr ""
 
 msgid "Add label text:"
 msgstr "Додај маркиран текст:"
@@ -66,11 +75,11 @@ msgstr "Додај влезен број:"
 msgid "Add string input:"
 msgstr "Додај влезен карактер:"
 
-msgid "All"
-msgstr "Сите"
-
 msgid "all"
 msgstr "сите"
+
+msgid "All"
+msgstr "Сите"
 
 msgid "all around"
 msgstr "се наоколу"
@@ -99,11 +108,11 @@ msgstr "Б конектирано"
 msgid "Back a layer"
 msgstr "Врати слој"
 
-msgid "Backdrop"
-msgstr "Позадина"
-
 msgid "backdrop"
 msgstr "позадина"
+
+msgid "Backdrop"
+msgstr "Позадина"
 
 msgid "backdrop #"
 msgstr "позадина #"
@@ -189,6 +198,9 @@ msgstr "можеш да влечиш во играчот:"
 msgid "Cancel"
 msgstr "Откажи"
 
+msgid "Cannot Add"
+msgstr ""
+
 msgid "Cannot Delete"
 msgstr "Неможи да се Избрише"
 
@@ -206,6 +218,9 @@ msgstr "таван"
 
 msgid "Cello"
 msgstr "Чело-43"
+
+msgid "Check for updates"
+msgstr ""
 
 msgid "Choir"
 msgstr "Хор"
@@ -234,7 +249,8 @@ msgstr "Кларинет-72"
 msgid "Claves"
 msgstr "Клавесин-75п"
 
-msgid "cleanup"
+#, fuzzy
+msgid "clean up"
 msgstr "исчисти"
 
 msgid "Clear"
@@ -243,8 +259,8 @@ msgstr "Исчисти"
 msgid "clear senders/receivers"
 msgstr "исчисти праќачи/примачи"
 
-#~ msgid "Click "Save now" to try again or "Download" to save"
-#~ msgstr "Кликни на обиди се повторно или зачувај на"
+msgid "Click "Save now" to try again or "Download" to save"
+msgstr "Кликни на обиди се повторно или зачувај на"
 
 msgid "Close"
 msgstr "Затвори"
@@ -257,6 +273,9 @@ msgstr "Облак"
 
 msgid "Cloud data"
 msgstr "Мноштво податоци"
+
+msgid "Cloud variable (stored on server)"
+msgstr ""
 
 msgid "color"
 msgstr "боја"
@@ -315,6 +334,9 @@ msgstr "Маски > 1"
 msgid "Costumes:"
 msgstr "Маски:"
 
+msgid "Could not retrieve new application from server."
+msgstr ""
+
 msgid "Cowbell"
 msgstr "Клопотарец-56п"
 
@@ -339,12 +361,12 @@ msgstr "датум"
 msgid "day of week"
 msgstr "ден во седмица"
 
+msgid "delete"
+msgstr "избриши"
+
 # 83%
 msgid "Delete"
 msgstr "Избриши"
-
-msgid "delete"
-msgstr "избриши"
 
 msgid "delete variable"
 msgstr "избриши променлива"
@@ -358,6 +380,9 @@ msgstr "насока:"
 msgid "don't rotate"
 msgstr "не ротирај"
 
+msgid "Don't save"
+msgstr "Не зачувувај"
+
 msgid "down"
 msgstr "долу"
 
@@ -369,6 +394,9 @@ msgstr "Превземи"
 
 msgid "Download to your computer"
 msgstr "Превземи во Вашиот компјутер"
+
+msgid "Downloading new version"
+msgstr ""
 
 msgid "duplicate"
 msgstr "дуплирај"
@@ -382,10 +410,10 @@ msgstr "e ^"
 msgid "edge"
 msgstr "раб"
 
-msgid "edit"
+msgid "Edit"
 msgstr "Уреди"
 
-msgid "Edit"
+msgid "edit"
 msgstr "Уреди"
 
 msgid "Edit Block"
@@ -406,8 +434,14 @@ msgstr "Електронично"
 msgid "Ellipse"
 msgstr "Елипса"
 
+msgid "empty"
+msgstr ""
+
 msgid "Erase"
 msgstr "Избриши"
+
+msgid "Erase all"
+msgstr ""
 
 msgid "Eraser width"
 msgstr "Ширина на бришач"
@@ -432,6 +466,9 @@ msgstr "избледува навнатре"
 
 msgid "fade out"
 msgstr "избледува нанадвор"
+
+msgid "false"
+msgstr ""
 
 msgid "Fantasy"
 msgstr "Фантазија"
@@ -499,11 +536,27 @@ msgstr "Ракоплескање-39п"
 msgid "Hardware"
 msgstr "Хардвер"
 
+msgid "help"
+msgstr "помош"
+
+msgid "Hello!"
+msgstr ""
+
+msgid "Hmm..."
+msgstr ""
+
+#, fuzzy
+msgid "hello"
+msgstr "Чело-43"
+
 msgid "hide"
 msgstr "сокриј"
 
 msgid "High C"
 msgstr "Високо С"
+
+msgid "Holiday"
+msgstr "Празник"
 
 msgid "hour"
 msgstr "час"
@@ -545,11 +598,11 @@ msgstr "стрелка лево"
 msgid "left-right"
 msgstr "лево-десно"
 
-msgid "LEGO WeDo"
-msgstr "LEGO WeDo"
-
 msgid "length"
 msgstr "висина"
+
+msgid "Letters"
+msgstr "Букви"
 
 msgid "Library"
 msgstr "Библиотека"
@@ -619,8 +672,8 @@ msgstr "Име на порака"
 msgid "message1"
 msgstr "порака1"
 
-msgid "Microphone Volume:"
-msgstr "Волумен на микрофонот:"
+msgid "Microphone volume:"
+msgstr "Гласност на микрофонот"
 
 msgid "Middle C"
 msgstr "Средно С"
@@ -682,6 +735,9 @@ msgstr "Нова позадина од камера"
 msgid "New backdrop:"
 msgstr "Нова позадина:"
 
+msgid "New Block"
+msgstr "Нов блок"
+
 msgid "New costume from camera"
 msgstr "Нова маска од камера"
 
@@ -690,6 +746,9 @@ msgstr "Нова маска:"
 
 msgid "New List"
 msgstr "Нова листа"
+
+msgid "New Message"
+msgstr "Нова порака"
 
 msgid "new message..."
 msgstr "нова порака..."
@@ -708,6 +767,9 @@ msgstr "Нова фигура:"
 
 msgid "New Variable"
 msgstr "Нова променлива"
+
+msgid "next backdrop"
+msgstr "следна позадина"
 
 msgid "No motion blocks"
 msgstr "Нема движечки блокови"
@@ -742,6 +804,9 @@ msgstr "вклучено"
 msgid "on-flipped"
 msgstr "вклучи-заврти"
 
+msgid "Open"
+msgstr ""
+
 msgid "Open Cuica"
 msgstr "Отворена квика-79п"
 
@@ -760,6 +825,9 @@ msgstr "Друго"
 msgid "other scripts in sprite"
 msgstr "Останати записи во фигурите"
 
+msgid "other scripts in stage"
+msgstr "Останати записи во фигурите"
+
 msgid "Outdoors"
 msgstr "Надвор"
 
@@ -771,6 +839,12 @@ msgstr "Обои нова маска"
 
 msgid "Paint new sprite"
 msgstr "Обои нова фигура"
+
+msgid "Password"
+msgstr ""
+
+msgid "Password is required"
+msgstr ""
 
 msgid "paste"
 msgstr "залепи"
@@ -802,6 +876,9 @@ msgstr "Пицикато"
 msgid "pop"
 msgstr "поп (музика)"
 
+msgid "previous backdrop"
+msgstr "предходна позадина"
+
 msgid "Profile"
 msgstr "Профил"
 
@@ -811,6 +888,12 @@ msgstr "Проектот не се вчита."
 msgid "Project not saved!"
 msgstr "Проектот не е зачуван!"
 
+msgid "Project name"
+msgstr ""
+
+msgid "Project name is required"
+msgstr ""
+
 msgid "random"
 msgstr "случајно"
 
@@ -819,6 +902,9 @@ msgstr "Снимај"
 
 msgid "Record new sound"
 msgstr "Сними нов звук"
+
+msgid "record..."
+msgstr "снимај..."
 
 msgid "recording1"
 msgstr "снимање1"
@@ -890,11 +976,20 @@ msgstr "Работи без освежување на екранот"
 msgid "Save"
 msgstr "Зачувај"
 
+msgid "Save a copy of this project and add your own ideas."
+msgstr "Зачувај копија од овој проект и додај свои идеи."
+
+msgid "Save as"
+msgstr ""
+
 msgid "Save as a copy"
 msgstr "Зачувај го како копија"
 
 msgid "Save now"
 msgstr "Зачувај сега"
+
+msgid "Save project?"
+msgstr "Дали да се зачува проектот?"
 
 msgid "save to local file"
 msgstr "Зачувај во локална папка"
@@ -910,6 +1005,12 @@ msgstr "Зачувување..."
 
 msgid "Saxophone"
 msgstr "Саксафон"
+
+msgid "Scratch Updater"
+msgstr ""
+
+msgid "Scratch 2.0 Offline Editor"
+msgstr ""
 
 msgid "Script"
 msgstr "Запис"
@@ -943,10 +1044,10 @@ msgstr "Одбери и дуплирај"
 msgid "Send to back"
 msgstr "Врати назад"
 
-msgid "Set costume center"
+msgid "Set Costume Center"
 msgstr "Намести го центарот на маската"
 
-msgid "Set Costume Center"
+msgid "Set costume center"
 msgstr "Намести го центарот на маската"
 
 msgid "set slider min and max"
@@ -954,6 +1055,12 @@ msgstr "намести макс и мин за лизгачот"
 
 msgid "Share"
 msgstr "Сподели"
+
+msgid "Share to website"
+msgstr ""
+
+msgid "Share to Scratch website"
+msgstr ""
 
 msgid "shared"
 msgstr "споделено"
@@ -1027,12 +1134,12 @@ msgstr "Звучна библиотека"
 msgid "Sounds"
 msgstr "Звуци"
 
-msgid "space"
-msgstr "празно место"
-
 # 80%
 msgid "Space"
 msgstr "Празно место"
+
+msgid "space"
+msgstr "празно место"
 
 msgid "Sports"
 msgstr "Спортови"
@@ -1079,17 +1186,32 @@ msgstr "Дајре-54п"
 msgid "tan"
 msgstr "тангес"
 
+msgid "text"
+msgstr "Текст"
+
 msgid "Text"
 msgstr "Текст"
 
 msgid "that way"
 msgstr "на тој начин"
 
+msgid "The name is already is use."
+msgstr ""
+
+msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgstr ""
+
 msgid "Theme"
 msgstr "Тема"
 
 msgid "Things"
 msgstr "Работи"
+
+msgid "thing"
+msgstr ""
+
+msgid "This is the current version."
+msgstr ""
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
 msgstr ""
@@ -1132,6 +1254,9 @@ msgstr "Триаголник"
 msgid "Trombone"
 msgstr "Тромбон-58"
 
+msgid "true"
+msgstr ""
+
 msgid "Turbo mode"
 msgstr "Турбо вид"
 
@@ -1148,12 +1273,12 @@ msgstr "Поврати го бришењето"
 msgid "Underwater"
 msgstr "Под вода"
 
+msgid "undo"
+msgstr "поништи"
+
 # 75%
 msgid "Undo"
 msgstr "Поништи"
-
-msgid "undo"
-msgstr "поништи"
 
 msgid "Undo Revert"
 msgstr "Поништи обратно"
@@ -1169,6 +1294,15 @@ msgstr "горе"
 
 msgid "up arrow"
 msgstr "стрелка горе"
+
+msgid "Update failed"
+msgstr ""
+
+msgid "Update not needed"
+msgstr ""
+
+msgid "Update now"
+msgstr ""
 
 msgid "Upload backdrop from file"
 msgstr "Внеси позадина од папка"
@@ -1212,6 +1346,9 @@ msgstr "Вибрафон-12"
 msgid "Vibraslap"
 msgstr "Самар-58п"
 
+msgid "video direction"
+msgstr "Насока за видеото"
+
 msgid "video motion"
 msgstr "движење на видео"
 
@@ -1233,6 +1370,9 @@ msgstr "Сакаш да зачуваш? Кликни ремикс"
 msgid "Which column do you want to import"
 msgstr "Која колона сакате да ја внесете"
 
+msgid "What's your name?"
+msgstr ""
+
 msgid "whirl"
 msgstr "врти"
 
@@ -1241,6 +1381,9 @@ msgstr "Дрвен Блок"
 
 msgid "Wooden Flute"
 msgstr "Дрвена флејта"
+
+msgid "world"
+msgstr ""
 
 msgid "x position"
 msgstr "х позиција"
@@ -1256,11 +1399,26 @@ msgstr ""
 "Не можете да променувате мноштвото на податоци на нечиј проект.<br>Секоја "
 "промена што ќе ја направите ќе биде привремена и нема да биди постојан."
 
-msgid "Eraser width:"
-msgstr "Дебелина на бришач:"
+msgid "Your Scratch name"
+msgstr ""
 
-msgid "Line width:"
-msgstr "Дебелина на линија:"
+msgid "Your Scratch name is required"
+msgstr ""
+
+#~ msgid "cleanup"
+#~ msgstr "исчисти"
+
+#~ msgid "LEGO WeDo"
+#~ msgstr "LEGO WeDo"
+
+#~ msgid "Microphone Volume:"
+#~ msgstr "Волумен на микрофонот:"
+
+#~ msgid "Eraser width:"
+#~ msgstr "Дебелина на бришач:"
+
+#~ msgid "Line width:"
+#~ msgstr "Дебелина на линија:"
 
 #~ msgid "Paint"
 #~ msgstr "Боење"
@@ -1304,15 +1462,15 @@ msgstr "Дебелина на линија:"
 #~ msgid "Short Guiro"
 #~ msgstr "Кратко виро-73п"
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-"For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Информациите за мноштвото променливи</b><br>&nbsp;<br>Моментално само "
-"броеви се подржани<br>Собите за разгвор не се дозволени и ќе бидат "
-"одстранети<br>За повеќе информации, <a href= target=>погледнете ги мноштвото "
-"на податоци FAQ!</a>"
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Информациите за мноштвото променливи</b><br>&nbsp;<br>Моментално само "
+#~ "броеви се подржани<br>Собите за разгвор не се дозволени и ќе бидат "
+#~ "одстранети<br>За повеќе информации, <a href= target=>погледнете ги мноштвото "
+#~ "на податоци FAQ!</a>"
 
-msgid "Click  to try again or  to save"
-msgstr "Кликни на обиди се повторно или зачувај на"
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Кликни на обиди се повторно или зачувај на"

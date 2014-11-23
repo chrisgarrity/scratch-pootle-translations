@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-01 08:55+0200\n"
+"POT-Creation-Date: 2014-11-23 12:43+0000\n"
 "PO-Revision-Date: 2014-08-25 16:21+0000\n"
 "Last-Translator: Jüri <juri.vilipold@ttu.ee>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,17 +17,20 @@ msgstr ""
 msgid "10 ^"
 msgstr "10 ^"
 
-#~ msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Info pilvemuutujate kohta</b><br>&nbsp;<br>Praegu on võimalik kasutada "
-#~ "ainult arve<br>Jututoad ei ole lubatud ja eemaldatakse<br>Täiendav info <a "
-#~ "href= target=>vaata pilveandmete KKK!</a>"
+msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Info pilvemuutujate kohta</b><br>&nbsp;<br>Praegu on võimalik kasutada "
+"ainult arve<br>Jututoad ei ole lubatud ja eemaldatakse<br>Täiendav info <a "
+"href= target=>vaata pilveandmete KKK!</a>"
 
 msgid "A connected"
 msgstr "A on ühendatud"
 
 msgid "a copy of the project file on your computer."
 msgstr "projektifaili koopia su arvutis."
+
+msgid "A newer version of Scratch is available"
+msgstr ""
 
 msgid "About"
 msgstr "Info"
@@ -47,6 +50,9 @@ msgstr "Konto seaded"
 msgid "acos"
 msgstr "acos"
 
+msgid "Add"
+msgstr ""
+
 msgid "Add an Extension"
 msgstr "Lisa laiendus"
 
@@ -56,6 +62,9 @@ msgstr "Lisa loogikaparameeter:"
 
 msgid "add comment"
 msgstr "lisa kommentaar"
+
+msgid "add comment here..."
+msgstr ""
 
 msgid "Add label text:"
 msgstr "Lisa märgend:"
@@ -68,11 +77,11 @@ msgstr "Lisa arvparameeter:"
 msgid "Add string input:"
 msgstr "Lisa tekstparameeter:"
 
-msgid "All"
-msgstr "Kõik"
-
 msgid "all"
 msgstr "kõik"
+
+msgid "All"
+msgstr "Kõik"
 
 msgid "all around"
 msgstr "suvaline"
@@ -102,13 +111,13 @@ msgid "Back a layer"
 msgstr "Üks kiht tagasi"
 
 # 88%
+msgid "backdrop"
+msgstr "taust"
+
+# 88%
 # 87%
 msgid "Backdrop"
 msgstr "Taust"
-
-# 88%
-msgid "backdrop"
-msgstr "taust"
 
 msgid "backdrop #"
 msgstr "taust #"
@@ -197,6 +206,9 @@ msgstr "lohistatav täitmisrežiimil:"
 msgid "Cancel"
 msgstr "Katkesta"
 
+msgid "Cannot Add"
+msgstr ""
+
 msgid "Cannot Delete"
 msgstr "Ei saa kustutada"
 
@@ -215,6 +227,9 @@ msgstr "ceiling"
 
 msgid "Cello"
 msgstr "Tšello"
+
+msgid "Check for updates"
+msgstr ""
 
 msgid "Choir"
 msgstr "Koor"
@@ -243,7 +258,8 @@ msgstr "Klarnet"
 msgid "Claves"
 msgstr "Pulgad"
 
-msgid "cleanup"
+#, fuzzy
+msgid "clean up"
 msgstr "puhastamine"
 
 msgid "Clear"
@@ -253,8 +269,8 @@ msgid "clear senders/receivers"
 msgstr "kustuta saatjad/saajad"
 
 # kus selline tekst asub?
-#~ msgid "Click "Save now" to try again or "Download" to save"
-#~ msgstr "Klõpsa uueks katseks või salvestamiseks"
+msgid "Click "Save now" to try again or "Download" to save"
+msgstr "Klõpsa uueks katseks või salvestamiseks"
 
 msgid "Close"
 msgstr "Sulge"
@@ -267,6 +283,9 @@ msgstr "Pilv"
 
 msgid "Cloud data"
 msgstr "Pilveandmed"
+
+msgid "Cloud variable (stored on server)"
+msgstr ""
 
 msgid "color"
 msgstr "värv"
@@ -329,6 +348,9 @@ msgstr "Kostüüm > 1"
 msgid "Costumes:"
 msgstr "Kostüümid:"
 
+msgid "Could not retrieve new application from server."
+msgstr ""
+
 msgid "Cowbell"
 msgstr "Lehmakell"
 
@@ -353,12 +375,12 @@ msgstr "kuupäev"
 msgid "day of week"
 msgstr "nädalapäev"
 
+msgid "delete"
+msgstr "eemalda"
+
 # 83%
 msgid "Delete"
 msgstr "Eemalda"
-
-msgid "delete"
-msgstr "eemalda"
 
 msgid "delete variable"
 msgstr "eemalda muutuja"
@@ -375,6 +397,9 @@ msgstr "suund:"
 msgid "don't rotate"
 msgstr "ei pöördu"
 
+msgid "Don't save"
+msgstr ""
+
 msgid "down"
 msgstr "alla"
 
@@ -386,6 +411,9 @@ msgstr "Laadi alla"
 
 msgid "Download to your computer"
 msgstr "Laadi oma arvutisse"
+
+msgid "Downloading new version"
+msgstr ""
 
 msgid "duplicate"
 msgstr "paljunda"
@@ -399,11 +427,11 @@ msgstr "e ^"
 msgid "edge"
 msgstr "serv"
 
-msgid "edit"
-msgstr "redigeeri"
-
 msgid "Edit"
 msgstr "Redigeerimine"
+
+msgid "edit"
+msgstr "redigeeri"
 
 # kus see tekst on?
 msgid "Edit Block"
@@ -424,8 +452,14 @@ msgstr "Elektroonika"
 msgid "Ellipse"
 msgstr "Ellips"
 
+msgid "empty"
+msgstr ""
+
 msgid "Erase"
 msgstr "Kustuta"
+
+msgid "Erase all"
+msgstr ""
 
 # 92%
 msgid "Eraser width"
@@ -434,7 +468,6 @@ msgstr "Kustutaja laius"
 msgid "Error!"
 msgstr "Viga!"
 
-# kõik
 msgid "everything"
 msgstr ""
 
@@ -452,6 +485,9 @@ msgstr "tuhmumine sisse"
 
 msgid "fade out"
 msgstr "tuhmumine välja"
+
+msgid "false"
+msgstr ""
 
 msgid "Fantasy"
 msgstr "Fantaasia"
@@ -519,11 +555,27 @@ msgstr "Käteplaks"
 msgid "Hardware"
 msgstr "Riistvara"
 
+msgid "help"
+msgstr ""
+
+msgid "Hello!"
+msgstr ""
+
+msgid "Hmm..."
+msgstr ""
+
+#, fuzzy
+msgid "hello"
+msgstr "Tšello"
+
 msgid "hide"
 msgstr "peida"
 
 msgid "High C"
 msgstr "ülemine C"
+
+msgid "Holiday"
+msgstr ""
 
 msgid "hour"
 msgstr "tunnid"
@@ -565,11 +617,11 @@ msgstr "vasaknool"
 msgid "left-right"
 msgstr "vasak-parem"
 
-msgid "LEGO WeDo"
-msgstr "LEGO WeDo"
-
 msgid "length"
 msgstr "pikkus"
+
+msgid "Letters"
+msgstr ""
 
 msgid "Library"
 msgstr "Teek"
@@ -641,7 +693,8 @@ msgstr "Teate nimi"
 msgid "message1"
 msgstr "teade1"
 
-msgid "Microphone Volume:"
+#, fuzzy
+msgid "Microphone volume:"
 msgstr "Mikrofoni helitugevus:"
 
 msgid "Middle C"
@@ -705,6 +758,9 @@ msgstr "Uus taust kaameraga"
 msgid "New backdrop:"
 msgstr "Uus taust:"
 
+msgid "New Block"
+msgstr ""
+
 msgid "New costume from camera"
 msgstr "Uus kostüüm kaameraga"
 
@@ -714,6 +770,9 @@ msgstr "Uus kostüüm:"
 
 msgid "New List"
 msgstr "Uus loend"
+
+msgid "New Message"
+msgstr ""
 
 msgid "new message..."
 msgstr "uus teade ..."
@@ -733,6 +792,9 @@ msgstr "Uus sprait:"
 
 msgid "New Variable"
 msgstr "Uus muutuja"
+
+msgid "next backdrop"
+msgstr ""
 
 msgid "No motion blocks"
 msgstr "Pole liikumiskäske"
@@ -767,6 +829,9 @@ msgstr "sisse"
 msgid "on-flipped"
 msgstr "peegeldatuna"
 
+msgid "Open"
+msgstr ""
+
 msgid "Open Cuica"
 msgstr "Lahtine Cuica"
 
@@ -786,6 +851,9 @@ msgstr "Muu"
 msgid "other scripts in sprite"
 msgstr "teised spraidi skriptid"
 
+msgid "other scripts in stage"
+msgstr "teised skriptid tulekul"
+
 msgid "Outdoors"
 msgstr "Õues"
 
@@ -797,6 +865,12 @@ msgstr "Uue kostüümi joonistamine"
 
 msgid "Paint new sprite"
 msgstr "Uue spraidi joonistamine"
+
+msgid "Password"
+msgstr ""
+
+msgid "Password is required"
+msgstr ""
 
 msgid "paste"
 msgstr "kleebi"
@@ -829,6 +903,9 @@ msgstr "Pizzicato"
 msgid "pop"
 msgstr "pop"
 
+msgid "previous backdrop"
+msgstr ""
+
 msgid "Profile"
 msgstr "Profiil"
 
@@ -838,6 +915,12 @@ msgstr "Projekt ei ole laaditud."
 msgid "Project not saved!"
 msgstr "Projekt pole salvestatud!"
 
+msgid "Project name"
+msgstr ""
+
+msgid "Project name is required"
+msgstr ""
+
 msgid "random"
 msgstr "juhuslik"
 
@@ -846,6 +929,9 @@ msgstr "Lindista"
 
 msgid "Record new sound"
 msgstr "Uue helindi lindistamine"
+
+msgid "record..."
+msgstr ""
 
 msgid "recording1"
 msgstr "lindistus1"
@@ -919,11 +1005,20 @@ msgstr "Täida ekraanikuva uuendamata"
 msgid "Save"
 msgstr "Salvesta"
 
+msgid "Save a copy of this project and add your own ideas."
+msgstr ""
+
+msgid "Save as"
+msgstr ""
+
 msgid "Save as a copy"
 msgstr "Salvesta koopiana"
 
 msgid "Save now"
 msgstr "Salvesta nüüd"
+
+msgid "Save project?"
+msgstr ""
 
 msgid "save to local file"
 msgstr "salvesta lokaalsesse faili"
@@ -939,6 +1034,12 @@ msgstr "Salvestamine ..."
 
 msgid "Saxophone"
 msgstr "Saksofon"
+
+msgid "Scratch Updater"
+msgstr ""
+
+msgid "Scratch 2.0 Offline Editor"
+msgstr ""
 
 # 85%
 msgid "Script"
@@ -975,11 +1076,11 @@ msgstr "Vali ja paljunda"
 msgid "Send to back"
 msgstr "Tahaplaanile"
 
-# 88%
-msgid "Set costume center"
+msgid "Set Costume Center"
 msgstr "Kostüümi keskme määramine"
 
-msgid "Set Costume Center"
+# 88%
+msgid "Set costume center"
 msgstr "Kostüümi keskme määramine"
 
 msgid "set slider min and max"
@@ -987,6 +1088,12 @@ msgstr "määra liuguri min ja max"
 
 msgid "Share"
 msgstr "Jaga"
+
+msgid "Share to website"
+msgstr ""
+
+msgid "Share to Scratch website"
+msgstr ""
 
 msgid "shared"
 msgstr "jagatud"
@@ -1061,12 +1168,12 @@ msgstr "Helindite teek"
 msgid "Sounds"
 msgstr "Helindid"
 
-msgid "space"
-msgstr "tühik"
-
 # 80%
 msgid "Space"
 msgstr "Kosmos"
+
+msgid "space"
+msgstr "tühik"
 
 msgid "Sports"
 msgstr "Sport"
@@ -1116,17 +1223,33 @@ msgstr "Tamburiin"
 msgid "tan"
 msgstr "tan"
 
+#, fuzzy
+msgid "text"
+msgstr "Tekst"
+
 msgid "Text"
 msgstr "Tekst"
 
 msgid "that way"
 msgstr "teises suunas"
 
+msgid "The name is already is use."
+msgstr ""
+
+msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgstr ""
+
 msgid "Theme"
 msgstr "Teemad"
 
 msgid "Things"
 msgstr "Asjad"
+
+msgid "thing"
+msgstr ""
+
+msgid "This is the current version."
+msgstr ""
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
 msgstr ""
@@ -1168,6 +1291,9 @@ msgstr "Triangel"
 msgid "Trombone"
 msgstr "Tromboon"
 
+msgid "true"
+msgstr ""
+
 # 90%
 msgid "Turbo mode"
 msgstr "Turborežiim"
@@ -1185,12 +1311,12 @@ msgstr "Taasta"
 msgid "Underwater"
 msgstr "Vee all"
 
+msgid "undo"
+msgstr "võta tagasi"
+
 # 75%
 msgid "Undo"
 msgstr "Võta tagasi"
-
-msgid "undo"
-msgstr "võta tagasi"
 
 msgid "Undo Revert"
 msgstr "Võta tagasi tühistamine"
@@ -1206,6 +1332,15 @@ msgstr "üles"
 
 msgid "up arrow"
 msgstr "ülesnool"
+
+msgid "Update failed"
+msgstr ""
+
+msgid "Update not needed"
+msgstr ""
+
+msgid "Update now"
+msgstr ""
 
 msgid "Upload backdrop from file"
 msgstr "Tausta laadimine failist"
@@ -1249,6 +1384,9 @@ msgstr "Vibrafon"
 msgid "Vibraslap"
 msgstr "Põskvibrafon"
 
+msgid "video direction"
+msgstr ""
+
 msgid "video motion"
 msgstr "video liikumine"
 
@@ -1270,6 +1408,9 @@ msgstr "Soovid salvestada? Klõpsa remiksi"
 msgid "Which column do you want to import"
 msgstr "Mis veergu soovid importida"
 
+msgid "What's your name?"
+msgstr ""
+
 msgid "whirl"
 msgstr "pööris"
 
@@ -1278,6 +1419,9 @@ msgstr "Puitklots"
 
 msgid "Wooden Flute"
 msgstr "Puitflööt"
+
+msgid "world"
+msgstr ""
 
 msgid "x position"
 msgstr "x"
@@ -1293,11 +1437,26 @@ msgstr ""
 "Sa ei saa muuta teise kasutaja projekti pilveandmeid.<br>Redaktoris tehtud "
 "muudatused on ajutised, mitte püsivad."
 
-msgid "Eraser width:"
-msgstr "Kustutaja laius:"
+msgid "Your Scratch name"
+msgstr ""
 
-msgid "Line width:"
-msgstr "Joone paksus:"
+msgid "Your Scratch name is required"
+msgstr ""
+
+#~ msgid "cleanup"
+#~ msgstr "puhastamine"
+
+#~ msgid "LEGO WeDo"
+#~ msgstr "LEGO WeDo"
+
+#~ msgid "Microphone Volume:"
+#~ msgstr "Mikrofoni helitugevus:"
+
+#~ msgid "Eraser width:"
+#~ msgstr "Kustutaja laius:"
+
+#~ msgid "Line width:"
+#~ msgstr "Joone paksus:"
 
 #~ msgid "#"
 #~ msgstr "#"
@@ -1418,9 +1577,6 @@ msgstr "Joone paksus:"
 #~ msgid "Open Triangle"
 #~ msgstr "Avatud triangel"
 
-#~ msgid "other scripts in stage"
-#~ msgstr "teised skriptid tulekul"
-
 #~ msgid "Pedal Hi-Hat"
 #~ msgstr "Pedal Hi-Hat"
 
@@ -1455,15 +1611,15 @@ msgstr "Joone paksus:"
 #~ msgid "Stage selected"
 #~ msgstr "Lava on valitud"
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-"For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Info pilvemuutujate kohta</b><br>&nbsp;<br>Praegu on võimalik kasutada "
-"ainult arve<br>Jututoad ei ole lubatud ja eemaldatakse<br>Täiendav info <a "
-"href= target=>vaata pilveandmete KKK!</a>"
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Info pilvemuutujate kohta</b><br>&nbsp;<br>Praegu on võimalik kasutada "
+#~ "ainult arve<br>Jututoad ei ole lubatud ja eemaldatakse<br>Täiendav info <a "
+#~ "href= target=>vaata pilveandmete KKK!</a>"
 
 # kus selline tekst asub?
-msgid "Click  to try again or  to save"
-msgstr "Klõpsa uueks katseks või salvestamiseks"
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Klõpsa uueks katseks või salvestamiseks"

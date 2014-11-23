@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-01 08:55+0200\n"
+"POT-Creation-Date: 2014-11-23 12:48+0000\n"
 "PO-Revision-Date: 2014-11-13 19:23+0000\n"
 "Last-Translator: Robert <rob313663@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,17 +17,20 @@ msgstr ""
 msgid "10 ^"
 msgstr "10 ^"
 
-#~ msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Information om Molnvariabler</b><br>&nbsp;<br>För närvarande stöds enbart "
-#~ "siffror<br>Chattrum är inte tillåtna, och kommer att tas bort<br>för mer "
-#~ "information, <a href= target=>se Molndata - FAQ!</a>"
+msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Information om Molnvariabler</b><br>&nbsp;<br>För närvarande stöds enbart "
+"siffror<br>Chattrum är inte tillåtna, och kommer att tas bort<br>för mer "
+"information, <a href= target=>se Molndata - FAQ!</a>"
 
 msgid "A connected"
 msgstr "A ansluten"
 
 msgid "a copy of the project file on your computer."
 msgstr "en kopia av projektfilen på din dator."
+
+msgid "A newer version of Scratch is available"
+msgstr ""
 
 msgid "About"
 msgstr "Om"
@@ -47,6 +50,9 @@ msgstr "Kontoinställningar"
 msgid "acos"
 msgstr "acos"
 
+msgid "Add"
+msgstr ""
+
 msgid "Add an Extension"
 msgstr "Lägg till ett tillägg"
 
@@ -56,6 +62,9 @@ msgstr "Lägg till boolskt värde:"
 
 msgid "add comment"
 msgstr "lägg till kommentar"
+
+msgid "add comment here..."
+msgstr ""
 
 msgid "Add label text:"
 msgstr "Lägg till etikettext:"
@@ -68,11 +77,11 @@ msgstr "Lägg till siffervärde:"
 msgid "Add string input:"
 msgstr "Lägg till text:"
 
-msgid "All"
-msgstr "Alla"
-
 msgid "all"
 msgstr "alla"
+
+msgid "All"
+msgstr "Alla"
 
 msgid "all around"
 msgstr "rotera"
@@ -102,13 +111,13 @@ msgid "Back a layer"
 msgstr "Flytta ned ett lager"
 
 # 88%
+msgid "backdrop"
+msgstr "bakgrund"
+
+# 88%
 # 87%
 msgid "Backdrop"
 msgstr "Bakgrund"
-
-# 88%
-msgid "backdrop"
-msgstr "bakgrund"
 
 msgid "backdrop #"
 msgstr "bakgrundsnummer"
@@ -196,6 +205,9 @@ msgstr "kan dras på scenen:"
 msgid "Cancel"
 msgstr "Avbryt"
 
+msgid "Cannot Add"
+msgstr ""
+
 msgid "Cannot Delete"
 msgstr "Kan inte ta bort"
 
@@ -213,6 +225,9 @@ msgstr "tak"
 
 msgid "Cello"
 msgstr "Cello"
+
+msgid "Check for updates"
+msgstr ""
 
 msgid "Choir"
 msgstr "Kör"
@@ -241,7 +256,8 @@ msgstr "Klarinett"
 msgid "Claves"
 msgstr "Claves"
 
-msgid "cleanup"
+#, fuzzy
+msgid "clean up"
 msgstr "ordna block"
 
 msgid "Clear"
@@ -250,8 +266,8 @@ msgstr "Rensa"
 msgid "clear senders/receivers"
 msgstr "ta bort avsändare/mottagare"
 
-#~ msgid "Click "Save now" to try again or "Download" to save"
-#~ msgstr "Klicka  för att försöka igen eller  för att spara"
+msgid "Click "Save now" to try again or "Download" to save"
+msgstr "Klicka  för att försöka igen eller  för att spara"
 
 msgid "Close"
 msgstr "Stäng"
@@ -264,6 +280,9 @@ msgstr "Moln"
 
 msgid "Cloud data"
 msgstr "Molndata"
+
+msgid "Cloud variable (stored on server)"
+msgstr ""
 
 msgid "color"
 msgstr "färg"
@@ -327,6 +346,9 @@ msgstr "Klädslar > 1"
 msgid "Costumes:"
 msgstr "Klädslar:"
 
+msgid "Could not retrieve new application from server."
+msgstr ""
+
 msgid "Cowbell"
 msgstr "Koskälla"
 
@@ -351,12 +373,12 @@ msgstr "datum"
 msgid "day of week"
 msgstr "veckodag"
 
+msgid "delete"
+msgstr "radera"
+
 # 83%
 msgid "Delete"
 msgstr "Radera"
-
-msgid "delete"
-msgstr "radera"
 
 msgid "delete variable"
 msgstr "radera variabel"
@@ -371,6 +393,9 @@ msgstr "riktning:"
 msgid "don't rotate"
 msgstr "rotera inte"
 
+msgid "Don't save"
+msgstr ""
+
 msgid "down"
 msgstr "ned"
 
@@ -382,6 +407,9 @@ msgstr "Ladda ned"
 
 msgid "Download to your computer"
 msgstr "Ladda ned till din dator"
+
+msgid "Downloading new version"
+msgstr ""
 
 msgid "duplicate"
 msgstr "kopiera"
@@ -395,11 +423,11 @@ msgstr "e ^"
 msgid "edge"
 msgstr "kant"
 
-msgid "edit"
-msgstr "redigera"
-
 msgid "Edit"
 msgstr "Redigera"
+
+msgid "edit"
+msgstr "redigera"
 
 msgid "Edit Block"
 msgstr "Redigera block"
@@ -419,8 +447,14 @@ msgstr "Elektronisk"
 msgid "Ellipse"
 msgstr "Ellips"
 
+msgid "empty"
+msgstr ""
+
 msgid "Erase"
 msgstr "Radera"
+
+msgid "Erase all"
+msgstr ""
 
 # 92%
 msgid "Eraser width"
@@ -446,6 +480,9 @@ msgstr "tona in"
 
 msgid "fade out"
 msgstr "tona ut"
+
+msgid "false"
+msgstr ""
 
 msgid "Fantasy"
 msgstr "Fantasy"
@@ -513,11 +550,27 @@ msgstr "Handklapp"
 msgid "Hardware"
 msgstr "Hårdvara"
 
+msgid "help"
+msgstr ""
+
+msgid "Hello!"
+msgstr ""
+
+msgid "Hmm..."
+msgstr ""
+
+#, fuzzy
+msgid "hello"
+msgstr "Cello"
+
 msgid "hide"
 msgstr "göm"
 
 msgid "High C"
 msgstr "Höga C"
+
+msgid "Holiday"
+msgstr ""
 
 msgid "hour"
 msgstr "timme"
@@ -559,11 +612,11 @@ msgstr "vänsterpil"
 msgid "left-right"
 msgstr "vänster-höger"
 
-msgid "LEGO WeDo"
-msgstr "LEGO WeDo"
-
 msgid "length"
 msgstr "längd"
+
+msgid "Letters"
+msgstr ""
 
 msgid "Library"
 msgstr "Bibliotek"
@@ -634,7 +687,8 @@ msgstr "Meddelandenamn"
 msgid "message1"
 msgstr "meddelande1"
 
-msgid "Microphone Volume:"
+#, fuzzy
+msgid "Microphone volume:"
 msgstr "Mikrofonvolym:"
 
 msgid "Middle C"
@@ -698,6 +752,9 @@ msgstr "Ny bakgrund från kamera"
 msgid "New backdrop:"
 msgstr "Ny bakgrund:"
 
+msgid "New Block"
+msgstr ""
+
 msgid "New costume from camera"
 msgstr "Ny klädsel från kamera"
 
@@ -707,6 +764,9 @@ msgstr "Ny klädsel:"
 
 msgid "New List"
 msgstr "Ny lista"
+
+msgid "New Message"
+msgstr ""
 
 msgid "new message..."
 msgstr "nytt meddelande..."
@@ -726,6 +786,9 @@ msgstr "Ny sprajt:"
 
 msgid "New Variable"
 msgstr "Ny variabel"
+
+msgid "next backdrop"
+msgstr ""
 
 msgid "No motion blocks"
 msgstr "Inga rörelseblock"
@@ -760,6 +823,9 @@ msgstr "på"
 msgid "on-flipped"
 msgstr "på-omvänd"
 
+msgid "Open"
+msgstr ""
+
 msgid "Open Cuica"
 msgstr "Öppen Cuica"
 
@@ -779,6 +845,9 @@ msgstr "Andra"
 msgid "other scripts in sprite"
 msgstr "andra skript i sprajt"
 
+msgid "other scripts in stage"
+msgstr "andra script på scenen"
+
 msgid "Outdoors"
 msgstr "Utomhus"
 
@@ -790,6 +859,12 @@ msgstr "Rita ny klädsel"
 
 msgid "Paint new sprite"
 msgstr "Rita ny sprajt"
+
+msgid "Password"
+msgstr ""
+
+msgid "Password is required"
+msgstr ""
 
 msgid "paste"
 msgstr "klistra in"
@@ -822,6 +897,9 @@ msgstr "Pizzicato"
 msgid "pop"
 msgstr "pop"
 
+msgid "previous backdrop"
+msgstr ""
+
 msgid "Profile"
 msgstr "Profil"
 
@@ -831,6 +909,12 @@ msgstr "Projektet laddades inte."
 msgid "Project not saved!"
 msgstr "Projektet är inte sparat!"
 
+msgid "Project name"
+msgstr ""
+
+msgid "Project name is required"
+msgstr ""
+
 msgid "random"
 msgstr "slumpmässig"
 
@@ -839,6 +923,9 @@ msgstr "Spela in"
 
 msgid "Record new sound"
 msgstr "Spela in nytt ljud"
+
+msgid "record..."
+msgstr ""
 
 msgid "recording1"
 msgstr "inspelning1"
@@ -910,11 +997,20 @@ msgstr "Kör utan skärmuppdatering"
 msgid "Save"
 msgstr "Spara"
 
+msgid "Save a copy of this project and add your own ideas."
+msgstr ""
+
+msgid "Save as"
+msgstr ""
+
 msgid "Save as a copy"
 msgstr "Spara som kopia"
 
 msgid "Save now"
 msgstr "Spara nu"
+
+msgid "Save project?"
+msgstr ""
 
 msgid "save to local file"
 msgstr "spara till lokal fil"
@@ -930,6 +1026,12 @@ msgstr "Sparar..."
 
 msgid "Saxophone"
 msgstr "Saxofon"
+
+msgid "Scratch Updater"
+msgstr ""
+
+msgid "Scratch 2.0 Offline Editor"
+msgstr ""
 
 # 85%
 msgid "Script"
@@ -964,11 +1066,11 @@ msgstr "Markera och kopiera"
 msgid "Send to back"
 msgstr "Flytta längst ned"
 
-# 88%
-msgid "Set costume center"
+msgid "Set Costume Center"
 msgstr "Sätt klädselns centrum"
 
-msgid "Set Costume Center"
+# 88%
+msgid "Set costume center"
 msgstr "Sätt klädselns centrum"
 
 msgid "set slider min and max"
@@ -976,6 +1078,12 @@ msgstr "sätt reglage min och max"
 
 msgid "Share"
 msgstr "Dela"
+
+msgid "Share to website"
+msgstr ""
+
+msgid "Share to Scratch website"
+msgstr ""
 
 msgid "shared"
 msgstr "delad"
@@ -1052,12 +1160,12 @@ msgstr "Ljudbibliotek"
 msgid "Sounds"
 msgstr "Ljud"
 
-msgid "space"
-msgstr "mellanslag"
-
 # 80%
 msgid "Space"
 msgstr "Rymden"
+
+msgid "space"
+msgstr "mellanslag"
 
 msgid "Sports"
 msgstr "Sport"
@@ -1107,17 +1215,33 @@ msgstr "Tamburin"
 msgid "tan"
 msgstr "tan"
 
+#, fuzzy
+msgid "text"
+msgstr "Text"
+
 msgid "Text"
 msgstr "Text"
 
 msgid "that way"
 msgstr "andra hållet"
 
+msgid "The name is already is use."
+msgstr ""
+
+msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgstr ""
+
 msgid "Theme"
 msgstr "Tema"
 
 msgid "Things"
 msgstr "Saker"
+
+msgid "thing"
+msgstr ""
+
+msgid "This is the current version."
+msgstr ""
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
 msgstr ""
@@ -1160,6 +1284,9 @@ msgstr "Triangel"
 msgid "Trombone"
 msgstr "Trombon"
 
+msgid "true"
+msgstr ""
+
 # 90%
 msgid "Turbo mode"
 msgstr "Turboläge"
@@ -1177,12 +1304,12 @@ msgstr "Återta"
 msgid "Underwater"
 msgstr "Under vatten"
 
+msgid "undo"
+msgstr "ångra"
+
 # 75%
 msgid "Undo"
 msgstr "Ångra"
-
-msgid "undo"
-msgstr "ångra"
 
 msgid "Undo Revert"
 msgstr "Ångra återställ"
@@ -1198,6 +1325,15 @@ msgstr "upp"
 
 msgid "up arrow"
 msgstr "uppåtpil"
+
+msgid "Update failed"
+msgstr ""
+
+msgid "Update not needed"
+msgstr ""
+
+msgid "Update now"
+msgstr ""
 
 msgid "Upload backdrop from file"
 msgstr "Ladda upp bakgrund från fil"
@@ -1241,6 +1377,9 @@ msgstr "Vibrafon"
 msgid "Vibraslap"
 msgstr "Vibraslap"
 
+msgid "video direction"
+msgstr ""
+
 msgid "video motion"
 msgstr "videorörelse"
 
@@ -1262,6 +1401,9 @@ msgstr "Vill du spara? Klicka på remix"
 msgid "Which column do you want to import"
 msgstr "Vilken kolumn vill du importera"
 
+msgid "What's your name?"
+msgstr ""
+
 msgid "whirl"
 msgstr "virvel"
 
@@ -1270,6 +1412,9 @@ msgstr "Träblock"
 
 msgid "Wooden Flute"
 msgstr "Träflöjt"
+
+msgid "world"
+msgstr ""
 
 msgid "x position"
 msgstr "x-läge"
@@ -1285,11 +1430,26 @@ msgstr ""
 "Du kan inte redigera molndata i någon annans projekt.<br>Alla ändringar du "
 "gör blir tillfälliga och sparas inte."
 
-msgid "Eraser width:"
-msgstr "Suddgummibredd:"
+msgid "Your Scratch name"
+msgstr ""
 
-msgid "Line width:"
-msgstr "Linjebredd:"
+msgid "Your Scratch name is required"
+msgstr ""
+
+#~ msgid "cleanup"
+#~ msgstr "ordna block"
+
+#~ msgid "LEGO WeDo"
+#~ msgstr "LEGO WeDo"
+
+#~ msgid "Microphone Volume:"
+#~ msgstr "Mikrofonvolym:"
+
+#~ msgid "Eraser width:"
+#~ msgstr "Suddgummibredd:"
+
+#~ msgid "Line width:"
+#~ msgstr "Linjebredd:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Lägg till ett boolskt värde:"
@@ -1437,23 +1597,20 @@ msgstr "Linjebredd:"
 #~ msgid "Open Triangle"
 #~ msgstr "Öppen Triangel"
 
-#~ msgid "other scripts in stage"
-#~ msgstr "andra script på scenen"
-
 #~ msgid "Pedal Hi-Hat"
 #~ msgstr "Pedal Hi-Hat"
 
 #~ msgid "Short Guiro"
 #~ msgstr "Kort Guiro"
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-"For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Information om Molnvariabler</b><br>&nbsp;<br>För närvarande stöds enbart "
-"siffror<br>Chattrum är inte tillåtna, och kommer att tas bort<br>för mer "
-"information, <a href= target=>se Molndata - FAQ!</a>"
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Information om Molnvariabler</b><br>&nbsp;<br>För närvarande stöds enbart "
+#~ "siffror<br>Chattrum är inte tillåtna, och kommer att tas bort<br>för mer "
+#~ "information, <a href= target=>se Molndata - FAQ!</a>"
 
-msgid "Click  to try again or  to save"
-msgstr "Klicka  för att försöka igen eller  för att spara"
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Klicka  för att försöka igen eller  för att spara"

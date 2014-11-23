@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-01 08:55+0200\n"
+"POT-Creation-Date: 2014-11-23 12:45+0000\n"
 "PO-Revision-Date: 2014-10-24 16:00+0000\n"
 "Last-Translator: Kazuhiro <abee@squeakland.jp>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,15 +17,19 @@ msgstr ""
 msgid "10 ^"
 msgstr "10 ^"
 
-#~ msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>クラウド変数について</b><br>&nbsp;<br>現在、数値のみがサポートされています<br>チャットルームの作成は許可されていないため、削除されます<br>詳細な情報は <a href= target=>クラウドデータに関するFAQを読んでください！</a>"
+msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgstr ""
+"<b>クラウド変数について</b><br>&nbsp;<br>現在、数値のみがサポートされています<br>チャットルームの作成は許可されていないため、削除"
+"されます<br>詳細な情報は <a href= target=>クラウドデータに関するFAQを読んでください！</a>"
 
 msgid "A connected"
 msgstr "Aがつながれた"
 
 msgid "a copy of the project file on your computer."
 msgstr "手元のコンピューターにある作品のコピー。"
+
+msgid "A newer version of Scratch is available"
+msgstr ""
 
 msgid "About"
 msgstr "説明"
@@ -45,6 +49,9 @@ msgstr "アカウント設定"
 msgid "acos"
 msgstr "acos"
 
+msgid "Add"
+msgstr ""
+
 msgid "Add an Extension"
 msgstr "拡張機能を追加"
 
@@ -53,6 +60,9 @@ msgstr "真偽値の引数を追加:"
 
 msgid "add comment"
 msgstr "コメントを追加"
+
+msgid "add comment here..."
+msgstr ""
 
 msgid "Add label text:"
 msgstr "ラベルのテキストを追加:"
@@ -63,10 +73,10 @@ msgstr "数値の引数を追加:"
 msgid "Add string input:"
 msgstr "文字列の引数を追加:"
 
-msgid "All"
+msgid "all"
 msgstr "すべて"
 
-msgid "all"
+msgid "All"
 msgstr "すべて"
 
 msgid "all around"
@@ -96,11 +106,11 @@ msgstr "Bがつながれた"
 msgid "Back a layer"
 msgstr "レイヤーを下げる"
 
-msgid "Backdrop"
-msgstr "背景"
-
 # 88%
 msgid "backdrop"
+msgstr "背景"
+
+msgid "Backdrop"
 msgstr "背景"
 
 msgid "backdrop #"
@@ -135,7 +145,9 @@ msgid "Bassoon"
 msgstr "バスーン"
 
 msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
-msgstr "新しいScratchのアカウントを使っているので、クラウド・データへの変更は保存できません。このサイトに参加し続けると、すぐにクラウド・データを使用できるようになります。"
+msgstr ""
+"新しいScratchのアカウントを使っているので、クラウド・データへの変更は保存できません。このサイトに参加し続けると、すぐにクラウド・データを使用できる"
+"ようになります。"
 
 msgid "Bitmap"
 msgstr "ビットマップ"
@@ -185,6 +197,9 @@ msgstr "プレイヤーでドラッグできるか:"
 msgid "Cancel"
 msgstr "取り消し"
 
+msgid "Cannot Add"
+msgstr ""
+
 msgid "Cannot Delete"
 msgstr "削除不可"
 
@@ -202,6 +217,9 @@ msgstr "切り上げ"
 
 msgid "Cello"
 msgstr "チェロ"
+
+msgid "Check for updates"
+msgstr ""
 
 msgid "Choir"
 msgstr "合唱団"
@@ -230,7 +248,8 @@ msgstr "クラリネット"
 msgid "Claves"
 msgstr "クラーベ"
 
-msgid "cleanup"
+#, fuzzy
+msgid "clean up"
 msgstr "きれいにする"
 
 msgid "Clear"
@@ -239,8 +258,8 @@ msgstr "消す"
 msgid "clear senders/receivers"
 msgstr "センダーとレシーバーを消す"
 
-#~ msgid "Click "Save now" to try again or "Download" to save"
-#~ msgstr "「直ちに保存」をクリックして再試行するか、「ダウンロード」で保存してください"
+msgid "Click "Save now" to try again or "Download" to save"
+msgstr "「直ちに保存」をクリックして再試行するか、「ダウンロード」で保存してください"
 
 msgid "Close"
 msgstr "閉じる"
@@ -253,6 +272,9 @@ msgstr "クラウド"
 
 msgid "Cloud data"
 msgstr "クラウドデータ"
+
+msgid "Cloud variable (stored on server)"
+msgstr ""
 
 msgid "color"
 msgstr "色"
@@ -312,6 +334,9 @@ msgstr "コスチューム > 1"
 msgid "Costumes:"
 msgstr "コスチューム:"
 
+msgid "Could not retrieve new application from server."
+msgstr ""
+
 msgid "Cowbell"
 msgstr "カウベル"
 
@@ -336,10 +361,10 @@ msgstr "日"
 msgid "day of week"
 msgstr "曜日"
 
-msgid "Delete"
+msgid "delete"
 msgstr "削除"
 
-msgid "delete"
+msgid "Delete"
 msgstr "削除"
 
 msgid "delete variable"
@@ -354,6 +379,9 @@ msgstr "向き:"
 msgid "don't rotate"
 msgstr "回転しない"
 
+msgid "Don't save"
+msgstr ""
+
 msgid "down"
 msgstr "下"
 
@@ -365,6 +393,9 @@ msgstr "ダウンロード"
 
 msgid "Download to your computer"
 msgstr "手元のコンピューターにダウンロード"
+
+msgid "Downloading new version"
+msgstr ""
 
 msgid "duplicate"
 msgstr "複製"
@@ -378,10 +409,10 @@ msgstr "e ^"
 msgid "edge"
 msgstr "端"
 
-msgid "edit"
+msgid "Edit"
 msgstr "編集"
 
-msgid "Edit"
+msgid "edit"
 msgstr "編集"
 
 msgid "Edit Block"
@@ -402,8 +433,14 @@ msgstr "電子音"
 msgid "Ellipse"
 msgstr "楕円"
 
+msgid "empty"
+msgstr ""
+
 msgid "Erase"
 msgstr "消す"
+
+msgid "Erase all"
+msgstr ""
 
 # 92%
 msgid "Eraser width"
@@ -429,6 +466,9 @@ msgstr "フェードイン"
 
 msgid "fade out"
 msgstr "フェードアウト"
+
+msgid "false"
+msgstr ""
 
 msgid "Fantasy"
 msgstr "ファンタジー"
@@ -496,11 +536,27 @@ msgstr "拍手"
 msgid "Hardware"
 msgstr "ハードウェア"
 
+msgid "help"
+msgstr ""
+
+msgid "Hello!"
+msgstr ""
+
+msgid "Hmm..."
+msgstr ""
+
+#, fuzzy
+msgid "hello"
+msgstr "チェロ"
+
 msgid "hide"
 msgstr "隠す"
 
 msgid "High C"
 msgstr "高いド"
+
+msgid "Holiday"
+msgstr ""
 
 msgid "hour"
 msgstr "時"
@@ -542,11 +598,11 @@ msgstr "左向き矢印"
 msgid "left-right"
 msgstr "左右のみ"
 
-msgid "LEGO WeDo"
-msgstr "レゴWeDo"
-
 msgid "length"
 msgstr "長さ"
+
+msgid "Letters"
+msgstr ""
 
 msgid "Library"
 msgstr "ライブラリ"
@@ -616,7 +672,8 @@ msgstr "メッセージ名"
 msgid "message1"
 msgstr "メッセージ1"
 
-msgid "Microphone Volume:"
+#, fuzzy
+msgid "Microphone volume:"
 msgstr "マイクの音量:"
 
 msgid "Middle C"
@@ -679,6 +736,9 @@ msgstr "カメラから新しい背景を作る"
 msgid "New backdrop:"
 msgstr "新しい背景:"
 
+msgid "New Block"
+msgstr ""
+
 msgid "New costume from camera"
 msgstr "カメラから新しいコスチュームを作る"
 
@@ -687,6 +747,9 @@ msgstr "新しいコスチューム:"
 
 msgid "New List"
 msgstr "新しいリスト"
+
+msgid "New Message"
+msgstr ""
 
 msgid "new message..."
 msgstr "新しいメッセージ..."
@@ -705,6 +768,10 @@ msgstr "新しいスプライト:"
 
 msgid "New Variable"
 msgstr "新しい変数"
+
+#, fuzzy
+msgid "next backdrop"
+msgstr "新しい背景"
 
 msgid "No motion blocks"
 msgstr "動きのブロックはありません"
@@ -739,6 +806,9 @@ msgstr "入"
 msgid "on-flipped"
 msgstr "左右反転"
 
+msgid "Open"
+msgstr ""
+
 msgid "Open Cuica"
 msgstr "オープンクイーカ"
 
@@ -758,6 +828,11 @@ msgstr "その他"
 msgid "other scripts in sprite"
 msgstr "スプライトの他のスクリプト"
 
+# 82%
+#, fuzzy
+msgid "other scripts in stage"
+msgstr "スプライトの他のスクリプト"
+
 msgid "Outdoors"
 msgstr "屋外"
 
@@ -769,6 +844,12 @@ msgstr "新しいコスチュームを描く"
 
 msgid "Paint new sprite"
 msgstr "新しいスプライトを描く"
+
+msgid "Password"
+msgstr ""
+
+msgid "Password is required"
+msgstr ""
 
 msgid "paste"
 msgstr "貼り付け"
@@ -800,6 +881,9 @@ msgstr "ピチカート"
 msgid "pop"
 msgstr "ポップ"
 
+msgid "previous backdrop"
+msgstr ""
+
 msgid "Profile"
 msgstr "プロフィール"
 
@@ -809,6 +893,12 @@ msgstr "プロジェクトが読み込まれていません。"
 msgid "Project not saved!"
 msgstr "作品は保存されていません!"
 
+msgid "Project name"
+msgstr ""
+
+msgid "Project name is required"
+msgstr ""
+
 msgid "random"
 msgstr "乱数"
 
@@ -817,6 +907,9 @@ msgstr "録音"
 
 msgid "Record new sound"
 msgstr "新しい音を録音"
+
+msgid "record..."
+msgstr ""
 
 msgid "recording1"
 msgstr "録音1"
@@ -887,11 +980,20 @@ msgstr "画面を再描画せずに実行する"
 msgid "Save"
 msgstr "保存"
 
+msgid "Save a copy of this project and add your own ideas."
+msgstr ""
+
+msgid "Save as"
+msgstr ""
+
 msgid "Save as a copy"
 msgstr "コピーを保存"
 
 msgid "Save now"
 msgstr "直ちに保存"
+
+msgid "Save project?"
+msgstr ""
 
 msgid "save to local file"
 msgstr "ローカルファイルに保存"
@@ -907,6 +1009,12 @@ msgstr "保存中..."
 
 msgid "Saxophone"
 msgstr "サクソフォーン"
+
+msgid "Scratch Updater"
+msgstr ""
+
+msgid "Scratch 2.0 Offline Editor"
+msgstr ""
 
 msgid "Script"
 msgstr "スクリプト"
@@ -938,10 +1046,10 @@ msgstr "選択して複製"
 msgid "Send to back"
 msgstr "後ろに送る"
 
-msgid "Set costume center"
+msgid "Set Costume Center"
 msgstr "コスチュームの中心を設定"
 
-msgid "Set Costume Center"
+msgid "Set costume center"
 msgstr "コスチュームの中心を設定"
 
 msgid "set slider min and max"
@@ -949,6 +1057,12 @@ msgstr "スライダーの最小値と最大値を設定"
 
 msgid "Share"
 msgstr "共有"
+
+msgid "Share to website"
+msgstr ""
+
+msgid "Share to Scratch website"
+msgstr ""
 
 msgid "shared"
 msgstr "共有中"
@@ -1022,11 +1136,11 @@ msgstr "音ライブラリー"
 msgid "Sounds"
 msgstr "音"
 
-msgid "space"
-msgstr "スペース"
-
 msgid "Space"
 msgstr "宇宙"
+
+msgid "space"
+msgstr "スペース"
 
 msgid "Sports"
 msgstr "スポーツ"
@@ -1074,11 +1188,21 @@ msgstr "タンバリン"
 msgid "tan"
 msgstr "tan"
 
+#, fuzzy
+msgid "text"
+msgstr "テキスト"
+
 msgid "Text"
 msgstr "テキスト"
 
 msgid "that way"
 msgstr "あちら向き"
+
+msgid "The name is already is use."
+msgstr ""
+
+msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgstr ""
 
 msgid "Theme"
 msgstr "テーマ"
@@ -1086,8 +1210,15 @@ msgstr "テーマ"
 msgid "Things"
 msgstr "もの"
 
+msgid "thing"
+msgstr ""
+
+msgid "This is the current version."
+msgstr ""
+
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
-msgstr "このプロジェクトは「ユーザー名」ブロックを使って、誰が使っているかを検出します。特定されたくない場合はこのプロジェクトを使う前にサインアウトしてください。"
+msgstr ""
+"このプロジェクトは「ユーザー名」ブロックを使って、誰が使っているかを検出します。特定されたくない場合はこのプロジェクトを使う前にサインアウトしてください。"
 
 msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
 msgstr "このプロジェクトはクラウドデータを使っています。この機能はサインインしたユーザーだけ使うことができます。"
@@ -1122,6 +1253,9 @@ msgstr "三角形"
 msgid "Trombone"
 msgstr "トロンボーン"
 
+msgid "true"
+msgstr ""
+
 msgid "Turbo mode"
 msgstr "ターボモード"
 
@@ -1137,10 +1271,10 @@ msgstr "削除の取り消し"
 msgid "Underwater"
 msgstr "海中"
 
-msgid "Undo"
+msgid "undo"
 msgstr "取り消し"
 
-msgid "undo"
+msgid "Undo"
 msgstr "取り消し"
 
 msgid "Undo Revert"
@@ -1157,6 +1291,15 @@ msgstr "上"
 
 msgid "up arrow"
 msgstr "上向き矢印"
+
+msgid "Update failed"
+msgstr ""
+
+msgid "Update not needed"
+msgstr ""
+
+msgid "Update now"
+msgstr ""
 
 msgid "Upload backdrop from file"
 msgstr "ファイルから新しい背景をアップロード"
@@ -1200,6 +1343,9 @@ msgstr "ビブラフォン"
 msgid "Vibraslap"
 msgstr "ビブラスラップ"
 
+msgid "video direction"
+msgstr ""
+
 msgid "video motion"
 msgstr "ビデオモーション"
 
@@ -1221,6 +1367,9 @@ msgstr "保存したいですか? リミックスをクリックしてくださ�
 msgid "Which column do you want to import"
 msgstr "どちらのカラムを取り込みたいですか"
 
+msgid "What's your name?"
+msgstr ""
+
 msgid "whirl"
 msgstr "渦巻き"
 
@@ -1229,6 +1378,9 @@ msgstr "ウッドブロック"
 
 msgid "Wooden Flute"
 msgstr "木管フルート"
+
+msgid "world"
+msgstr ""
 
 msgid "x position"
 msgstr "x座標"
@@ -1242,11 +1394,26 @@ msgstr "年"
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
 msgstr "他の人のプロジェクトのクラウドデータを編集することはできません。<br>エディターで行った変更は一時的なもので永続性はありません。"
 
-msgid "Eraser width:"
-msgstr "消しゴムの幅:"
+msgid "Your Scratch name"
+msgstr ""
 
-msgid "Line width:"
-msgstr "線の幅:"
+msgid "Your Scratch name is required"
+msgstr ""
+
+#~ msgid "cleanup"
+#~ msgstr "きれいにする"
+
+#~ msgid "LEGO WeDo"
+#~ msgstr "レゴWeDo"
+
+#~ msgid "Microphone Volume:"
+#~ msgstr "マイクの音量:"
+
+#~ msgid "Eraser width:"
+#~ msgstr "消しゴムの幅:"
+
+#~ msgid "Line width:"
+#~ msgstr "線の幅:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "真偽値の引数を追加:"
@@ -1284,13 +1451,13 @@ msgstr "線の幅:"
 #~ msgid "New sound"
 #~ msgstr "新しい音"
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-"For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>クラウド変数について</b><br>&nbsp;<br>現在、数値のみがサポートされています<br>チャットルームの作成は許可されていないため、削除"
-"されます<br>詳細な情報は <a href= target=>クラウドデータに関するFAQを読んでください！</a>"
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>クラウド変数について</b><br>&nbsp;<br>現在、数値のみがサポートされています<br>チャットルームの作成は許可されていないため、削除"
+#~ "されます<br>詳細な情報は <a href= target=>クラウドデータに関するFAQを読んでください！</a>"
 
-msgid "Click  to try again or  to save"
-msgstr "「直ちに保存」をクリックして再試行するか、「ダウンロード」で保存してください"
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "「直ちに保存」をクリックして再試行するか、「ダウンロード」で保存してください"

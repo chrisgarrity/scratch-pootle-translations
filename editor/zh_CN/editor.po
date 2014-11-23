@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-01 08:55+0200\n"
+"POT-Creation-Date: 2014-11-23 12:49+0000\n"
 "PO-Revision-Date: 2013-07-30 03:43+0000\n"
 "Last-Translator: alanmao <alanmao222@yahoo.com.cn>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,16 +17,19 @@ msgstr ""
 msgid "10 ^"
 msgstr "10 ^"
 
-#~ msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>关于云变量的说明</b><br>&nbsp;<br>目前，只支持数值类型的数据<br>不允许使用云变量来创建聊天室，否则将被删除<br>更多信息请"
-#~ "参考<a href= target=>关于云数据的常见问题(FAQ)！</a>"
+msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgstr ""
+"<b>关于云变量的说明</b><br>&nbsp;<br>目前，只支持数值类型的数据<br>不允许使用云变量来创建聊天室，否则将被删除<br>更多信息请参"
+"考<a href= target=>关于云数据的常见问题(FAQ)！</a>"
 
 msgid "A connected"
 msgstr "A已连接"
 
 msgid "a copy of the project file on your computer."
 msgstr "您计算机上的项目文件的副本。"
+
+msgid "A newer version of Scratch is available"
+msgstr ""
 
 msgid "About"
 msgstr ""
@@ -46,6 +49,9 @@ msgstr "帐号设置"
 msgid "acos"
 msgstr "acos"
 
+msgid "Add"
+msgstr ""
+
 msgid "Add an Extension"
 msgstr ""
 
@@ -55,6 +61,9 @@ msgstr "添加一个布尔参数："
 
 msgid "add comment"
 msgstr "添加注释"
+
+msgid "add comment here..."
+msgstr ""
 
 msgid "Add label text:"
 msgstr "添加文本标签："
@@ -67,10 +76,10 @@ msgstr "添加一个数字参数："
 msgid "Add string input:"
 msgstr "添加一个字符串参数："
 
-msgid "All"
+msgid "all"
 msgstr "全部"
 
-msgid "all"
+msgid "All"
 msgstr "全部"
 
 msgid "all around"
@@ -101,12 +110,12 @@ msgid "Back a layer"
 msgstr "下移一层"
 
 # 88%
-# 87%
-msgid "Backdrop"
+msgid "backdrop"
 msgstr "背景"
 
 # 88%
-msgid "backdrop"
+# 87%
+msgid "Backdrop"
 msgstr "背景"
 
 msgid "backdrop #"
@@ -192,6 +201,9 @@ msgstr "可以在播放器中拖动:"
 msgid "Cancel"
 msgstr "取消"
 
+msgid "Cannot Add"
+msgstr ""
+
 msgid "Cannot Delete"
 msgstr "不能删除"
 
@@ -209,6 +221,9 @@ msgstr "向上取整"
 
 msgid "Cello"
 msgstr "大提琴"
+
+msgid "Check for updates"
+msgstr ""
 
 msgid "Choir"
 msgstr "人声合唱"
@@ -237,7 +252,8 @@ msgstr "单簧管"
 msgid "Claves"
 msgstr "古钢琴"
 
-msgid "cleanup"
+#, fuzzy
+msgid "clean up"
 msgstr "清除"
 
 msgid "Clear"
@@ -246,8 +262,8 @@ msgstr "清除"
 msgid "clear senders/receivers"
 msgstr "清除发送器/接收器"
 
-#~ msgid "Click "Save now" to try again or "Download" to save"
-#~ msgstr "点击  重新尝试或  保存"
+msgid "Click "Save now" to try again or "Download" to save"
+msgstr "点击  重新尝试或  保存"
 
 msgid "Close"
 msgstr "关闭"
@@ -260,6 +276,9 @@ msgstr "云"
 
 msgid "Cloud data"
 msgstr "云数据"
+
+msgid "Cloud variable (stored on server)"
+msgstr ""
 
 msgid "color"
 msgstr "颜色"
@@ -323,6 +342,9 @@ msgstr "造型数 > 1"
 msgid "Costumes:"
 msgstr "造型："
 
+msgid "Could not retrieve new application from server."
+msgstr ""
+
 msgid "Cowbell"
 msgstr "牛铃"
 
@@ -347,11 +369,11 @@ msgstr "日期"
 msgid "day of week"
 msgstr "星期"
 
-# 83%
-msgid "Delete"
+msgid "delete"
 msgstr "删除"
 
-msgid "delete"
+# 83%
+msgid "Delete"
 msgstr "删除"
 
 msgid "delete variable"
@@ -367,6 +389,9 @@ msgstr "方向:"
 msgid "don't rotate"
 msgstr "不旋转"
 
+msgid "Don't save"
+msgstr ""
+
 msgid "down"
 msgstr "下移"
 
@@ -378,6 +403,9 @@ msgstr "下载"
 
 msgid "Download to your computer"
 msgstr "下载到您的计算机"
+
+msgid "Downloading new version"
+msgstr ""
 
 msgid "duplicate"
 msgstr "复制"
@@ -391,10 +419,10 @@ msgstr "e ^"
 msgid "edge"
 msgstr "边缘"
 
-msgid "edit"
+msgid "Edit"
 msgstr "编辑"
 
-msgid "Edit"
+msgid "edit"
 msgstr "编辑"
 
 msgid "Edit Block"
@@ -415,8 +443,14 @@ msgstr "电子声"
 msgid "Ellipse"
 msgstr "椭圆"
 
+msgid "empty"
+msgstr ""
+
 msgid "Erase"
 msgstr "擦除"
+
+msgid "Erase all"
+msgstr ""
 
 # 92%
 msgid "Eraser width"
@@ -442,6 +476,9 @@ msgstr "淡入"
 
 msgid "fade out"
 msgstr "淡出"
+
+msgid "false"
+msgstr ""
 
 msgid "Fantasy"
 msgstr "奇幻"
@@ -509,11 +546,27 @@ msgstr "拍掌"
 msgid "Hardware"
 msgstr ""
 
+msgid "help"
+msgstr ""
+
+msgid "Hello!"
+msgstr ""
+
+msgid "Hmm..."
+msgstr ""
+
+#, fuzzy
+msgid "hello"
+msgstr "大提琴"
+
 msgid "hide"
 msgstr "隐藏"
 
 msgid "High C"
 msgstr "高音C"
+
+msgid "Holiday"
+msgstr ""
 
 msgid "hour"
 msgstr "小时"
@@ -555,11 +608,11 @@ msgstr "左移键"
 msgid "left-right"
 msgstr "左-右翻转"
 
-msgid "LEGO WeDo"
-msgstr ""
-
 msgid "length"
 msgstr "长度"
+
+msgid "Letters"
+msgstr ""
 
 msgid "Library"
 msgstr "库"
@@ -631,7 +684,8 @@ msgstr "消息名称"
 msgid "message1"
 msgstr "消息1"
 
-msgid "Microphone Volume:"
+#, fuzzy
+msgid "Microphone volume:"
 msgstr "麦克风音量："
 
 msgid "Middle C"
@@ -695,6 +749,9 @@ msgstr "拍摄照片当作背景"
 msgid "New backdrop:"
 msgstr "新建背景"
 
+msgid "New Block"
+msgstr ""
+
 msgid "New costume from camera"
 msgstr "拍摄照片当作造型"
 
@@ -704,6 +761,9 @@ msgstr "新建造型"
 
 msgid "New List"
 msgstr "新建链表"
+
+msgid "New Message"
+msgstr ""
 
 msgid "new message..."
 msgstr "新消息..."
@@ -723,6 +783,9 @@ msgstr "新建角色:"
 
 msgid "New Variable"
 msgstr "新建变量"
+
+msgid "next backdrop"
+msgstr ""
 
 msgid "No motion blocks"
 msgstr "无动作模块"
@@ -757,6 +820,9 @@ msgstr "开启"
 msgid "on-flipped"
 msgstr "以左右翻转模式开启"
 
+msgid "Open"
+msgstr ""
+
 msgid "Open Cuica"
 msgstr "库加鼓-开音"
 
@@ -776,6 +842,9 @@ msgstr "其它"
 msgid "other scripts in sprite"
 msgstr "角色的其他脚本"
 
+msgid "other scripts in stage"
+msgstr "舞台上的其他脚本"
+
 msgid "Outdoors"
 msgstr "户外"
 
@@ -787,6 +856,12 @@ msgstr "绘制新造型"
 
 msgid "Paint new sprite"
 msgstr "绘制新角色"
+
+msgid "Password"
+msgstr ""
+
+msgid "Password is required"
+msgstr ""
 
 msgid "paste"
 msgstr "粘贴"
@@ -819,6 +894,9 @@ msgstr "拨奏曲"
 msgid "pop"
 msgstr "pop音效"
 
+msgid "previous backdrop"
+msgstr ""
+
 msgid "Profile"
 msgstr "资料"
 
@@ -828,6 +906,12 @@ msgstr "项目未加载。"
 msgid "Project not saved!"
 msgstr "项目未保存!"
 
+msgid "Project name"
+msgstr ""
+
+msgid "Project name is required"
+msgstr ""
+
 msgid "random"
 msgstr "随机"
 
@@ -836,6 +920,9 @@ msgstr "录音"
 
 msgid "Record new sound"
 msgstr "录制新声音"
+
+msgid "record..."
+msgstr ""
 
 msgid "recording1"
 msgstr "录音1"
@@ -907,11 +994,20 @@ msgstr "运行时不刷新屏幕"
 msgid "Save"
 msgstr "保存"
 
+msgid "Save a copy of this project and add your own ideas."
+msgstr ""
+
+msgid "Save as"
+msgstr ""
+
 msgid "Save as a copy"
 msgstr "保存副本"
 
 msgid "Save now"
 msgstr "立即保存"
+
+msgid "Save project?"
+msgstr ""
 
 msgid "save to local file"
 msgstr "保存到本地文件"
@@ -927,6 +1023,12 @@ msgstr "正在保存..."
 
 msgid "Saxophone"
 msgstr "萨克斯管"
+
+msgid "Scratch Updater"
+msgstr ""
+
+msgid "Scratch 2.0 Offline Editor"
+msgstr ""
 
 # 85%
 msgid "Script"
@@ -960,11 +1062,11 @@ msgstr "选择并复制"
 msgid "Send to back"
 msgstr "移到最下层"
 
-# 88%
-msgid "Set costume center"
+msgid "Set Costume Center"
 msgstr "设置造型中心"
 
-msgid "Set Costume Center"
+# 88%
+msgid "Set costume center"
 msgstr "设置造型中心"
 
 msgid "set slider min and max"
@@ -972,6 +1074,12 @@ msgstr "设置滑块的最小值和最大值"
 
 msgid "Share"
 msgstr "分享"
+
+msgid "Share to website"
+msgstr ""
+
+msgid "Share to Scratch website"
+msgstr ""
 
 msgid "shared"
 msgstr "共享"
@@ -1048,12 +1156,12 @@ msgstr "声音库"
 msgid "Sounds"
 msgstr "声音"
 
-msgid "space"
-msgstr "空格键"
-
 # 80%
 msgid "Space"
 msgstr "太空"
+
+msgid "space"
+msgstr "空格键"
 
 msgid "Sports"
 msgstr "运动"
@@ -1103,17 +1211,33 @@ msgstr "铃鼓"
 msgid "tan"
 msgstr "tan"
 
+#, fuzzy
+msgid "text"
+msgstr "文字"
+
 msgid "Text"
 msgstr "文字"
 
 msgid "that way"
 msgstr "逆时针"
 
+msgid "The name is already is use."
+msgstr ""
+
+msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgstr ""
+
 msgid "Theme"
 msgstr "主题"
 
 msgid "Things"
 msgstr "物品"
+
+msgid "thing"
+msgstr ""
+
+msgid "This is the current version."
+msgstr ""
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
 msgstr "本项目可以通过“用户名”功能块检测到使用者信息。如果想隐藏您的个人身份，请退出登录后再运行本项目。"
@@ -1151,6 +1275,9 @@ msgstr "三角形"
 msgid "Trombone"
 msgstr "长号"
 
+msgid "true"
+msgstr ""
+
 # 90%
 msgid "Turbo mode"
 msgstr "加速模式"
@@ -1168,11 +1295,11 @@ msgstr "撤消删除"
 msgid "Underwater"
 msgstr "水下"
 
-# 75%
-msgid "Undo"
+msgid "undo"
 msgstr "撤销"
 
-msgid "undo"
+# 75%
+msgid "Undo"
 msgstr "撤销"
 
 msgid "Undo Revert"
@@ -1189,6 +1316,15 @@ msgstr "向上"
 
 msgid "up arrow"
 msgstr "上移键"
+
+msgid "Update failed"
+msgstr ""
+
+msgid "Update not needed"
+msgstr ""
+
+msgid "Update now"
+msgstr ""
 
 msgid "Upload backdrop from file"
 msgstr "从本地文件中上传背景"
@@ -1232,6 +1368,9 @@ msgstr "抖音琴"
 msgid "Vibraslap"
 msgstr "颤击"
 
+msgid "video direction"
+msgstr ""
+
 msgid "video motion"
 msgstr "视频移动"
 
@@ -1253,6 +1392,9 @@ msgstr "您想保存吗？请点击再创作"
 msgid "Which column do you want to import"
 msgstr "想导入哪一列"
 
+msgid "What's your name?"
+msgstr ""
+
 msgid "whirl"
 msgstr "旋转"
 
@@ -1261,6 +1403,9 @@ msgstr "木块"
 
 msgid "Wooden Flute"
 msgstr "木笛"
+
+msgid "world"
+msgstr ""
 
 msgid "x position"
 msgstr "x坐标"
@@ -1274,11 +1419,23 @@ msgstr "年"
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
 msgstr "您不能修改其它用户项目中的云变量。<br>本次编辑过程中的所有修改都是临时且不能永久保存的。"
 
-msgid "Eraser width:"
-msgstr "橡皮擦宽度:"
+msgid "Your Scratch name"
+msgstr ""
 
-msgid "Line width:"
-msgstr "线宽："
+msgid "Your Scratch name is required"
+msgstr ""
+
+#~ msgid "cleanup"
+#~ msgstr "清除"
+
+#~ msgid "Microphone Volume:"
+#~ msgstr "麦克风音量："
+
+#~ msgid "Eraser width:"
+#~ msgstr "橡皮擦宽度:"
+
+#~ msgid "Line width:"
+#~ msgstr "线宽："
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "输入一个布尔值："
@@ -1426,22 +1583,19 @@ msgstr "线宽："
 #~ msgid "Open Triangle"
 #~ msgstr "叁角铁-开音"
 
-#~ msgid "other scripts in stage"
-#~ msgstr "舞台上的其他脚本"
-
 #~ msgid "Pedal Hi-Hat"
 #~ msgstr "踏板双面钹"
 
 #~ msgid "Short Guiro"
 #~ msgstr "短梗笛"
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-"For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>关于云变量的说明</b><br>&nbsp;<br>目前，只支持数值类型的数据<br>不允许使用云变量来创建聊天室，否则将被删除<br>更多信息请参"
-"考<a href= target=>关于云数据的常见问题(FAQ)！</a>"
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>关于云变量的说明</b><br>&nbsp;<br>目前，只支持数值类型的数据<br>不允许使用云变量来创建聊天室，否则将被删除<br>更多信息请参"
+#~ "考<a href= target=>关于云数据的常见问题(FAQ)！</a>"
 
-msgid "Click  to try again or  to save"
-msgstr "点击  重新尝试或  保存"
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "点击  重新尝试或  保存"

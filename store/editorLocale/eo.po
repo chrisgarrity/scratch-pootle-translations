@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-02-06 02:02+0200\n"
+"PO-Revision-Date: 2014-02-06 02:02+0000\n"
 "Last-Translator: timsk3 <translate_scratch@timsk.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: eo\n"
@@ -11,7 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.1.6\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1391652125.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -550,8 +551,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2014-03-02 21:28+0200\n"
+"POT-Creation-Date: 2014-11-23 12:43+0000\n"
+"PO-Revision-Date: 2014-03-02 21:28+0000\n"
 "Last-Translator: timsk3 <translate_scratch@timsk.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: eo\n"
@@ -559,7 +560,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.1.6\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1393795680.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -576,6 +578,9 @@ msgstr "A estas konektita"
 
 msgid "a copy of the project file on your computer."
 msgstr "kopio de la projekto-dosiero ĉe via komputilo."
+
+msgid "A newer version of Scratch is available"
+msgstr ""
 
 msgid "About"
 msgstr ""
@@ -595,6 +600,9 @@ msgstr "Agordaĵoj de via konto"
 msgid "acos"
 msgstr "acos"
 
+msgid "Add"
+msgstr ""
+
 msgid "Add an Extension"
 msgstr ""
 
@@ -603,6 +611,9 @@ msgstr "Aldoni bulean enigon:"
 
 msgid "add comment"
 msgstr "aldoni komenton"
+
+msgid "add comment here..."
+msgstr ""
 
 msgid "Add label text:"
 msgstr "Aldoni tekston al etikedo:"
@@ -613,11 +624,11 @@ msgstr "Aldoni numeran enigon:"
 msgid "Add string input:"
 msgstr "Aldoni ĉenan enigon:"
 
-msgid "All"
-msgstr "Ĉion"
-
 msgid "all"
 msgstr "ĉiuj"
+
+msgid "All"
+msgstr "Ĉion"
 
 msgid "all around"
 msgstr "turniĝi libere"
@@ -646,11 +657,11 @@ msgstr "B estas konektita"
 msgid "Back a layer"
 msgstr "Iri malantaŭen je unu tavolo"
 
-msgid "Backdrop"
-msgstr "Fono"
-
 msgid "backdrop"
 msgstr "fono"
+
+msgid "Backdrop"
+msgstr "Fono"
 
 msgid "backdrop #"
 msgstr "numero de fono"
@@ -736,6 +747,9 @@ msgstr "ĉu eblas treni?"
 msgid "Cancel"
 msgstr "Nuligi"
 
+msgid "Cannot Add"
+msgstr ""
+
 msgid "Cannot Delete"
 msgstr "Ne eblas forigi"
 
@@ -753,6 +767,9 @@ msgstr "plafono"
 
 msgid "Cello"
 msgstr "Violonĉelo"
+
+msgid "Check for updates"
+msgstr ""
 
 msgid "Choir"
 msgstr "Ĥoro"
@@ -781,7 +798,8 @@ msgstr "Klarneto"
 msgid "Claves"
 msgstr "Klaveoj"
 
-msgid "cleanup"
+#, fuzzy
+msgid "clean up"
 msgstr "purigo"
 
 msgid "Clear"
@@ -804,6 +822,9 @@ msgstr "Nubo"
 
 msgid "Cloud data"
 msgstr "Ennubaj datumoj"
+
+msgid "Cloud variable (stored on server)"
+msgstr ""
 
 msgid "color"
 msgstr "kolora"
@@ -862,6 +883,9 @@ msgstr "Kostumoj > 1"
 msgid "Costumes:"
 msgstr "Kostumoj:"
 
+msgid "Could not retrieve new application from server."
+msgstr ""
+
 msgid "Cowbell"
 msgstr "Bovsonorilo"
 
@@ -886,12 +910,12 @@ msgstr "dato"
 msgid "day of week"
 msgstr "tago de la semajno"
 
+msgid "delete"
+msgstr "forigi"
+
 # 83%
 msgid "Delete"
 msgstr "Forigi"
-
-msgid "delete"
-msgstr "forigi"
 
 msgid "delete variable"
 msgstr "forigi variablon"
@@ -905,6 +929,9 @@ msgstr "orientiĝo:"
 msgid "don't rotate"
 msgstr "ne turniĝi"
 
+msgid "Don't save"
+msgstr ""
+
 msgid "down"
 msgstr "malsupre"
 
@@ -916,6 +943,9 @@ msgstr "Elŝuti"
 
 msgid "Download to your computer"
 msgstr "Elŝuti al via komputilo"
+
+msgid "Downloading new version"
+msgstr ""
 
 msgid "duplicate"
 msgstr "duplikati"
@@ -929,11 +959,11 @@ msgstr "e ^"
 msgid "edge"
 msgstr "rando"
 
-msgid "edit"
-msgstr "redakti"
-
 msgid "Edit"
 msgstr "Redakti"
+
+msgid "edit"
+msgstr "redakti"
 
 msgid "Edit Block"
 msgstr "Redakti blokon"
@@ -953,8 +983,14 @@ msgstr "Elektronika"
 msgid "Ellipse"
 msgstr "Elipso"
 
+msgid "empty"
+msgstr ""
+
 msgid "Erase"
 msgstr "Forigi"
+
+msgid "Erase all"
+msgstr ""
 
 # 92%
 msgid "Eraser width"
@@ -980,6 +1016,9 @@ msgstr "maldissolvi"
 
 msgid "fade out"
 msgstr "fordissolvi"
+
+msgid "false"
+msgstr ""
 
 msgid "Fantasy"
 msgstr "Fantazio"
@@ -1047,11 +1086,27 @@ msgstr "Manklakado"
 msgid "Hardware"
 msgstr ""
 
+msgid "help"
+msgstr ""
+
+msgid "Hello!"
+msgstr ""
+
+msgid "Hmm..."
+msgstr ""
+
+#, fuzzy
+msgid "hello"
+msgstr "Violonĉelo"
+
 msgid "hide"
 msgstr "kaŝi"
 
 msgid "High C"
 msgstr "Alta C"
+
+msgid "Holiday"
+msgstr ""
 
 msgid "hour"
 msgstr "horo"
@@ -1093,11 +1148,11 @@ msgstr "sago maldekstra"
 msgid "left-right"
 msgstr "dekstra-maldekstra"
 
-msgid "LEGO WeDo"
-msgstr ""
-
 msgid "length"
 msgstr "longo"
+
+msgid "Letters"
+msgstr ""
 
 msgid "Library"
 msgstr "Biblioteko"
@@ -1169,7 +1224,8 @@ msgstr "Mesaĝnomo"
 msgid "message1"
 msgstr "mesaĝo1"
 
-msgid "Microphone Volume:"
+#, fuzzy
+msgid "Microphone volume:"
 msgstr "Mikrofona laŭteco:"
 
 msgid "Middle C"
@@ -1232,6 +1288,9 @@ msgstr "Nova fono el kamerao"
 msgid "New backdrop:"
 msgstr "Nova fono:"
 
+msgid "New Block"
+msgstr ""
+
 msgid "New costume from camera"
 msgstr "Nova kostumo el kamerao"
 
@@ -1240,6 +1299,9 @@ msgstr "Nova kostumo:"
 
 msgid "New List"
 msgstr "Nova listo"
+
+msgid "New Message"
+msgstr ""
 
 msgid "new message..."
 msgstr "nova mesaĝo..."
@@ -1258,6 +1320,9 @@ msgstr "Nova rolulo:"
 
 msgid "New Variable"
 msgstr "Nova variablo"
+
+msgid "next backdrop"
+msgstr ""
 
 msgid "No motion blocks"
 msgstr "Ne estas movaj blokoj"
@@ -1292,6 +1357,9 @@ msgstr "ŝaltita"
 msgid "on-flipped"
 msgstr "ŝaltita-spegulita"
 
+msgid "Open"
+msgstr ""
+
 msgid "Open Cuica"
 msgstr "Malferma kuiko"
 
@@ -1310,6 +1378,10 @@ msgstr "Alia"
 msgid "other scripts in sprite"
 msgstr "aliaj skriptoj en rolulo"
 
+#, fuzzy
+msgid "other scripts in stage"
+msgstr "aliaj skriptoj en rolulo"
+
 msgid "Outdoors"
 msgstr "Ekstere"
 
@@ -1321,6 +1393,12 @@ msgstr "Pentri novan kostumon"
 
 msgid "Paint new sprite"
 msgstr "Pentri novan rolulon"
+
+msgid "Password"
+msgstr ""
+
+msgid "Password is required"
+msgstr ""
 
 msgid "paste"
 msgstr "englui"
@@ -1352,6 +1430,9 @@ msgstr "Plukita"
 msgid "pop"
 msgstr "pop"
 
+msgid "previous backdrop"
+msgstr ""
+
 msgid "Profile"
 msgstr "Profilo"
 
@@ -1361,6 +1442,12 @@ msgstr "Projekto ne ŝangiĝis."
 msgid "Project not saved!"
 msgstr "Projekto ne konservita!"
 
+msgid "Project name"
+msgstr ""
+
+msgid "Project name is required"
+msgstr ""
+
 msgid "random"
 msgstr "hazarda"
 
@@ -1369,6 +1456,9 @@ msgstr "Registri"
 
 msgid "Record new sound"
 msgstr "Registri novan sonon"
+
+msgid "record..."
+msgstr ""
 
 msgid "recording1"
 msgstr "registrado1"
@@ -1440,11 +1530,20 @@ msgstr "Rulumi sen redesegni la ekranon"
 msgid "Save"
 msgstr "Konservi"
 
+msgid "Save a copy of this project and add your own ideas."
+msgstr ""
+
+msgid "Save as"
+msgstr ""
+
 msgid "Save as a copy"
 msgstr "Konservi kiel kopion"
 
 msgid "Save now"
 msgstr "Konservi nun"
+
+msgid "Save project?"
+msgstr ""
 
 msgid "save to local file"
 msgstr "konservi al loka dosiero"
@@ -1460,6 +1559,12 @@ msgstr "Konservado..."
 
 msgid "Saxophone"
 msgstr "Saksofono"
+
+msgid "Scratch Updater"
+msgstr ""
+
+msgid "Scratch 2.0 Offline Editor"
+msgstr ""
 
 msgid "Script"
 msgstr "Skripto"
@@ -1491,17 +1596,23 @@ msgstr "Elekti kaj kopii"
 msgid "Send to back"
 msgstr "Sendi fonon"
 
-msgid "Set costume center"
-msgstr "Difini centron de kostumo"
-
 msgid "Set Costume Center"
 msgstr "Difini Centron de Kostumo"
+
+msgid "Set costume center"
+msgstr "Difini centron de kostumo"
 
 msgid "set slider min and max"
 msgstr "agordi maksimumon kaj minimumon de la ŝovilo"
 
 msgid "Share"
 msgstr "Kunhavigi"
+
+msgid "Share to website"
+msgstr ""
+
+msgid "Share to Scratch website"
+msgstr ""
 
 msgid "shared"
 msgstr "publika"
@@ -1575,12 +1686,12 @@ msgstr "Biblioteko de sonoj"
 msgid "Sounds"
 msgstr "Sonoj"
 
-msgid "space"
-msgstr "spacetklavo"
-
 # 80%
 msgid "Space"
 msgstr "La Kosmo"
+
+msgid "space"
+msgstr "spacetklavo"
 
 msgid "Sports"
 msgstr "Sportoj"
@@ -1629,17 +1740,33 @@ msgstr "Tamburino"
 msgid "tan"
 msgstr "tan"
 
+#, fuzzy
+msgid "text"
+msgstr "Teksto"
+
 msgid "Text"
 msgstr "Teksto"
 
 msgid "that way"
 msgstr "tien"
 
+msgid "The name is already is use."
+msgstr ""
+
+msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgstr ""
+
 msgid "Theme"
 msgstr "Temo"
 
 msgid "Things"
 msgstr "Aferoj"
+
+msgid "thing"
+msgstr ""
+
+msgid "This is the current version."
+msgstr ""
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
 msgstr ""
@@ -1681,6 +1808,9 @@ msgstr "Triangulo"
 msgid "Trombone"
 msgstr "Trombono"
 
+msgid "true"
+msgstr ""
+
 msgid "Turbo mode"
 msgstr "Rapidega reĝimo"
 
@@ -1697,12 +1827,12 @@ msgstr "Malforigi"
 msgid "Underwater"
 msgstr "Subakve"
 
+msgid "undo"
+msgstr "malfari"
+
 # 75%
 msgid "Undo"
 msgstr "Malfari"
-
-msgid "undo"
-msgstr "malfari"
 
 msgid "Undo Revert"
 msgstr "Malfari la malfaron"
@@ -1718,6 +1848,15 @@ msgstr "supre"
 
 msgid "up arrow"
 msgstr "sago supra"
+
+msgid "Update failed"
+msgstr ""
+
+msgid "Update not needed"
+msgstr ""
+
+msgid "Update now"
+msgstr ""
 
 msgid "Upload backdrop from file"
 msgstr "Alŝuti fonbildon el dosiero"
@@ -1761,6 +1900,9 @@ msgstr "Vibrafono"
 msgid "Vibraslap"
 msgstr "Vibrafrapo"
 
+msgid "video direction"
+msgstr ""
+
 msgid "video motion"
 msgstr "videa movo"
 
@@ -1782,6 +1924,9 @@ msgstr "Ĉu vi volas konservi? Klaku remikson"
 msgid "Which column do you want to import"
 msgstr "Kiun kolumnon vi volas importi"
 
+msgid "What's your name?"
+msgstr ""
+
 msgid "whirl"
 msgstr "kirla"
 
@@ -1790,6 +1935,9 @@ msgstr "Lignobloko"
 
 msgid "Wooden Flute"
 msgstr "Ligna Fluto"
+
+msgid "world"
+msgstr ""
 
 msgid "x position"
 msgstr "x-pozicio"
@@ -1802,15 +1950,27 @@ msgstr "jaro"
 
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
 msgstr ""
-"Vi ne povas redakti la ennubajn datumojn de projekto de iu alia "
-"uzanto.<br>Ŝanĝoj, kiujn vi faras en la  redaktilo estos dumtempaj, kaj ne "
-"estos konservitaj."
+"Vi ne povas redakti la ennubajn datumojn de projekto de iu alia uzanto.<br>"
+"Ŝanĝoj, kiujn vi faras en la  redaktilo estos dumtempaj, kaj ne estos "
+"konservitaj."
 
-msgid "Eraser width:"
-msgstr "Larĝo de forviŝilo:"
+msgid "Your Scratch name"
+msgstr ""
 
-msgid "Line width:"
-msgstr "Larĝo de linio:"
+msgid "Your Scratch name is required"
+msgstr ""
+
+#~ msgid "cleanup"
+#~ msgstr "purigo"
+
+#~ msgid "Microphone Volume:"
+#~ msgstr "Mikrofona laŭteco:"
+
+#~ msgid "Eraser width:"
+#~ msgstr "Larĝo de forviŝilo:"
+
+#~ msgid "Line width:"
+#~ msgstr "Larĝo de linio:"
 
 # 90%
 #, fuzzy
@@ -1858,3 +2018,16 @@ msgstr "Larĝo de linio:"
 
 #~ msgid "Short Guiro"
 #~ msgstr "Mallonga guiro"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Informoj pri Ennubaj Variabloj</b><br>&nbsp;<br>Aktuale, nur numberoj "
+#~ "estas akceptitaj<br>Tujmesaĝejoj ne estas akceptitaj, kaj estos "
+#~ "forigitaj.<br>Por pli da informoj, <a href= target=>vidu la demandaro pri "
+#~ "Ennubaj Datumoj.</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Musklaku  por provi denove, aŭ  por konservi"

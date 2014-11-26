@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-07-10 22:57+0200\n"
+"PO-Revision-Date: 2014-07-10 22:57+0000\n"
 "Last-Translator: adlogi <adlogi@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ar\n"
@@ -12,7 +12,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Pootle 2.1.6\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1405033057.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -583,8 +584,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2014-05-27 21:28+0200\n"
+"POT-Creation-Date: 2014-11-23 12:42+0000\n"
+"PO-Revision-Date: 2014-11-23 12:51+0000\n"
 "Last-Translator: adlogi <adlogi@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ar\n"
@@ -593,7 +594,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Pootle 2.1.6\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1416747085.000000\n"
 
 msgid "10 ^"
 msgstr "^ 10"
@@ -609,6 +611,9 @@ msgstr "A موصول"
 
 msgid "a copy of the project file on your computer."
 msgstr "نسخة من ملف المشروع على جهاز الكمبيوتر الخاص بك."
+
+msgid "A newer version of Scratch is available"
+msgstr "هناك إصدار جديد من سكراتش"
 
 msgid "About"
 msgstr "عن سكراتش"
@@ -628,6 +633,9 @@ msgstr "إعدادات الحساب"
 msgid "acos"
 msgstr "جيب التمام العكسي"
 
+msgid "Add"
+msgstr "إضافة"
+
 msgid "Add an Extension"
 msgstr "مكتبة الإضافات"
 
@@ -637,6 +645,9 @@ msgstr "إضافة حقل منطقي:"
 
 msgid "add comment"
 msgstr "إضافة تعليق"
+
+msgid "add comment here..."
+msgstr "أضف التعليق هنا..."
 
 msgid "Add label text:"
 msgstr "إضافة نص:"
@@ -649,10 +660,10 @@ msgstr "إضافة حقل رقمي:"
 msgid "Add string input:"
 msgstr "إضافة حقل نصي:"
 
-msgid "All"
+msgid "all"
 msgstr "الكل"
 
-msgid "all"
+msgid "All"
 msgstr "الكل"
 
 msgid "all around"
@@ -684,12 +695,12 @@ msgid "Back a layer"
 msgstr "طبقة واحدة إلى الخلف"
 
 # 88%
-msgid "Backdrop"
-msgstr "الخلفيات"
-
-# 88%
 msgid "backdrop"
 msgstr "خلفية"
+
+# 88%
+msgid "Backdrop"
+msgstr "الخلفيات"
 
 msgid "backdrop #"
 msgstr "رقم الخلفية"
@@ -779,6 +790,9 @@ msgstr ":السماح بالسحب أثناء العرض"
 msgid "Cancel"
 msgstr "إلغاء الأمر"
 
+msgid "Cannot Add"
+msgstr "الإضافة غير ممكنة"
+
 msgid "Cannot Delete"
 msgstr "لا يمكن الحذف"
 
@@ -796,6 +810,9 @@ msgstr "السقف"
 
 msgid "Cello"
 msgstr "تشيلو"
+
+msgid "Check for updates"
+msgstr "التمس التحديثات"
 
 msgid "Choir"
 msgstr "Choir"
@@ -824,7 +841,7 @@ msgstr "كلارينيت"
 msgid "Claves"
 msgstr "Claves"
 
-msgid "cleanup"
+msgid "clean up"
 msgstr "ترتيب"
 
 msgid "Clear"
@@ -847,6 +864,9 @@ msgstr "السحابة"
 
 msgid "Cloud data"
 msgstr "البيانات السحابية"
+
+msgid "Cloud variable (stored on server)"
+msgstr "متغير سحابي (مخزّن على المخدّم)"
 
 msgid "color"
 msgstr "اللون"
@@ -910,6 +930,9 @@ msgstr "المظاهر > ١"
 msgid "Costumes:"
 msgstr "المظاهر:"
 
+msgid "Could not retrieve new application from server."
+msgstr "لم يكن بالإمكان الحصول على التطبيق الجديد من المخدّم."
+
 msgid "Cowbell"
 msgstr "Cowbell"
 
@@ -935,11 +958,11 @@ msgstr "تاريخ اليوم"
 msgid "day of week"
 msgstr "يوم الأسبوع"
 
-# 83%
-msgid "Delete"
+msgid "delete"
 msgstr "حذف"
 
-msgid "delete"
+# 83%
+msgid "Delete"
 msgstr "حذف"
 
 msgid "delete variable"
@@ -955,6 +978,9 @@ msgstr "الاتجاه:"
 msgid "don't rotate"
 msgstr "لا دوران"
 
+msgid "Don't save"
+msgstr "عدم الحفظ"
+
 msgid "down"
 msgstr "الأسفل"
 
@@ -966,6 +992,9 @@ msgstr "تنزيل"
 
 msgid "Download to your computer"
 msgstr "تنزيل إلى حاسبك"
+
+msgid "Downloading new version"
+msgstr "جارٍ تنزيل الإصدار الجديد"
 
 msgid "duplicate"
 msgstr "مضاعفة"
@@ -979,11 +1008,11 @@ msgstr "^ e"
 msgid "edge"
 msgstr "الحافة"
 
-msgid "edit"
-msgstr "تعديل"
-
 msgid "Edit"
 msgstr "تحرير"
+
+msgid "edit"
+msgstr "تعديل"
 
 msgid "Edit Block"
 msgstr "تعديل اللبنة"
@@ -1003,8 +1032,14 @@ msgstr "إلكتروني"
 msgid "Ellipse"
 msgstr "إهليلج"
 
+msgid "empty"
+msgstr "فارغة"
+
 msgid "Erase"
 msgstr "مسح"
+
+msgid "Erase all"
+msgstr "مسح الكل"
 
 # 92%
 msgid "Eraser width"
@@ -1030,6 +1065,9 @@ msgstr "تلاشي في البداية"
 
 msgid "fade out"
 msgstr "تلاشي في النهاية"
+
+msgid "false"
+msgstr "صحيح"
 
 msgid "Fantasy"
 msgstr "خيال"
@@ -1097,11 +1135,26 @@ msgstr "صفقة"
 msgid "Hardware"
 msgstr "عتاد"
 
+msgid "help"
+msgstr "مساعدة"
+
+msgid "Hello!"
+msgstr "السلام عليكم!"
+
+msgid "Hmm..."
+msgstr "هممم..."
+
+msgid "hello"
+msgstr "مرحبًا"
+
 msgid "hide"
 msgstr "اختف"
 
 msgid "High C"
 msgstr "High C"
+
+msgid "Holiday"
+msgstr "الأعياد"
 
 msgid "hour"
 msgstr "الساعة"
@@ -1143,11 +1196,11 @@ msgstr "السهم الأيسر"
 msgid "left-right"
 msgstr "يمين - يسار"
 
-msgid "LEGO WeDo"
-msgstr "LEGO WeDo"
-
 msgid "length"
 msgstr "الطول"
+
+msgid "Letters"
+msgstr "الحروف"
 
 msgid "Library"
 msgstr "المكتبة"
@@ -1218,8 +1271,8 @@ msgstr "اسم الرسالة"
 msgid "message1"
 msgstr "الرسالة ١"
 
-msgid "Microphone Volume:"
-msgstr "ارتفاع صوت الميكروفون:"
+msgid "Microphone volume:"
+msgstr "شدة صوت الميكروفون:"
 
 msgid "Middle C"
 msgstr "Middle C"
@@ -1282,6 +1335,9 @@ msgstr "خلفية جديدة من آلة التصوير"
 msgid "New backdrop:"
 msgstr "خلفية جديدة:"
 
+msgid "New Block"
+msgstr "لبنة جديدة"
+
 msgid "New costume from camera"
 msgstr "مظهر جديد من آلة التصوير"
 
@@ -1291,6 +1347,9 @@ msgstr "مظهر جديد:"
 
 msgid "New List"
 msgstr "لائحة جديدة"
+
+msgid "New Message"
+msgstr "رسالة جديدة"
 
 msgid "new message..."
 msgstr "رسالة جديدة..."
@@ -1310,6 +1369,9 @@ msgstr "كائن جديد:"
 
 msgid "New Variable"
 msgstr "متغير جديد"
+
+msgid "next backdrop"
+msgstr "الخلفية التالية"
 
 msgid "No motion blocks"
 msgstr "لا توجد لبنات للحركة"
@@ -1344,6 +1406,9 @@ msgstr "يعمل"
 msgid "on-flipped"
 msgstr "يعمل مقلوباً"
 
+msgid "Open"
+msgstr "فتح"
+
 msgid "Open Cuica"
 msgstr "Open Cuica"
 
@@ -1362,6 +1427,9 @@ msgstr "غير ذلك"
 msgid "other scripts in sprite"
 msgstr "المقاطع الأخرى في الكائن"
 
+msgid "other scripts in stage"
+msgstr "المقاطع الأخرى في المنصة"
+
 msgid "Outdoors"
 msgstr "خارجي"
 
@@ -1373,6 +1441,12 @@ msgstr "رسم مظهر جديد"
 
 msgid "Paint new sprite"
 msgstr "رسم كائن جديد"
+
+msgid "Password"
+msgstr "كلمة المرور"
+
+msgid "Password is required"
+msgstr "كلمة المرور مطلوبة"
 
 msgid "paste"
 msgstr "لصق"
@@ -1405,6 +1479,9 @@ msgstr "Pizzicato"
 msgid "pop"
 msgstr "بُب"
 
+msgid "previous backdrop"
+msgstr "الخلفية السابقة"
+
 msgid "Profile"
 msgstr "الملف الشخصي"
 
@@ -1414,6 +1491,12 @@ msgstr "لم يتم تحميل المشروع."
 msgid "Project not saved!"
 msgstr "لم يُحفظ المشروع!"
 
+msgid "Project name"
+msgstr "اسم المشروع"
+
+msgid "Project name is required"
+msgstr "اسم المشروع مطلوب"
+
 msgid "random"
 msgstr "عشوائي"
 
@@ -1422,6 +1505,9 @@ msgstr "تسجيل"
 
 msgid "Record new sound"
 msgstr "تسجيل صوت جديد"
+
+msgid "record..."
+msgstr "تسجيل..."
 
 msgid "recording1"
 msgstr "التسجيل ١"
@@ -1495,11 +1581,20 @@ msgstr "تشغيل دون تحديث الشاشة"
 msgid "Save"
 msgstr "حفظ"
 
+msgid "Save a copy of this project and add your own ideas."
+msgstr "احفظ نسخةً من هذا المشروع وأضف أفكارك الخاصة."
+
+msgid "Save as"
+msgstr "حفظ باسم"
+
 msgid "Save as a copy"
 msgstr "حفظ كنسخة"
 
 msgid "Save now"
 msgstr "الحفظ الآن"
+
+msgid "Save project?"
+msgstr "حفظ المشروع؟"
 
 msgid "save to local file"
 msgstr "حفظ إلى ملف على الحاسب"
@@ -1516,6 +1611,12 @@ msgstr "الحفظ جارٍ..."
 
 msgid "Saxophone"
 msgstr "ساكسفون"
+
+msgid "Scratch Updater"
+msgstr "محدِّث سكراتش"
+
+msgid "Scratch 2.0 Offline Editor"
+msgstr "سكراتش ٢,٠"
 
 # 85%
 msgid "Script"
@@ -1551,11 +1652,11 @@ msgstr "تحديد ومضاعفة"
 msgid "Send to back"
 msgstr "إرسال إلى الخلف"
 
-# 88%
-msgid "Set costume center"
+msgid "Set Costume Center"
 msgstr "تحديد مركز المظهر"
 
-msgid "Set Costume Center"
+# 88%
+msgid "Set costume center"
 msgstr "تحديد مركز المظهر"
 
 msgid "set slider min and max"
@@ -1563,6 +1664,12 @@ msgstr "تحديد القيمتين الدنيا والعظمى للمنزلقة
 
 msgid "Share"
 msgstr "مشاركة"
+
+msgid "Share to website"
+msgstr "المشاركة على موقع سكراتش"
+
+msgid "Share to Scratch website"
+msgstr "المشاركة على موقع سكراتش"
 
 msgid "shared"
 msgstr "تمت المشاركة"
@@ -1639,12 +1746,12 @@ msgstr "مكتبة الأصوات"
 msgid "Sounds"
 msgstr "الأصوات"
 
-msgid "space"
-msgstr "المسافة"
-
 # 80%
 msgid "Space"
 msgstr "الفضاء"
+
+msgid "space"
+msgstr "المسافة"
 
 msgid "Sports"
 msgstr "الرياضة"
@@ -1694,11 +1801,22 @@ msgstr "Tambourine"
 msgid "tan"
 msgstr "الظل"
 
+msgid "text"
+msgstr "نص"
+
 msgid "Text"
 msgstr "نص"
 
 msgid "that way"
 msgstr "ذاك الاتجاه"
+
+msgid "The name is already is use."
+msgstr "الاسم مستخدم حاليًا"
+
+msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgstr ""
+"لم يكن بالإمكان تحميل المشروع وتم إخبار فريق سكراتش بذلك. انقر موافق لمغادرة "
+"هذه الصفحة."
 
 msgid "Theme"
 msgstr "الموضوع"
@@ -1706,10 +1824,16 @@ msgstr "الموضوع"
 msgid "Things"
 msgstr "الأشياء"
 
+msgid "thing"
+msgstr "شيء"
+
+msgid "This is the current version."
+msgstr "هذا هو الإصدار الأخير."
+
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
 msgstr ""
-"يمكن لهذا المشروع معرفة من يستخدمه من خلال لبنة \"اسم المستخدم\". لإخفاء هويتك "
-"قم بتسجيل الخروج قبل استخدام المشروع."
+"يمكن لهذا المشروع معرفة من يستخدمه من خلال لبنة \"اسم المستخدم\". لإخفاء "
+"هويتك قم بتسجيل الخروج قبل استخدام المشروع."
 
 msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
 msgstr ""
@@ -1745,6 +1869,9 @@ msgstr "مثلث"
 msgid "Trombone"
 msgstr "Trombone"
 
+msgid "true"
+msgstr "صحيح"
+
 # 90%
 msgid "Turbo mode"
 msgstr "الوضع السريع"
@@ -1762,11 +1889,11 @@ msgstr "التراجع عن الحذف"
 msgid "Underwater"
 msgstr "تحت الماء"
 
-# 75%
-msgid "Undo"
+msgid "undo"
 msgstr "تراجع"
 
-msgid "undo"
+# 75%
+msgid "Undo"
 msgstr "تراجع"
 
 msgid "Undo Revert"
@@ -1783,6 +1910,15 @@ msgstr "الأعلى"
 
 msgid "up arrow"
 msgstr "السهم العلوي"
+
+msgid "Update failed"
+msgstr "لم ينجح التحديث"
+
+msgid "Update not needed"
+msgstr "لا حاجة للتحديث"
+
+msgid "Update now"
+msgstr "التحديث الآن"
 
 msgid "Upload backdrop from file"
 msgstr "رفع خلفية من ملف"
@@ -1826,6 +1962,9 @@ msgstr "Vibraphone"
 msgid "Vibraslap"
 msgstr "Vibraslap"
 
+msgid "video direction"
+msgstr "اتجاه الفيديو"
+
 msgid "video motion"
 msgstr "حركة الفيديو"
 
@@ -1843,10 +1982,13 @@ msgid "Walking"
 msgstr "المشي"
 
 msgid "Want to save? Click remix"
-msgstr "أتريد حفظ هذا المشروع؟ انقر \"مزج\""
+msgstr "أتريد حفظ هذا المشروع؟ انقر مزج"
 
 msgid "Which column do you want to import"
 msgstr "أي الأعمدة تريد استيراده"
+
+msgid "What's your name?"
+msgstr "ما اسمك؟"
 
 msgid "whirl"
 msgstr "الدوامة"
@@ -1856,6 +1998,9 @@ msgstr "Wood Block"
 
 msgid "Wooden Flute"
 msgstr "Wooden Flute"
+
+msgid "world"
+msgstr "بالعالم"
 
 msgid "x position"
 msgstr "الموضع س"
@@ -1871,11 +2016,29 @@ msgstr ""
 "لا يمكنك تعديل البيانات السحابية في مشروع شخص آخر.<br>أي تعديلات تقوم بها في "
 "محرر المشاريع ستكون مؤقتة ولن تدوم."
 
-msgid "Eraser width:"
-msgstr "عرض الممحاة:"
+msgid "Your Scratch name"
+msgstr "اسمك على موقع سكراتش"
 
-msgid "Line width:"
-msgstr "عرض الخط:"
+msgid "Your Scratch name is required"
+msgstr "اسمك على موقع سكراتش مطلوب"
+
+#~ msgid "Update not nedded"
+#~ msgstr "لا حاجة للتحديث"
+
+#~ msgid "cleanup"
+#~ msgstr "ترتيب"
+
+#~ msgid "LEGO WeDo"
+#~ msgstr "LEGO WeDo"
+
+#~ msgid "Microphone Volume:"
+#~ msgstr "ارتفاع صوت الميكروفون:"
+
+#~ msgid "Eraser width:"
+#~ msgstr "عرض الممحاة:"
+
+#~ msgid "Line width:"
+#~ msgstr "عرض الخط:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "إضافة حقل منطقي:"
@@ -2016,3 +2179,15 @@ msgstr "عرض الخط:"
 
 #~ msgid "Short Guiro"
 #~ msgstr "Short Guiro"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>معلومات عن المتغيرات السحابية</b><br>&nbsp;<br>الأعداد فقط مدعومة "
+#~ "حالياً.<br>غرف المحادثة غير مسموحة وسوف تزال<br>لمزيد من المعلومات <a href= "
+#~ "target=>زر الأسئلة متكررة الطرح عن المتغيرات السحابية</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "انقر  للمحاولة ثانيةً أو  للحفظ"

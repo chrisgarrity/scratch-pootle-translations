@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:44+0000\n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
 "PO-Revision-Date: 2013-08-01 00:29+0000\n"
 "Last-Translator: zeta11 <tajana.toto@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -943,6 +943,9 @@ msgstr "Preimenuj"
 msgid "rename variable"
 msgstr "preimenuj varijablu"
 
+msgid "Replace existing project"
+msgstr ""
+
 msgid "requires sign in"
 msgstr "zahtijeva prijavu"
 
@@ -1205,7 +1208,7 @@ msgstr "Tekst"
 msgid "that way"
 msgstr "ovim smjerom"
 
-msgid "The name is already is use."
+msgid "The name is already in use."
 msgstr ""
 
 msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
@@ -1413,17 +1416,30 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+"For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Informacije o varijablama oblaka</b><br>&nbsp;<br>Trenutno su podržani "
+"jedino brojevi<br>Čavrljanje nije dozvoljeno i bit će uklonjeno<br>Za više "
+"informacija, <a href=target=> vidi često postavljena pitanja i odgovore (FAQ)"
+" vezane uz podatke oblaka!</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "Odaberi  za ponovni pokušaj ili  za spremanje"
+
+msgid "Eraser width:"
+msgstr "Debljina gumice:"
+
+msgid "Line width:"
+msgstr "Debljina linije:"
+
 #~ msgid "cleanup"
 #~ msgstr "očisti"
 
 #~ msgid "Microphone Volume:"
 #~ msgstr "Glasnoća mikrofona:"
-
-#~ msgid "Eraser width:"
-#~ msgstr "Debljina gumice:"
-
-#~ msgid "Line width:"
-#~ msgstr "Debljina linije:"
 
 #~ msgid " Backpack"
 #~ msgstr "Ruksak"
@@ -1475,16 +1491,3 @@ msgstr ""
 
 #~ msgid "Short Guiro"
 #~ msgstr "Kratki guiro"
-
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Informacije o varijablama oblaka</b><br>&nbsp;<br>Trenutno su podržani "
-#~ "jedino brojevi<br>Čavrljanje nije dozvoljeno i bit će uklonjeno<br>Za više "
-#~ "informacija, <a href=target=> vidi često postavljena pitanja i odgovore (FAQ)"
-#~ " vezane uz podatke oblaka!</a>"
-
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "Odaberi  za ponovni pokušaj ili  za spremanje"

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:48+0000\n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
 "PO-Revision-Date: 2014-07-10 17:07+0000\n"
 "Last-Translator: Григорій <ggromko@mail.ru>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -955,6 +955,9 @@ msgstr "Перейменувати"
 msgid "rename variable"
 msgstr "перейменувати змінну"
 
+msgid "Replace existing project"
+msgstr ""
+
 msgid "requires sign in"
 msgstr "потрібно ввійти"
 
@@ -1224,7 +1227,7 @@ msgstr "Текст"
 msgid "that way"
 msgstr "туди"
 
-msgid "The name is already is use."
+msgid "The name is already in use."
 msgstr ""
 
 msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
@@ -1434,6 +1437,25 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+"For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Інформація про \"хмарні\" змінні</b>&nbsp;<br>В даний час підтримуються "
+"тільки числові змінні<br>Чати не допускаються, і будуть видалятись<br>Для "
+"отримання додаткової інформації <a href= target=>див. Запитання по хмарним "
+"змінним!</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "Натисніть  , щоб спробувати ще раз, або   щоб зберегти"
+
+msgid "Eraser width:"
+msgstr "Розмір гумки:"
+
+msgid "Line width:"
+msgstr "Ширина лінії:"
+
 #~ msgid "cleanup"
 #~ msgstr "впорядкувати"
 
@@ -1442,12 +1464,6 @@ msgstr ""
 
 #~ msgid "Microphone Volume:"
 #~ msgstr "Гучність мікрофона:"
-
-#~ msgid "Eraser width:"
-#~ msgstr "Розмір гумки:"
-
-#~ msgid "Line width:"
-#~ msgstr "Ширина лінії:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Додати введення логічного значення:"
@@ -1600,16 +1616,3 @@ msgstr ""
 
 #~ msgid "Short Guiro"
 #~ msgstr "Коротке ґуїро"
-
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Інформація про \"хмарні\" змінні</b>&nbsp;<br>В даний час підтримуються "
-#~ "тільки числові змінні<br>Чати не допускаються, і будуть видалятись<br>Для "
-#~ "отримання додаткової інформації <a href= target=>див. Запитання по хмарним "
-#~ "змінним!</a>"
-
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "Натисніть  , щоб спробувати ще раз, або   щоб зберегти"

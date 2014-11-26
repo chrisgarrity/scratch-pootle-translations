@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:45+0000\n"
-"PO-Revision-Date: 2014-11-23 12:29+0000\n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
+"PO-Revision-Date: 2014-11-23 13:22+0000\n"
 "Last-Translator: s_federici <s_federici@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: it\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1416745760.000000\n"
+"X-POOTLE-MTIME: 1416748955.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -207,7 +207,7 @@ msgid "Cancel"
 msgstr "Annulla"
 
 msgid "Cannot Add"
-msgstr ""
+msgstr "Impossibile Aggiungere"
 
 msgid "Cannot Delete"
 msgstr "Impossibile Cancellare"
@@ -857,10 +857,10 @@ msgid "Paint new sprite"
 msgstr "Disegna un nuovo sprite"
 
 msgid "Password"
-msgstr ""
+msgstr "Password"
 
 msgid "Password is required"
-msgstr ""
+msgstr "È richiesta la password"
 
 msgid "paste"
 msgstr "incolla"
@@ -906,10 +906,10 @@ msgid "Project not saved!"
 msgstr "Il progetto non è stato salvato!"
 
 msgid "Project name"
-msgstr ""
+msgstr "Nome del progetto"
 
 msgid "Project name is required"
-msgstr ""
+msgstr "È richiesto il nome del progetto"
 
 msgid "random"
 msgstr "a caso"
@@ -950,6 +950,9 @@ msgstr "Rinomina"
 
 msgid "rename variable"
 msgstr "rinomina variabile"
+
+msgid "Replace existing project"
+msgstr ""
 
 msgid "requires sign in"
 msgstr "richiede l'accesso"
@@ -1024,10 +1027,10 @@ msgid "Saxophone"
 msgstr "Sassofono"
 
 msgid "Scratch Updater"
-msgstr ""
+msgstr "Aggiornamento di Scratch"
 
 msgid "Scratch 2.0 Offline Editor"
-msgstr ""
+msgstr "Editor Offline di Scratch 2.0 "
 
 # 85%
 msgid "Script"
@@ -1077,10 +1080,10 @@ msgid "Share"
 msgstr "Condividi"
 
 msgid "Share to website"
-msgstr ""
+msgstr "Condividi su un sito"
 
 msgid "Share to Scratch website"
-msgstr ""
+msgstr "Condividi sul sito di Scratch"
 
 msgid "shared"
 msgstr "condiviso"
@@ -1219,11 +1222,14 @@ msgstr "Testo"
 msgid "that way"
 msgstr "da quella parte"
 
-msgid "The name is already is use."
-msgstr ""
+#, fuzzy
+msgid "The name is already in use."
+msgstr "Questo nome è già stato scelto."
 
 msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
 msgstr ""
+"Il caricamento del progetto non è riuscito e il Team di Scratch è stato "
+"avvisato.  Clicca su OK per uscire da questa pagina."
 
 msgid "Theme"
 msgstr "Tema"
@@ -1232,10 +1238,10 @@ msgid "Things"
 msgstr "Cose"
 
 msgid "thing"
-msgstr ""
+msgstr "cosa"
 
 msgid "This is the current version."
-msgstr ""
+msgstr "Questa è la versione corrente."
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
 msgstr ""
@@ -1281,7 +1287,7 @@ msgid "Trombone"
 msgstr "Trombone"
 
 msgid "true"
-msgstr ""
+msgstr "vero"
 
 # 90%
 msgid "Turbo mode"
@@ -1323,13 +1329,13 @@ msgid "up arrow"
 msgstr "freccia su"
 
 msgid "Update failed"
-msgstr ""
+msgstr "Aggiornamento non riuscito"
 
 msgid "Update not needed"
-msgstr ""
+msgstr "Aggiornamento non necessario"
 
 msgid "Update now"
-msgstr ""
+msgstr "Aggiorna ora"
 
 msgid "Upload backdrop from file"
 msgstr "Carica uno sfondo da un file"
@@ -1398,7 +1404,7 @@ msgid "Which column do you want to import"
 msgstr "Quale colonna vuoi importare"
 
 msgid "What's your name?"
-msgstr ""
+msgstr "Come ti chiami?"
 
 msgid "whirl"
 msgstr "mulinello"
@@ -1410,7 +1416,7 @@ msgid "Wooden Flute"
 msgstr "Flauto di legno"
 
 msgid "world"
-msgstr ""
+msgstr "mondo"
 
 msgid "x position"
 msgstr "posizione x"
@@ -1428,10 +1434,32 @@ msgstr ""
 "temporaneo e non permanente."
 
 msgid "Your Scratch name"
-msgstr ""
+msgstr "Il tuo username Scratch"
 
 msgid "Your Scratch name is required"
+msgstr "Lo username Scratch è obbligatorio"
+
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+"For more info, <a href= target=>see the cloud data FAQ!</a>"
 msgstr ""
+"<b>Informazioni sulle variabili Cloud</b><br>&nbsp;<br>Al momento sono "
+"supportati soltanto valori numerici<br>Non è inoltre permesso lo sviluppo di "
+"Chat room (saranno rimosse)<br>Per maggiori informazioni consultate la "
+"pagina <a href= target=>Domande Frequenti sui dati Cloud</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "Clicca  per riprovare o  per salvare"
+
+msgid "Eraser width:"
+msgstr "Dimensione della gomma:"
+
+msgid "Line width:"
+msgstr "Dimensione della linea:"
+
+#~ msgid "The name is already is use."
+#~ msgstr "Questo nome è già stato scelto."
 
 #~ msgid "cleanup"
 #~ msgstr "riordina"
@@ -1441,12 +1469,6 @@ msgstr ""
 
 #~ msgid "Microphone Volume:"
 #~ msgstr "Volume del Microfono:"
-
-#~ msgid "Eraser width:"
-#~ msgstr "Dimensione della gomma:"
-
-#~ msgid "Line width:"
-#~ msgstr "Dimensione della linea:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Aggiungi un parametro booleano:"
@@ -1575,16 +1597,3 @@ msgstr ""
 
 #~ msgid "Short Guiro"
 #~ msgstr "Guiro corto"
-
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Informazioni sulle variabili Cloud</b><br>&nbsp;<br>Al momento sono "
-#~ "supportati soltanto valori numerici<br>Non è inoltre permesso lo sviluppo di "
-#~ "Chat room (saranno rimosse)<br>Per maggiori informazioni consultate la "
-#~ "pagina <a href= target=>Domande Frequenti sui dati Cloud</a>"
-
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "Clicca  per riprovare o  per salvare"

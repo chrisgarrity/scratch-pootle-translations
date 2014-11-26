@@ -502,8 +502,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2014-01-05 04:23+0200\n"
+"POT-Creation-Date: 2014-11-23 12:44+0000\n"
+"PO-Revision-Date: 2014-01-05 04:23+0000\n"
 "Last-Translator: akerbeltz <fios@akerbeltz.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: gd\n"
@@ -512,7 +512,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
 "(n > 2 && n < 20) ? 2 : 3;\n"
-"X-Generator: Pootle 2.1.6\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1388895820.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -529,6 +530,9 @@ msgstr "A ceangailte"
 
 msgid "a copy of the project file on your computer."
 msgstr "lethbhreac de dh'fhaidhle a' phròiseict air a' choimpiutair agad."
+
+msgid "A newer version of Scratch is available"
+msgstr ""
 
 msgid "About"
 msgstr ""
@@ -548,6 +552,9 @@ msgstr "Roghainnean a' chunntais"
 msgid "acos"
 msgstr "acos"
 
+msgid "Add"
+msgstr ""
+
 msgid "Add an Extension"
 msgstr ""
 
@@ -556,6 +563,9 @@ msgstr "Raon Booleanach:"
 
 msgid "add comment"
 msgstr "cuir beachd ris"
+
+msgid "add comment here..."
+msgstr ""
 
 msgid "Add label text:"
 msgstr "Cuir teacsa na leubail ris:"
@@ -566,11 +576,11 @@ msgstr "Raon àireamhan:"
 msgid "Add string input:"
 msgstr "Raon teacsa:"
 
-msgid "All"
-msgstr "Na h-uile"
-
 msgid "all"
 msgstr "na h-uile"
+
+msgid "All"
+msgstr "Na h-uile"
 
 msgid "all around"
 msgstr "ceithir timcheall air"
@@ -599,11 +609,11 @@ msgstr "B ceangailte"
 msgid "Back a layer"
 msgstr "Aon bhreath air ais"
 
-msgid "Backdrop"
-msgstr "Dealbh-cùil"
-
 msgid "backdrop"
 msgstr "dealbh-cùil"
+
+msgid "Backdrop"
+msgstr "Dealbh-cùil"
 
 msgid "backdrop #"
 msgstr "dealbh-cùil #"
@@ -689,6 +699,9 @@ msgstr "gabhaidh a shlaodadh sa chluicheadair:"
 msgid "Cancel"
 msgstr "Sguir dheth"
 
+msgid "Cannot Add"
+msgstr ""
+
 msgid "Cannot Delete"
 msgstr "Cha ghabh a sguabadh às"
 
@@ -707,6 +720,9 @@ msgstr "mullach-seòmair"
 
 msgid "Cello"
 msgstr "Cello"
+
+msgid "Check for updates"
+msgstr ""
 
 msgid "Choir"
 msgstr "Còisir"
@@ -735,7 +751,8 @@ msgstr "Clàirneid"
 msgid "Claves"
 msgstr "Claves"
 
-msgid "cleanup"
+#, fuzzy
+msgid "clean up"
 msgstr "sgioblachadh"
 
 msgid "Clear"
@@ -758,6 +775,9 @@ msgstr "Neul"
 
 msgid "Cloud data"
 msgstr "Dàta san neul"
+
+msgid "Cloud variable (stored on server)"
+msgstr ""
 
 msgid "color"
 msgstr "dath"
@@ -816,6 +836,9 @@ msgstr "Culaidh-choimheach > 1"
 msgid "Costumes:"
 msgstr "Culaidhean-coimheach:"
 
+msgid "Could not retrieve new application from server."
+msgstr ""
+
 msgid "Cowbell"
 msgstr "Clag bà"
 
@@ -842,11 +865,11 @@ msgstr "ceann-là"
 msgid "day of week"
 msgstr "làithean na seachdaine"
 
-msgid "Delete"
-msgstr "Sguab às"
-
 msgid "delete"
 msgstr "sguab às"
+
+msgid "Delete"
+msgstr "Sguab às"
 
 msgid "delete variable"
 msgstr "sguab às an caochladair"
@@ -860,6 +883,9 @@ msgstr "comhair:"
 msgid "don't rotate"
 msgstr "na cuairtich"
 
+msgid "Don't save"
+msgstr ""
+
 msgid "down"
 msgstr "sìos"
 
@@ -871,6 +897,9 @@ msgstr "Luchdaich a-nuas"
 
 msgid "Download to your computer"
 msgstr "Luchdaich a-nuas dhan choimpiutair agad"
+
+msgid "Downloading new version"
+msgstr ""
 
 msgid "duplicate"
 msgstr "dùblaich"
@@ -884,11 +913,11 @@ msgstr "e ^"
 msgid "edge"
 msgstr "oir"
 
-msgid "edit"
-msgstr "deasaich"
-
 msgid "Edit"
 msgstr "Deasaich"
+
+msgid "edit"
+msgstr "deasaich"
 
 msgid "Edit Block"
 msgstr "Deasaich am bloca"
@@ -908,7 +937,13 @@ msgstr ""
 msgid "Ellipse"
 msgstr ""
 
+msgid "empty"
+msgstr ""
+
 msgid "Erase"
+msgstr ""
+
+msgid "Erase all"
 msgstr ""
 
 msgid "Eraser width"
@@ -933,6 +968,9 @@ msgid "fade in"
 msgstr ""
 
 msgid "fade out"
+msgstr ""
+
+msgid "false"
 msgstr ""
 
 msgid "Fantasy"
@@ -1001,10 +1039,26 @@ msgstr ""
 msgid "Hardware"
 msgstr ""
 
+msgid "help"
+msgstr ""
+
+msgid "Hello!"
+msgstr ""
+
+msgid "Hmm..."
+msgstr ""
+
+#, fuzzy
+msgid "hello"
+msgstr "Cello"
+
 msgid "hide"
 msgstr ""
 
 msgid "High C"
+msgstr ""
+
+msgid "Holiday"
 msgstr ""
 
 msgid "hour"
@@ -1046,10 +1100,10 @@ msgstr ""
 msgid "left-right"
 msgstr ""
 
-msgid "LEGO WeDo"
+msgid "length"
 msgstr ""
 
-msgid "length"
+msgid "Letters"
 msgstr ""
 
 msgid "Library"
@@ -1118,7 +1172,7 @@ msgstr ""
 msgid "message1"
 msgstr ""
 
-msgid "Microphone Volume:"
+msgid "Microphone volume:"
 msgstr ""
 
 msgid "Middle C"
@@ -1181,6 +1235,9 @@ msgstr ""
 msgid "New backdrop:"
 msgstr ""
 
+msgid "New Block"
+msgstr ""
+
 msgid "New costume from camera"
 msgstr ""
 
@@ -1188,6 +1245,9 @@ msgid "New costume:"
 msgstr ""
 
 msgid "New List"
+msgstr ""
+
+msgid "New Message"
 msgstr ""
 
 msgid "new message..."
@@ -1206,6 +1266,9 @@ msgid "New sprite:"
 msgstr ""
 
 msgid "New Variable"
+msgstr ""
+
+msgid "next backdrop"
 msgstr ""
 
 msgid "No motion blocks"
@@ -1241,6 +1304,9 @@ msgstr ""
 msgid "on-flipped"
 msgstr ""
 
+msgid "Open"
+msgstr ""
+
 msgid "Open Cuica"
 msgstr ""
 
@@ -1259,6 +1325,9 @@ msgstr ""
 msgid "other scripts in sprite"
 msgstr ""
 
+msgid "other scripts in stage"
+msgstr ""
+
 msgid "Outdoors"
 msgstr ""
 
@@ -1269,6 +1338,12 @@ msgid "Paint new costume"
 msgstr ""
 
 msgid "Paint new sprite"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Password is required"
 msgstr ""
 
 msgid "paste"
@@ -1301,6 +1376,9 @@ msgstr ""
 msgid "pop"
 msgstr ""
 
+msgid "previous backdrop"
+msgstr ""
+
 msgid "Profile"
 msgstr ""
 
@@ -1310,6 +1388,12 @@ msgstr ""
 msgid "Project not saved!"
 msgstr ""
 
+msgid "Project name"
+msgstr ""
+
+msgid "Project name is required"
+msgstr ""
+
 msgid "random"
 msgstr ""
 
@@ -1317,6 +1401,9 @@ msgid "Record"
 msgstr ""
 
 msgid "Record new sound"
+msgstr ""
+
+msgid "record..."
 msgstr ""
 
 msgid "recording1"
@@ -1388,10 +1475,19 @@ msgstr ""
 msgid "Save"
 msgstr ""
 
+msgid "Save a copy of this project and add your own ideas."
+msgstr ""
+
+msgid "Save as"
+msgstr ""
+
 msgid "Save as a copy"
 msgstr ""
 
 msgid "Save now"
+msgstr ""
+
+msgid "Save project?"
 msgstr ""
 
 msgid "save to local file"
@@ -1407,6 +1503,12 @@ msgid "Saving..."
 msgstr ""
 
 msgid "Saxophone"
+msgstr ""
+
+msgid "Scratch Updater"
+msgstr ""
+
+msgid "Scratch 2.0 Offline Editor"
 msgstr ""
 
 msgid "Script"
@@ -1439,16 +1541,22 @@ msgstr ""
 msgid "Send to back"
 msgstr ""
 
-msgid "Set costume center"
+msgid "Set Costume Center"
 msgstr ""
 
-msgid "Set Costume Center"
+msgid "Set costume center"
 msgstr ""
 
 msgid "set slider min and max"
 msgstr ""
 
 msgid "Share"
+msgstr ""
+
+msgid "Share to website"
+msgstr ""
+
+msgid "Share to Scratch website"
 msgstr ""
 
 msgid "shared"
@@ -1525,10 +1633,10 @@ msgstr ""
 msgid "Sounds"
 msgstr ""
 
-msgid "space"
+msgid "Space"
 msgstr ""
 
-msgid "Space"
+msgid "space"
 msgstr ""
 
 msgid "Sports"
@@ -1578,16 +1686,31 @@ msgstr ""
 msgid "tan"
 msgstr "atan"
 
+msgid "text"
+msgstr ""
+
 msgid "Text"
 msgstr ""
 
 msgid "that way"
 msgstr ""
 
+msgid "The name is already is use."
+msgstr ""
+
+msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgstr ""
+
 msgid "Theme"
 msgstr ""
 
 msgid "Things"
+msgstr ""
+
+msgid "thing"
+msgstr ""
+
+msgid "This is the current version."
 msgstr ""
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
@@ -1626,6 +1749,9 @@ msgstr ""
 msgid "Trombone"
 msgstr ""
 
+msgid "true"
+msgstr ""
+
 msgid "Turbo mode"
 msgstr ""
 
@@ -1643,10 +1769,10 @@ msgstr "sguab às"
 msgid "Underwater"
 msgstr ""
 
-msgid "Undo"
+msgid "undo"
 msgstr ""
 
-msgid "undo"
+msgid "Undo"
 msgstr ""
 
 msgid "Undo Revert"
@@ -1662,6 +1788,15 @@ msgid "up"
 msgstr ""
 
 msgid "up arrow"
+msgstr ""
+
+msgid "Update failed"
+msgstr ""
+
+msgid "Update not needed"
+msgstr ""
+
+msgid "Update now"
 msgstr ""
 
 msgid "Upload backdrop from file"
@@ -1706,6 +1841,9 @@ msgstr ""
 msgid "Vibraslap"
 msgstr ""
 
+msgid "video direction"
+msgstr ""
+
 msgid "video motion"
 msgstr ""
 
@@ -1727,6 +1865,9 @@ msgstr ""
 msgid "Which column do you want to import"
 msgstr ""
 
+msgid "What's your name?"
+msgstr ""
+
 msgid "whirl"
 msgstr ""
 
@@ -1734,6 +1875,9 @@ msgid "Wood Block"
 msgstr ""
 
 msgid "Wooden Flute"
+msgstr ""
+
+msgid "world"
 msgstr ""
 
 msgid "x position"
@@ -1748,8 +1892,24 @@ msgstr ""
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
 msgstr ""
 
-msgid "Eraser width:"
+msgid "Your Scratch name"
 msgstr ""
 
-msgid "Line width:"
+msgid "Your Scratch name is required"
 msgstr ""
+
+#~ msgid "cleanup"
+#~ msgstr "sgioblachadh"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Fiosrachadh a thaobh caochladairean Cloud</b><br>&nbsp;<br>Chan eil ach "
+#~ "àireamhan ceadaichte aig an àm seo<br>Chan eil seòmraichean cabadaich "
+#~ "ceadaichte 's thèid an toirt air falbh<br>Airson barrachd fiosrachaidh, <a "
+#~ "href= target=>faic na CÀBHA air dàta neòil!</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Briog air  airson feuchainn ris a-rithist  no airson sàbhaladh"

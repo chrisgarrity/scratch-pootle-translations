@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:45+0000\n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
 "PO-Revision-Date: 2014-10-24 16:00+0000\n"
 "Last-Translator: Kazuhiro <abee@squeakland.jp>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -938,6 +938,9 @@ msgstr "名前を変更"
 msgid "rename variable"
 msgstr "変数名を変更"
 
+msgid "Replace existing project"
+msgstr ""
+
 msgid "requires sign in"
 msgstr "サインインが必要です"
 
@@ -1198,7 +1201,7 @@ msgstr "テキスト"
 msgid "that way"
 msgstr "あちら向き"
 
-msgid "The name is already is use."
+msgid "The name is already in use."
 msgstr ""
 
 msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
@@ -1400,6 +1403,23 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+"For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>クラウド変数について</b><br>&nbsp;<br>現在、数値のみがサポートされています<br>チャットルームの作成は許可されていないため、削除"
+"されます<br>詳細な情報は <a href= target=>クラウドデータに関するFAQを読んでください！</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "「直ちに保存」をクリックして再試行するか、「ダウンロード」で保存してください"
+
+msgid "Eraser width:"
+msgstr "消しゴムの幅:"
+
+msgid "Line width:"
+msgstr "線の幅:"
+
 #~ msgid "cleanup"
 #~ msgstr "きれいにする"
 
@@ -1408,12 +1428,6 @@ msgstr ""
 
 #~ msgid "Microphone Volume:"
 #~ msgstr "マイクの音量:"
-
-#~ msgid "Eraser width:"
-#~ msgstr "消しゴムの幅:"
-
-#~ msgid "Line width:"
-#~ msgstr "線の幅:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "真偽値の引数を追加:"
@@ -1450,14 +1464,3 @@ msgstr ""
 
 #~ msgid "New sound"
 #~ msgstr "新しい音"
-
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>クラウド変数について</b><br>&nbsp;<br>現在、数値のみがサポートされています<br>チャットルームの作成は許可されていないため、削除"
-#~ "されます<br>詳細な情報は <a href= target=>クラウドデータに関するFAQを読んでください！</a>"
-
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "「直ちに保存」をクリックして再試行するか、「ダウンロード」で保存してください"

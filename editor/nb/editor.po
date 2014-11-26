@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:46+0000\n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
 "PO-Revision-Date: 2014-05-28 23:32+0000\n"
 "Last-Translator: Torbjorn <torbjorn.skauli@ffi.no>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -952,6 +952,9 @@ msgstr "Nytt navn"
 msgid "rename variable"
 msgstr "gi nytt navn til variabel"
 
+msgid "Replace existing project"
+msgstr ""
+
 msgid "requires sign in"
 msgstr "krever innlogging"
 
@@ -1219,7 +1222,7 @@ msgstr "Tekst"
 msgid "that way"
 msgstr "mot klokken"
 
-msgid "The name is already is use."
+msgid "The name is already in use."
 msgstr ""
 
 msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
@@ -1431,6 +1434,24 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+"For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Informasjon om nettdata</b><br>&nbsp;<br>Inntil videre er det bare mulig "
+"å lagre tall<br>Chat-funksjoner er ikke tillatt og vil bli slettet<br>For "
+"mer informasjon, se <a href= target=>spørsmål og svar om nettdata!</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "Klikk  for å prøve igjen eller  for å lagre"
+
+msgid "Eraser width:"
+msgstr "Viskelærbredde:"
+
+msgid "Line width:"
+msgstr "Linjebredde:"
+
 #~ msgid "cleanup"
 #~ msgstr "rydd opp"
 
@@ -1439,12 +1460,6 @@ msgstr ""
 
 #~ msgid "Microphone Volume:"
 #~ msgstr "Mikrofonfølsomhet:"
-
-#~ msgid "Eraser width:"
-#~ msgstr "Viskelærbredde:"
-
-#~ msgid "Line width:"
-#~ msgstr "Linjebredde:"
 
 #, fuzzy
 #~ msgid "Add a boolean input:"
@@ -1596,15 +1611,3 @@ msgstr ""
 
 #~ msgid "Short Guiro"
 #~ msgstr "Kort Guiro"
-
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Informasjon om nettdata</b><br>&nbsp;<br>Inntil videre er det bare mulig "
-#~ "å lagre tall<br>Chat-funksjoner er ikke tillatt og vil bli slettet<br>For "
-#~ "mer informasjon, se <a href= target=>spørsmål og svar om nettdata!</a>"
-
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "Klikk  for å prøve igjen eller  for å lagre"

@@ -3,16 +3,17 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-07-25 19:13+0200\n"
+"PO-Revision-Date: 2014-07-25 19:13+0000\n"
 "Last-Translator: Григорій <ggromko@mail.ru>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
-"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Pootle 2.1.6\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1406315621.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -570,17 +571,18 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2014-07-10 17:07+0200\n"
+"POT-Creation-Date: 2014-11-23 12:48+0000\n"
+"PO-Revision-Date: 2014-07-10 17:07+0000\n"
 "Last-Translator: Григорій <ggromko@mail.ru>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%"
-"10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Pootle 2.1.6\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1405012024.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -597,6 +599,9 @@ msgstr "А приєднано"
 
 msgid "a copy of the project file on your computer."
 msgstr "копія файлу проекту на вашому комп'ютері."
+
+msgid "A newer version of Scratch is available"
+msgstr ""
 
 msgid "About"
 msgstr "Про програму"
@@ -616,6 +621,9 @@ msgstr "Налаштування облікового запису"
 msgid "acos"
 msgstr "acos"
 
+msgid "Add"
+msgstr ""
+
 msgid "Add an Extension"
 msgstr "Додати як Розширення"
 
@@ -625,6 +633,9 @@ msgstr "Ввести логічне значення:"
 
 msgid "add comment"
 msgstr "додати коментар"
+
+msgid "add comment here..."
+msgstr ""
 
 msgid "Add label text:"
 msgstr "Додати текст мітки:"
@@ -637,11 +648,11 @@ msgstr "Ввести число:"
 msgid "Add string input:"
 msgstr "Ввести рядок:"
 
-msgid "All"
-msgstr "Все"
-
 msgid "all"
 msgstr "все"
+
+msgid "All"
+msgstr "Все"
 
 msgid "all around"
 msgstr "навколо"
@@ -671,13 +682,13 @@ msgid "Back a layer"
 msgstr "Позаду шару"
 
 # 88%
+msgid "backdrop"
+msgstr "тло"
+
+# 88%
 # 87%
 msgid "Backdrop"
 msgstr "Тло"
-
-# 88%
-msgid "backdrop"
-msgstr "тло"
 
 msgid "backdrop #"
 msgstr "тло #"
@@ -713,9 +724,9 @@ msgstr "Фагот"
 
 msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
 msgstr ""
-"Оскільки ви є новим членом спільноти, то будь-які зміни в \"хмарних\" даних не "
-"будуть збережені. Приймайте участь у роботі спільноти на сайті і ви зможете "
-"використовувати \"хмарні\" дані!"
+"Оскільки ви є новим членом спільноти, то будь-які зміни в \"хмарних\" даних "
+"не будуть збережені. Приймайте участь у роботі спільноти на сайті і ви "
+"зможете використовувати \"хмарні\" дані!"
 
 msgid "Bitmap"
 msgstr "Растр"
@@ -765,6 +776,9 @@ msgstr "можна перетягувати в плеєрі:"
 msgid "Cancel"
 msgstr "Скасувати"
 
+msgid "Cannot Add"
+msgstr ""
+
 msgid "Cannot Delete"
 msgstr "Не можу видалити"
 
@@ -782,6 +796,9 @@ msgstr "більше ціле"
 
 msgid "Cello"
 msgstr "Віолончель"
+
+msgid "Check for updates"
+msgstr ""
 
 msgid "Choir"
 msgstr "Хор"
@@ -810,7 +827,8 @@ msgstr "Кларнет"
 msgid "Claves"
 msgstr "Клавесин"
 
-msgid "cleanup"
+#, fuzzy
+msgid "clean up"
 msgstr "впорядкувати"
 
 msgid "Clear"
@@ -833,6 +851,9 @@ msgstr "Хмарна"
 
 msgid "Cloud data"
 msgstr "Хмарні дані"
+
+msgid "Cloud variable (stored on server)"
+msgstr ""
 
 msgid "color"
 msgstr "колір"
@@ -894,6 +915,9 @@ msgstr "Образи > 1"
 msgid "Costumes:"
 msgstr "Образи:"
 
+msgid "Could not retrieve new application from server."
+msgstr ""
+
 msgid "Cowbell"
 msgstr "Дзвіночок"
 
@@ -918,12 +942,12 @@ msgstr "дата"
 msgid "day of week"
 msgstr "день тижня"
 
+msgid "delete"
+msgstr "вилучити"
+
 # 83%
 msgid "Delete"
 msgstr "Вилучити"
-
-msgid "delete"
-msgstr "вилучити"
 
 msgid "delete variable"
 msgstr "вилучити змінну"
@@ -938,6 +962,9 @@ msgstr "напрямок:"
 msgid "don't rotate"
 msgstr "не обертати"
 
+msgid "Don't save"
+msgstr ""
+
 msgid "down"
 msgstr "вниз"
 
@@ -949,6 +976,9 @@ msgstr "Завантаження"
 
 msgid "Download to your computer"
 msgstr "Зберегти на ваш комп’ютер"
+
+msgid "Downloading new version"
+msgstr ""
 
 msgid "duplicate"
 msgstr "дублювати"
@@ -962,11 +992,11 @@ msgstr "e ^"
 msgid "edge"
 msgstr "межа"
 
-msgid "edit"
-msgstr "правка"
-
 msgid "Edit"
 msgstr "Правка"
+
+msgid "edit"
+msgstr "правка"
 
 msgid "Edit Block"
 msgstr "Змінити блок"
@@ -986,8 +1016,14 @@ msgstr "Електроніка"
 msgid "Ellipse"
 msgstr "Овал"
 
+msgid "empty"
+msgstr ""
+
 msgid "Erase"
 msgstr "Очистити"
+
+msgid "Erase all"
+msgstr ""
 
 # 92%
 msgid "Eraser width"
@@ -1013,6 +1049,9 @@ msgstr "посилювати"
 
 msgid "fade out"
 msgstr "слабшати"
+
+msgid "false"
+msgstr ""
 
 msgid "Fantasy"
 msgstr "Фантазії"
@@ -1080,11 +1119,27 @@ msgstr "Плескіт долонь"
 msgid "Hardware"
 msgstr "Обладнання"
 
+msgid "help"
+msgstr ""
+
+msgid "Hello!"
+msgstr ""
+
+msgid "Hmm..."
+msgstr ""
+
+#, fuzzy
+msgid "hello"
+msgstr "Віолончель"
+
 msgid "hide"
 msgstr "сховати"
 
 msgid "High C"
 msgstr "Високий С"
+
+msgid "Holiday"
+msgstr ""
 
 msgid "hour"
 msgstr "година"
@@ -1126,11 +1181,11 @@ msgstr "стрілка ліворуч"
 msgid "left-right"
 msgstr "ліворуч-праворуч"
 
-msgid "LEGO WeDo"
-msgstr "LEGO WeDo"
-
 msgid "length"
 msgstr "довжина"
+
+msgid "Letters"
+msgstr ""
 
 msgid "Library"
 msgstr "Бібліотека"
@@ -1201,7 +1256,8 @@ msgstr "Ім’я повідомлення"
 msgid "message1"
 msgstr "повідомлення1"
 
-msgid "Microphone Volume:"
+#, fuzzy
+msgid "Microphone volume:"
 msgstr "Гучність мікрофона:"
 
 msgid "Middle C"
@@ -1265,6 +1321,9 @@ msgstr "Нове тло з камери "
 msgid "New backdrop:"
 msgstr "Нове тло:"
 
+msgid "New Block"
+msgstr ""
+
 msgid "New costume from camera"
 msgstr "Новий образ із камери"
 
@@ -1274,6 +1333,9 @@ msgstr "Новий образ:"
 
 msgid "New List"
 msgstr "Новий список"
+
+msgid "New Message"
+msgstr ""
 
 msgid "new message..."
 msgstr "нове повідомлення"
@@ -1293,6 +1355,9 @@ msgstr "Новий спрайт:"
 
 msgid "New Variable"
 msgstr "Нова змінна"
+
+msgid "next backdrop"
+msgstr ""
 
 msgid "No motion blocks"
 msgstr "Немає блоків руху"
@@ -1327,6 +1392,9 @@ msgstr "Увімкн"
 msgid "on-flipped"
 msgstr "перевернуто"
 
+msgid "Open"
+msgstr ""
+
 msgid "Open Cuica"
 msgstr "Відкрита куїка"
 
@@ -1346,6 +1414,9 @@ msgstr "Інші"
 msgid "other scripts in sprite"
 msgstr "інші скрипти цього спрайту"
 
+msgid "other scripts in stage"
+msgstr "інші скрипти"
+
 msgid "Outdoors"
 msgstr "Поза приміщенням"
 
@@ -1357,6 +1428,12 @@ msgstr "Малювати новий образ"
 
 msgid "Paint new sprite"
 msgstr "Малювати новий спрайт"
+
+msgid "Password"
+msgstr ""
+
+msgid "Password is required"
+msgstr ""
 
 msgid "paste"
 msgstr "вставити"
@@ -1389,6 +1466,9 @@ msgstr "Піцикато"
 msgid "pop"
 msgstr "поп"
 
+msgid "previous backdrop"
+msgstr ""
+
 msgid "Profile"
 msgstr "Профіль"
 
@@ -1398,6 +1478,12 @@ msgstr "Проект не завантажено."
 msgid "Project not saved!"
 msgstr "Проект не збережено!"
 
+msgid "Project name"
+msgstr ""
+
+msgid "Project name is required"
+msgstr ""
+
 msgid "random"
 msgstr "випадково"
 
@@ -1406,6 +1492,9 @@ msgstr "Запис"
 
 msgid "Record new sound"
 msgstr "Записати новий звук"
+
+msgid "record..."
+msgstr ""
 
 msgid "recording1"
 msgstr "запис1"
@@ -1477,11 +1566,20 @@ msgstr "Виконання без оновлення екрану"
 msgid "Save"
 msgstr "Зберегти"
 
+msgid "Save a copy of this project and add your own ideas."
+msgstr ""
+
+msgid "Save as"
+msgstr ""
+
 msgid "Save as a copy"
 msgstr "Зберегти як копію"
 
 msgid "Save now"
 msgstr "Зберегти негайно"
+
+msgid "Save project?"
+msgstr ""
 
 msgid "save to local file"
 msgstr "зберегти в локальний файл"
@@ -1497,6 +1595,12 @@ msgstr "Збереження..."
 
 msgid "Saxophone"
 msgstr "Саксофон"
+
+msgid "Scratch Updater"
+msgstr ""
+
+msgid "Scratch 2.0 Offline Editor"
+msgstr ""
 
 # 85%
 msgid "Script"
@@ -1532,11 +1636,11 @@ msgstr "Обрати і дублювати"
 msgid "Send to back"
 msgstr "Перемістити назад"
 
-# 88%
-msgid "Set costume center"
+msgid "Set Costume Center"
 msgstr "Встановити центр образу"
 
-msgid "Set Costume Center"
+# 88%
+msgid "Set costume center"
 msgstr "Встановити центр образу"
 
 msgid "set slider min and max"
@@ -1544,6 +1648,12 @@ msgstr "встановити найменше та найбільше значе
 
 msgid "Share"
 msgstr "Поділитись"
+
+msgid "Share to website"
+msgstr ""
+
+msgid "Share to Scratch website"
+msgstr ""
 
 msgid "shared"
 msgstr "опубліковано"
@@ -1618,12 +1728,12 @@ msgstr "Бібліотека звуків"
 msgid "Sounds"
 msgstr "Звуки"
 
-msgid "space"
-msgstr "пропуск"
-
 # 80%
 msgid "Space"
 msgstr "Космос"
+
+msgid "space"
+msgstr "пропуск"
 
 msgid "Sports"
 msgstr "Спорт"
@@ -1673,11 +1783,21 @@ msgstr "Тамбурин"
 msgid "tan"
 msgstr "tan"
 
+#, fuzzy
+msgid "text"
+msgstr "Текст"
+
 msgid "Text"
 msgstr "Текст"
 
 msgid "that way"
 msgstr "туди"
+
+msgid "The name is already is use."
+msgstr ""
+
+msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgstr ""
 
 msgid "Theme"
 msgstr "Тема"
@@ -1685,10 +1805,16 @@ msgstr "Тема"
 msgid "Things"
 msgstr "Речі"
 
+msgid "thing"
+msgstr ""
+
+msgid "This is the current version."
+msgstr ""
+
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
 msgstr ""
-"Цей проект може виявити, хто його використовує через блок \"користувач\". Щоб "
-"приховати вашу особистість, вийдіть перед використанням проекту."
+"Цей проект може виявити, хто його використовує через блок \"користувач\". "
+"Щоб приховати вашу особистість, вийдіть перед використанням проекту."
 
 msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
 msgstr ""
@@ -1725,6 +1851,9 @@ msgstr "Трикутник"
 msgid "Trombone"
 msgstr "Тромбон"
 
+msgid "true"
+msgstr ""
+
 # 90%
 msgid "Turbo mode"
 msgstr "Режим Турбо"
@@ -1742,12 +1871,12 @@ msgstr "Відновити"
 msgid "Underwater"
 msgstr "Під водою"
 
+msgid "undo"
+msgstr "скасувати"
+
 # 75%
 msgid "Undo"
 msgstr "Скасувати"
-
-msgid "undo"
-msgstr "скасувати"
 
 msgid "Undo Revert"
 msgstr "Скасувати обертання"
@@ -1763,6 +1892,15 @@ msgstr "вгору"
 
 msgid "up arrow"
 msgstr "стрілка вгору"
+
+msgid "Update failed"
+msgstr ""
+
+msgid "Update not needed"
+msgstr ""
+
+msgid "Update now"
+msgstr ""
 
 msgid "Upload backdrop from file"
 msgstr "Завантажити тло з файлу"
@@ -1806,6 +1944,9 @@ msgstr "Вібрафон"
 msgid "Vibraslap"
 msgstr "Вібруючий слеп"
 
+msgid "video direction"
+msgstr ""
+
 msgid "video motion"
 msgstr "відео руху"
 
@@ -1827,6 +1968,9 @@ msgstr "Хочете зберегти? Натисніть Ремікс"
 msgid "Which column do you want to import"
 msgstr "Який стовбець ви хочете імпортувати"
 
+msgid "What's your name?"
+msgstr ""
+
 msgid "whirl"
 msgstr "обертання"
 
@@ -1835,6 +1979,9 @@ msgstr "Дерев’яна коробка"
 
 msgid "Wooden Flute"
 msgstr "Дерев’яна флейта"
+
+msgid "world"
+msgstr ""
 
 msgid "x position"
 msgstr "х позиція"
@@ -1850,11 +1997,26 @@ msgstr ""
 "Ви не можете редагувати хмарні дані в чужих проектах.<br>Будь-які зміни, які "
 "ви робите в редакторі будуть тимчасовими, а не постійними."
 
-msgid "Eraser width:"
-msgstr "Розмір гумки:"
+msgid "Your Scratch name"
+msgstr ""
 
-msgid "Line width:"
-msgstr "Ширина лінії:"
+msgid "Your Scratch name is required"
+msgstr ""
+
+#~ msgid "cleanup"
+#~ msgstr "впорядкувати"
+
+#~ msgid "LEGO WeDo"
+#~ msgstr "LEGO WeDo"
+
+#~ msgid "Microphone Volume:"
+#~ msgstr "Гучність мікрофона:"
+
+#~ msgid "Eraser width:"
+#~ msgstr "Розмір гумки:"
+
+#~ msgid "Line width:"
+#~ msgstr "Ширина лінії:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Додати введення логічного значення:"
@@ -2002,11 +2164,21 @@ msgstr "Ширина лінії:"
 #~ msgid "Open Triangle"
 #~ msgstr "Відкритий трикутник"
 
-#~ msgid "other scripts in stage"
-#~ msgstr "інші скрипти"
-
 #~ msgid "Pedal Hi-Hat"
 #~ msgstr "Хет (педаллю)"
 
 #~ msgid "Short Guiro"
 #~ msgstr "Коротке ґуїро"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Інформація про \"хмарні\" змінні</b>&nbsp;<br>В даний час підтримуються "
+#~ "тільки числові змінні<br>Чати не допускаються, і будуть видалятись<br>Для "
+#~ "отримання додаткової інформації <a href= target=>див. Запитання по хмарним "
+#~ "змінним!</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Натисніть  , щоб спробувати ще раз, або   щоб зберегти"

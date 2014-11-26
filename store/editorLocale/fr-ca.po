@@ -3,166 +3,167 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-07-10 22:52+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
+"PO-Revision-Date: 2012-12-06 23:36+0000\n"
+"Last-Translator: adlogi <adlogi@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ote\n"
+"Language: fr_CA\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1405032767.000000\n"
+"X-POOTLE-MTIME: 1354837017.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
-msgstr "Hnahnu"
+msgstr "Français (Canada)"
 
 msgid "%b and %b"
-msgstr "%b ne %b"
+msgstr "%b et %b"
 
 msgid "%b or %b"
-msgstr "%b o %b"
+msgstr "%b ou %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
-msgstr "%m.attribute de %m.spriteOrStage"
+msgstr "valeur %m.attribute de %m.spriteOrStage"
 
 msgid "%m.list contains %s"
-msgstr "%m.list petsi %s"
+msgstr "%m.list contient %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp de %n"
 
 msgid "%m.sensor sensor value"
-msgstr "%m.sensor muhui ra nthomli"
+msgstr "valeur du capteur %m.sensor"
 
 msgid "%n mod %n"
 msgstr "%n mod %n"
 
 msgid "add %s to %m.list"
-msgstr "%s 'ñetsi %m.list"
+msgstr "ajouter %s à %m.list"
 
 msgid "answer"
-msgstr "nthädi"
+msgstr "réponse"
 
 msgid "ask %s and wait"
-msgstr "ñahni %s ne t'omi"
+msgstr "demander %s et attendre"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 #, fuzzy
 msgid "backdrop #"
-msgstr "hñe #"
+msgstr "fond n°"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
 msgid "backdrop name"
-msgstr ""
+msgstr "nom du fond"
 
 msgid "broadcast %m.broadcast"
-msgstr "ga'tho pehni %m.broadcast"
+msgstr "envoyer à tous %m.broadcast"
 
 msgid "broadcast %m.broadcast and wait"
-msgstr "pehni ga'tho %m.broadcast ne to'm'"
+msgstr "envoyer à tous %m.broadcast et attendre"
 
 msgid "change %m.effect effect by %n"
-msgstr "pata %m.effect rak'oi ko ra %n"
+msgstr "modifier l’effet %m.effect par %n"
 
 msgid "change %m.var by %n"
-msgstr "pati %m.var kora %n"
+msgstr "à %m.var ajouter %n"
 
 msgid "change pen color by %n"
-msgstr "pati ra kuhu ra nt'ohni %n"
+msgstr "modifier la couleur du stylo par %n"
 
 msgid "change pen shade by %n"
-msgstr "pata ra ntsedi ra nt'ohni ko ra %n"
+msgstr "modifier l'intensité du stylo par %n"
 
 msgid "change pen size by %n"
-msgstr "pata ra ndangi ra nt'ohni ko ra %n"
+msgstr "modifier la taille du stylo par %n"
 
 msgid "change size by %n"
-msgstr "pata ra ndangi ko ra %n"
+msgstr "modifier la taille par %n"
 
 msgid "change tempo by %n"
-msgstr "pata ra yaä ko ra %n"
+msgstr "modifier le tempo par %n"
 
 msgid "change volume by %n"
-msgstr "pata ra ntedi nzuni ko ra %n"
+msgstr "modifier le volume par %n"
 
 msgid "change x by %n"
-msgstr "pata ra x ko ra %n"
+msgstr "modifier x par %n"
 
 msgid "change y by %n"
-msgstr "pata ra y ko ra %n"
+msgstr "modifier y par %n"
 
 msgid "clear"
-msgstr "put'i"
+msgstr "effacer tout"
 
 msgid "clear graphic effects"
-msgstr "hñki ra k'oi"
+msgstr "annuler les effets graphiques"
 
 msgid "color %c is touching %c?"
-msgstr "¿kuhu %c k'oi %c?"
+msgstr "couleur %c touche %c?"
 
 msgid "Control"
-msgstr "bepi"
+msgstr "Contrôle"
 
 msgid "costume #"
-msgstr "# hmite"
+msgstr "costume n°"
 
 msgid "create clone of %m.spriteOnly"
-msgstr ""
+msgstr "créer un clone de %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
-msgstr ""
+msgstr "courant %m.timeAndDate"
 
 msgid "Data"
-msgstr ""
+msgstr "Données"
 
 msgid "days since 2000"
 msgstr ""
 
 msgid "define"
-msgstr ""
+msgstr "définir"
 
 msgid "delete %d.listDeleteItem of %m.list"
-msgstr "put'i %d.listDeleteItem kora %m.list"
+msgstr "supprimer %d.listDeleteItem de %m.list"
 
 msgid "delete this clone"
-msgstr ""
+msgstr "supprimer ce clone"
 
 msgid "direction"
-msgstr "njuani"
+msgstr "direction"
 
 msgid "distance"
-msgstr ""
+msgstr "distance"
 
 msgid "distance to %m.spriteOrMouse"
-msgstr "magi %m.spriteOrMouse"
+msgstr "distance de %m.spriteOrMouse"
 
 msgid "else"
-msgstr "ma r'a, ne ma r'a"
+msgstr "sinon"
 
 msgid "Events"
-msgstr ""
+msgstr "Événements"
 
 msgid "forever"
-msgstr "nzantho"
+msgstr "répéter indéfiniment"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr "'yoni %n ya a x:%n y:%n"
+msgstr "glisser en %n secondes à x:%n y:%n"
 
 msgid "go back %n layers"
-msgstr "pehna hara %n xutha"
+msgstr "déplacer de %n plans arrière"
 
 msgid "go to %m.spriteOrMouse"
-msgstr "ri ma ni %m.spriteOrMouse"
+msgstr "aller vers %m.spriteOrMouse"
 
 msgid "go to front"
-msgstr "pehni met'o"
+msgstr "envoyer au premier plan"
 
 msgid "go to x:%n y:%n"
-msgstr "ri ma x:%n y:%n"
+msgstr "aller vers x:%n y:%n"
 
 msgid "hide"
-msgstr "ägi"
+msgstr "cacher"
 
 msgid "hide list %m.list"
 msgstr ""
@@ -174,186 +175,186 @@ msgid "if %b then"
 msgstr ""
 
 msgid "if on edge, bounce"
-msgstr "rotsi 'bu da zudi ra ñani"
+msgstr "rebondir si le bord est atteint"
 
 msgid "insert %s at %d.listItem of %m.list"
-msgstr "rut'i %s hara %d.listItem %L"
+msgstr "insérer %s à %d.listItem de %m.list"
 
 msgid "item %d.listItem of %m.list"
-msgstr "item %d.listItem kora %m.list"
+msgstr "item %d.listItem de %m.list"
 
 msgid "join %s %s"
-msgstr "muntsi, hñetsi %s %s"
+msgstr "joindre %s %s"
 
 msgid "key %m.key pressed?"
-msgstr "¿ntho %m.key`mi?"
+msgstr "touche %m.key pressée?"
 
 msgid "length of %m.list"
-msgstr "magi ka ra %m.list"
+msgstr "taille de %m.list"
 
 msgid "length of %s"
-msgstr "magi ka ra %s"
+msgstr "taille de %s"
 
 msgid "letter %n of %s"
-msgstr ""
+msgstr "lettre %n de %s"
 
 msgid "Looks"
-msgstr "hneki"
+msgstr "Apparence"
 
 msgid "loudness"
-msgstr "ra tsedi nzuni"
+msgstr "volume sonore"
 
 msgid "More Blocks"
-msgstr ""
+msgstr "Plus de blocs"
 
 msgid "Motion"
-msgstr "'ñani"
+msgstr "Mouvement"
 
 msgid "mouse down?"
-msgstr "¿ntho'mi dangu?"
+msgstr "souris pressée?"
 
 msgid "mouse x"
-msgstr "x ra dangu"
+msgstr "souris x"
 
 msgid "mouse y"
-msgstr "y ra dangu"
+msgstr "souris y"
 
 msgid "move %n steps"
-msgstr "ñ'ani %n hnet'i"
+msgstr "avancer de %n pas"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 #, fuzzy
 msgid "next backdrop"
-msgstr "ma n'a ra 'mebo"
+msgstr "fond suivant"
 
 msgid "next costume"
-msgstr "man'ga hmite"
+msgstr "costume suivant"
 
 msgid "not %b"
-msgstr "hina %b"
+msgstr "non %b"
 
 msgid "Operators"
-msgstr "ya tsoge"
+msgstr "Opérateurs"
 
 msgid "Pen"
-msgstr "nt'ohni"
+msgstr "Stylo"
 
 msgid "pen down"
-msgstr "ka'ma ra nt'ohni"
+msgstr "abaisser le stylo"
 
 msgid "pen up"
-msgstr "pots'e ra nt'ohni"
+msgstr "relever le stylo"
 
 msgid "pick random %n to %n"
-msgstr "ra thonga 'mede ha ma %n r'ga %n"
+msgstr "nombre aléatoire entre %n et %n"
 
 msgid "play drum %d.drum for %n beats"
-msgstr "pei bi'xfani %d.drum ha ra %n n'ohñi"
+msgstr "jouer le tambour %d.drum pour %n temps"
 
 # 83%
 #, fuzzy
 msgid "play note %d.note for %n beats"
-msgstr "pei ra nzuni %d.note hara %n n'ohni"
+msgstr "jouer la note %d.note pour %n temps"
 
 msgid "play sound %m.sound"
-msgstr "pei nzuni %m.sound"
+msgstr "jouer le son %m.sound"
 
 msgid "play sound %m.sound until done"
-msgstr "pei nzuni %m.sound ne tom'i"
+msgstr "jouer le son %m.sound complètement"
 
 msgid "point in direction %d.direction"
-msgstr "ät'i ma njuäni %d.direction"
+msgstr "pointer en direction %d.direction"
 
 msgid "point towards %m.spriteOrMouse"
-msgstr "ät'i ri mani %m.spriteOrMouse"
+msgstr "pointer vers %m.spriteOrMouse"
 
 msgid "repeat %n"
-msgstr "yopi %n"
+msgstr "répéter %n fois"
 
 msgid "repeat until %b"
-msgstr "yopi %b"
+msgstr "répéter jusqu’à %b"
 
 msgid "replace item %d.listItem of %m.list with %s"
-msgstr "patui %d.listItem ko %m.list ra %s"
+msgstr "remplacer %d.listItem de %m.list avec %s"
 
 msgid "reset timer"
-msgstr "'yo pa fudi"
+msgstr "réinitialiser le chronomètre"
 
 msgid "rest for %n beats"
-msgstr "kota %n n'ohni"
+msgstr "faire une pause de %n temps"
 
 msgid "round %n"
-msgstr "'bampi %n"
+msgstr "arrondir %n"
 
 msgid "say %s"
-msgstr "ma %s"
+msgstr "dire %s"
 
 msgid "say %s for %n secs"
-msgstr "t'uka %s hma %n"
+msgstr "dire %s pendant %n secondes"
 
 msgid "Sensing"
-msgstr "nthom'i"
+msgstr "Capteurs"
 
 msgid "sensor %m.booleanSensor?"
-msgstr "¿zora nthom'i%m.booleanSensor?"
+msgstr "capteur %m.booleanSensor activé?"
 
 msgid "set %m.effect effect to %n"
-msgstr "hñutsi %m.effect k'oi ha %n"
+msgstr "mettre l’effet %m.effect à %n"
 
 msgid "set %m.var to %s"
-msgstr "hñuts'i %m.var ha %n"
+msgstr "à %m.var attribuer %n"
 
 msgid "set instrument to %d.instrument"
-msgstr "hñuts'i ya mpefi ha %d.instrument"
+msgstr "mettre l'instrument à %d.instrument"
 
 # 89%
 # 86%
 # 97%
 #, fuzzy
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "ra nguni ra moto %m.motorDirection"
+msgstr "direction du moteur %m.motorDirection"
 
 # 77%
 # 75%
 #, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "ra tsedi ra moto %n"
+msgstr "force du moteur %n"
 
 msgid "set pen color to %c"
-msgstr "hñuts'i ra kuhu nt'ohni ha %c"
+msgstr "mettre la couleur du stylo à %c"
 
 msgid "set pen color to %n"
-msgstr "hñuts'i ra kuhu nt'ohni ha %c"
+msgstr "mettre la couleur du stylo à %c"
 
 msgid "set pen shade to %n"
-msgstr "hñuts'i nstedi nt'ohni ha %n"
+msgstr "mettre l'intensité du stylo à %n"
 
 msgid "set pen size to %n"
-msgstr "hñuts'i ra ndangi nt'ohni ha %n"
+msgstr "mettre la taille du stylo à %n"
 
 msgid "set rotation style %m.rotationStyle"
 msgstr ""
 
 msgid "set size to %n%"
-msgstr "hñuts'i ra ndangi ha ra n %n%"
+msgstr "mettre la taille à %n%"
 
 msgid "set tempo to %n bpm"
-msgstr "hñuts'i ra ya a %n ppm"
+msgstr "mettre le tempo à %n bpm"
 
 msgid "set video transparency to %n%"
-msgstr ""
+msgstr "mettre la transparence vidéo à %n%"
 
 msgid "set volume to %n%"
-msgstr "hñuts'i ra tsedi nzuni a %n%"
+msgstr "mettre le volume à %n%"
 
 msgid "set x to %n"
-msgstr "hñuts'i x ha %n"
+msgstr "mettre x à %n"
 
 msgid "set y to %n"
-msgstr "hñuts'i y ha %n"
+msgstr "mettre y à %n"
 
 msgid "show"
-msgstr "'ñudi"
+msgstr "montrer"
 
 msgid "show list %m.list"
 msgstr ""
@@ -362,57 +363,59 @@ msgid "show variable %m.var"
 msgstr ""
 
 msgid "size"
-msgstr "ndangi"
+msgstr "taille"
 
 msgid "Sound"
-msgstr "nzuni"
+msgstr "Sons"
 
 msgid "stamp"
-msgstr "nthuts'i "
+msgstr "estampiller"
 
 msgid "stop %m.stop"
-msgstr ""
+msgstr "arrêter %m.stop"
 
 msgid "stop all sounds"
-msgstr "tsama ya nzuni"
+msgstr "arrêter tous les sons"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
 msgid "switch backdrop to %m.backdrop"
-msgstr ""
+msgstr "changer le fond à %m.backdrop"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr ""
+msgstr "changer le fond à %m.backdrop et attendre"
 
 msgid "switch costume to %m.costume"
-msgstr ""
+msgstr "changer le costume à %m.costume"
 
 msgid "tempo"
-msgstr "ya ä"
+msgstr "tempo"
 
 msgid "think %s"
-msgstr "beni %s"
+msgstr "penser à %s"
 
 msgid "think %s for %n secs"
-msgstr "beni %s n'a %n tuki"
+msgstr "penser à %s pendant %n secondes"
 
 msgid "tilt"
-msgstr ""
+msgstr "incliner"
 
 msgid "timer"
-msgstr "'yenga ya ä"
+msgstr "chronomètre"
 
 msgid "touching %m.touching?"
-msgstr "¿gi thuni%m.touching?"
+msgstr "%m.touching touché?"
 
 msgid "touching color %c?"
-msgstr "¿gi thuni ra kuhu%c?"
+msgstr "couleur %c touchée?"
 
 msgid "turn @turnLeft %n degrees"
-msgstr ""
+msgstr "tourner @turnLeft %n degrés"
 
 msgid "turn @turnRight %n degrees"
-msgstr ""
+msgstr "tourner @turnRight %n degrés"
 
 msgid "turn %m.motor off"
 msgstr ""
@@ -424,33 +427,33 @@ msgstr ""
 # 89%
 #, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr "nzäge ra moto ra %n yä'ä"
+msgstr "moteur actif durant %n secondes"
 
 msgid "turn video %m.videoState"
-msgstr ""
+msgstr "changer la vidéo %m.videoState"
 
 msgid "username"
 msgstr ""
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr ""
+msgstr "vidéo %m.videoMotionType sur %m.stageOrThis"
 
 msgid "volume"
-msgstr "Potsue / ndängi"
+msgstr "volume"
 
 msgid "wait %n secs"
-msgstr "Tom’ä n’a %n tuki"
+msgstr "attendre %n secondes"
 
 msgid "wait until %b"
-msgstr "Tom’i dä %b"
+msgstr "attendre jusqu’à %b"
 
 # 75%
 #, fuzzy
 msgid "when %m.booleanSensor"
-msgstr "¿zora nthom'i%m.booleanSensor?"
+msgstr "capteur %m.booleanSensor activé?"
 
 msgid "when %m.key key pressed"
-msgstr "Ngu gi %m.key tom’ä ha rä t’ohni"
+msgstr "quand %m.key est pressée"
 
 msgid "when %m.sensor %m.lessMore %n"
 msgstr ""
@@ -459,17 +462,18 @@ msgid "when %m.triggerSensor > %n"
 msgstr ""
 
 msgid "when @greenFlag clicked"
-msgstr "Ngu gi @greenFlag tom’i"
+msgstr "quand @greenFlag pressé"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
 msgid "when backdrop switches to %m.backdrop"
-msgstr ""
+msgstr "quand le fond change à"
 
 msgid "when distance %m.lessMore %n"
 msgstr ""
 
 msgid "when I receive %m.broadcast"
-msgstr ""
+msgstr "quand je reçois %m.broadcast"
 
 msgid "when I start as a clone"
 msgstr ""
@@ -484,20 +488,20 @@ msgid "when tilt %m.eNe %n"
 msgstr ""
 
 msgid "x position"
-msgstr "Ra hñuts’i x"
+msgstr "position x"
 
 msgid "y position"
-msgstr "Ra hñuts’i y"
+msgstr "position y"
 
 # 89%
 #, fuzzy
 msgid "set motor direction %m.motorDirection"
-msgstr "ra nguni ra moto %m.motorDirection"
+msgstr "direction du moteur %m.motorDirection"
 
 # 77%
 #, fuzzy
 msgid "set motor power %n"
-msgstr "ra tsedi ra moto %n"
+msgstr "force du moteur %n"
 
 msgid "turn motor off"
 msgstr ""
@@ -508,7 +512,7 @@ msgstr ""
 # 80%
 #, fuzzy
 msgid "turn motor on for %n secs"
-msgstr "nzäge ra moto ra %n yä'ä"
+msgstr "moteur actif durant %n secondes"
 
 msgid "when distance < %n"
 msgstr ""
@@ -520,31 +524,52 @@ msgstr ""
 # 86%
 #, fuzzy
 #~ msgid "set %m.motor direction to %m.motorDirection"
-#~ msgstr "ra nguni ra moto %m.motorDirection"
+#~ msgstr "direction du moteur %m.motorDirection"
+
+#~ msgid "user id"
+#~ msgstr "identifiant"
+
+#~ msgid "clone startup"
+#~ msgstr "cloner le démarrage"
 
 #~ msgid "forever if %b"
-#~ msgstr "b'u nzantho %b"
+#~ msgstr "répéter indéfiniment si %b"
+
+#~ msgid "hide all sprites"
+#~ msgstr "cacher tous les lutins"
 
 #~ msgid "if %b"
-#~ msgstr "haha %b"
+#~ msgstr "si %b"
+
+#~ msgid "Scratch days"
+#~ msgstr "Journée Scratch"
+
+#~ msgid "hide monitor %m.varOrList"
+#~ msgstr "cacher le moniteur %m.varOrList"
 
 #~ msgid "motor direction %m.motorDirection"
-#~ msgstr "ra nguni ra moto %m.motorDirection"
+#~ msgstr "direction du moteur %m.motorDirection"
 
 #~ msgid "motor off"
-#~ msgstr "theti ra moto"
+#~ msgstr "moteur inactif"
 
 #~ msgid "motor on"
-#~ msgstr "nzage ra moto"
+#~ msgstr "moteur actif"
 
 #~ msgid "motor on for %n secs"
-#~ msgstr "nzäge ra moto ra %n yä'ä"
+#~ msgstr "moteur actif durant %n secondes"
 
 #~ msgid "motor power %n"
-#~ msgstr "ra tsedi ra moto %n"
+#~ msgstr "force du moteur %n"
 
 #~ msgid "play note %n for %n beats"
-#~ msgstr "pei ra nzuni %d.note hara %n n'ohni"
+#~ msgstr "jouer la note %d.note pour %n temps"
+
+#~ msgid "show monitor %m.varOrList"
+#~ msgstr "afficher le moniteur %m.varOrList"
+
+#~ msgid "when I am clicked"
+#~ msgstr "quand je suis cliqué"
 
 ##################
 # User Interface #
@@ -553,16 +578,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:47+0000\n"
-"PO-Revision-Date: 2014-11-23 12:47+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
+"POT-Creation-Date: 2014-11-23 12:43+0000\n"
+"PO-Revision-Date: 2013-01-30 03:00+0000\n"
+"Last-Translator: sylvainlongpre <sylvainlongpre@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ote\n"
+"Language: fr_CA\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1416746838.000000\n"
+"X-POOTLE-MTIME: 1359514857.000000\n"
 
 msgid "10 ^"
 msgstr ""
@@ -622,7 +647,7 @@ msgid "Add string input:"
 msgstr ""
 
 msgid "all"
-msgstr "Gatho"
+msgstr "tout"
 
 msgid "All"
 msgstr ""
@@ -688,7 +713,7 @@ msgid "Bass Drum"
 msgstr ""
 
 msgid "Bassoon"
-msgstr "b'ixfani 1"
+msgstr "Basson"
 
 msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
 msgstr ""
@@ -706,7 +731,7 @@ msgid "Bongo"
 msgstr ""
 
 msgid "brightness"
-msgstr "Huexki"
+msgstr "luminosité"
 
 msgid "Bring to front"
 msgstr ""
@@ -718,7 +743,7 @@ msgid "Brush"
 msgstr ""
 
 msgid "button pressed"
-msgstr "Ntom’ä nthuts’i"
+msgstr "bouton pressé"
 
 msgid "by"
 msgstr ""
@@ -730,10 +755,10 @@ msgid "C connected"
 msgstr ""
 
 msgid "Cabasa"
-msgstr "tom'a hoga nzuni"
+msgstr "Cabasa"
 
 msgid "Camera"
-msgstr "Nthuxä ngats’i "
+msgstr "Caméra"
 
 msgid "can drag in player:"
 msgstr ""
@@ -760,7 +785,7 @@ msgid "ceiling"
 msgstr ""
 
 msgid "Cello"
-msgstr "Violonchelo"
+msgstr "Violoncelle"
 
 msgid "Check for updates"
 msgstr ""
@@ -787,10 +812,10 @@ msgid "City"
 msgstr ""
 
 msgid "Clarinet"
-msgstr "ntom'a nijä"
+msgstr "Clarinette"
 
 msgid "Claves"
-msgstr "mää thuza"
+msgstr "Claves"
 
 msgid "clean up"
 msgstr ""
@@ -808,7 +833,7 @@ msgid "Close"
 msgstr ""
 
 msgid "Closed Hi-Hat"
-msgstr "tom'a b'ida"
+msgstr "Charleston fermé"
 
 msgid "Cloud"
 msgstr ""
@@ -820,7 +845,7 @@ msgid "Cloud variable (stored on server)"
 msgstr ""
 
 msgid "color"
-msgstr "Nkät’i / njät’i"
+msgstr "couleur"
 
 msgid "Color a shape"
 msgstr ""
@@ -841,7 +866,7 @@ msgid "Converting mp3..."
 msgstr ""
 
 msgid "copy"
-msgstr "K’oi"
+msgstr "Copier"
 
 msgid "Copying..."
 msgstr ""
@@ -880,7 +905,7 @@ msgid "Could not retrieve new application from server."
 msgstr ""
 
 msgid "Cowbell"
-msgstr "danga b'ida"
+msgstr "Cloche de vaches"
 
 msgid "Crash Cymbal"
 msgstr ""
@@ -904,12 +929,12 @@ msgid "day of week"
 msgstr ""
 
 msgid "delete"
-msgstr "puti"
+msgstr "supprimer"
 
 # 83%
 #, fuzzy
 msgid "Delete"
-msgstr "puti"
+msgstr "supprimer"
 
 msgid "delete variable"
 msgstr ""
@@ -927,10 +952,10 @@ msgid "Don't save"
 msgstr ""
 
 msgid "down"
-msgstr "Ngati"
+msgstr "bas"
 
 msgid "down arrow"
-msgstr "Ät’i ngati"
+msgstr "flèche bas"
 
 msgid "Download"
 msgstr ""
@@ -942,22 +967,22 @@ msgid "Downloading new version"
 msgstr ""
 
 msgid "duplicate"
-msgstr "xu"
+msgstr "dupliquer"
 
 msgid "Duplicate"
-msgstr "xu"
+msgstr "dupliquer"
 
 msgid "e ^"
 msgstr ""
 
 msgid "edge"
-msgstr "Ñäni"
+msgstr "bord"
 
 msgid "Edit"
-msgstr "T’ofo / thoki"
+msgstr "Éditer"
 
 msgid "edit"
-msgstr "T’ofo / thoki"
+msgstr "Éditer"
 
 msgid "Edit Block"
 msgstr ""
@@ -1026,7 +1051,7 @@ msgid "Fill with color"
 msgstr ""
 
 msgid "fisheye"
-msgstr "Da gä juä / huä"
+msgstr "oeil de poisson"
 
 msgid "Flip left-right"
 msgstr ""
@@ -1038,7 +1063,7 @@ msgid "floor"
 msgstr ""
 
 msgid "Flute"
-msgstr "Flauta"
+msgstr "Flûte"
 
 msgid "Flying"
 msgstr ""
@@ -1056,7 +1081,7 @@ msgid "Forward a layer"
 msgstr ""
 
 msgid "ghost"
-msgstr "pite"
+msgstr "fantôme"
 
 msgid "Go to My Stuff"
 msgstr ""
@@ -1074,7 +1099,7 @@ msgid "Guitar"
 msgstr ""
 
 msgid "Hand Clap"
-msgstr "Palmada"
+msgstr "Clap de mains"
 
 msgid "Hardware"
 msgstr ""
@@ -1090,7 +1115,7 @@ msgstr ""
 
 #, fuzzy
 msgid "hello"
-msgstr "Violonchelo"
+msgstr "Violoncelle"
 
 msgid "hide"
 msgstr ""
@@ -1110,10 +1135,10 @@ msgstr ""
 # 83%
 #, fuzzy
 msgid "import"
-msgstr "hñats'i"
+msgstr "importer"
 
 msgid "Import"
-msgstr "hñats'i"
+msgstr "importer"
 
 msgid "Importing sound..."
 msgstr ""
@@ -1131,13 +1156,13 @@ msgid "large readout"
 msgstr ""
 
 msgid "last"
-msgstr "ngäts'i"
+msgstr "dernier"
 
 msgid "left"
-msgstr "ngähä"
+msgstr "gauche"
 
 msgid "left arrow"
-msgstr "ät'i ngähä"
+msgstr "flèche gauche"
 
 msgid "left-right"
 msgstr ""
@@ -1152,12 +1177,12 @@ msgid "Library"
 msgstr ""
 
 msgid "light"
-msgstr "ñot'i"
+msgstr "lumière"
 
 # 83%
 #, fuzzy
 msgid "lights"
-msgstr "ñot'i"
+msgstr "lumière"
 
 msgid "limit reached"
 msgstr ""
@@ -1171,7 +1196,7 @@ msgstr ""
 # 75%
 #, fuzzy
 msgid "list"
-msgstr "ngäts'i"
+msgstr "dernier"
 
 msgid "List name"
 msgstr ""
@@ -1234,7 +1259,7 @@ msgid "month"
 msgstr ""
 
 msgid "mosaic"
-msgstr "nt'ui nthets'i"
+msgstr "mosaïque"
 
 msgid "motion"
 msgstr ""
@@ -1249,7 +1274,7 @@ msgid "motor B"
 msgstr ""
 
 msgid "mouse-pointer"
-msgstr "ät'i ra dängu"
+msgstr "pointeur de souris"
 
 msgid "Multiple"
 msgstr ""
@@ -1258,7 +1283,7 @@ msgid "Music and Dance"
 msgstr ""
 
 msgid "Music Box"
-msgstr "Caja de música"
+msgstr "Boîte à musique"
 
 msgid "Music Loops"
 msgstr ""
@@ -1310,7 +1335,7 @@ msgid "New sprite from camera"
 msgstr ""
 
 msgid "New sprite:"
-msgstr "r'ayo hmepi"
+msgstr "Nouveau lutin :"
 
 msgid "New Variable"
 msgstr ""
@@ -1337,7 +1362,7 @@ msgid "of"
 msgstr ""
 
 msgid "off"
-msgstr "theti"
+msgstr "Désactivé"
 
 msgid "Offline Editor"
 msgstr ""
@@ -1346,7 +1371,7 @@ msgid "OK"
 msgstr ""
 
 msgid "on"
-msgstr "zo"
+msgstr "Activé"
 
 msgid "on-flipped"
 msgstr ""
@@ -1355,10 +1380,10 @@ msgid "Open"
 msgstr ""
 
 msgid "Open Cuica"
-msgstr "Cuica suelta"
+msgstr "Cuica ouvert"
 
 msgid "Open Hi-Hat"
-msgstr "Charles abierto"
+msgstr "Charleston ouvert"
 
 msgid "Options"
 msgstr ""
@@ -1415,7 +1440,7 @@ msgid "Pick up color"
 msgstr ""
 
 msgid "pixelate"
-msgstr "ñäni ra k'oi"
+msgstr "pixeliser"
 
 msgid "Pizzicato"
 msgstr ""
@@ -1445,7 +1470,7 @@ msgid "random"
 msgstr ""
 
 msgid "Record"
-msgstr "petsi"
+msgstr "enregistrer"
 
 msgid "Record new sound"
 msgstr ""
@@ -1462,10 +1487,10 @@ msgstr ""
 # 75%
 #, fuzzy
 msgid "Redo"
-msgstr "kotsi ngu mi ngä"
+msgstr "Rétablir"
 
 msgid "redo"
-msgstr "kotsi ngu mi ngä"
+msgstr "Rétablir"
 
 msgid "Remix"
 msgstr ""
@@ -1501,7 +1526,7 @@ msgid "resistance-D"
 msgstr ""
 
 msgid "reverse"
-msgstr "mä puntsi"
+msgstr "inverser"
 
 msgid "Revert"
 msgstr ""
@@ -1510,10 +1535,10 @@ msgid "Reverting..."
 msgstr ""
 
 msgid "right"
-msgstr "'ñei"
+msgstr "droite"
 
 msgid "right arrow"
-msgstr "ät'i 'ñei"
+msgstr "flèche droite"
 
 msgid "rotation style:"
 msgstr ""
@@ -1630,7 +1655,7 @@ msgid "Shrink"
 msgstr ""
 
 msgid "Side Stick"
-msgstr "Golpe lateral"
+msgstr "Side Stick"
 
 msgid "Sign in"
 msgstr ""
@@ -1651,7 +1676,7 @@ msgid "size"
 msgstr ""
 
 msgid "slider"
-msgstr "nkoni"
+msgstr "glisseur"
 
 msgid "Slider Range"
 msgstr ""
@@ -1683,10 +1708,10 @@ msgstr ""
 # 80%
 #, fuzzy
 msgid "Space"
-msgstr "magi"
+msgstr "espace"
 
 msgid "space"
-msgstr "magi"
+msgstr "espace"
 
 msgid "Sports"
 msgstr ""
@@ -1694,7 +1719,7 @@ msgstr ""
 # 85%
 #, fuzzy
 msgid "Sprite"
-msgstr "thoki"
+msgstr "Lutins"
 
 msgid "Sprite Library"
 msgstr ""
@@ -1702,19 +1727,19 @@ msgstr ""
 # 85%
 #, fuzzy
 msgid "Sprite1"
-msgstr "thoki"
+msgstr "Lutins"
 
 msgid "Sprites"
-msgstr "thoki"
+msgstr "Lutins"
 
 msgid "sqrt"
-msgstr "Y'u b'ede"
+msgstr "racine carrée"
 
 msgid "Square"
 msgstr ""
 
 msgid "Stage"
-msgstr "Neki"
+msgstr "Scène"
 
 msgid "Stage selected:"
 msgstr ""
@@ -1732,7 +1757,7 @@ msgid "Synth Pad"
 msgstr ""
 
 msgid "Tambourine"
-msgstr "Pandereta"
+msgstr "Tambourine"
 
 msgid "tan"
 msgstr ""
@@ -1744,7 +1769,7 @@ msgid "Text"
 msgstr ""
 
 msgid "that way"
-msgstr "ngu nuna thoki"
+msgstr "de l'autre façon"
 
 msgid "The name is already is use."
 msgstr ""
@@ -1777,7 +1802,7 @@ msgid "this sprite"
 msgstr ""
 
 msgid "this way"
-msgstr "ngu nuna thoki"
+msgstr "de cette façon"
 
 msgid "Throw away all changes since opening this project?"
 msgstr ""
@@ -1798,7 +1823,7 @@ msgid "Triangle"
 msgstr ""
 
 msgid "Trombone"
-msgstr "Trombón"
+msgstr "Trombone"
 
 msgid "true"
 msgstr ""
@@ -1815,18 +1840,18 @@ msgstr ""
 # 75%
 #, fuzzy
 msgid "Undelete"
-msgstr "puti"
+msgstr "supprimer"
 
 msgid "Underwater"
 msgstr ""
 
 msgid "undo"
-msgstr "Xut'i"
+msgstr "Annuler"
 
 # 75%
 #, fuzzy
 msgid "Undo"
-msgstr "Xut'i"
+msgstr "Annuler"
 
 msgid "Undo Revert"
 msgstr ""
@@ -1838,10 +1863,10 @@ msgid "unshared"
 msgstr ""
 
 msgid "up"
-msgstr "mañä"
+msgstr "haut"
 
 msgid "up arrow"
-msgstr "äti mañä"
+msgstr "flèche haut"
 
 msgid "Update failed"
 msgstr ""
@@ -1889,10 +1914,10 @@ msgid "Vector Mode"
 msgstr ""
 
 msgid "Vibraphone"
-msgstr "Vibráfono"
+msgstr "Vibraphone"
 
 msgid "Vibraslap"
-msgstr "Trafaplás"
+msgstr "Vibraslap"
 
 msgid "video direction"
 msgstr ""
@@ -1922,7 +1947,7 @@ msgid "What's your name?"
 msgstr ""
 
 msgid "whirl"
-msgstr "¿fats'i?"
+msgstr "tournoyer"
 
 msgid "Wood Block"
 msgstr ""
@@ -1954,46 +1979,46 @@ msgstr ""
 # 90%
 #, fuzzy
 #~ msgid "New sprite"
-#~ msgstr "r'ayo hmepi"
+#~ msgstr "Nouveau lutin :"
 
 #~ msgid "Paint"
-#~ msgstr "kuhu"
+#~ msgstr "Dessin"
 
 #~ msgid "any"
-#~ msgstr "Na’ä ra za"
+#~ msgstr "n'importe quel"
 
 #~ msgid "High Tom"
-#~ msgstr "Tom agudo"
+#~ msgstr "Tom alto"
 
 #~ msgid "Long Guiro"
-#~ msgstr "Güiro largo"
+#~ msgstr "Guiro long"
 
 #~ msgid "Low Bongo"
-#~ msgstr "Bongó grave"
+#~ msgstr "Bongo bas"
 
 #~ msgid "Low Conga"
-#~ msgstr "Conga grave"
+#~ msgstr "Conga Bas"
 
 #~ msgid "Low Tom"
-#~ msgstr "Tom grave"
+#~ msgstr "Tom basse"
 
 #~ msgid "Low Wood Block"
-#~ msgstr "Cajita china grave"
+#~ msgstr "Wood block bas"
 
 #~ msgid "Maracas"
 #~ msgstr "Maracas"
 
 #~ msgid "More"
-#~ msgstr "mä r'a"
+#~ msgstr "plus"
 
 #~ msgid "Mute Triangle"
-#~ msgstr "Triángulo sordo"
+#~ msgstr "Triangle muet"
 
 #~ msgid "Open Triangle"
-#~ msgstr "Triángulo suelto"
+#~ msgstr "Triangle ouvert"
 
 #~ msgid "Pedal Hi-Hat"
-#~ msgstr "Charles pedal"
+#~ msgstr "Charleston, pédale"
 
 #~ msgid "Short Guiro"
-#~ msgstr "Güiro corto"
+#~ msgstr "Guiro court"

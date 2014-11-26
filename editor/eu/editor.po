@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:43+0000\n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
 "PO-Revision-Date: 2014-09-24 16:06+0000\n"
 "Last-Translator: aitolajau <aitorolano@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -937,6 +937,9 @@ msgstr "Berrizendatu"
 msgid "rename variable"
 msgstr "aldagaia berrizendatu"
 
+msgid "Replace existing project"
+msgstr ""
+
 msgid "requires sign in"
 msgstr "Saioa hastea beharrezkoa"
 
@@ -1199,7 +1202,7 @@ msgstr "Testua"
 msgid "that way"
 msgstr "norabide horretan"
 
-msgid "The name is already is use."
+msgid "The name is already in use."
 msgstr ""
 
 msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
@@ -1411,6 +1414,26 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+"For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Hodei aldagaiei buruzko informazioa</b><br>&nbsp;<br>Momentuz, zenbakiak "
+"soilik erabil daitezke<br>Txat gelak ez dira onartzen, eta ezabatuak izango "
+"dira<br>Info gehiago izateko, <a href= target=>Hodei datuei buruzko FAQ "
+"atala irakurri</a>"
+
+msgid "Click  to try again or  to save"
+msgstr ""
+"\"Gorde orain\"-en klikatu berriz saiatzeko edo \" Deskargatu\"-n gordetzeko"
+
+msgid "Eraser width:"
+msgstr "Ezabatzailearen lodiera"
+
+msgid "Line width:"
+msgstr "Marraren lodiera"
+
 #~ msgid "cleanup"
 #~ msgstr "garbitu"
 
@@ -1419,12 +1442,6 @@ msgstr ""
 
 #~ msgid "Microphone Volume:"
 #~ msgstr "Mikrofonoaren bolumena:"
-
-#~ msgid "Eraser width:"
-#~ msgstr "Ezabatzailearen lodiera"
-
-#~ msgid "Line width:"
-#~ msgstr "Marraren lodiera"
 
 # 90%
 #, fuzzy
@@ -1439,17 +1456,3 @@ msgstr ""
 
 #~ msgid "More"
 #~ msgstr "gehiago"
-
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Hodei aldagaiei buruzko informazioa</b><br>&nbsp;<br>Momentuz, zenbakiak "
-#~ "soilik erabil daitezke<br>Txat gelak ez dira onartzen, eta ezabatuak izango "
-#~ "dira<br>Info gehiago izateko, <a href= target=>Hodei datuei buruzko FAQ "
-#~ "atala irakurri</a>"
-
-#~ msgid "Click  to try again or  to save"
-#~ msgstr ""
-#~ "\"Gorde orain\"-en klikatu berriz saiatzeko edo \" Deskargatu\"-n gordetzeko"

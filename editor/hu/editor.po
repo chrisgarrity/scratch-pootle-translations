@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:44+0000\n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
 "PO-Revision-Date: 2014-10-30 11:14+0000\n"
 "Last-Translator: Péter <bernatp@hotmail.hu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -950,6 +950,9 @@ msgstr "Átnevezés"
 msgid "rename variable"
 msgstr "változó átnevezése"
 
+msgid "Replace existing project"
+msgstr ""
+
 msgid "requires sign in"
 msgstr ""
 
@@ -1220,7 +1223,7 @@ msgstr "Szöveg"
 msgid "that way"
 msgstr "arra"
 
-msgid "The name is already is use."
+msgid "The name is already in use."
 msgstr ""
 
 msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
@@ -1423,17 +1426,29 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+"For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Felhőváltozókat illető információk</b><br>&nbsp;<br>Jelenleg csak számok "
+"vannak támogatva<br>Chat szobák létrehozása szigorúan tilos<br>További "
+"információkért <a href= target=>lásd a felhőadat GYIK-et.</a>"
+
+msgid "Click  to try again or  to save"
+msgstr ""
+
+msgid "Eraser width:"
+msgstr "Radír vastagsága:"
+
+msgid "Line width:"
+msgstr "Vonalvastagság:"
+
 #~ msgid "cleanup"
 #~ msgstr "rendrakás"
 
 #~ msgid "Microphone Volume:"
 #~ msgstr "Mikrofon hangereje:"
-
-#~ msgid "Eraser width:"
-#~ msgstr "Radír vastagsága:"
-
-#~ msgid "Line width:"
-#~ msgstr "Vonalvastagság:"
 
 # 90%
 #, fuzzy
@@ -1481,12 +1496,3 @@ msgstr ""
 
 #~ msgid "Short Guiro"
 #~ msgstr "Rövid güiro"
-
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Felhőváltozókat illető információk</b><br>&nbsp;<br>Jelenleg csak számok "
-#~ "vannak támogatva<br>Chat szobák létrehozása szigorúan tilos<br>További "
-#~ "információkért <a href= target=>lásd a felhőadat GYIK-et.</a>"

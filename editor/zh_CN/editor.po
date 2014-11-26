@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:49+0000\n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
 "PO-Revision-Date: 2013-07-30 03:43+0000\n"
 "Last-Translator: alanmao <alanmao222@yahoo.com.cn>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -952,6 +952,9 @@ msgstr "重命名"
 msgid "rename variable"
 msgstr "重命名变量"
 
+msgid "Replace existing project"
+msgstr ""
+
 msgid "requires sign in"
 msgstr "需要登录"
 
@@ -1221,7 +1224,7 @@ msgstr "文字"
 msgid "that way"
 msgstr "逆时针"
 
-msgid "The name is already is use."
+msgid "The name is already in use."
 msgstr ""
 
 msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
@@ -1425,17 +1428,28 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+"For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>关于云变量的说明</b><br>&nbsp;<br>目前，只支持数值类型的数据<br>不允许使用云变量来创建聊天室，否则将被删除<br>更多信息请参"
+"考<a href= target=>关于云数据的常见问题(FAQ)！</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "点击  重新尝试或  保存"
+
+msgid "Eraser width:"
+msgstr "橡皮擦宽度:"
+
+msgid "Line width:"
+msgstr "线宽："
+
 #~ msgid "cleanup"
 #~ msgstr "清除"
 
 #~ msgid "Microphone Volume:"
 #~ msgstr "麦克风音量："
-
-#~ msgid "Eraser width:"
-#~ msgstr "橡皮擦宽度:"
-
-#~ msgid "Line width:"
-#~ msgstr "线宽："
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "输入一个布尔值："
@@ -1588,14 +1602,3 @@ msgstr ""
 
 #~ msgid "Short Guiro"
 #~ msgstr "短梗笛"
-
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>关于云变量的说明</b><br>&nbsp;<br>目前，只支持数值类型的数据<br>不允许使用云变量来创建聊天室，否则将被删除<br>更多信息请参"
-#~ "考<a href= target=>关于云数据的常见问题(FAQ)！</a>"
-
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "点击  重新尝试或  保存"

@@ -3,16 +3,17 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2013-02-02 22:24+0200\n"
+"PO-Revision-Date: 2013-02-02 22:24+0000\n"
 "Last-Translator: craftsmaster <pornieks@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: lv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
-"2);\n"
-"X-Generator: Pootle 2.1.6\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);"
+"\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1359843880.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -536,17 +537,18 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2013-02-03 13:16+0200\n"
+"POT-Creation-Date: 2014-11-23 12:45+0000\n"
+"PO-Revision-Date: 2013-02-03 13:16+0000\n"
 "Last-Translator: craftsmaster <pornieks@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: lv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
-"2);\n"
-"X-Generator: Pootle 2.1.6\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);"
+"\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1359897363.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -558,6 +560,9 @@ msgid "A connected"
 msgstr "A pieslēgts"
 
 msgid "a copy of the project file on your computer."
+msgstr ""
+
+msgid "A newer version of Scratch is available"
 msgstr ""
 
 msgid "About"
@@ -578,6 +583,9 @@ msgstr ""
 msgid "acos"
 msgstr "acos"
 
+msgid "Add"
+msgstr ""
+
 msgid "Add an Extension"
 msgstr ""
 
@@ -588,6 +596,9 @@ msgstr "Pievienot Būla (boolean) ievadi:"
 
 msgid "add comment"
 msgstr "pievienot komentāru"
+
+msgid "add comment here..."
+msgstr ""
 
 msgid "Add label text:"
 msgstr "Pievienot iezīmes tekstu:"
@@ -602,11 +613,11 @@ msgstr "Pievienot skaitļa ievadi:"
 msgid "Add string input:"
 msgstr "Pievienot teksta virknes ievadi:"
 
-msgid "All"
-msgstr ""
-
 msgid "all"
 msgstr "viss"
+
+msgid "All"
+msgstr ""
 
 msgid "all around"
 msgstr "viss apkārtējais"
@@ -636,14 +647,14 @@ msgid "Back a layer"
 msgstr ""
 
 # 88%
-# 87%
 #, fuzzy
-msgid "Backdrop"
+msgid "backdrop"
 msgstr "fons1"
 
 # 88%
+# 87%
 #, fuzzy
-msgid "backdrop"
+msgid "Backdrop"
 msgstr "fons1"
 
 msgid "backdrop #"
@@ -731,6 +742,9 @@ msgstr ""
 msgid "Cancel"
 msgstr ""
 
+msgid "Cannot Add"
+msgstr ""
+
 msgid "Cannot Delete"
 msgstr "Nevar dzēst"
 
@@ -748,6 +762,9 @@ msgstr "apaļot uz augšu"
 
 msgid "Cello"
 msgstr "Čells"
+
+msgid "Check for updates"
+msgstr ""
 
 msgid "Choir"
 msgstr "Koris"
@@ -776,7 +793,7 @@ msgstr "Klarnete"
 msgid "Claves"
 msgstr "Klave"
 
-msgid "cleanup"
+msgid "clean up"
 msgstr ""
 
 msgid "Clear"
@@ -798,6 +815,9 @@ msgid "Cloud"
 msgstr ""
 
 msgid "Cloud data"
+msgstr ""
+
+msgid "Cloud variable (stored on server)"
 msgstr ""
 
 msgid "color"
@@ -864,6 +884,9 @@ msgstr ""
 msgid "Costumes:"
 msgstr "tērps1"
 
+msgid "Could not retrieve new application from server."
+msgstr ""
+
 msgid "Cowbell"
 msgstr "Zvans"
 
@@ -888,12 +911,12 @@ msgstr "datums"
 msgid "day of week"
 msgstr "nedēļas diena"
 
+msgid "delete"
+msgstr "dzēst"
+
 # 83%
 #, fuzzy
 msgid "Delete"
-msgstr "dzēst"
-
-msgid "delete"
 msgstr "dzēst"
 
 msgid "delete variable"
@@ -910,6 +933,9 @@ msgstr "virziens"
 msgid "don't rotate"
 msgstr "nerotēt"
 
+msgid "Don't save"
+msgstr ""
+
 msgid "down"
 msgstr "uz leju"
 
@@ -920,6 +946,9 @@ msgid "Download"
 msgstr ""
 
 msgid "Download to your computer"
+msgstr ""
+
+msgid "Downloading new version"
 msgstr ""
 
 msgid "duplicate"
@@ -934,11 +963,11 @@ msgstr "e ^"
 msgid "edge"
 msgstr "mala"
 
-msgid "edit"
-msgstr "rediģēt"
-
 msgid "Edit"
 msgstr "Rediģēt"
+
+msgid "edit"
+msgstr "rediģēt"
 
 msgid "Edit Block"
 msgstr ""
@@ -958,7 +987,13 @@ msgstr ""
 msgid "Ellipse"
 msgstr ""
 
+msgid "empty"
+msgstr ""
+
 msgid "Erase"
+msgstr ""
+
+msgid "Erase all"
 msgstr ""
 
 msgid "Eraser width"
@@ -984,6 +1019,9 @@ msgstr "pakāpeniski parādīties"
 
 msgid "fade out"
 msgstr "pakāpeniski izzust"
+
+msgid "false"
+msgstr ""
 
 msgid "Fantasy"
 msgstr ""
@@ -1051,10 +1089,26 @@ msgstr "Roku plaukšķis"
 msgid "Hardware"
 msgstr ""
 
+msgid "help"
+msgstr ""
+
+msgid "Hello!"
+msgstr ""
+
+msgid "Hmm..."
+msgstr ""
+
+#, fuzzy
+msgid "hello"
+msgstr "Čells"
+
 msgid "hide"
 msgstr ""
 
 msgid "High C"
+msgstr ""
+
+msgid "Holiday"
 msgstr ""
 
 msgid "hour"
@@ -1098,10 +1152,10 @@ msgstr "bulta pa kreisi"
 msgid "left-right"
 msgstr "pa kreisi-pa labi"
 
-msgid "LEGO WeDo"
+msgid "length"
 msgstr ""
 
-msgid "length"
+msgid "Letters"
 msgstr ""
 
 msgid "Library"
@@ -1174,7 +1228,7 @@ msgstr ""
 msgid "message1"
 msgstr "ziņojums1"
 
-msgid "Microphone Volume:"
+msgid "Microphone volume:"
 msgstr ""
 
 msgid "Middle C"
@@ -1239,6 +1293,9 @@ msgstr ""
 msgid "New backdrop:"
 msgstr "Jauns fons"
 
+msgid "New Block"
+msgstr ""
+
 msgid "New costume from camera"
 msgstr ""
 
@@ -1248,6 +1305,9 @@ msgid "New costume:"
 msgstr "Jauns tērps"
 
 msgid "New List"
+msgstr ""
+
+msgid "New Message"
 msgstr ""
 
 msgid "new message..."
@@ -1268,6 +1328,9 @@ msgid "New sprite:"
 msgstr "Jauns gariņš:"
 
 msgid "New Variable"
+msgstr ""
+
+msgid "next backdrop"
 msgstr ""
 
 msgid "No motion blocks"
@@ -1303,6 +1366,9 @@ msgstr "ieslēgts"
 msgid "on-flipped"
 msgstr "kad pagriezts"
 
+msgid "Open"
+msgstr ""
+
 msgid "Open Cuica"
 msgstr "Atvērta cuica"
 
@@ -1321,6 +1387,10 @@ msgstr ""
 msgid "other scripts in sprite"
 msgstr "citi skripti gariņā"
 
+#, fuzzy
+msgid "other scripts in stage"
+msgstr "citi skripti gariņā"
+
 msgid "Outdoors"
 msgstr ""
 
@@ -1331,6 +1401,12 @@ msgid "Paint new costume"
 msgstr ""
 
 msgid "Paint new sprite"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Password is required"
 msgstr ""
 
 msgid "paste"
@@ -1363,6 +1439,9 @@ msgstr "Pičikato"
 msgid "pop"
 msgstr "paukšķis"
 
+msgid "previous backdrop"
+msgstr ""
+
 msgid "Profile"
 msgstr ""
 
@@ -1372,6 +1451,12 @@ msgstr ""
 msgid "Project not saved!"
 msgstr ""
 
+msgid "Project name"
+msgstr ""
+
+msgid "Project name is required"
+msgstr ""
+
 msgid "random"
 msgstr "nejauši"
 
@@ -1379,6 +1464,9 @@ msgid "Record"
 msgstr "Ieraksts"
 
 msgid "Record new sound"
+msgstr ""
+
+msgid "record..."
 msgstr ""
 
 msgid "recording1"
@@ -1452,10 +1540,19 @@ msgstr ""
 msgid "Save"
 msgstr ""
 
+msgid "Save a copy of this project and add your own ideas."
+msgstr ""
+
+msgid "Save as"
+msgstr ""
+
 msgid "Save as a copy"
 msgstr ""
 
 msgid "Save now"
+msgstr ""
+
+msgid "Save project?"
 msgstr ""
 
 msgid "save to local file"
@@ -1472,6 +1569,12 @@ msgstr ""
 
 msgid "Saxophone"
 msgstr "Saksofons"
+
+msgid "Scratch Updater"
+msgstr ""
+
+msgid "Scratch 2.0 Offline Editor"
+msgstr ""
 
 msgid "Script"
 msgstr ""
@@ -1503,10 +1606,10 @@ msgstr ""
 msgid "Send to back"
 msgstr ""
 
-msgid "Set costume center"
+msgid "Set Costume Center"
 msgstr ""
 
-msgid "Set Costume Center"
+msgid "Set costume center"
 msgstr ""
 
 msgid "set slider min and max"
@@ -1514,6 +1617,12 @@ msgstr ""
 
 msgid "Share"
 msgstr "Kopīgot"
+
+msgid "Share to website"
+msgstr ""
+
+msgid "Share to Scratch website"
+msgstr ""
 
 msgid "shared"
 msgstr ""
@@ -1592,12 +1701,12 @@ msgstr ""
 msgid "Sounds"
 msgstr "skaņa"
 
-msgid "space"
-msgstr "atstarpe"
-
 # 80%
 #, fuzzy
 msgid "Space"
+msgstr "atstarpe"
+
+msgid "space"
 msgstr "atstarpe"
 
 msgid "Sports"
@@ -1649,16 +1758,31 @@ msgstr "Tamburīns"
 msgid "tan"
 msgstr "tan"
 
+msgid "text"
+msgstr ""
+
 msgid "Text"
 msgstr ""
 
 msgid "that way"
 msgstr "tas ceļš"
 
+msgid "The name is already is use."
+msgstr ""
+
+msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgstr ""
+
 msgid "Theme"
 msgstr ""
 
 msgid "Things"
+msgstr ""
+
+msgid "thing"
+msgstr ""
+
+msgid "This is the current version."
 msgstr ""
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
@@ -1698,6 +1822,9 @@ msgstr "Trijstūris"
 msgid "Trombone"
 msgstr "Trombons"
 
+msgid "true"
+msgstr ""
+
 msgid "Turbo mode"
 msgstr ""
 
@@ -1715,12 +1842,12 @@ msgstr "dzēst"
 msgid "Underwater"
 msgstr ""
 
+msgid "undo"
+msgstr "atsaukt"
+
 # 75%
 #, fuzzy
 msgid "Undo"
-msgstr "atsaukt"
-
-msgid "undo"
 msgstr "atsaukt"
 
 msgid "Undo Revert"
@@ -1737,6 +1864,15 @@ msgstr "uz augšu"
 
 msgid "up arrow"
 msgstr "bulta uz augšu"
+
+msgid "Update failed"
+msgstr ""
+
+msgid "Update not needed"
+msgstr ""
+
+msgid "Update now"
+msgstr ""
 
 msgid "Upload backdrop from file"
 msgstr ""
@@ -1780,6 +1916,9 @@ msgstr "Ksilofons"
 msgid "Vibraslap"
 msgstr "Vibra slaperis"
 
+msgid "video direction"
+msgstr ""
+
 msgid "video motion"
 msgstr "video kustība"
 
@@ -1801,6 +1940,9 @@ msgstr ""
 msgid "Which column do you want to import"
 msgstr ""
 
+msgid "What's your name?"
+msgstr ""
+
 msgid "whirl"
 msgstr "virpuļi"
 
@@ -1809,6 +1951,9 @@ msgstr "Vudbloks"
 
 msgid "Wooden Flute"
 msgstr "Koka flauta"
+
+msgid "world"
+msgstr ""
 
 msgid "x position"
 msgstr "x pozīcija"
@@ -1822,10 +1967,10 @@ msgstr "gads"
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
 msgstr ""
 
-msgid "Eraser width:"
+msgid "Your Scratch name"
 msgstr ""
 
-msgid "Line width:"
+msgid "Your Scratch name is required"
 msgstr ""
 
 #~ msgid "Add a boolean input:"

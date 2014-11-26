@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:43+0000\n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
 "PO-Revision-Date: 2014-06-03 21:22+0000\n"
 "Last-Translator: Juha <juha.harviainen@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -952,6 +952,9 @@ msgstr "Uudelleennimeä"
 msgid "rename variable"
 msgstr "uudelleennimeä muuttuja"
 
+msgid "Replace existing project"
+msgstr ""
+
 msgid "requires sign in"
 msgstr "vaatii sisäänkirjautumisen"
 
@@ -1217,7 +1220,7 @@ msgstr "Teksti"
 msgid "that way"
 msgstr "tuohon suuntaan"
 
-msgid "The name is already is use."
+msgid "The name is already in use."
 msgstr ""
 
 msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
@@ -1429,6 +1432,24 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+"For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Tietoa pilvipalveluista ja -muuttujista</b><br>&nbsp;<br>Tällä hetkellä "
+"vain numerot on tuettuja<br>Keskustelufoorumeja ei sallita ja ne "
+"poistetaan<br>Lisätietoa: <a href= target=>usein kysytyt kysymykset</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "Klikkaa uudellaan tai tallenna"
+
+msgid "Eraser width:"
+msgstr "Kumin leveys"
+
+msgid "Line width:"
+msgstr "Viivanleveys:"
+
 #~ msgid "cleanup"
 #~ msgstr "siivoa"
 
@@ -1437,12 +1458,6 @@ msgstr ""
 
 #~ msgid "Microphone Volume:"
 #~ msgstr "Mikrofonin äänenvoimakkuus:"
-
-#~ msgid "Eraser width:"
-#~ msgstr "Kumin leveys"
-
-#~ msgid "Line width:"
-#~ msgstr "Viivanleveys:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "lisää boolean input"
@@ -1565,15 +1580,3 @@ msgstr ""
 
 #~ msgid "Short Guiro"
 #~ msgstr "Short Guiro"
-
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Tietoa pilvipalveluista ja -muuttujista</b><br>&nbsp;<br>Tällä hetkellä "
-#~ "vain numerot on tuettuja<br>Keskustelufoorumeja ei sallita ja ne "
-#~ "poistetaan<br>Lisätietoa: <a href= target=>usein kysytyt kysymykset</a>"
-
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "Klikkaa uudellaan tai tallenna"

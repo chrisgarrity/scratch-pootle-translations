@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:42+0000\n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
 "PO-Revision-Date: 2014-06-11 19:25+0000\n"
 "Last-Translator: Eugeni <eugenicat@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -954,6 +954,9 @@ msgstr "Canvia el nom"
 msgid "rename variable"
 msgstr "canvia el nom de la variable"
 
+msgid "Replace existing project"
+msgstr ""
+
 msgid "requires sign in"
 msgstr "requereix iniciar la sessió"
 
@@ -1223,7 +1226,7 @@ msgstr "Text"
 msgid "that way"
 msgstr "cap aquí"
 
-msgid "The name is already is use."
+msgid "The name is already in use."
 msgstr ""
 
 msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
@@ -1438,6 +1441,25 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+"For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Informació sobre les variables al núvol</b><br>&nbsp;<br>Actualment només "
+"s'accepten números<br>Els xats no estan permesos i s'eliminaran<br>Si voleu "
+"més informació, <a href= target=>vegeu les Preguntes Més Freqüents sobre les "
+"dades al núvol!</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "Fes clic a  per tornar-ho a intentar o bé  per desar"
+
+msgid "Eraser width:"
+msgstr "Ample de l'esborrador:"
+
+msgid "Line width:"
+msgstr "Ample de línia:"
+
 #~ msgid "cleanup"
 #~ msgstr "neteja"
 
@@ -1446,12 +1468,6 @@ msgstr ""
 
 #~ msgid "Microphone Volume:"
 #~ msgstr "Volum del micròfon:"
-
-#~ msgid "Eraser width:"
-#~ msgstr "Ample de l'esborrador:"
-
-#~ msgid "Line width:"
-#~ msgstr "Ample de línia:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Afegeix una entrada per condicions lògiques:"
@@ -1604,16 +1620,3 @@ msgstr ""
 
 #~ msgid "Short Guiro"
 #~ msgstr "Guiro curt"
-
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Informació sobre les variables al núvol</b><br>&nbsp;<br>Actualment només "
-#~ "s'accepten números<br>Els xats no estan permesos i s'eliminaran<br>Si voleu "
-#~ "més informació, <a href= target=>vegeu les Preguntes Més Freqüents sobre les "
-#~ "dades al núvol!</a>"
-
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "Fes clic a  per tornar-ho a intentar o bé  per desar"

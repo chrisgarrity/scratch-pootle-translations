@@ -3,15 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-07-24 08:23+0200\n"
-"Last-Translator: Emmanuella Pramudita <emma.rumanti@gmail.com>\n"
+"PO-Revision-Date: 2014-07-24 08:23+0000\n"
+"Last-Translator: Emmanuella <emma.rumanti@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Pootle 2.1.6\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1406190186.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -552,16 +553,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2014-07-24 08:42+0200\n"
-"Last-Translator: Emmanuella Pramudita <emma.rumanti@gmail.com>\n"
+"POT-Creation-Date: 2014-11-23 12:44+0000\n"
+"PO-Revision-Date: 2014-07-24 08:42+0000\n"
+"Last-Translator: Emmanuella <emma.rumanti@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Pootle 2.1.6\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1406191335.000000\n"
 
 # Sepertinya ini matematika... ~R
 msgid "10 ^"
@@ -578,6 +580,9 @@ msgstr "A terkoneksi"
 
 msgid "a copy of the project file on your computer."
 msgstr "sebuah salinan file projek pada komputermu."
+
+msgid "A newer version of Scratch is available"
+msgstr ""
 
 msgid "About"
 msgstr "Tentang "
@@ -597,6 +602,9 @@ msgstr "Pengaturan akun"
 msgid "acos"
 msgstr "acos"
 
+msgid "Add"
+msgstr ""
+
 msgid "Add an Extension"
 msgstr "Tambahkan Extension"
 
@@ -605,6 +613,9 @@ msgstr "Tambahkan input boolean:"
 
 msgid "add comment"
 msgstr "tambahkan komentar"
+
+msgid "add comment here..."
+msgstr ""
 
 msgid "Add label text:"
 msgstr "Tambahkan label teks:"
@@ -615,11 +626,11 @@ msgstr "Tambahkan input angka:"
 msgid "Add string input:"
 msgstr "Tambahkan input string:"
 
-msgid "All"
-msgstr "Semua"
-
 msgid "all"
 msgstr "semua"
+
+msgid "All"
+msgstr "Semua"
 
 msgid "all around"
 msgstr "seluruh"
@@ -649,12 +660,12 @@ msgstr "B terkoneksi"
 msgid "Back a layer"
 msgstr "Back satu layer"
 
+msgid "backdrop"
+msgstr "latar"
+
 # Kenapa latar dan bukan latar belakang? Sepertinya latar belakang terlalu panjang...
 msgid "Backdrop"
 msgstr "Latar"
-
-msgid "backdrop"
-msgstr "latar"
 
 msgid "backdrop #"
 msgstr "latar #"
@@ -741,6 +752,9 @@ msgstr "bisa digerakan di player"
 msgid "Cancel"
 msgstr "Batal"
 
+msgid "Cannot Add"
+msgstr ""
+
 msgid "Cannot Delete"
 msgstr "Tidak dapat menghapus"
 
@@ -758,6 +772,9 @@ msgstr "langit-langit"
 
 msgid "Cello"
 msgstr "Biola Cello"
+
+msgid "Check for updates"
+msgstr ""
 
 msgid "Choir"
 msgstr "Paduan Suara"
@@ -787,7 +804,8 @@ msgid "Claves"
 msgstr "Claves"
 
 # "cleanup" adalah fitur editor yang dapat kau gunakan untuk merapikan scripts. (blocks)
-msgid "cleanup"
+#, fuzzy
+msgid "clean up"
 msgstr "rapikan"
 
 msgid "Clear"
@@ -811,6 +829,9 @@ msgstr "Cloud"
 
 msgid "Cloud data"
 msgstr "Cloud data"
+
+msgid "Cloud variable (stored on server)"
+msgstr ""
 
 msgid "color"
 msgstr "warna"
@@ -872,6 +893,9 @@ msgstr "Jumlah kostum > 1"
 msgid "Costumes:"
 msgstr "Kostum:"
 
+msgid "Could not retrieve new application from server."
+msgstr ""
+
 msgid "Cowbell"
 msgstr "Lonceng Sapi"
 
@@ -896,12 +920,12 @@ msgstr "tanggal"
 msgid "day of week"
 msgstr "hari"
 
+msgid "delete"
+msgstr "hapus"
+
 # 83%
 msgid "Delete"
 msgstr "Hapus"
-
-msgid "delete"
-msgstr "hapus"
 
 msgid "delete variable"
 msgstr "hapus variabel"
@@ -915,6 +939,9 @@ msgstr "arah:"
 msgid "don't rotate"
 msgstr "tidak berotasi"
 
+msgid "Don't save"
+msgstr ""
+
 msgid "down"
 msgstr "bawah"
 
@@ -926,6 +953,9 @@ msgstr "Download"
 
 msgid "Download to your computer"
 msgstr "Download ke komputermu"
+
+msgid "Downloading new version"
+msgstr ""
 
 msgid "duplicate"
 msgstr "gandakan"
@@ -941,10 +971,10 @@ msgstr "e ^"
 msgid "edge"
 msgstr "pinggir"
 
-msgid "edit"
+msgid "Edit"
 msgstr "Edit"
 
-msgid "Edit"
+msgid "edit"
 msgstr "Edit"
 
 msgid "Edit Block"
@@ -965,8 +995,14 @@ msgstr "Elektronik"
 msgid "Ellipse"
 msgstr "Elips"
 
+msgid "empty"
+msgstr ""
+
 msgid "Erase"
 msgstr "Hapus"
+
+msgid "Erase all"
+msgstr ""
 
 msgid "Eraser width"
 msgstr "Lebar Penghapus"
@@ -991,6 +1027,9 @@ msgstr "fade in"
 
 msgid "fade out"
 msgstr "fade out"
+
+msgid "false"
+msgstr ""
 
 msgid "Fantasy"
 msgstr "Fantasi"
@@ -1059,12 +1098,28 @@ msgstr "Suara Tepuk Tangan"
 msgid "Hardware"
 msgstr "Hardware"
 
+msgid "help"
+msgstr ""
+
+msgid "Hello!"
+msgstr ""
+
+msgid "Hmm..."
+msgstr ""
+
+#, fuzzy
+msgid "hello"
+msgstr "Biola Cello"
+
 msgid "hide"
 msgstr "sembunyikan"
 
 # Guru pianoku, sih, mengajarkanku begitu. MEnurutku ini adalah bagian dari nnada (musik)
 msgid "High C"
 msgstr "C Tinggi"
+
+msgid "Holiday"
+msgstr ""
 
 msgid "hour"
 msgstr "jam"
@@ -1107,11 +1162,11 @@ msgstr "panah kiri"
 msgid "left-right"
 msgstr "kiri-kanan"
 
-msgid "LEGO WeDo"
-msgstr "LEGO WeDo"
-
 msgid "length"
 msgstr "panjang"
+
+msgid "Letters"
+msgstr ""
 
 msgid "Library"
 msgstr "Perpustakaan"
@@ -1182,7 +1237,8 @@ msgstr "Nama Pesan"
 msgid "message1"
 msgstr "pesan1"
 
-msgid "Microphone Volume:"
+#, fuzzy
+msgid "Microphone volume:"
 msgstr "Volume Mikrofon:"
 
 msgid "Middle C"
@@ -1247,6 +1303,9 @@ msgstr "Latar baru dari kamera"
 msgid "New backdrop:"
 msgstr "Latar baru:"
 
+msgid "New Block"
+msgstr ""
+
 msgid "New costume from camera"
 msgstr "Kostum baru dari kamera"
 
@@ -1255,6 +1314,9 @@ msgstr "Kostum baru:"
 
 msgid "New List"
 msgstr "List Baru"
+
+msgid "New Message"
+msgstr ""
 
 msgid "new message..."
 msgstr "pesan baru..."
@@ -1273,6 +1335,9 @@ msgstr "Sprite baru:"
 
 msgid "New Variable"
 msgstr "Variabel Baru"
+
+msgid "next backdrop"
+msgstr ""
 
 msgid "No motion blocks"
 msgstr "Tidak ada blocks gerak"
@@ -1307,6 +1372,9 @@ msgstr "Hidup"
 msgid "on-flipped"
 msgstr "hidup dan telah dibalik"
 
+msgid "Open"
+msgstr ""
+
 msgid "Open Cuica"
 msgstr "Buka Cuica"
 
@@ -1325,6 +1393,10 @@ msgstr "Lain-lain"
 msgid "other scripts in sprite"
 msgstr "script lain di sprite ini"
 
+#, fuzzy
+msgid "other scripts in stage"
+msgstr "script lain di sprite ini"
+
 msgid "Outdoors"
 msgstr "Outdoors"
 
@@ -1336,6 +1408,12 @@ msgstr "Gambar kostum baru"
 
 msgid "Paint new sprite"
 msgstr "Gambar sprite baru"
+
+msgid "Password"
+msgstr ""
+
+msgid "Password is required"
+msgstr ""
 
 msgid "paste"
 msgstr "tempel"
@@ -1367,6 +1445,9 @@ msgstr "Pizzicato"
 msgid "pop"
 msgstr "pop"
 
+msgid "previous backdrop"
+msgstr ""
+
 msgid "Profile"
 msgstr "Profil"
 
@@ -1376,6 +1457,12 @@ msgstr "Projek tidak termuat. "
 msgid "Project not saved!"
 msgstr "Projek belum tersimpan!"
 
+msgid "Project name"
+msgstr ""
+
+msgid "Project name is required"
+msgstr ""
+
 msgid "random"
 msgstr "random"
 
@@ -1384,6 +1471,9 @@ msgstr "rekam"
 
 msgid "Record new sound"
 msgstr "Rekam suara baru"
+
+msgid "record..."
+msgstr ""
 
 msgid "recording1"
 msgstr "rekaman1"
@@ -1456,11 +1546,20 @@ msgstr "Jalankan tanpa muat ulang"
 msgid "Save"
 msgstr "Simpan"
 
+msgid "Save a copy of this project and add your own ideas."
+msgstr ""
+
+msgid "Save as"
+msgstr ""
+
 msgid "Save as a copy"
 msgstr "Simpan sebagai salinan"
 
 msgid "Save now"
 msgstr "Simpan sekarang"
+
+msgid "Save project?"
+msgstr ""
 
 msgid "save to local file"
 msgstr "simpan ke local file"
@@ -1476,6 +1575,12 @@ msgstr "Menyimpan..."
 
 msgid "Saxophone"
 msgstr "Saxophone"
+
+msgid "Scratch Updater"
+msgstr ""
+
+msgid "Scratch 2.0 Offline Editor"
+msgstr ""
 
 msgid "Script"
 msgstr "Script"
@@ -1509,17 +1614,23 @@ msgstr "Pilih dan duplikat"
 msgid "Send to back"
 msgstr "Pindahkan ke belakang"
 
-msgid "Set costume center"
-msgstr "Set pusat kostum"
-
 msgid "Set Costume Center"
 msgstr "Set Pusat Kostum"
+
+msgid "Set costume center"
+msgstr "Set pusat kostum"
 
 msgid "set slider min and max"
 msgstr "set min dan max slider"
 
 msgid "Share"
 msgstr "Bagikan"
+
+msgid "Share to website"
+msgstr ""
+
+msgid "Share to Scratch website"
+msgstr ""
 
 msgid "shared"
 msgstr "terbagikan"
@@ -1595,11 +1706,11 @@ msgstr "Pustaka Suara"
 msgid "Sounds"
 msgstr "Suara"
 
-msgid "space"
-msgstr "spasi"
-
 # 80%
 msgid "Space"
+msgstr "spasi"
+
+msgid "space"
 msgstr "spasi"
 
 msgid "Sports"
@@ -1651,17 +1762,33 @@ msgstr "Tamborin"
 msgid "tan"
 msgstr "tan"
 
+#, fuzzy
+msgid "text"
+msgstr "Teks"
+
 msgid "Text"
 msgstr "Teks"
 
 msgid "that way"
 msgstr "ke arah sana"
 
+msgid "The name is already is use."
+msgstr ""
+
+msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgstr ""
+
 msgid "Theme"
 msgstr "Tema"
 
 msgid "Things"
 msgstr "Benda"
+
+msgid "thing"
+msgstr ""
+
+msgid "This is the current version."
+msgstr ""
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
 msgstr ""
@@ -1705,6 +1832,9 @@ msgstr "Segitiga"
 msgid "Trombone"
 msgstr "Trombon"
 
+msgid "true"
+msgstr ""
+
 msgid "Turbo mode"
 msgstr "Mode turbo"
 
@@ -1721,13 +1851,13 @@ msgstr "Batalkan hapus"
 msgid "Underwater"
 msgstr "Di bawah laut"
 
-# Ada beberapa hal yang tidak bisa diterjemahkan- ke Bahasa Indonesia ~R
-msgid "Undo"
-msgstr "Undo"
-
 # Ini tidak bisa diterjemahkan tanpa membingungkan pengguna (baru) ~R
 msgid "undo"
 msgstr "undo"
+
+# Ada beberapa hal yang tidak bisa diterjemahkan- ke Bahasa Indonesia ~R
+msgid "Undo"
+msgstr "Undo"
 
 msgid "Undo Revert"
 msgstr "Undo Reversi"
@@ -1744,6 +1874,15 @@ msgstr "atas"
 
 msgid "up arrow"
 msgstr "panah atas"
+
+msgid "Update failed"
+msgstr ""
+
+msgid "Update not needed"
+msgstr ""
+
+msgid "Update now"
+msgstr ""
 
 msgid "Upload backdrop from file"
 msgstr "Muat latar dari file"
@@ -1787,6 +1926,9 @@ msgstr "Vibrafon"
 msgid "Vibraslap"
 msgstr "Vibraslap"
 
+msgid "video direction"
+msgstr ""
+
 msgid "video motion"
 msgstr "video motion"
 
@@ -1808,6 +1950,9 @@ msgstr "Ingin projek ini tersimpan? Klik remix"
 msgid "Which column do you want to import"
 msgstr "Kolom mana yang ingin kamu impor"
 
+msgid "What's your name?"
+msgstr ""
+
 msgid "whirl"
 msgstr "pusaran"
 
@@ -1816,6 +1961,9 @@ msgstr "Balok Kayu"
 
 msgid "Wooden Flute"
 msgstr "Seruling Kayu"
+
+msgid "world"
+msgstr ""
 
 msgid "x position"
 msgstr "posisi x"
@@ -1831,11 +1979,27 @@ msgstr ""
 "Kamu tidak bisa mengedit cloud data di dalam projek orang lain.<br>Semua "
 "perubahan yang kamu buat di editor adalah sementara dan tidak tetap."
 
-msgid "Eraser width:"
-msgstr "Lebar penghapus:"
+msgid "Your Scratch name"
+msgstr ""
 
-msgid "Line width:"
-msgstr "Lebar garis:"
+msgid "Your Scratch name is required"
+msgstr ""
+
+# "cleanup" adalah fitur editor yang dapat kau gunakan untuk merapikan scripts. (blocks)
+#~ msgid "cleanup"
+#~ msgstr "rapikan"
+
+#~ msgid "LEGO WeDo"
+#~ msgstr "LEGO WeDo"
+
+#~ msgid "Microphone Volume:"
+#~ msgstr "Volume Mikrofon:"
+
+#~ msgid "Eraser width:"
+#~ msgstr "Lebar penghapus:"
+
+#~ msgid "Line width:"
+#~ msgstr "Lebar garis:"
 
 # 90%
 #, fuzzy
@@ -1883,3 +2047,15 @@ msgstr "Lebar garis:"
 
 #~ msgid "Short Guiro"
 #~ msgstr "Guiro Pendek"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Informasi tentang variabel Cloud</b><br>&nbsp;<br>Sekarang, hanya angka "
+#~ "yang didukung<br>Chat room tidak diperbolehkan, dan akan dihapus<br>Untuk "
+#~ "info lebih lanjut, <a href= target=>lihat Data Cloud FAQ!</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Klik untuk mencoba lagi atau untuk menyimpan"

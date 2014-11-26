@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:46+0000\n"
-"PO-Revision-Date: 2014-11-23 08:07+0000\n"
-"Last-Translator: Linda <lfahlberg@gmail.com>\n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
+"PO-Revision-Date: 2014-11-23 17:24+0000\n"
+"Last-Translator: Viki <only.hello@outlook.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: mk\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n==1 || n%10==1 ? 0 : 1;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1416730032.000000\n"
+"X-POOTLE-MTIME: 1416763491.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -31,7 +31,7 @@ msgid "a copy of the project file on your computer."
 msgstr "копија од проектот во Вашиот компјутер"
 
 msgid "A newer version of Scratch is available"
-msgstr ""
+msgstr "Достапна е понова верзија на Скреч"
 
 msgid "About"
 msgstr "За"
@@ -64,7 +64,7 @@ msgid "add comment"
 msgstr "додај коментар"
 
 msgid "add comment here..."
-msgstr ""
+msgstr "додај коментар тука..."
 
 msgid "Add label text:"
 msgstr "Додај маркиран текст:"
@@ -199,7 +199,7 @@ msgid "Cancel"
 msgstr "Откажи"
 
 msgid "Cannot Add"
-msgstr ""
+msgstr "Не може да се додаде"
 
 msgid "Cannot Delete"
 msgstr "Неможи да се Избрише"
@@ -220,7 +220,7 @@ msgid "Cello"
 msgstr "Чело-43"
 
 msgid "Check for updates"
-msgstr ""
+msgstr "Провери за надградби"
 
 msgid "Choir"
 msgstr "Хор"
@@ -249,7 +249,6 @@ msgstr "Кларинет-72"
 msgid "Claves"
 msgstr "Клавесин-75п"
 
-#, fuzzy
 msgid "clean up"
 msgstr "исчисти"
 
@@ -275,7 +274,7 @@ msgid "Cloud data"
 msgstr "Мноштво податоци"
 
 msgid "Cloud variable (stored on server)"
-msgstr ""
+msgstr "Променлива (зачувана на сервер)"
 
 msgid "color"
 msgstr "боја"
@@ -335,7 +334,7 @@ msgid "Costumes:"
 msgstr "Маски:"
 
 msgid "Could not retrieve new application from server."
-msgstr ""
+msgstr "Не може да се добие нова апликација од серверот."
 
 msgid "Cowbell"
 msgstr "Клопотарец-56п"
@@ -396,7 +395,7 @@ msgid "Download to your computer"
 msgstr "Превземи во Вашиот компјутер"
 
 msgid "Downloading new version"
-msgstr ""
+msgstr "Се снима нова верзија"
 
 msgid "duplicate"
 msgstr "дуплирај"
@@ -435,13 +434,13 @@ msgid "Ellipse"
 msgstr "Елипса"
 
 msgid "empty"
-msgstr ""
+msgstr "празно"
 
 msgid "Erase"
 msgstr "Избриши"
 
 msgid "Erase all"
-msgstr ""
+msgstr "Избриши се"
 
 msgid "Eraser width"
 msgstr "Ширина на бришач"
@@ -468,7 +467,7 @@ msgid "fade out"
 msgstr "избледува нанадвор"
 
 msgid "false"
-msgstr ""
+msgstr "Неточно"
 
 msgid "Fantasy"
 msgstr "Фантазија"
@@ -540,14 +539,13 @@ msgid "help"
 msgstr "помош"
 
 msgid "Hello!"
-msgstr ""
+msgstr "Здраво"
 
 msgid "Hmm..."
-msgstr ""
+msgstr "Хмм..."
 
-#, fuzzy
 msgid "hello"
-msgstr "Чело-43"
+msgstr "Здраво"
 
 msgid "hide"
 msgstr "сокриј"
@@ -805,7 +803,7 @@ msgid "on-flipped"
 msgstr "вклучи-заврти"
 
 msgid "Open"
-msgstr ""
+msgstr "Отвори"
 
 msgid "Open Cuica"
 msgstr "Отворена квика-79п"
@@ -841,10 +839,10 @@ msgid "Paint new sprite"
 msgstr "Обои нова фигура"
 
 msgid "Password"
-msgstr ""
+msgstr "Лозинка"
 
 msgid "Password is required"
-msgstr ""
+msgstr "Потребна е лозинка"
 
 msgid "paste"
 msgstr "залепи"
@@ -889,10 +887,10 @@ msgid "Project not saved!"
 msgstr "Проектот не е зачуван!"
 
 msgid "Project name"
-msgstr ""
+msgstr "Име на проектот"
 
 msgid "Project name is required"
-msgstr ""
+msgstr "Потребно е име за проектот"
 
 msgid "random"
 msgstr "случајно"
@@ -933,6 +931,9 @@ msgstr "Преименувај"
 
 msgid "rename variable"
 msgstr "преименувај променлива"
+
+msgid "Replace existing project"
+msgstr ""
 
 msgid "requires sign in"
 msgstr "потребна е најава"
@@ -980,7 +981,7 @@ msgid "Save a copy of this project and add your own ideas."
 msgstr "Зачувај копија од овој проект и додај свои идеи."
 
 msgid "Save as"
-msgstr ""
+msgstr "Зачувај како"
 
 msgid "Save as a copy"
 msgstr "Зачувај го како копија"
@@ -1007,10 +1008,10 @@ msgid "Saxophone"
 msgstr "Саксафон"
 
 msgid "Scratch Updater"
-msgstr ""
+msgstr "Скреч обнова"
 
 msgid "Scratch 2.0 Offline Editor"
-msgstr ""
+msgstr "Скреч 2.0 Офлајн Едитор"
 
 msgid "Script"
 msgstr "Запис"
@@ -1057,10 +1058,10 @@ msgid "Share"
 msgstr "Сподели"
 
 msgid "Share to website"
-msgstr ""
+msgstr "Сподели на веб страна"
 
 msgid "Share to Scratch website"
-msgstr ""
+msgstr "Сподели на Скреч веб страната"
 
 msgid "shared"
 msgstr "споделено"
@@ -1195,11 +1196,14 @@ msgstr "Текст"
 msgid "that way"
 msgstr "на тој начин"
 
-msgid "The name is already is use."
-msgstr ""
+#, fuzzy
+msgid "The name is already in use."
+msgstr "Името е веќе во употреба."
 
 msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
 msgstr ""
+"Проектот неуспешно е вчитан и Скреч тимот за истото е информиран. Притиснете "
+"ОК за напуштање на страната."
 
 msgid "Theme"
 msgstr "Тема"
@@ -1208,10 +1212,10 @@ msgid "Things"
 msgstr "Работи"
 
 msgid "thing"
-msgstr ""
+msgstr "работа (предмет)"
 
 msgid "This is the current version."
-msgstr ""
+msgstr "Ова е моментална верзија."
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
 msgstr ""
@@ -1255,7 +1259,7 @@ msgid "Trombone"
 msgstr "Тромбон-58"
 
 msgid "true"
-msgstr ""
+msgstr "Точно"
 
 msgid "Turbo mode"
 msgstr "Турбо вид"
@@ -1296,13 +1300,13 @@ msgid "up arrow"
 msgstr "стрелка горе"
 
 msgid "Update failed"
-msgstr ""
+msgstr "Обновата е неуспешна"
 
 msgid "Update not needed"
-msgstr ""
+msgstr "Не е потребно обновување"
 
 msgid "Update now"
-msgstr ""
+msgstr "Обнови сега"
 
 msgid "Upload backdrop from file"
 msgstr "Внеси позадина од папка"
@@ -1371,7 +1375,7 @@ msgid "Which column do you want to import"
 msgstr "Која колона сакате да ја внесете"
 
 msgid "What's your name?"
-msgstr ""
+msgstr "Кое е твоето име?"
 
 msgid "whirl"
 msgstr "врти"
@@ -1383,7 +1387,7 @@ msgid "Wooden Flute"
 msgstr "Дрвена флејта"
 
 msgid "world"
-msgstr ""
+msgstr "Свет"
 
 msgid "x position"
 msgstr "х позиција"
@@ -1400,10 +1404,32 @@ msgstr ""
 "промена што ќе ја направите ќе биде привремена и нема да биди постојан."
 
 msgid "Your Scratch name"
-msgstr ""
+msgstr "Твоето Скреч име"
 
 msgid "Your Scratch name is required"
+msgstr "Потребно е твоето Скреч име"
+
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+"For more info, <a href= target=>see the cloud data FAQ!</a>"
 msgstr ""
+"<b>Информациите за мноштвото променливи</b><br>&nbsp;<br>Моментално само "
+"броеви се подржани<br>Собите за разгвор не се дозволени и ќе бидат "
+"одстранети<br>За повеќе информации, <a href= target=>погледнете ги мноштвото "
+"на податоци FAQ!</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "Кликни на обиди се повторно или зачувај на"
+
+msgid "Eraser width:"
+msgstr "Дебелина на бришач:"
+
+msgid "Line width:"
+msgstr "Дебелина на линија:"
+
+#~ msgid "The name is already is use."
+#~ msgstr "Името е веќе во употреба."
 
 #~ msgid "cleanup"
 #~ msgstr "исчисти"
@@ -1413,12 +1439,6 @@ msgstr ""
 
 #~ msgid "Microphone Volume:"
 #~ msgstr "Волумен на микрофонот:"
-
-#~ msgid "Eraser width:"
-#~ msgstr "Дебелина на бришач:"
-
-#~ msgid "Line width:"
-#~ msgstr "Дебелина на линија:"
 
 #~ msgid "Paint"
 #~ msgstr "Боење"
@@ -1461,16 +1481,3 @@ msgstr ""
 
 #~ msgid "Short Guiro"
 #~ msgstr "Кратко виро-73п"
-
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Информациите за мноштвото променливи</b><br>&nbsp;<br>Моментално само "
-#~ "броеви се подржани<br>Собите за разгвор не се дозволени и ќе бидат "
-#~ "одстранети<br>За повеќе информации, <a href= target=>погледнете ги мноштвото "
-#~ "на податоци FAQ!</a>"
-
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "Кликни на обиди се повторно или зачувај на"

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-04-23 07:26+0200\n"
+"PO-Revision-Date: 2014-04-23 07:26+0000\n"
 "Last-Translator: Midhila <midhila.p.2011@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ml\n"
@@ -11,7 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.1.6\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1398237976.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -519,8 +520,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2014-04-29 11:37+0200\n"
+"POT-Creation-Date: 2014-11-23 12:46+0000\n"
+"PO-Revision-Date: 2014-04-29 11:37+0000\n"
 "Last-Translator: dhanila <dhanilabk@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ml\n"
@@ -528,23 +529,27 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.1.6\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1398771434.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^മലയാളം"
 
 msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
 msgstr ""
-"<b>ക്ലൌഡിലെ ചരങ്ങളെ കുറിച്ചുള്ള വിവരങ്ങള്‍</b><br>&nbsp;<br>നിലവില്‍ "
-"സംഖ്യകളെ മാത്രമെ പിന്തുണയ്ക്കുകയുള്ളു<br>ചാറ്റ് റൂം സംവിധാനം അനുവദിനീയമല്ല "
-"അത് ഒഴിവാക്കും<br>കൂടുതല്‍ വിവരങ്ങള്‍ക്കായ്‌ <a href= target=>ക്ലൌഡിലെ "
-"വിവരങ്ങള്‍ നോക്കുക FAQ!</a>"
+"<b>ക്ലൌഡിലെ ചരങ്ങളെ കുറിച്ചുള്ള വിവരങ്ങള്‍</b><br>&nbsp;<br>നിലവില്‍ സംഖ്യകളെ"
+" മാത്രമെ പിന്തുണയ്ക്കുകയുള്ളു<br>ചാറ്റ് റൂം സംവിധാനം അനുവദിനീയമല്ല അത് "
+"ഒഴിവാക്കും<br>കൂടുതല്‍ വിവരങ്ങള്‍ക്കായ്‌ <a href= target=>ക്ലൌഡിലെ വിവരങ്ങള്‍"
+" നോക്കുക FAQ!</a>"
 
 msgid "A connected"
 msgstr "യോജിച്ച"
 
 msgid "a copy of the project file on your computer."
 msgstr "നിങ്ങളുടെ കംമ്പ്യൂട്ടറില്‍ ഉള്ള പ്രൊജക്റ്റിന്‍റെ ഒരു പകര്‍പ്പ്."
+
+msgid "A newer version of Scratch is available"
+msgstr ""
 
 msgid "About"
 msgstr "കുറിച്ച്‌"
@@ -564,6 +569,9 @@ msgstr "അക്കൗണ്ട്‌ സംവിധാനം"
 msgid "acos"
 msgstr "ആകസ്"
 
+msgid "Add"
+msgstr ""
+
 msgid "Add an Extension"
 msgstr "വിസ്‌തരണം നല്‍കുക"
 
@@ -572,6 +580,9 @@ msgstr "ബൂളിയന്‍ ഇന്‍പുട്ട് നല്‍ക�
 
 msgid "add comment"
 msgstr "അഭിപ്രായം രേഖപ്പെടുത്തുക"
+
+msgid "add comment here..."
+msgstr ""
 
 msgid "Add label text:"
 msgstr "മേല്‍വിലാസക്കുറി പതിക്കുക:"
@@ -582,10 +593,10 @@ msgstr "സംഖ്യ ഇന്‍പുട്ട് നല്‍കുക:"
 msgid "Add string input:"
 msgstr "ഒരുവരി ഇന്‍പുട്ടായി നല്‍കുക:"
 
-msgid "All"
+msgid "all"
 msgstr "എല്ലാം"
 
-msgid "all"
+msgid "All"
 msgstr "എല്ലാം"
 
 msgid "all around"
@@ -615,10 +626,10 @@ msgstr "B ഘടിപ്പിക്കുക"
 msgid "Back a layer"
 msgstr "ഒരു പടലം പുറകില്‍"
 
-msgid "Backdrop"
+msgid "backdrop"
 msgstr "രംഗം"
 
-msgid "backdrop"
+msgid "Backdrop"
 msgstr "രംഗം"
 
 msgid "backdrop #"
@@ -653,9 +664,9 @@ msgstr "ബാസ്സണ്‍"
 
 msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
 msgstr ""
-"നിങ്ങളുടെ സ്ക്രാച് അക്കൗണ്ട്‌ പുതിയതായതിനാല്‍, ഇതുവരെയുള്ള ക്ലൌഡ് "
-"വിവരങ്ങളിലെ മാറ്റങ്ങളൊന്നും സേവ് ചെയ്തിട്ടില്ല. ക്ലൌഡ് വിവരങ്ങളിലെ "
-"ഉപയോഗിക്കാന്‍ തുടര്‍ന്നും സൈറ്റില്‍ പങ്കുകൊള്ളുക!"
+"നിങ്ങളുടെ സ്ക്രാച് അക്കൗണ്ട്‌ പുതിയതായതിനാല്‍, ഇതുവരെയുള്ള ക്ലൌഡ് വിവരങ്ങളിലെ"
+" മാറ്റങ്ങളൊന്നും സേവ് ചെയ്തിട്ടില്ല. ക്ലൌഡ് വിവരങ്ങളിലെ ഉപയോഗിക്കാന്‍ "
+"തുടര്‍ന്നും സൈറ്റില്‍ പങ്കുകൊള്ളുക!"
 
 msgid "Bitmap"
 msgstr "ബിറ്റ്മാപ്"
@@ -705,6 +716,9 @@ msgstr "പ്ലയെറെ കൊണ്ടുവരിക:"
 msgid "Cancel"
 msgstr "വേണ്ടെന്നു വയ്ക്കുക"
 
+msgid "Cannot Add"
+msgstr ""
+
 msgid "Cannot Delete"
 msgstr "ഡിലീറ്റ് ചെയ്യാന്‍ പറ്റാത്ത"
 
@@ -722,6 +736,9 @@ msgstr "പരിധി"
 
 msgid "Cello"
 msgstr "ചെലോ"
+
+msgid "Check for updates"
+msgstr ""
 
 msgid "Choir"
 msgstr "ഗായകസംഘം"
@@ -750,7 +767,8 @@ msgstr "ഒരു സംഗീതോപകരണം"
 msgid "Claves"
 msgstr "സംഗീതോപകരണം"
 
-msgid "cleanup"
+#, fuzzy
+msgid "clean up"
 msgstr "വൃത്തിയാക്കുക"
 
 msgid "Clear"
@@ -773,6 +791,9 @@ msgstr "ക്ലൌഡ്"
 
 msgid "Cloud data"
 msgstr "ക്ലൌഡ് ഡേറ്റ"
+
+msgid "Cloud variable (stored on server)"
+msgstr ""
 
 msgid "color"
 msgstr "നിറം"
@@ -831,6 +852,9 @@ msgstr "രൂപങ്ങള്‍ > 1"
 msgid "Costumes:"
 msgstr "രൂപങ്ങള്‍:"
 
+msgid "Could not retrieve new application from server."
+msgstr ""
+
 msgid "Cowbell"
 msgstr "കവ്ബെല്‍"
 
@@ -855,11 +879,11 @@ msgstr "തീയതി"
 msgid "day of week"
 msgstr "ആഴ്ചയിലെ ദിവസം"
 
-# 83%
-msgid "Delete"
+msgid "delete"
 msgstr "ഡിലീറ്റ് ചെയ്യുക"
 
-msgid "delete"
+# 83%
+msgid "Delete"
 msgstr "ഡിലീറ്റ് ചെയ്യുക"
 
 msgid "delete variable"
@@ -874,6 +898,9 @@ msgstr "ദിശ:"
 msgid "don't rotate"
 msgstr "ഭ്രമണം ചെയ്യരുത്"
 
+msgid "Don't save"
+msgstr ""
+
 msgid "down"
 msgstr "താഴേക്ക്"
 
@@ -885,6 +912,9 @@ msgstr "ഡൗൻലോഡ്"
 
 msgid "Download to your computer"
 msgstr "കംപ്യൂട്ടറിലേക്ക് ഡൗൻലോഡ് ചെയ്യുക"
+
+msgid "Downloading new version"
+msgstr ""
 
 msgid "duplicate"
 msgstr "ഡ്യൂപ്ലിക്കേറ്റ്‌"
@@ -898,10 +928,10 @@ msgstr "e^"
 msgid "edge"
 msgstr "അരിക്"
 
-msgid "edit"
+msgid "Edit"
 msgstr "എഡിറ്റ്‌"
 
-msgid "Edit"
+msgid "edit"
 msgstr "എഡിറ്റ്‌"
 
 msgid "Edit Block"
@@ -922,8 +952,14 @@ msgstr "ഇലക്‌ട്രോണിക്‌"
 msgid "Ellipse"
 msgstr "എലിപ്സ്"
 
+msgid "empty"
+msgstr ""
+
 msgid "Erase"
 msgstr "മായ്ച്ചുകളയുക"
+
+msgid "Erase all"
+msgstr ""
 
 msgid "Eraser width"
 msgstr "റബ്ബറിന്‍റെ വിസ്തീര്‍ണ്ണം"
@@ -948,6 +984,9 @@ msgstr "തെളിഞ്ഞുവരല്‍"
 
 msgid "fade out"
 msgstr "മങ്ങിപ്പോകല്‍"
+
+msgid "false"
+msgstr ""
 
 msgid "Fantasy"
 msgstr "ഫാൻറ്റസി"
@@ -1015,11 +1054,27 @@ msgstr "കയ്യടി"
 msgid "Hardware"
 msgstr "ഹാര്‍ഡ്‌വെയര്‍"
 
+msgid "help"
+msgstr ""
+
+msgid "Hello!"
+msgstr ""
+
+msgid "Hmm..."
+msgstr ""
+
+#, fuzzy
+msgid "hello"
+msgstr "ചെലോ"
+
 msgid "hide"
 msgstr "മറച്ചുവയ്ക്കുക"
 
 msgid "High C"
 msgstr "C കൂട്ടുക"
+
+msgid "Holiday"
+msgstr ""
 
 msgid "hour"
 msgstr "മണിക്കൂര്‍"
@@ -1061,11 +1116,11 @@ msgstr "ഇടത്തോട്ടുള്ള ആരോമാര്‍ക്�
 msgid "left-right"
 msgstr "ഇടം-വലം"
 
-msgid "LEGO WeDo"
-msgstr "LEGO WeDo "
-
 msgid "length"
 msgstr "നീളം"
+
+msgid "Letters"
+msgstr ""
 
 msgid "Library"
 msgstr "ലൈബ്രറി"
@@ -1136,7 +1191,8 @@ msgstr "മെസ്സേജിന്‍റെ പേര്"
 msgid "message1"
 msgstr "മെസ്സേജ്1"
 
-msgid "Microphone Volume:"
+#, fuzzy
+msgid "Microphone volume:"
 msgstr "മൈക്കിന്‍റെ ഒച്ച:"
 
 msgid "Middle C"
@@ -1199,6 +1255,9 @@ msgstr "ക്യാമെറയില്‍ നിന്നും പുതി�
 msgid "New backdrop:"
 msgstr "പുതിയ രംഗം:"
 
+msgid "New Block"
+msgstr ""
+
 msgid "New costume from camera"
 msgstr "ക്യാമറയില്‍ നിന്നും പുതിയ രൂപം"
 
@@ -1207,6 +1266,9 @@ msgstr "പുതിയ രൂപം:"
 
 msgid "New List"
 msgstr "പുതിയ ലിസ്റ്റ്"
+
+msgid "New Message"
+msgstr ""
 
 msgid "new message..."
 msgstr "പുതിയ മെസ്സേജ്..."
@@ -1225,6 +1287,9 @@ msgstr "പുതിയ സ്പ്രയ്റ്റ്:"
 
 msgid "New Variable"
 msgstr "പുതിയ ചരം"
+
+msgid "next backdrop"
+msgstr ""
 
 msgid "No motion blocks"
 msgstr "ചലനം ബ്ലോക്കുകളില്ല"
@@ -1259,6 +1324,9 @@ msgstr "ഓണ്‍"
 msgid "on-flipped"
 msgstr ""
 
+msgid "Open"
+msgstr ""
+
 msgid "Open Cuica"
 msgstr ""
 
@@ -1277,6 +1345,10 @@ msgstr "വേറെ"
 msgid "other scripts in sprite"
 msgstr "സ്പ്രയ്റ്റിലുള്ള മറ്റു പ്രോഗ്രാമുകള്‍"
 
+#, fuzzy
+msgid "other scripts in stage"
+msgstr "സ്പ്രയ്റ്റിലുള്ള മറ്റു പ്രോഗ്രാമുകള്‍"
+
 msgid "Outdoors"
 msgstr "വെളിയില്‍"
 
@@ -1288,6 +1360,12 @@ msgstr "പുതിയ രൂപം ചിത്രീകരിക്കുക"
 
 msgid "Paint new sprite"
 msgstr "പുതിയ സ്പ്രയ്റ്റിനെ ചിത്രീകരിക്കുക"
+
+msgid "Password"
+msgstr ""
+
+msgid "Password is required"
+msgstr ""
 
 msgid "paste"
 msgstr "ഒട്ടിക്കുക"
@@ -1319,6 +1397,9 @@ msgstr ""
 msgid "pop"
 msgstr "എടുക്കുക"
 
+msgid "previous backdrop"
+msgstr ""
+
 msgid "Profile"
 msgstr "രൂപരേഖ"
 
@@ -1328,6 +1409,12 @@ msgstr "പ്രൊജെക്റ്റ് കൊണ്ടുവരാന്�
 msgid "Project not saved!"
 msgstr "പ്രൊജെക്റ്റ് സേവ് ചെയ്തിട്ടില്ല!"
 
+msgid "Project name"
+msgstr ""
+
+msgid "Project name is required"
+msgstr ""
+
 msgid "random"
 msgstr "ക്രമമില്ലാത്ത"
 
@@ -1336,6 +1423,9 @@ msgstr "റെക്കോര്‍ഡ്‌ ചെയ്യുക"
 
 msgid "Record new sound"
 msgstr "പുതിയ ശബ്ദം റെക്കോര്‍ഡ്‌ ചെയ്യുക"
+
+msgid "record..."
+msgstr ""
 
 msgid "recording1"
 msgstr "റെക്കോര്‍ഡിംഗ് 1"
@@ -1407,11 +1497,20 @@ msgstr "സ്ക്രീന്‍ പുതുക്കാതെ പ്രവ�
 msgid "Save"
 msgstr "സേവ് ചെയ്യുക"
 
+msgid "Save a copy of this project and add your own ideas."
+msgstr ""
+
+msgid "Save as"
+msgstr ""
+
 msgid "Save as a copy"
 msgstr "പകര്‍പ്പായി സേവ് ചെയ്യുക"
 
 msgid "Save now"
 msgstr "ഇപ്പോള്‍ സേവ് ചെയ്യുക"
+
+msgid "Save project?"
+msgstr ""
 
 msgid "save to local file"
 msgstr "ലോക്കല്‍ ഫയലായി സേവ് ചെയ്യുക"
@@ -1426,6 +1525,12 @@ msgid "Saving..."
 msgstr "സേവ് ചെയ്യപ്പെടുന്നു..."
 
 msgid "Saxophone"
+msgstr ""
+
+msgid "Scratch Updater"
+msgstr ""
+
+msgid "Scratch 2.0 Offline Editor"
 msgstr ""
 
 msgid "Script"
@@ -1458,10 +1563,10 @@ msgstr "സെലെക്റ്റ് ചെയ്ത് ഡ്യൂപ്ല�
 msgid "Send to back"
 msgstr "പുറകിലേക്ക് അയക്കുക"
 
-msgid "Set costume center"
+msgid "Set Costume Center"
 msgstr ""
 
-msgid "Set Costume Center"
+msgid "Set costume center"
 msgstr ""
 
 msgid "set slider min and max"
@@ -1469,6 +1574,12 @@ msgstr "സ്ലിടെര്‍ന്‍റെ മിനിമവും മ�
 
 msgid "Share"
 msgstr "പങ്കുവെയ്ക്കുക"
+
+msgid "Share to website"
+msgstr ""
+
+msgid "Share to Scratch website"
+msgstr ""
 
 msgid "shared"
 msgstr "പങ്കുവെയ്ച്ചു"
@@ -1542,11 +1653,11 @@ msgstr "ശബ്ദങ്ങളുടെ കൂട്ടം"
 msgid "Sounds"
 msgstr "ശബ്‌ദങ്ങള്‍"
 
-msgid "space"
-msgstr "സ്പേസ്"
-
 # 80%
 msgid "Space"
+msgstr "സ്പേസ്"
+
+msgid "space"
 msgstr "സ്പേസ്"
 
 msgid "Sports"
@@ -1596,17 +1707,33 @@ msgstr "മദ്ദളം"
 msgid "tan"
 msgstr ""
 
+#, fuzzy
+msgid "text"
+msgstr "വാക്യം"
+
 msgid "Text"
 msgstr "വാക്യം"
 
 msgid "that way"
 msgstr "ആ വഴി"
 
+msgid "The name is already is use."
+msgstr ""
+
+msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgstr ""
+
 msgid "Theme"
 msgstr "പ്രമേയം"
 
 msgid "Things"
 msgstr "സാധനങ്ങള്‍"
+
+msgid "thing"
+msgstr ""
+
+msgid "This is the current version."
+msgstr ""
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
 msgstr ""
@@ -1616,8 +1743,8 @@ msgstr ""
 
 msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
 msgstr ""
-"ഈ പ്രൊജക്റ്റ്‌ അകത്തു പ്രവേശിച്ചിട്ടുള്ള ഉപയോക്താക്കള്‍ക്കു മാത്രമുള്ള "
-"ക്ലൌഡ് വിവരശേഖരം ഉപയോഗിച്ചിരിക്കുന്നു."
+"ഈ പ്രൊജക്റ്റ്‌ അകത്തു പ്രവേശിച്ചിട്ടുള്ള ഉപയോക്താക്കള്‍ക്കു മാത്രമുള്ള ക്ലൌഡ്"
+" വിവരശേഖരം ഉപയോഗിച്ചിരിക്കുന്നു."
 
 msgid "this script"
 msgstr "ഈ പ്രോഗ്രം"
@@ -1651,6 +1778,9 @@ msgstr "ത്രികോണം"
 msgid "Trombone"
 msgstr "കാഹളവാദ്യം"
 
+msgid "true"
+msgstr ""
+
 msgid "Turbo mode"
 msgstr "ടര്‍ബോ രീതി"
 
@@ -1667,11 +1797,11 @@ msgstr "ഡിലീറ്റ് ചെയ്തത് കൊണ്ടുവര�
 msgid "Underwater"
 msgstr "അന്തര്‍ജലീയമായ"
 
-msgid "Undo"
-msgstr "തിരിച്ചു കൊണ്ടുവരിക"
-
 msgid "undo"
 msgstr "പൂര്‍വസ്ഥിതിയെ പ്രാപിക്കുക"
+
+msgid "Undo"
+msgstr "തിരിച്ചു കൊണ്ടുവരിക"
 
 msgid "Undo Revert"
 msgstr "പൂര്‍വസ്ഥിതിയെ പ്രാപിക്കുന്നതൊഴിവാക്കുക"
@@ -1687,6 +1817,15 @@ msgstr "മുകളിലേക്ക്"
 
 msgid "up arrow"
 msgstr "മുകളിലേക്കുള്ള ആരോമാര്‍ക്ക്‌"
+
+msgid "Update failed"
+msgstr ""
+
+msgid "Update not needed"
+msgstr ""
+
+msgid "Update now"
+msgstr ""
 
 msgid "Upload backdrop from file"
 msgstr "ഫയലില്‍ നിന്നും രംഗം ലോഡുചെയ്യുക"
@@ -1730,6 +1869,9 @@ msgstr ""
 msgid "Vibraslap"
 msgstr ""
 
+msgid "video direction"
+msgstr ""
+
 msgid "video motion"
 msgstr "വീഡിയോ ചലനം"
 
@@ -1751,6 +1893,9 @@ msgstr "സേവ് ചെയ്യണോ? റിമിക്സ് ക്ല�
 msgid "Which column do you want to import"
 msgstr "ഏതു കോളമാണ് നിങ്ങള്‍ക്ക് കൊണ്ടു വരേണ്ടത്"
 
+msgid "What's your name?"
+msgstr ""
+
 msgid "whirl"
 msgstr "കറക്കുക"
 
@@ -1759,6 +1904,9 @@ msgstr "തടിക്കട്ട"
 
 msgid "Wooden Flute"
 msgstr "ഓടക്കുഴല്‍"
+
+msgid "world"
+msgstr ""
 
 msgid "x position"
 msgstr "xസ്ഥാനം"
@@ -1775,11 +1923,26 @@ msgstr ""
 "സാധ്യമല്ല.<br>എഡിറ്ററില്‍ നിങ്ങള്‍ വരുത്തിയ മാറ്റങ്ങള്‍ ശാശ്വതമല്ല "
 "താത്‌കാലികമാണ്."
 
-msgid "Eraser width:"
-msgstr "റബ്ബറിന്‍റെ വീതി:"
+msgid "Your Scratch name"
+msgstr ""
 
-msgid "Line width:"
-msgstr "വരയുടെ വീതി:"
+msgid "Your Scratch name is required"
+msgstr ""
+
+#~ msgid "cleanup"
+#~ msgstr "വൃത്തിയാക്കുക"
+
+#~ msgid "LEGO WeDo"
+#~ msgstr "LEGO WeDo "
+
+#~ msgid "Microphone Volume:"
+#~ msgstr "മൈക്കിന്‍റെ ഒച്ച:"
+
+#~ msgid "Eraser width:"
+#~ msgstr "റബ്ബറിന്‍റെ വീതി:"
+
+#~ msgid "Line width:"
+#~ msgstr "വരയുടെ വീതി:"
 
 # 90%
 #, fuzzy
@@ -1794,3 +1957,16 @@ msgstr "വരയുടെ വീതി:"
 
 #~ msgid "More"
 #~ msgstr "കൂടുതല്‍"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>ക്ലൌഡിലെ ചരങ്ങളെ കുറിച്ചുള്ള വിവരങ്ങള്‍</b><br>&nbsp;<br>നിലവില്‍ സംഖ്യകളെ"
+#~ " മാത്രമെ പിന്തുണയ്ക്കുകയുള്ളു<br>ചാറ്റ് റൂം സംവിധാനം അനുവദിനീയമല്ല അത് "
+#~ "ഒഴിവാക്കും<br>കൂടുതല്‍ വിവരങ്ങള്‍ക്കായ്‌ <a href= target=>ക്ലൌഡിലെ വിവരങ്ങള്‍"
+#~ " നോക്കുക FAQ!</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "ഒന്നുകൂടി ചെയ്യാനോ അല്ലെങ്കില്‍ സേവ് ചെയ്യാനോ ക്ലിക്ക് ചെയ്യുക"

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-03-06 11:13+0200\n"
+"PO-Revision-Date: 2014-03-06 11:13+0000\n"
 "Last-Translator: vinayakumar  <vnkmr7620@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kn\n"
@@ -11,7 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.1.6\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1394104438.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -529,8 +530,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2014-03-06 15:56+0200\n"
+"POT-Creation-Date: 2014-11-23 12:45+0000\n"
+"PO-Revision-Date: 2014-03-06 15:56+0000\n"
 "Last-Translator: vinayakumar  <vnkmr7620@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kn\n"
@@ -538,7 +539,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.1.6\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1394121376.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -555,6 +557,9 @@ msgstr "A ಕೂಡಿದೆ"
 
 msgid "a copy of the project file on your computer."
 msgstr "ನಿಮ್ಮ ಗಣಕಯಂತ್ರದಲ್ಲಿ ನೀಯೋಜನೆ ಕಡತದ ಪ್ರತಿ ಇದೆ"
+
+msgid "A newer version of Scratch is available"
+msgstr ""
 
 msgid "About"
 msgstr ""
@@ -574,6 +579,9 @@ msgstr "ಖಾತೆಯ ಅಳವಡಿಕೆಗಳು"
 msgid "acos"
 msgstr "acos"
 
+msgid "Add"
+msgstr ""
+
 msgid "Add an Extension"
 msgstr ""
 
@@ -582,6 +590,9 @@ msgstr "ಬೂಲಿಯನ್ ದತ್ತಾoಸವನ್ನು ಒಳಸೇರ
 
 msgid "add comment"
 msgstr "ಟೀಕೆಯನ್ನು ಕೂಡಿಸು"
+
+msgid "add comment here..."
+msgstr ""
 
 msgid "Add label text:"
 msgstr "ಶೀರ್ಷಿಕೆ ಪಠ್ಯವನ್ನು ಕೂಡಿಸು"
@@ -592,10 +603,10 @@ msgstr "ಅಂಕಿಗಳ ದತ್ತಾoಸವನ್ನು ಕೂಡಿಸಿ
 msgid "Add string input:"
 msgstr "ಅಕ್ಷರ ಪುಂಜದ ದತ್ತಾoಸಾವನ್ನು ಕೂಡಿಸು"
 
-msgid "All"
+msgid "all"
 msgstr "ಎಲ್ಲಾ"
 
-msgid "all"
+msgid "All"
 msgstr "ಎಲ್ಲಾ"
 
 msgid "all around"
@@ -625,10 +636,10 @@ msgstr "B ಕೂಡಿದೆ"
 msgid "Back a layer"
 msgstr "ಒಂದು ಪರದೆಯ ಹಿಂದೆ"
 
-msgid "Backdrop"
+msgid "backdrop"
 msgstr "ಹಿಂದಣ"
 
-msgid "backdrop"
+msgid "Backdrop"
 msgstr "ಹಿಂದಣ"
 
 msgid "backdrop #"
@@ -714,6 +725,9 @@ msgstr ""
 msgid "Cancel"
 msgstr ""
 
+msgid "Cannot Add"
+msgstr ""
+
 msgid "Cannot Delete"
 msgstr ""
 
@@ -730,6 +744,9 @@ msgid "ceiling"
 msgstr ""
 
 msgid "Cello"
+msgstr ""
+
+msgid "Check for updates"
 msgstr ""
 
 msgid "Choir"
@@ -759,7 +776,7 @@ msgstr ""
 msgid "Claves"
 msgstr ""
 
-msgid "cleanup"
+msgid "clean up"
 msgstr ""
 
 msgid "Clear"
@@ -781,6 +798,9 @@ msgid "Cloud"
 msgstr ""
 
 msgid "Cloud data"
+msgstr ""
+
+msgid "Cloud variable (stored on server)"
 msgstr ""
 
 msgid "color"
@@ -842,6 +862,9 @@ msgstr ""
 msgid "Costumes:"
 msgstr ""
 
+msgid "Could not retrieve new application from server."
+msgstr ""
+
 msgid "Cowbell"
 msgstr ""
 
@@ -868,12 +891,12 @@ msgstr ""
 msgid "day of week"
 msgstr ""
 
+msgid "delete"
+msgstr "ಅಳಿಸು"
+
 # 83%
 #, fuzzy
 msgid "Delete"
-msgstr "ಅಳಿಸು"
-
-msgid "delete"
 msgstr "ಅಳಿಸು"
 
 msgid "delete variable"
@@ -888,6 +911,9 @@ msgstr ""
 msgid "don't rotate"
 msgstr ""
 
+msgid "Don't save"
+msgstr ""
+
 msgid "down"
 msgstr "ಕೆಳಗೆ"
 
@@ -898,6 +924,9 @@ msgid "Download"
 msgstr ""
 
 msgid "Download to your computer"
+msgstr ""
+
+msgid "Downloading new version"
 msgstr ""
 
 msgid "duplicate"
@@ -912,10 +941,10 @@ msgstr ""
 msgid "edge"
 msgstr "ಕೊನೆ"
 
-msgid "edit"
+msgid "Edit"
 msgstr "ಚಿತ್ರ ಸಂಕಲನ"
 
-msgid "Edit"
+msgid "edit"
 msgstr "ಚಿತ್ರ ಸಂಕಲನ"
 
 msgid "Edit Block"
@@ -936,7 +965,13 @@ msgstr ""
 msgid "Ellipse"
 msgstr ""
 
+msgid "empty"
+msgstr ""
+
 msgid "Erase"
+msgstr ""
+
+msgid "Erase all"
 msgstr ""
 
 msgid "Eraser width"
@@ -961,6 +996,9 @@ msgid "fade in"
 msgstr ""
 
 msgid "fade out"
+msgstr ""
+
+msgid "false"
 msgstr ""
 
 msgid "Fantasy"
@@ -1029,10 +1067,25 @@ msgstr ""
 msgid "Hardware"
 msgstr ""
 
+msgid "help"
+msgstr ""
+
+msgid "Hello!"
+msgstr ""
+
+msgid "Hmm..."
+msgstr ""
+
+msgid "hello"
+msgstr ""
+
 msgid "hide"
 msgstr ""
 
 msgid "High C"
+msgstr ""
+
+msgid "Holiday"
 msgstr ""
 
 msgid "hour"
@@ -1074,10 +1127,10 @@ msgstr "ಎಡ ಒತ್ತುಗುಂಡಿ"
 msgid "left-right"
 msgstr ""
 
-msgid "LEGO WeDo"
+msgid "length"
 msgstr ""
 
-msgid "length"
+msgid "Letters"
 msgstr ""
 
 msgid "Library"
@@ -1148,7 +1201,7 @@ msgstr ""
 msgid "message1"
 msgstr ""
 
-msgid "Microphone Volume:"
+msgid "Microphone volume:"
 msgstr ""
 
 msgid "Middle C"
@@ -1212,6 +1265,9 @@ msgstr ""
 msgid "New backdrop:"
 msgstr ""
 
+msgid "New Block"
+msgstr ""
+
 msgid "New costume from camera"
 msgstr ""
 
@@ -1219,6 +1275,9 @@ msgid "New costume:"
 msgstr ""
 
 msgid "New List"
+msgstr ""
+
+msgid "New Message"
 msgstr ""
 
 msgid "new message..."
@@ -1237,6 +1296,9 @@ msgid "New sprite:"
 msgstr ""
 
 msgid "New Variable"
+msgstr ""
+
+msgid "next backdrop"
 msgstr ""
 
 msgid "No motion blocks"
@@ -1272,6 +1334,9 @@ msgstr "ಚಲಿಸು"
 msgid "on-flipped"
 msgstr ""
 
+msgid "Open"
+msgstr ""
+
 msgid "Open Cuica"
 msgstr ""
 
@@ -1290,6 +1355,9 @@ msgstr ""
 msgid "other scripts in sprite"
 msgstr ""
 
+msgid "other scripts in stage"
+msgstr ""
+
 msgid "Outdoors"
 msgstr ""
 
@@ -1300,6 +1368,12 @@ msgid "Paint new costume"
 msgstr ""
 
 msgid "Paint new sprite"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Password is required"
 msgstr ""
 
 msgid "paste"
@@ -1332,6 +1406,9 @@ msgstr ""
 msgid "pop"
 msgstr "ಪಾಪ್"
 
+msgid "previous backdrop"
+msgstr ""
+
 msgid "Profile"
 msgstr ""
 
@@ -1341,6 +1418,12 @@ msgstr ""
 msgid "Project not saved!"
 msgstr ""
 
+msgid "Project name"
+msgstr ""
+
+msgid "Project name is required"
+msgstr ""
+
 msgid "random"
 msgstr ""
 
@@ -1348,6 +1431,9 @@ msgid "Record"
 msgstr "ಧ್ವನಿ ಗ್ರಹಣ"
 
 msgid "Record new sound"
+msgstr ""
+
+msgid "record..."
 msgstr ""
 
 msgid "recording1"
@@ -1421,10 +1507,19 @@ msgstr ""
 msgid "Save"
 msgstr ""
 
+msgid "Save a copy of this project and add your own ideas."
+msgstr ""
+
+msgid "Save as"
+msgstr ""
+
 msgid "Save as a copy"
 msgstr ""
 
 msgid "Save now"
+msgstr ""
+
+msgid "Save project?"
 msgstr ""
 
 msgid "save to local file"
@@ -1440,6 +1535,12 @@ msgid "Saving..."
 msgstr ""
 
 msgid "Saxophone"
+msgstr ""
+
+msgid "Scratch Updater"
+msgstr ""
+
+msgid "Scratch 2.0 Offline Editor"
 msgstr ""
 
 msgid "Script"
@@ -1472,16 +1573,22 @@ msgstr ""
 msgid "Send to back"
 msgstr ""
 
-msgid "Set costume center"
+msgid "Set Costume Center"
 msgstr ""
 
-msgid "Set Costume Center"
+msgid "Set costume center"
 msgstr ""
 
 msgid "set slider min and max"
 msgstr ""
 
 msgid "Share"
+msgstr ""
+
+msgid "Share to website"
+msgstr ""
+
+msgid "Share to Scratch website"
 msgstr ""
 
 msgid "shared"
@@ -1558,12 +1665,12 @@ msgstr ""
 msgid "Sounds"
 msgstr ""
 
-msgid "space"
-msgstr "ಜಾಗ"
-
 # 80%
 #, fuzzy
 msgid "Space"
+msgstr "ಜಾಗ"
+
+msgid "space"
 msgstr "ಜಾಗ"
 
 msgid "Sports"
@@ -1613,16 +1720,31 @@ msgstr ""
 msgid "tan"
 msgstr "atan"
 
+msgid "text"
+msgstr ""
+
 msgid "Text"
 msgstr ""
 
 msgid "that way"
 msgstr ""
 
+msgid "The name is already is use."
+msgstr ""
+
+msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgstr ""
+
 msgid "Theme"
 msgstr ""
 
 msgid "Things"
+msgstr ""
+
+msgid "thing"
+msgstr ""
+
+msgid "This is the current version."
 msgstr ""
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
@@ -1661,6 +1783,9 @@ msgstr ""
 msgid "Trombone"
 msgstr ""
 
+msgid "true"
+msgstr ""
+
 msgid "Turbo mode"
 msgstr ""
 
@@ -1678,12 +1803,12 @@ msgstr "ಅಳಿಸು"
 msgid "Underwater"
 msgstr ""
 
+msgid "undo"
+msgstr "ಮಾಡ ಬೇಡ"
+
 # 75%
 #, fuzzy
 msgid "Undo"
-msgstr "ಮಾಡ ಬೇಡ"
-
-msgid "undo"
 msgstr "ಮಾಡ ಬೇಡ"
 
 msgid "Undo Revert"
@@ -1700,6 +1825,15 @@ msgstr "ಮೇಲೆ"
 
 msgid "up arrow"
 msgstr "ಮೇಲೆ ಒತ್ತುಗುಂಡಿ"
+
+msgid "Update failed"
+msgstr ""
+
+msgid "Update not needed"
+msgstr ""
+
+msgid "Update now"
+msgstr ""
 
 msgid "Upload backdrop from file"
 msgstr ""
@@ -1743,6 +1877,9 @@ msgstr ""
 msgid "Vibraslap"
 msgstr ""
 
+msgid "video direction"
+msgstr ""
+
 msgid "video motion"
 msgstr ""
 
@@ -1764,6 +1901,9 @@ msgstr ""
 msgid "Which column do you want to import"
 msgstr ""
 
+msgid "What's your name?"
+msgstr ""
+
 msgid "whirl"
 msgstr "ತಿರುಗು"
 
@@ -1771,6 +1911,9 @@ msgid "Wood Block"
 msgstr ""
 
 msgid "Wooden Flute"
+msgstr ""
+
+msgid "world"
 msgstr ""
 
 msgid "x position"
@@ -1785,10 +1928,10 @@ msgstr ""
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
 msgstr ""
 
-msgid "Eraser width:"
+msgid "Your Scratch name"
 msgstr ""
 
-msgid "Line width:"
+msgid "Your Scratch name is required"
 msgstr ""
 
 #~ msgid "Paint"
@@ -1796,3 +1939,13 @@ msgstr ""
 
 #~ msgid "More"
 #~ msgstr "ಹೆಚ್ಚು"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>ಮೋಡದ ಪರಿವರ್ತನೆಗಳ ಮಾಹಿತಿ</b><br>&nbsp;<br>ಈವಾಗ ಅಂಕಿಗಳಿಗೆ ಮಾತ್ರ ಬೆಂಬಲ "
+#~ "ನೀಡುತ್ತದೆ<br>ಸಂಬಾಷಣೆ ಕೋಣಗಳಿಗೆ ಅವಕಾಶವಿಲ್ಲ,ಮತ್ತು ಇದನ್ನು "
+#~ "ತಗೆದುಹಾಕಲಾಗುತ್ತದೆ<br>ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ,<a href=target=>ಮೋಡದ ದತ್ತಾ೦ಸಗಳನ್ನು "
+#~ "ನೋಡಿ FAQ!</a>"

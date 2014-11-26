@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Scratch Hebrew Version 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2013-05-30 14:18+0200\n"
+"PO-Revision-Date: 2013-05-30 14:18+0000\n"
 "Last-Translator: MotiB <moti.ben.ari@gmail.com>\n"
 "Language-Team: Scratch Hebrew Translators <moti.ben.ari@gmail.com>\n"
 "Language: he\n"
@@ -11,7 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.1.6\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1369923502.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -560,8 +561,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2013-07-10 16:36+0200\n"
+"POT-Creation-Date: 2014-11-23 12:44+0000\n"
+"PO-Revision-Date: 2013-07-10 16:36+0000\n"
 "Last-Translator: adlogi <adlogi@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: he\n"
@@ -569,7 +570,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.1.6\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1373474190.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -584,6 +586,9 @@ msgstr "A מחובר"
 
 msgid "a copy of the project file on your computer."
 msgstr "עותק של קובץ פרויקט על המחשב שלך."
+
+msgid "A newer version of Scratch is available"
+msgstr ""
 
 msgid "About"
 msgstr ""
@@ -603,6 +608,9 @@ msgstr "הגדרות של החשבון"
 msgid "acos"
 msgstr "acos"
 
+msgid "Add"
+msgstr ""
+
 msgid "Add an Extension"
 msgstr ""
 
@@ -612,6 +620,9 @@ msgstr "הוסף קלט בוליאני:"
 
 msgid "add comment"
 msgstr "הוסף הערה:"
+
+msgid "add comment here..."
+msgstr ""
 
 msgid "Add label text:"
 msgstr "הוסף מחרוזת תווית:"
@@ -624,10 +635,10 @@ msgstr "הוסף קלט מספר:"
 msgid "Add string input:"
 msgstr "הוסף קלט מחרוזת:"
 
-msgid "All"
+msgid "all"
 msgstr "הכל"
 
-msgid "all"
+msgid "All"
 msgstr "הכל"
 
 msgid "all around"
@@ -657,11 +668,11 @@ msgstr "B מחובר"
 msgid "Back a layer"
 msgstr "שכבה לאחור"
 
-# 87%
-msgid "Backdrop"
+msgid "backdrop"
 msgstr "רקע"
 
-msgid "backdrop"
+# 87%
+msgid "Backdrop"
 msgstr "רקע"
 
 msgid "backdrop #"
@@ -746,6 +757,9 @@ msgstr "ניתן לגרור שחקן:"
 msgid "Cancel"
 msgstr "ביטול"
 
+msgid "Cannot Add"
+msgstr ""
+
 msgid "Cannot Delete"
 msgstr "לא ניתן למחוק"
 
@@ -763,6 +777,9 @@ msgstr "תקרה"
 
 msgid "Cello"
 msgstr "צ'לו"
+
+msgid "Check for updates"
+msgstr ""
 
 msgid "Choir"
 msgstr "מקהלה"
@@ -791,7 +808,7 @@ msgstr "קלרינט"
 msgid "Claves"
 msgstr "מקלות הקשה"
 
-msgid "cleanup"
+msgid "clean up"
 msgstr ""
 
 msgid "Clear"
@@ -814,6 +831,9 @@ msgstr "ענן"
 
 msgid "Cloud data"
 msgstr "נתוני ענן"
+
+msgid "Cloud variable (stored on server)"
+msgstr ""
 
 msgid "color"
 msgstr "צבע"
@@ -874,6 +894,9 @@ msgstr "תלבושות > 1"
 msgid "Costumes:"
 msgstr "תלבושות:"
 
+msgid "Could not retrieve new application from server."
+msgstr ""
+
 msgid "Cowbell"
 msgstr "פעמון פרה"
 
@@ -898,11 +921,11 @@ msgstr "תאריך"
 msgid "day of week"
 msgstr "יום בשבוע"
 
-# 83%
-msgid "Delete"
+msgid "delete"
 msgstr "מחק"
 
-msgid "delete"
+# 83%
+msgid "Delete"
 msgstr "מחק"
 
 msgid "delete variable"
@@ -918,6 +941,9 @@ msgstr "כיוון:"
 msgid "don't rotate"
 msgstr "לא לסובב"
 
+msgid "Don't save"
+msgstr ""
+
 msgid "down"
 msgstr "מטה"
 
@@ -929,6 +955,9 @@ msgstr "הורד"
 
 msgid "Download to your computer"
 msgstr "הורד למחשב שלך"
+
+msgid "Downloading new version"
+msgstr ""
 
 msgid "duplicate"
 msgstr "שכפל"
@@ -942,10 +971,10 @@ msgstr " ^e"
 msgid "edge"
 msgstr "קצה"
 
-msgid "edit"
+msgid "Edit"
 msgstr "ערוך"
 
-msgid "Edit"
+msgid "edit"
 msgstr "ערוך"
 
 msgid "Edit Block"
@@ -966,8 +995,14 @@ msgstr "אלקטרוני"
 msgid "Ellipse"
 msgstr "אליפסה"
 
+msgid "empty"
+msgstr ""
+
 msgid "Erase"
 msgstr "מחק"
+
+msgid "Erase all"
+msgstr ""
 
 # 92%
 #, fuzzy
@@ -994,6 +1029,9 @@ msgstr "הצג בהדרגתיות"
 
 msgid "fade out"
 msgstr "הסתר בהדרגתיות"
+
+msgid "false"
+msgstr ""
 
 msgid "Fantasy"
 msgstr "פנטסיה"
@@ -1061,10 +1099,26 @@ msgstr "מחיאת כף"
 msgid "Hardware"
 msgstr ""
 
+msgid "help"
+msgstr ""
+
+msgid "Hello!"
+msgstr ""
+
+msgid "Hmm..."
+msgstr ""
+
+#, fuzzy
+msgid "hello"
+msgstr "צ'לו"
+
 msgid "hide"
 msgstr "הסתר"
 
 msgid "High C"
+msgstr ""
+
+msgid "Holiday"
 msgstr ""
 
 msgid "hour"
@@ -1108,10 +1162,10 @@ msgstr "חץ שמאלי"
 msgid "left-right"
 msgstr "שמאל-ימין"
 
-msgid "LEGO WeDo"
+msgid "length"
 msgstr ""
 
-msgid "length"
+msgid "Letters"
 msgstr ""
 
 msgid "Library"
@@ -1184,7 +1238,7 @@ msgstr "שם מסר"
 msgid "message1"
 msgstr "מסר1"
 
-msgid "Microphone Volume:"
+msgid "Microphone volume:"
 msgstr ""
 
 msgid "Middle C"
@@ -1248,6 +1302,9 @@ msgstr "רקע חדש ממצלמה"
 msgid "New backdrop:"
 msgstr "רקע חדש:"
 
+msgid "New Block"
+msgstr ""
+
 msgid "New costume from camera"
 msgstr "תלבושת חדשה ממצלמה"
 
@@ -1257,6 +1314,9 @@ msgstr "תלבושת חדשה:"
 
 msgid "New List"
 msgstr "רשימה חדשה"
+
+msgid "New Message"
+msgstr ""
 
 msgid "new message..."
 msgstr "מסר חדש..."
@@ -1276,6 +1336,9 @@ msgstr "דמות חדשה:"
 
 msgid "New Variable"
 msgstr "משתנה חדשה"
+
+msgid "next backdrop"
+msgstr ""
 
 msgid "No motion blocks"
 msgstr "ללא פקודות תנועה"
@@ -1310,6 +1373,9 @@ msgstr "הפעל"
 msgid "on-flipped"
 msgstr "תמונת ראי"
 
+msgid "Open"
+msgstr ""
+
 msgid "Open Cuica"
 msgstr "פתח קויקה"
 
@@ -1328,6 +1394,10 @@ msgstr "אחר"
 msgid "other scripts in sprite"
 msgstr "תסריטים אחרים בדמות"
 
+#, fuzzy
+msgid "other scripts in stage"
+msgstr "תסריטים אחרים בדמות"
+
 msgid "Outdoors"
 msgstr "בחוץ"
 
@@ -1339,6 +1409,12 @@ msgstr "צייר תלבושת חדשה"
 
 msgid "Paint new sprite"
 msgstr "צייר דמות חדשה"
+
+msgid "Password"
+msgstr ""
+
+msgid "Password is required"
+msgstr ""
 
 msgid "paste"
 msgstr "הדבק"
@@ -1371,6 +1447,9 @@ msgstr "פיציקטו"
 msgid "pop"
 msgstr "פופ"
 
+msgid "previous backdrop"
+msgstr ""
+
 msgid "Profile"
 msgstr "פרופיל"
 
@@ -1380,6 +1459,12 @@ msgstr ""
 msgid "Project not saved!"
 msgstr "פרויקט לא נשמר!"
 
+msgid "Project name"
+msgstr ""
+
+msgid "Project name is required"
+msgstr ""
+
 msgid "random"
 msgstr "אקראי"
 
@@ -1388,6 +1473,9 @@ msgstr "הקלט"
 
 msgid "Record new sound"
 msgstr "הקלט צליל חדש"
+
+msgid "record..."
+msgstr ""
 
 msgid "recording1"
 msgstr "הקלטה1"
@@ -1459,11 +1547,20 @@ msgstr "הרץ ללא עדכון מסך"
 msgid "Save"
 msgstr "שמור"
 
+msgid "Save a copy of this project and add your own ideas."
+msgstr ""
+
+msgid "Save as"
+msgstr ""
+
 msgid "Save as a copy"
 msgstr "שמור כעותק"
 
 msgid "Save now"
 msgstr "שמור עכשיו"
+
+msgid "Save project?"
+msgstr ""
 
 msgid "save to local file"
 msgstr "שמור לקובץ מקומי"
@@ -1479,6 +1576,12 @@ msgstr "שומר..."
 
 msgid "Saxophone"
 msgstr "סקסופון"
+
+msgid "Scratch Updater"
+msgstr ""
+
+msgid "Scratch 2.0 Offline Editor"
+msgstr ""
 
 # 85%
 msgid "Script"
@@ -1512,11 +1615,11 @@ msgstr "בחר ושכפל"
 msgid "Send to back"
 msgstr "העבר לאחור"
 
-# 88%
-msgid "Set costume center"
+msgid "Set Costume Center"
 msgstr "קבע את מרכז התלבושת"
 
-msgid "Set Costume Center"
+# 88%
+msgid "Set costume center"
 msgstr "קבע את מרכז התלבושת"
 
 msgid "set slider min and max"
@@ -1524,6 +1627,12 @@ msgstr ""
 
 msgid "Share"
 msgstr "שתף"
+
+msgid "Share to website"
+msgstr ""
+
+msgid "Share to Scratch website"
+msgstr ""
 
 msgid "shared"
 msgstr "משותף"
@@ -1599,11 +1708,11 @@ msgstr "ספריית צלילים"
 msgid "Sounds"
 msgstr "צלילים"
 
-msgid "space"
-msgstr "רווח"
-
 # 80%
 msgid "Space"
+msgstr "רווח"
+
+msgid "space"
 msgstr "רווח"
 
 msgid "Sports"
@@ -1654,17 +1763,33 @@ msgstr "תוף מרים"
 msgid "tan"
 msgstr "tan"
 
+#, fuzzy
+msgid "text"
+msgstr "טקסט"
+
 msgid "Text"
 msgstr "טקסט"
 
 msgid "that way"
 msgstr "בדרך ההיא"
 
+msgid "The name is already is use."
+msgstr ""
+
+msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgstr ""
+
 msgid "Theme"
 msgstr "תמה"
 
 msgid "Things"
 msgstr "חפצים"
+
+msgid "thing"
+msgstr ""
+
+msgid "This is the current version."
+msgstr ""
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
 msgstr "הפרויקט מסוגל לזהות אותך. כדי להסתיר את זהותך, נתק."
@@ -1702,6 +1827,9 @@ msgstr "משולש"
 msgid "Trombone"
 msgstr "טרומבון"
 
+msgid "true"
+msgstr ""
+
 # 90%
 msgid "Turbo mode"
 msgstr "מצב טורבו"
@@ -1719,11 +1847,11 @@ msgstr "שחזר"
 msgid "Underwater"
 msgstr "תת-מימי"
 
-# 75%
-msgid "Undo"
+msgid "undo"
 msgstr "בטל"
 
-msgid "undo"
+# 75%
+msgid "Undo"
 msgstr "בטל"
 
 msgid "Undo Revert"
@@ -1740,6 +1868,15 @@ msgstr "מעלה"
 
 msgid "up arrow"
 msgstr "חץ מעלה"
+
+msgid "Update failed"
+msgstr ""
+
+msgid "Update not needed"
+msgstr ""
+
+msgid "Update now"
+msgstr ""
 
 msgid "Upload backdrop from file"
 msgstr "העלה רקע מקובץ"
@@ -1783,6 +1920,9 @@ msgstr "ויברפון"
 msgid "Vibraslap"
 msgstr "מנדולינה"
 
+msgid "video direction"
+msgstr ""
+
 msgid "video motion"
 msgstr "תנועת וידאו"
 
@@ -1804,6 +1944,9 @@ msgstr "רוצה לשמור? לחץ ערבב"
 msgid "Which column do you want to import"
 msgstr "איזה טור לייבא"
 
+msgid "What's your name?"
+msgstr ""
+
 msgid "whirl"
 msgstr "סחרור"
 
@@ -1812,6 +1955,9 @@ msgstr "לבנת עץ"
 
 msgid "Wooden Flute"
 msgstr "חליל עץ"
+
+msgid "world"
+msgstr ""
 
 msgid "x position"
 msgstr "מיקום על ציר ה-x"
@@ -1825,11 +1971,17 @@ msgstr "שנה"
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
 msgstr "אינך רשאי לערוך משתני ענן של מישהו אחר<br>כל שינוי יהיה זמני."
 
-msgid "Eraser width:"
-msgstr "רוחב מחק:"
+msgid "Your Scratch name"
+msgstr ""
 
-msgid "Line width:"
-msgstr "רוחב קו:"
+msgid "Your Scratch name is required"
+msgstr ""
+
+#~ msgid "Eraser width:"
+#~ msgstr "רוחב מחק:"
+
+#~ msgid "Line width:"
+#~ msgstr "רוחב קו:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "הוסף קלט בוליאני:"
@@ -1924,3 +2076,14 @@ msgstr "רוחב קו:"
 
 #~ msgid "Short Guiro"
 #~ msgstr " קצר חשמלי "
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "מידע בקשר למשתני ענן.כעת נתמכים רק משתנים. חדרי שיחות אינם מורשים ויימחקו. "
+#~ "למידע נוסף, ראה: שאלות נפוצות."
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "לחץ לנסות שנית או כדי לשמור"

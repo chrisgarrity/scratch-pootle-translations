@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:47+0000\n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
 "PO-Revision-Date: 2014-11-02 14:43+0000\n"
 "Last-Translator: Krzysztof <ko_23@o2.pl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -955,6 +955,9 @@ msgstr "Zmień nazwę"
 msgid "rename variable"
 msgstr "zmień nazwę zmiennej"
 
+msgid "Replace existing project"
+msgstr ""
+
 msgid "requires sign in"
 msgstr "wymaga zalogowania"
 
@@ -1222,7 +1225,7 @@ msgstr "Tekst"
 msgid "that way"
 msgstr "w tamten sposób"
 
-msgid "The name is already is use."
+msgid "The name is already in use."
 msgstr ""
 
 msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
@@ -1432,6 +1435,25 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+"For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Informacje o zmiennych w Chmurze</b><br>&nbsp;<br>Aktualnie jedynie "
+"liczby są wspierane.<br>Pokoje czatu nie są dozwolone i zostaną usunięte<br>"
+"Aby uzyskać więcej informacji <a href= target=>sprawdź FAQ na temat danych w "
+"Chmurze !</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "Naciśnij    aby spróbować ponownie lub    aby zapisać"
+
+msgid "Eraser width:"
+msgstr "Szerokość gumki:"
+
+msgid "Line width:"
+msgstr "Szerokość linii:"
+
 #~ msgid "cleanup"
 #~ msgstr "sprzątanie"
 
@@ -1440,12 +1462,6 @@ msgstr ""
 
 #~ msgid "Microphone Volume:"
 #~ msgstr "Głośność mikrofonu:"
-
-#~ msgid "Eraser width:"
-#~ msgstr "Szerokość gumki:"
-
-#~ msgid "Line width:"
-#~ msgstr "Szerokość linii:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Dodaj parametr logiczny:"
@@ -1602,16 +1618,3 @@ msgstr ""
 
 #~ msgid "Short Guiro"
 #~ msgstr "Krótkie guiro"
-
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Informacje o zmiennych w Chmurze</b><br>&nbsp;<br>Aktualnie jedynie "
-#~ "liczby są wspierane.<br>Pokoje czatu nie są dozwolone i zostaną usunięte<br>"
-#~ "Aby uzyskać więcej informacji <a href= target=>sprawdź FAQ na temat danych w "
-#~ "Chmurze !</a>"
-
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "Naciśnij    aby spróbować ponownie lub    aby zapisać"

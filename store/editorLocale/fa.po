@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-07-10 22:52+0200\n"
+"PO-Revision-Date: 2014-07-10 22:52+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fa\n"
@@ -11,7 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Pootle 2.1.6\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1405032728.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -553,8 +554,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2013-02-01 16:23+0200\n"
+"POT-Creation-Date: 2014-11-23 12:43+0000\n"
+"PO-Revision-Date: 2013-02-01 16:23+0000\n"
 "Last-Translator: ehsansadeghi <m.e.sadeghi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fa\n"
@@ -562,7 +563,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Pootle 2.1.6\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1359735796.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -574,6 +576,9 @@ msgid "A connected"
 msgstr "یک ارتباط"
 
 msgid "a copy of the project file on your computer."
+msgstr ""
+
+msgid "A newer version of Scratch is available"
 msgstr ""
 
 msgid "About"
@@ -594,6 +599,9 @@ msgstr ""
 msgid "acos"
 msgstr "acos"
 
+msgid "Add"
+msgstr ""
+
 msgid "Add an Extension"
 msgstr ""
 
@@ -604,6 +612,9 @@ msgstr "یک ورودی بولین (صفر یا یک) اضافه کنید:"
 
 msgid "add comment"
 msgstr "نظر دهید"
+
+msgid "add comment here..."
+msgstr ""
 
 msgid "Add label text:"
 msgstr "یک برچسب نوشتاری بگذارید:"
@@ -618,11 +629,11 @@ msgstr "یک ورودی عددی اضافه کنید:"
 msgid "Add string input:"
 msgstr "یک ورودی رشته ای اضافه کنید:"
 
-msgid "All"
-msgstr ""
-
 msgid "all"
 msgstr "همه"
+
+msgid "All"
+msgstr ""
 
 msgid "all around"
 msgstr "همه اطراف"
@@ -651,10 +662,10 @@ msgstr "B وصل است"
 msgid "Back a layer"
 msgstr ""
 
-msgid "Backdrop"
+msgid "backdrop"
 msgstr ""
 
-msgid "backdrop"
+msgid "Backdrop"
 msgstr ""
 
 msgid "backdrop #"
@@ -738,6 +749,9 @@ msgstr ""
 msgid "Cancel"
 msgstr ""
 
+msgid "Cannot Add"
+msgstr ""
+
 msgid "Cannot Delete"
 msgstr "غیرقابل حذف"
 
@@ -755,6 +769,9 @@ msgstr "سقف"
 
 msgid "Cello"
 msgstr "ویلون سل"
+
+msgid "Check for updates"
+msgstr ""
 
 msgid "Choir"
 msgstr "گروه کر"
@@ -783,7 +800,7 @@ msgstr "کلارینت"
 msgid "Claves"
 msgstr "Claves"
 
-msgid "cleanup"
+msgid "clean up"
 msgstr ""
 
 msgid "Clear"
@@ -805,6 +822,9 @@ msgid "Cloud"
 msgstr ""
 
 msgid "Cloud data"
+msgstr ""
+
+msgid "Cloud variable (stored on server)"
 msgstr ""
 
 msgid "color"
@@ -871,6 +891,9 @@ msgstr ""
 msgid "Costumes:"
 msgstr "لباس1"
 
+msgid "Could not retrieve new application from server."
+msgstr ""
+
 msgid "Cowbell"
 msgstr "Cowbell"
 
@@ -895,12 +918,12 @@ msgstr "تاریخ"
 msgid "day of week"
 msgstr "روز هفته"
 
+msgid "delete"
+msgstr "حذف"
+
 # 83%
 #, fuzzy
 msgid "Delete"
-msgstr "حذف"
-
-msgid "delete"
 msgstr "حذف"
 
 msgid "delete variable"
@@ -917,6 +940,9 @@ msgstr "جهت"
 msgid "don't rotate"
 msgstr "نچرخان"
 
+msgid "Don't save"
+msgstr ""
+
 msgid "down"
 msgstr "پایین"
 
@@ -927,6 +953,9 @@ msgid "Download"
 msgstr ""
 
 msgid "Download to your computer"
+msgstr ""
+
+msgid "Downloading new version"
 msgstr ""
 
 msgid "duplicate"
@@ -941,10 +970,10 @@ msgstr "e ^"
 msgid "edge"
 msgstr "لبه"
 
-msgid "edit"
+msgid "Edit"
 msgstr "ویرایش"
 
-msgid "Edit"
+msgid "edit"
 msgstr "ویرایش"
 
 msgid "Edit Block"
@@ -965,7 +994,13 @@ msgstr ""
 msgid "Ellipse"
 msgstr ""
 
+msgid "empty"
+msgstr ""
+
 msgid "Erase"
+msgstr ""
+
+msgid "Erase all"
 msgstr ""
 
 msgid "Eraser width"
@@ -991,6 +1026,9 @@ msgstr "روشنی"
 
 msgid "fade out"
 msgstr "تیرگی"
+
+msgid "false"
+msgstr ""
 
 msgid "Fantasy"
 msgstr ""
@@ -1058,10 +1096,26 @@ msgstr "کف زدن"
 msgid "Hardware"
 msgstr ""
 
+msgid "help"
+msgstr ""
+
+msgid "Hello!"
+msgstr ""
+
+msgid "Hmm..."
+msgstr ""
+
+#, fuzzy
+msgid "hello"
+msgstr "ویلون سل"
+
 msgid "hide"
 msgstr ""
 
 msgid "High C"
+msgstr ""
+
+msgid "Holiday"
 msgstr ""
 
 msgid "hour"
@@ -1105,10 +1159,10 @@ msgstr "کلید چپ"
 msgid "left-right"
 msgstr "از چپ به راست"
 
-msgid "LEGO WeDo"
+msgid "length"
 msgstr ""
 
-msgid "length"
+msgid "Letters"
 msgstr ""
 
 msgid "Library"
@@ -1181,7 +1235,7 @@ msgstr ""
 msgid "message1"
 msgstr "پیغام1"
 
-msgid "Microphone Volume:"
+msgid "Microphone volume:"
 msgstr ""
 
 msgid "Middle C"
@@ -1244,6 +1298,9 @@ msgstr ""
 msgid "New backdrop:"
 msgstr ""
 
+msgid "New Block"
+msgstr ""
+
 msgid "New costume from camera"
 msgstr ""
 
@@ -1253,6 +1310,9 @@ msgid "New costume:"
 msgstr "لباس جدید"
 
 msgid "New List"
+msgstr ""
+
+msgid "New Message"
 msgstr ""
 
 msgid "new message..."
@@ -1273,6 +1333,9 @@ msgid "New sprite:"
 msgstr ""
 
 msgid "New Variable"
+msgstr ""
+
+msgid "next backdrop"
 msgstr ""
 
 msgid "No motion blocks"
@@ -1308,6 +1371,9 @@ msgstr "روشن"
 msgid "on-flipped"
 msgstr ""
 
+msgid "Open"
+msgstr ""
+
 msgid "Open Cuica"
 msgstr "Open Cuica"
 
@@ -1326,6 +1392,9 @@ msgstr ""
 msgid "other scripts in sprite"
 msgstr ""
 
+msgid "other scripts in stage"
+msgstr ""
+
 msgid "Outdoors"
 msgstr ""
 
@@ -1336,6 +1405,12 @@ msgid "Paint new costume"
 msgstr ""
 
 msgid "Paint new sprite"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Password is required"
 msgstr ""
 
 msgid "paste"
@@ -1368,6 +1443,9 @@ msgstr "Pizzicato"
 msgid "pop"
 msgstr "pop"
 
+msgid "previous backdrop"
+msgstr ""
+
 msgid "Profile"
 msgstr ""
 
@@ -1377,6 +1455,12 @@ msgstr ""
 msgid "Project not saved!"
 msgstr ""
 
+msgid "Project name"
+msgstr ""
+
+msgid "Project name is required"
+msgstr ""
+
 msgid "random"
 msgstr "تصادفی"
 
@@ -1384,6 +1468,9 @@ msgid "Record"
 msgstr "رکورد کن"
 
 msgid "Record new sound"
+msgstr ""
+
+msgid "record..."
 msgstr ""
 
 msgid "recording1"
@@ -1457,10 +1544,19 @@ msgstr ""
 msgid "Save"
 msgstr ""
 
+msgid "Save a copy of this project and add your own ideas."
+msgstr ""
+
+msgid "Save as"
+msgstr ""
+
 msgid "Save as a copy"
 msgstr ""
 
 msgid "Save now"
+msgstr ""
+
+msgid "Save project?"
 msgstr ""
 
 msgid "save to local file"
@@ -1477,6 +1573,12 @@ msgstr ""
 
 msgid "Saxophone"
 msgstr "ساکسیفون"
+
+msgid "Scratch Updater"
+msgstr ""
+
+msgid "Scratch 2.0 Offline Editor"
+msgstr ""
 
 msgid "Script"
 msgstr ""
@@ -1508,10 +1610,10 @@ msgstr ""
 msgid "Send to back"
 msgstr ""
 
-msgid "Set costume center"
+msgid "Set Costume Center"
 msgstr ""
 
-msgid "Set Costume Center"
+msgid "Set costume center"
 msgstr ""
 
 msgid "set slider min and max"
@@ -1519,6 +1621,12 @@ msgstr ""
 
 msgid "Share"
 msgstr "به اشتراک گذاری"
+
+msgid "Share to website"
+msgstr ""
+
+msgid "Share to Scratch website"
+msgstr ""
 
 msgid "shared"
 msgstr ""
@@ -1597,12 +1705,12 @@ msgstr ""
 msgid "Sounds"
 msgstr "صدا"
 
-msgid "space"
-msgstr "فاصله"
-
 # 80%
 #, fuzzy
 msgid "Space"
+msgstr "فاصله"
+
+msgid "space"
 msgstr "فاصله"
 
 msgid "Sports"
@@ -1650,16 +1758,31 @@ msgstr "Tambourine"
 msgid "tan"
 msgstr "tan"
 
+msgid "text"
+msgstr ""
+
 msgid "Text"
 msgstr ""
 
 msgid "that way"
 msgstr "اون طرف"
 
+msgid "The name is already is use."
+msgstr ""
+
+msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgstr ""
+
 msgid "Theme"
 msgstr ""
 
 msgid "Things"
+msgstr ""
+
+msgid "thing"
+msgstr ""
+
+msgid "This is the current version."
 msgstr ""
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
@@ -1698,6 +1821,9 @@ msgstr "مثلث"
 msgid "Trombone"
 msgstr "Trombone"
 
+msgid "true"
+msgstr ""
+
 msgid "Turbo mode"
 msgstr ""
 
@@ -1715,10 +1841,10 @@ msgstr "حذف"
 msgid "Underwater"
 msgstr ""
 
-msgid "Undo"
+msgid "undo"
 msgstr ""
 
-msgid "undo"
+msgid "Undo"
 msgstr ""
 
 msgid "Undo Revert"
@@ -1735,6 +1861,15 @@ msgstr "بالا"
 
 msgid "up arrow"
 msgstr "کلید بالا"
+
+msgid "Update failed"
+msgstr ""
+
+msgid "Update not needed"
+msgstr ""
+
+msgid "Update now"
+msgstr ""
 
 msgid "Upload backdrop from file"
 msgstr ""
@@ -1778,6 +1913,9 @@ msgstr "Vibraphone"
 msgid "Vibraslap"
 msgstr "Vibraslap"
 
+msgid "video direction"
+msgstr ""
+
 msgid "video motion"
 msgstr "ویدیو حرکت"
 
@@ -1799,6 +1937,9 @@ msgstr ""
 msgid "Which column do you want to import"
 msgstr ""
 
+msgid "What's your name?"
+msgstr ""
+
 msgid "whirl"
 msgstr ""
 
@@ -1807,6 +1948,9 @@ msgstr "بلاک چوبی"
 
 msgid "Wooden Flute"
 msgstr "Wooden Flute"
+
+msgid "world"
+msgstr ""
 
 msgid "x position"
 msgstr "موقعیت x"
@@ -1820,10 +1964,10 @@ msgstr "سال"
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
 msgstr ""
 
-msgid "Eraser width:"
+msgid "Your Scratch name"
 msgstr ""
 
-msgid "Line width:"
+msgid "Your Scratch name is required"
 msgstr ""
 
 #~ msgid "Add a boolean input:"

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-07-14 20:47+0200\n"
+"PO-Revision-Date: 2014-07-14 20:47+0000\n"
 "Last-Translator: Eugeni <eugenicat@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ca\n"
@@ -11,7 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.1.6\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1405370827.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -578,8 +579,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2014-06-11 19:25+0200\n"
+"POT-Creation-Date: 2014-11-23 12:42+0000\n"
+"PO-Revision-Date: 2014-06-11 19:25+0000\n"
 "Last-Translator: Eugeni <eugenicat@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ca\n"
@@ -587,7 +588,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.1.6\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1402514722.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -596,14 +598,17 @@ msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only num
 msgstr ""
 "<b>Informació sobre les variables al núvol</b><br>&nbsp;<br>Actualment només "
 "s'accepten números<br>Els xats no estan permesos i s'eliminaran<br>Si voleu "
-"més informació, <a href= target=>vegeu les Preguntes Més Freqüents sobre "
-"les dades al núvol!</a>"
+"més informació, <a href= target=>vegeu les Preguntes Més Freqüents sobre les "
+"dades al núvol!</a>"
 
 msgid "A connected"
 msgstr "A connectat"
 
 msgid "a copy of the project file on your computer."
 msgstr "una còpia del teu projecte al teu ordinador."
+
+msgid "A newer version of Scratch is available"
+msgstr ""
 
 msgid "About"
 msgstr "Quant a"
@@ -623,6 +628,9 @@ msgstr "Configuració del compte"
 msgid "acos"
 msgstr "acos"
 
+msgid "Add"
+msgstr ""
+
 msgid "Add an Extension"
 msgstr "Afegeix una Extensió"
 
@@ -632,6 +640,9 @@ msgstr "Afegeix una condició lògica:"
 
 msgid "add comment"
 msgstr "afegeix un comentari"
+
+msgid "add comment here..."
+msgstr ""
 
 msgid "Add label text:"
 msgstr "Afegeix una etiqueta de text:"
@@ -644,11 +655,11 @@ msgstr "Afegeix una entrada per números:"
 msgid "Add string input:"
 msgstr "Afegeix una entrada per text:"
 
-msgid "All"
-msgstr "Tot"
-
 msgid "all"
 msgstr "tot"
+
+msgid "All"
+msgstr "Tot"
 
 msgid "all around"
 msgstr "al voltant"
@@ -678,13 +689,13 @@ msgid "Back a layer"
 msgstr "Endarrere una capa"
 
 # 88%
+msgid "backdrop"
+msgstr "fons"
+
+# 88%
 # 87%
 msgid "Backdrop"
 msgstr "Fons"
-
-# 88%
-msgid "backdrop"
-msgstr "fons"
 
 msgid "backdrop #"
 msgstr "fons nr"
@@ -772,6 +783,9 @@ msgstr "pot ser arrossegat al reproductor:"
 msgid "Cancel"
 msgstr "Cancel·lar"
 
+msgid "Cannot Add"
+msgstr ""
+
 msgid "Cannot Delete"
 msgstr "No es pot esborrar"
 
@@ -789,6 +803,9 @@ msgstr "sostre"
 
 msgid "Cello"
 msgstr "Violoncel"
+
+msgid "Check for updates"
+msgstr ""
 
 msgid "Choir"
 msgstr "Cor de veus"
@@ -817,7 +834,8 @@ msgstr "Clarinet"
 msgid "Claves"
 msgstr "Claus"
 
-msgid "cleanup"
+#, fuzzy
+msgid "clean up"
 msgstr "neteja"
 
 msgid "Clear"
@@ -840,6 +858,9 @@ msgstr "Núvol"
 
 msgid "Cloud data"
 msgstr "Dades al núvol"
+
+msgid "Cloud variable (stored on server)"
+msgstr ""
 
 msgid "color"
 msgstr "color"
@@ -901,6 +922,9 @@ msgstr "Vestits > 1"
 msgid "Costumes:"
 msgstr "Vestits:"
 
+msgid "Could not retrieve new application from server."
+msgstr ""
+
 msgid "Cowbell"
 msgstr "Esquella"
 
@@ -925,12 +949,12 @@ msgstr "dia"
 msgid "day of week"
 msgstr "dia de la setmana"
 
+msgid "delete"
+msgstr "esborra"
+
 # 83%
 msgid "Delete"
 msgstr "Esborra"
-
-msgid "delete"
-msgstr "esborra"
 
 msgid "delete variable"
 msgstr "elimina la variable"
@@ -945,6 +969,9 @@ msgstr "direcció:"
 msgid "don't rotate"
 msgstr "no giris"
 
+msgid "Don't save"
+msgstr ""
+
 msgid "down"
 msgstr "avall"
 
@@ -956,6 +983,9 @@ msgstr "Descarrega"
 
 msgid "Download to your computer"
 msgstr "Descarrega al teu ordinador"
+
+msgid "Downloading new version"
+msgstr ""
 
 msgid "duplicate"
 msgstr "duplica"
@@ -969,11 +999,11 @@ msgstr "e ^"
 msgid "edge"
 msgstr "vora"
 
-msgid "edit"
-msgstr "edita"
-
 msgid "Edit"
 msgstr "Edita"
+
+msgid "edit"
+msgstr "edita"
 
 msgid "Edit Block"
 msgstr "Edita el Bloc"
@@ -993,8 +1023,14 @@ msgstr "Electrònic"
 msgid "Ellipse"
 msgstr "El·lipse"
 
+msgid "empty"
+msgstr ""
+
 msgid "Erase"
 msgstr "Esborra"
+
+msgid "Erase all"
+msgstr ""
 
 # 92%
 msgid "Eraser width"
@@ -1020,6 +1056,9 @@ msgstr "augmenta"
 
 msgid "fade out"
 msgstr "disminueix"
+
+msgid "false"
+msgstr ""
 
 msgid "Fantasy"
 msgstr "Fantasia"
@@ -1087,11 +1126,27 @@ msgstr "Aplaudiment"
 msgid "Hardware"
 msgstr "Maquinari"
 
+msgid "help"
+msgstr ""
+
+msgid "Hello!"
+msgstr ""
+
+msgid "Hmm..."
+msgstr ""
+
+#, fuzzy
+msgid "hello"
+msgstr "Violoncel"
+
 msgid "hide"
 msgstr "amaga"
 
 msgid "High C"
 msgstr "DO Alt"
+
+msgid "Holiday"
+msgstr ""
 
 msgid "hour"
 msgstr "hora"
@@ -1133,11 +1188,11 @@ msgstr "fletxa esquerra"
 msgid "left-right"
 msgstr "esquerra-dreta"
 
-msgid "LEGO WeDo"
-msgstr "LEGO WeDo"
-
 msgid "length"
 msgstr "llargada"
+
+msgid "Letters"
+msgstr ""
 
 msgid "Library"
 msgstr "Biblioteca"
@@ -1208,7 +1263,8 @@ msgstr "Nom del Missatge"
 msgid "message1"
 msgstr "missatge1"
 
-msgid "Microphone Volume:"
+#, fuzzy
+msgid "Microphone volume:"
 msgstr "Volum del micròfon:"
 
 msgid "Middle C"
@@ -1272,6 +1328,9 @@ msgstr "Nou fons des de la càmera"
 msgid "New backdrop:"
 msgstr "Nou fons:"
 
+msgid "New Block"
+msgstr ""
+
 msgid "New costume from camera"
 msgstr "Nou vestit des de la càmera"
 
@@ -1281,6 +1340,9 @@ msgstr "Nou vestit:"
 
 msgid "New List"
 msgstr "Nova Llista"
+
+msgid "New Message"
+msgstr ""
 
 msgid "new message..."
 msgstr "nou missatge..."
@@ -1300,6 +1362,9 @@ msgstr "Nou personatge:"
 
 msgid "New Variable"
 msgstr "Nova Variable"
+
+msgid "next backdrop"
+msgstr ""
 
 msgid "No motion blocks"
 msgstr "Sense blocs de moviment"
@@ -1334,6 +1399,9 @@ msgstr "activa"
 msgid "on-flipped"
 msgstr "voltejat actiu"
 
+msgid "Open"
+msgstr ""
+
 msgid "Open Cuica"
 msgstr "Cuica sonora"
 
@@ -1353,6 +1421,9 @@ msgstr "Altres"
 msgid "other scripts in sprite"
 msgstr "altres programes del personatge"
 
+msgid "other scripts in stage"
+msgstr "altres programes de l'escenari"
+
 msgid "Outdoors"
 msgstr "Exteriors"
 
@@ -1364,6 +1435,12 @@ msgstr "Dibuixa un nou vestit"
 
 msgid "Paint new sprite"
 msgstr "Dibuixa un nou personatge"
+
+msgid "Password"
+msgstr ""
+
+msgid "Password is required"
+msgstr ""
 
 msgid "paste"
 msgstr "enganxa"
@@ -1396,6 +1473,9 @@ msgstr "Pizzicato"
 msgid "pop"
 msgstr "pop"
 
+msgid "previous backdrop"
+msgstr ""
+
 msgid "Profile"
 msgstr "Perfil"
 
@@ -1405,6 +1485,12 @@ msgstr "El projecte no s'ha carregat."
 msgid "Project not saved!"
 msgstr "El projecte no s'ha desat!"
 
+msgid "Project name"
+msgstr ""
+
+msgid "Project name is required"
+msgstr ""
+
 msgid "random"
 msgstr "aleatori"
 
@@ -1413,6 +1499,9 @@ msgstr "Grava"
 
 msgid "Record new sound"
 msgstr "Enregistra un nou so"
+
+msgid "record..."
+msgstr ""
 
 msgid "recording1"
 msgstr "gravació1"
@@ -1484,11 +1573,20 @@ msgstr "Funciona sense refrescar la pantalla"
 msgid "Save"
 msgstr "Desa"
 
+msgid "Save a copy of this project and add your own ideas."
+msgstr ""
+
+msgid "Save as"
+msgstr ""
+
 msgid "Save as a copy"
 msgstr "Desa una còpia"
 
 msgid "Save now"
 msgstr "Desa ara"
+
+msgid "Save project?"
+msgstr ""
 
 msgid "save to local file"
 msgstr "desa a un fitxer local"
@@ -1504,6 +1602,12 @@ msgstr "Desant..."
 
 msgid "Saxophone"
 msgstr "Saxòfon"
+
+msgid "Scratch Updater"
+msgstr ""
+
+msgid "Scratch 2.0 Offline Editor"
+msgstr ""
 
 # 85%
 msgid "Script"
@@ -1539,18 +1643,24 @@ msgstr "Selecciona i duplica"
 msgid "Send to back"
 msgstr "Envia endarrere"
 
+msgid "Set Costume Center"
+msgstr "Fixa el Centre del Vestit"
+
 # 88%
 msgid "Set costume center"
 msgstr "Fixa el centre del vestit"
-
-msgid "Set Costume Center"
-msgstr "Fixa el Centre del Vestit"
 
 msgid "set slider min and max"
 msgstr "fixa minim i màx del lliscador"
 
 msgid "Share"
 msgstr "Comparteix"
+
+msgid "Share to website"
+msgstr ""
+
+msgid "Share to Scratch website"
+msgstr ""
 
 msgid "shared"
 msgstr "compartit"
@@ -1625,12 +1735,12 @@ msgstr "Galeria de Sons"
 msgid "Sounds"
 msgstr "Sons"
 
-msgid "space"
-msgstr "espai"
-
 # 80%
 msgid "Space"
 msgstr "Espai"
+
+msgid "space"
+msgstr "espai"
 
 msgid "Sports"
 msgstr "Esports"
@@ -1680,17 +1790,33 @@ msgstr "Pandereta"
 msgid "tan"
 msgstr "tan"
 
+#, fuzzy
+msgid "text"
+msgstr "Text"
+
 msgid "Text"
 msgstr "Text"
 
 msgid "that way"
 msgstr "cap aquí"
 
+msgid "The name is already is use."
+msgstr ""
+
+msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgstr ""
+
 msgid "Theme"
 msgstr "Tema"
 
 msgid "Things"
 msgstr "Coses"
+
+msgid "thing"
+msgstr ""
+
+msgid "This is the current version."
+msgstr ""
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
 msgstr ""
@@ -1737,6 +1863,9 @@ msgstr "Triangle"
 msgid "Trombone"
 msgstr "Trombó"
 
+msgid "true"
+msgstr ""
+
 # 90%
 msgid "Turbo mode"
 msgstr "Mode Turbo"
@@ -1754,12 +1883,12 @@ msgstr "Desfés l'esborrament"
 msgid "Underwater"
 msgstr "Sota l'aigua"
 
+msgid "undo"
+msgstr "desfés"
+
 # 75%
 msgid "Undo"
 msgstr "Desfés"
-
-msgid "undo"
-msgstr "desfés"
 
 msgid "Undo Revert"
 msgstr "Torna a fer"
@@ -1775,6 +1904,15 @@ msgstr "amunt"
 
 msgid "up arrow"
 msgstr "fletxa amunt"
+
+msgid "Update failed"
+msgstr ""
+
+msgid "Update not needed"
+msgstr ""
+
+msgid "Update now"
+msgstr ""
 
 msgid "Upload backdrop from file"
 msgstr "Puja un fons des d'un fitxer"
@@ -1818,6 +1956,9 @@ msgstr "Vibràfon"
 msgid "Vibraslap"
 msgstr "Vibraslap"
 
+msgid "video direction"
+msgstr ""
+
 msgid "video motion"
 msgstr "moviment de vídeo"
 
@@ -1839,6 +1980,9 @@ msgstr "Vols desar? Fes clic a reinventa"
 msgid "Which column do you want to import"
 msgstr "Quina columna vols importar"
 
+msgid "What's your name?"
+msgstr ""
+
 msgid "whirl"
 msgstr "girar"
 
@@ -1847,6 +1991,9 @@ msgstr "Bloc de fusta"
 
 msgid "Wooden Flute"
 msgstr "Flauta dolça"
+
+msgid "world"
+msgstr ""
 
 msgid "x position"
 msgstr "posició x"
@@ -1862,11 +2009,26 @@ msgstr ""
 "No pots editar les dades al núvol del projecte d'algú altre.<br>Qualsevol "
 "canvi que realitzis a l'editor serà temporal i no quedarà emmagatzemat."
 
-msgid "Eraser width:"
-msgstr "Ample de l'esborrador:"
+msgid "Your Scratch name"
+msgstr ""
 
-msgid "Line width:"
-msgstr "Ample de línia:"
+msgid "Your Scratch name is required"
+msgstr ""
+
+#~ msgid "cleanup"
+#~ msgstr "neteja"
+
+#~ msgid "LEGO WeDo"
+#~ msgstr "LEGO WeDo"
+
+#~ msgid "Microphone Volume:"
+#~ msgstr "Volum del micròfon:"
+
+#~ msgid "Eraser width:"
+#~ msgstr "Ample de l'esborrador:"
+
+#~ msgid "Line width:"
+#~ msgstr "Ample de línia:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Afegeix una entrada per condicions lògiques:"
@@ -2014,11 +2176,21 @@ msgstr "Ample de línia:"
 #~ msgid "Open Triangle"
 #~ msgstr "Triangle sonor"
 
-#~ msgid "other scripts in stage"
-#~ msgstr "altres programes de l'escenari"
-
 #~ msgid "Pedal Hi-Hat"
 #~ msgstr "Pedal del xarles"
 
 #~ msgid "Short Guiro"
 #~ msgstr "Guiro curt"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Informació sobre les variables al núvol</b><br>&nbsp;<br>Actualment només "
+#~ "s'accepten números<br>Els xats no estan permesos i s'eliminaran<br>Si voleu "
+#~ "més informació, <a href= target=>vegeu les Preguntes Més Freqüents sobre les "
+#~ "dades al núvol!</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Fes clic a  per tornar-ho a intentar o bé  per desar"

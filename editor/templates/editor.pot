@@ -919,6 +919,9 @@ msgstr ""
 msgid "rename variable"
 msgstr ""
 
+msgid "Replace existing project"
+msgstr ""
+
 msgid "requires sign in"
 msgstr ""
 
@@ -1177,7 +1180,7 @@ msgstr ""
 msgid "that way"
 msgstr ""
 
-msgid "The name is already is use."
+msgid "The name is already in use."
 msgstr ""
 
 msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."

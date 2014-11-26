@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2013-10-20 13:01+0200\n"
+"PO-Revision-Date: 2013-10-20 13:01+0000\n"
 "Last-Translator: Anca-Diana <diacadan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ro\n"
@@ -12,7 +12,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2);;\n"
-"X-Generator: Pootle 2.1.6\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1382274078.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -554,8 +555,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2013-10-20 13:08+0200\n"
+"POT-Creation-Date: 2014-11-23 12:47+0000\n"
+"PO-Revision-Date: 2013-10-20 13:08+0000\n"
 "Last-Translator: Anca-Diana <diacadan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ro\n"
@@ -564,7 +565,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2);;\n"
-"X-Generator: Pootle 2.1.6\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1382274488.000000\n"
 
 msgid "10 ^"
 msgstr "10^"
@@ -581,6 +583,9 @@ msgstr "A conectat"
 
 msgid "a copy of the project file on your computer."
 msgstr "o copie a fisierului proiect pe calculatorul tau."
+
+msgid "A newer version of Scratch is available"
+msgstr ""
 
 msgid "About"
 msgstr ""
@@ -600,6 +605,9 @@ msgstr "Setarile contului"
 msgid "acos"
 msgstr "acos"
 
+msgid "Add"
+msgstr ""
+
 msgid "Add an Extension"
 msgstr ""
 
@@ -608,6 +616,9 @@ msgstr "Adauga intrare de tip boolean:"
 
 msgid "add comment"
 msgstr "adauga comentariu"
+
+msgid "add comment here..."
+msgstr ""
 
 msgid "Add label text:"
 msgstr "Adauga eticheta text:"
@@ -618,11 +629,11 @@ msgstr "Adauga intrare de tip numeric:"
 msgid "Add string input:"
 msgstr "Adauga intrare de tip sir de caractere:"
 
-msgid "All"
-msgstr "Toate"
-
 msgid "all"
 msgstr "tot"
+
+msgid "All"
+msgstr "Toate"
 
 msgid "all around"
 msgstr "peste tot"
@@ -651,11 +662,11 @@ msgstr "B conectat"
 msgid "Back a layer"
 msgstr "Un strat in spate"
 
-msgid "Backdrop"
-msgstr "Fundal"
-
 msgid "backdrop"
 msgstr "fundal"
+
+msgid "Backdrop"
+msgstr "Fundal"
 
 msgid "backdrop #"
 msgstr "fundal #"
@@ -741,6 +752,9 @@ msgstr "poti trage un jucator:"
 msgid "Cancel"
 msgstr "Renuntare"
 
+msgid "Cannot Add"
+msgstr ""
+
 msgid "Cannot Delete"
 msgstr "Nu se poate sterge"
 
@@ -758,6 +772,9 @@ msgstr "rotunjire"
 
 msgid "Cello"
 msgstr "Violoncel"
+
+msgid "Check for updates"
+msgstr ""
 
 msgid "Choir"
 msgstr "Cor"
@@ -786,7 +803,7 @@ msgstr "Clarinet"
 msgid "Claves"
 msgstr "Clavecin"
 
-msgid "cleanup"
+msgid "clean up"
 msgstr ""
 
 msgid "Clear"
@@ -809,6 +826,9 @@ msgstr "Cloud"
 
 msgid "Cloud data"
 msgstr "Informatii din cloud"
+
+msgid "Cloud variable (stored on server)"
+msgstr ""
 
 msgid "color"
 msgstr "culoare"
@@ -867,6 +887,9 @@ msgstr "Costume > 1"
 msgid "Costumes:"
 msgstr "Costume:"
 
+msgid "Could not retrieve new application from server."
+msgstr ""
+
 msgid "Cowbell"
 msgstr "Cowbell"
 
@@ -891,12 +914,12 @@ msgstr "data"
 msgid "day of week"
 msgstr "ziua saptamanii"
 
+msgid "delete"
+msgstr "sterge"
+
 # 83%
 msgid "Delete"
 msgstr "Sterge"
-
-msgid "delete"
-msgstr "sterge"
 
 msgid "delete variable"
 msgstr "sterge variabila"
@@ -910,6 +933,9 @@ msgstr "directie:"
 msgid "don't rotate"
 msgstr "nu roti"
 
+msgid "Don't save"
+msgstr ""
+
 msgid "down"
 msgstr "jos"
 
@@ -921,6 +947,9 @@ msgstr "Descarca"
 
 msgid "Download to your computer"
 msgstr "Descarca pe calculatorul tau"
+
+msgid "Downloading new version"
+msgstr ""
 
 msgid "duplicate"
 msgstr "duplica"
@@ -934,11 +963,11 @@ msgstr "e ^"
 msgid "edge"
 msgstr "margine"
 
-msgid "edit"
-msgstr "editeaza"
-
 msgid "Edit"
 msgstr "Editeaza"
+
+msgid "edit"
+msgstr "editeaza"
 
 msgid "Edit Block"
 msgstr "Editeaza blocul"
@@ -958,8 +987,14 @@ msgstr "Electronic"
 msgid "Ellipse"
 msgstr "Elipsa"
 
+msgid "empty"
+msgstr ""
+
 msgid "Erase"
 msgstr "Curata"
+
+msgid "Erase all"
+msgstr ""
 
 msgid "Eraser width"
 msgstr "Grosimea radierei"
@@ -984,6 +1019,9 @@ msgstr "estompare in interior"
 
 msgid "fade out"
 msgstr "estompare in exterior"
+
+msgid "false"
+msgstr ""
 
 msgid "Fantasy"
 msgstr "Fantezie"
@@ -1051,11 +1089,27 @@ msgstr "Bataie din palme"
 msgid "Hardware"
 msgstr ""
 
+msgid "help"
+msgstr ""
+
+msgid "Hello!"
+msgstr ""
+
+msgid "Hmm..."
+msgstr ""
+
+#, fuzzy
+msgid "hello"
+msgstr "Violoncel"
+
 msgid "hide"
 msgstr "ascunde"
 
 msgid "High C"
 msgstr "Do de sus"
+
+msgid "Holiday"
+msgstr ""
 
 msgid "hour"
 msgstr "ora"
@@ -1098,10 +1152,10 @@ msgstr "sageata stanga"
 msgid "left-right"
 msgstr "de la stanga la dreapta"
 
-msgid "LEGO WeDo"
+msgid "length"
 msgstr ""
 
-msgid "length"
+msgid "Letters"
 msgstr ""
 
 msgid "Library"
@@ -1173,7 +1227,8 @@ msgstr "Titlul mesajului"
 msgid "message1"
 msgstr "mesaj1"
 
-msgid "Microphone Volume:"
+#, fuzzy
+msgid "Microphone volume:"
 msgstr "Volumul microfonului:"
 
 msgid "Middle C"
@@ -1236,6 +1291,9 @@ msgstr "Fundal nou pentru camera"
 msgid "New backdrop:"
 msgstr "Fundal nou:"
 
+msgid "New Block"
+msgstr ""
+
 msgid "New costume from camera"
 msgstr "Costum nou de la camera"
 
@@ -1244,6 +1302,9 @@ msgstr "Costum nou:"
 
 msgid "New List"
 msgstr "Lista noua"
+
+msgid "New Message"
+msgstr ""
 
 msgid "new message..."
 msgstr "mesaj nou..."
@@ -1262,6 +1323,9 @@ msgstr "Sprite nou:"
 
 msgid "New Variable"
 msgstr "Variabila noua"
+
+msgid "next backdrop"
+msgstr ""
 
 msgid "No motion blocks"
 msgstr "Niciun bloc de miscare"
@@ -1296,6 +1360,9 @@ msgstr "pornit"
 msgid "on-flipped"
 msgstr "oglindit"
 
+msgid "Open"
+msgstr ""
+
 msgid "Open Cuica"
 msgstr "Open Cuica"
 
@@ -1314,6 +1381,10 @@ msgstr "Altele"
 msgid "other scripts in sprite"
 msgstr "alte script-uri pentru sprite"
 
+#, fuzzy
+msgid "other scripts in stage"
+msgstr "alte script-uri pentru sprite"
+
 msgid "Outdoors"
 msgstr "In aer liber"
 
@@ -1325,6 +1396,12 @@ msgstr "Deseneaza un costum nou"
 
 msgid "Paint new sprite"
 msgstr "Deseneaza un sprite nou"
+
+msgid "Password"
+msgstr ""
+
+msgid "Password is required"
+msgstr ""
 
 msgid "paste"
 msgstr "lipeste"
@@ -1356,6 +1433,9 @@ msgstr "Pizzicato"
 msgid "pop"
 msgstr "pop"
 
+msgid "previous backdrop"
+msgstr ""
+
 msgid "Profile"
 msgstr "Profil"
 
@@ -1365,6 +1445,12 @@ msgstr "Proiectul nu s-a incarcat."
 msgid "Project not saved!"
 msgstr "Proiectul nu a fost salvat!"
 
+msgid "Project name"
+msgstr ""
+
+msgid "Project name is required"
+msgstr ""
+
 msgid "random"
 msgstr "aleator"
 
@@ -1373,6 +1459,9 @@ msgstr "Inregistrare"
 
 msgid "Record new sound"
 msgstr "Inregistrare sunet nou"
+
+msgid "record..."
+msgstr ""
 
 msgid "recording1"
 msgstr "inregistrare1"
@@ -1444,11 +1533,20 @@ msgstr "Ruleaza fara improspatarea ecranului"
 msgid "Save"
 msgstr "Salveaza"
 
+msgid "Save a copy of this project and add your own ideas."
+msgstr ""
+
+msgid "Save as"
+msgstr ""
+
 msgid "Save as a copy"
 msgstr "Salveaza o copie"
 
 msgid "Save now"
 msgstr "Salveaza acum"
+
+msgid "Save project?"
+msgstr ""
 
 msgid "save to local file"
 msgstr "salveaza in fisier local"
@@ -1464,6 +1562,12 @@ msgstr "Se salveaza..."
 
 msgid "Saxophone"
 msgstr "Saxofon"
+
+msgid "Scratch Updater"
+msgstr ""
+
+msgid "Scratch 2.0 Offline Editor"
+msgstr ""
 
 msgid "Script"
 msgstr "Script"
@@ -1495,10 +1599,10 @@ msgstr "Selecteaza si fa o copie"
 msgid "Send to back"
 msgstr "Trimite in spate"
 
-msgid "Set costume center"
+msgid "Set Costume Center"
 msgstr "Stabileste centrul costumului"
 
-msgid "Set Costume Center"
+msgid "Set costume center"
 msgstr "Stabileste centrul costumului"
 
 msgid "set slider min and max"
@@ -1506,6 +1610,12 @@ msgstr ""
 
 msgid "Share"
 msgstr "Partajeaza"
+
+msgid "Share to website"
+msgstr ""
+
+msgid "Share to Scratch website"
+msgstr ""
 
 msgid "shared"
 msgstr "partajat"
@@ -1579,12 +1689,12 @@ msgstr "Biblioteca de sunete"
 msgid "Sounds"
 msgstr "Sunete"
 
-msgid "space"
-msgstr "spatiu"
-
 # 80%
 msgid "Space"
 msgstr "Spatiu"
+
+msgid "space"
+msgstr "spatiu"
 
 msgid "Sports"
 msgstr "Sporturi"
@@ -1633,11 +1743,21 @@ msgstr "Tamburina"
 msgid "tan"
 msgstr "tan"
 
+#, fuzzy
+msgid "text"
+msgstr "Text"
+
 msgid "Text"
 msgstr "Text"
 
 msgid "that way"
 msgstr "acest mod"
+
+msgid "The name is already is use."
+msgstr ""
+
+msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgstr ""
 
 msgid "Theme"
 msgstr "Tema"
@@ -1645,10 +1765,16 @@ msgstr "Tema"
 msgid "Things"
 msgstr "Obiecte"
 
+msgid "thing"
+msgstr ""
+
+msgid "This is the current version."
+msgstr ""
+
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
 msgstr ""
-"Acest proiect poate detecta cine il foloseste, cu ajutorul blocului "
-"\"username\". Pentru a-ti scunde identitatea, iesi din cont inainte de a "
+"Acest proiect poate detecta cine il foloseste, cu ajutorul blocului \""
+"username\". Pentru a-ti scunde identitatea, iesi din cont inainte de a "
 "folosi proiectul."
 
 msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
@@ -1688,6 +1814,9 @@ msgstr "Triunghi"
 msgid "Trombone"
 msgstr "Trombon"
 
+msgid "true"
+msgstr ""
+
 msgid "Turbo mode"
 msgstr "Modul turbo"
 
@@ -1704,12 +1833,12 @@ msgstr "Nu sterge"
 msgid "Underwater"
 msgstr "Intinat"
 
+msgid "undo"
+msgstr "anuleaza ultima operatie"
+
 # 75%
 msgid "Undo"
 msgstr "Anuleaza ultima operatie"
-
-msgid "undo"
-msgstr "anuleaza ultima operatie"
 
 msgid "Undo Revert"
 msgstr "Inainte de inversare"
@@ -1725,6 +1854,15 @@ msgstr "sus"
 
 msgid "up arrow"
 msgstr "sageata sus"
+
+msgid "Update failed"
+msgstr ""
+
+msgid "Update not needed"
+msgstr ""
+
+msgid "Update now"
+msgstr ""
 
 msgid "Upload backdrop from file"
 msgstr "Incarca fundal din fisier"
@@ -1768,6 +1906,9 @@ msgstr "Vibrafon"
 msgid "Vibraslap"
 msgstr "Vibraslap"
 
+msgid "video direction"
+msgstr ""
+
 msgid "video motion"
 msgstr "miscare video"
 
@@ -1789,6 +1930,9 @@ msgstr "Vrei sa salvezi? Clic pentru amestecare"
 msgid "Which column do you want to import"
 msgstr "Care coloana vrei sa o importi"
 
+msgid "What's your name?"
+msgstr ""
+
 msgid "whirl"
 msgstr "vartej"
 
@@ -1797,6 +1941,9 @@ msgstr "Bloc de lemn"
 
 msgid "Wooden Flute"
 msgstr "Flaut din lemn"
+
+msgid "world"
+msgstr ""
 
 msgid "x position"
 msgstr "pozitia lui x"
@@ -1813,15 +1960,24 @@ msgstr ""
 "altcuiva.<br>Orice modificare pe care o faci este temporara si nu se va "
 "pastra."
 
+msgid "Your Scratch name"
+msgstr ""
+
+msgid "Your Scratch name is required"
+msgstr ""
+
+#~ msgid "Microphone Volume:"
+#~ msgstr "Volumul microfonului:"
+
 # 92%
 #, fuzzy
-msgid "Eraser width:"
-msgstr "Grosimea radierei"
+#~ msgid "Eraser width:"
+#~ msgstr "Grosimea radierei"
 
 # 90%
 #, fuzzy
-msgid "Line width:"
-msgstr "Grosimea liniei"
+#~ msgid "Line width:"
+#~ msgstr "Grosimea liniei"
 
 # 90%
 #, fuzzy
@@ -1842,3 +1998,16 @@ msgstr "Grosimea liniei"
 
 #~ msgid "More"
 #~ msgstr "mai mult"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Informatia despre variabilele Cloud</b><br>&nbsp;<br>In acest moment sunt "
+#~ "suportate numai numere<br>Camerele de chat nu sunt permise si vor fi "
+#~ "eliminate<br>Pentru mai multe informatii, <a href= target=>vezi sectiunea "
+#~ "cloud FAQ!</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Clic pentru a incerca din nou sau  pentru a salva"

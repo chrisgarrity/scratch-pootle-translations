@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-08-08 22:39+0200\n"
+"PO-Revision-Date: 2014-10-29 13:37+0000\n"
 "Last-Translator: Péter <bernatp@hotmail.hu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hu\n"
@@ -11,7 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.1.6\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1414589851.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -119,7 +120,7 @@ msgid "days since 2000"
 msgstr "napok 2000 óta"
 
 msgid "define"
-msgstr "define"
+msgstr "meghatározás:"
 
 msgid "delete %d.listDeleteItem of %m.list"
 msgstr "töröld %m.list %d.listDeleteItem elemét"
@@ -463,7 +464,7 @@ msgstr "@greenFlag -ra kattintáskor"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr "%m.backdrop háttérre váltáskor"
+msgstr "%m.backdrop háttér beállításakor"
 
 msgid "when distance %m.lessMore %n"
 msgstr ""
@@ -550,8 +551,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2014-09-05 09:32+0200\n"
+"POT-Creation-Date: 2014-11-23 12:44+0000\n"
+"PO-Revision-Date: 2014-10-30 11:14+0000\n"
 "Last-Translator: Péter <bernatp@hotmail.hu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hu\n"
@@ -559,7 +560,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.1.6\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1414667674.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -574,6 +576,9 @@ msgid "A connected"
 msgstr ""
 
 msgid "a copy of the project file on your computer."
+msgstr ""
+
+msgid "A newer version of Scratch is available"
 msgstr ""
 
 msgid "About"
@@ -594,6 +599,9 @@ msgstr "Fiókbeállítások"
 msgid "acos"
 msgstr "arccos"
 
+msgid "Add"
+msgstr ""
+
 msgid "Add an Extension"
 msgstr ""
 
@@ -602,6 +610,9 @@ msgstr "Logikai mező hozzáadása:"
 
 msgid "add comment"
 msgstr "megjegyzés hozzáadása"
+
+msgid "add comment here..."
+msgstr ""
 
 msgid "Add label text:"
 msgstr "Szöveg beszúrása:"
@@ -612,11 +623,11 @@ msgstr "Szám mező hozzáadása:"
 msgid "Add string input:"
 msgstr "Szöveg mező hozzáadása:"
 
-msgid "All"
-msgstr "Minden"
-
 msgid "all"
 msgstr "minden feladat"
+
+msgid "All"
+msgstr "Minden"
 
 msgid "all around"
 msgstr "foroghat"
@@ -645,12 +656,12 @@ msgstr ""
 msgid "Back a layer"
 msgstr "Hátrébb küldés"
 
-msgid "Backdrop"
-msgstr "Háttér"
-
 # 88%
 msgid "backdrop"
 msgstr "háttér"
+
+msgid "Backdrop"
+msgstr "Háttér"
 
 msgid "backdrop #"
 msgstr "háttér sorszáma"
@@ -685,6 +696,8 @@ msgstr "Fagott"
 
 msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
 msgstr ""
+"Mivel a Scratch fiókod elég új, a felhő-adataid nem lesznek mentve. Használd "
+"az oldalt és hamarosan te is használni tudod majd a felhő-adatokat!"
 
 msgid "Bitmap"
 msgstr "Pixeles"
@@ -734,6 +747,9 @@ msgstr "játékos vonszolhatja:"
 msgid "Cancel"
 msgstr "Mégse"
 
+msgid "Cannot Add"
+msgstr ""
+
 msgid "Cannot Delete"
 msgstr ""
 
@@ -751,6 +767,9 @@ msgstr "felkerekítés"
 
 msgid "Cello"
 msgstr "Cselló"
+
+msgid "Check for updates"
+msgstr ""
 
 msgid "Choir"
 msgstr "Kórus"
@@ -779,7 +798,8 @@ msgstr "Klarinét"
 msgid "Claves"
 msgstr "Claves"
 
-msgid "cleanup"
+#, fuzzy
+msgid "clean up"
 msgstr "rendrakás"
 
 msgid "Clear"
@@ -803,6 +823,9 @@ msgstr "Felhő"
 #, fuzzy
 msgid "Cloud data"
 msgstr "Felhő adat"
+
+msgid "Cloud variable (stored on server)"
+msgstr ""
 
 msgid "color"
 msgstr "szín"
@@ -867,6 +890,9 @@ msgstr "Jelmezek > 1"
 msgid "Costumes:"
 msgstr "Jelmezek"
 
+msgid "Could not retrieve new application from server."
+msgstr ""
+
 msgid "Cowbell"
 msgstr "Kolomp"
 
@@ -891,12 +917,12 @@ msgstr "dátum"
 msgid "day of week"
 msgstr "hét napja"
 
+msgid "delete"
+msgstr "törlés"
+
 # 83%
 msgid "Delete"
 msgstr "Törlés"
-
-msgid "delete"
-msgstr "törlés"
 
 msgid "delete variable"
 msgstr "változó törlése"
@@ -910,6 +936,9 @@ msgstr "irány:"
 msgid "don't rotate"
 msgstr "nem foroghat"
 
+msgid "Don't save"
+msgstr ""
+
 msgid "down"
 msgstr "le"
 
@@ -921,6 +950,9 @@ msgstr ""
 
 msgid "Download to your computer"
 msgstr "Letöltés saját gépre"
+
+msgid "Downloading new version"
+msgstr ""
 
 msgid "duplicate"
 msgstr "duplázás"
@@ -934,11 +966,11 @@ msgstr "e ^"
 msgid "edge"
 msgstr "játéktér széle"
 
-msgid "edit"
-msgstr "módosítás"
-
 msgid "Edit"
 msgstr "Módosítás"
+
+msgid "edit"
+msgstr "módosítás"
 
 msgid "Edit Block"
 msgstr ""
@@ -958,8 +990,14 @@ msgstr "Elektromos"
 msgid "Ellipse"
 msgstr "Ellipszis"
 
+msgid "empty"
+msgstr ""
+
 msgid "Erase"
 msgstr "Radír"
+
+msgid "Erase all"
+msgstr ""
 
 # 92%
 #, fuzzy
@@ -986,6 +1024,9 @@ msgstr "felkeverés"
 
 msgid "fade out"
 msgstr "lekeverés"
+
+msgid "false"
+msgstr ""
 
 msgid "Fantasy"
 msgstr "Fantázia"
@@ -1053,17 +1094,33 @@ msgstr "Taps"
 msgid "Hardware"
 msgstr ""
 
+msgid "help"
+msgstr ""
+
+msgid "Hello!"
+msgstr ""
+
+msgid "Hmm..."
+msgstr ""
+
+#, fuzzy
+msgid "hello"
+msgstr "Cselló"
+
 msgid "hide"
 msgstr ""
 
 msgid "High C"
 msgstr ""
 
+msgid "Holiday"
+msgstr ""
+
 msgid "hour"
 msgstr "óra"
 
 msgid "Human"
-msgstr "Emberi"
+msgstr "Emberek"
 
 # 83%
 #, fuzzy
@@ -1100,11 +1157,11 @@ msgstr "balra gomb"
 msgid "left-right"
 msgstr "balra-jobbra nézhet"
 
-msgid "LEGO WeDo"
-msgstr ""
-
 msgid "length"
 msgstr "hossz"
+
+msgid "Letters"
+msgstr ""
 
 msgid "Library"
 msgstr "Könyvtár"
@@ -1178,7 +1235,8 @@ msgstr "Üzenet"
 msgid "message1"
 msgstr "üzenet1"
 
-msgid "Microphone Volume:"
+#, fuzzy
+msgid "Microphone volume:"
 msgstr "Mikrofon hangereje:"
 
 msgid "Middle C"
@@ -1241,6 +1299,9 @@ msgstr "Új háttér a kameráról"
 msgid "New backdrop:"
 msgstr "Új háttér:"
 
+msgid "New Block"
+msgstr ""
+
 msgid "New costume from camera"
 msgstr "Új jelmez a kameráról"
 
@@ -1249,6 +1310,9 @@ msgstr "Új jelmez:"
 
 msgid "New List"
 msgstr "Új lista"
+
+msgid "New Message"
+msgstr ""
 
 msgid "new message..."
 msgstr "új üzenet..."
@@ -1267,6 +1331,9 @@ msgstr "Új szereplő:"
 
 msgid "New Variable"
 msgstr "Új változó"
+
+msgid "next backdrop"
+msgstr ""
 
 msgid "No motion blocks"
 msgstr "nem lehet mozgatni"
@@ -1301,6 +1368,9 @@ msgstr "be"
 msgid "on-flipped"
 msgstr "be, tükrözve"
 
+msgid "Open"
+msgstr ""
+
 msgid "Open Cuica"
 msgstr "Nyitott cuica"
 
@@ -1317,7 +1387,11 @@ msgid "Other"
 msgstr "Egyéb"
 
 msgid "other scripts in sprite"
-msgstr "szereplő minden más feladata"
+msgstr "szereplő többi feladata"
+
+#, fuzzy
+msgid "other scripts in stage"
+msgstr "szereplő többi feladata"
 
 msgid "Outdoors"
 msgstr "Kültér"
@@ -1330,6 +1404,12 @@ msgstr "Új jelmez festése"
 
 msgid "Paint new sprite"
 msgstr "Új szereplő festése"
+
+msgid "Password"
+msgstr ""
+
+msgid "Password is required"
+msgstr ""
 
 msgid "paste"
 msgstr "beillesztés"
@@ -1361,13 +1441,22 @@ msgstr ""
 msgid "pop"
 msgstr "pukk"
 
-msgid "Profile"
+msgid "previous backdrop"
 msgstr ""
+
+msgid "Profile"
+msgstr "Profil"
 
 msgid "Project did not load."
 msgstr ""
 
 msgid "Project not saved!"
+msgstr ""
+
+msgid "Project name"
+msgstr ""
+
+msgid "Project name is required"
 msgstr ""
 
 msgid "random"
@@ -1378,6 +1467,9 @@ msgstr "Felvétel"
 
 msgid "Record new sound"
 msgstr "Új hang felvétele"
+
+msgid "record..."
+msgstr ""
 
 msgid "recording1"
 msgstr "felvétel1"
@@ -1452,11 +1544,20 @@ msgstr "Futtatás képernyőfrissítés nélkül"
 msgid "Save"
 msgstr "Mentés"
 
+msgid "Save a copy of this project and add your own ideas."
+msgstr ""
+
+msgid "Save as"
+msgstr ""
+
 msgid "Save as a copy"
 msgstr "Mentés másolatként"
 
 msgid "Save now"
 msgstr "Mentés most"
+
+msgid "Save project?"
+msgstr ""
 
 msgid "save to local file"
 msgstr "mentés fájlként"
@@ -1472,6 +1573,12 @@ msgstr "Mentés folyamatban..."
 
 msgid "Saxophone"
 msgstr "Szakszofon"
+
+msgid "Scratch Updater"
+msgstr ""
+
+msgid "Scratch 2.0 Offline Editor"
+msgstr ""
 
 msgid "Script"
 msgstr "Feladat"
@@ -1503,11 +1610,11 @@ msgstr "Kijelölés és duplázás"
 msgid "Send to back"
 msgstr "Hátraküldés"
 
-msgid "Set costume center"
-msgstr "Középpont beállítása"
-
 # 88%
 msgid "Set Costume Center"
+msgstr "Középpont beállítása"
+
+msgid "Set costume center"
 msgstr "Középpont beállítása"
 
 msgid "set slider min and max"
@@ -1516,6 +1623,12 @@ msgstr "csúszka határainak megadása"
 msgid "Share"
 msgstr "Megosztás"
 
+msgid "Share to website"
+msgstr ""
+
+msgid "Share to Scratch website"
+msgstr ""
+
 # 75%
 msgid "shared"
 msgstr "megosztott"
@@ -1523,8 +1636,9 @@ msgstr "megosztott"
 msgid "Shift:"
 msgstr "Shift:"
 
+#, fuzzy
 msgid "show"
-msgstr ""
+msgstr "látható:"
 
 msgid "show receivers"
 msgstr ""
@@ -1545,7 +1659,7 @@ msgid "Sign in"
 msgstr "Bejelentkezés"
 
 msgid "Sign in to save"
-msgstr ""
+msgstr "Mentéshez jelentkezz be"
 
 msgid "Sign out"
 msgstr "Kijelentkezés"
@@ -1591,12 +1705,12 @@ msgstr "Hangkönyvtár"
 msgid "Sounds"
 msgstr "Hangok"
 
-msgid "space"
-msgstr "szóköz"
-
 # 80%
 msgid "Space"
 msgstr "Űr"
+
+msgid "space"
+msgstr "szóköz"
 
 msgid "Sports"
 msgstr "Sport"
@@ -1645,17 +1759,33 @@ msgstr "Tamburin"
 msgid "tan"
 msgstr "tg"
 
+#, fuzzy
+msgid "text"
+msgstr "Szöveg"
+
 msgid "Text"
 msgstr "Szöveg"
 
 msgid "that way"
 msgstr "arra"
 
+msgid "The name is already is use."
+msgstr ""
+
+msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgstr ""
+
 msgid "Theme"
 msgstr "Téma"
 
 msgid "Things"
 msgstr "Dolgok"
+
+msgid "thing"
+msgstr ""
+
+msgid "This is the current version."
+msgstr ""
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
 msgstr ""
@@ -1693,6 +1823,9 @@ msgstr "Triangulum"
 msgid "Trombone"
 msgstr "Harsona"
 
+msgid "true"
+msgstr ""
+
 msgid "Turbo mode"
 msgstr "Turbó mód"
 
@@ -1709,12 +1842,12 @@ msgstr "Törlés visszavonása"
 msgid "Underwater"
 msgstr "Vízalatt"
 
+msgid "undo"
+msgstr "mégse"
+
 # 75%
 msgid "Undo"
 msgstr "Mégse"
-
-msgid "undo"
-msgstr "mégse"
 
 msgid "Undo Revert"
 msgstr "Visszaállítás visszavonása"
@@ -1730,6 +1863,15 @@ msgstr "fel"
 
 msgid "up arrow"
 msgstr "fel gomb"
+
+msgid "Update failed"
+msgstr ""
+
+msgid "Update not needed"
+msgstr ""
+
+msgid "Update now"
+msgstr ""
 
 msgid "Upload backdrop from file"
 msgstr "Háttér feltöltése"
@@ -1773,6 +1915,9 @@ msgstr "Vibrafon"
 msgid "Vibraslap"
 msgstr "Vibraslap"
 
+msgid "video direction"
+msgstr ""
+
 msgid "video motion"
 msgstr ""
 
@@ -1794,6 +1939,9 @@ msgstr ""
 msgid "Which column do you want to import"
 msgstr ""
 
+msgid "What's your name?"
+msgstr ""
+
 msgid "whirl"
 msgstr "örvény"
 
@@ -1801,6 +1949,9 @@ msgid "Wood Block"
 msgstr ""
 
 msgid "Wooden Flute"
+msgstr ""
+
+msgid "world"
 msgstr ""
 
 msgid "x position"
@@ -1815,11 +1966,23 @@ msgstr "év"
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
 msgstr ""
 
-msgid "Eraser width:"
-msgstr "Radír vastagsága:"
+msgid "Your Scratch name"
+msgstr ""
 
-msgid "Line width:"
-msgstr "Vonalvastagság:"
+msgid "Your Scratch name is required"
+msgstr ""
+
+#~ msgid "cleanup"
+#~ msgstr "rendrakás"
+
+#~ msgid "Microphone Volume:"
+#~ msgstr "Mikrofon hangereje:"
+
+#~ msgid "Eraser width:"
+#~ msgstr "Radír vastagsága:"
+
+#~ msgid "Line width:"
+#~ msgstr "Vonalvastagság:"
 
 # 90%
 #, fuzzy
@@ -1867,3 +2030,12 @@ msgstr "Vonalvastagság:"
 
 #~ msgid "Short Guiro"
 #~ msgstr "Rövid güiro"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Felhőváltozókat illető információk</b><br>&nbsp;<br>Jelenleg csak számok "
+#~ "vannak támogatva<br>Chat szobák létrehozása szigorúan tilos<br>További "
+#~ "információkért <a href= target=>lásd a felhőadat GYIK-et.</a>"

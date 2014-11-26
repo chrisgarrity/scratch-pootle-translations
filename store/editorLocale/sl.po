@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-06-17 08:26+0200\n"
+"PO-Revision-Date: 2014-06-17 08:26+0000\n"
 "Last-Translator: Matija <matija.lokar@fmf.uni-lj.si>\n"
 "Language-Team: FMF <Matija.Lokar@fmf.uni-lj.si>\n"
 "Language: sl\n"
@@ -12,7 +12,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || "
 "n%100==4 ? 2 : 3);\n"
-"X-Generator: Pootle 2.1.6\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1402993603.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -534,8 +535,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-08-01 08:55+0200\n"
-"PO-Revision-Date: 2014-06-17 08:25+0200\n"
+"POT-Creation-Date: 2014-11-23 12:48+0000\n"
+"PO-Revision-Date: 2014-06-17 08:25+0000\n"
 "Last-Translator: Matija <matija.lokar@fmf.uni-lj.si>\n"
 "Language-Team: FMF <Matija.Lokar@fmf.uni-lj.si>\n"
 "Language: sl\n"
@@ -544,7 +545,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || "
 "n%100==4 ? 2 : 3);\n"
-"X-Generator: Pootle 2.1.6\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1402993532.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -552,15 +554,18 @@ msgstr "10 ^"
 msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Informacije o spremenljivkah v oblaku</b><br>&nbsp;<br>Trenutno so "
-"podprta samo števila<br>Klepetalnice niso dovoljene in bodo "
-"odstranjene<br>Za več informacij <a href= target=> si oglej Pogosta "
-"vprašanja o podatkih o podatkih v oblaku!</a>"
+"podprta samo števila<br>Klepetalnice niso dovoljene in bodo odstranjene<br>"
+"Za več informacij <a href= target=> si oglej Pogosta vprašanja o podatkih o "
+"podatkih v oblaku!</a>"
 
 msgid "A connected"
 msgstr "A se je pridružil"
 
 msgid "a copy of the project file on your computer."
 msgstr "kopija projektne datoteke na tvojem računalniku."
+
+msgid "A newer version of Scratch is available"
+msgstr ""
 
 msgid "About"
 msgstr "O Scratchu"
@@ -580,6 +585,9 @@ msgstr "Nastavitve računa"
 msgid "acos"
 msgstr "arccos"
 
+msgid "Add"
+msgstr ""
+
 msgid "Add an Extension"
 msgstr "Dodaj razširitev"
 
@@ -588,6 +596,9 @@ msgstr "Dodaj logični vnos:"
 
 msgid "add comment"
 msgstr "dodaj komentar"
+
+msgid "add comment here..."
+msgstr ""
 
 msgid "Add label text:"
 msgstr "Dodaj besedilo oznake:"
@@ -598,11 +609,11 @@ msgstr "Dodaj število:"
 msgid "Add string input:"
 msgstr "Dodaj niz:"
 
-msgid "All"
-msgstr "Vse"
-
 msgid "all"
 msgstr "vse"
+
+msgid "All"
+msgstr "Vse"
 
 msgid "all around"
 msgstr "na vse strani"
@@ -631,11 +642,11 @@ msgstr "B se je pridružil"
 msgid "Back a layer"
 msgstr "Plast nazaj"
 
-msgid "Backdrop"
-msgstr "Ozadje"
-
 msgid "backdrop"
 msgstr "ozadje"
+
+msgid "Backdrop"
+msgstr "Ozadje"
 
 msgid "backdrop #"
 msgstr "ozadje #"
@@ -721,6 +732,9 @@ msgstr "se lahko povleče v predvajalnik:"
 msgid "Cancel"
 msgstr "Prekliči"
 
+msgid "Cannot Add"
+msgstr ""
+
 msgid "Cannot Delete"
 msgstr "Ne more biti izbrisano"
 
@@ -738,6 +752,9 @@ msgstr "zaokroževanje navzgor"
 
 msgid "Cello"
 msgstr "Čelo"
+
+msgid "Check for updates"
+msgstr ""
 
 msgid "Choir"
 msgstr "Zbor"
@@ -766,7 +783,8 @@ msgstr "Klarinet"
 msgid "Claves"
 msgstr "Palčke claves"
 
-msgid "cleanup"
+#, fuzzy
+msgid "clean up"
 msgstr "pospravi"
 
 msgid "Clear"
@@ -789,6 +807,9 @@ msgstr "Oblak"
 
 msgid "Cloud data"
 msgstr "Podatki v oblaku"
+
+msgid "Cloud variable (stored on server)"
+msgstr ""
 
 msgid "color"
 msgstr "barva"
@@ -847,6 +868,9 @@ msgstr "Videzov > 1"
 msgid "Costumes:"
 msgstr "Videzi:"
 
+msgid "Could not retrieve new application from server."
+msgstr ""
+
 msgid "Cowbell"
 msgstr "Kravji zvonec"
 
@@ -871,11 +895,11 @@ msgstr "datum"
 msgid "day of week"
 msgstr "dan v tednu"
 
-msgid "Delete"
-msgstr "Izbriši"
-
 msgid "delete"
 msgstr "izbriši"
+
+msgid "Delete"
+msgstr "Izbriši"
 
 msgid "delete variable"
 msgstr "izbriši spremenljivko"
@@ -889,6 +913,9 @@ msgstr "smer:"
 msgid "don't rotate"
 msgstr "ne zasukaj"
 
+msgid "Don't save"
+msgstr ""
+
 msgid "down"
 msgstr "dol"
 
@@ -900,6 +927,9 @@ msgstr "Prenesi"
 
 msgid "Download to your computer"
 msgstr "Prenesi na svoj računalnik"
+
+msgid "Downloading new version"
+msgstr ""
 
 msgid "duplicate"
 msgstr "podvoji"
@@ -913,11 +943,11 @@ msgstr "e ^"
 msgid "edge"
 msgstr "rob"
 
-msgid "edit"
-msgstr "uredi"
-
 msgid "Edit"
 msgstr "Uredi"
+
+msgid "edit"
+msgstr "uredi"
 
 msgid "Edit Block"
 msgstr "Uredi blok"
@@ -937,8 +967,14 @@ msgstr "Elektronska"
 msgid "Ellipse"
 msgstr "Elipsa"
 
+msgid "empty"
+msgstr ""
+
 msgid "Erase"
 msgstr "Zradiraj"
+
+msgid "Erase all"
+msgstr ""
 
 msgid "Eraser width"
 msgstr "Širina radirke"
@@ -963,6 +999,9 @@ msgstr "uglasi (fade in)"
 
 msgid "fade out"
 msgstr "izzveni (fade out)"
+
+msgid "false"
+msgstr ""
 
 msgid "Fantasy"
 msgstr "Domišljija"
@@ -1030,11 +1069,27 @@ msgstr "Plosk"
 msgid "Hardware"
 msgstr "strojna oprema"
 
+msgid "help"
+msgstr ""
+
+msgid "Hello!"
+msgstr ""
+
+msgid "Hmm..."
+msgstr ""
+
+#, fuzzy
+msgid "hello"
+msgstr "Čelo"
+
 msgid "hide"
 msgstr "skrij"
 
 msgid "High C"
 msgstr "Visoki C"
+
+msgid "Holiday"
+msgstr ""
 
 msgid "hour"
 msgstr "ura"
@@ -1075,11 +1130,11 @@ msgstr "puščica levo"
 msgid "left-right"
 msgstr "levo-desno"
 
-msgid "LEGO WeDo"
-msgstr "LEGO WeDo"
-
 msgid "length"
 msgstr "dolžina"
+
+msgid "Letters"
+msgstr ""
 
 msgid "Library"
 msgstr "Knjižnica"
@@ -1148,7 +1203,8 @@ msgstr "Sporočilo"
 msgid "message1"
 msgstr "sporočilo1"
 
-msgid "Microphone Volume:"
+#, fuzzy
+msgid "Microphone volume:"
 msgstr "Glasnost mikrofona:"
 
 msgid "Middle C"
@@ -1211,6 +1267,9 @@ msgstr "Novo ozadje iz posnetka"
 msgid "New backdrop:"
 msgstr "Novo ozadje:"
 
+msgid "New Block"
+msgstr ""
+
 msgid "New costume from camera"
 msgstr "Nov videz iz posnetka"
 
@@ -1219,6 +1278,9 @@ msgstr "Nov videz:"
 
 msgid "New List"
 msgstr "Nov seznam"
+
+msgid "New Message"
+msgstr ""
 
 msgid "new message..."
 msgstr "novo sporočilo..."
@@ -1237,6 +1299,9 @@ msgstr "Nova figura:"
 
 msgid "New Variable"
 msgstr "Nova spremenljivka"
+
+msgid "next backdrop"
+msgstr ""
 
 msgid "No motion blocks"
 msgstr "Ni blokov za premikanje"
@@ -1271,6 +1336,9 @@ msgstr "vključi"
 msgid "on-flipped"
 msgstr "prezrcali"
 
+msgid "Open"
+msgstr ""
+
 msgid "Open Cuica"
 msgstr "Odpri boben Cuica"
 
@@ -1289,6 +1357,10 @@ msgstr "Drugo"
 msgid "other scripts in sprite"
 msgstr "ostale figurine skripte"
 
+#, fuzzy
+msgid "other scripts in stage"
+msgstr "ostale figurine skripte"
+
 msgid "Outdoors"
 msgstr "Zunanjost"
 
@@ -1300,6 +1372,12 @@ msgstr "Nariši nov videz"
 
 msgid "Paint new sprite"
 msgstr "Nariši novo figuro"
+
+msgid "Password"
+msgstr ""
+
+msgid "Password is required"
+msgstr ""
 
 msgid "paste"
 msgstr "prilepi"
@@ -1331,6 +1409,9 @@ msgstr "Godalo Pizzicato"
 msgid "pop"
 msgstr "poberi"
 
+msgid "previous backdrop"
+msgstr ""
+
 msgid "Profile"
 msgstr "Profil"
 
@@ -1340,6 +1421,12 @@ msgstr "Projekt se ni naložil."
 msgid "Project not saved!"
 msgstr "Projekt ni bil shranjen!"
 
+msgid "Project name"
+msgstr ""
+
+msgid "Project name is required"
+msgstr ""
+
 msgid "random"
 msgstr "naključno"
 
@@ -1348,6 +1435,9 @@ msgstr "Snemaj"
 
 msgid "Record new sound"
 msgstr "Posnemi nov zvok"
+
+msgid "record..."
+msgstr ""
 
 msgid "recording1"
 msgstr "posnetek1"
@@ -1418,11 +1508,20 @@ msgstr "Izvajaj brez osveževanja zaslona"
 msgid "Save"
 msgstr "Shrani"
 
+msgid "Save a copy of this project and add your own ideas."
+msgstr ""
+
+msgid "Save as"
+msgstr ""
+
 msgid "Save as a copy"
 msgstr "Shrani kot kopijo"
 
 msgid "Save now"
 msgstr "Shrani takoj"
+
+msgid "Save project?"
+msgstr ""
 
 msgid "save to local file"
 msgstr "shrani v datoteko na računalniku"
@@ -1438,6 +1537,12 @@ msgstr "Shranjujem..."
 
 msgid "Saxophone"
 msgstr "Saksofon"
+
+msgid "Scratch Updater"
+msgstr ""
+
+msgid "Scratch 2.0 Offline Editor"
+msgstr ""
 
 msgid "Script"
 msgstr "Skripta"
@@ -1471,10 +1576,10 @@ msgstr "Izberi in podvoji"
 msgid "Send to back"
 msgstr "Pošlji v ozadje"
 
-msgid "Set costume center"
+msgid "Set Costume Center"
 msgstr "Nastavi središče videza"
 
-msgid "Set Costume Center"
+msgid "Set costume center"
 msgstr "Nastavi središče videza"
 
 msgid "set slider min and max"
@@ -1482,6 +1587,12 @@ msgstr "nastavi obseg drsnika"
 
 msgid "Share"
 msgstr "Deli z drugimi"
+
+msgid "Share to website"
+msgstr ""
+
+msgid "Share to Scratch website"
+msgstr ""
 
 msgid "shared"
 msgstr "deljeno"
@@ -1555,11 +1666,11 @@ msgstr "Zbirka zvokov"
 msgid "Sounds"
 msgstr "Zvoki"
 
-msgid "space"
-msgstr "presledek"
-
 msgid "Space"
 msgstr "Presledek"
+
+msgid "space"
+msgstr "presledek"
 
 msgid "Sports"
 msgstr "Šport"
@@ -1606,11 +1717,21 @@ msgstr "Tamburin"
 msgid "tan"
 msgstr "tan"
 
+#, fuzzy
+msgid "text"
+msgstr "Besedilo"
+
 msgid "Text"
 msgstr "Besedilo"
 
 msgid "that way"
 msgstr "v to smer"
+
+msgid "The name is already is use."
+msgstr ""
+
+msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgstr ""
 
 msgid "Theme"
 msgstr "Tema"
@@ -1618,10 +1739,16 @@ msgstr "Tema"
 msgid "Things"
 msgstr "Stvari"
 
+msgid "thing"
+msgstr ""
+
+msgid "This is the current version."
+msgstr ""
+
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
 msgstr ""
-"Ta projekt lahko s pomočjo bloka \"uporabniško ime\" zazna, kdo ga uporablja. "
-"Če želiš skriti svojo identiteto, se pred uporabo projekta odjavi."
+"Ta projekt lahko s pomočjo bloka \"uporabniško ime\" zazna, kdo ga "
+"uporablja. Če želiš skriti svojo identiteto, se pred uporabo projekta odjavi."
 
 msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
 msgstr ""
@@ -1660,6 +1787,9 @@ msgstr "Trikotnik"
 msgid "Trombone"
 msgstr "Trombon"
 
+msgid "true"
+msgstr ""
+
 msgid "Turbo mode"
 msgstr "Hitri način"
 
@@ -1675,11 +1805,11 @@ msgstr "Povrni izbrisano"
 msgid "Underwater"
 msgstr "Pod vodo"
 
-msgid "Undo"
-msgstr "Razveljavi"
-
 msgid "undo"
 msgstr "razveljavi"
+
+msgid "Undo"
+msgstr "Razveljavi"
 
 msgid "Undo Revert"
 msgstr "Razveljavi ponastavitev"
@@ -1695,6 +1825,15 @@ msgstr "gor"
 
 msgid "up arrow"
 msgstr "puščica gor"
+
+msgid "Update failed"
+msgstr ""
+
+msgid "Update not needed"
+msgstr ""
+
+msgid "Update now"
+msgstr ""
 
 msgid "Upload backdrop from file"
 msgstr "Naloži ozadje iz datoteke"
@@ -1738,6 +1877,9 @@ msgstr "Vibrafon"
 msgid "Vibraslap"
 msgstr "Udarec na vibrafon"
 
+msgid "video direction"
+msgstr ""
+
 msgid "video motion"
 msgstr "video gibi"
 
@@ -1759,6 +1901,9 @@ msgstr "Želiš shraniti? Klikni predelaj"
 msgid "Which column do you want to import"
 msgstr "Kateri stolpec želiš uvoziti"
 
+msgid "What's your name?"
+msgstr ""
+
 msgid "whirl"
 msgstr "vrtinec"
 
@@ -1767,6 +1912,9 @@ msgstr "Leseni blok"
 
 msgid "Wooden Flute"
 msgstr "Blok flavta"
+
+msgid "world"
+msgstr ""
 
 msgid "x position"
 msgstr "položaj x"
@@ -1782,11 +1930,26 @@ msgstr ""
 "Ne moreš urejati podatkov v oblaku v tujem projektu.<br>Vsaka sprememba v "
 "urejevalniku bo začasna in ne trajna."
 
-msgid "Eraser width:"
-msgstr "Širina radirke:"
+msgid "Your Scratch name"
+msgstr ""
 
-msgid "Line width:"
-msgstr "Debelina črte:"
+msgid "Your Scratch name is required"
+msgstr ""
+
+#~ msgid "cleanup"
+#~ msgstr "pospravi"
+
+#~ msgid "LEGO WeDo"
+#~ msgstr "LEGO WeDo"
+
+#~ msgid "Microphone Volume:"
+#~ msgstr "Glasnost mikrofona:"
+
+#~ msgid "Eraser width:"
+#~ msgstr "Širina radirke:"
+
+#~ msgid "Line width:"
+#~ msgstr "Debelina črte:"
 
 #~ msgid "New sprite"
 #~ msgstr "Nova figura"
@@ -1832,3 +1995,16 @@ msgstr "Debelina črte:"
 
 #~ msgid "Short Guiro"
 #~ msgstr "Kratek Guiro"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Informacije o spremenljivkah v oblaku</b><br>&nbsp;<br>Trenutno so "
+#~ "podprta samo števila<br>Klepetalnice niso dovoljene in bodo odstranjene<br>"
+#~ "Za več informacij <a href= target=> si oglej Pogosta vprašanja o podatkih o "
+#~ "podatkih v oblaku!</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Klikni 'Shrani takoj' za ponovni poskus ali 'Prenesi' za shranjevanje"

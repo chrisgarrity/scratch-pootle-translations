@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:48+0000\n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
 "PO-Revision-Date: 2014-11-01 06:44+0000\n"
 "Last-Translator: Suha <suhaaktan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -952,6 +952,9 @@ msgstr "Yeniden adlandır"
 msgid "rename variable"
 msgstr "değişkeni yeniden adlandır"
 
+msgid "Replace existing project"
+msgstr ""
+
 msgid "requires sign in"
 msgstr "giriş yapman gerek"
 
@@ -1221,7 +1224,7 @@ msgstr "Yazı"
 msgid "that way"
 msgstr "o yoldan"
 
-msgid "The name is already is use."
+msgid "The name is already in use."
 msgstr ""
 
 msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
@@ -1433,6 +1436,24 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+"For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Bulut değişkenleri hakkında</b><br>&nbsp;<br>Şimdilik, sadece sayısal "
+"değerler destekleniyor<br>Sohbet odalarına izin yok, ve kaldırılacaklar<br>"
+"Daha fazla bilgi için,<a href= target=>bulut veriler SSS'sine bakın!</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "Tekrar denemek için  'a tıkla veya kaydetmek için  ."
+
+msgid "Eraser width:"
+msgstr "Silgi genişliği:"
+
+msgid "Line width:"
+msgstr "Çizgi kalınlığı:"
+
 #~ msgid "cleanup"
 #~ msgstr "temizlik"
 
@@ -1441,12 +1462,6 @@ msgstr ""
 
 #~ msgid "Microphone Volume:"
 #~ msgstr "Mikrofon sesi şiddeti:"
-
-#~ msgid "Eraser width:"
-#~ msgstr "Silgi genişliği:"
-
-#~ msgid "Line width:"
-#~ msgstr "Çizgi kalınlığı:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Boole girdi ekle"
@@ -1575,15 +1590,3 @@ msgstr ""
 
 #~ msgid "Short Guiro"
 #~ msgstr "Kısa Guiro"
-
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Bulut değişkenleri hakkında</b><br>&nbsp;<br>Şimdilik, sadece sayısal "
-#~ "değerler destekleniyor<br>Sohbet odalarına izin yok, ve kaldırılacaklar<br>"
-#~ "Daha fazla bilgi için,<a href= target=>bulut veriler SSS'sine bakın!</a>"
-
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "Tekrar denemek için  'a tıkla veya kaydetmek için  ."

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:42+0000\n"
-"PO-Revision-Date: 2014-11-23 12:51+0000\n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
+"PO-Revision-Date: 2014-11-23 20:57+0000\n"
 "Last-Translator: adlogi <adlogi@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ar\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1416747085.000000\n"
+"X-POOTLE-MTIME: 1416776276.000000\n"
 
 msgid "10 ^"
 msgstr "^ 10"
@@ -955,6 +955,9 @@ msgstr "إعادة تسمية"
 msgid "rename variable"
 msgstr "إعادة تسمية المتغير"
 
+msgid "Replace existing project"
+msgstr ""
+
 # 75%
 msgid "requires sign in"
 msgstr "يتطلب تسجيل الدخول"
@@ -1228,7 +1231,7 @@ msgstr "نص"
 msgid "that way"
 msgstr "ذاك الاتجاه"
 
-msgid "The name is already is use."
+msgid "The name is already in use."
 msgstr "الاسم مستخدم حاليًا"
 
 msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
@@ -1250,8 +1253,8 @@ msgstr "هذا هو الإصدار الأخير."
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
 msgstr ""
-"يمكن لهذا المشروع معرفة من يستخدمه من خلال لبنة \"اسم المستخدم\". لإخفاء "
-"هويتك قم بتسجيل الخروج قبل استخدام المشروع."
+"يمكن لهذا المشروع معرفة من يستخدمه من خلال لبنة ”اسم المستخدم“. لإخفاء هويتك "
+"قم بتسجيل الخروج قبل استخدام المشروع."
 
 msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
 msgstr ""
@@ -1440,6 +1443,27 @@ msgstr "اسمك على موقع سكراتش"
 msgid "Your Scratch name is required"
 msgstr "اسمك على موقع سكراتش مطلوب"
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+"For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>معلومات عن المتغيرات السحابية</b><br>&nbsp;<br>الأعداد فقط مدعومة "
+"حالياً.<br>غرف المحادثة غير مسموحة وسوف تزال<br>لمزيد من المعلومات <a href= "
+"target=>زر الأسئلة متكررة الطرح عن المتغيرات السحابية</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "انقر  للمحاولة ثانيةً أو  للحفظ"
+
+msgid "Eraser width:"
+msgstr "عرض الممحاة:"
+
+msgid "Line width:"
+msgstr "عرض الخط:"
+
+#~ msgid "The name is already is use."
+#~ msgstr "الاسم مستخدم حاليًا"
+
 #~ msgid "Update not nedded"
 #~ msgstr "لا حاجة للتحديث"
 
@@ -1451,12 +1475,6 @@ msgstr "اسمك على موقع سكراتش مطلوب"
 
 #~ msgid "Microphone Volume:"
 #~ msgstr "ارتفاع صوت الميكروفون:"
-
-#~ msgid "Eraser width:"
-#~ msgstr "عرض الممحاة:"
-
-#~ msgid "Line width:"
-#~ msgstr "عرض الخط:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "إضافة حقل منطقي:"
@@ -1597,15 +1615,3 @@ msgstr "اسمك على موقع سكراتش مطلوب"
 
 #~ msgid "Short Guiro"
 #~ msgstr "Short Guiro"
-
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>معلومات عن المتغيرات السحابية</b><br>&nbsp;<br>الأعداد فقط مدعومة "
-#~ "حالياً.<br>غرف المحادثة غير مسموحة وسوف تزال<br>لمزيد من المعلومات <a href= "
-#~ "target=>زر الأسئلة متكررة الطرح عن المتغيرات السحابية</a>"
-
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "انقر  للمحاولة ثانيةً أو  للحفظ"

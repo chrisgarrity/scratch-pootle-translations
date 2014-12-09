@@ -566,7 +566,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:46+0000\n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
 "PO-Revision-Date: 2014-07-12 12:37+0000\n"
 "Last-Translator: S.D. <internet@meijer-online.nl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1506,6 +1506,9 @@ msgstr "Andere naam"
 msgid "rename variable"
 msgstr "geef variabele andere naam"
 
+msgid "Replace existing project"
+msgstr ""
+
 msgid "requires sign in"
 msgstr "moet hiervoor ingelogd zijn"
 
@@ -1772,7 +1775,7 @@ msgstr "Tekst"
 msgid "that way"
 msgstr "daarheen"
 
-msgid "The name is already is use."
+msgid "The name is already in use."
 msgstr ""
 
 msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
@@ -1983,6 +1986,24 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+"For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Informatie over cloud-variabelen</b><br>&nbsp;<br>Op dit moment worden "
+"alleen nummers ondersteund.<br>Chatruimtes zijn niet toegestaan en worden "
+"verwijderd.<br>Voor meer info, <a href= target=>zie cloud-data FAQ!</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "Klik  om opnieuw te proberen of  bewaar"
+
+msgid "Eraser width:"
+msgstr "Gum-breedte:"
+
+msgid "Line width:"
+msgstr "Lijn-breedte:"
+
 #~ msgid "cleanup"
 #~ msgstr "opruimen"
 
@@ -1991,12 +2012,6 @@ msgstr ""
 
 #~ msgid "Microphone Volume:"
 #~ msgstr "Microfoonvolume:"
-
-#~ msgid "Eraser width:"
-#~ msgstr "Gum-breedte:"
-
-#~ msgid "Line width:"
-#~ msgstr "Lijn-breedte:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Voeg boolean-veld toe:"
@@ -2145,15 +2160,3 @@ msgstr ""
 
 #~ msgid "Short Guiro"
 #~ msgstr "korte güiro"
-
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Informatie over cloud-variabelen</b><br>&nbsp;<br>Op dit moment worden "
-#~ "alleen nummers ondersteund.<br>Chatruimtes zijn niet toegestaan en worden "
-#~ "verwijderd.<br>Voor meer info, <a href= target=>zie cloud-data FAQ!</a>"
-
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "Klik  om opnieuw te proberen of  bewaar"

@@ -556,7 +556,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:48+0000\n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
 "PO-Revision-Date: 2014-10-22 07:22+0000\n"
 "Last-Translator: kipkea <apichart.dev@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1488,6 +1488,9 @@ msgstr "เปลี่ยนชื่อ"
 msgid "rename variable"
 msgstr "เปลี่ยนชื่อตัวแปร"
 
+msgid "Replace existing project"
+msgstr ""
+
 msgid "requires sign in"
 msgstr "ต้องเข้าระบบก่อน"
 
@@ -1753,7 +1756,7 @@ msgstr "ข้อความ"
 msgid "that way"
 msgstr "ทางนั้น"
 
-msgid "The name is already is use."
+msgid "The name is already in use."
 msgstr ""
 
 msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
@@ -1958,14 +1961,23 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+"For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+
+msgid "Click  to try again or  to save"
+msgstr ""
+
+msgid "Eraser width:"
+msgstr "ความกว้างยางลบ:"
+
+msgid "Line width:"
+msgstr "ความกว้างเส้น:"
+
 #~ msgid "Microphone Volume:"
 #~ msgstr "ความดังไมโครโฟน:"
-
-#~ msgid "Eraser width:"
-#~ msgstr "ความกว้างยางลบ:"
-
-#~ msgid "Line width:"
-#~ msgstr "ความกว้างเส้น:"
 
 # 90%
 #, fuzzy

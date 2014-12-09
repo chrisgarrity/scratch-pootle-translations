@@ -535,7 +535,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:48+0000\n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
 "PO-Revision-Date: 2014-06-17 08:25+0000\n"
 "Last-Translator: Matija <matija.lokar@fmf.uni-lj.si>\n"
 "Language-Team: FMF <Matija.Lokar@fmf.uni-lj.si>\n"
@@ -1466,6 +1466,9 @@ msgstr "Preimenuj"
 msgid "rename variable"
 msgstr "preimenuj spremenljivko"
 
+msgid "Replace existing project"
+msgstr ""
+
 msgid "requires sign in"
 msgstr "zahteva prijavo"
 
@@ -1727,7 +1730,7 @@ msgstr "Besedilo"
 msgid "that way"
 msgstr "v to smer"
 
-msgid "The name is already is use."
+msgid "The name is already in use."
 msgstr ""
 
 msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
@@ -1936,6 +1939,25 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+"For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Informacije o spremenljivkah v oblaku</b><br>&nbsp;<br>Trenutno so "
+"podprta samo števila<br>Klepetalnice niso dovoljene in bodo odstranjene<br>"
+"Za več informacij <a href= target=> si oglej Pogosta vprašanja o podatkih o "
+"podatkih v oblaku!</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "Klikni 'Shrani takoj' za ponovni poskus ali 'Prenesi' za shranjevanje"
+
+msgid "Eraser width:"
+msgstr "Širina radirke:"
+
+msgid "Line width:"
+msgstr "Debelina črte:"
+
 #~ msgid "cleanup"
 #~ msgstr "pospravi"
 
@@ -1944,12 +1966,6 @@ msgstr ""
 
 #~ msgid "Microphone Volume:"
 #~ msgstr "Glasnost mikrofona:"
-
-#~ msgid "Eraser width:"
-#~ msgstr "Širina radirke:"
-
-#~ msgid "Line width:"
-#~ msgstr "Debelina črte:"
 
 #~ msgid "New sprite"
 #~ msgstr "Nova figura"
@@ -1995,16 +2011,3 @@ msgstr ""
 
 #~ msgid "Short Guiro"
 #~ msgstr "Kratek Guiro"
-
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Informacije o spremenljivkah v oblaku</b><br>&nbsp;<br>Trenutno so "
-#~ "podprta samo števila<br>Klepetalnice niso dovoljene in bodo odstranjene<br>"
-#~ "Za več informacij <a href= target=> si oglej Pogosta vprašanja o podatkih o "
-#~ "podatkih v oblaku!</a>"
-
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "Klikni 'Shrani takoj' za ponovni poskus ali 'Prenesi' za shranjevanje"

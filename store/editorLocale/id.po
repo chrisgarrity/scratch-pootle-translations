@@ -553,7 +553,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:44+0000\n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
 "PO-Revision-Date: 2014-07-24 08:42+0000\n"
 "Last-Translator: Emmanuella <emma.rumanti@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1503,6 +1503,9 @@ msgstr "Rename"
 msgid "rename variable"
 msgstr "rename variabel"
 
+msgid "Replace existing project"
+msgstr ""
+
 msgid "requires sign in"
 msgstr "mengharuskan untuk masuk"
 
@@ -1772,7 +1775,7 @@ msgstr "Teks"
 msgid "that way"
 msgstr "ke arah sana"
 
-msgid "The name is already is use."
+msgid "The name is already in use."
 msgstr ""
 
 msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
@@ -1985,6 +1988,24 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+"For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Informasi tentang variabel Cloud</b><br>&nbsp;<br>Sekarang, hanya angka "
+"yang didukung<br>Chat room tidak diperbolehkan, dan akan dihapus<br>Untuk "
+"info lebih lanjut, <a href= target=>lihat Data Cloud FAQ!</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "Klik untuk mencoba lagi atau untuk menyimpan"
+
+msgid "Eraser width:"
+msgstr "Lebar penghapus:"
+
+msgid "Line width:"
+msgstr "Lebar garis:"
+
 # "cleanup" adalah fitur editor yang dapat kau gunakan untuk merapikan scripts. (blocks)
 #~ msgid "cleanup"
 #~ msgstr "rapikan"
@@ -1994,12 +2015,6 @@ msgstr ""
 
 #~ msgid "Microphone Volume:"
 #~ msgstr "Volume Mikrofon:"
-
-#~ msgid "Eraser width:"
-#~ msgstr "Lebar penghapus:"
-
-#~ msgid "Line width:"
-#~ msgstr "Lebar garis:"
 
 # 90%
 #, fuzzy
@@ -2047,15 +2062,3 @@ msgstr ""
 
 #~ msgid "Short Guiro"
 #~ msgstr "Guiro Pendek"
-
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Informasi tentang variabel Cloud</b><br>&nbsp;<br>Sekarang, hanya angka "
-#~ "yang didukung<br>Chat room tidak diperbolehkan, dan akan dihapus<br>Untuk "
-#~ "info lebih lanjut, <a href= target=>lihat Data Cloud FAQ!</a>"
-
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "Klik untuk mencoba lagi atau untuk menyimpan"

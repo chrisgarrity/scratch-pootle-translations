@@ -559,7 +559,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:42+0000\n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
 "PO-Revision-Date: 2014-08-19 10:13+0000\n"
 "Last-Translator: Kirsten <kirstendampedersen@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1497,6 +1497,9 @@ msgstr "Omdøb"
 msgid "rename variable"
 msgstr "omdøb variabel"
 
+msgid "Replace existing project"
+msgstr ""
+
 msgid "requires sign in"
 msgstr "kræver log-in"
 
@@ -1763,7 +1766,7 @@ msgstr "Tekst"
 msgid "that way"
 msgstr "den måde"
 
-msgid "The name is already is use."
+msgid "The name is already in use."
 msgstr ""
 
 msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
@@ -1973,6 +1976,24 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+"For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Information om skyvariabler</b><br>&nbsp;<br>Aktuelt, kun tal er "
+"understøttet<br>Chatsteder er ikke tilladt og de bliver fjernet<br>For mere "
+"information, <a href= target=>se skydata FAQ!</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "Klik  for at prøve igen eller  for at gemme"
+
+msgid "Eraser width:"
+msgstr "Viskelæderets bredde:"
+
+msgid "Line width:"
+msgstr "Linjebredde:"
+
 #~ msgid "cleanup"
 #~ msgstr "ryd op"
 
@@ -1981,12 +2002,6 @@ msgstr ""
 
 #~ msgid "Microphone Volume:"
 #~ msgstr "Mikrofonstyrke:"
-
-#~ msgid "Eraser width:"
-#~ msgstr "Viskelæderets bredde:"
-
-#~ msgid "Line width:"
-#~ msgstr "Linjebredde:"
 
 # 90%
 #, fuzzy
@@ -2034,15 +2049,3 @@ msgstr ""
 
 #~ msgid "Short Guiro"
 #~ msgstr "Kort Guiro"
-
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Information om skyvariabler</b><br>&nbsp;<br>Aktuelt, kun tal er "
-#~ "understøttet<br>Chatsteder er ikke tilladt og de bliver fjernet<br>For mere "
-#~ "information, <a href= target=>se skydata FAQ!</a>"
-
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "Klik  for at prøve igen eller  for at gemme"

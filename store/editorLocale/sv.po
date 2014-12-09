@@ -567,9 +567,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:48+0000\n"
-"PO-Revision-Date: 2014-11-13 19:23+0000\n"
-"Last-Translator: Robert <rob313663@gmail.com>\n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
+"PO-Revision-Date: 2014-11-27 19:31+0000\n"
+"Last-Translator: Anders <anders.berggren@smedjebacken.se>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
@@ -577,7 +577,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1415906609.000000\n"
+"X-POOTLE-MTIME: 1417116675.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -616,7 +616,7 @@ msgid "acos"
 msgstr "acos"
 
 msgid "Add"
-msgstr ""
+msgstr "Lägg till"
 
 msgid "Add an Extension"
 msgstr "Lägg till ett tillägg"
@@ -1520,6 +1520,9 @@ msgstr "Ändra namn"
 msgid "rename variable"
 msgstr "ändra variabelnamn"
 
+msgid "Replace existing project"
+msgstr ""
+
 msgid "requires sign in"
 msgstr "kräver inloggning"
 
@@ -1790,7 +1793,7 @@ msgstr "Text"
 msgid "that way"
 msgstr "andra hållet"
 
-msgid "The name is already is use."
+msgid "The name is already in use."
 msgstr ""
 
 msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
@@ -2001,6 +2004,24 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+"For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Information om Molnvariabler</b><br>&nbsp;<br>För närvarande stöds enbart "
+"siffror<br>Chattrum är inte tillåtna, och kommer att tas bort<br>för mer "
+"information, <a href= target=>se Molndata - FAQ!</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "Klicka  för att försöka igen eller  för att spara"
+
+msgid "Eraser width:"
+msgstr "Suddgummibredd:"
+
+msgid "Line width:"
+msgstr "Linjebredd:"
+
 #~ msgid "cleanup"
 #~ msgstr "ordna block"
 
@@ -2009,12 +2030,6 @@ msgstr ""
 
 #~ msgid "Microphone Volume:"
 #~ msgstr "Mikrofonvolym:"
-
-#~ msgid "Eraser width:"
-#~ msgstr "Suddgummibredd:"
-
-#~ msgid "Line width:"
-#~ msgstr "Linjebredd:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Lägg till ett boolskt värde:"
@@ -2167,15 +2182,3 @@ msgstr ""
 
 #~ msgid "Short Guiro"
 #~ msgstr "Kort Guiro"
-
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Information om Molnvariabler</b><br>&nbsp;<br>För närvarande stöds enbart "
-#~ "siffror<br>Chattrum är inte tillåtna, och kommer att tas bort<br>för mer "
-#~ "information, <a href= target=>se Molndata - FAQ!</a>"
-
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "Klicka  för att försöka igen eller  för att spara"

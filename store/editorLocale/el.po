@@ -561,7 +561,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:43+0000\n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
 "PO-Revision-Date: 2014-06-19 16:55+0000\n"
 "Last-Translator: Stavros Rafael <georgekourkouliss@yahoo.gr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1499,6 +1499,9 @@ msgstr "Μετονομασία"
 msgid "rename variable"
 msgstr "Μετονομασία Μεταβλητής"
 
+msgid "Replace existing project"
+msgstr ""
+
 msgid "requires sign in"
 msgstr "Απαιτείται σύνδεση Λογαριασμού"
 
@@ -1758,7 +1761,7 @@ msgstr "Κείμενο"
 msgid "that way"
 msgstr "προς εκείνη την κατεύθυνση"
 
-msgid "The name is already is use."
+msgid "The name is already in use."
 msgstr ""
 
 msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
@@ -1969,17 +1972,31 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+"For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Πληροφορίες σχετικά με τις μεταβλητές Cloud</b><br>&nbsp;<br>Προς το "
+"παρόν, μόνο οι αριθμητικές μεταβλητές Cloud υποστηρίζονται.<br> Οι χώροι "
+"συνομιλίας (Chat room) μέσω των μεταβλητών Cloud δεν επιτρέπονται και θα "
+"διαγράφονται.<br>Για περισσότερες πληροφορίες, <a href= target=>δείτε τις "
+"Συχνές Ερωτήσεις για τα δεδομένα Cloud.</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "Πατήστε  για να προσπαθήσετε ξανά ή πατήστε  για να κάνετε αποθήκευση."
+
+msgid "Eraser width:"
+msgstr "Πλάτος γόμας"
+
+msgid "Line width:"
+msgstr "Πλάτος γραμμής"
+
 #~ msgid "cleanup"
 #~ msgstr "Εκκαθάριση"
 
 #~ msgid "Microphone Volume:"
 #~ msgstr "Ένταση Μικροφώνου:"
-
-#~ msgid "Eraser width:"
-#~ msgstr "Πλάτος γόμας"
-
-#~ msgid "Line width:"
-#~ msgstr "Πλάτος γραμμής"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Προσθέστε μια τιμή boolean:"
@@ -2108,17 +2125,3 @@ msgstr ""
 
 #~ msgid "Short Guiro"
 #~ msgstr "Βραχύχρονο Γκουίρο"
-
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Πληροφορίες σχετικά με τις μεταβλητές Cloud</b><br>&nbsp;<br>Προς το "
-#~ "παρόν, μόνο οι αριθμητικές μεταβλητές Cloud υποστηρίζονται.<br> Οι χώροι "
-#~ "συνομιλίας (Chat room) μέσω των μεταβλητών Cloud δεν επιτρέπονται και θα "
-#~ "διαγράφονται.<br>Για περισσότερες πληροφορίες, <a href= target=>δείτε τις "
-#~ "Συχνές Ερωτήσεις για τα δεδομένα Cloud.</a>"
-
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "Πατήστε  για να προσπαθήσετε ξανά ή πατήστε  για να κάνετε αποθήκευση."

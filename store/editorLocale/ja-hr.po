@@ -570,7 +570,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:45+0000\n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
 "PO-Revision-Date: 2014-10-24 16:01+0000\n"
 "Last-Translator: Kazuhiro <abee@squeakland.jp>\n"
 "Language-Team: LANGUAGE\n"
@@ -1507,6 +1507,9 @@ msgstr "なまえをへんこう"
 msgid "rename variable"
 msgstr "へんすうめいをへんこう"
 
+msgid "Replace existing project"
+msgstr ""
+
 msgid "requires sign in"
 msgstr "サインインがひつようです"
 
@@ -1767,7 +1770,7 @@ msgstr "テキスト"
 msgid "that way"
 msgstr "あちらむき"
 
-msgid "The name is already is use."
+msgid "The name is already in use."
 msgstr ""
 
 msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
@@ -1972,6 +1975,23 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+"For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"クラウドへんすうについて</b><br>&nbsp;<br>げんざい、すうちのみがサポートされています<br>チャットルームのさくせいはきょかされていない"
+"ため、さくじょされます<br>しょうさいなじょうほうは <a href= target=>クラウドデータにかんするFAQをよんでください！</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "「ただちにほぞん」をクリックしてさいしこうするか、「ダウンロード」でほぞんしてください"
+
+msgid "Eraser width:"
+msgstr "けしゴムのはば:"
+
+msgid "Line width:"
+msgstr "せんのはば:"
+
 #~ msgid "cleanup"
 #~ msgstr "きれいにする"
 
@@ -1980,12 +2000,6 @@ msgstr ""
 
 #~ msgid "Microphone Volume:"
 #~ msgstr "マイクのおんりょう:"
-
-#~ msgid "Eraser width:"
-#~ msgstr "けしゴムのはば:"
-
-#~ msgid "Line width:"
-#~ msgstr "せんのはば:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "しんぎちのひきすうをついか:"
@@ -2022,14 +2036,3 @@ msgstr ""
 
 #~ msgid "New sound"
 #~ msgstr "あたらしいおと"
-
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "クラウドへんすうについて</b><br>&nbsp;<br>げんざい、すうちのみがサポートされています<br>チャットルームのさくせいはきょかされていない"
-#~ "ため、さくじょされます<br>しょうさいなじょうほうは <a href= target=>クラウドデータにかんするFAQをよんでください！</a>"
-
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "「ただちにほぞん」をクリックしてさいしこうするか、「ダウンロード」でほぞんしてください"

@@ -551,7 +551,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:43+0000\n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
 "PO-Revision-Date: 2014-03-02 21:28+0000\n"
 "Last-Translator: timsk3 <translate_scratch@timsk.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1488,6 +1488,9 @@ msgstr "Ŝanĝi la nomon"
 msgid "rename variable"
 msgstr "ŝanĝi la variablonomon"
 
+msgid "Replace existing project"
+msgstr ""
+
 msgid "requires sign in"
 msgstr "ensaluto bezonata"
 
@@ -1750,7 +1753,7 @@ msgstr "Teksto"
 msgid "that way"
 msgstr "tien"
 
-msgid "The name is already is use."
+msgid "The name is already in use."
 msgstr ""
 
 msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
@@ -1960,17 +1963,30 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+"For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Informoj pri Ennubaj Variabloj</b><br>&nbsp;<br>Aktuale, nur numberoj "
+"estas akceptitaj<br>Tujmesaĝejoj ne estas akceptitaj, kaj estos "
+"forigitaj.<br>Por pli da informoj, <a href= target=>vidu la demandaro pri "
+"Ennubaj Datumoj.</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "Musklaku  por provi denove, aŭ  por konservi"
+
+msgid "Eraser width:"
+msgstr "Larĝo de forviŝilo:"
+
+msgid "Line width:"
+msgstr "Larĝo de linio:"
+
 #~ msgid "cleanup"
 #~ msgstr "purigo"
 
 #~ msgid "Microphone Volume:"
 #~ msgstr "Mikrofona laŭteco:"
-
-#~ msgid "Eraser width:"
-#~ msgstr "Larĝo de forviŝilo:"
-
-#~ msgid "Line width:"
-#~ msgstr "Larĝo de linio:"
 
 # 90%
 #, fuzzy
@@ -2018,16 +2034,3 @@ msgstr ""
 
 #~ msgid "Short Guiro"
 #~ msgstr "Mallonga guiro"
-
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Informoj pri Ennubaj Variabloj</b><br>&nbsp;<br>Aktuale, nur numberoj "
-#~ "estas akceptitaj<br>Tujmesaĝejoj ne estas akceptitaj, kaj estos "
-#~ "forigitaj.<br>Por pli da informoj, <a href= target=>vidu la demandaro pri "
-#~ "Ennubaj Datumoj.</a>"
-
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "Musklaku  por provi denove, aŭ  por konservi"

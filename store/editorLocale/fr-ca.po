@@ -578,7 +578,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:43+0000\n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
 "PO-Revision-Date: 2013-01-30 03:00+0000\n"
 "Last-Translator: sylvainlongpre <sylvainlongpre@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1507,6 +1507,9 @@ msgstr ""
 msgid "rename variable"
 msgstr ""
 
+msgid "Replace existing project"
+msgstr ""
+
 msgid "requires sign in"
 msgstr ""
 
@@ -1771,7 +1774,7 @@ msgstr ""
 msgid "that way"
 msgstr "de l'autre façon"
 
-msgid "The name is already is use."
+msgid "The name is already in use."
 msgstr ""
 
 msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
@@ -1974,6 +1977,21 @@ msgid "Your Scratch name"
 msgstr ""
 
 msgid "Your Scratch name is required"
+msgstr ""
+
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+"For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+
+msgid "Click  to try again or  to save"
+msgstr ""
+
+msgid "Eraser width:"
+msgstr ""
+
+msgid "Line width:"
 msgstr ""
 
 # 90%

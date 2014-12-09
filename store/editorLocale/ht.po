@@ -510,8 +510,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:44+0000\n"
-"PO-Revision-Date: 2014-11-23 12:44+0000\n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
+"PO-Revision-Date: 2014-11-25 05:20+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ht\n"
@@ -520,7 +520,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1416746679.000000\n"
+"X-POOTLE-MTIME: 1416892800.000000\n"
 
 msgid "10 ^"
 msgstr ""
@@ -1440,6 +1440,9 @@ msgstr ""
 msgid "rename variable"
 msgstr ""
 
+msgid "Replace existing project"
+msgstr ""
+
 msgid "requires sign in"
 msgstr ""
 
@@ -1700,7 +1703,7 @@ msgstr ""
 msgid "that way"
 msgstr ""
 
-msgid "The name is already is use."
+msgid "The name is already in use."
 msgstr ""
 
 msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
@@ -1903,6 +1906,21 @@ msgid "Your Scratch name"
 msgstr ""
 
 msgid "Your Scratch name is required"
+msgstr ""
+
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+"For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+
+msgid "Click  to try again or  to save"
+msgstr ""
+
+msgid "Eraser width:"
+msgstr ""
+
+msgid "Line width:"
 msgstr ""
 
 #~ msgid "Paint"

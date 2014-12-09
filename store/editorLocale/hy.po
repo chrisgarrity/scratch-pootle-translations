@@ -551,7 +551,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:44+0000\n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
 "PO-Revision-Date: 2013-10-23 09:03+0000\n"
 "Last-Translator: Jasmine <udea_jasmine@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1489,6 +1489,9 @@ msgstr "Անվանափոխել"
 msgid "rename variable"
 msgstr "Անվանափոխել փոփոխականը"
 
+msgid "Replace existing project"
+msgstr ""
+
 msgid "requires sign in"
 msgstr "Պահանջում է գրանցվել"
 
@@ -1753,7 +1756,7 @@ msgstr "Տեքստ"
 msgid "that way"
 msgstr "այդ ուղղությամբ"
 
-msgid "The name is already is use."
+msgid "The name is already in use."
 msgstr ""
 
 msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
@@ -1966,17 +1969,30 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
+# FAQ - Frequently Asked Questions- Հաճախակի տրվող հարցեր
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+"For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Տեղեկություն Cloud-ի փոփոխականների վերաբերյալ</b><br>&nbsp;<br>Ներկայումս "
+"միայն թվերն են սատարվում<br>Զրուցասրահներ չեն թույլատրվում և կվերացվեն<br>"
+"մանրամասների համար. <a href= target=>տես Cloud data FAQ!</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "Սեղմել կոճակը նորից փորձելու կամ պահպանելու համար:"
+
+msgid "Eraser width:"
+msgstr "Ռետինի լայնքը."
+
+msgid "Line width:"
+msgstr "Գծի հաստությունը."
+
 #~ msgid "cleanup"
 #~ msgstr "մաքրում"
 
 #~ msgid "Microphone Volume:"
 #~ msgstr "Միկրոֆոնի ուժգնությունը"
-
-#~ msgid "Eraser width:"
-#~ msgstr "Ռետինի լայնքը."
-
-#~ msgid "Line width:"
-#~ msgstr "Գծի հաստությունը."
 
 # 90%
 #, fuzzy
@@ -2024,16 +2040,3 @@ msgstr ""
 
 #~ msgid "Short Guiro"
 #~ msgstr "Գուիրո"
-
-# FAQ - Frequently Asked Questions- Հաճախակի տրվող հարցեր
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Տեղեկություն Cloud-ի փոփոխականների վերաբերյալ</b><br>&nbsp;<br>Ներկայումս "
-#~ "միայն թվերն են սատարվում<br>Զրուցասրահներ չեն թույլատրվում և կվերացվեն<br>"
-#~ "մանրամասների համար. <a href= target=>տես Cloud data FAQ!</a>"
-
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "Սեղմել կոճակը նորից փորձելու կամ պահպանելու համար:"

@@ -555,7 +555,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:47+0000\n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
 "PO-Revision-Date: 2013-10-20 13:08+0000\n"
 "Last-Translator: Anca-Diana <diacadan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1491,6 +1491,9 @@ msgstr "Redenumeste"
 msgid "rename variable"
 msgstr "redenumeste variabila"
 
+msgid "Replace existing project"
+msgstr ""
+
 msgid "requires sign in"
 msgstr "este necesara logarea"
 
@@ -1753,7 +1756,7 @@ msgstr "Text"
 msgid "that way"
 msgstr "acest mod"
 
-msgid "The name is already is use."
+msgid "The name is already in use."
 msgstr ""
 
 msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
@@ -1966,18 +1969,31 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
-#~ msgid "Microphone Volume:"
-#~ msgstr "Volumul microfonului:"
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+"For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Informatia despre variabilele Cloud</b><br>&nbsp;<br>In acest moment sunt "
+"suportate numai numere<br>Camerele de chat nu sunt permise si vor fi "
+"eliminate<br>Pentru mai multe informatii, <a href= target=>vezi sectiunea "
+"cloud FAQ!</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "Clic pentru a incerca din nou sau  pentru a salva"
 
 # 92%
 #, fuzzy
-#~ msgid "Eraser width:"
-#~ msgstr "Grosimea radierei"
+msgid "Eraser width:"
+msgstr "Grosimea radierei"
 
 # 90%
 #, fuzzy
-#~ msgid "Line width:"
-#~ msgstr "Grosimea liniei"
+msgid "Line width:"
+msgstr "Grosimea liniei"
+
+#~ msgid "Microphone Volume:"
+#~ msgstr "Volumul microfonului:"
 
 # 90%
 #, fuzzy
@@ -1998,16 +2014,3 @@ msgstr ""
 
 #~ msgid "More"
 #~ msgstr "mai mult"
-
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Informatia despre variabilele Cloud</b><br>&nbsp;<br>In acest moment sunt "
-#~ "suportate numai numere<br>Camerele de chat nu sunt permise si vor fi "
-#~ "eliminate<br>Pentru mai multe informatii, <a href= target=>vezi sectiunea "
-#~ "cloud FAQ!</a>"
-
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "Clic pentru a incerca din nou sau  pentru a salva"

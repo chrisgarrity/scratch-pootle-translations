@@ -546,7 +546,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:48+0000\n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
 "PO-Revision-Date: 2014-04-23 15:55+0000\n"
 "Last-Translator: Michal <mpraznovsky@zsvycapy.edu.sk>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1479,6 +1479,9 @@ msgstr "Premenovať"
 msgid "rename variable"
 msgstr "premenuj premennú"
 
+msgid "Replace existing project"
+msgstr ""
+
 msgid "requires sign in"
 msgstr "vyžaduje prihlásenie"
 
@@ -1741,7 +1744,7 @@ msgstr "Text"
 msgid "that way"
 msgstr "inak"
 
-msgid "The name is already is use."
+msgid "The name is already in use."
 msgstr ""
 
 msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
@@ -1950,6 +1953,24 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+"For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Informácie o cloudových premenných</b><br>&nbsp;<br>Zatiaľ sú podporované "
+"len čísla<br>Chatovacie miestnosti nie sú povolené a budú zmazané<br>Pre "
+"viac informácií <a href= target=>pozri cloud data FAQ!</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "Klikni  pre ďalší pokus alebo  pre uloženie"
+
+msgid "Eraser width:"
+msgstr "Šírka gumy:"
+
+msgid "Line width:"
+msgstr "Šírka úsečky:"
+
 #~ msgid "cleanup"
 #~ msgstr "vyčisti"
 
@@ -1958,12 +1979,6 @@ msgstr ""
 
 #~ msgid "Microphone Volume:"
 #~ msgstr "Hlasitosť mikrofónu:"
-
-#~ msgid "Eraser width:"
-#~ msgstr "Šírka gumy:"
-
-#~ msgid "Line width:"
-#~ msgstr "Šírka úsečky:"
 
 # 90%
 #, fuzzy
@@ -2011,15 +2026,3 @@ msgstr ""
 
 #~ msgid "Short Guiro"
 #~ msgstr "Krátke guiro"
-
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Informácie o cloudových premenných</b><br>&nbsp;<br>Zatiaľ sú podporované "
-#~ "len čísla<br>Chatovacie miestnosti nie sú povolené a budú zmazané<br>Pre "
-#~ "viac informácií <a href= target=>pozri cloud data FAQ!</a>"
-
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "Klikni  pre ďalší pokus alebo  pre uloženie"

@@ -558,7 +558,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:42+0000\n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
 "PO-Revision-Date: 2014-11-12 09:03+0000\n"
 "Last-Translator: Anton <anton.kalauzki@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1507,6 +1507,9 @@ msgstr "Преименуване"
 msgid "rename variable"
 msgstr "преименуване на променливата"
 
+msgid "Replace existing project"
+msgstr ""
+
 msgid "requires sign in"
 msgstr "трябва да сте влезли"
 
@@ -1777,7 +1780,7 @@ msgstr "Текст"
 msgid "that way"
 msgstr "натам"
 
-msgid "The name is already is use."
+msgid "The name is already in use."
 msgstr ""
 
 msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
@@ -1986,17 +1989,30 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+"For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Информация за Облачни променливи</b><br>&nbsp;<br>Към момента се "
+"поддържат само числa<br>Чат стаи не са разрешени и ще бъдат премахвани<br>За "
+"повече информация, <a href= target=>вижте често задавани въпроси (FAQ) за "
+"облачни променливи</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "Кликнете  за повторен опит или  за запис"
+
+msgid "Eraser width:"
+msgstr "Широчина на гумата:"
+
+msgid "Line width:"
+msgstr "Широчина на линията:"
+
 #~ msgid "cleanup"
 #~ msgstr "разчисти"
 
 #~ msgid "Microphone Volume:"
 #~ msgstr "Ниво на микрофона:"
-
-#~ msgid "Eraser width:"
-#~ msgstr "Широчина на гумата:"
-
-#~ msgid "Line width:"
-#~ msgstr "Широчина на линията:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Добавяне на логически вход:"
@@ -2052,16 +2068,3 @@ msgstr ""
 
 #~ msgid "More"
 #~ msgstr "повече"
-
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Информация за Облачни променливи</b><br>&nbsp;<br>Към момента се "
-#~ "поддържат само числa<br>Чат стаи не са разрешени и ще бъдат премахвани<br>За "
-#~ "повече информация, <a href= target=>вижте често задавани въпроси (FAQ) за "
-#~ "облачни променливи</a>"
-
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "Кликнете  за повторен опит или  за запис"

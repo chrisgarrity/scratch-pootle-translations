@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-07-01 20:12+0000\n"
-"Last-Translator: adlogi <adlogi@media.mit.edu>\n"
+"PO-Revision-Date: 2014-12-09 03:07+0000\n"
+"Last-Translator: Claudia <CALLA@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1404245576.000000\n"
+"X-POOTLE-MTIME: 1418094436.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -450,7 +450,7 @@ msgid "when %m.key key pressed"
 msgstr "al presionar tecla %m.key"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr ""
+msgstr "when %m.sensor %m.lessMore %n"
 
 msgid "when %m.triggerSensor > %n"
 msgstr "cuando el %m.triggerSensor sea > %n"
@@ -463,7 +463,7 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "cuando el fondo cambie a %m.backdrop"
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
+msgstr "cuando distancia %m.lessMore %n"
 
 msgid "when I receive %m.broadcast"
 msgstr "al recibir %m.broadcast"
@@ -472,13 +472,13 @@ msgid "when I start as a clone"
 msgstr "cuando comience como clon"
 
 msgid "when Stage clicked"
-msgstr ""
+msgstr "al presionar escenario"
 
 msgid "when this sprite clicked"
 msgstr "al clickear este objeto"
 
 msgid "when tilt %m.eNe %n"
-msgstr ""
+msgstr "cuando inclinación sea %m.eNe %n"
 
 msgid "x position"
 msgstr "posición en x"
@@ -508,7 +508,7 @@ msgid "when distance < %n"
 msgstr "cuando la distancia sea < %n"
 
 msgid "when tilt = %n"
-msgstr "cuando la inclinación = %n"
+msgstr "cuando inclinación = %n"
 
 # 89%
 # 86%

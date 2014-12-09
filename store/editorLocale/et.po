@@ -596,7 +596,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:43+0000\n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
 "PO-Revision-Date: 2014-08-25 16:21+0000\n"
 "Last-Translator: Jüri <juri.vilipold@ttu.ee>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1555,6 +1555,9 @@ msgstr "Muuda nime"
 msgid "rename variable"
 msgstr "muuda muutuja nime"
 
+msgid "Replace existing project"
+msgstr ""
+
 msgid "requires sign in"
 msgstr "nõuab sisselogimist"
 
@@ -1827,7 +1830,7 @@ msgstr "Tekst"
 msgid "that way"
 msgstr "teises suunas"
 
-msgid "The name is already is use."
+msgid "The name is already in use."
 msgstr ""
 
 msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
@@ -2037,6 +2040,25 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+"For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Info pilvemuutujate kohta</b><br>&nbsp;<br>Praegu on võimalik kasutada "
+"ainult arve<br>Jututoad ei ole lubatud ja eemaldatakse<br>Täiendav info <a "
+"href= target=>vaata pilveandmete KKK!</a>"
+
+# kus selline tekst asub?
+msgid "Click  to try again or  to save"
+msgstr "Klõpsa uueks katseks või salvestamiseks"
+
+msgid "Eraser width:"
+msgstr "Kustutaja laius:"
+
+msgid "Line width:"
+msgstr "Joone paksus:"
+
 #~ msgid "cleanup"
 #~ msgstr "puhastamine"
 
@@ -2045,12 +2067,6 @@ msgstr ""
 
 #~ msgid "Microphone Volume:"
 #~ msgstr "Mikrofoni helitugevus:"
-
-#~ msgid "Eraser width:"
-#~ msgstr "Kustutaja laius:"
-
-#~ msgid "Line width:"
-#~ msgstr "Joone paksus:"
 
 #~ msgid "#"
 #~ msgstr "#"
@@ -2204,16 +2220,3 @@ msgstr ""
 
 #~ msgid "Stage selected"
 #~ msgstr "Lava on valitud"
-
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Info pilvemuutujate kohta</b><br>&nbsp;<br>Praegu on võimalik kasutada "
-#~ "ainult arve<br>Jututoad ei ole lubatud ja eemaldatakse<br>Täiendav info <a "
-#~ "href= target=>vaata pilveandmete KKK!</a>"
-
-# kus selline tekst asub?
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "Klõpsa uueks katseks või salvestamiseks"

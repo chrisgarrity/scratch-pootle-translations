@@ -520,7 +520,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:46+0000\n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
 "PO-Revision-Date: 2014-04-29 11:37+0000\n"
 "Last-Translator: dhanila <dhanilabk@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -1455,6 +1455,9 @@ msgstr "പുതിയ പേരിടുക"
 msgid "rename variable"
 msgstr "ചരത്തിനു പുതിയ പേര് കൊടുക്കുക"
 
+msgid "Replace existing project"
+msgstr ""
+
 msgid "requires sign in"
 msgstr "അകത്തു പ്രവേശിക്കണം"
 
@@ -1717,7 +1720,7 @@ msgstr "വാക്യം"
 msgid "that way"
 msgstr "ആ വഴി"
 
-msgid "The name is already is use."
+msgid "The name is already in use."
 msgstr ""
 
 msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
@@ -1929,6 +1932,25 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+"For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>ക്ലൌഡിലെ ചരങ്ങളെ കുറിച്ചുള്ള വിവരങ്ങള്‍</b><br>&nbsp;<br>നിലവില്‍ സംഖ്യകളെ"
+" മാത്രമെ പിന്തുണയ്ക്കുകയുള്ളു<br>ചാറ്റ് റൂം സംവിധാനം അനുവദിനീയമല്ല അത് "
+"ഒഴിവാക്കും<br>കൂടുതല്‍ വിവരങ്ങള്‍ക്കായ്‌ <a href= target=>ക്ലൌഡിലെ വിവരങ്ങള്‍"
+" നോക്കുക FAQ!</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "ഒന്നുകൂടി ചെയ്യാനോ അല്ലെങ്കില്‍ സേവ് ചെയ്യാനോ ക്ലിക്ക് ചെയ്യുക"
+
+msgid "Eraser width:"
+msgstr "റബ്ബറിന്‍റെ വീതി:"
+
+msgid "Line width:"
+msgstr "വരയുടെ വീതി:"
+
 #~ msgid "cleanup"
 #~ msgstr "വൃത്തിയാക്കുക"
 
@@ -1937,12 +1959,6 @@ msgstr ""
 
 #~ msgid "Microphone Volume:"
 #~ msgstr "മൈക്കിന്‍റെ ഒച്ച:"
-
-#~ msgid "Eraser width:"
-#~ msgstr "റബ്ബറിന്‍റെ വീതി:"
-
-#~ msgid "Line width:"
-#~ msgstr "വരയുടെ വീതി:"
 
 # 90%
 #, fuzzy
@@ -1957,16 +1973,3 @@ msgstr ""
 
 #~ msgid "More"
 #~ msgstr "കൂടുതല്‍"
-
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>ക്ലൌഡിലെ ചരങ്ങളെ കുറിച്ചുള്ള വിവരങ്ങള്‍</b><br>&nbsp;<br>നിലവില്‍ സംഖ്യകളെ"
-#~ " മാത്രമെ പിന്തുണയ്ക്കുകയുള്ളു<br>ചാറ്റ് റൂം സംവിധാനം അനുവദിനീയമല്ല അത് "
-#~ "ഒഴിവാക്കും<br>കൂടുതല്‍ വിവരങ്ങള്‍ക്കായ്‌ <a href= target=>ക്ലൌഡിലെ വിവരങ്ങള്‍"
-#~ " നോക്കുക FAQ!</a>"
-
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "ഒന്നുകൂടി ചെയ്യാനോ അല്ലെങ്കില്‍ സേവ് ചെയ്യാനോ ക്ലിക്ക് ചെയ്യുക"

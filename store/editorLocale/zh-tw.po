@@ -546,7 +546,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:49+0000\n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
 "PO-Revision-Date: 2014-10-22 06:57+0000\n"
 "Last-Translator: Chao-Hsiung <pesder@gmail.com>\n"
 "Language-Team: Chinese (traditional)  <zh-l10n@lists.linux.org.tw>\n"
@@ -1477,6 +1477,9 @@ msgstr "重新命名"
 msgid "rename variable"
 msgstr "重新命名變數"
 
+msgid "Replace existing project"
+msgstr ""
+
 msgid "requires sign in"
 msgstr "需要登入"
 
@@ -1739,7 +1742,7 @@ msgstr "文字"
 msgid "that way"
 msgstr "方向"
 
-msgid "The name is already is use."
+msgid "The name is already in use."
 msgstr ""
 
 msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
@@ -1942,6 +1945,23 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+"For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>雲端變數的</b><br>&nbsp;<br>目前只能用數字<br>不能用聊天室，會被刪除。<br>更多相關資訊<a href=\""
+"/help/faq/#clouddata\" target=\"_blank\">請看雲端資料FAQ!</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "點選\"立即儲存\"以重試或\"下載\"以儲存"
+
+msgid "Eraser width:"
+msgstr "橡皮擦寬度"
+
+msgid "Line width:"
+msgstr "線條寬度"
+
 #~ msgid "cleanup"
 #~ msgstr "清除"
 
@@ -1950,12 +1970,6 @@ msgstr ""
 
 #~ msgid "Microphone Volume:"
 #~ msgstr "麥克風音量："
-
-#~ msgid "Eraser width:"
-#~ msgstr "橡皮擦寬度"
-
-#~ msgid "Line width:"
-#~ msgstr "線條寬度"
 
 # 90%
 #, fuzzy
@@ -2003,14 +2017,3 @@ msgstr ""
 
 #~ msgid "Short Guiro"
 #~ msgstr "短梗笛"
-
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>雲端變數的</b><br>&nbsp;<br>目前只能用數字<br>不能用聊天室，會被刪除。<br>更多相關資訊<a href=\""
-#~ "/help/faq/#clouddata\" target=\"_blank\">請看雲端資料FAQ!</a>"
-
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "點選\"立即儲存\"以重試或\"下載\"以儲存"

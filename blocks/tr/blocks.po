@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-09-09 01:33+0000\n"
+"PO-Revision-Date: 2014-12-29 08:57+0000\n"
 "Last-Translator: Suha <suhaaktan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1410226438.000000\n"
+"X-POOTLE-MTIME: 1419843437.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -171,7 +171,7 @@ msgid "hide variable %m.var"
 msgstr "%m.var değişkenini gizle"
 
 msgid "if %b then"
-msgstr "eğer %b ise "
+msgstr "eğer %b ise"
 
 msgid "if on edge, bounce"
 msgstr "kenara geldiysen sek"
@@ -296,7 +296,7 @@ msgid "sensor %m.booleanSensor?"
 msgstr "algılayıcı %m.booleanSensor (mı?)"
 
 msgid "set %m.effect effect to %n"
-msgstr "%m.effect etkisini %n yap"
+msgstr "%m.effect etkisi %n olsun"
 
 msgid "set %m.var to %s"
 msgstr "%m.var , %s olsun"
@@ -334,13 +334,13 @@ msgid "set size to %n%"
 msgstr "büyüklüğü % %n yap"
 
 msgid "set tempo to %n bpm"
-msgstr "tempoyu %n vuruş/dk yap"
+msgstr "tempo %n vuruş/dk olsun"
 
 msgid "set video transparency to %n%"
-msgstr "video saydamlığını % %n yap"
+msgstr "video saydamlığı %n% olsun"
 
 msgid "set volume to %n%"
-msgstr "ses şiddetini % %n yap"
+msgstr "ses şiddeti %n% olsun"
 
 msgid "set x to %n"
 msgstr "x, %n olsun"

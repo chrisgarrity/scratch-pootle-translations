@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2014-11-29 19:10+0000\n"
+"PO-Revision-Date: 2014-12-19 14:46+0000\n"
 "Last-Translator: aabuchba <aabuchba@mail.ru>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ab\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1417288237.000000\n"
+"X-POOTLE-MTIME: 1419000385.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -219,7 +219,7 @@ msgid "Cello"
 msgstr "Авиолончель"
 
 msgid "Check for updates"
-msgstr "Арҿыцраз"
+msgstr "Аверсиа арҿыцра"
 
 msgid "Choir"
 msgstr "Ахор"
@@ -429,7 +429,7 @@ msgid "Electronic"
 msgstr "Аелектроника"
 
 msgid "Ellipse"
-msgstr "Аелипс"
+msgstr "Аеллипс"
 
 msgid "empty"
 msgstr "Иҭацәуп"
@@ -477,7 +477,7 @@ msgid "File"
 msgstr "Афаил"
 
 msgid "Fill with color"
-msgstr "Иҭырҭаатәуп ҧшшәыла"
+msgstr "Иҭырҭәаатәуп ҧшшәыла"
 
 msgid "fisheye"
 msgstr "аҧсыӡ абла"
@@ -903,7 +903,7 @@ msgid "recording1"
 msgstr "Аҭаҩра1"
 
 msgid "Rectangle"
-msgstr "Акуакьҭаиаша"
+msgstr "Акәакьҭаиаша"
 
 msgid "Redo"
 msgstr "Архынҳәра ҧхьаҟа"
@@ -969,7 +969,7 @@ msgid "Run without screen refresh"
 msgstr "Идәықәҵатәуп аекран арҿыцрада"
 
 msgid "Save"
-msgstr "Иеиқәрхатәуп"
+msgstr "Иеиқәырхатәуп"
 
 msgid "Save a copy of this project and add your own ideas."
 msgstr "Иеқәшәырха абри апроеқт акопиа,  нас иацышәҵала шәара шгәаанагарақәа."
@@ -978,19 +978,19 @@ msgid "Save as"
 msgstr "Иеиқәырхатәуп иаба (ишҧа)"
 
 msgid "Save as a copy"
-msgstr "Иеиқәрхатәуп акопиа ҳасабла"
+msgstr "Иеиқәырхатәуп акопиа ҳасабла"
 
 msgid "Save now"
-msgstr "Иеиқәрхатәуп абыржәы"
+msgstr "Иеиқәырхатәуп абыржәы"
 
 msgid "Save project?"
 msgstr "Апроеқт еиқәырхатәума?"
 
 msgid "save to local file"
-msgstr "иеиқәрхатәуп алокалтә фаил"
+msgstr "иеиқәырхатәуп алокалтә фаил"
 
 msgid "Saved"
-msgstr "Иеиқәрхоуп"
+msgstr "Иеиқәырхоуп"
 
 msgid "Saving changes..."
 msgstr "Аҧсахрақәа реиқәрхара..."

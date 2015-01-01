@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-07-24 08:23+0000\n"
+"PO-Revision-Date: 2014-12-20 05:06+0000\n"
 "Last-Translator: Emmanuella <emma.rumanti@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1406190186.000000\n"
+"X-POOTLE-MTIME: 1419051983.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -72,7 +72,7 @@ msgid "change pen color by %n"
 msgstr "ubah warna pena sebesar %n"
 
 msgid "change pen shade by %n"
-msgstr "ubah bayangan pena sebesar %n"
+msgstr "ubah kegelapan pena sebesar %n"
 
 msgid "change pen size by %n"
 msgstr "ubah ukuran pena sebesar %n"
@@ -208,7 +208,7 @@ msgid "loudness"
 msgstr "kekerasan suara"
 
 msgid "More Blocks"
-msgstr "Custom Blok"
+msgstr "Balok Custom"
 
 # Do you forgot to use capitals?
 msgid "Motion"
@@ -218,7 +218,7 @@ msgid "mouse down?"
 msgstr "mouse tertekan?"
 
 msgid "mouse x"
-msgstr "mouse x"
+msgstr "Data"
 
 msgid "mouse y"
 msgstr "mouse y"
@@ -234,7 +234,7 @@ msgid "next costume"
 msgstr "kostum berikutnya"
 
 msgid "not %b"
-msgstr "bukan %b"
+msgstr "tidak %b"
 
 msgid "Operators"
 msgstr "Operator"
@@ -256,7 +256,7 @@ msgstr "mainkan drum %d.drum sebanyak %n ketukan"
 
 # 83%
 msgid "play note %d.note for %n beats"
-msgstr "mainkan nada %d.note sebanyak %n ketukan"
+msgstr "bunyikan nada %d.note sebanyak %n ketukan"
 
 msgid "play sound %m.sound"
 msgstr "mainkan suara %m.sound"
@@ -274,7 +274,7 @@ msgid "repeat %n"
 msgstr "ulangi sebanyak %n kali"
 
 msgid "repeat until %b"
-msgstr "ulangi sampai %b"
+msgstr "lakukan sampai %b"
 
 msgid "replace item %d.listItem of %m.list with %s"
 msgstr "ganti item %d.listItem dari %m.list dengan %s"
@@ -313,7 +313,7 @@ msgstr "set alat musik ke %d.instrument"
 # 86%
 # 97%
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "atur arah motor %m.motorDirection"
+msgstr "atur arah %m.motor2 ke %m.motorDirection"
 
 # 77%
 # 75%
@@ -450,7 +450,7 @@ msgstr "tunggu sampai %b"
 
 # 75%
 msgid "when %m.booleanSensor"
-msgstr "ketika %m.booleanSensor?"
+msgstr "ketika %m.booleanSensor"
 
 msgid "when %m.key key pressed"
 msgstr "ketika tombol %m.key ditekan"
@@ -481,6 +481,7 @@ msgstr "ketika aku mulai sebagai clone"
 msgid "when Stage clicked"
 msgstr "ketika Stage diklik"
 
+# past tense (clicked)
 msgid "when this sprite clicked"
 msgstr "ketika sprite ini diklik"
 

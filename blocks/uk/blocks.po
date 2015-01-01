@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-07-25 19:13+0000\n"
+"PO-Revision-Date: 2014-12-29 14:13+0000\n"
 "Last-Translator: Григорій <ggromko@mail.ru>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: uk\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1406315621.000000\n"
+"X-POOTLE-MTIME: 1419862394.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -154,13 +154,13 @@ msgid "go back %n layers"
 msgstr "стати позаду %n об'єктів"
 
 msgid "go to %m.spriteOrMouse"
-msgstr "переміститись в %m.spriteOrMouse"
+msgstr "перемістити в %m.spriteOrMouse"
 
 msgid "go to front"
 msgstr "стати попереду всіх"
 
 msgid "go to x:%n y:%n"
-msgstr "переміститись в x:%n y:%n"
+msgstr "перемістити в x:%n y:%n"
 
 msgid "hide"
 msgstr "сховати"
@@ -205,7 +205,7 @@ msgid "loudness"
 msgstr "гучність"
 
 msgid "More Blocks"
-msgstr "Нові блоки"
+msgstr "Ваші блоки"
 
 msgid "Motion"
 msgstr "Рух"
@@ -220,7 +220,7 @@ msgid "mouse y"
 msgstr "мишка y"
 
 msgid "move %n steps"
-msgstr "переміститись на %n кроків"
+msgstr "перемістити на %n кроків"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "next backdrop"

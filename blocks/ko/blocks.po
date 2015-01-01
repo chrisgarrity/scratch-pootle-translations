@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-10-11 06:13+0000\n"
-"Last-Translator: janggoons <janggoons@gmail.com>\n"
+"PO-Revision-Date: 2014-12-29 10:55+0000\n"
+"Last-Translator: YunJae <janggoons@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1413008037.000000\n"
+"X-POOTLE-MTIME: 1419850555.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -25,7 +25,7 @@ msgid "%b or %b"
 msgstr "%b 또는 %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
-msgstr "%m.spriteOrStage 의 %m.attribute"
+msgstr "%m.attribute (%m.spriteOrStage)"
 
 msgid "%m.list contains %s"
 msgstr "%m.list 리스트에 %s 포함되었는가"
@@ -158,7 +158,7 @@ msgid "go to %m.spriteOrMouse"
 msgstr "%m.spriteOrMouse 위치로 이동하기"
 
 msgid "go to front"
-msgstr "맨 앞으로 나오기"
+msgstr "맨 앞으로 순서 바꾸기"
 
 msgid "go to x:%n y:%n"
 msgstr "x:%n y:%n 로 이동하기"
@@ -187,7 +187,7 @@ msgid "item %d.listItem of %m.list"
 msgstr "%d.listItem 번째 %m.list 항목"
 
 msgid "join %s %s"
-msgstr "%s %s 결합하기"
+msgstr "%s 와 %s 결합하기"
 
 msgid "key %m.key pressed?"
 msgstr "%m.key 키를 눌렀는가?"
@@ -234,7 +234,7 @@ msgid "next costume"
 msgstr "다음 모양으로 바꾸기"
 
 msgid "not %b"
-msgstr "%b 아니다"
+msgstr "%b 가(이) 아니다"
 
 msgid "Operators"
 msgstr "연산"
@@ -259,10 +259,10 @@ msgid "play note %d.note for %n beats"
 msgstr "%d.note 번 음을 %n 박자로 연주하기"
 
 msgid "play sound %m.sound"
-msgstr "%m.sound 소리내기"
+msgstr "%m.sound 재생하기"
 
 msgid "play sound %m.sound until done"
-msgstr "%m.sound 끝까지 소리내기"
+msgstr "%m.sound 끝까지 재생하기"
 
 msgid "point in direction %d.direction"
 msgstr "%d.direction 도 방향 보기"
@@ -507,7 +507,7 @@ msgstr "모터 켜기"
 
 # 80%
 msgid "turn motor on for %n secs"
-msgstr "%n 초 동안 모터 켜기"
+msgstr "%n 초 동안 모터를 켜기"
 
 msgid "when distance < %n"
 msgstr "거리 < %n 일 때"

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-12-01 17:12+0000\n"
+"PO-Revision-Date: 2014-12-29 13:40+0000\n"
 "Last-Translator: Kalvis <kalvis.kincis@r6vsk.lv>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: lv\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);"
 "\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1417453920.000000\n"
+"X-POOTLE-MTIME: 1419860452.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -64,7 +64,7 @@ msgid "broadcast %m.broadcast and wait"
 msgstr "pārraidīt %m.broadcast un gaidīt"
 
 msgid "change %m.effect effect by %n"
-msgstr "mainīt %m.effect efektu pa %n "
+msgstr "mainīt %m.effect efektu par %n"
 
 msgid "change %m.var by %n"
 msgstr "mainīt %m.var pa %n"
@@ -88,10 +88,10 @@ msgid "change volume by %n"
 msgstr "mainīt skaļumu pa %n"
 
 msgid "change x by %n"
-msgstr "mainīt x pa %n"
+msgstr "mainīt x par %n"
 
 msgid "change y by %n"
-msgstr "mainīt y pa %n"
+msgstr "mainīt y par %n"
 
 msgid "clear"
 msgstr "notīrīt"
@@ -100,7 +100,7 @@ msgid "clear graphic effects"
 msgstr "notīrīt grafiskos efektus"
 
 msgid "color %c is touching %c?"
-msgstr "krāsa %c pieskaras %c"
+msgstr "krāsa %c pieskaras %c?"
 
 msgid "Control"
 msgstr "Vadība"
@@ -118,7 +118,7 @@ msgid "Data"
 msgstr "Dati"
 
 msgid "days since 2000"
-msgstr ""
+msgstr "dienas kopš 2000"
 
 msgid "define"
 msgstr "definēt"
@@ -136,7 +136,7 @@ msgid "distance"
 msgstr "attālums"
 
 msgid "distance to %m.spriteOrMouse"
-msgstr "attālums no %m.spriteOrMouse"
+msgstr "attālums līdz %m.spriteOrMouse"
 
 msgid "else"
 msgstr "citādi"
@@ -172,7 +172,7 @@ msgid "hide variable %m.var"
 msgstr "slēpt mainīgo %m.var"
 
 msgid "if %b then"
-msgstr ""
+msgstr "ja %b tad"
 
 msgid "if on edge, bounce"
 msgstr "ja uz malas, tad atlēkt"
@@ -248,10 +248,10 @@ msgid "pick random %n to %n"
 msgstr "nejauši izvēlēties no %n līdz %n"
 
 msgid "play drum %d.drum for %n beats"
-msgstr "%n sitienus spēlēd bungas %d.drum"
+msgstr "spēlēt bungas %d.drum %n sitienus"
 
 msgid "play note %d.note for %n beats"
-msgstr "%n sitienus spēlēt noti %d.note"
+msgstr "spēlēt noti %d.note %n sitienus"
 
 msgid "play sound %m.sound"
 msgstr "spēlēt skaņu %m.sound"
@@ -287,7 +287,7 @@ msgid "say %s"
 msgstr "teikt %s"
 
 msgid "say %s for %n secs"
-msgstr "%n sekundes teikt %s "
+msgstr "teikt %s %n sekundes"
 
 msgid "Sensing"
 msgstr "Novērošana"
@@ -306,14 +306,12 @@ msgstr "iestatīt instrumentu uz %d.instrument"
 
 # 86%
 # 97%
-#, fuzzy
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "iestatīt motora virzienu uz %m.motorDirection"
+msgstr "iestatīt %m.motor2 virzienā %m.motorDirection"
 
 # 75%
-#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "iestatīt motora jaudu %n"
+msgstr "iestatīt %m.motor jaudu uz %n"
 
 msgid "set pen color to %c"
 msgstr "iestatīt zīmuļa krāsu uz %c"
@@ -390,7 +388,7 @@ msgid "think %s"
 msgstr "domāt %s"
 
 msgid "think %s for %n secs"
-msgstr "%n sekundes domāt %s"
+msgstr "domāt %s %n sekundes"
 
 msgid "tilt"
 msgstr "noliekt"
@@ -405,31 +403,28 @@ msgid "touching color %c?"
 msgstr "pieskaras krāsai %c?"
 
 msgid "turn @turnLeft %n degrees"
-msgstr "pagriezties @turnLeft pa %n grādiem"
+msgstr "pagriezties @turnLeft par %n grādiem"
 
 msgid "turn @turnRight %n degrees"
-msgstr "pagriezties @turnRigth pa %n grādiem"
+msgstr "pagriezties @turnRigth par %n grādiem"
 
 # 82%
-#, fuzzy
 msgid "turn %m.motor off"
-msgstr "izslēgt motoru"
+msgstr "izslēgt %m.motor"
 
 # 81%
-#, fuzzy
 msgid "turn %m.motor on"
-msgstr "ieslēgt motoru"
+msgstr "ieslēgt %m.motor"
 
 # 89%
-#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr "iezlēgt motoru uz %n sekundēm"
+msgstr "ieslēgt %m.motor uz %n sekundēm"
 
 msgid "turn video %m.videoState"
 msgstr "pārslēgt video uz %m.videoState"
 
 msgid "username"
-msgstr ""
+msgstr "lietotāja vārds"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
 msgstr "video %m.videoMotionType uz %m.stageOrThis"
@@ -450,7 +445,7 @@ msgid "when %m.key key pressed"
 msgstr "kad piespiests taustiņš %m.key"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr ""
+msgstr "kad %m.sensor %m.lessMore %n"
 
 msgid "when %m.triggerSensor > %n"
 msgstr "kad %m.triggerSensor > %n"
@@ -463,22 +458,22 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "kad fons nomainās uz %m.backdrop"
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
+msgstr "kad attālums %m.lessMore %n"
 
 msgid "when I receive %m.broadcast"
 msgstr "kad es saņemu %m.broadcast"
 
 msgid "when I start as a clone"
-msgstr ""
+msgstr "Kad es uzrodos kā dublikāts"
 
 msgid "when Stage clicked"
-msgstr ""
+msgstr "kad noklikšķināta skatuve"
 
 msgid "when this sprite clicked"
 msgstr "kad uzklikšķināts uz šī gariņa"
 
 msgid "when tilt %m.eNe %n"
-msgstr ""
+msgstr "kad paceļ %m.eNe %n"
 
 msgid "x position"
 msgstr "x pozīcija"

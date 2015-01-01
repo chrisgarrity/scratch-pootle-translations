@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2014-11-01 06:44+0000\n"
+"PO-Revision-Date: 2014-12-29 22:37+0000\n"
 "Last-Translator: Suha <suhaaktan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1414824298.000000\n"
+"X-POOTLE-MTIME: 1419892645.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -30,7 +30,7 @@ msgid "a copy of the project file on your computer."
 msgstr "bilgisayarındaki proje dosyasının bir kopyası."
 
 msgid "A newer version of Scratch is available"
-msgstr ""
+msgstr "Scratch'ın yeni bir sürümü çıktı"
 
 msgid "About"
 msgstr "Hakkında"
@@ -51,7 +51,7 @@ msgid "acos"
 msgstr "acos"
 
 msgid "Add"
-msgstr ""
+msgstr "Ekle"
 
 msgid "Add an Extension"
 msgstr "Bir Uzantı ekle"
@@ -61,13 +61,13 @@ msgid "Add boolean input:"
 msgstr "Mantıksal girdi ekle:"
 
 msgid "add comment"
-msgstr "not düş"
+msgstr "yorum ekle"
 
 msgid "add comment here..."
-msgstr ""
+msgstr "buraya yorum ekle..."
 
 msgid "Add label text:"
-msgstr "Kelimeler ekle:"
+msgstr "Etiket yazısı ekle:"
 
 # 89%
 msgid "Add number input:"
@@ -78,7 +78,7 @@ msgid "Add string input:"
 msgstr "Sözel girdi ekle:"
 
 msgid "all"
-msgstr "hepsini"
+msgstr "hepsi"
 
 msgid "All"
 msgstr "Tümü"
@@ -98,6 +98,7 @@ msgstr "Hayvanlar"
 msgid "asin"
 msgstr "asin"
 
+#, fuzzy
 msgid "assets loaded"
 msgstr "unsur yüklendi"
 
@@ -105,7 +106,7 @@ msgid "atan"
 msgstr "atan"
 
 msgid "B connected"
-msgstr "B bağlı"
+msgstr "B bağlandı"
 
 msgid "Back a layer"
 msgstr "Bir katman alta"
@@ -172,6 +173,7 @@ msgstr "Bongo"
 msgid "brightness"
 msgstr "parlaklık"
 
+#, fuzzy
 msgid "Bring to front"
 msgstr "Öne getir"
 
@@ -187,11 +189,13 @@ msgstr "düğmeye basıldı"
 msgid "by"
 msgstr "yapan"
 
+#, fuzzy
 msgid "bytes loaded"
 msgstr "bayt yüklendi"
 
+#, fuzzy
 msgid "C connected"
-msgstr "C bağlı"
+msgstr "C bağlandı"
 
 msgid "Cabasa"
 msgstr "Cabasa"
@@ -199,20 +203,22 @@ msgstr "Cabasa"
 msgid "Camera"
 msgstr "Kamera"
 
+#, fuzzy
 msgid "can drag in player:"
-msgstr "oyuncu sürükleyebilir:"
+msgstr "fareyle sürüklenebilir:"
 
 msgid "Cancel"
 msgstr "İptal"
 
+#, fuzzy
 msgid "Cannot Add"
-msgstr ""
+msgstr "Ekleyemem"
 
 msgid "Cannot Delete"
 msgstr "Silemem"
 
 msgid "Can’t find network connection or reach server."
-msgstr "Ağ bağlantısı bulunamadı ya da sunucuya ulaşılamadı"
+msgstr "Ağ bağlantısı bulamadım ya da sunucuya ulaşamadım."
 
 msgid "Castle"
 msgstr "Kale"
@@ -227,7 +233,7 @@ msgid "Cello"
 msgstr "Viyolonsel"
 
 msgid "Check for updates"
-msgstr ""
+msgstr "Güncellemeleri kontrol et"
 
 msgid "Choir"
 msgstr "Koro"
@@ -266,8 +272,9 @@ msgstr "Temizle"
 msgid "clear senders/receivers"
 msgstr "göndericileri/alıcıları temizle"
 
+#, fuzzy
 msgid "Click "Save now" to try again or "Download" to save"
-msgstr "Tekrar denemek için  'a tıkla veya kaydetmek için  ."
+msgstr "Tekrar denemek için \"Şimdi kaydet\"e, kaydetmek için \"İndir\"e tıkla"
 
 msgid "Close"
 msgstr "Kapat"
@@ -282,7 +289,7 @@ msgid "Cloud data"
 msgstr "Bulut veri"
 
 msgid "Cloud variable (stored on server)"
-msgstr ""
+msgstr "Bulut değişkeni (sunucuda saklanır)"
 
 msgid "color"
 msgstr "renk"
@@ -302,9 +309,11 @@ msgstr "Noktasala dönüştür"
 msgid "Convert to vector"
 msgstr "Çizgisele dönüştür"
 
+#, fuzzy
 msgid "Converting mp3..."
 msgstr "Mp3'ü okuyorum..."
 
+#, fuzzy
 msgid "copy"
 msgstr "kopya"
 
@@ -344,7 +353,7 @@ msgid "Costumes:"
 msgstr "Kılıklar:"
 
 msgid "Could not retrieve new application from server."
-msgstr ""
+msgstr "Sunucudan yeni uygulama alamadım."
 
 msgid "Cowbell"
 msgstr "İnek Çanı"
@@ -361,8 +370,9 @@ msgstr "Şimdilik, Bulut değişkenlerinde sadece sayılar saklanabiliyor."
 msgid "cut"
 msgstr "kes"
 
+#, fuzzy
 msgid "D connected"
-msgstr "D bağlı"
+msgstr "D bağlandı"
 
 msgid "date"
 msgstr "tarih"
@@ -391,7 +401,7 @@ msgid "don't rotate"
 msgstr "hiç dönemesin"
 
 msgid "Don't save"
-msgstr ""
+msgstr "Kaydetme"
 
 msgid "down"
 msgstr "aşağı"
@@ -406,7 +416,7 @@ msgid "Download to your computer"
 msgstr "Bilgisayarıma indir"
 
 msgid "Downloading new version"
-msgstr ""
+msgstr "Yeni sürümü indiriyorum"
 
 msgid "duplicate"
 msgstr "kopyasını çıkart"
@@ -445,13 +455,13 @@ msgid "Ellipse"
 msgstr "Elips"
 
 msgid "empty"
-msgstr ""
+msgstr "boş"
 
 msgid "Erase"
 msgstr "Sil"
 
 msgid "Erase all"
-msgstr ""
+msgstr "Tümünü sil"
 
 # 92%
 msgid "Eraser width"
@@ -479,7 +489,7 @@ msgid "fade out"
 msgstr "giderek alçalt"
 
 msgid "false"
-msgstr ""
+msgstr "yanlış"
 
 msgid "Fantasy"
 msgstr "Fantezi"
@@ -548,26 +558,25 @@ msgid "Hardware"
 msgstr "Donanım"
 
 msgid "help"
-msgstr ""
+msgstr "yardım"
 
 msgid "Hello!"
-msgstr ""
+msgstr "Merhaba!"
 
 msgid "Hmm..."
-msgstr ""
+msgstr "Hmm..."
 
-#, fuzzy
 msgid "hello"
-msgstr "Viyolonsel"
+msgstr "merhaba"
 
 msgid "hide"
-msgstr "gizle"
+msgstr "gizlen"
 
 msgid "High C"
 msgstr "Yüksek C"
 
 msgid "Holiday"
-msgstr ""
+msgstr "Tatil"
 
 msgid "hour"
 msgstr "saat"
@@ -613,7 +622,7 @@ msgid "length"
 msgstr "uzunluk"
 
 msgid "Letters"
-msgstr ""
+msgstr "Harfler"
 
 msgid "Library"
 msgstr "Kütüphane"
@@ -750,7 +759,7 @@ msgid "New backdrop:"
 msgstr "Yeni dekor:"
 
 msgid "New Block"
-msgstr ""
+msgstr "Yeni Taş"
 
 msgid "New costume from camera"
 msgstr "Kameradan yeni kılık oluştur"
@@ -762,8 +771,9 @@ msgstr "Yeni kılık:"
 msgid "New List"
 msgstr "Yeni Liste"
 
+#, fuzzy
 msgid "New Message"
-msgstr ""
+msgstr "Yeni Haber"
 
 msgid "new message..."
 msgstr "yeni haber..."
@@ -785,7 +795,7 @@ msgid "New Variable"
 msgstr "Yeni Değişken"
 
 msgid "next backdrop"
-msgstr ""
+msgstr "sonraki dekor"
 
 msgid "No motion blocks"
 msgstr "Hareket taşı yok"
@@ -821,7 +831,7 @@ msgid "on-flipped"
 msgstr "aç - solu sağ yap"
 
 msgid "Open"
-msgstr ""
+msgstr "Aç"
 
 msgid "Open Cuica"
 msgstr "Açık Cuica"
@@ -841,9 +851,8 @@ msgstr "Diğer"
 msgid "other scripts in sprite"
 msgstr "kuklanın diğer dizilerini"
 
-#, fuzzy
 msgid "other scripts in stage"
-msgstr "kuklanın diğer dizilerini"
+msgstr "sahnedeki diğer diziler"
 
 msgid "Outdoors"
 msgstr "Bina dışı"
@@ -858,10 +867,10 @@ msgid "Paint new sprite"
 msgstr "Yeni kuklayı çiz"
 
 msgid "Password"
-msgstr ""
+msgstr "Parola"
 
 msgid "Password is required"
-msgstr ""
+msgstr "Parola gerekli"
 
 msgid "paste"
 msgstr "yapıştır"
@@ -895,7 +904,7 @@ msgid "pop"
 msgstr "pop"
 
 msgid "previous backdrop"
-msgstr ""
+msgstr "önceki dekor"
 
 msgid "Profile"
 msgstr "Profil"
@@ -907,10 +916,10 @@ msgid "Project not saved!"
 msgstr "Proje kaydedilmedi!"
 
 msgid "Project name"
-msgstr ""
+msgstr "Proje adı"
 
 msgid "Project name is required"
-msgstr ""
+msgstr "Proje adı gereklidir"
 
 msgid "random"
 msgstr "rastgele"
@@ -922,7 +931,7 @@ msgid "Record new sound"
 msgstr "Yeni ses kaydet"
 
 msgid "record..."
-msgstr ""
+msgstr "kayıt..."
 
 msgid "recording1"
 msgstr "kayıt1"
@@ -938,7 +947,7 @@ msgid "redo"
 msgstr "ileri al"
 
 msgid "Remix"
-msgstr "Ekleme"
+msgstr "Katkı Yap"
 
 msgid "Remixing..."
 msgstr "Ekliyorum..."
@@ -952,8 +961,9 @@ msgstr "Yeniden adlandır"
 msgid "rename variable"
 msgstr "değişkeni yeniden adlandır"
 
+#, fuzzy
 msgid "Replace existing project"
-msgstr ""
+msgstr "Mevcut projenin üstüne yaz"
 
 msgid "requires sign in"
 msgstr "giriş yapman gerek"
@@ -998,10 +1008,10 @@ msgid "Save"
 msgstr "Kaydet"
 
 msgid "Save a copy of this project and add your own ideas."
-msgstr ""
+msgstr "Bu projenin bir kopyasını kaydet ve kendi fikirlerini ekle."
 
 msgid "Save as"
-msgstr ""
+msgstr "Farklı kaydet"
 
 msgid "Save as a copy"
 msgstr "Kopyasını kaydet"
@@ -1010,7 +1020,7 @@ msgid "Save now"
 msgstr "Şimdi kaydet"
 
 msgid "Save project?"
-msgstr ""
+msgstr "Projeyi kaydedeyim mi?"
 
 msgid "save to local file"
 msgstr "bilgisayarıma kaydet"
@@ -1028,10 +1038,10 @@ msgid "Saxophone"
 msgstr "Saksafon"
 
 msgid "Scratch Updater"
-msgstr ""
+msgstr "Scratch Güncelleyici"
 
 msgid "Scratch 2.0 Offline Editor"
-msgstr ""
+msgstr "Scratch 2.0 Çevrimdışı Editörü"
 
 # 85%
 msgid "Script"
@@ -1081,10 +1091,10 @@ msgid "Share"
 msgstr "Paylaş"
 
 msgid "Share to website"
-msgstr ""
+msgstr "Web sitesinde paylaş"
 
 msgid "Share to Scratch website"
-msgstr ""
+msgstr "Scratch web sitesinde paylaş"
 
 msgid "shared"
 msgstr "paylaştın"
@@ -1216,7 +1226,7 @@ msgstr "tan"
 
 #, fuzzy
 msgid "text"
-msgstr "Yazı"
+msgstr "yazı"
 
 msgid "Text"
 msgstr "Yazı"
@@ -1225,10 +1235,12 @@ msgid "that way"
 msgstr "o yoldan"
 
 msgid "The name is already in use."
-msgstr ""
+msgstr "Bu isimde biri var."
 
 msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
 msgstr ""
+"Proje yüklenirken çuvalladık, teknik ekibe haber gitti. Bu sayfadan çıkmak "
+"için Tamam'a bas."
 
 msgid "Theme"
 msgstr "Tema"
@@ -1237,14 +1249,14 @@ msgid "Things"
 msgstr "Muhtelif"
 
 msgid "thing"
-msgstr ""
+msgstr "şey"
 
 msgid "This is the current version."
-msgstr ""
+msgstr "Bu güncel sürümdür."
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
 msgstr ""
-"Bu proje \"kullanıcı adı\" taşını kullanarak kendisini kimin kullandığını "
+"Bu proje “kullanıcı adı” taşını kullanarak kendisini kimin kullandığını "
 "bilebilir. Kimliğini gizlemek istiyorsan, projeyi kullanmadan önce çıkış yap."
 
 msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
@@ -1285,7 +1297,7 @@ msgid "Trombone"
 msgstr "Trombon"
 
 msgid "true"
-msgstr ""
+msgstr "doğru"
 
 # 90%
 msgid "Turbo mode"
@@ -1311,6 +1323,7 @@ msgstr "geri al"
 msgid "Undo"
 msgstr "Geri al"
 
+#, fuzzy
 msgid "Undo Revert"
 msgstr "Başa Dönmekten Caydım"
 
@@ -1327,28 +1340,28 @@ msgid "up arrow"
 msgstr "yukarı ok"
 
 msgid "Update failed"
-msgstr ""
+msgstr "Güncelleme başarısız"
 
 msgid "Update not needed"
-msgstr ""
+msgstr "Güncellemeye gerek yok"
 
 msgid "Update now"
-msgstr ""
+msgstr "Şimdi güncelle"
 
 msgid "Upload backdrop from file"
-msgstr "Dekoru bilgisayardan seç"
+msgstr "Dekoru bilgisayarından seç"
 
 msgid "Upload costume from file"
-msgstr "Kılığı bilgisayardan seç"
+msgstr "Kılığı bilgisayarından seç"
 
 msgid "Upload from your computer"
 msgstr "Bilgisayarımdan yükle"
 
 msgid "Upload sound from file"
-msgstr "Sesi bilgisayaran seç"
+msgstr "Sesi bilgisayarından seç"
 
 msgid "Upload sprite from file"
-msgstr "Kuklayı bilgisayardan seç"
+msgstr "Kuklayı bilgisayarından seç"
 
 msgid "Uploading image..."
 msgstr "Resmi yüklüyorum..."
@@ -1378,7 +1391,7 @@ msgid "Vibraslap"
 msgstr "Vibraslap"
 
 msgid "video direction"
-msgstr ""
+msgstr "video yönü"
 
 msgid "video motion"
 msgstr "video hareketi"
@@ -1392,17 +1405,18 @@ msgstr "Vokaller"
 msgid "volume"
 msgstr "ses şiddeti"
 
+#, fuzzy
 msgid "Walking"
 msgstr "Yürüyenler"
 
 msgid "Want to save? Click remix"
-msgstr "Kaydetmek istersen Eklemeye tıkla"
+msgstr "Kaydetmek istersen Katkı Yap'a tıkla"
 
 msgid "Which column do you want to import"
 msgstr "Hangi sütunu içeri aktarmak istiyorsun"
 
 msgid "What's your name?"
-msgstr ""
+msgstr "İsmin ne?"
 
 msgid "whirl"
 msgstr "fırılda"
@@ -1414,7 +1428,7 @@ msgid "Wooden Flute"
 msgstr "Ahşap Flüt"
 
 msgid "world"
-msgstr ""
+msgstr "dünya"
 
 msgid "x position"
 msgstr "x konumu"
@@ -1431,10 +1445,10 @@ msgstr ""
 "yaptığın her değişiklik kalıcı olamayacak."
 
 msgid "Your Scratch name"
-msgstr ""
+msgstr "Scratch'daki adın"
 
 msgid "Your Scratch name is required"
-msgstr ""
+msgstr "Scratch'daki adın gerekli"
 
 msgid ""
 "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "

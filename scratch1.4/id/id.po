@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-09-19 03:48-0400\n"
-"PO-Revision-Date: 2014-07-24 08:21+0000\n"
-"Last-Translator: Emmanuella Pramudita <emma.rumanti@gmail.com>\n"
+"PO-Revision-Date: 2014-12-25 03:10+0000\n"
+"Last-Translator: Emmanuella <emma.rumanti@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1406190085.000000\n"
+"X-POOTLE-MTIME: 1419477013.000000\n"
 
 # ##########################################
 # FORMATTING
@@ -521,7 +521,7 @@ msgid "backgrounds"
 msgstr "latar belakang"
 
 msgid "Backgrounds"
-msgstr "Latar Belakang"
+msgstr "Latar"
 
 msgid "brightness"
 msgstr "kecerahan"
@@ -615,7 +615,7 @@ msgid "Could not read"
 msgstr "Tidak dapat membaca"
 
 msgid "Could not read project; file may be damaged"
-msgstr "Tidak dapat membaca proyek; file mungkin rusak"
+msgstr "Tidak dapat membaca karya; file mungkin rusak"
 
 msgid "Could not write file"
 msgstr "Tidak dapat menulis file"
@@ -701,8 +701,11 @@ msgstr "pinggir"
 msgid "Edit"
 msgstr "Edit"
 
+#, fuzzy
 msgid "Ellipse tool (draw outlined or filled ellipse or circle)"
-msgstr "Alat Elips (menggambar dan mewarnai elips atau lingkaran)"
+msgstr ""
+"Alat elips (menggambar elips dengan outline atau elips terisi warna atau "
+"lingkaran)"
 
 msgid "enable remote sensor connections"
 msgstr "aktifkan semua hubungan remote sensor"
@@ -759,7 +762,7 @@ msgid "Extras menu"
 msgstr "Menu ekstra"
 
 msgid "Eyedropper tool (select a color)"
-msgstr "Alat Pipet (pilih suatu warna)"
+msgstr "Alat pipet (pilih suatu warna)"
 
 msgid "Failed:"
 msgstr "Gagal:"
@@ -774,7 +777,7 @@ msgid "File not found"
 msgstr "File tidak ditemukan"
 
 msgid "Fill tool (fill areas with color or gradient)"
-msgstr "Alat Pengisi (isi area dengan warna atau gradasi)"
+msgstr "Alat pengisi (isi area dengan warna atau gradasi)"
 
 msgid "first"
 msgstr "pertama"
@@ -887,10 +890,10 @@ msgid "Import List"
 msgstr "Impor Daftar"
 
 msgid "Import Project"
-msgstr "Impor Proyek"
+msgstr "Buat sebuah karya kosong"
 
 msgid "import project"
-msgstr "impor proyek"
+msgstr "impor karya"
 
 msgid "Import Sound"
 msgstr "Impor Suara"
@@ -929,10 +932,10 @@ msgid "light"
 msgstr "cahaya"
 
 msgid "Line tool (draw lines)"
-msgstr "Alat Garis (menggambar garis)"
+msgstr "Alat garis (menggambar garis)"
 
 msgid "List name?"
-msgstr "Nama Daftar?"
+msgstr "Nama daftar?"
 
 msgid "Low"
 msgstr "Rendah"
@@ -986,7 +989,7 @@ msgid "Music"
 msgstr "Musik"
 
 msgid "My Projects"
-msgstr "Proyek Saya"
+msgstr "Karya-karyaku "
 
 msgid "new"
 msgstr "baru"
@@ -1055,10 +1058,10 @@ msgid "Open"
 msgstr "Buka"
 
 msgid "Open a Scratch project"
-msgstr "Buka proyek Scratch"
+msgstr "Buka sebuah karya Scratch"
 
 msgid "Open Project"
-msgstr "Buka Proyek"
+msgstr "Buka Karya"
 
 msgid "or"
 msgstr "atau"
@@ -1100,25 +1103,25 @@ msgid "Position the cross-hair to set the rotation center"
 msgstr "Letakkan tanda silang untuk menentukan pusat rotasi"
 
 msgid "Preparing project..."
-msgstr "Menyiapkan proyek..."
+msgstr "Menyiapkan karya..."
 
 msgid "Project author:"
-msgstr "Pengarang proyek:"
+msgstr "Pembuat karya:"
 
 msgid "Project name"
-msgstr "Nama proyek"
+msgstr "Nama karya"
 
 msgid "Project Notes"
-msgstr "Catatan Proyek"
+msgstr "Catatan Karya"
 
 msgid "Project notes"
-msgstr "Catatan proyek"
+msgstr "Catatan karya"
 
 msgid "Project uploaded."
-msgstr "Proyek telah diupload."
+msgstr "Karya telah diunggah."
 
 msgid "Projects"
-msgstr "Proyek"
+msgstr "Karya"
 
 msgid "Quit"
 msgstr "Keluar"
@@ -1139,7 +1142,7 @@ msgid "recording"
 msgstr "merekam"
 
 msgid "Rectangle tool (draw outlined or filled rectangle or square)"
-msgstr "Alat Persegi (menggambar dan mewarnai persegi atau kotak)"
+msgstr "Alat persegi (menggambar dan mewarnai persegi atau kotak)"
 
 msgid "Redo"
 msgstr "Ulangi"
@@ -1184,7 +1187,7 @@ msgid "Save"
 msgstr "Simpan"
 
 msgid "Save a copy of the current project"
-msgstr "Simpan salinan dari proyek sekarang"
+msgstr "Simpan salinan dari karya kini"
 
 msgid "Save As"
 msgstr "Simpan Sebagai"
@@ -1202,7 +1205,7 @@ msgid "save picture of stage..."
 msgstr "simpan gambar dari latar..."
 
 msgid "Save Project"
-msgstr "Simpan Proyek"
+msgstr "Simpan Karya"
 
 msgid "Save Scripts Snapshot"
 msgstr "Simpan Gambar Jepretan dari semua Skrip"
@@ -1211,13 +1214,13 @@ msgid "Save Stage Shot"
 msgstr "Simpan Gambar Latar"
 
 msgid "Save the current project"
-msgstr "Simpan proyek sekarang"
+msgstr "Simpan karya sekarang"
 
 msgid "Save the current project?"
-msgstr "Simpan proyek sekarang?"
+msgstr "Simpan karya sekarang?"
 
 msgid "Save this project"
-msgstr "Simpan proyek ini"
+msgstr "Simpan karya ini"
 
 msgid "Scripts"
 msgstr "Skrip"
@@ -1226,7 +1229,7 @@ msgid "select serial/USB port"
 msgstr "pilih port serial/USB"
 
 msgid "Select tool (move, modify, or delete selection)"
-msgstr "Alat Pilih (memindah, mengubah, atau menghapus pilihan)"
+msgstr "Alat pilih (memindah, mengubah, atau menghapus pilihan)"
 
 msgid "Set costume center"
 msgstr "Atur pusat kostum"
@@ -1247,10 +1250,10 @@ msgid "Share"
 msgstr "Bagikan"
 
 msgid "Share this project"
-msgstr "Bagikan proyek ini"
+msgstr "Bagikan karya ini"
 
 msgid "Share This Project Online"
-msgstr "Bagikan proyek ini secara online"
+msgstr "Bagikan karya ini secara online"
 
 msgid "Show Motor Blocks"
 msgstr "Tampilkan Blok Motor"
@@ -1307,7 +1310,7 @@ msgid "Stage selected:"
 msgstr "Latar terpilih:"
 
 msgid "Stamp tool (select area, then stamp copies of it)"
-msgstr "Alat Cap (pilih area, lalu capkan salinan dari area tersebut)"
+msgstr "Alat cap (pilih area, lalu capkan salinan dari area tersebut)"
 
 msgid "Start green flag scripts"
 msgstr "Mulai semua skrip bendera hijau"
@@ -1415,16 +1418,16 @@ msgid "world"
 msgstr "dunia"
 
 msgid "Write Multiple Project Summaries"
-msgstr "Tuliskan Ringkasan Proyek-Proyek"
+msgstr "Tuliskan Ringkasan Karya"
 
 msgid "Write Project Summary"
-msgstr "Tuliskan Ringkasan Proyek"
+msgstr "Tuliskan Ringkasan Karya"
 
 msgid "Yes"
 msgstr "Ya"
 
 msgid "Your project is now online at"
-msgstr "Proyek anda sekarang sudah online pada"
+msgstr "Karyamu sekarang sudah online di"
 
 msgid "Your Scratch website login name:"
 msgstr "Nama login situs web Scratch anda:"
@@ -1499,7 +1502,7 @@ msgid "Celesta"
 msgstr "Piano Kuno"
 
 msgid "Cello"
-msgstr "Biola Cello"
+msgstr "Biola selo"
 
 msgid "Chinese Cymbal"
 msgstr "Simbal Cina"
@@ -1526,7 +1529,7 @@ msgid "Contrabass"
 msgstr "Kontrabass"
 
 msgid "Cowbell"
-msgstr "Lonceng Sapi"
+msgstr "Lonceng sapi"
 
 msgid "Crash Cymbal 1"
 msgstr "Simbal Pecah 1"
@@ -1574,28 +1577,28 @@ msgid "English Horn"
 msgstr "Terompet Inggris"
 
 msgid "FX 1 (rain)"
-msgstr "Efek 1 (hujan)"
+msgstr "FX 1 (hujan)"
 
 msgid "FX 2 (soundtrack)"
-msgstr "Efek 2 (soundtrek)"
+msgstr "FX 2 (soundtrack)"
 
 msgid "FX 3 (crystal)"
-msgstr "Efek 3 (kristal)"
+msgstr "FX 3 (kristal)"
 
 msgid "FX 4 (atmosphere)"
-msgstr "Efek 4 (atmosfer)"
+msgstr "FX 4 (atmosfer)"
 
 msgid "FX 5 (brightness)"
-msgstr "Efek 5 (kecerahan)"
+msgstr "FX 5 (kecerahan)"
 
 msgid "FX 6 (goblins)"
-msgstr "Efek 6 (suara makhluk halus)"
+msgstr "FX 6 (suara goblin)"
 
 msgid "FX 7 (echoes)"
-msgstr "Efek 7 (gaung)"
+msgstr "FX 7 (gaung)"
 
 msgid "FX 8 (sci-fi)"
-msgstr "Efek 8 (suara fiksi-ilmiah)"
+msgstr "FX 8 (suara fiksi-ilmiah)"
 
 msgid "Fiddle"
 msgstr "Biola Fiddle"
@@ -1609,8 +1612,9 @@ msgstr "Terompet Perancis"
 msgid "Fretless Bass"
 msgstr "Bass Tanpa Fret"
 
+# ori -ginal
 msgid "Glockenspiel"
-msgstr "Gamelan Eropa"
+msgstr "Glockenspiel"
 
 msgid "Guitar Fret Noise"
 msgstr "Gitar Noise Fret"
@@ -1627,8 +1631,9 @@ msgstr "Suara Tepuk Tangan"
 msgid "Harmonica"
 msgstr "Harmonika"
 
+# original
 msgid "Harpsichord"
-msgstr "Piano Kuno"
+msgstr "Harpsichord"
 
 msgid "Helicopter"
 msgstr "Helikopter"
@@ -1832,7 +1837,7 @@ msgid "Rock Organ"
 msgstr "Orgen Rock"
 
 msgid "Seashore"
-msgstr "Suara Tepi Pantai"
+msgstr "Suara tepi pantai"
 
 msgid "Shakuhachi"
 msgstr "Shakuhachi"
@@ -1946,7 +1951,7 @@ msgid "Vibraslap"
 msgstr "Vibraslap"
 
 msgid "Viola"
-msgstr "Biola Besar"
+msgstr "Viola"
 
 msgid "Violin"
 msgstr "Biola"
@@ -1958,7 +1963,7 @@ msgid "Whistle"
 msgstr "Peluit"
 
 msgid "Woodblock"
-msgstr "Bilah Kayu"
+msgstr "Bilah kayu"
 
 msgid "Xylophone"
 msgstr "Gambang"

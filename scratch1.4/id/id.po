@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2008-09-19 03:48-0400\n"
-"PO-Revision-Date: 2014-12-25 03:10+0000\n"
+"PO-Revision-Date: 2015-01-01 02:12+0000\n"
 "Last-Translator: Emmanuella <emma.rumanti@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1419477013.000000\n"
+"X-POOTLE-MTIME: 1420078359.000000\n"
 
 # ##########################################
 # FORMATTING
@@ -624,7 +624,7 @@ msgid "Create account"
 msgstr "Buat akun"
 
 msgid "Create an empty project"
-msgstr "Buat proyek kosong"
+msgstr "Buat karya kosong"
 
 msgid "Data sent. Waiting for response..."
 msgstr "Data terkirim. Menunggu respon..."
@@ -787,11 +787,11 @@ msgstr "lensa mata ikan"
 
 # corrected
 msgid "Flash blocks (fast)"
-msgstr "Kedipkan blok (cepat)"
+msgstr "Balok flash (cepat)"
 
 # corrected
 msgid "Flash blocks (slow)"
-msgstr "Kedipkan blok (lambat)"
+msgstr "Balok flash (lambat)"
 
 msgid "Flip horizontally"
 msgstr "Balikkan gambar secara horizontal"
@@ -854,7 +854,7 @@ msgid "Help Screens"
 msgstr "Layar Bantuan"
 
 msgid "Hide Motor Blocks"
-msgstr "Sembunyikan Blok Motor"
+msgstr "Sembunyikan Balok Motor"
 
 msgid "High (biggest)"
 msgstr "Tinggi (terbesar)"
@@ -1025,7 +1025,7 @@ msgid "No MIDI ports currently available."
 msgstr "Tidak ada port MIDI yang tersedia saat sekarang"
 
 msgid "No motion blocks"
-msgstr "Tidak ada blok-blok gerakan"
+msgstr "Tidak ada balok-balok gerakan"
 
 msgid "no scripts"
 msgstr "tidak ada skrip"
@@ -1256,7 +1256,7 @@ msgid "Share This Project Online"
 msgstr "Bagikan karya ini secara online"
 
 msgid "Show Motor Blocks"
-msgstr "Tampilkan Blok Motor"
+msgstr "Tampilkan Balok Motor"
 
 msgid "show ScratchBoard watcher"
 msgstr "tampilkan pemantau Papan Scratch"

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: Scratch\n"
 "Report-Msgid-Bugs-To: Evelyn Eastmond <evelyn@media.mit.edu>\n"
 "POT-Creation-Date: 2008-01-03 20:45+0200\n"
-"PO-Revision-Date: 2014-09-09 01:35+0000\n"
+"PO-Revision-Date: 2014-12-28 22:18+0000\n"
 "Last-Translator: Suha <suhaaktan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1410226550.000000\n"
+"X-POOTLE-MTIME: 1419805113.000000\n"
 
 ############################################
 # FORMATTING
@@ -1365,7 +1365,7 @@ msgid "View on stage"
 msgstr "Sahnede göster"
 
 msgid "What's your name?"
-msgstr "Adın ne?"
+msgstr "İsmin ne?"
 
 msgid "whirl"
 msgstr "girdap"

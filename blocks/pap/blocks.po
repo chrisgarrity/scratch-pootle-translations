@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-07-10 22:52+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
+"PO-Revision-Date: 2015-01-24 00:48+0000\n"
+"Last-Translator: Urso <uwieske@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pap\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1405032768.000000\n"
+"X-POOTLE-MTIME: 1422060507.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -34,10 +34,11 @@ msgid "%m.mathOp of %n"
 msgstr "%m.mathOp o %n"
 
 msgid "%m.sensor sensor value"
-msgstr ""
+msgstr "balor di e sensor %m.sensor"
 
+# Nos ta laga e aksent no ta wordu usa pa motibu praktiko den programashon. Aksent ta kibra e flow di "typing" durante programashon. Aunke, aki nan no ta wordu di typ.
 msgid "%n mod %n"
-msgstr "%n mod %n"
+msgstr "%n modulo %n"
 
 msgid "add %s to %m.list"
 msgstr "suma %s ku %m.list"
@@ -49,13 +50,12 @@ msgid "ask %s and wait"
 msgstr "puntra %s i warda"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop #"
 msgstr "bèkground #"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr ""
+msgstr "nomber di bèkground"
 
 msgid "broadcast %m.broadcast"
 msgstr "emití %m.broadcast"
@@ -106,49 +106,49 @@ msgid "Control"
 msgstr "kontròl"
 
 msgid "costume #"
-msgstr ""
+msgstr "disfrás #"
 
 msgid "create clone of %m.spriteOnly"
-msgstr ""
+msgstr "krea klón di %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
-msgstr ""
+msgstr "%m.timeAndDate aktual"
 
 msgid "Data"
-msgstr ""
+msgstr "Data"
 
 msgid "days since 2000"
-msgstr ""
+msgstr "dianan desde di 2000"
 
 msgid "define"
-msgstr ""
+msgstr "definí"
 
 msgid "delete %d.listDeleteItem of %m.list"
 msgstr "delit %d.listDeleteItem di %m.list"
 
 msgid "delete this clone"
-msgstr ""
+msgstr "delit e klón"
 
 msgid "direction"
 msgstr "direkshon"
 
 msgid "distance"
-msgstr ""
+msgstr "distansia"
 
 msgid "distance to %m.spriteOrMouse"
 msgstr "distansia te %m.spriteOrMouse"
 
 msgid "else"
-msgstr "den otro caso"
+msgstr "si no"
 
 msgid "Events"
-msgstr ""
+msgstr "Eventonan"
 
 msgid "forever"
 msgstr "pa semper"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr ""
+msgstr "deslisá %n secs te x:%n y:%n"
 
 msgid "go back %n layers"
 msgstr "bai bèk %n lag"
@@ -166,13 +166,13 @@ msgid "hide"
 msgstr "skonde"
 
 msgid "hide list %m.list"
-msgstr ""
+msgstr "skonde list %m.lista"
 
 msgid "hide variable %m.var"
-msgstr ""
+msgstr "skonde variabel %m.var"
 
 msgid "if %b then"
-msgstr ""
+msgstr "si %b e ora ey"
 
 msgid "if on edge, bounce"
 msgstr "si riba rant, salta"
@@ -193,19 +193,19 @@ msgid "length of %m.list"
 msgstr "largura di %m.list"
 
 msgid "length of %s"
-msgstr ""
+msgstr "largura di %s"
 
 msgid "letter %n of %s"
-msgstr ""
+msgstr "letra %n di %s"
 
 msgid "Looks"
 msgstr "mustra"
 
 msgid "loudness"
-msgstr ""
+msgstr "volumen di zonido"
 
 msgid "More Blocks"
-msgstr ""
+msgstr "Mas bloki"
 
 msgid "Motion"
 msgstr "movementu"
@@ -223,18 +223,17 @@ msgid "move %n steps"
 msgstr "move %n stap"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "next backdrop"
 msgstr "sigiente bèkground"
 
 msgid "next costume"
-msgstr ""
+msgstr "siguiente disfrás"
 
 msgid "not %b"
-msgstr ""
+msgstr "no %b"
 
 msgid "Operators"
-msgstr ""
+msgstr "Operadornan"
 
 msgid "Pen"
 msgstr "pèn"
@@ -252,7 +251,6 @@ msgid "play drum %d.drum for %n beats"
 msgstr "toka drum %d.drum pa %n sla"
 
 # 83%
-#, fuzzy
 msgid "play note %d.note for %n beats"
 msgstr "toka nota %d.note pa %n sla"
 
@@ -302,91 +300,89 @@ msgid "set %m.effect effect to %n"
 msgstr "defini %m.effect efekto te %n"
 
 msgid "set %m.var to %s"
-msgstr ""
+msgstr "figa %m.var na %s"
 
 msgid "set instrument to %d.instrument"
-msgstr ""
+msgstr "figa instrumento na %d.instrumento"
 
 # 89%
 # 86%
 # 97%
-#, fuzzy
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "direkshon di motor %m.motorDirection"
+msgstr "figa direkshon di motor %m.motor2  na %m.motorDirection"
 
 # 77%
 # 75%
-#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "pòwer di motor %n"
+msgstr "figa poder %m.motor di motor na %n"
 
 msgid "set pen color to %c"
-msgstr ""
+msgstr "figa pen di kolor na %c"
 
 msgid "set pen color to %n"
-msgstr ""
+msgstr "figa pen di kolor na %n"
 
 msgid "set pen shade to %n"
-msgstr ""
+msgstr "figa intesidad di pen na %n"
 
 msgid "set pen size to %n"
-msgstr ""
+msgstr "figa tamanjo di pen na %n"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr ""
+msgstr "figa stail di rotashon %m.rotationStyle"
 
 msgid "set size to %n%"
-msgstr ""
+msgstr "figa tamanjo na %n%"
 
 msgid "set tempo to %n bpm"
-msgstr ""
+msgstr "figa tempu na %n bpm"
 
 msgid "set video transparency to %n%"
-msgstr ""
+msgstr "figa transparensia di video na %n%"
 
 msgid "set volume to %n%"
-msgstr ""
+msgstr "figa volumen na %n%"
 
 msgid "set x to %n"
-msgstr ""
+msgstr "figa x na %n"
 
 msgid "set y to %n"
-msgstr ""
+msgstr "figa y to %n"
 
 msgid "show"
 msgstr "mustra"
 
 msgid "show list %m.list"
-msgstr ""
+msgstr "mustra lista %m.list"
 
 msgid "show variable %m.var"
-msgstr ""
+msgstr "mustra variabel %m.var"
 
 msgid "size"
 msgstr "tamánjo"
 
 msgid "Sound"
-msgstr ""
+msgstr "Zonido"
 
 msgid "stamp"
 msgstr "stèmpel"
 
 msgid "stop %m.stop"
-msgstr ""
+msgstr "stop %m.stop"
 
 msgid "stop all sounds"
 msgstr "stop tur zonidonan"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr ""
+msgstr "kambia bekground pa %m.backdrop"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr ""
+msgstr "kambia bekground na %m.backdrop i warda"
 
 msgid "switch costume to %m.costume"
-msgstr ""
+msgstr "kambia disfrás na %m.costume"
 
 msgid "tempo"
 msgstr "tèmpo"
@@ -398,7 +394,7 @@ msgid "think %s for %n secs"
 msgstr "pensa %s pa %n segundo"
 
 msgid "tilt"
-msgstr ""
+msgstr "inklinashon"
 
 msgid "timer"
 msgstr "timer"
@@ -410,31 +406,30 @@ msgid "touching color %c?"
 msgstr "mishendo kolor %c?"
 
 msgid "turn @turnLeft %n degrees"
-msgstr ""
+msgstr "drai @turnLeft %n grado"
 
 msgid "turn @turnRight %n degrees"
-msgstr ""
+msgstr "drai @turnRight %n grado"
 
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "paga %m.motor"
 
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "sende %m.motor"
 
 # 80%
 # 89%
-#, fuzzy
 msgid "turn %m.motor on for %n secs"
 msgstr "sende motor pa %n segundo"
 
 msgid "turn video %m.videoState"
-msgstr ""
+msgstr "set video %m.videoState"
 
 msgid "username"
-msgstr ""
+msgstr "usuario"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr ""
+msgstr "volumen"
 
 msgid "volume"
 msgstr "volumen"
@@ -446,43 +441,42 @@ msgid "wait until %b"
 msgstr "warda te ku %b"
 
 # 75%
-#, fuzzy
 msgid "when %m.booleanSensor"
-msgstr "sensor %m.booleanSensor?"
+msgstr "sensor %m.booleanSensor"
 
 msgid "when %m.key key pressed"
 msgstr "ora %m.key tekla primí"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr ""
+msgstr "ora %m.sensor %m.lessMore %n"
 
 msgid "when %m.triggerSensor > %n"
-msgstr ""
+msgstr "ora %m.triggerSensor > %n"
 
 msgid "when @greenFlag clicked"
 msgstr "ora @greenFlag primí"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr ""
+msgstr "ora bekground kambia den %m.backdrop"
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
+msgstr "ora distansia %m.lessMore %n"
 
 msgid "when I receive %m.broadcast"
-msgstr ""
+msgstr "ora mi resibi %m.broadcast"
 
 msgid "when I start as a clone"
-msgstr ""
+msgstr "ora mi start komo un klón"
 
 msgid "when Stage clicked"
-msgstr ""
+msgstr "ora Stage wordu primí"
 
 msgid "when this sprite clicked"
-msgstr ""
+msgstr "ora e sprait aki wordu primí"
 
 msgid "when tilt %m.eNe %n"
-msgstr ""
+msgstr "ora inklinashon %m.eNe %n"
 
 msgid "x position"
 msgstr "posishon x"
@@ -491,31 +485,28 @@ msgid "y position"
 msgstr "posishon y"
 
 # 89%
-#, fuzzy
 msgid "set motor direction %m.motorDirection"
 msgstr "direkshon di motor %m.motorDirection"
 
 # 77%
-#, fuzzy
 msgid "set motor power %n"
-msgstr "pòwer di motor %n"
+msgstr "figa pòwer di motor na %n"
 
 msgid "turn motor off"
-msgstr ""
+msgstr "paga motor"
 
 msgid "turn motor on"
-msgstr ""
+msgstr "sende motor"
 
 # 80%
-#, fuzzy
 msgid "turn motor on for %n secs"
 msgstr "sende motor pa %n segundo"
 
 msgid "when distance < %n"
-msgstr ""
+msgstr "ora distansia < %m"
 
 msgid "when tilt = %n"
-msgstr ""
+msgstr "ora inklinshon = %n"
 
 # 89%
 # 86%

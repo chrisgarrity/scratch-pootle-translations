@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2014-05-06 19:04+0000\n"
+"PO-Revision-Date: 2015-02-05 20:36+0000\n"
 "Last-Translator: Fabrizio <utalabi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sc\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1399403047.000000\n"
+"X-POOTLE-MTIME: 1423168572.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -31,7 +31,7 @@ msgid "a copy of the project file on your computer."
 msgstr "una còpia de su file de su progetu in s'elaboradore tuo."
 
 msgid "A newer version of Scratch is available"
-msgstr ""
+msgstr "B'at una versione noa de Scratch"
 
 msgid "About"
 msgstr "Ite est"
@@ -40,7 +40,7 @@ msgid "About LEGO WeDo extension..."
 msgstr "A pitzu de s'estensione LEGO WeDo..."
 
 msgid "About PicoBoard extension..."
-msgstr ""
+msgstr "A pitzu de s'estensione PicoBoard"
 
 msgid "abs"
 msgstr "abs"
@@ -52,11 +52,10 @@ msgid "acos"
 msgstr "acos"
 
 msgid "Add"
-msgstr ""
+msgstr "Agiunghe"
 
-#, fuzzy
 msgid "Add an Extension"
-msgstr "Agiunghe una Estensione"
+msgstr "Agiunghe un'Estensione"
 
 msgid "Add boolean input:"
 msgstr "Agiunghe un'intrada booleana:"
@@ -65,7 +64,7 @@ msgid "add comment"
 msgstr "agiunghe unu cummentu"
 
 msgid "add comment here..."
-msgstr ""
+msgstr "agiunghe unu cummentu..."
 
 msgid "Add label text:"
 msgstr "Agiunghe un'eticheta:"
@@ -200,7 +199,7 @@ msgid "Cancel"
 msgstr "Annudda"
 
 msgid "Cannot Add"
-msgstr ""
+msgstr "Non si podet agiùnghere"
 
 msgid "Cannot Delete"
 msgstr "Non si podet iscantzellare"
@@ -221,7 +220,7 @@ msgid "Cello"
 msgstr "Violontzellu"
 
 msgid "Check for updates"
-msgstr ""
+msgstr "Avèrgua sos annoamentos"
 
 msgid "Choir"
 msgstr "Cuncordu"
@@ -250,9 +249,8 @@ msgstr "Clarinetu"
 msgid "Claves"
 msgstr "Tauleddas"
 
-#, fuzzy
 msgid "clean up"
-msgstr "remuni"
+msgstr "lìmpia"
 
 msgid "Clear"
 msgstr "Lìmpia"
@@ -276,7 +274,7 @@ msgid "Cloud data"
 msgstr "Datos in sa Nue"
 
 msgid "Cloud variable (stored on server)"
-msgstr ""
+msgstr "Variàbile de sa nue (allogada in su serbidore)"
 
 msgid "color"
 msgstr "colore"
@@ -336,7 +334,7 @@ msgid "Costumes:"
 msgstr "Costùmenes:"
 
 msgid "Could not retrieve new application from server."
-msgstr ""
+msgstr "Non si podet iscarrigare s'aplicatzione noa dae su serbidore."
 
 msgid "Cowbell"
 msgstr "Matalla"
@@ -383,7 +381,7 @@ msgid "don't rotate"
 msgstr "non gires"
 
 msgid "Don't save"
-msgstr ""
+msgstr "No alloghes"
 
 msgid "down"
 msgstr "giosso"
@@ -398,7 +396,7 @@ msgid "Download to your computer"
 msgstr "Iscàrriga in s'elaboradore tuo"
 
 msgid "Downloading new version"
-msgstr ""
+msgstr "Iscarrighende sa versione noa"
 
 msgid "duplicate"
 msgstr "dùplica"
@@ -437,13 +435,13 @@ msgid "Ellipse"
 msgstr "Ellisse"
 
 msgid "empty"
-msgstr ""
+msgstr "bòidu"
 
 msgid "Erase"
 msgstr "Cantzella"
 
 msgid "Erase all"
-msgstr ""
+msgstr "Burra totucantu"
 
 msgid "Eraser width"
 msgstr "Mannària de sa gomma"
@@ -452,16 +450,14 @@ msgid "Error!"
 msgstr "Errore!"
 
 msgid "everything"
-msgstr ""
+msgstr "totucantu"
 
 msgid "export"
 msgstr "esporta"
 
-#, fuzzy
 msgid "Extension Library"
 msgstr "Regorta de Estensiones"
 
-#, fuzzy
 msgid "Extension Problem"
 msgstr "Problema de Estensione"
 
@@ -472,7 +468,7 @@ msgid "fade out"
 msgstr "isparèssida"
 
 msgid "false"
-msgstr ""
+msgstr "farsu"
 
 msgid "Fantasy"
 msgstr "Fantasia"
@@ -773,7 +769,7 @@ msgid "New Variable"
 msgstr "Variàbile Noa"
 
 msgid "next backdrop"
-msgstr ""
+msgstr "Fundale imbeniente"
 
 msgid "No motion blocks"
 msgstr "Perunu blocu de movimentu"
@@ -809,7 +805,7 @@ msgid "on-flipped"
 msgstr "ativa e fùrria"
 
 msgid "Open"
-msgstr ""
+msgstr "Aberi"
 
 msgid "Open Cuica"
 msgstr "Cuica aberta"
@@ -829,7 +825,6 @@ msgstr "Àteru"
 msgid "other scripts in sprite"
 msgstr "àteros programmas de su duendu"
 
-#, fuzzy
 msgid "other scripts in stage"
 msgstr "àteros programmas de su duendu"
 
@@ -846,10 +841,10 @@ msgid "Paint new sprite"
 msgstr "Pinta unu duendu nou"
 
 msgid "Password"
-msgstr ""
+msgstr "Crae"
 
 msgid "Password is required"
-msgstr ""
+msgstr "Si rechedit sa crae"
 
 msgid "paste"
 msgstr "apìtziga"
@@ -882,7 +877,7 @@ msgid "pop"
 msgstr "pop"
 
 msgid "previous backdrop"
-msgstr ""
+msgstr "Fundale primidiu"
 
 msgid "Profile"
 msgstr "Perfilu"
@@ -894,10 +889,10 @@ msgid "Project not saved!"
 msgstr "Su progetu no est istadu allogadu!"
 
 msgid "Project name"
-msgstr ""
+msgstr "Nùmene de su progetu"
 
 msgid "Project name is required"
-msgstr ""
+msgstr "Si rechedet su nùmene de su progetu"
 
 msgid "random"
 msgstr "a sorte"
@@ -909,7 +904,7 @@ msgid "Record new sound"
 msgstr "Registra unu sonu nou"
 
 msgid "record..."
-msgstr ""
+msgstr "registrare..."
 
 msgid "recording1"
 msgstr "registratzione1"
@@ -1193,7 +1188,6 @@ msgstr "Tamburinu"
 msgid "tan"
 msgstr "tan"
 
-#, fuzzy
 msgid "text"
 msgstr "Testu"
 
@@ -1204,7 +1198,7 @@ msgid "that way"
 msgstr "cabu a cue"
 
 msgid "The name is already in use."
-msgstr ""
+msgstr "Su nùmene est giai impitadu."
 
 msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
 msgstr ""

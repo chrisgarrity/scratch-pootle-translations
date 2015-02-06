@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-12-29 13:40+0000\n"
+"PO-Revision-Date: 2015-01-21 13:06+0000\n"
 "Last-Translator: Kalvis <kalvis.kincis@r6vsk.lv>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: lv\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);"
 "\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1419860452.000000\n"
+"X-POOTLE-MTIME: 1421845567.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -307,11 +307,11 @@ msgstr "iestatīt instrumentu uz %d.instrument"
 # 86%
 # 97%
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "iestatīt %m.motor2 virzienā %m.motorDirection"
+msgstr "iestatīt %m.motor2 virzienu uz %m.motorDirection"
 
 # 75%
 msgid "set %m.motor power to %n"
-msgstr "iestatīt %m.motor jaudu uz %n"
+msgstr "iestatīt motora %m.motor jaudu uz %n"
 
 msgid "set pen color to %c"
 msgstr "iestatīt zīmuļa krāsu uz %c"
@@ -464,13 +464,13 @@ msgid "when I receive %m.broadcast"
 msgstr "kad es saņemu %m.broadcast"
 
 msgid "when I start as a clone"
-msgstr "Kad es uzrodos kā dublikāts"
+msgstr "Kad es parādos kā dublikāts"
 
 msgid "when Stage clicked"
 msgstr "kad noklikšķināta skatuve"
 
 msgid "when this sprite clicked"
-msgstr "kad uzklikšķināts uz šī gariņa"
+msgstr "kad noklikšķināts uz šī gariņa"
 
 msgid "when tilt %m.eNe %n"
 msgstr "kad paceļ %m.eNe %n"

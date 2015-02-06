@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2013-06-07 22:13+0000\n"
-"Last-Translator: adlogi <adlogi@media.mit.edu>\n"
+"PO-Revision-Date: 2015-02-02 09:57+0000\n"
+"Last-Translator: Gruffudd <gruffudd@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: cy\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n==2) ? 1 : 0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1370643226.000000\n"
+"X-POOTLE-MTIME: 1422871031.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -96,19 +96,19 @@ msgid "clear"
 msgstr "clirio"
 
 msgid "clear graphic effects"
-msgstr "Clirio effeithiau graffeg"
+msgstr "clirio effeithiau graffeg"
 
 msgid "color %c is touching %c?"
 msgstr "lliw %c yn cyffwrdd %c?"
 
 msgid "Control"
-msgstr "rheoli"
+msgstr "Rheoli"
 
 msgid "costume #"
 msgstr "gwisg #"
 
 msgid "create clone of %m.spriteOnly"
-msgstr "Creu clôn o %m.cymeriadUnig"
+msgstr "creu clôn o %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
 msgstr "%m.amserADyddiad ar hyn o bryd"
@@ -120,25 +120,25 @@ msgid "days since 2000"
 msgstr "dyddiau ers 2000"
 
 msgid "define"
-msgstr "Diffinio"
+msgstr "diffinio"
 
 msgid "delete %d.listDeleteItem of %m.list"
 msgstr "dileu %d.listDeleteItem o %m.list"
 
 msgid "delete this clone"
-msgstr "Dileu clôn hwn"
+msgstr "dileu y clôn hwn"
 
 msgid "direction"
 msgstr "cyfeiriad"
 
 msgid "distance"
-msgstr "Pellter"
+msgstr "pellter"
 
 msgid "distance to %m.spriteOrMouse"
 msgstr "pellter at %m.spriteOrMouse"
 
 msgid "else"
-msgstr "arall"
+msgstr "fel arall"
 
 msgid "Events"
 msgstr "Digwyddiadau"
@@ -147,19 +147,19 @@ msgid "forever"
 msgstr "am byth"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr "llithro %n eiliad at x:%n y:%n"
+msgstr "llithro %n eiliad i x:%n y:%n"
 
 msgid "go back %n layers"
 msgstr "mynd nôl %n haenen"
 
 msgid "go to %m.spriteOrMouse"
-msgstr "mynd at %m.spriteOrMouse"
+msgstr "mynd i %m.spriteOrMouse"
 
 msgid "go to front"
 msgstr "mynd i'r blaen"
 
 msgid "go to x:%n y:%n"
-msgstr "mynd at x:%n y:%n"
+msgstr "mynd i x:%n y:%n"
 
 msgid "hide"
 msgstr "cuddio"
@@ -168,7 +168,7 @@ msgid "hide list %m.list"
 msgstr "cuddio rhestr %m.rhestr"
 
 msgid "hide variable %m.var"
-msgstr "Cuddio newidyn %m.var"
+msgstr "cuddio newidyn %m.var"
 
 msgid "if %b then"
 msgstr "os %b wedyn"
@@ -198,16 +198,16 @@ msgid "letter %n of %s"
 msgstr "llythyren %n o %s"
 
 msgid "Looks"
-msgstr "edrychiad"
+msgstr "Edrychiad"
 
 msgid "loudness"
 msgstr "cryfder sain"
 
 msgid "More Blocks"
-msgstr "Mey o flociau"
+msgstr "Mwy o flociau"
 
 msgid "Motion"
-msgstr "symudiad"
+msgstr "Symudiad"
 
 msgid "mouse down?"
 msgstr "llygoden i lawr?"
@@ -232,16 +232,16 @@ msgid "not %b"
 msgstr "dim %b"
 
 msgid "Operators"
-msgstr "gweithredwyr"
+msgstr "Gweithredwyr"
 
 msgid "Pen"
-msgstr "pin"
+msgstr "Pin"
 
 msgid "pen down"
-msgstr "pin lawr"
+msgstr "pin i lawr"
 
 msgid "pen up"
-msgstr "pin fyny"
+msgstr "pin i fyny"
 
 msgid "pick random %n to %n"
 msgstr "dewis ar hap %n i %n"
@@ -252,13 +252,13 @@ msgstr "chwarae drwm %d.drum am %n curiad"
 # 83%
 # 100%
 msgid "play note %d.note for %n beats"
-msgstr "chwarae nodyn %d.nodyn am %n curiad"
+msgstr "chwarae nodyn %d.note am %n curiad"
 
 msgid "play sound %m.sound"
 msgstr "chwarae sain %m.sound"
 
 msgid "play sound %m.sound until done"
-msgstr "chwarae sain %m.sound hyd nes cwblhau"
+msgstr "chwarae sain %m.sound tan y diwedd"
 
 msgid "point in direction %d.direction"
 msgstr "pwyntio i gyfeiriad %d.direction"
@@ -291,7 +291,7 @@ msgid "say %s for %n secs"
 msgstr "dweud %s am %n eiliad"
 
 msgid "Sensing"
-msgstr "synhwyro"
+msgstr "Synhwyro"
 
 msgid "sensor %m.booleanSensor?"
 msgstr "synhwyrydd %m.booleanSensor?"
@@ -300,7 +300,7 @@ msgid "set %m.effect effect to %n"
 msgstr "gosod effaith %m.effect i %n"
 
 msgid "set %m.var to %s"
-msgstr "gosod %m.var i %n"
+msgstr "gosod %m.var i %s"
 
 msgid "set instrument to %d.instrument"
 msgstr "gosod offeryn i %d.instrument"
@@ -309,22 +309,20 @@ msgstr "gosod offeryn i %d.instrument"
 # 100%
 # 86%
 # 97%
-#, fuzzy
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "cyfeiriad modur %m.modurCyfeiriad"
+msgstr "gosod cyfeiriad modur %m.motor2 i %m.motorDirection"
 
 # 77%
 # 100%
 # 75%
-#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "gosod pŵer modur %n"
+msgstr "gosod pŵer modur %m.motor i %n"
 
 msgid "set pen color to %c"
 msgstr "gosod lliw pin i %c"
 
 msgid "set pen color to %n"
-msgstr "gosod lliw pin i %c"
+msgstr "gosod lliw pin i %n"
 
 msgid "set pen shade to %n"
 msgstr "gosod arlliw pin i %n"
@@ -333,7 +331,7 @@ msgid "set pen size to %n"
 msgstr "gosod maint pin i %n"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr "gosod steil cylchdro %m.rotationStyle"
+msgstr "gosod steil cylchdroi %m.rotationStyle"
 
 msgid "set size to %n%"
 msgstr "gosod maint i %n%"
@@ -348,10 +346,10 @@ msgid "set volume to %n%"
 msgstr "gosod lefel sain i %n%"
 
 msgid "set x to %n"
-msgstr "gosod 'x' i %n"
+msgstr "gosod x i %n"
 
 msgid "set y to %n"
-msgstr "gosod 'y' i %n"
+msgstr "gosod y i %n"
 
 msgid "show"
 msgstr "dangos"
@@ -366,7 +364,7 @@ msgid "size"
 msgstr "maint"
 
 msgid "Sound"
-msgstr "sain"
+msgstr "Sain"
 
 msgid "stamp"
 msgstr "stampio"
@@ -375,18 +373,18 @@ msgid "stop %m.stop"
 msgstr "stopiwch %m.stop"
 
 msgid "stop all sounds"
-msgstr "atal bob sain"
+msgstr "atal pob sain"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr "newid cefndir i %m.cefndir"
+msgstr "newid cefndir i %m.backdrop"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr "newid cefndir i %m.cefndir a aros"
+msgstr "newid cefndir i %m.backdrop ac aros"
 
 msgid "switch costume to %m.costume"
-msgstr "newid i wisg %m.wisg"
+msgstr "newid i wisg %m.costume"
 
 msgid "tempo"
 msgstr "amseriad"
@@ -410,36 +408,33 @@ msgid "touching color %c?"
 msgstr "cyffwrdd lliw %c?"
 
 msgid "turn @turnLeft %n degrees"
-msgstr "troi @troiChwith %n gradd"
+msgstr "troi @turnLeft %n gradd"
 
 msgid "turn @turnRight %n degrees"
-msgstr " troi @troiDde %n gradd "
+msgstr "troi @turnRight %n gradd"
 
 # 82%
-#, fuzzy
 msgid "turn %m.motor off"
-msgstr "troi modur bant"
+msgstr "troi modur %m.motor i ffwrdd"
 
 # 81%
-#, fuzzy
 msgid "turn %m.motor on"
-msgstr "troi modur arno"
+msgstr "troi %m.motor ymlaen"
 
 # 80%
 # 100%
 # 89%
-#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr "modur arno am %n eiliad"
+msgstr "troi %m.motor ymlaen am %n eiliad"
 
 msgid "turn video %m.videoState"
-msgstr "troi fideo %m.fideoState"
+msgstr "troi fideo %m.videoState"
 
 msgid "username"
 msgstr "enw defnyddiwr"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr "fideo %m.fideoMudiantFath ar %m.llwyfanNeuHwn"
+msgstr "fideo %m.videoMotionType ar %m.stageOrThis"
 
 msgid "volume"
 msgstr "lefel sain"
@@ -453,52 +448,52 @@ msgstr "aros hyd at %b"
 # 75%
 # 100%
 msgid "when %m.booleanSensor"
-msgstr "synhwyrydd %m.booleanSynhwyrydd?"
+msgstr "pan fo %m.booleanSensor"
 
 msgid "when %m.key key pressed"
 msgstr "pan fo bysell %m.key wedi ei wasgu"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr ""
+msgstr "pan fo %m.sensor %m.lessMore na %n"
 
 msgid "when %m.triggerSensor > %n"
-msgstr "pan %m.sbardunoSynhwyrydd > %n"
+msgstr "pan fo %m.triggerSensor > %n"
 
 msgid "when @greenFlag clicked"
 msgstr "pan fo @greenFlag wedi ei glicio"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr "pan mae cefndir newid i %m.cefndir"
+msgstr "pan mae cefndir yn newid i %m.backdrop"
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
+msgstr "pan fo pellter %m.lessMore na %n"
 
 msgid "when I receive %m.broadcast"
-msgstr "pan derbynai %m.ddarlledir"
+msgstr "pan dderbyniaf %m.broadcast"
 
 msgid "when I start as a clone"
-msgstr "pan dechreuai fel clon"
+msgstr "pan dechreuaf fel clôn"
 
 msgid "when Stage clicked"
-msgstr ""
+msgstr "pan cliciwch ar Llwyfan"
 
 msgid "when this sprite clicked"
-msgstr "pan caiff cymeriad ei clicio"
+msgstr "pan caiff y cymeriad ei glicio"
 
 msgid "when tilt %m.eNe %n"
-msgstr ""
+msgstr "pan fo gwyriad %m.eNe %n"
 
 msgid "x position"
-msgstr "safle 'x'"
+msgstr "safle x"
 
 msgid "y position"
-msgstr "safle 'y'"
+msgstr "safle y"
 
 # 89%
 # 100%
 msgid "set motor direction %m.motorDirection"
-msgstr "cyfeiriad modur %m.modurCyfeiriad"
+msgstr "gosod cyfeiriad modur %m.motorDirection"
 
 # 77%
 # 100%
@@ -506,21 +501,21 @@ msgid "set motor power %n"
 msgstr "gosod pŵer modur %n"
 
 msgid "turn motor off"
-msgstr "troi modur bant"
+msgstr "troi modur i ffwrdd"
 
 msgid "turn motor on"
-msgstr "troi modur arno"
+msgstr "troi modur ymlaen"
 
 # 80%
 # 100%
 msgid "turn motor on for %n secs"
-msgstr "modur arno am %n eiliad"
+msgstr "troi modur ymlaen am %n eiliad"
 
 msgid "when distance < %n"
 msgstr "pan mae pellter yn < %n"
 
 msgid "when tilt = %n"
-msgstr "pan mae troawd = %n"
+msgstr "pan mae gwyriad = %n"
 
 # 89%
 # 100%

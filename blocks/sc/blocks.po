@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-04-23 23:34+0000\n"
+"PO-Revision-Date: 2015-02-05 18:56+0000\n"
 "Last-Translator: Fabrizio <utalabi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sc\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1398296046.000000\n"
+"X-POOTLE-MTIME: 1423162567.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -305,9 +305,8 @@ msgstr "sèbera s'aina %d.instrument"
 
 # 86%
 # 97%
-#, fuzzy
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "diretzione de %m.motor a %m.motorDirection"
+msgstr "pone sa diretzione de %m.motor a %m.motorDirection"
 
 # 75%
 msgid "set %m.motor power to %n"
@@ -445,7 +444,7 @@ msgid "when %m.key key pressed"
 msgstr "cando si carcat %m.key"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr ""
+msgstr "cando %m.sensor %m.lessMore %n"
 
 msgid "when %m.triggerSensor > %n"
 msgstr "cando %m.triggerSensor > %n"
@@ -467,7 +466,7 @@ msgid "when I start as a clone"
 msgstr "cando comintzo che clonadu"
 
 msgid "when Stage clicked"
-msgstr ""
+msgstr "cando su Fundale est carcadu"
 
 msgid "when this sprite clicked"
 msgstr "cando si carcat custu duendu"

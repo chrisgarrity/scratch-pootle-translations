@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-01-25 14:13+0000\n"
+"PO-Revision-Date: 2015-02-07 22:16+0000\n"
 "Last-Translator: Urso <uwieske@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pap\n"
@@ -12,16 +12,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1422195214.000000\n"
+"X-POOTLE-MTIME: 1423347383.000000\n"
 
 msgid "10 ^"
 msgstr ""
 
 msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
 msgstr ""
+"<b>Informashon over di variabelnan di Cloud</b><br>&nbsp;<br>Aktualmente, "
+"solamente numbernan ta wordu sostené<br>Chat roomnan no ta  permití, i lo "
+"wordu kitá<br>Pa mas info, <a href= target=>mira e data di cloud FAQ!</a>"
 
 msgid "A connected"
-msgstr ""
+msgstr "A konektá"
 
 msgid "a copy of the project file on your computer."
 msgstr "un kopia di e fail di proyekto riba bo kompüter."
@@ -42,7 +45,7 @@ msgid "abs"
 msgstr "abs"
 
 msgid "Account settings"
-msgstr ""
+msgstr "Account settings"
 
 msgid "acos"
 msgstr "acos"
@@ -129,19 +132,22 @@ msgid "Backdrops"
 msgstr "Bèkgrounds"
 
 msgid "Backpack"
-msgstr ""
+msgstr "Rugzak"
 
 msgid "Bass"
 msgstr "Bas"
 
 msgid "Bass Drum"
-msgstr ""
+msgstr "Drum di Bass"
 
 msgid "Bassoon"
-msgstr ""
+msgstr "Bassoon"
 
 msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
 msgstr ""
+"Pasó bo tin un Scratch account nobo, kualke kambio na e data di cloud no ta "
+"wordu wardá ahinda. Keda partispá riba e site lo bo ta kapas pa usa data di "
+"cloud muy pronto!"
 
 msgid "Bitmap"
 msgstr "Bitmap"
@@ -165,7 +171,7 @@ msgid "Broadcast"
 msgstr "Emití"
 
 msgid "Brush"
-msgstr ""
+msgstr "Brush"
 
 msgid "button pressed"
 msgstr "botón primí"
@@ -225,16 +231,16 @@ msgid "Choose costume from library"
 msgstr "Skohe kostuum for di Librer"
 
 msgid "Choose sound from library"
-msgstr ""
+msgstr "Skohe zonido for di Biblioteka"
 
 msgid "Choose sprite from library"
-msgstr ""
+msgstr "Skohe sprite for di Biblioteka"
 
 msgid "Circle"
-msgstr ""
+msgstr "Sírkulo"
 
 msgid "City"
-msgstr ""
+msgstr "Siudad"
 
 msgid "Clarinet"
 msgstr "Klarinèt"
@@ -246,13 +252,13 @@ msgid "clean up"
 msgstr "limpia"
 
 msgid "Clear"
-msgstr ""
+msgstr "Limpia"
 
 msgid "clear senders/receivers"
 msgstr ""
 
 msgid "Click "Save now" to try again or "Download" to save"
-msgstr ""
+msgstr "Klek a purba atrobe of  pa warda"
 
 msgid "Close"
 msgstr "Sera"
@@ -468,7 +474,7 @@ msgid "Fantasy"
 msgstr "Fantasia"
 
 msgid "Features"
-msgstr ""
+msgstr "Karakterístikanan"
 
 msgid "File"
 msgstr "Fail"
@@ -489,7 +495,7 @@ msgid "floor"
 msgstr "flur"
 
 msgid "Flute"
-msgstr ""
+msgstr "Fluit"
 
 msgid "Flying"
 msgstr "Bulando"
@@ -784,7 +790,7 @@ msgid "Not saved; project did not load."
 msgstr "No a wordu wardá: proyekto bo a karga."
 
 msgid "of"
-msgstr ""
+msgstr "di"
 
 msgid "off"
 msgstr "pagá"
@@ -823,19 +829,19 @@ msgid "other scripts in sprite"
 msgstr "otro scriptnan den sprait"
 
 msgid "other scripts in stage"
-msgstr ""
+msgstr "otro scriptnan den stage"
 
 msgid "Outdoors"
 msgstr ""
 
 msgid "Paint new backdrop"
-msgstr ""
+msgstr "Pinta bèkground nobo"
 
 msgid "Paint new costume"
-msgstr ""
+msgstr "Pinta un trahe nobo"
 
 msgid "Paint new sprite"
-msgstr ""
+msgstr "Pinta un sprite nobo"
 
 msgid "Password"
 msgstr "Kontrasenia"
@@ -1164,7 +1170,7 @@ msgid "Stage"
 msgstr ""
 
 msgid "Stage selected:"
-msgstr ""
+msgstr "Stage seletktá:"
 
 msgid "Steel Drum"
 msgstr "Steel Drum"
@@ -1220,48 +1226,51 @@ msgstr ""
 
 msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
 msgstr ""
+"E proyekto aki ta usa data di Cloud - un karakterístika ku ta disponibel "
+"solamente pa usuarios ku ta registrá."
 
 msgid "this script"
-msgstr ""
+msgstr "e script"
 
 msgid "this sprite"
-msgstr ""
+msgstr "e script aki"
 
 msgid "this way"
 msgstr "e manera aki"
 
 msgid "Throw away all changes since opening this project?"
-msgstr ""
+msgstr "Benta afó tur kambionan desde habrimentu di e proyekto aki?"
 
 msgid "timer"
-msgstr ""
+msgstr "timer"
 
 msgid "Tips"
-msgstr ""
+msgstr "Tipnan"
 
 msgid "To delete a block definition, first remove all uses of the block."
 msgstr ""
+"Pa delit e definishon di blòki, na prome lugá kita tur usonan di e blòki."
 
 msgid "Transportation"
-msgstr ""
+msgstr "Transportashon"
 
 msgid "Triangle"
-msgstr ""
+msgstr "Triangúlo"
 
 msgid "Trombone"
-msgstr ""
+msgstr "Trombon"
 
 msgid "true"
-msgstr ""
+msgstr "berdad"
 
 msgid "Turbo mode"
-msgstr ""
+msgstr "Modo turbo"
 
 msgid "Turbo Mode"
-msgstr ""
+msgstr "Modo Turbo"
 
 msgid "Type"
-msgstr ""
+msgstr "Tipo"
 
 # 75%
 #, fuzzy
@@ -1269,7 +1278,7 @@ msgid "Undelete"
 msgstr "delete"
 
 msgid "Underwater"
-msgstr ""
+msgstr "Bou di awa"
 
 msgid "undo"
 msgstr "Deshasí"
@@ -1295,67 +1304,67 @@ msgid "up arrow"
 msgstr "flecha ariba"
 
 msgid "Update failed"
-msgstr ""
+msgstr "Update a frakasá"
 
 msgid "Update not needed"
-msgstr ""
+msgstr "Update no ta nesesario"
 
 msgid "Update now"
-msgstr ""
+msgstr "Update awor"
 
 msgid "Upload backdrop from file"
-msgstr ""
+msgstr "Upload bèkground for di file"
 
 msgid "Upload costume from file"
-msgstr ""
+msgstr "Upload trahe for di file"
 
 msgid "Upload from your computer"
-msgstr ""
+msgstr "Upload for di kompüter"
 
 msgid "Upload sound from file"
-msgstr ""
+msgstr "Upload zonido for di file"
 
 msgid "Upload sprite from file"
-msgstr ""
+msgstr "Upload sprite for di file"
 
 msgid "Uploading image..."
-msgstr ""
+msgstr "Uploading imagen..."
 
 msgid "Uploading sound..."
-msgstr ""
+msgstr "Uploading zonido..."
 
 msgid "Uploading sprite..."
-msgstr ""
+msgstr "Uploading sprite..."
 
 msgid "variable"
-msgstr ""
+msgstr "variabel"
 
 msgid "Variable name"
-msgstr ""
+msgstr "Nomber di variabel"
 
 msgid "Vector"
-msgstr ""
+msgstr "Vèktor"
 
 msgid "Vector Mode"
-msgstr ""
+msgstr "Modo di Vèktor"
 
 msgid "Vibraphone"
-msgstr ""
+msgstr "Vibrafon"
 
 msgid "Vibraslap"
 msgstr ""
 
 msgid "video direction"
-msgstr ""
+msgstr "direkshon di video"
 
 msgid "video motion"
-msgstr ""
+msgstr "movimiento di video"
 
 msgid "Video on:"
-msgstr ""
+msgstr "Video sendé:"
 
 msgid "Vocals"
-msgstr ""
+msgstr "Vokalnan"
 
 msgid "volume"
 msgstr "volumen"
@@ -1379,7 +1388,7 @@ msgid "Wood Block"
 msgstr ""
 
 msgid "Wooden Flute"
-msgstr ""
+msgstr "Fluit di palu"
 
 msgid "world"
 msgstr "mundu"
@@ -1391,25 +1400,30 @@ msgid "y position"
 msgstr "posishon y"
 
 msgid "year"
-msgstr ""
+msgstr "aña"
 
 msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
 msgstr ""
+"Bo no por edita data di clouf den un otro hende su proyekto.<br>Kualke "
+"kambio ku bo hasi den e editor lo wordu wardá temporalmente."
 
 msgid "Your Scratch name"
-msgstr ""
+msgstr "Bo nomber di Scratch"
 
 msgid "Your Scratch name is required"
-msgstr ""
+msgstr "Bo nomber di Scratch ta rekerí"
 
 msgid ""
 "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
 "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
 "For more info, <a href= target=>see the cloud data FAQ!</a>"
 msgstr ""
+"<b>Informashon over di variabelnan di Cloud</b><br>&nbsp;<br>Aktualmente, "
+"solamente numbernan ta wordu sostené<br>Chat roomnan no ta permití, i lo "
+"wordu kitá<br>Pa mas info, <a href= target=>mira e FAQ di data di Cloud!</a>"
 
 msgid "Click  to try again or  to save"
-msgstr ""
+msgstr "Klek pa purba atrone of  pa warda"
 
 msgid "Eraser width:"
 msgstr ""

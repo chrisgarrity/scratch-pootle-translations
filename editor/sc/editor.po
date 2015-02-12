@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-02-05 20:36+0000\n"
+"PO-Revision-Date: 2015-02-07 22:07+0000\n"
 "Last-Translator: Fabrizio <utalabi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sc\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1423168572.000000\n"
+"X-POOTLE-MTIME: 1423346832.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -20,9 +20,10 @@ msgstr "10 ^"
 msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Informatziones a pitzu de sas variàbiles de sa Nue</b><br>&nbsp;<br>A oe "
-"si poderant petzi balores numèricos<br>No est permìtidu s'isvilupu de "
-"Aposentos de arrèsonu e ant a èssere bogados<br>Pro informatziones in prus "
-"pompiade sa pagina <a href= target=>see the cloud data FAQ!</a>"
+"si poderant petzi balores numèricos<br>Non sunt permitidos Aposentos de "
+"arrèsonu e ant a èssere burrados<br>Pro informatziones in prus, pompiade sa "
+"pagina <a href=\"/help/faq/#clouddata\" target=\"_blank\">Preguntas fitianas "
+"a pitzu de sos datos in sa Nue</a>"
 
 msgid "A connected"
 msgstr "A connessu"
@@ -40,7 +41,7 @@ msgid "About LEGO WeDo extension..."
 msgstr "A pitzu de s'estensione LEGO WeDo..."
 
 msgid "About PicoBoard extension..."
-msgstr "A pitzu de s'estensione PicoBoard"
+msgstr "A pitzu de s'estensione PicoBoard..."
 
 msgid "abs"
 msgstr "abs"
@@ -85,7 +86,7 @@ msgid "all around"
 msgstr "podet girare a in tundu"
 
 msgid "all motors"
-msgstr "Totu sos motores"
+msgstr "totu sos motores"
 
 msgid "Animal"
 msgstr "Animales"
@@ -259,7 +260,7 @@ msgid "clear senders/receivers"
 msgstr "cua mitentes/retzidores"
 
 msgid "Click "Save now" to try again or "Download" to save"
-msgstr "Carca  pro torrare a proare o  pro allogare"
+msgstr "Carca \"Alloga como\" pro torrare a proare o \"Iscàrriga\" pro allogare"
 
 msgid "Close"
 msgstr "Tanca"
@@ -271,7 +272,7 @@ msgid "Cloud"
 msgstr "Nue"
 
 msgid "Cloud data"
-msgstr "Datos in sa Nue"
+msgstr "Datos in sa nue"
 
 msgid "Cloud variable (stored on server)"
 msgstr "Variàbile de sa nue (allogada in su serbidore)"
@@ -537,17 +538,16 @@ msgid "Hardware"
 msgstr "Machinàriu"
 
 msgid "help"
-msgstr ""
+msgstr "agiutòriu"
 
 msgid "Hello!"
-msgstr ""
+msgstr "Oè!"
 
 msgid "Hmm..."
-msgstr ""
+msgstr "Uhmm..."
 
-#, fuzzy
 msgid "hello"
-msgstr "Violontzellu"
+msgstr "oè"
 
 msgid "hide"
 msgstr "cua"
@@ -556,7 +556,7 @@ msgid "High C"
 msgstr "DO Artu"
 
 msgid "Holiday"
-msgstr ""
+msgstr "Fèria"
 
 msgid "hour"
 msgstr "ora"
@@ -601,7 +601,7 @@ msgid "length"
 msgstr "longària"
 
 msgid "Letters"
-msgstr ""
+msgstr "Lìteras"
 
 msgid "Library"
 msgstr "Regorta"
@@ -610,9 +610,8 @@ msgid "light"
 msgstr "lughe"
 
 # 83%
-#, fuzzy
 msgid "lights"
-msgstr "lughe"
+msgstr "lughes"
 
 msgid "limit reached"
 msgstr "làcana lòmpida"
@@ -671,9 +670,8 @@ msgstr "Nùmene de su Messàgiu"
 msgid "message1"
 msgstr "messàgiu1"
 
-#, fuzzy
 msgid "Microphone volume:"
-msgstr "Volùmene de su Micròfonu:"
+msgstr "Volùmene de su micròfonu:"
 
 msgid "Middle C"
 msgstr "DO Mesanu"
@@ -736,7 +734,7 @@ msgid "New backdrop:"
 msgstr "Fundale nou:"
 
 msgid "New Block"
-msgstr ""
+msgstr "Blocu nou"
 
 msgid "New costume from camera"
 msgstr "Costùmene nou dae sa càmera"
@@ -748,7 +746,7 @@ msgid "New List"
 msgstr "Lista Noa"
 
 msgid "New Message"
-msgstr ""
+msgstr "Messàgiu nou"
 
 msgid "new message..."
 msgstr "messàgiu nou..."
@@ -769,7 +767,7 @@ msgid "New Variable"
 msgstr "Variàbile Noa"
 
 msgid "next backdrop"
-msgstr "Fundale imbeniente"
+msgstr "fundale imbeniente"
 
 msgid "No motion blocks"
 msgstr "Perunu blocu de movimentu"
@@ -877,7 +875,7 @@ msgid "pop"
 msgstr "pop"
 
 msgid "previous backdrop"
-msgstr "Fundale primidiu"
+msgstr "fundale de prima"
 
 msgid "Profile"
 msgstr "Perfilu"
@@ -924,7 +922,6 @@ msgstr "Remixa"
 msgid "Remixing..."
 msgstr "Remixende..."
 
-#, fuzzy
 msgid "Remove extension blocks"
 msgstr "Boga sos blocos de estensione"
 
@@ -935,7 +932,7 @@ msgid "rename variable"
 msgstr "càmbia nùmene a sa variàbile"
 
 msgid "Replace existing project"
-msgstr ""
+msgstr "Càmbia su progetu"
 
 msgid "requires sign in"
 msgstr "rechedet de imbucare"
@@ -980,10 +977,10 @@ msgid "Save"
 msgstr "Alloga"
 
 msgid "Save a copy of this project and add your own ideas."
-msgstr ""
+msgstr "Alloga una còpia de custu progetu e agiunghe sas ideas tuas."
 
 msgid "Save as"
-msgstr ""
+msgstr "Alloga comente"
 
 msgid "Save as a copy"
 msgstr "Alloga una còpia"
@@ -992,7 +989,7 @@ msgid "Save now"
 msgstr "Alloga deretu"
 
 msgid "Save project?"
-msgstr ""
+msgstr "Allogare su progetu?"
 
 msgid "save to local file"
 msgstr "alloga in unu file locale"
@@ -1010,10 +1007,10 @@ msgid "Saxophone"
 msgstr "Sassòfonu"
 
 msgid "Scratch Updater"
-msgstr ""
+msgstr "Annoadore de Scratch"
 
 msgid "Scratch 2.0 Offline Editor"
-msgstr ""
+msgstr "Editore locale de Scratch 2.0"
 
 msgid "Script"
 msgstr "Programma"
@@ -1060,10 +1057,10 @@ msgid "Share"
 msgstr "Cumpartzi"
 
 msgid "Share to website"
-msgstr ""
+msgstr "Cumpartzi in unu situ"
 
 msgid "Share to Scratch website"
-msgstr ""
+msgstr "Cumpartzi in su situ de Scratch"
 
 msgid "shared"
 msgstr "cumpartzidu"
@@ -1189,7 +1186,7 @@ msgid "tan"
 msgstr "tan"
 
 msgid "text"
-msgstr "Testu"
+msgstr "testu"
 
 msgid "Text"
 msgstr "Testu"
@@ -1202,6 +1199,8 @@ msgstr "Su nùmene est giai impitadu."
 
 msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
 msgstr ""
+"Su carrigamentu de su progetu no est renessidu e sa truma de Scratch est "
+"avèrtida. Carca OK pro essire dae custa pàgina."
 
 msgid "Theme"
 msgstr "Tema"
@@ -1210,15 +1209,15 @@ msgid "Things"
 msgstr "Cosas"
 
 msgid "thing"
-msgstr ""
+msgstr "cosa"
 
 msgid "This is the current version."
-msgstr ""
+msgstr "Custa est sa versione currente."
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
 msgstr ""
-"Custu progetu podet averguare chie l'est usende, pro mèdiu de su blocu \""
-"nùmene de impitadore\". Pro cuare s'identidade, essi in antis de usare su "
+"Custu progetu podet averguare chie l'est usende, pro mèdiu de su blocu “"
+"nùmene de impitadore”. Pro cuare s'identidade, essinche in antis de usare su "
 "progetu."
 
 msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
@@ -1259,7 +1258,7 @@ msgid "Trombone"
 msgstr "Trumbone"
 
 msgid "true"
-msgstr ""
+msgstr "beru"
 
 msgid "Turbo mode"
 msgstr "Modu turbo"
@@ -1274,7 +1273,7 @@ msgid "Undelete"
 msgstr "Recùbera"
 
 msgid "Underwater"
-msgstr "Suta de Mare"
+msgstr "Suta de mare"
 
 msgid "undo"
 msgstr "annudda"
@@ -1298,13 +1297,13 @@ msgid "up arrow"
 msgstr "fritza a susu"
 
 msgid "Update failed"
-msgstr ""
+msgstr "Annoamentu non renessidu"
 
 msgid "Update not needed"
-msgstr ""
+msgstr "Annoamentu non netzessàriu"
 
 msgid "Update now"
-msgstr ""
+msgstr "Annoa como"
 
 msgid "Upload backdrop from file"
 msgstr "Càrriga unu fundale dae unu file"
@@ -1349,7 +1348,7 @@ msgid "Vibraslap"
 msgstr "Vibraslap"
 
 msgid "video direction"
-msgstr ""
+msgstr "diretzione de su vìdeu"
 
 msgid "video motion"
 msgstr "movimentu de su vìdeu"
@@ -1370,10 +1369,10 @@ msgid "Want to save? Click remix"
 msgstr "Cheres allogare? Carca remixa"
 
 msgid "Which column do you want to import"
-msgstr "Cale colunna est de importare?"
+msgstr "Cale colunna est de importare"
 
 msgid "What's your name?"
-msgstr ""
+msgstr "Ite ti naras?"
 
 msgid "whirl"
 msgstr "molineddu"
@@ -1385,7 +1384,7 @@ msgid "Wooden Flute"
 msgstr "Flàutu de Linna"
 
 msgid "world"
-msgstr ""
+msgstr "mundu"
 
 msgid "x position"
 msgstr "positzione x"
@@ -1402,10 +1401,10 @@ msgstr ""
 "Cale si siat cambiamentu at a èssere de s'ora e non de dura."
 
 msgid "Your Scratch name"
-msgstr ""
+msgstr "Su nùmene tuo de Scratch"
 
 msgid "Your Scratch name is required"
-msgstr ""
+msgstr "Si rechedet su nùmene tuo de Scratch"
 
 msgid ""
 "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2013-05-02 01:30+0000\n"
+"PO-Revision-Date: 2015-02-08 23:56+0000\n"
 "Last-Translator: Juan Pablo <juanpabl@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: an\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1367458245.000000\n"
+"X-POOTLE-MTIME: 1423439796.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -306,14 +306,12 @@ msgstr "fixar l'instrumento a %d.instrument"
 # 86%
 # 97%
 # 100%
-#, fuzzy
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "fixar a dirección d'o motor %m.motorDirection"
+msgstr "fixar a dirección d'o motor %m.motor2 en %m.motorDirection"
 
 # 75%
-#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "fixar a potencia d'o motor a %n"
+msgstr "fixar a potencia d'o motor %m.motor en %n"
 
 msgid "set pen color to %c"
 msgstr "fixar a color d'o lapicero a %c"
@@ -411,19 +409,16 @@ msgid "turn @turnRight %n degrees"
 msgstr "chirar @turnRight %n graus"
 
 # 82%
-#, fuzzy
 msgid "turn %m.motor off"
-msgstr "amortar o motor"
+msgstr "amortar o motor %m.motor"
 
 # 81%
-#, fuzzy
 msgid "turn %m.motor on"
-msgstr "enchegar o motor"
+msgstr "enchegar o motor %m.motor"
 
 # 89%
-#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr "enchegar o motor por %n segundos"
+msgstr "enchegar o motor %m.motor por %n segundos"
 
 msgid "turn video %m.videoState"
 msgstr "meter o video %m.videoState"
@@ -451,7 +446,7 @@ msgid "when %m.key key pressed"
 msgstr "en pretar a tecla %m.key"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr ""
+msgstr "quan %m.sensor %m.lessMore %n"
 
 msgid "when %m.triggerSensor > %n"
 msgstr "quan %m.triggerSensor > %n"
@@ -464,7 +459,7 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "quan o fundo cambie a %m.backdrop"
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
+msgstr "quan a distancia siga %m.lessMore %n"
 
 msgid "when I receive %m.broadcast"
 msgstr "en recibir %m.broadcast"
@@ -473,13 +468,13 @@ msgid "when I start as a clone"
 msgstr "quan empecipie una copia mía"
 
 msgid "when Stage clicked"
-msgstr ""
+msgstr "quan se faiga clic en o scenario"
 
 msgid "when this sprite clicked"
 msgstr "quan se faiga clic en iste obchecto"
 
 msgid "when tilt %m.eNe %n"
-msgstr ""
+msgstr "quan a inclinación siga %m.eNe %n"
 
 msgid "x position"
 msgstr "posición en x"

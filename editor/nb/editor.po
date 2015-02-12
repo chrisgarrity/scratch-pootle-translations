@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2014-12-07 20:53+0000\n"
+"PO-Revision-Date: 2015-02-08 08:59+0000\n"
 "Last-Translator: Torbjorn <torbjorn.skauli@ffi.no>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nb\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1417985603.000000\n"
+"X-POOTLE-MTIME: 1423385971.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -610,7 +610,6 @@ msgstr "vend sideveis"
 msgid "length"
 msgstr "lengde"
 
-#, fuzzy
 msgid "Letters"
 msgstr "Bokstaver"
 
@@ -950,7 +949,6 @@ msgstr "Nytt navn"
 msgid "rename variable"
 msgstr "gi nytt navn til variabel"
 
-#, fuzzy
 msgid "Replace existing project"
 msgstr "Erstatt det nåværende prosjektet"
 

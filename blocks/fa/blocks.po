@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-07-10 22:52+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
+"PO-Revision-Date: 2015-02-08 17:52+0000\n"
+"Last-Translator: Afshid <Afshidf@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1405032728.000000\n"
+"X-POOTLE-MTIME: 1423417966.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -25,37 +25,36 @@ msgid "%b or %b"
 msgstr "%b یا %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
-msgstr "%m.spriteOrStage از %m.attribute"
+msgstr "%m.attribute از %m.spriteOrStage"
 
 msgid "%m.list contains %s"
-msgstr ""
+msgstr "%m.لیست حاوی %s"
 
 msgid "%m.mathOp of %n"
-msgstr "%n از %m.mathOp"
+msgstr "%m.mathOp از %n"
 
 msgid "%m.sensor sensor value"
 msgstr "%m.sensor مقدار سنسور"
 
 msgid "%n mod %n"
-msgstr "%n2 به پیمانه‌ی %n1"
+msgstr "باقیمانده تقسیم %n به %n"
 
 msgid "add %s to %m.list"
-msgstr "%m.list را به %s اضافه کن"
+msgstr "%s را به %m.list اضافه کن"
 
 msgid "answer"
 msgstr "پاسخ"
 
 msgid "ask %s and wait"
-msgstr "و صبر کن %s بپرس"
+msgstr "%s را بپرس و صبر کن"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop #"
-msgstr "پس‌زمینه"
+msgstr "پس‌زمینه #"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr ""
+msgstr "نام پس زمینه"
 
 msgid "broadcast %m.broadcast"
 msgstr "%m.broadcast را انتشار بده"
@@ -64,34 +63,34 @@ msgid "broadcast %m.broadcast and wait"
 msgstr "%m.broadcast را انتشار بده و صبر ‌کن"
 
 msgid "change %m.effect effect by %n"
-msgstr "اثر %n را %m.effect تغییر بده"
+msgstr "اثر %m.effect را به مقدار %n تغییر بده"
 
 msgid "change %m.var by %n"
-msgstr "%n را %m.var تغییر بده"
+msgstr "%m.var را %n تغییر بده"
 
 msgid "change pen color by %n"
 msgstr "رنگ قلم را %n تغییر بده"
 
 msgid "change pen shade by %n"
-msgstr "سایه‌ی رنگ قلم را %n تغییر بده"
+msgstr "سایه ی رنگ قلم را %n تغییر بده"
 
 msgid "change pen size by %n"
-msgstr "اندازه‌ی قلم را %n تغییر بده"
+msgstr "اندازه ی قلم را %n تغییر بده"
 
 msgid "change size by %n"
-msgstr "کن %n اندازه  را"
+msgstr "اندازه  را %n تغییر بده"
 
 msgid "change tempo by %n"
-msgstr "کن %n سرعت  را"
+msgstr "سرعت  را %n تغییر بده"
 
 msgid "change volume by %n"
-msgstr "کن %n بلندى صدا را"
+msgstr "بلندى صدا را %n تغییر بده"
 
 msgid "change x by %n"
-msgstr "عوض کن %n ایکس را با"
+msgstr "x را با %n تغییر بده"
 
 msgid "change y by %n"
-msgstr "عوض کن %n وای را با"
+msgstr "y را %n تغییر بده"
 
 msgid "clear"
 msgstr "پاک کن"
@@ -100,40 +99,40 @@ msgid "clear graphic effects"
 msgstr "افکت های گرافیکی را پاک کن"
 
 msgid "color %c is touching %c?"
-msgstr "تماس دارد؟ %c2 با رنگ %c1 رنگ"
+msgstr "زنگ %c با رنگ %c تماس دارد؟"
 
 msgid "Control"
-msgstr "اداره"
+msgstr "کنترل"
 
 msgid "costume #"
-msgstr "شماره لباس"
+msgstr "شماره لباس #"
 
 msgid "create clone of %m.spriteOnly"
-msgstr ""
+msgstr "از %m.spriteOnly تکرار کن"
 
 msgid "current %m.timeAndDate"
-msgstr ""
+msgstr "هم اکنون %m.timeAndDate شود"
 
 msgid "Data"
-msgstr ""
+msgstr "داده"
 
 msgid "days since 2000"
-msgstr ""
+msgstr "تعداد روزها از سال 2000"
 
 msgid "define"
-msgstr ""
+msgstr "تعریف"
 
 msgid "delete %d.listDeleteItem of %m.list"
-msgstr ""
+msgstr " %d.listDeleteItem را از  %m.list حذف کن"
 
 msgid "delete this clone"
-msgstr ""
+msgstr "این تکراری را حذف کن"
 
 msgid "direction"
 msgstr "جهت"
 
 msgid "distance"
-msgstr ""
+msgstr "فاصله"
 
 msgid "distance to %m.spriteOrMouse"
 msgstr "%m.spriteOrMouse فاصله تا"
@@ -142,7 +141,7 @@ msgid "else"
 msgstr "واگر نه"
 
 msgid "Events"
-msgstr ""
+msgstr "رویدادها"
 
 msgid "forever"
 msgstr "برای همیشه تکرار کن"
@@ -154,7 +153,7 @@ msgid "go back %n layers"
 msgstr "لایه به عقب %n برو"
 
 msgid "go to %m.spriteOrMouse"
-msgstr "%m.spriteOrMouse برو به"
+msgstr " برو به %m.spriteOrMouse برو به"
 
 msgid "go to front"
 msgstr "برو به جلو"
@@ -166,37 +165,37 @@ msgid "hide"
 msgstr "پنهان کن"
 
 msgid "hide list %m.list"
-msgstr ""
+msgstr "فهرست %m.list را پنهان کن"
 
 msgid "hide variable %m.var"
-msgstr ""
+msgstr "متغیر %m.var را پنهان کن"
 
 msgid "if %b then"
-msgstr ""
+msgstr "اگر %b آنگاه"
 
 msgid "if on edge, bounce"
 msgstr "اگر روی خط هستی، بپر"
 
 msgid "insert %s at %d.listItem of %m.list"
-msgstr ""
+msgstr " %s را در  %d.listItem از  %m.list درج کن"
 
 msgid "item %d.listItem of %m.list"
-msgstr ""
+msgstr "مشخص کن %d.listItem را از %m.list"
 
 msgid "join %s %s"
-msgstr "%s و %s اجتماع"
+msgstr "%s و %s را مجتمع کن"
 
 msgid "key %m.key pressed?"
-msgstr "فشرده شده؟ %m.key آیا کلید"
+msgstr "آیا کلید %m.key فشرده شده؟ "
 
 msgid "length of %m.list"
-msgstr "%m.list طول"
+msgstr "طول  %m.list"
 
 msgid "length of %s"
-msgstr "%s طول"
+msgstr "طول %s"
 
 msgid "letter %n of %s"
-msgstr "%s از %n حرف"
+msgstr "حرف %s از %n"
 
 msgid "Looks"
 msgstr "ظاهر"
@@ -205,7 +204,7 @@ msgid "loudness"
 msgstr "بلندی صدا"
 
 msgid "More Blocks"
-msgstr ""
+msgstr "بلاک های بیشتر"
 
 msgid "Motion"
 msgstr "حرکت"
@@ -214,7 +213,7 @@ msgid "mouse down?"
 msgstr "فشار دادن دکمه ماوس؟"
 
 msgid "mouse x"
-msgstr "مکان ایکس ماوس"
+msgstr "مکان x ماوس"
 
 msgid "mouse y"
 msgstr "مکان وای ماوس"
@@ -223,9 +222,8 @@ msgid "move %n steps"
 msgstr "گام حرکت کن %n"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "next backdrop"
-msgstr "پشت زمینه بعدی"
+msgstr "پس زمینه بعدی"
 
 msgid "next costume"
 msgstr "لباس بعدی"
@@ -246,36 +244,35 @@ msgid "pen up"
 msgstr "قلم بالا"
 
 msgid "pick random %n to %n"
-msgstr "یک عدد حدث بزن %n2 و %n1 بين"
+msgstr "یک عدد تصادفی بين %n و %n انتخاب کن"
 
 msgid "play drum %d.drum for %n beats"
-msgstr "ضربه بزن %n را %d.drum طبل*"
+msgstr "طبل  %d.drum را %n ضربه بنواز"
 
 # 83%
-#, fuzzy
 msgid "play note %d.note for %n beats"
-msgstr "ضربه بزن %n را برای %d.note نوت"
+msgstr "نت %d.note را %n ضربه بنواز"
 
 msgid "play sound %m.sound"
-msgstr "%m.sound اجرای صدای"
+msgstr "صدای %m.sound را بنواز"
 
 msgid "play sound %m.sound until done"
-msgstr "تا وقتی تمام شود %m.sound اجرای صدای"
+msgstr "صدای %m.sound را تا وقتی تمام شود بنواز"
 
 msgid "point in direction %d.direction"
-msgstr "%d.direction برو به جهت"
+msgstr "برو به جهت%d.direction"
 
 msgid "point towards %m.spriteOrMouse"
-msgstr "%m.spriteOrMouse بچرخ به سمت"
+msgstr "بچرخ به سمت %m.spriteOrMouse "
 
 msgid "repeat %n"
-msgstr "بار تکرار کن %n"
+msgstr "%n بار تکرار کن"
 
 msgid "repeat until %b"
-msgstr "%b تکرار کن تا وقتی که"
+msgstr "تکرار کن تا وقتی که %b"
 
 msgid "replace item %d.listItem of %m.list with %s"
-msgstr ""
+msgstr "%s را با %d.listItem از لیست %m.list جایگزین کن"
 
 msgid "reset timer"
 msgstr "تایمر از اول"
@@ -284,83 +281,81 @@ msgid "rest for %n beats"
 msgstr "استراحت کن برای %n ضرب"
 
 msgid "round %n"
-msgstr "%n گرد شده ی"
+msgstr "%n را گرد کن"
 
 msgid "say %s"
-msgstr "%s بگو"
+msgstr "بگو %s"
 
 msgid "say %s for %n secs"
-msgstr "ثانيه %n برای %s بگو"
+msgstr "برای %n ثانیه بگو %s"
 
 msgid "Sensing"
-msgstr "مشاهده"
+msgstr "حس کردن"
 
 msgid "sensor %m.booleanSensor?"
-msgstr "؟%m.booleanSensor حسگر"
+msgstr "نتیجه حسگر %m.booleanSensor"
 
 msgid "set %m.effect effect to %n"
-msgstr "کن %n را %m.effect تأثير"
+msgstr "اثر %m.effect را %n قرار بده"
 
 msgid "set %m.var to %s"
-msgstr "کن %n را %m.var"
+msgstr "متغیر %m.var را %s قرار بده"
 
 msgid "set instrument to %d.instrument"
-msgstr "کن %d.instrument دستگاه را"
+msgstr "ساز را %d.instrument قرار بده"
 
 # 89%
 # 86%
 # 97%
-#, fuzzy
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "%m.motorDirection راستای حرکت موتور به"
+msgstr "جهت %m.motor2 را به %m.motorDirection تغییر بده"
 
 # 77%
 # 75%
-#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "%n :قدرت موتور"
+msgstr "قدرت %m.motor را %n کن"
 
 msgid "set pen color to %c"
-msgstr "کن %c رنگ  مداد را"
+msgstr "رنگ مداد را %c قرار بده"
 
 msgid "set pen color to %n"
-msgstr "کن %c رنگ  مداد را"
+msgstr "رنگ مداد را %n کن"
 
 msgid "set pen shade to %n"
-msgstr "درجه زیاد کن %n تیرگی قلم را"
+msgstr "تیرگی قلم را %n قرار بده"
 
 msgid "set pen size to %n"
-msgstr "کن %n اندازه  مداد را"
+msgstr "اندازه قلم را %n قرار بده"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr ""
+msgstr "نوع چرخش را %m.rotationStyle قرار بده"
 
 msgid "set size to %n%"
-msgstr "کن % %n اندازه را"
+msgstr "اندازه را %n% قرار بده"
 
 msgid "set tempo to %n bpm"
-msgstr "سرعت را %n ضربه در دقیقه کن"
+msgstr "سرعت نواختن را %n ضربه در دقیقه کن"
 
 msgid "set video transparency to %n%"
-msgstr ""
+msgstr "شفافیت ویدئو را  %n% قرار بده"
 
 msgid "set volume to %n%"
-msgstr "کن % %n بلندی صدا را"
+msgstr "بلندی صدا را  %n% قرار بده"
 
 msgid "set x to %n"
-msgstr "کن %n مکان ایکس را"
+msgstr "مکانx را %n قرار بده"
 
 msgid "set y to %n"
-msgstr "کن %n مکان وای را"
+msgstr "مکان y را %n قرار بده"
 
 msgid "show"
-msgstr "نشان بده"
+msgstr "نمایش بده"
 
 msgid "show list %m.list"
-msgstr ""
+msgstr "فهرست %m.list را نمایش بده"
 
 msgid "show variable %m.var"
-msgstr ""
+msgstr "متغیر %m.var را نمایش بده"
 
 msgid "size"
 msgstr "اندازه"
@@ -372,150 +367,145 @@ msgid "stamp"
 msgstr "مهر"
 
 msgid "stop %m.stop"
-msgstr ""
+msgstr " %m.stop را قطع کن"
 
 msgid "stop all sounds"
 msgstr "همه صدا ها را متوقف کن"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr ""
+msgstr "پس زمینه را به %m.backdrop تغییر بده"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr ""
+msgstr "پس زمینه را به %m.backdrop تغییر بده و صبر کن"
 
 msgid "switch costume to %m.costume"
-msgstr ""
+msgstr "لباس را به %m.costume تغییر بده"
 
 msgid "tempo"
-msgstr "میزان سرعت"
+msgstr "سرعت نواختن"
 
 msgid "think %s"
-msgstr "%s فکر کن"
+msgstr "فکر کن %s"
 
 msgid "think %s for %n secs"
-msgstr "ثانيه %n برای %s فکر کن"
+msgstr "برای %n ثانیه فکر کن  %s"
 
 msgid "tilt"
-msgstr ""
+msgstr "کج شو"
 
 msgid "timer"
 msgstr "زمان سنج"
 
 msgid "touching %m.touching?"
-msgstr "برخورد می کند؟ %m.touching به"
+msgstr "آیا %m.touching لمس می کند؟"
 
 msgid "touching color %c?"
-msgstr "تماس دارد؟ %c با رنگ"
+msgstr "آیا رنگ %c تماس دارد؟"
 
 msgid "turn @turnLeft %n degrees"
-msgstr ""
+msgstr "به اندازه %n درجه به چپ بچرخ"
 
 msgid "turn @turnRight %n degrees"
-msgstr ""
+msgstr "به اندازه %n درجه به راست بچرخ"
 
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "%m.motor را خاموش کن"
 
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "%m.motor را روشن کن"
 
 # 80%
 # 89%
-#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr "ثانیه روشن کن %n موتور را برای"
+msgstr "موتور %m.motor را برای %n روشن کن"
 
 msgid "turn video %m.videoState"
-msgstr ""
+msgstr "ویدئو را %m.videoState کن"
 
 msgid "username"
-msgstr ""
+msgstr "نام کاربری"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr ""
+msgstr "ویدئو %m.videoMotionType در %m.stageOrThis"
 
 msgid "volume"
 msgstr "بلندی صدا"
 
 msgid "wait %n secs"
-msgstr "ثانيه صبر کن %n"
+msgstr "%n ثانيه صبر کن "
 
 msgid "wait until %b"
-msgstr "%b صبر کن تا"
+msgstr "تا %b صبر کن"
 
 # 75%
-#, fuzzy
 msgid "when %m.booleanSensor"
-msgstr "؟%m.booleanSensor حسگر"
+msgstr "تا زمانی که %m.booleanSensor"
 
 msgid "when %m.key key pressed"
-msgstr "وقتی کلید %m.key فشرده شد"
+msgstr "تا زمانی که کلید %m.key فشرده شود"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr ""
+msgstr "تا زمانی که %m.sensor %m.lessMore %n"
 
 msgid "when %m.triggerSensor > %n"
-msgstr ""
+msgstr "تا زمانی که %m.triggerSensor > %n"
 
 msgid "when @greenFlag clicked"
-msgstr "وقتی @greenFlag کلیک شد"
+msgstr "تا زمانی که @greenFlag کلیک شد"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr ""
+msgstr "تا زمانی که پس زمینه به %m.backdrop تغییر کند"
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
+msgstr "تا زمانی که فاصله %m.lessMore %n شود"
 
 msgid "when I receive %m.broadcast"
-msgstr ""
+msgstr "تا زمانی که %m.broadcast را دریافت کنم"
 
 msgid "when I start as a clone"
-msgstr ""
+msgstr "تا زمانی که به عنوان یک تکراری شروع کنم"
 
 msgid "when Stage clicked"
-msgstr ""
+msgstr "وقتی صحنه کلیک شد"
 
 msgid "when this sprite clicked"
-msgstr ""
+msgstr "تا زمانی که این شکلک کلیک شود"
 
 msgid "when tilt %m.eNe %n"
-msgstr ""
+msgstr "وقتی %m.eNe %n کج شد"
 
 msgid "x position"
-msgstr "موقعیت ایکس"
+msgstr "موقعیت x"
 
 msgid "y position"
-msgstr "موقعیت وای"
+msgstr "موقعیت y"
 
 # 89%
-#, fuzzy
 msgid "set motor direction %m.motorDirection"
-msgstr "%m.motorDirection راستای حرکت موتور به"
+msgstr "راستای حرکت موتور را %m.motorDirection قرار بده"
 
 # 77%
-#, fuzzy
 msgid "set motor power %n"
-msgstr "%n :قدرت موتور"
+msgstr "قدرت موتور را %n قرار بده"
 
 msgid "turn motor off"
-msgstr ""
+msgstr "موتور را خاموش کن"
 
 msgid "turn motor on"
-msgstr ""
+msgstr "موتور را روشن کن"
 
 # 80%
-#, fuzzy
 msgid "turn motor on for %n secs"
-msgstr "ثانیه روشن کن %n موتور را برای"
+msgstr "موتور را برای %n ثانیه روشن کن"
 
 msgid "when distance < %n"
-msgstr ""
+msgstr "تا زمانی که فاصله < %n شود"
 
 msgid "when tilt = %n"
-msgstr ""
+msgstr "تا زمانی که مقدار کج شوندگی = %n شود"
 
 # 89%
 # 86%

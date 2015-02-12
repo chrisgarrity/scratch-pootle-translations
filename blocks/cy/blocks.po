@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-02-02 09:57+0000\n"
+"PO-Revision-Date: 2015-02-10 09:45+0000\n"
 "Last-Translator: Gruffudd <gruffudd@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: cy\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n==2) ? 1 : 0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1422871031.000000\n"
+"X-POOTLE-MTIME: 1423561527.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -87,10 +87,10 @@ msgid "change volume by %n"
 msgstr "newid uchder sain gan %n"
 
 msgid "change x by %n"
-msgstr "newid 'x' gan %n"
+msgstr "newid x gan %n"
 
 msgid "change y by %n"
-msgstr "newid 'y' gan %n"
+msgstr "newid y gan %n"
 
 msgid "clear"
 msgstr "clirio"
@@ -111,7 +111,7 @@ msgid "create clone of %m.spriteOnly"
 msgstr "creu clôn o %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
-msgstr "%m.amserADyddiad ar hyn o bryd"
+msgstr "%m.timeAndDate ar hyn o bryd"
 
 msgid "Data"
 msgstr "Data"
@@ -213,10 +213,10 @@ msgid "mouse down?"
 msgstr "llygoden i lawr?"
 
 msgid "mouse x"
-msgstr "llygoden 'x'"
+msgstr "llygoden x"
 
 msgid "mouse y"
-msgstr "llygoden 'y'"
+msgstr "llygoden y"
 
 msgid "move %n steps"
 msgstr "symud %n cam"

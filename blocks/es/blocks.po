@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-12-09 03:07+0000\n"
-"Last-Translator: Claudia <CALLA@media.mit.edu>\n"
+"PO-Revision-Date: 2015-02-11 05:56+0000\n"
+"Last-Translator: P7285 <p7285@outlook.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1418094436.000000\n"
+"X-POOTLE-MTIME: 1423634188.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -111,7 +111,7 @@ msgid "create clone of %m.spriteOnly"
 msgstr "crear clon de %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
-msgstr "%m.timeAndDate de ahora"
+msgstr "%m.timeAndDate actual"
 
 msgid "Data"
 msgstr "Datos"
@@ -450,10 +450,10 @@ msgid "when %m.key key pressed"
 msgstr "al presionar tecla %m.key"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr "when %m.sensor %m.lessMore %n"
+msgstr "cuando %m.sensor sea %m.lessMore %n"
 
 msgid "when %m.triggerSensor > %n"
-msgstr "cuando el %m.triggerSensor sea > %n"
+msgstr "cuando %m.triggerSensor sea > %n"
 
 msgid "when @greenFlag clicked"
 msgstr "al presionar @greenFlag"
@@ -463,13 +463,13 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "cuando el fondo cambie a %m.backdrop"
 
 msgid "when distance %m.lessMore %n"
-msgstr "cuando distancia %m.lessMore %n"
+msgstr "cuando la distancia sea %m.lessMore %n"
 
 msgid "when I receive %m.broadcast"
 msgstr "al recibir %m.broadcast"
 
 msgid "when I start as a clone"
-msgstr "cuando comience como clon"
+msgstr "al comenzar como clon"
 
 msgid "when Stage clicked"
 msgstr "al presionar escenario"

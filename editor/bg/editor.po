@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2014-11-12 09:03+0000\n"
+"PO-Revision-Date: 2015-02-19 14:34+0000\n"
 "Last-Translator: Anton <anton.kalauzki@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bg\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1415783029.000000\n"
+"X-POOTLE-MTIME: 1424356491.000000\n"
 
 msgid "10 ^"
 msgstr ""
@@ -31,7 +31,7 @@ msgid "a copy of the project file on your computer."
 msgstr "копие на файла на проекта върху вашия компютър."
 
 msgid "A newer version of Scratch is available"
-msgstr ""
+msgstr "Има нова версия на Scratch"
 
 msgid "About"
 msgstr "За Scratch"
@@ -52,7 +52,7 @@ msgid "acos"
 msgstr ""
 
 msgid "Add"
-msgstr ""
+msgstr "Добавяне"
 
 msgid "Add an Extension"
 msgstr "Добави приставка"
@@ -65,7 +65,7 @@ msgid "add comment"
 msgstr "добавяне на коментар"
 
 msgid "add comment here..."
-msgstr ""
+msgstr "добави коментар тук..."
 
 msgid "Add label text:"
 msgstr "Добавяне на етикет с текст:"
@@ -152,7 +152,7 @@ msgstr "Фагот"
 msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
 msgstr ""
 "Тъй като Scratch акаунта Ви е нов, промени в облачните данни няма да бъдат "
-"запазени все още. Продължавайте да се упражнявате и скоро ще можете да "
+"съхранени все още. Продължавайте да се упражнявате и скоро ще можете да "
 "използвате облачните данни"
 
 msgid "Bitmap"
@@ -225,7 +225,7 @@ msgid "Cello"
 msgstr "Виолончело"
 
 msgid "Check for updates"
-msgstr ""
+msgstr "Проверка за обновления"
 
 msgid "Choir"
 msgstr "Хор"
@@ -280,7 +280,7 @@ msgid "Cloud data"
 msgstr "Облачни данни"
 
 msgid "Cloud variable (stored on server)"
-msgstr ""
+msgstr "Облачна променлива (съхранявана на сървър)"
 
 msgid "color"
 msgstr "цвят"
@@ -342,7 +342,7 @@ msgid "Costumes:"
 msgstr "Костюми:"
 
 msgid "Could not retrieve new application from server."
-msgstr ""
+msgstr "Не се получава ново приложение от сървъра."
 
 msgid "Cowbell"
 msgstr "Пастирски звънец"
@@ -389,7 +389,7 @@ msgid "don't rotate"
 msgstr "без въртене"
 
 msgid "Don't save"
-msgstr ""
+msgstr "Без запазване"
 
 msgid "down"
 msgstr "надолу"
@@ -404,7 +404,7 @@ msgid "Download to your computer"
 msgstr "Сваляне на вашия компютър"
 
 msgid "Downloading new version"
-msgstr ""
+msgstr "Изтегляне на новата версия"
 
 msgid "duplicate"
 msgstr "копиране"
@@ -546,17 +546,16 @@ msgid "Hardware"
 msgstr "Хардуер"
 
 msgid "help"
-msgstr ""
+msgstr "помощ"
 
 msgid "Hello!"
-msgstr ""
+msgstr "Здравей!"
 
 msgid "Hmm..."
-msgstr ""
+msgstr "Хмм..."
 
-#, fuzzy
 msgid "hello"
-msgstr "Виолончело"
+msgstr "здравей"
 
 msgid "hide"
 msgstr "скрий"
@@ -565,7 +564,7 @@ msgid "High C"
 msgstr "Горно До"
 
 msgid "Holiday"
-msgstr ""
+msgstr "Празник"
 
 msgid "hour"
 msgstr "час"
@@ -611,7 +610,7 @@ msgid "length"
 msgstr "дължина"
 
 msgid "Letters"
-msgstr ""
+msgstr "Букви"
 
 msgid "Library"
 msgstr "Библиотека"
@@ -749,7 +748,7 @@ msgid "New backdrop:"
 msgstr "Нов декор:"
 
 msgid "New Block"
-msgstr ""
+msgstr "Нов блок"
 
 msgid "New costume from camera"
 msgstr "Нов костюм чрез камера"
@@ -784,7 +783,7 @@ msgid "New Variable"
 msgstr "Нова променлива"
 
 msgid "next backdrop"
-msgstr ""
+msgstr "следващ декор"
 
 msgid "No motion blocks"
 msgstr "Няма блокове за движение"
@@ -820,7 +819,7 @@ msgid "on-flipped"
 msgstr "вкл-огледално"
 
 msgid "Open"
-msgstr ""
+msgstr "Отваряне"
 
 msgid "Open Cuica"
 msgstr ""
@@ -857,10 +856,10 @@ msgid "Paint new sprite"
 msgstr "Рисуване на нов спрайт"
 
 msgid "Password"
-msgstr ""
+msgstr "Парола"
 
 msgid "Password is required"
-msgstr ""
+msgstr "Изисква се парола"
 
 msgid "paste"
 msgstr "поставяне"
@@ -894,7 +893,7 @@ msgid "pop"
 msgstr "пук"
 
 msgid "previous backdrop"
-msgstr ""
+msgstr "предишен декор"
 
 msgid "Profile"
 msgstr "Профил"
@@ -906,10 +905,10 @@ msgid "Project not saved!"
 msgstr "Проектът не е записан!"
 
 msgid "Project name"
-msgstr ""
+msgstr "Име на проект"
 
 msgid "Project name is required"
-msgstr ""
+msgstr "Изисква се име на проекта"
 
 msgid "random"
 msgstr "произволен"
@@ -921,7 +920,7 @@ msgid "Record new sound"
 msgstr "Запис на нов звук"
 
 msgid "record..."
-msgstr ""
+msgstr "запис..."
 
 msgid "recording1"
 msgstr "запис1"
@@ -1000,7 +999,7 @@ msgid "Save a copy of this project and add your own ideas."
 msgstr ""
 
 msgid "Save as"
-msgstr ""
+msgstr "Записване като"
 
 msgid "Save as a copy"
 msgstr "Записване като копие"
@@ -1080,10 +1079,10 @@ msgid "Share"
 msgstr "Споделяне"
 
 msgid "Share to website"
-msgstr ""
+msgstr "Споделяне на уебсайта"
 
 msgid "Share to Scratch website"
-msgstr ""
+msgstr "Споделяне на Scratch уебсайта"
 
 msgid "shared"
 msgstr "споделен"
@@ -1240,7 +1239,7 @@ msgid "thing"
 msgstr ""
 
 msgid "This is the current version."
-msgstr ""
+msgstr "Това е текущата версия."
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
 msgstr ""
@@ -1324,13 +1323,13 @@ msgid "up arrow"
 msgstr "стрелка нагоре"
 
 msgid "Update failed"
-msgstr ""
+msgstr "Обновяването е неуспешно"
 
 msgid "Update not needed"
-msgstr ""
+msgstr "Не е нужно обновяване"
 
 msgid "Update now"
-msgstr ""
+msgstr "Обновяване сега"
 
 msgid "Upload backdrop from file"
 msgstr "Качване на декор от файл"
@@ -1399,7 +1398,7 @@ msgid "Which column do you want to import"
 msgstr "Коя колона искате на внесете"
 
 msgid "What's your name?"
-msgstr ""
+msgstr "Как се казваш?"
 
 msgid "whirl"
 msgstr "завихряне"
@@ -1428,10 +1427,10 @@ msgstr ""
 "коите ще направите в редактора ще бъдат временни, а не постоянни."
 
 msgid "Your Scratch name"
-msgstr ""
+msgstr "Вашето Scratch име"
 
 msgid "Your Scratch name is required"
-msgstr ""
+msgstr "Изисква се вашето Scratch име"
 
 msgid ""
 "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "

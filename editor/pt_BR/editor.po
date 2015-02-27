@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2014-05-30 18:58+0000\n"
+"PO-Revision-Date: 2015-02-20 19:24+0000\n"
 "Last-Translator: Mariana <mcasetto@ig.com.br>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt_BR\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1401476318.000000\n"
+"X-POOTLE-MTIME: 1424460279.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -20,7 +20,7 @@ msgstr "10 ^"
 msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Informações sobre variáveis na Nuvem</b><br>&nbsp;<br>Atualmente, apenas "
-"números são suportados<br>Salas de bate-papo não são autorizadas, e serão "
+"números são suportados<br>Salas de bate-papo não são autorizadas e serão "
 "removidas<br>Para obter mais informações, <a href= target=>veja as Perguntas "
 "Frequentes sobre dados na nuvem!</a>"
 
@@ -31,7 +31,7 @@ msgid "a copy of the project file on your computer."
 msgstr "uma cópia do arquivo do projeto em seu computador."
 
 msgid "A newer version of Scratch is available"
-msgstr ""
+msgstr "Uma nova versão do Scratch está disponível"
 
 msgid "About"
 msgstr "Sobre"
@@ -52,7 +52,7 @@ msgid "acos"
 msgstr "arco cosseno"
 
 msgid "Add"
-msgstr ""
+msgstr "Adicionar"
 
 msgid "Add an Extension"
 msgstr "Adicionar uma Extensão"
@@ -64,7 +64,7 @@ msgid "add comment"
 msgstr "adicionar comentário"
 
 msgid "add comment here..."
-msgstr ""
+msgstr "adicione um comentário aqui…"
 
 msgid "Add label text:"
 msgstr "Adicionar texto do rótulo:"
@@ -199,7 +199,7 @@ msgid "Cancel"
 msgstr "Cancelar"
 
 msgid "Cannot Add"
-msgstr ""
+msgstr "Não foi possível adicionar"
 
 msgid "Cannot Delete"
 msgstr "Não é Possível Apagar"
@@ -220,7 +220,7 @@ msgid "Cello"
 msgstr "Violoncelo"
 
 msgid "Check for updates"
-msgstr ""
+msgstr "Verificar atualizações"
 
 msgid "Choir"
 msgstr "Coro"
@@ -249,7 +249,6 @@ msgstr "Clarinete"
 msgid "Claves"
 msgstr "Claves"
 
-#, fuzzy
 msgid "clean up"
 msgstr "limpar"
 
@@ -260,7 +259,7 @@ msgid "clear senders/receivers"
 msgstr "apagar emissores/receptores"
 
 msgid "Click "Save now" to try again or "Download" to save"
-msgstr "Clique  para tentar novamente ou  para salvar"
+msgstr "Clique \"Salvar agora\" para tentar novamente ou \"Baixar\" para salvar"
 
 msgid "Close"
 msgstr "Fechar"
@@ -275,7 +274,7 @@ msgid "Cloud data"
 msgstr "Dados da nuvem"
 
 msgid "Cloud variable (stored on server)"
-msgstr ""
+msgstr "Variável na nuvem (armazenada no servidor)"
 
 msgid "color"
 msgstr "cor"
@@ -335,7 +334,7 @@ msgid "Costumes:"
 msgstr "Fantasias:"
 
 msgid "Could not retrieve new application from server."
-msgstr ""
+msgstr "Não foi possível obter a nova aplicação a partir do servidor."
 
 msgid "Cowbell"
 msgstr "Sino"
@@ -381,7 +380,7 @@ msgid "don't rotate"
 msgstr "não girar"
 
 msgid "Don't save"
-msgstr ""
+msgstr "Não salvar"
 
 msgid "down"
 msgstr "baixo"
@@ -396,7 +395,7 @@ msgid "Download to your computer"
 msgstr "Baixar para o seu computador"
 
 msgid "Downloading new version"
-msgstr ""
+msgstr "Baixando nova versão"
 
 msgid "duplicate"
 msgstr "duplicar"
@@ -435,13 +434,13 @@ msgid "Ellipse"
 msgstr "Elipse"
 
 msgid "empty"
-msgstr ""
+msgstr "vazio"
 
 msgid "Erase"
 msgstr "Apagar"
 
 msgid "Erase all"
-msgstr ""
+msgstr "Apagar tudo"
 
 # 92%
 msgid "Eraser width"
@@ -469,7 +468,7 @@ msgid "fade out"
 msgstr "desaparecer"
 
 msgid "false"
-msgstr ""
+msgstr "falso"
 
 msgid "Fantasy"
 msgstr "Imaginários"
@@ -538,17 +537,16 @@ msgid "Hardware"
 msgstr "Hardware"
 
 msgid "help"
-msgstr ""
+msgstr "ajuda"
 
 msgid "Hello!"
-msgstr ""
+msgstr "Olá!"
 
 msgid "Hmm..."
-msgstr ""
+msgstr "Hmm..."
 
-#, fuzzy
 msgid "hello"
-msgstr "Violoncelo"
+msgstr "olá"
 
 msgid "hide"
 msgstr "esconder"
@@ -557,7 +555,7 @@ msgid "High C"
 msgstr "Dó Alto"
 
 msgid "Holiday"
-msgstr ""
+msgstr "Feriado"
 
 msgid "hour"
 msgstr "hora"
@@ -603,7 +601,7 @@ msgid "length"
 msgstr "tamanho"
 
 msgid "Letters"
-msgstr ""
+msgstr "Letras"
 
 msgid "Library"
 msgstr "Biblioteca"
@@ -673,9 +671,8 @@ msgstr "Nome da mensagem"
 msgid "message1"
 msgstr "mensagem 1"
 
-#, fuzzy
 msgid "Microphone volume:"
-msgstr "Volume do Microfone:"
+msgstr "Volume do microfone:"
 
 msgid "Middle C"
 msgstr "Dó Central"
@@ -738,7 +735,7 @@ msgid "New backdrop:"
 msgstr "Novo pano de fundo:"
 
 msgid "New Block"
-msgstr ""
+msgstr "Novo Bloco"
 
 msgid "New costume from camera"
 msgstr "Usar imagem da câmera como fantasia"
@@ -750,7 +747,7 @@ msgid "New List"
 msgstr "Nova Lista"
 
 msgid "New Message"
-msgstr ""
+msgstr "Nova Mensagem"
 
 msgid "new message..."
 msgstr "nova mensagem..."
@@ -771,7 +768,7 @@ msgid "New Variable"
 msgstr "Nova Variável"
 
 msgid "next backdrop"
-msgstr ""
+msgstr "próximo cenário"
 
 msgid "No motion blocks"
 msgstr "Não há blocos de movimento"
@@ -807,7 +804,7 @@ msgid "on-flipped"
 msgstr "ligado e espelhado"
 
 msgid "Open"
-msgstr ""
+msgstr "Abrir"
 
 msgid "Open Cuica"
 msgstr "Cuíca aberta"
@@ -827,15 +824,14 @@ msgstr "Outro"
 msgid "other scripts in sprite"
 msgstr "outros roteiros do ator"
 
-#, fuzzy
 msgid "other scripts in stage"
-msgstr "outros roteiros do ator"
+msgstr "outros scripts em uso"
 
 msgid "Outdoors"
 msgstr "Exterior"
 
 msgid "Paint new backdrop"
-msgstr "Pintar novo pano de fundo"
+msgstr "Pintar novo cenário"
 
 msgid "Paint new costume"
 msgstr "Pintar nova fantasia"
@@ -844,10 +840,10 @@ msgid "Paint new sprite"
 msgstr "Pintar novo ator"
 
 msgid "Password"
-msgstr ""
+msgstr "Senha"
 
 msgid "Password is required"
-msgstr ""
+msgstr "É necessária uma senha"
 
 msgid "paste"
 msgstr "colar"
@@ -881,7 +877,7 @@ msgid "pop"
 msgstr "saltar"
 
 msgid "previous backdrop"
-msgstr ""
+msgstr "cenário anterior"
 
 msgid "Profile"
 msgstr "Perfil"
@@ -893,10 +889,10 @@ msgid "Project not saved!"
 msgstr "Projeto não salvo!"
 
 msgid "Project name"
-msgstr ""
+msgstr "Nome do projeto"
 
 msgid "Project name is required"
-msgstr ""
+msgstr "É necessário o nome do projeto"
 
 msgid "random"
 msgstr "aleatório"
@@ -908,7 +904,7 @@ msgid "Record new sound"
 msgstr "Gravar novo som"
 
 msgid "record..."
-msgstr ""
+msgstr "gravar..."
 
 msgid "recording1"
 msgstr "gravação 1"
@@ -939,7 +935,7 @@ msgid "rename variable"
 msgstr "renomear variável"
 
 msgid "Replace existing project"
-msgstr ""
+msgstr "Substituir o projeto existente"
 
 msgid "requires sign in"
 msgstr "requer autenticação"
@@ -984,10 +980,10 @@ msgid "Save"
 msgstr "Salvar"
 
 msgid "Save a copy of this project and add your own ideas."
-msgstr ""
+msgstr "Salvar uma cópia deste projeto e adicionar suas próprias ideias."
 
 msgid "Save as"
-msgstr ""
+msgstr "Salvar como"
 
 msgid "Save as a copy"
 msgstr "Salvar como cópia"
@@ -996,7 +992,7 @@ msgid "Save now"
 msgstr "Salvar agora"
 
 msgid "Save project?"
-msgstr ""
+msgstr "Salvar projeto?"
 
 msgid "save to local file"
 msgstr "salvar em arquivo local"
@@ -1014,10 +1010,10 @@ msgid "Saxophone"
 msgstr "Saxofone"
 
 msgid "Scratch Updater"
-msgstr ""
+msgstr "Atualizador do Scratch"
 
 msgid "Scratch 2.0 Offline Editor"
-msgstr ""
+msgstr "Scratch 2.0 Offline Editor"
 
 # 85%
 msgid "Script"
@@ -1067,10 +1063,10 @@ msgid "Share"
 msgstr "Compartilhar"
 
 msgid "Share to website"
-msgstr ""
+msgstr "Compartilhar no site"
 
 msgid "Share to Scratch website"
-msgstr ""
+msgstr "Compartilhar no site Scratch"
 
 msgid "shared"
 msgstr "compartilhado"
@@ -1200,9 +1196,8 @@ msgstr "Pandeiro"
 msgid "tan"
 msgstr "tangente"
 
-#, fuzzy
 msgid "text"
-msgstr "Texto"
+msgstr "texto"
 
 msgid "Text"
 msgstr "Texto"
@@ -1211,10 +1206,12 @@ msgid "that way"
 msgstr "por aí"
 
 msgid "The name is already in use."
-msgstr ""
+msgstr "O nome já está em uso."
 
 msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
 msgstr ""
+"O carregamento do projeto falhou e a equipe Scratch foi avisada. Clique em "
+"OK para sair desta página."
 
 msgid "Theme"
 msgstr "Tema"
@@ -1223,14 +1220,14 @@ msgid "Things"
 msgstr "Coisas"
 
 msgid "thing"
-msgstr ""
+msgstr "coisa"
 
 msgid "This is the current version."
-msgstr ""
+msgstr "Esta é a versão atual."
 
 msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
 msgstr ""
-"Este projeto pode detectar quem está usando-o através do bloco \"nome de "
+"Este projeto pode detectar quem está usando-o por meio do bloco \"nome de "
 "usuário\". Para esconder sua identidade, saia antes de usar este projeto."
 
 msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
@@ -1271,7 +1268,7 @@ msgid "Trombone"
 msgstr "Trombone"
 
 msgid "true"
-msgstr ""
+msgstr "verdadeiro"
 
 # 90%
 msgid "Turbo mode"
@@ -1313,13 +1310,13 @@ msgid "up arrow"
 msgstr "seta para cima"
 
 msgid "Update failed"
-msgstr ""
+msgstr "Falha na atualização"
 
 msgid "Update not needed"
-msgstr ""
+msgstr "A atualização não é necessária"
 
 msgid "Update now"
-msgstr ""
+msgstr "Atualizar"
 
 msgid "Upload backdrop from file"
 msgstr "Carregar cenário a partir de arquivo"
@@ -1364,7 +1361,7 @@ msgid "Vibraslap"
 msgstr "Vibraslap"
 
 msgid "video direction"
-msgstr ""
+msgstr "direção do vídeo"
 
 msgid "video motion"
 msgstr "movimento do vídeo"
@@ -1388,7 +1385,7 @@ msgid "Which column do you want to import"
 msgstr "Que coluna quer importar"
 
 msgid "What's your name?"
-msgstr ""
+msgstr "Qual é o seu nome?"
 
 msgid "whirl"
 msgstr "rodamoinho"
@@ -1400,7 +1397,7 @@ msgid "Wooden Flute"
 msgstr "Flauta de Madeira"
 
 msgid "world"
-msgstr ""
+msgstr "mundo"
 
 msgid "x position"
 msgstr "coordenada x da posição"
@@ -1417,10 +1414,10 @@ msgstr ""
 "Qualquer alteração que faça no editor será temporária e não persistente."
 
 msgid "Your Scratch name"
-msgstr ""
+msgstr "Seu nome Scratch"
 
 msgid "Your Scratch name is required"
-msgstr ""
+msgstr "Seu nome Scratch é necessário"
 
 msgid ""
 "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "

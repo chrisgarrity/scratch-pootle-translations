@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-12-09 03:07+0000\n"
-"Last-Translator: Claudia <CALLA@media.mit.edu>\n"
+"PO-Revision-Date: 2015-02-11 05:56+0000\n"
+"Last-Translator: P7285 <p7285@outlook.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1418094436.000000\n"
+"X-POOTLE-MTIME: 1423634188.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -111,7 +111,7 @@ msgid "create clone of %m.spriteOnly"
 msgstr "crear clon de %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
-msgstr "%m.timeAndDate de ahora"
+msgstr "%m.timeAndDate actual"
 
 msgid "Data"
 msgstr "Datos"
@@ -450,10 +450,10 @@ msgid "when %m.key key pressed"
 msgstr "al presionar tecla %m.key"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr "when %m.sensor %m.lessMore %n"
+msgstr "cuando %m.sensor sea %m.lessMore %n"
 
 msgid "when %m.triggerSensor > %n"
-msgstr "cuando el %m.triggerSensor sea > %n"
+msgstr "cuando %m.triggerSensor sea > %n"
 
 msgid "when @greenFlag clicked"
 msgstr "al presionar @greenFlag"
@@ -463,13 +463,13 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "cuando el fondo cambie a %m.backdrop"
 
 msgid "when distance %m.lessMore %n"
-msgstr "cuando distancia %m.lessMore %n"
+msgstr "cuando la distancia sea %m.lessMore %n"
 
 msgid "when I receive %m.broadcast"
 msgstr "al recibir %m.broadcast"
 
 msgid "when I start as a clone"
-msgstr "cuando comience como clon"
+msgstr "al comenzar como clon"
 
 msgid "when Stage clicked"
 msgstr "al presionar escenario"
@@ -563,7 +563,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2014-12-09 03:30+0000\n"
+"PO-Revision-Date: 2015-02-11 05:51+0000\n"
 "Last-Translator: Claudia <CALLA@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
@@ -572,7 +572,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1418095859.000000\n"
+"X-POOTLE-MTIME: 1423633893.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -679,7 +679,7 @@ msgid "backdrop #"
 msgstr "# de fondo"
 
 msgid "Backdrop Library"
-msgstr "Biblioteca de fondos"
+msgstr "Biblioteca de Fondos"
 
 msgid "backdrop name"
 msgstr "nombre de fondo"
@@ -786,16 +786,16 @@ msgid "Choir"
 msgstr "Coro"
 
 msgid "Choose backdrop from library"
-msgstr "Elegir un fondo desde la biblioteca"
+msgstr "Selecciona un fondo de la biblioteca"
 
 msgid "Choose costume from library"
-msgstr "Elegir un disfraz desde la biblioteca"
+msgstr "Selecciona un disfraz de la biblioteca"
 
 msgid "Choose sound from library"
-msgstr "Elegir un sonido desde la biblioteca"
+msgstr "Selecciona un sonido de la biblioteca"
 
 msgid "Choose sprite from library"
-msgstr "Elegir un objeto desde la biblioteca"
+msgstr "Selecciona un objeto de la biblioteca"
 
 msgid "Circle"
 msgstr "Círculo"
@@ -941,7 +941,7 @@ msgid "don't rotate"
 msgstr "no rotar"
 
 msgid "Don't save"
-msgstr "No guarde"
+msgstr "No guardar"
 
 msgid "down"
 msgstr "abajo"
@@ -995,7 +995,7 @@ msgid "Ellipse"
 msgstr "Elipse"
 
 msgid "empty"
-msgstr "vacío"
+msgstr "vacío"
 
 msgid "Erase"
 msgstr "Borrar"
@@ -1005,7 +1005,7 @@ msgstr "Borrar todo"
 
 # 92%
 msgid "Eraser width"
-msgstr "Grosor del borrador"
+msgstr "Ancho del borrador"
 
 msgid "Error!"
 msgstr "Error!"
@@ -1113,7 +1113,7 @@ msgid "hide"
 msgstr "esconder"
 
 msgid "High C"
-msgstr "Do Alto"
+msgstr "Alto C"
 
 msgid "Holiday"
 msgstr "Celebración"
@@ -1191,7 +1191,7 @@ msgid "List name"
 msgstr "Nombre de la lista"
 
 msgid "ln"
-msgstr "ln"
+msgstr "En"
 
 msgid "Loading project..."
 msgstr "Cargando proyecto..."
@@ -1206,7 +1206,7 @@ msgid "loudness"
 msgstr "intensidad del sonido"
 
 msgid "Low C"
-msgstr "Do Bajo"
+msgstr "Bajo C"
 
 msgid "Make a Block"
 msgstr "Crear un bloque"
@@ -1235,6 +1235,7 @@ msgstr "mensaje1"
 msgid "Microphone volume:"
 msgstr "Volumen del micrófono:"
 
+#, fuzzy
 msgid "Middle C"
 msgstr "Do Central"
 
@@ -1280,8 +1281,9 @@ msgstr "Bucles de música"
 msgid "My Stuff"
 msgstr "Mis Cosas"
 
+#, fuzzy
 msgid "myself"
-msgstr "este objeto"
+msgstr "yo"
 
 msgid "Nature"
 msgstr "Naturaleza"
@@ -1290,7 +1292,7 @@ msgid "New"
 msgstr "Nuevo"
 
 msgid "New backdrop from camera"
-msgstr "Nuevo fondo desde cámara"
+msgstr "Nuevo fondo de cámara"
 
 msgid "New backdrop:"
 msgstr "Fondo nuevo:"
@@ -1317,7 +1319,7 @@ msgid "New name"
 msgstr "Nombre nuevo"
 
 msgid "New sound:"
-msgstr "Sonido nuevo"
+msgstr "Sonido nuevo:"
 
 msgid "New sprite from camera"
 msgstr "Nuevo objeto desde cámara"
@@ -1387,7 +1389,7 @@ msgid "other scripts in sprite"
 msgstr "otros programas en el objeto"
 
 msgid "other scripts in stage"
-msgstr "otros programas en escenario"
+msgstr "otros programas en el escenario"
 
 msgid "Outdoors"
 msgstr "Exteriores"
@@ -1396,7 +1398,7 @@ msgid "Paint new backdrop"
 msgstr "Dibujar nuevo fondo"
 
 msgid "Paint new costume"
-msgstr "Dibujar nuevo disfraz"
+msgstr "Pintar nuevo disfraz"
 
 msgid "Paint new sprite"
 msgstr "Dibujar nuevo objeto"
@@ -1444,7 +1446,7 @@ msgid "Profile"
 msgstr "Perfil"
 
 msgid "Project did not load."
-msgstr "El proyecto no se cargó"
+msgstr "El proyecto no se cargó."
 
 msgid "Project not saved!"
 msgstr "¡Proyecto no guardado!"
@@ -1495,7 +1497,7 @@ msgid "rename variable"
 msgstr "renombrar variable"
 
 msgid "Replace existing project"
-msgstr "Reemplazar proyecto"
+msgstr "Reemplazar proyecto existente"
 
 msgid "requires sign in"
 msgstr "requiere ingresar"
@@ -1629,6 +1631,7 @@ msgstr "Compartir al sitio web de Scratch"
 msgid "shared"
 msgstr "compartido"
 
+#, fuzzy
 msgid "Shift:"
 msgstr "Alternar:"
 
@@ -1977,10 +1980,11 @@ msgid ""
 "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
 "For more info, <a href= target=>see the cloud data FAQ!</a>"
 msgstr ""
-"<b>Información sobre variables de nube</b><br>&nbsp;<br>Ahora, sólo se "
-"pueden utilizar números<br>No se permiten las salas de chat; serán "
+"<b>Información sobre variables de nube</b><br>&nbsp;<br>Actualmente, sólo se "
+"pueden utilizar números<br>No se permiten las salas de chat; y serán "
 "removidas<br>Para más información, <a href=\"/help/faq/#clouddata\" target=\""
-"_blank\">revisa las preguntas sobre información de la nube!</a>"
+"_blank\"> ¡revisa las preguntas más frecuentes sobre información de la "
+"nube!</a>"
 
 msgid "Click  to try again or  to save"
 msgstr ""

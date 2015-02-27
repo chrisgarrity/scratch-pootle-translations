@@ -546,8 +546,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2014-11-23 17:24+0000\n"
-"Last-Translator: Viki <only.hello@outlook.com>\n"
+"PO-Revision-Date: 2015-01-31 16:29+0000\n"
+"Last-Translator: Linda <lfahlberg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: mk\n"
 "MIME-Version: 1.0\n"
@@ -555,7 +555,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n==1 || n%10==1 ? 0 : 1;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1416763491.000000\n"
+"X-POOTLE-MTIME: 1422721770.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -1476,7 +1476,7 @@ msgid "rename variable"
 msgstr "преименувај променлива"
 
 msgid "Replace existing project"
-msgstr ""
+msgstr "Замени го постоечкиот проект"
 
 msgid "requires sign in"
 msgstr "потребна е најава"
@@ -1739,7 +1739,6 @@ msgstr "Текст"
 msgid "that way"
 msgstr "на тој начин"
 
-#, fuzzy
 msgid "The name is already in use."
 msgstr "Името е веќе во употреба."
 
@@ -1772,7 +1771,7 @@ msgstr ""
 "најавените корисници."
 
 msgid "this script"
-msgstr "оваа фигура"
+msgstr "оваа скрипта"
 
 msgid "this sprite"
 msgstr "оваа фигура"
@@ -1787,7 +1786,7 @@ msgid "timer"
 msgstr "одбројувач"
 
 msgid "Tips"
-msgstr "Заклучоци"
+msgstr "Совети"
 
 msgid "To delete a block definition, first remove all uses of the block."
 msgstr "За да избришете блок, најпрво одстранете ги сите корисници на блокот."
@@ -1805,7 +1804,7 @@ msgid "true"
 msgstr "Точно"
 
 msgid "Turbo mode"
-msgstr "Турбо вид"
+msgstr "Турбо режим"
 
 msgid "Turbo Mode"
 msgstr "Турбо Вид"
@@ -1834,7 +1833,7 @@ msgid "Ungroup"
 msgstr "Одгрупирај"
 
 msgid "unshared"
-msgstr "Не споделувај"
+msgstr "несподелен"
 
 msgid "up"
 msgstr "горе"
@@ -1855,25 +1854,25 @@ msgid "Upload backdrop from file"
 msgstr "Внеси позадина од папка"
 
 msgid "Upload costume from file"
-msgstr "Внеси маска од папка"
+msgstr "Подигни маска од папка"
 
 msgid "Upload from your computer"
-msgstr "Внеси од компјутер"
+msgstr "Подигни од компјутер"
 
 msgid "Upload sound from file"
-msgstr "Внеси звук од папка"
+msgstr "Подигни звук од папка"
 
 msgid "Upload sprite from file"
-msgstr "Внеси фигура од папка"
+msgstr "Подигни фигура од папка"
 
 msgid "Uploading image..."
-msgstr "Внесување слика..."
+msgstr "Се подигнува сликата..."
 
 msgid "Uploading sound..."
-msgstr "Внесување звук..."
+msgstr "Се подигнува звукот..."
 
 msgid "Uploading sprite..."
-msgstr "Внесување фигура..."
+msgstr "Се подигнува фигурата..."
 
 msgid "variable"
 msgstr "променлива"
@@ -1885,7 +1884,7 @@ msgid "Vector"
 msgstr "Вектор"
 
 msgid "Vector Mode"
-msgstr "Вид вектор"
+msgstr "Векторски режим"
 
 msgid "Vibraphone"
 msgstr "Вибрафон-12"
@@ -1894,7 +1893,7 @@ msgid "Vibraslap"
 msgstr "Самар-58п"
 
 msgid "video direction"
-msgstr "Насока за видеото"
+msgstr "насока за видеото"
 
 msgid "video motion"
 msgstr "движење на видео"

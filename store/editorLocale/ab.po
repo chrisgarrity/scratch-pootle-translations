@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-11-29 17:26+0000\n"
+"PO-Revision-Date: 2014-12-19 14:13+0000\n"
 "Last-Translator: aabuchba <aabuchba@mail.ru>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ab\n"
@@ -11,11 +11,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1417282018.000000\n"
+"X-POOTLE-MTIME: 1418998414.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
-msgstr "Аҧсшәа (Абхазский)"
+msgstr "Аҧсшәа"
 
 msgid "%b and %b"
 msgstr "%b и %b"
@@ -197,7 +197,7 @@ msgid "letter %n of %s"
 msgstr "анбан %n %s аҟны"
 
 msgid "Looks"
-msgstr "аҧшра-асахьа"
+msgstr "Аҧшра-асахьа"
 
 msgid "loudness"
 msgstr "абжьы аҳаракыра"
@@ -234,7 +234,7 @@ msgid "Operators"
 msgstr "Аоператорқәа"
 
 msgid "Pen"
-msgstr "акалам"
+msgstr "Акалам"
 
 msgid "pen down"
 msgstr "акалам лашьҭтәуп"
@@ -276,7 +276,7 @@ msgid "reset timer"
 msgstr "аамҭарбага ҿыц идәықәҵатәуп"
 
 msgid "rest for %n beats"
-msgstr "иҧштәуп %n тактк"
+msgstr "иҧштәуп %n тақтк"
 
 msgid "round %n"
 msgstr "ихаргежьтәуп %n"
@@ -459,10 +459,10 @@ msgid "when I start as a clone"
 msgstr "аиҧш еиҧш саналаго"
 
 msgid "when Stage clicked"
-msgstr "Асцена ианақәыгәгәуалакь"
+msgstr "Асцена ианақәыӷәӷәуалакь"
 
 msgid "when this sprite clicked"
-msgstr "анагӡаҩ ианақәыгәгәуалакь"
+msgstr "анагӡаҩ ианақәыӷәӷәуалакь"
 
 msgid "when tilt %m.eNe %n"
 msgstr "анаара %m.eNe %n анакәу"
@@ -502,7 +502,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2014-11-29 19:10+0000\n"
+"PO-Revision-Date: 2015-01-21 19:16+0000\n"
 "Last-Translator: aabuchba <aabuchba@mail.ru>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ab\n"
@@ -510,7 +510,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1417288237.000000\n"
+"X-POOTLE-MTIME: 1421867767.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -718,7 +718,7 @@ msgid "Cello"
 msgstr "Авиолончель"
 
 msgid "Check for updates"
-msgstr "Арҿыцраз"
+msgstr "Аверсиа арҿыцра"
 
 msgid "Choir"
 msgstr "Ахор"
@@ -928,7 +928,7 @@ msgid "Electronic"
 msgstr "Аелектроника"
 
 msgid "Ellipse"
-msgstr "Аелипс"
+msgstr "Аеллипс"
 
 msgid "empty"
 msgstr "Иҭацәуп"
@@ -976,7 +976,7 @@ msgid "File"
 msgstr "Афаил"
 
 msgid "Fill with color"
-msgstr "Иҭырҭаатәуп ҧшшәыла"
+msgstr "Иҭырҭәаатәуп ҧшшәыла"
 
 msgid "fisheye"
 msgstr "аҧсыӡ абла"
@@ -1402,7 +1402,7 @@ msgid "recording1"
 msgstr "Аҭаҩра1"
 
 msgid "Rectangle"
-msgstr "Акуакьҭаиаша"
+msgstr "Акәакьҭаиаша"
 
 msgid "Redo"
 msgstr "Архынҳәра ҧхьаҟа"
@@ -1468,7 +1468,7 @@ msgid "Run without screen refresh"
 msgstr "Идәықәҵатәуп аекран арҿыцрада"
 
 msgid "Save"
-msgstr "Иеиқәрхатәуп"
+msgstr "Иеиқәырхатәуп"
 
 msgid "Save a copy of this project and add your own ideas."
 msgstr "Иеқәшәырха абри апроеқт акопиа,  нас иацышәҵала шәара шгәаанагарақәа."
@@ -1477,19 +1477,19 @@ msgid "Save as"
 msgstr "Иеиқәырхатәуп иаба (ишҧа)"
 
 msgid "Save as a copy"
-msgstr "Иеиқәрхатәуп акопиа ҳасабла"
+msgstr "Иеиқәырхатәуп акопиа ҳасабла"
 
 msgid "Save now"
-msgstr "Иеиқәрхатәуп абыржәы"
+msgstr "Иеиқәырхатәуп абыржәы"
 
 msgid "Save project?"
 msgstr "Апроеқт еиқәырхатәума?"
 
 msgid "save to local file"
-msgstr "иеиқәрхатәуп алокалтә фаил"
+msgstr "иеиқәырхатәуп алокалтә фаил"
 
 msgid "Saved"
-msgstr "Иеиқәрхоуп"
+msgstr "Иеиқәырхоуп"
 
 msgid "Saving changes..."
 msgstr "Аҧсахрақәа реиқәрхара..."
@@ -1878,10 +1878,10 @@ msgid "world"
 msgstr "аҭынчра"
 
 msgid "x position"
-msgstr "аҭыҧ x ахырхарҭахь"
+msgstr "x аҭыҧ"
 
 msgid "y position"
-msgstr "аҭыҧ у ахырхарҭахь"
+msgstr "у аҭыҧ"
 
 msgid "year"
 msgstr "ашықәс"

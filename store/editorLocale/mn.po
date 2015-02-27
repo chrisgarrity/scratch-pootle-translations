@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-07-10 22:52+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
+"PO-Revision-Date: 2015-01-13 14:10+0000\n"
+"Last-Translator: mungunbayar <mungunbayar@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: mn\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1405032756.000000\n"
+"X-POOTLE-MTIME: 1421158222.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -55,7 +55,7 @@ msgstr "# дэвсгэр"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr ""
+msgstr "дэвсгэрийн нэр"
 
 msgid "broadcast %m.broadcast"
 msgstr "%m.broadcast -г дууд"
@@ -118,16 +118,16 @@ msgid "Data"
 msgstr ""
 
 msgid "days since 2000"
-msgstr ""
+msgstr "2000 оноос хойш өнгөрсөн өдрийн тоо"
 
 msgid "define"
-msgstr ""
+msgstr "Тодорхойл"
 
 msgid "delete %d.listDeleteItem of %m.list"
 msgstr "%m.list-н %d.listDeleteItem-г устга "
 
 msgid "delete this clone"
-msgstr ""
+msgstr "Энэ хуулбарыг устга"
 
 msgid "direction"
 msgstr "чиглэл"
@@ -431,7 +431,7 @@ msgid "turn video %m.videoState"
 msgstr ""
 
 msgid "username"
-msgstr ""
+msgstr "Хэрэглэгчийн нэр"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
 msgstr ""
@@ -501,10 +501,10 @@ msgid "set motor power %n"
 msgstr "хөдөлгүүр %n чадалтай"
 
 msgid "turn motor off"
-msgstr ""
+msgstr "Хөдөлгүүрийг унтраа"
 
 msgid "turn motor on"
-msgstr ""
+msgstr "Хөдөлгүүрийг асаа"
 
 # 80%
 #, fuzzy
@@ -555,8 +555,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2014-11-25 05:21+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
+"PO-Revision-Date: 2015-01-13 14:24+0000\n"
+"Last-Translator: bulgantamir_n <aruulus.nbt@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: mn\n"
 "MIME-Version: 1.0\n"
@@ -564,7 +564,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1416892868.000000\n"
+"X-POOTLE-MTIME: 1421159052.000000\n"
 
 msgid "10 ^"
 msgstr ""
@@ -573,55 +573,55 @@ msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only num
 msgstr ""
 
 msgid "A connected"
-msgstr ""
+msgstr "Холбогдлоо"
 
 msgid "a copy of the project file on your computer."
-msgstr ""
+msgstr "Таны компьютер дэх төслийн хуулбар"
 
 msgid "A newer version of Scratch is available"
-msgstr ""
+msgstr "Cкрэчийн шинэ хувилбар бэлэн болсон байна"
 
 msgid "About"
-msgstr ""
+msgstr "Тухай"
 
 msgid "About LEGO WeDo extension..."
-msgstr ""
+msgstr "LEGO WeDo өргөтгөлийн тухай..."
 
 msgid "About PicoBoard extension..."
-msgstr ""
+msgstr "PicoBoard өргөтгөлийн тухай..."
 
 msgid "abs"
 msgstr "abs"
 
 msgid "Account settings"
-msgstr ""
+msgstr "Хэрэглэгчийн тохиргоо"
 
 msgid "acos"
 msgstr ""
 
 msgid "Add"
-msgstr ""
+msgstr "Нэмэх"
 
 msgid "Add an Extension"
-msgstr ""
+msgstr "Өргөтгөлийг нэмэх"
 
 msgid "Add boolean input:"
 msgstr ""
 
 msgid "add comment"
-msgstr ""
+msgstr "Санал, сэтгэгдэл, тайлбараа нэмэрлэх"
 
 msgid "add comment here..."
-msgstr ""
+msgstr "Санал, сэтгэгдэл, тайлбараа энд бичих"
 
 msgid "Add label text:"
 msgstr ""
 
 msgid "Add number input:"
-msgstr ""
+msgstr "Тоон утга оруулах:"
 
 msgid "Add string input:"
-msgstr ""
+msgstr "Мөрд утга оруулах:"
 
 msgid "all"
 msgstr "бүгд"
@@ -657,13 +657,13 @@ msgid "Back a layer"
 msgstr ""
 
 msgid "backdrop"
-msgstr ""
+msgstr "дэвсгэр"
 
 msgid "Backdrop"
-msgstr ""
+msgstr "Дэвсгэр"
 
 msgid "backdrop #"
-msgstr ""
+msgstr "# дэвсгэр"
 
 msgid "Backdrop Library"
 msgstr ""
@@ -675,10 +675,10 @@ msgid "backdrop1"
 msgstr ""
 
 msgid "backdrops"
-msgstr ""
+msgstr "дэвсгэрүүд"
 
 msgid "Backdrops"
-msgstr ""
+msgstr "Дэвсгэрүүд"
 
 msgid "Backpack"
 msgstr ""

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-04-23 15:58+0000\n"
+"PO-Revision-Date: 2015-02-09 15:10+0000\n"
 "Last-Translator: Michal <mpraznovsky@zsvycapy.edu.sk>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sk\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1398268690.000000\n"
+"X-POOTLE-MTIME: 1423494658.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -307,9 +307,8 @@ msgstr "nastav nástroj na %d.instrument"
 # 89%
 # 86%
 # 97%
-#, fuzzy
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "nastav smer %m.motor na %m.motorDirection"
+msgstr "nastav smer %m.motor2 na %m.motorDirection"
 
 # 77%
 # 75%
@@ -463,7 +462,7 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "ak sa pozadie zmení na %m.backdrop"
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
+msgstr "ak vzdialenosť%m.lessMore %n"
 
 msgid "when I receive %m.broadcast"
 msgstr "po prijatí správy %m.broadcast"
@@ -478,7 +477,7 @@ msgid "when this sprite clicked"
 msgstr "po kliknutí na mňa"
 
 msgid "when tilt %m.eNe %n"
-msgstr ""
+msgstr "pri naklonení %m.eNe %n"
 
 msgid "x position"
 msgstr "pozícia x"
@@ -547,8 +546,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2014-04-23 15:55+0000\n"
-"Last-Translator: Michal <mpraznovsky@zsvycapy.edu.sk>\n"
+"PO-Revision-Date: 2015-02-09 15:15+0000\n"
+"Last-Translator: etki <etkinator@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
@@ -556,7 +555,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1398268518.000000\n"
+"X-POOTLE-MTIME: 1423494938.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -577,13 +576,13 @@ msgid "A newer version of Scratch is available"
 msgstr ""
 
 msgid "About"
-msgstr ""
+msgstr "O"
 
 msgid "About LEGO WeDo extension..."
-msgstr ""
+msgstr "O LEGO WeDo rozšírení..."
 
 msgid "About PicoBoard extension..."
-msgstr ""
+msgstr "O PicoBoard rozšírení..."
 
 msgid "abs"
 msgstr "abs"
@@ -598,7 +597,7 @@ msgid "Add"
 msgstr ""
 
 msgid "Add an Extension"
-msgstr ""
+msgstr "Pridaj rozšírenie"
 
 msgid "Add boolean input:"
 msgstr "Pridať logický parameter:"
@@ -628,7 +627,7 @@ msgid "all around"
 msgstr "dokola"
 
 msgid "all motors"
-msgstr ""
+msgstr "všetky motory"
 
 msgid "Animal"
 msgstr "Zviera"
@@ -1033,7 +1032,7 @@ msgid "Flip up-down"
 msgstr "Preklopiť zhora dole"
 
 msgid "floor"
-msgstr "zaokruhli"
+msgstr "zaokrúhli nadol"
 
 msgid "Flute"
 msgstr "Flauta"
@@ -1189,7 +1188,7 @@ msgid "loudness"
 msgstr "hlasitosť"
 
 msgid "Low C"
-msgstr ""
+msgstr "Malé C"
 
 msgid "Make a Block"
 msgstr "Vytvoriť blok"
@@ -1615,7 +1614,7 @@ msgid "Shift:"
 msgstr "Shift:"
 
 msgid "show"
-msgstr "ukázať"
+msgstr "ukáž sa"
 
 msgid "show receivers"
 msgstr "ukáž príjemcu"
@@ -1682,7 +1681,7 @@ msgstr "Zvuky"
 
 # 80%
 msgid "Space"
-msgstr "Medzerník"
+msgstr "Vesmír"
 
 msgid "space"
 msgstr "medzerník"
@@ -1883,7 +1882,7 @@ msgid "Variable name"
 msgstr "Meno premennej"
 
 msgid "Vector"
-msgstr "Vektor"
+msgstr "Vektorový"
 
 msgid "Vector Mode"
 msgstr "Vektorový režim"

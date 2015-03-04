@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2013-05-23 05:01+0000\n"
-"Last-Translator: alanmao <alanmao222@yahoo.com.cn>\n"
+"PO-Revision-Date: 2015-03-02 15:40+0000\n"
+"Last-Translator: Percent_Lee <1515368048@qq.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_CN\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1369285283.000000\n"
+"X-POOTLE-MTIME: 1425310816.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -180,10 +180,10 @@ msgid "insert %s at %d.listItem of %m.list"
 msgstr "插入: %s 位置: %d.listItem 到链表: %m.list "
 
 msgid "item %d.listItem of %m.list"
-msgstr "第 %d.listItem 项 %m.list"
+msgstr "链表 %m.list 的第 %d.listItem 项"
 
 msgid "join %s %s"
-msgstr "将 %s 加到 %s 的后面"
+msgstr "连接 %s %s"
 
 msgid "key %m.key pressed?"
 msgstr "按键 %m.key 是否按下？"
@@ -210,7 +210,7 @@ msgid "Motion"
 msgstr "动作"
 
 msgid "mouse down?"
-msgstr "鼠标下移？"
+msgstr "鼠标按下？"
 
 msgid "mouse x"
 msgstr "鼠标的x坐标"
@@ -418,9 +418,8 @@ msgid "turn %m.motor off"
 msgstr "关闭马达"
 
 # 81%
-#, fuzzy
 msgid "turn %m.motor on"
-msgstr "开启马达"
+msgstr "开启马达 %m.motor"
 
 # 80%
 # 89%
@@ -454,7 +453,7 @@ msgid "when %m.key key pressed"
 msgstr "当按下 %m.key"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr ""
+msgstr "当 %m.sensor %m.lessMore %n"
 
 msgid "when %m.triggerSensor > %n"
 msgstr "当 %m.triggerSensor > %n"
@@ -467,7 +466,7 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "当背景切换到 %m.backdrop"
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
+msgstr "当 距离 %m.lessMore %n"
 
 msgid "when I receive %m.broadcast"
 msgstr "当接收到 %m.broadcast"
@@ -476,7 +475,7 @@ msgid "when I start as a clone"
 msgstr "当作为克隆体启动时"
 
 msgid "when Stage clicked"
-msgstr ""
+msgstr "当舞台被点击时"
 
 msgid "when this sprite clicked"
 msgstr "当角色被点击时"

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-02-26 19:49+0000\n"
+"PO-Revision-Date: 2015-03-01 05:56+0000\n"
 "Last-Translator: sayamindu <sayamindu@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bn_IN\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1424980184.000000\n"
+"X-POOTLE-MTIME: 1425189419.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -183,22 +183,22 @@ msgid "item %d.listItem of %m.list"
 msgstr ""
 
 msgid "join %s %s"
-msgstr ""
+msgstr "%s আর %s যোগ কর"
 
 msgid "key %m.key pressed?"
 msgstr "%m.key বোতাম চাপা হয়েছে?"
 
 msgid "length of %m.list"
-msgstr ""
+msgstr "%m.list-এর দৈর্ঘ"
 
 msgid "length of %s"
-msgstr ""
+msgstr "%s-এর দৈর্ঘ"
 
 msgid "letter %n of %s"
-msgstr ""
+msgstr "%s-এর %n নম্বর অক্ষর"
 
 msgid "Looks"
-msgstr ""
+msgstr "চেহারা"
 
 msgid "loudness"
 msgstr ""
@@ -232,10 +232,10 @@ msgid "not %b"
 msgstr "%b নয়"
 
 msgid "Operators"
-msgstr ""
+msgstr "অপারেটরগুলো"
 
 msgid "Pen"
-msgstr ""
+msgstr "কলম"
 
 msgid "pen down"
 msgstr ""
@@ -253,13 +253,13 @@ msgid "play note %d.note for %n beats"
 msgstr ""
 
 msgid "play sound %m.sound"
-msgstr ""
+msgstr "%m.sound আওয়াজ কর"
 
 msgid "play sound %m.sound until done"
 msgstr ""
 
 msgid "point in direction %d.direction"
-msgstr ""
+msgstr "%d.direction দিকে মুখ ফেরাও"
 
 msgid "point towards %m.spriteOrMouse"
 msgstr ""
@@ -268,7 +268,7 @@ msgid "repeat %n"
 msgstr "%nবার পুনরাবৃত্তি কর "
 
 msgid "repeat until %b"
-msgstr ""
+msgstr "%b অবধি পুনরাবৃত্তি কর"
 
 msgid "replace item %d.listItem of %m.list with %s"
 msgstr ""

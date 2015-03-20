@@ -1,5 +1,7 @@
+#, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
@@ -13,6 +15,20 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1412671835.000000\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
+"PO-Revision-Date: 2015-02-08 08:59+0000\n"
+"Last-Translator: Torbjorn <torbjorn.skauli@ffi.no>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: nb\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1423385971.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -48,13 +64,25 @@ msgstr "svar"
 msgid "ask %s and wait"
 msgstr "spør %s og vent"
 
+# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
 msgid "backdrop #"
-msgstr "bakgrunn #"
+msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"bakgrunn #\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"bakgrunn nr."
 
+# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
 msgid "backdrop name"
-msgstr "navn på bakgrunn"
+msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"navn på bakgrunn\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"bakgrunnsnavn"
 
 msgid "broadcast %m.broadcast"
 msgstr "send melding %m.broadcast"
@@ -104,8 +132,13 @@ msgstr "farge %c berører %c?"
 msgid "Control"
 msgstr "Styring"
 
+#, fuzzy
 msgid "costume #"
-msgstr "drakt #"
+msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"drakt #\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"drakt nr."
 
 msgid "create clone of %m.spriteOnly"
 msgstr "lag klon av %m.spriteOnly"
@@ -200,8 +233,13 @@ msgstr "bokstav %n i %s"
 msgid "Looks"
 msgstr "Utseende"
 
+#, fuzzy
 msgid "loudness"
-msgstr "volum"
+msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"volum\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"lydstyrke"
 
 msgid "More Blocks"
 msgstr "Flere klosser"
@@ -221,6 +259,7 @@ msgstr "mus y"
 msgid "move %n steps"
 msgstr "gå %n steg"
 
+# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "next backdrop"
 msgstr "neste bakgrunn"
@@ -360,6 +399,8 @@ msgstr "vis variablen %m.var"
 msgid "size"
 msgstr "størrelse"
 
+# #-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#
+# 80%
 msgid "Sound"
 msgstr "Lyd"
 
@@ -395,8 +436,13 @@ msgstr "tenk %s i %n sekunder"
 msgid "tilt"
 msgstr "helning"
 
+#, fuzzy
 msgid "timer"
-msgstr "klokke"
+msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"klokke\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"tid"
 
 msgid "touching %m.touching?"
 msgstr "berører %m.touching?"
@@ -510,83 +556,14 @@ msgstr "når avstand < %n"
 msgid "when tilt = %n"
 msgstr "når helning = %n"
 
-# 89%
-# 86%
-#, fuzzy
-#~ msgid "set %m.motor direction to %m.motorDirection"
-#~ msgstr "dreieretning %m.motorDirection"
-
-#~ msgid "user name"
-#~ msgstr "brukernavn"
-
-#~ msgid "user id"
-#~ msgstr "brukernavn"
-
-#~ msgid "clone startup"
-#~ msgstr "start klon"
-
-#~ msgid "forever if %b"
-#~ msgstr "for alltid hvis %b"
-
-#~ msgid "hide all sprites"
-#~ msgstr "skjul alle figurer"
-
-#~ msgid "if %b"
-#~ msgstr "hvis %b"
-
-#~ msgid "Scratch days"
-#~ msgstr "Scratch-dager"
-
-#~ msgid "hide monitor %m.varOrList"
-#~ msgstr "skjul verdi %m.varOrList"
-
-#~ msgid "motor direction %m.motorDirection"
-#~ msgstr "dreieretning %m.motorDirection"
-
-#~ msgid "motor off"
-#~ msgstr "motor av"
-
-#~ msgid "motor on"
-#~ msgstr "motor på"
-
-#~ msgid "motor on for %n secs"
-#~ msgstr "motor på i %n sekunder"
-
-#~ msgid "motor power %n"
-#~ msgstr "motorkraft %n"
-
-#~ msgid "play note %n for %n beats"
-#~ msgstr "spill tone %d.note i %n takter"
-
-#~ msgid "show monitor %m.varOrList"
-#~ msgstr "vis verdi %m.varOrList"
-
-#~ msgid "when I am clicked"
-#~ msgstr "når jeg klikkes"
-
-##################
-# User Interface #
-##################
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-02-08 08:59+0000\n"
-"Last-Translator: Torbjorn <torbjorn.skauli@ffi.no>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: nb\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1423385971.000000\n"
-
 msgid "10 ^"
 msgstr "10 ^"
 
-msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank"
+"\">see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Informasjon om nettdata</b><br>&nbsp;<br>Inntil videre er det bare mulig "
 "å lagre tall<br>Chat-funksjoner er ikke tillatt og vil bli slettet<br>For "
@@ -688,14 +665,8 @@ msgstr "bakgrunn"
 msgid "Backdrop"
 msgstr "Bakgrunn"
 
-msgid "backdrop #"
-msgstr "bakgrunn nr."
-
 msgid "Backdrop Library"
 msgstr "Bakgrunner i biblioteket"
-
-msgid "backdrop name"
-msgstr "bakgrunnsnavn"
 
 msgid "backdrop1"
 msgstr "bakgrunn1"
@@ -720,7 +691,10 @@ msgstr "Stortromme"
 msgid "Bassoon"
 msgstr "Fagott"
 
-msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgid ""
+"Because you have a new Scratch account, any changes to cloud data won't be "
+"saved yet. Keep participating on the site you'll be able to use cloud data "
+"soon!"
 msgstr ""
 "Fordi du har en ny Scratch-konto vil ikke endringer i nettdata bli lagret. "
 "Fortsetter du å bruke nettstedet får du snart muligheten til å lagre data."
@@ -833,7 +807,7 @@ msgstr "Slett alt"
 msgid "clear senders/receivers"
 msgstr "tøm sendere/mottakere"
 
-msgid "Click "Save now" to try again or "Download" to save"
+msgid "Click \"Save now\" to try again or \"Download\" to save"
 msgstr "Klikk  for å prøve igjen eller  for å lagre"
 
 msgid "Close"
@@ -884,9 +858,6 @@ msgstr "cos"
 # 75%
 msgid "Costume"
 msgstr "Drakt"
-
-msgid "costume #"
-msgstr "drakt nr."
 
 msgid "Costume Library"
 msgstr "Drakter i biblioteket"
@@ -947,9 +918,6 @@ msgstr "Slett"
 
 msgid "delete variable"
 msgstr "slett variabel"
-
-msgid "direction"
-msgstr "retning"
 
 # 90%
 msgid "direction:"
@@ -1127,9 +1095,6 @@ msgstr "Hmm..."
 msgid "hello"
 msgstr "hei"
 
-msgid "hide"
-msgstr "skjul"
-
 msgid "High C"
 msgstr "Høye C"
 
@@ -1220,9 +1185,6 @@ msgstr "log"
 
 msgid "louder"
 msgstr "høyere"
-
-msgid "loudness"
-msgstr "lydstyrke"
 
 msgid "Low C"
 msgstr "Lave C"
@@ -1349,9 +1311,6 @@ msgstr "Ny figur:"
 
 msgid "New Variable"
 msgstr "Ny variabel"
-
-msgid "next backdrop"
-msgstr "neste bakgrunn"
 
 msgid "No motion blocks"
 msgstr "Ingen bevegelsesklosser"
@@ -1616,7 +1575,9 @@ msgstr "sekund"
 msgid "See project page"
 msgstr "Se prosjektsiden"
 
-msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
+msgid ""
+"See the Tips window (on the right) to install the plug-in and get the "
+"extension working."
 msgstr "Se tips (til høyre) for å få tilleggsfunksjonen til å virke."
 
 msgid "Select"
@@ -1656,9 +1617,6 @@ msgstr "lagt ut"
 msgid "Shift:"
 msgstr "Skift:"
 
-msgid "show"
-msgstr "vis"
-
 msgid "show receivers"
 msgstr "vis mottakere"
 
@@ -1689,9 +1647,6 @@ msgstr "stille"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "størrelse"
-
 msgid "slider"
 msgstr "skyveknapp"
 
@@ -1712,10 +1667,6 @@ msgstr "lavere"
 
 msgid "sound"
 msgstr "lyd"
-
-# 80%
-msgid "Sound"
-msgstr "Lyd"
 
 msgid "Sound Library"
 msgstr "Lyder i biblioteket"
@@ -1790,7 +1741,9 @@ msgstr "mot klokken"
 msgid "The name is already in use."
 msgstr "Navnet er allerede i bruk."
 
-msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgid ""
+"The project failed to load and Scratch Team has been notified. Press OK to "
+"leave this page."
 msgstr ""
 "Innlasting av prosjektet gikk galt. Det er sendt feilmelding til "
 "administratorene. Trykk OK for å gå videre."
@@ -1807,13 +1760,17 @@ msgstr "ting"
 msgid "This is the current version."
 msgstr "Dette er siste versjon."
 
-msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
+msgid ""
+"This project can detect who is using it, through the “username” block. To "
+"hide your identity, sign out before using the project."
 msgstr ""
 "Dette prosjektet inneholder \"brukernavn\"-klossen og kan finne ut hvem som "
 "bruker det. Du kan skjule din identitet ved å logge ut før du bruker "
 "prosjektet."
 
-msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
+msgid ""
+"This project uses Cloud data ‒ a feature that is available only to signed in "
+"users."
 msgstr ""
 "Dette prosjektet bruker nettdata, som bare er tilgjengelige for registrerte "
 "brukere."
@@ -1829,9 +1786,6 @@ msgstr "med klokken"
 
 msgid "Throw away all changes since opening this project?"
 msgstr "Du vil miste endringene som er gjort, er det OK?"
-
-msgid "timer"
-msgstr "tid"
 
 msgid "Tips"
 msgstr "Hjelp"
@@ -1954,9 +1908,6 @@ msgstr "Video på:"
 msgid "Vocals"
 msgstr "Stemmer"
 
-msgid "volume"
-msgstr "volum"
-
 msgid "Walking"
 msgstr "Går og løper"
 
@@ -1981,16 +1932,12 @@ msgstr "Trefløyte"
 msgid "world"
 msgstr "verden"
 
-msgid "x position"
-msgstr "x-posisjon"
-
-msgid "y position"
-msgstr "y-posisjon"
-
 msgid "year"
 msgstr "år"
 
-msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
+msgid ""
+"You cannot edit cloud data in someone else's project.<br>Any change that you "
+"make in the editor will be temporary and not persistent."
 msgstr ""
 "Du kan ikke redigere nettdata i andres prosjekter.<br>Endringer du gjør her "
 "vil være midlertidige og blir ikke lagret."
@@ -2003,8 +1950,8 @@ msgstr "Du må skrive ditt Scratch-navn"
 
 msgid ""
 "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-"For more info, <a href= target=>see the cloud data FAQ!</a>"
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Informasjon om nettdata</b><br>&nbsp;<br>Inntil videre er det bare mulig "
 "å lagre tall<br>Chat-funksjoner er ikke tillatt og vil bli slettet<br>For "
@@ -2018,6 +1965,60 @@ msgstr "Viskelærbredde:"
 
 msgid "Line width:"
 msgstr "Linjebredde:"
+
+# 89%
+# 86%
+#, fuzzy
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "dreieretning %m.motorDirection"
+
+#~ msgid "user name"
+#~ msgstr "brukernavn"
+
+#~ msgid "user id"
+#~ msgstr "brukernavn"
+
+#~ msgid "clone startup"
+#~ msgstr "start klon"
+
+#~ msgid "forever if %b"
+#~ msgstr "for alltid hvis %b"
+
+#~ msgid "hide all sprites"
+#~ msgstr "skjul alle figurer"
+
+#~ msgid "if %b"
+#~ msgstr "hvis %b"
+
+#~ msgid "Scratch days"
+#~ msgstr "Scratch-dager"
+
+#~ msgid "hide monitor %m.varOrList"
+#~ msgstr "skjul verdi %m.varOrList"
+
+#~ msgid "motor direction %m.motorDirection"
+#~ msgstr "dreieretning %m.motorDirection"
+
+#~ msgid "motor off"
+#~ msgstr "motor av"
+
+#~ msgid "motor on"
+#~ msgstr "motor på"
+
+#~ msgid "motor on for %n secs"
+#~ msgstr "motor på i %n sekunder"
+
+#~ msgid "motor power %n"
+#~ msgstr "motorkraft %n"
+
+#~ msgid "play note %n for %n beats"
+#~ msgstr "spill tone %d.note i %n takter"
+
+#~ msgid "show monitor %m.varOrList"
+#~ msgstr "vis verdi %m.varOrList"
+
+#~ msgid "when I am clicked"
+#~ msgstr "når jeg klikkes"
 
 #~ msgid "cleanup"
 #~ msgstr "rydd opp"

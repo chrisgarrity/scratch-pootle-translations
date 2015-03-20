@@ -1,5 +1,7 @@
+#, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
@@ -10,10 +12,25 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"(n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
+"%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1368708489.000000\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
+"PO-Revision-Date: 2013-05-16 12:47+0000\n"
+"Last-Translator: Jurgis <jurgis.pralgauskis@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n"
+"%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1368708464.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -52,10 +69,12 @@ msgstr "atsakymas"
 msgid "ask %s and wait"
 msgstr "paklausk %s"
 
+# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
 msgstr "fono nr."
 
+# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
 msgstr "fono pavadinimas"
@@ -167,8 +186,13 @@ msgstr "atsirask vaizdo priekyje"
 msgid "go to x:%n y:%n"
 msgstr "eik į tašką x:%n y:%n"
 
+#, fuzzy
 msgid "hide"
-msgstr "pasislėpk"
+msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"pasislėpk\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"paslėpti"
 
 msgid "hide list %m.list"
 msgstr "slėpk %m.list"
@@ -366,8 +390,13 @@ msgstr "x = %n"
 msgid "set y to %n"
 msgstr "y = %n"
 
+#, fuzzy
 msgid "show"
-msgstr "pasirodyk"
+msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"pasirodyk\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"rodyti"
 
 msgid "show list %m.list"
 msgstr "rodyk %m.list"
@@ -375,9 +404,16 @@ msgstr "rodyk %m.list"
 msgid "show variable %m.var"
 msgstr "rodyk %m.var"
 
+#, fuzzy
 msgid "size"
-msgstr "dydis (%)"
+msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"dydis (%)\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"dydis"
 
+# #-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#
+# 80%
 msgid "Sound"
 msgstr "Garsas"
 
@@ -501,11 +537,21 @@ msgstr "Kai spusteli veikėją"
 msgid "when tilt %m.eNe %n"
 msgstr ""
 
+#, fuzzy
 msgid "x position"
-msgstr "x koordinatė"
+msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"x koordinatė\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"x"
 
+#, fuzzy
 msgid "y position"
-msgstr "y koordinatė"
+msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"y koordinatė\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"y"
 
 # 89%
 msgid "set motor direction %m.motorDirection"
@@ -531,59 +577,18 @@ msgstr "Kai atstumas < %n"
 msgid "when tilt = %n"
 msgstr "Kai pasvirimas = %n"
 
-# 89%
-# 86%
-#, fuzzy
-#~ msgid "set %m.motor direction to %m.motorDirection"
-#~ msgstr "variklio kryptis = %m.motorDirection"
-
-#~ msgid "user id"
-#~ msgstr "naudotojo ID"
-
-# buvo: klono paruošimas
-#~ msgid "clone startup"
-#~ msgstr "Naujam klonui pritaikyk :"
-
-#~ msgid "forever if %b"
-#~ msgstr "visada, kai %b :"
-
-#~ msgid "hide all sprites"
-#~ msgstr "paslėpk visus veikėjus"
-
-#~ msgid "if %b"
-#~ msgstr "jeigu %b :"
-
-#~ msgid "Scratch days"
-#~ msgstr "Scratch dienos"
-
-##################
-# User Interface #
-##################
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2013-05-16 12:47+0000\n"
-"Last-Translator: Jurgis <jurgis.pralgauskis@gmail.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: lt\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"(n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1368708464.000000\n"
-
 msgid "10 ^"
 msgstr "10 ^"
 
-msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank"
+"\">see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Informacija dėl \"Debesyje\" saugomų kintamųjų</b><br>&nbsp;<br>Dabar "
-"saugomi tik skaičiai<br><br>Daugiau info: <a href= target=>\"Debesų\" "
-"DUK!</a>"
+"saugomi tik skaičiai<br><br>Daugiau info: <a href= target=>\"Debesų\" DUK!</"
+"a>"
 
 msgid "A connected"
 msgstr "A sujungta"
@@ -682,14 +687,8 @@ msgstr "fonas"
 msgid "Backdrop"
 msgstr "Fonas"
 
-msgid "backdrop #"
-msgstr "fono nr."
-
 msgid "Backdrop Library"
 msgstr "Fonų katalogas"
-
-msgid "backdrop name"
-msgstr "fono pavadinimas"
 
 msgid "backdrop1"
 msgstr "fonas 1"
@@ -713,7 +712,10 @@ msgstr "Bosinis Būgnas"
 msgid "Bassoon"
 msgstr "Fagotas"
 
-msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgid ""
+"Because you have a new Scratch account, any changes to cloud data won't be "
+"saved yet. Keep participating on the site you'll be able to use cloud data "
+"soon!"
 msgstr ""
 
 #, fuzzy
@@ -831,7 +833,7 @@ msgstr "Išvalyti"
 msgid "clear senders/receivers"
 msgstr "išvalyk siuntėjus/gavėjus"
 
-msgid "Click "Save now" to try again or "Download" to save"
+msgid "Click \"Save now\" to try again or \"Download\" to save"
 msgstr ""
 
 msgid "Close"
@@ -884,9 +886,6 @@ msgstr "cos"
 # 75%
 msgid "Costume"
 msgstr "Kaukė"
-
-msgid "costume #"
-msgstr "kaukės nr."
 
 msgid "Costume Library"
 msgstr "Kaukių katalogas"
@@ -948,9 +947,6 @@ msgstr "Šalinti"
 
 msgid "delete variable"
 msgstr "ištrinti kintamąjį"
-
-msgid "direction"
-msgstr "kryptis"
 
 # 90%
 msgid "direction:"
@@ -1135,9 +1131,6 @@ msgstr ""
 msgid "hello"
 msgstr "Violončelė"
 
-msgid "hide"
-msgstr "paslėpti"
-
 msgid "High C"
 msgstr ""
 
@@ -1234,9 +1227,6 @@ msgstr "lg"
 
 msgid "louder"
 msgstr "garsiau"
-
-msgid "loudness"
-msgstr "garsumas"
 
 msgid "Low C"
 msgstr ""
@@ -1368,9 +1358,6 @@ msgstr "Naujas veikėjas:"
 
 msgid "New Variable"
 msgstr "Naujas kintamasis"
-
-msgid "next backdrop"
-msgstr ""
 
 msgid "No motion blocks"
 msgstr "Be judėjimo komandų"
@@ -1646,7 +1633,9 @@ msgstr "sekundė"
 msgid "See project page"
 msgstr "Peržiūrėti projekto puslapį"
 
-msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
+msgid ""
+"See the Tips window (on the right) to install the plug-in and get the "
+"extension working."
 msgstr ""
 
 msgid "Select"
@@ -1688,9 +1677,6 @@ msgstr "bendrinamas"
 msgid "Shift:"
 msgstr "Paslinkimas:"
 
-msgid "show"
-msgstr "rodyti"
-
 msgid "show receivers"
 msgstr "rodyti gavėjus"
 
@@ -1722,9 +1708,6 @@ msgstr "tyla"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "dydis"
-
 msgid "slider"
 msgstr "slinktis"
 
@@ -1745,10 +1728,6 @@ msgstr "švelniau"
 
 msgid "sound"
 msgstr "garsas"
-
-# 80%
-msgid "Sound"
-msgstr "Garsas"
 
 msgid "Sound Library"
 msgstr ""
@@ -1826,7 +1805,9 @@ msgstr "šian"
 msgid "The name is already in use."
 msgstr ""
 
-msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgid ""
+"The project failed to load and Scratch Team has been notified. Press OK to "
+"leave this page."
 msgstr ""
 
 msgid "Theme"
@@ -1841,12 +1822,16 @@ msgstr ""
 msgid "This is the current version."
 msgstr ""
 
-msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
+msgid ""
+"This project can detect who is using it, through the “username” block. To "
+"hide your identity, sign out before using the project."
 msgstr ""
 "Šis projektas gali nustatyti, kas jį naudoja (pagal naudotojo vardą). "
 "Norėdami likti anonimais, atsijunkite."
 
-msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
+msgid ""
+"This project uses Cloud data ‒ a feature that is available only to signed in "
+"users."
 msgstr ""
 "Šis projektas naudoja \"debesų\" kompiuteriją - ji leidžiama tik "
 "prisijungusiems naudotojams."
@@ -1862,9 +1847,6 @@ msgstr "ten"
 
 msgid "Throw away all changes since opening this project?"
 msgstr "Atsisakyti visų pakeitimų (nuo projekto atidarymo)."
-
-msgid "timer"
-msgstr "laikmatis"
 
 msgid "Tips"
 msgstr "Užuominos"
@@ -1991,9 +1973,6 @@ msgstr "Vaizdo filmavimas įjungtas:"
 msgid "Vocals"
 msgstr "Balsai"
 
-msgid "volume"
-msgstr "garsumas"
-
 #, fuzzy
 msgid "Walking"
 msgstr "Vaikščiojimas"
@@ -2020,17 +1999,13 @@ msgstr "Medinė fleita"
 msgid "world"
 msgstr ""
 
-msgid "x position"
-msgstr "x"
-
-msgid "y position"
-msgstr "y"
-
 msgid "year"
 msgstr "metai"
 
 #, fuzzy
-msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
+msgid ""
+"You cannot edit cloud data in someone else's project.<br>Any change that you "
+"make in the editor will be temporary and not persistent."
 msgstr ""
 "Jūs negalite keisti \"debesyje\" saugomų duomenų iš kitų žmonių projektų. "
 "<br>Bet kokie pakeitimai bus laikini ir neišsaugoti."
@@ -2043,12 +2018,12 @@ msgstr ""
 
 msgid ""
 "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-"For more info, <a href= target=>see the cloud data FAQ!</a>"
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Informacija dėl \"Debesyje\" saugomų kintamųjų</b><br>&nbsp;<br>Dabar "
-"saugomi tik skaičiai<br><br>Daugiau info: <a href= target=>\"Debesų\" "
-"DUK!</a>"
+"saugomi tik skaičiai<br><br>Daugiau info: <a href= target=>\"Debesų\" DUK!</"
+"a>"
 
 msgid "Click  to try again or  to save"
 msgstr ""
@@ -2058,6 +2033,31 @@ msgstr "Trintuko plotis:"
 
 msgid "Line width:"
 msgstr "Linijos plotis:"
+
+# 89%
+# 86%
+#, fuzzy
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "variklio kryptis = %m.motorDirection"
+
+#~ msgid "user id"
+#~ msgstr "naudotojo ID"
+
+# buvo: klono paruošimas
+#~ msgid "clone startup"
+#~ msgstr "Naujam klonui pritaikyk :"
+
+#~ msgid "forever if %b"
+#~ msgstr "visada, kai %b :"
+
+#~ msgid "hide all sprites"
+#~ msgstr "paslėpk visus veikėjus"
+
+#~ msgid "if %b"
+#~ msgstr "jeigu %b :"
+
+#~ msgid "Scratch days"
+#~ msgstr "Scratch dienos"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Loginė reikšmė"

@@ -1,5 +1,7 @@
+#, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
@@ -13,6 +15,20 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1405370827.000000\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
+"PO-Revision-Date: 2014-06-11 19:25+0000\n"
+"Last-Translator: Eugeni <eugenicat@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ca\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1402514722.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -48,10 +64,12 @@ msgstr "resposta"
 msgid "ask %s and wait"
 msgstr "pregunta %s i espera"
 
+# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
 msgstr "fons nr"
 
+# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
 msgstr "nom del fons"
@@ -162,8 +180,13 @@ msgstr "vés al front"
 msgid "go to x:%n y:%n"
 msgstr "vés a x:%n y:%n"
 
+#, fuzzy
 msgid "hide"
-msgstr "amaga't"
+msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"amaga't\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"amaga"
 
 msgid "hide list %m.list"
 msgstr "amaga la llista %m.list"
@@ -201,6 +224,7 @@ msgstr "lletra %n de %s"
 msgid "Looks"
 msgstr "Aspecte"
 
+# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # No parlem del volum si no de que hi hagi soroll
 msgid "loudness"
 msgstr "volum del so"
@@ -354,8 +378,13 @@ msgstr "assigna el valor %n a x"
 msgid "set y to %n"
 msgstr "assigna el valor %n a y"
 
+#, fuzzy
 msgid "show"
-msgstr "mostra't"
+msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"mostra't\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"mostra"
 
 msgid "show list %m.list"
 msgstr "mostra la llista %m.list"
@@ -366,8 +395,15 @@ msgstr "mostra la variable %m.var"
 msgid "size"
 msgstr "mida"
 
+# #-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#
+# 80%
+#, fuzzy
 msgid "Sound"
-msgstr "Sons"
+msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Sons\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"So"
 
 msgid "stamp"
 msgstr "estampa"
@@ -516,85 +552,14 @@ msgstr "quan distància < %n"
 msgid "when tilt = %n"
 msgstr "quan inclinació = %n"
 
-# 89%
-# 100%
-# 86%
-#~ msgid "set %m.motor direction to %m.motorDirection"
-#~ msgstr "fixa la direcció del motor %m.motor a %m.motorDirection"
-
-#~ msgid "user name"
-#~ msgstr "nom d'usuari"
-
-#~ msgid "user id"
-#~ msgstr "identificació d'usuari"
-
-# Aquest bloc s'executa al crear una copia d'un personatge, per tant cal deixar clar que és l'inici de les accions nomes realitzar la copia
-#~ msgid "clone startup"
-#~ msgstr "quan es creï la còpia"
-
-#~ msgid "forever if %b"
-#~ msgstr "per sempre si %b"
-
-#~ msgid "hide all sprites"
-#~ msgstr "amaga tots els personatges"
-
-#~ msgid "if %b"
-#~ msgstr "si %b"
-
-#~ msgid "Scratch days"
-#~ msgstr "Dies fins el dia de l'Scratch"
-
-#~ msgid "hide monitor %m.varOrList"
-#~ msgstr "amaga la variable %m.varOrList"
-
-#~ msgid "motor direction %m.motorDirection"
-#~ msgstr "direcció del motor %m.motorDirection"
-
-#~ msgid "motor off"
-#~ msgstr "atura el motor"
-
-#~ msgid "motor on"
-#~ msgstr "activa el motor"
-
-# crec que afegir durant "n" segons es massa llarg
-#~ msgid "motor on for %n secs"
-#~ msgstr "activa el motor %n segons"
-
-#~ msgid "motor power %n"
-#~ msgstr "potència del motor a %n"
-
-#~ msgid "play note %n for %n beats"
-#~ msgstr "toca la nota %n durant %n pulsacions"
-
-#~ msgid "show monitor %m.varOrList"
-#~ msgstr "mostra la variable %m.varOrList"
-
-#~ msgid "when I am clicked"
-#~ msgstr "quan em cliquin"
-
-##################
-# User Interface #
-##################
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2014-06-11 19:25+0000\n"
-"Last-Translator: Eugeni <eugenicat@gmail.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ca\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1402514722.000000\n"
-
 msgid "10 ^"
 msgstr "10 ^"
 
-msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank"
+"\">see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Informació sobre les variables al núvol</b><br>&nbsp;<br>Actualment només "
 "s'accepten números<br>Els xats no estan permesos i s'eliminaran<br>Si voleu "
@@ -697,14 +662,8 @@ msgstr "fons"
 msgid "Backdrop"
 msgstr "Fons"
 
-msgid "backdrop #"
-msgstr "fons nr"
-
 msgid "Backdrop Library"
 msgstr "Galeria de fons"
-
-msgid "backdrop name"
-msgstr "nom del fons"
 
 msgid "backdrop1"
 msgstr "fons1"
@@ -729,7 +688,10 @@ msgstr "Tambor Greu"
 msgid "Bassoon"
 msgstr "Fagot"
 
-msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgid ""
+"Because you have a new Scratch account, any changes to cloud data won't be "
+"saved yet. Keep participating on the site you'll be able to use cloud data "
+"soon!"
 msgstr ""
 "Com que el teu compte Scratch es molt recent, els canvis que es realitzin a "
 "les dades al núvol encara no es desaran. Continua participant i podràs fer "
@@ -844,7 +806,7 @@ msgstr "Neteja"
 msgid "clear senders/receivers"
 msgstr "neteja emissors/receptors"
 
-msgid "Click "Save now" to try again or "Download" to save"
+msgid "Click \"Save now\" to try again or \"Download\" to save"
 msgstr "Fes clic a  per tornar-ho a intentar o bé  per desar"
 
 msgid "Close"
@@ -895,9 +857,6 @@ msgstr "cos"
 # 75%
 msgid "Costume"
 msgstr "Vestit"
-
-msgid "costume #"
-msgstr "vestit nr"
 
 msgid "Costume Library"
 msgstr "Galeria de Vestits"
@@ -958,9 +917,6 @@ msgstr "Esborra"
 
 msgid "delete variable"
 msgstr "elimina la variable"
-
-msgid "direction"
-msgstr "direcció"
 
 # 90%
 msgid "direction:"
@@ -1139,9 +1095,6 @@ msgstr ""
 msgid "hello"
 msgstr "Violoncel"
 
-msgid "hide"
-msgstr "amaga"
-
 msgid "High C"
 msgstr "DO Alt"
 
@@ -1232,9 +1185,6 @@ msgstr "log"
 
 msgid "louder"
 msgstr "més fort"
-
-msgid "loudness"
-msgstr "volum del so"
 
 msgid "Low C"
 msgstr "DO baix"
@@ -1362,9 +1312,6 @@ msgstr "Nou personatge:"
 
 msgid "New Variable"
 msgstr "Nova Variable"
-
-msgid "next backdrop"
-msgstr ""
 
 msgid "No motion blocks"
 msgstr "Sense blocs de moviment"
@@ -1629,7 +1576,9 @@ msgstr "segon"
 msgid "See project page"
 msgstr "Veure la pàgina del projecte"
 
-msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
+msgid ""
+"See the Tips window (on the right) to install the plug-in and get the "
+"extension working."
 msgstr ""
 "Mira la finestra d'ajuda (de la dreta) per instal·lar el connector i fer que "
 "l'extensió funcioni."
@@ -1671,9 +1620,6 @@ msgstr "compartit"
 msgid "Shift:"
 msgstr "Tecla majúscules:"
 
-msgid "show"
-msgstr "mostra"
-
 msgid "show receivers"
 msgstr "mostra els receptors"
 
@@ -1704,9 +1650,6 @@ msgstr "silenci"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "mida"
-
 msgid "slider"
 msgstr "lliscador"
 
@@ -1727,10 +1670,6 @@ msgstr "més fluix"
 
 msgid "sound"
 msgstr "so"
-
-# 80%
-msgid "Sound"
-msgstr "So"
 
 msgid "Sound Library"
 msgstr "Galeria de Sons"
@@ -1806,7 +1745,9 @@ msgstr "cap aquí"
 msgid "The name is already in use."
 msgstr ""
 
-msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgid ""
+"The project failed to load and Scratch Team has been notified. Press OK to "
+"leave this page."
 msgstr ""
 
 msgid "Theme"
@@ -1821,13 +1762,17 @@ msgstr ""
 msgid "This is the current version."
 msgstr ""
 
-msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
+msgid ""
+"This project can detect who is using it, through the “username” block. To "
+"hide your identity, sign out before using the project."
 msgstr ""
 "Aquest projecte pot detectar qui l'està fent servir mitjançant el bloc \"nom "
 "d'usuari\". Per tal d'amagar la teva identitat, tanca la sessió abans d'usar "
 "aquest projecte."
 
-msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
+msgid ""
+"This project uses Cloud data ‒ a feature that is available only to signed in "
+"users."
 msgstr ""
 "Aquest projecte utilitza dades al núvol. Aquesta opció només està disponible "
 "per a usuaris registrats."
@@ -1845,9 +1790,6 @@ msgid "Throw away all changes since opening this project?"
 msgstr ""
 "Vols eliminar tots els canvis que has fet des de que has obert aquest "
 "projecte?"
-
-msgid "timer"
-msgstr "cronòmetre"
 
 msgid "Tips"
 msgstr "Ajuda"
@@ -1971,9 +1913,6 @@ msgstr "Vídeo activat:"
 msgid "Vocals"
 msgstr "Veus"
 
-msgid "volume"
-msgstr "volum"
-
 msgid "Walking"
 msgstr "Caminant"
 
@@ -1998,16 +1937,12 @@ msgstr "Flauta dolça"
 msgid "world"
 msgstr ""
 
-msgid "x position"
-msgstr "posició x"
-
-msgid "y position"
-msgstr "posició y"
-
 msgid "year"
 msgstr "any"
 
-msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
+msgid ""
+"You cannot edit cloud data in someone else's project.<br>Any change that you "
+"make in the editor will be temporary and not persistent."
 msgstr ""
 "No pots editar les dades al núvol del projecte d'algú altre.<br>Qualsevol "
 "canvi que realitzis a l'editor serà temporal i no quedarà emmagatzemat."
@@ -2020,8 +1955,8 @@ msgstr ""
 
 msgid ""
 "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-"For more info, <a href= target=>see the cloud data FAQ!</a>"
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Informació sobre les variables al núvol</b><br>&nbsp;<br>Actualment només "
 "s'accepten números<br>Els xats no estan permesos i s'eliminaran<br>Si voleu "
@@ -2036,6 +1971,62 @@ msgstr "Ample de l'esborrador:"
 
 msgid "Line width:"
 msgstr "Ample de línia:"
+
+# 89%
+# 100%
+# 86%
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "fixa la direcció del motor %m.motor a %m.motorDirection"
+
+#~ msgid "user name"
+#~ msgstr "nom d'usuari"
+
+#~ msgid "user id"
+#~ msgstr "identificació d'usuari"
+
+# Aquest bloc s'executa al crear una copia d'un personatge, per tant cal deixar clar que és l'inici de les accions nomes realitzar la copia
+#~ msgid "clone startup"
+#~ msgstr "quan es creï la còpia"
+
+#~ msgid "forever if %b"
+#~ msgstr "per sempre si %b"
+
+#~ msgid "hide all sprites"
+#~ msgstr "amaga tots els personatges"
+
+#~ msgid "if %b"
+#~ msgstr "si %b"
+
+#~ msgid "Scratch days"
+#~ msgstr "Dies fins el dia de l'Scratch"
+
+#~ msgid "hide monitor %m.varOrList"
+#~ msgstr "amaga la variable %m.varOrList"
+
+#~ msgid "motor direction %m.motorDirection"
+#~ msgstr "direcció del motor %m.motorDirection"
+
+#~ msgid "motor off"
+#~ msgstr "atura el motor"
+
+#~ msgid "motor on"
+#~ msgstr "activa el motor"
+
+# crec que afegir durant "n" segons es massa llarg
+#~ msgid "motor on for %n secs"
+#~ msgstr "activa el motor %n segons"
+
+#~ msgid "motor power %n"
+#~ msgstr "potència del motor a %n"
+
+#~ msgid "play note %n for %n beats"
+#~ msgstr "toca la nota %n durant %n pulsacions"
+
+#~ msgid "show monitor %m.varOrList"
+#~ msgstr "mostra la variable %m.varOrList"
+
+#~ msgid "when I am clicked"
+#~ msgstr "quan em cliquin"
 
 #~ msgid "cleanup"
 #~ msgstr "neteja"

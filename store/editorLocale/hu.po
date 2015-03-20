@@ -1,5 +1,7 @@
+#, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
@@ -13,6 +15,20 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1414589851.000000\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
+"PO-Revision-Date: 2014-10-30 11:14+0000\n"
+"Last-Translator: Péter <bernatp@hotmail.hu>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1414667674.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -48,10 +64,12 @@ msgstr "válasz"
 msgid "ask %s and wait"
 msgstr "kérdezd meg: %s és várj"
 
+# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
 msgstr "háttér sorszáma"
 
+# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
 msgstr "háttér neve"
@@ -200,8 +218,13 @@ msgstr "%s %n betűje"
 msgid "Looks"
 msgstr "Kinézet"
 
+#, fuzzy
 msgid "loudness"
-msgstr "hangosság"
+msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"hangosság\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"hangerő"
 
 msgid "More Blocks"
 msgstr "Továbbiak"
@@ -362,8 +385,15 @@ msgstr "%m.var jelenjen meg"
 msgid "size"
 msgstr "méret"
 
+# #-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#
+# 83%
+#, fuzzy
 msgid "Sound"
-msgstr "Sound"
+msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Sound\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Hangok"
 
 msgid "stamp"
 msgstr "készíts lenyomatot"
@@ -514,59 +544,14 @@ msgstr "when distance < %n"
 msgid "when tilt = %n"
 msgstr "when tilt = %n"
 
-# 89%
-# 86%
-#, fuzzy
-#~ msgid "set %m.motor direction to %m.motorDirection"
-#~ msgstr "set motor direction %m.motorDirection"
-
-#~ msgid "forever if %b"
-#~ msgstr "mindig ha %b"
-
-#~ msgid "if %b"
-#~ msgstr "ha %b"
-
-#~ msgid "motor direction %m.motorDirection"
-#~ msgstr "motort irányba %m.motorDirection"
-
-#~ msgid "motor off"
-#~ msgstr "motor ki"
-
-#~ msgid "motor on"
-#~ msgstr "motor be"
-
-#~ msgid "motor on for %n secs"
-#~ msgstr "motor be %n mp-ig"
-
-#~ msgid "motor power %n"
-#~ msgstr "motor teljesítmény %n"
-
-#~ msgid "play note %n for %n beats"
-#~ msgstr "szóljon %d.note%n ütemig"
-
-##################
-# User Interface #
-##################
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2014-10-30 11:14+0000\n"
-"Last-Translator: Péter <bernatp@hotmail.hu>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: hu\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1414667674.000000\n"
-
 msgid "10 ^"
 msgstr "10 ^"
 
-msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank"
+"\">see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Felhőváltozókat illető információk</b><br>&nbsp;<br>Jelenleg csak számok "
 "vannak támogatva<br>Chat szobák létrehozása szigorúan tilos<br>További "
@@ -663,14 +648,8 @@ msgstr "háttér"
 msgid "Backdrop"
 msgstr "Háttér"
 
-msgid "backdrop #"
-msgstr "háttér sorszáma"
-
 msgid "Backdrop Library"
 msgstr "Háttérkönyvtár"
-
-msgid "backdrop name"
-msgstr "háttér neve"
 
 msgid "backdrop1"
 msgstr "háttér1"
@@ -694,7 +673,10 @@ msgstr "Basszusdob"
 msgid "Bassoon"
 msgstr "Fagott"
 
-msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgid ""
+"Because you have a new Scratch account, any changes to cloud data won't be "
+"saved yet. Keep participating on the site you'll be able to use cloud data "
+"soon!"
 msgstr ""
 "Mivel a Scratch fiókod elég új, a felhő-adataid nem lesznek mentve. Használd "
 "az oldalt és hamarosan te is használni tudod majd a felhő-adatokat!"
@@ -808,7 +790,7 @@ msgstr "Törlés"
 msgid "clear senders/receivers"
 msgstr ""
 
-msgid "Click "Save now" to try again or "Download" to save"
+msgid "Click \"Save now\" to try again or \"Download\" to save"
 msgstr ""
 
 msgid "Close"
@@ -861,9 +843,6 @@ msgstr "cos"
 
 msgid "Costume"
 msgstr "Jelmez"
-
-msgid "costume #"
-msgstr "jelmez sorszáma"
 
 msgid "Costume Library"
 msgstr "Jelmezkönyvtár"
@@ -926,9 +905,6 @@ msgstr "Törlés"
 
 msgid "delete variable"
 msgstr "változó törlése"
-
-msgid "direction"
-msgstr "irány"
 
 msgid "direction:"
 msgstr "irány:"
@@ -1107,9 +1083,6 @@ msgstr ""
 msgid "hello"
 msgstr "Cselló"
 
-msgid "hide"
-msgstr ""
-
 msgid "High C"
 msgstr ""
 
@@ -1204,9 +1177,6 @@ msgstr "log"
 
 msgid "louder"
 msgstr "hangosabb"
-
-msgid "loudness"
-msgstr "hangerő"
 
 msgid "Low C"
 msgstr ""
@@ -1331,9 +1301,6 @@ msgstr "Új szereplő:"
 
 msgid "New Variable"
 msgstr "Új változó"
-
-msgid "next backdrop"
-msgstr ""
 
 msgid "No motion blocks"
 msgstr "nem lehet mozgatni"
@@ -1598,7 +1565,9 @@ msgstr "másodperc"
 msgid "See project page"
 msgstr "Vissza a projekt oldalára"
 
-msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
+msgid ""
+"See the Tips window (on the right) to install the plug-in and get the "
+"extension working."
 msgstr ""
 
 msgid "Select"
@@ -1639,10 +1608,6 @@ msgstr "megosztott"
 msgid "Shift:"
 msgstr "Shift:"
 
-#, fuzzy
-msgid "show"
-msgstr "látható:"
-
 msgid "show receivers"
 msgstr ""
 
@@ -1674,9 +1639,6 @@ msgstr "csend"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "méret"
-
 msgid "slider"
 msgstr "csúszka"
 
@@ -1697,10 +1659,6 @@ msgstr "halkabb"
 
 msgid "sound"
 msgstr "hang"
-
-# 83%
-msgid "Sound"
-msgstr "Hangok"
 
 msgid "Sound Library"
 msgstr "Hangkönyvtár"
@@ -1775,7 +1733,9 @@ msgstr "arra"
 msgid "The name is already in use."
 msgstr ""
 
-msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgid ""
+"The project failed to load and Scratch Team has been notified. Press OK to "
+"leave this page."
 msgstr ""
 
 msgid "Theme"
@@ -1790,10 +1750,14 @@ msgstr ""
 msgid "This is the current version."
 msgstr ""
 
-msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
+msgid ""
+"This project can detect who is using it, through the “username” block. To "
+"hide your identity, sign out before using the project."
 msgstr ""
 
-msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
+msgid ""
+"This project uses Cloud data ‒ a feature that is available only to signed in "
+"users."
 msgstr ""
 
 msgid "this script"
@@ -1807,9 +1771,6 @@ msgstr "erre"
 
 msgid "Throw away all changes since opening this project?"
 msgstr ""
-
-msgid "timer"
-msgstr "óra"
 
 msgid "Tips"
 msgstr "Tippek"
@@ -1930,9 +1891,6 @@ msgstr ""
 msgid "Vocals"
 msgstr ""
 
-msgid "volume"
-msgstr "hangerő"
-
 msgid "Walking"
 msgstr "Gyaloglás"
 
@@ -1957,16 +1915,12 @@ msgstr ""
 msgid "world"
 msgstr ""
 
-msgid "x position"
-msgstr "x hely"
-
-msgid "y position"
-msgstr "y hely"
-
 msgid "year"
 msgstr "év"
 
-msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
+msgid ""
+"You cannot edit cloud data in someone else's project.<br>Any change that you "
+"make in the editor will be temporary and not persistent."
 msgstr ""
 
 msgid "Your Scratch name"
@@ -1977,8 +1931,8 @@ msgstr ""
 
 msgid ""
 "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-"For more info, <a href= target=>see the cloud data FAQ!</a>"
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Felhőváltozókat illető információk</b><br>&nbsp;<br>Jelenleg csak számok "
 "vannak támogatva<br>Chat szobák létrehozása szigorúan tilos<br>További "
@@ -1992,6 +1946,36 @@ msgstr "Radír vastagsága:"
 
 msgid "Line width:"
 msgstr "Vonalvastagság:"
+
+# 89%
+# 86%
+#, fuzzy
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "set motor direction %m.motorDirection"
+
+#~ msgid "forever if %b"
+#~ msgstr "mindig ha %b"
+
+#~ msgid "if %b"
+#~ msgstr "ha %b"
+
+#~ msgid "motor direction %m.motorDirection"
+#~ msgstr "motort irányba %m.motorDirection"
+
+#~ msgid "motor off"
+#~ msgstr "motor ki"
+
+#~ msgid "motor on"
+#~ msgstr "motor be"
+
+#~ msgid "motor on for %n secs"
+#~ msgstr "motor be %n mp-ig"
+
+#~ msgid "motor power %n"
+#~ msgstr "motor teljesítmény %n"
+
+#~ msgid "play note %n for %n beats"
+#~ msgstr "szóljon %d.note%n ütemig"
 
 #~ msgid "cleanup"
 #~ msgstr "rendrakás"

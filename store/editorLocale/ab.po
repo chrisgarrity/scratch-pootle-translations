@@ -1,5 +1,7 @@
+#, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
@@ -12,6 +14,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1418998414.000000\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
+"PO-Revision-Date: 2015-01-21 19:16+0000\n"
+"Last-Translator: aabuchba <aabuchba@mail.ru>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ab\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1421867767.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -47,10 +62,12 @@ msgstr "аҭак"
 msgid "ask %s and wait"
 msgstr "иазҵаатәуп %s нас иҧштәуп"
 
+# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
 msgstr "аҿаҧшыра #"
 
+# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
 msgstr "аҿаҧшыра ахьӡ"
@@ -160,8 +177,13 @@ msgstr "ииастәуп аҩадатәи аҿыгҳара ахь"
 msgid "go to x:%n y:%n"
 msgstr "ииастәуп x:%n y:%n ахь"
 
+#, fuzzy
 msgid "hide"
-msgstr "аҽыҵәахра"
+msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"аҽыҵәахра\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"иҵәахтәуп"
 
 msgid "hide list %m.list"
 msgstr "иҵәахтәуп ахьӡынҵа %m.list"
@@ -220,6 +242,7 @@ msgstr "ахәына y ала"
 msgid "move %n steps"
 msgstr "ицатәуп %n шьаҿак"
 
+# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "next backdrop"
 msgstr "анаҩстәи аҿаҧшыра"
@@ -341,8 +364,13 @@ msgstr "ишьақәыргылатәуп x %n аҿы"
 msgid "set y to %n"
 msgstr "ишьақәыргылатәуп y %n аҿы"
 
+#, fuzzy
 msgid "show"
-msgstr "ацәырҵра"
+msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ацәырҵра\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"иаарҧштәуп"
 
 msgid "show list %m.list"
 msgstr "иаарҧштәуп ахьӡынҵа %m.list"
@@ -421,8 +449,13 @@ msgstr "алахәлаҩ ихьӡ"
 msgid "video %m.videoMotionType on %m.stageOrThis"
 msgstr "авидео %m.videoMotionType %m.stageOrThis ала"
 
+#, fuzzy
 msgid "volume"
-msgstr "абжьы аҳаракыра"
+msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"абжьы аҳаракыра\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"аҩаӡара"
 
 msgid "wait %n secs"
 msgstr "иҧштәуп %n секундк"
@@ -470,8 +503,13 @@ msgstr "анаара %m.eNe %n анакәу"
 msgid "x position"
 msgstr "x аҭыҧ"
 
+#, fuzzy
 msgid "y position"
-msgstr "y аҭыҧ"
+msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"y аҭыҧ\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"у аҭыҧ"
 
 msgid "set motor direction %m.motorDirection"
 msgstr "амотор ахырхарҭа %m.motorDirection"
@@ -494,28 +532,14 @@ msgstr "ирыбжьоу < %n аасҭа"
 msgid "when tilt = %n"
 msgstr "анаара = %n ианаҟароу"
 
-##################
-# User Interface #
-##################
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-01-21 19:16+0000\n"
-"Last-Translator: aabuchba <aabuchba@mail.ru>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ab\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1421867767.000000\n"
-
 msgid "10 ^"
 msgstr "10 ^"
 
-msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank"
+"\">see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Аҧсҭҳәатә ҽеиҭакқәа ринформациа</b><br>&nbsp;<br>Уажәазтәи аамҭазы ухы "
 "иаурхәар зуа ахыҧхьаӡаратә ҽеиҭакқәа роуп<br>Чат-ауадақәа ауӡом, "
@@ -612,14 +636,8 @@ msgstr "аҿаҧшыра"
 msgid "Backdrop"
 msgstr "Аҿаҧшыра"
 
-msgid "backdrop #"
-msgstr "аҿаҧшыра #"
-
 msgid "Backdrop Library"
 msgstr "Аҿаҧшырақәа рбиблиотека"
-
-msgid "backdrop name"
-msgstr "аҿаҧшыра ахьӡ"
 
 msgid "backdrop1"
 msgstr "аҿаҧшыра1"
@@ -642,7 +660,10 @@ msgstr "Идыуу абастә даул"
 msgid "Bassoon"
 msgstr "Афагот"
 
-msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgid ""
+"Because you have a new Scratch account, any changes to cloud data won't be "
+"saved yet. Keep participating on the site you'll be able to use cloud data "
+"soon!"
 msgstr ""
 "Шәара шәахьҿыцыу азы, иарбанзаалакь аиҭакрақәа адыррақәа рыҧсҭҳәаҿ "
 "иеиқәхазом. Шәҽалашәырхәла аидгылара аусура, шәхы иашәырхәарцаз адыррақәа "
@@ -756,7 +777,7 @@ msgstr "Ирыцқьатәуп"
 msgid "clear senders/receivers"
 msgstr "Ирыцқьатәуп адәықәҵаҩцәа/изауа"
 
-msgid "Click "Save now" to try again or "Download" to save"
+msgid "Click \"Save now\" to try again or \"Download\" to save"
 msgstr "Шәақәыгәгәа аиҭаҟаҵаразы ма аиқәырхараз"
 
 msgid "Close"
@@ -806,9 +827,6 @@ msgstr "cos"
 
 msgid "Costume"
 msgstr "Акостиум"
-
-msgid "costume #"
-msgstr "акостиум №"
 
 msgid "Costume Library"
 msgstr "Акостиумқәа рбиблиотека"
@@ -866,9 +884,6 @@ msgstr "Ианыхтәуп"
 
 msgid "delete variable"
 msgstr "ианыхтәуп аҽеиҭак"
-
-msgid "direction"
-msgstr "ахырхарҭа"
 
 msgid "direction:"
 msgstr "ахырхарҭа:"
@@ -1044,9 +1059,6 @@ msgstr "Ҳымм..."
 msgid "hello"
 msgstr "абзиара умаз"
 
-msgid "hide"
-msgstr "иҵәахтәуп"
-
 msgid "High C"
 msgstr "Иҳаракыу До"
 
@@ -1133,9 +1145,6 @@ msgstr "log"
 
 msgid "louder"
 msgstr "абжьы иеиҳаны"
-
-msgid "loudness"
-msgstr "абжьы аҳаракыра"
 
 msgid "Low C"
 msgstr "Илаҟәу До"
@@ -1259,9 +1268,6 @@ msgstr "Анагӡаҩ ҿыц:"
 
 msgid "New Variable"
 msgstr "Аҽеиҭак ҿыц"
-
-msgid "next backdrop"
-msgstr "анаҩстәи аҿаҧшыра"
 
 msgid "No motion blocks"
 msgstr "Аиҭаҵратә блокқәа ыҟаӡам"
@@ -1521,7 +1527,9 @@ msgstr "секундк"
 msgid "See project page"
 msgstr "Иахәаҧштәуп апроеқт адаҟьа"
 
-msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
+msgid ""
+"See the Tips window (on the right) to install the plug-in and get the "
+"extension working."
 msgstr ""
 "Шәаахәаҧш (аргьрахь) аҵаҳәарақәа рҧенџыр, ишықәыргылатәу амодуль ишәоурцаз "
 "аус зуа ахарҭәаара."
@@ -1562,9 +1570,6 @@ msgstr "азеиҧш"
 msgid "Shift:"
 msgstr "Shift:"
 
-msgid "show"
-msgstr "иаарҧштәуп"
-
 msgid "show receivers"
 msgstr "иаарҧштәуп изауқәо"
 
@@ -1595,9 +1600,6 @@ msgstr "аҭынчра"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "ашәагаа"
-
 msgid "slider"
 msgstr "арымаа хәуҷ"
 
@@ -1618,9 +1620,6 @@ msgstr "иртатаны"
 
 msgid "sound"
 msgstr "абжьы"
-
-msgid "Sound"
-msgstr "Абжьы"
 
 msgid "Sound Library"
 msgstr "Абжьқәа рбиблиотека"
@@ -1691,7 +1690,9 @@ msgstr "анахь"
 msgid "The name is already in use."
 msgstr "Ахьӡ ахархәара амоуп"
 
-msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgid ""
+"The project failed to load and Scratch Team has been notified. Press OK to "
+"leave this page."
 msgstr ""
 "Апроеқт аҭагалара ауам, ирзыцҳауп Scratch Агәҧ. Шәақәыӷәӷәа ОК ари адаҟьа "
 "аҭыҵраз."
@@ -1708,12 +1709,16 @@ msgstr "амаҭәар"
 msgid "This is the current version."
 msgstr "Ари уажәтәи аверсиа ауп"
 
-msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
+msgid ""
+"This project can detect who is using it, through the “username” block. To "
+"hide your identity, sign out before using the project."
 msgstr ""
 "Ари апроеқт иеилнакаар алшоит, иара зхы иазырхәо, блокла \"ахархәаҩ ихьӡ\". "
 "Аӡәгьы изеилымкаарц азы, шәҭыҵ асистема, апроеқт ахархәара шәалагаанӡа."
 
-msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
+msgid ""
+"This project uses Cloud data ‒ a feature that is available only to signed in "
+"users."
 msgstr ""
 "Ари апроеқт ахы ианархәоит адыррақәа рыҧсҭҳәа- ари аҩыза алшарақәа рымоуп "
 "авторизациа змоу ахархәаҩцәа."
@@ -1729,9 +1734,6 @@ msgstr "абрахь"
 
 msgid "Throw away all changes since opening this project?"
 msgstr "Иқәгатәума аҧсахрақәа зегьы, апроект аартра ашьҭахь иҟаҵақәаз?"
-
-msgid "timer"
-msgstr "аамҭарбага"
 
 msgid "Tips"
 msgstr "Аҵаҳәарақәа"
@@ -1850,9 +1852,6 @@ msgstr "Авидео аҿакыуп:"
 msgid "Vocals"
 msgstr "Абжьтәиқәа"
 
-msgid "volume"
-msgstr "аҩаӡара"
-
 msgid "Walking"
 msgstr "Иеиҭаҵқәо"
 
@@ -1877,19 +1876,16 @@ msgstr "Амҿтәы флеита"
 msgid "world"
 msgstr "аҭынчра"
 
-msgid "x position"
-msgstr "x аҭыҧ"
-
-msgid "y position"
-msgstr "у аҭыҧ"
-
 msgid "year"
 msgstr "ашықәс"
 
-msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
+msgid ""
+"You cannot edit cloud data in someone else's project.<br>Any change that you "
+"make in the editor will be temporary and not persistent."
 msgstr ""
-"Шәара ишәылшом аҧсҭҳәатә дыррақәа рыҧсахра ишәтәым апроеқтқәа рҿы<br>"
-"Иарбанзаалакь иалажәгало аҧсахрақәа, аредақциа арежим аҟны иаамҭалатәихоит."
+"Шәара ишәылшом аҧсҭҳәатә дыррақәа рыҧсахра ишәтәым апроеқтқәа "
+"рҿы<br>Иарбанзаалакь иалажәгало аҧсахрақәа, аредақциа арежим аҟны "
+"иаамҭалатәихоит."
 
 msgid "Your Scratch name"
 msgstr "Шәара шәыхьӡ Scratch аҟны"
@@ -1899,8 +1895,8 @@ msgstr "иаҭахәуп шәара шәыхьӡ Scratch аҟны"
 
 msgid ""
 "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-"For more info, <a href= target=>see the cloud data FAQ!</a>"
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Аинформациа аҧсҭҳәатә ҽеиҭакқәа ирызкны</b><br>&nbsp;<br>Уажәтәи аамҭазы "
 "ахархәара зуа ихыҧхьаӡаратәу аҽеиҭакқәа роуп<br>Чат-ауадақәа ауӡом, "

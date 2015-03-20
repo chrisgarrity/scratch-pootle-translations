@@ -1,7 +1,13 @@
+# #-#-#-#-#  blocks.po (0.3.1)  #-#-#-#-#
 # Prevod blokova za Scrach 2.0
 # Milan Cajić <milan.cajic@open.telekom.rs>, 2013.
+# #-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#
+# Prevod editora za Scratch 2.0
+# Milan Cajić <milan.cajic@open.telekom.rs>, 2013.
+#, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  blocks.po (0.3.1)  #-#-#-#-#\n"
 "Project-Id-Version: 0.3.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
@@ -12,12 +18,29 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.1.1\n"
 "X-Language: sr_RS\n"
 "X-Source-Language: C\n"
 "X-POOTLE-MTIME: 1372694740.000000\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
+"PO-Revision-Date: 2013-07-27 19:20+0000\n"
+"Last-Translator: Milan <milan.cajic@open.telekom.rs>\n"
+"Language-Team: српски <>\n"
+"Language: sr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1374952838.000000\n"
+"X-Language: sr_RS\n"
+"X-Source-Language: C\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -53,10 +76,12 @@ msgstr "одговор"
 msgid "ask %s and wait"
 msgstr "питај %s и чекај"
 
+# #-#-#-#-#  blocks.po (0.3.1)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
 msgstr "позадина број"
 
+# #-#-#-#-#  blocks.po (0.3.1)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
 msgstr "име позадине"
@@ -109,8 +134,13 @@ msgstr "боја %c додирује %c?"
 msgid "Control"
 msgstr "Управљање"
 
+#, fuzzy
 msgid "costume #"
-msgstr "број костима"
+msgstr ""
+"#-#-#-#-#  blocks.po (0.3.1)  #-#-#-#-#\n"
+"број костима\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"костим број"
 
 msgid "create clone of %m.spriteOnly"
 msgstr "направи умножак од %m.spriteOnly"
@@ -364,6 +394,8 @@ msgstr "покажи променљиву %m.var"
 msgid "size"
 msgstr "величина"
 
+# #-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#
+# 80%
 msgid "Sound"
 msgstr "Звук"
 
@@ -484,11 +516,21 @@ msgstr "када је кликнуто на овај лик"
 msgid "when tilt %m.eNe %n"
 msgstr ""
 
+#, fuzzy
 msgid "x position"
-msgstr "место x"
+msgstr ""
+"#-#-#-#-#  blocks.po (0.3.1)  #-#-#-#-#\n"
+"место x\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"x места"
 
+#, fuzzy
 msgid "y position"
-msgstr "место y"
+msgstr ""
+"#-#-#-#-#  blocks.po (0.3.1)  #-#-#-#-#\n"
+"место y\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"y места"
 
 msgid "set motor direction %m.motorDirection"
 msgstr "нека смер мотора буде %m.motorDirection"
@@ -511,84 +553,14 @@ msgstr "када је растојање < %n"
 msgid "when tilt = %n"
 msgstr "када је нагиб = %n"
 
-# 86%
-#, fuzzy
-#~ msgid "set %m.motor direction to %m.motorDirection"
-#~ msgstr "нека смер мотора буде %m.motorDirection"
-
-#~ msgid "user id"
-#~ msgstr "корисникова ознака"
-
-#~ msgid "clone startup"
-#~ msgstr "почетак рада умношка"
-
-#~ msgid "forever if %b"
-#~ msgstr "понављај ако %b"
-
-#~ msgid "hide all sprites"
-#~ msgstr "сакриј све спрајтове"
-
-#~ msgid "if %b"
-#~ msgstr "ако %b"
-
-#~ msgid "Scratch days"
-#~ msgstr "Scratch дани"
-
-#~ msgid "hide monitor %m.varOrList"
-#~ msgstr "сакриј приказ за %m.varOrList"
-
-#~ msgid "motor direction %m.motorDirection"
-#~ msgstr "%m.motorDirection смер мотора"
-
-#~ msgid "motor off"
-#~ msgstr "угаси мотор"
-
-#~ msgid "motor on"
-#~ msgstr "упали мотор"
-
-#~ msgid "motor on for %n secs"
-#~ msgstr "покрећи мотор током %n секунде"
-
-#~ msgid "motor power %n"
-#~ msgstr "снага мотора %n"
-
-#~ msgid "play note %n for %n beats"
-#~ msgstr "сивирај ноту %d.note током %n откуцаја"
-
-#~ msgid "show monitor %m.varOrList"
-#~ msgstr "прикажи %m.varOrList"
-
-#~ msgid "when I am clicked"
-#~ msgstr "када је кликнуто на мене"
-
-##################
-# User Interface #
-##################
-# Prevod editora za Scratch 2.0
-# Milan Cajić <milan.cajic@open.telekom.rs>, 2013.
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2013-07-27 19:20+0000\n"
-"Last-Translator: Milan <milan.cajic@open.telekom.rs>\n"
-"Language-Team: српски <>\n"
-"Language: sr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1374952838.000000\n"
-"X-Language: sr_RS\n"
-"X-Source-Language: C\n"
-
 msgid "10 ^"
 msgstr "10 на степен"
 
-msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank"
+"\">see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Информације о интернет променљивама у облаку</b><br>&nbsp;<br>Тренутно су "
 "само бројеви продржани<br>собе за разговор (chat rooms) нису дозвољене, и "
@@ -691,14 +663,8 @@ msgstr "позадина"
 msgid "Backdrop"
 msgstr "Позадина"
 
-msgid "backdrop #"
-msgstr "позадина број"
-
 msgid "Backdrop Library"
 msgstr "Библиотека позадина"
-
-msgid "backdrop name"
-msgstr "име позадине"
 
 msgid "backdrop1"
 msgstr "позадина1"
@@ -723,7 +689,10 @@ msgstr "Бас бубањ"
 msgid "Bassoon"
 msgstr "Фагот"
 
-msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgid ""
+"Because you have a new Scratch account, any changes to cloud data won't be "
+"saved yet. Keep participating on the site you'll be able to use cloud data "
+"soon!"
 msgstr ""
 "Због тога што је твој Скрач налог нов, било која промена Интернет података у "
 "облаку се неће сачувати. Настави да учествујеш на сајту и омогућиће ти се да "
@@ -838,7 +807,7 @@ msgstr "Обриши"
 msgid "clear senders/receivers"
 msgstr "обриши пошиљаоце/примаоце"
 
-msgid "Click "Save now" to try again or "Download" to save"
+msgid "Click \"Save now\" to try again or \"Download\" to save"
 msgstr "Кликни да покушаш поново или сачуваш"
 
 msgid "Close"
@@ -889,9 +858,6 @@ msgstr "cos"
 # 75%
 msgid "Costume"
 msgstr "Костим"
-
-msgid "costume #"
-msgstr "костим број"
 
 msgid "Costume Library"
 msgstr "Библиотека костима"
@@ -955,9 +921,6 @@ msgstr "Обриши"
 
 msgid "delete variable"
 msgstr "обриши променљиву"
-
-msgid "direction"
-msgstr "смер"
 
 # 90%
 msgid "direction:"
@@ -1135,9 +1098,6 @@ msgstr ""
 msgid "hello"
 msgstr "Виолончело"
 
-msgid "hide"
-msgstr "сакриј"
-
 msgid "High C"
 msgstr "Високо це"
 
@@ -1227,9 +1187,6 @@ msgstr "log"
 
 msgid "louder"
 msgstr "гласније"
-
-msgid "loudness"
-msgstr "јачина звука"
 
 msgid "Low C"
 msgstr "Ниско це"
@@ -1357,9 +1314,6 @@ msgstr "Нови лик:"
 
 msgid "New Variable"
 msgstr "Нова променљива"
-
-msgid "next backdrop"
-msgstr ""
 
 msgid "No motion blocks"
 msgstr "Нема блокова за кретање"
@@ -1623,7 +1577,9 @@ msgstr "секунда"
 msgid "See project page"
 msgstr "Погледај страну пројекта"
 
-msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
+msgid ""
+"See the Tips window (on the right) to install the plug-in and get the "
+"extension working."
 msgstr ""
 
 msgid "Select"
@@ -1663,9 +1619,6 @@ msgstr "објављено (дељено)"
 msgid "Shift:"
 msgstr "Пормери:"
 
-msgid "show"
-msgstr "прикажи"
-
 msgid "show receivers"
 msgstr "прикажи примаоце"
 
@@ -1696,9 +1649,6 @@ msgstr "тишина"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "величина"
-
 msgid "slider"
 msgstr "клизач"
 
@@ -1719,10 +1669,6 @@ msgstr "мекше"
 
 msgid "sound"
 msgstr "звук"
-
-# 80%
-msgid "Sound"
-msgstr "Звук"
 
 msgid "Sound Library"
 msgstr "Библиотека звукова"
@@ -1800,7 +1746,9 @@ msgstr "позитиван"
 msgid "The name is already in use."
 msgstr ""
 
-msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgid ""
+"The project failed to load and Scratch Team has been notified. Press OK to "
+"leave this page."
 msgstr ""
 
 msgid "Theme"
@@ -1815,12 +1763,16 @@ msgstr ""
 msgid "This is the current version."
 msgstr ""
 
-msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
+msgid ""
+"This project can detect who is using it, through the “username” block. To "
+"hide your identity, sign out before using the project."
 msgstr ""
 "Овај пројекат може да одреди ко га користи кроз “корисничко име” блок. Да би "
 "сакрили свој идентитет, одјавите се пре употребе пројекта."
 
-msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
+msgid ""
+"This project uses Cloud data ‒ a feature that is available only to signed in "
+"users."
 msgstr ""
 "Овај пројекат користи интернет податке у облаку - особину која је доступна "
 "само пријављеним корисницима."
@@ -1836,9 +1788,6 @@ msgstr "негативан"
 
 msgid "Throw away all changes since opening this project?"
 msgstr "Да ли да одбацим све промене од тренутка отварања овог пројекта?"
-
-msgid "timer"
-msgstr "тајмер"
 
 msgid "Tips"
 msgstr "Савети"
@@ -1960,9 +1909,6 @@ msgstr "Видео укључен:"
 msgid "Vocals"
 msgstr "Глас"
 
-msgid "volume"
-msgstr "јачина звука"
-
 msgid "Walking"
 msgstr "Шетати"
 
@@ -1987,16 +1933,12 @@ msgstr "Дрвена флаута"
 msgid "world"
 msgstr ""
 
-msgid "x position"
-msgstr "x места"
-
-msgid "y position"
-msgstr "y места"
-
 msgid "year"
 msgstr "година"
 
-msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
+msgid ""
+"You cannot edit cloud data in someone else's project.<br>Any change that you "
+"make in the editor will be temporary and not persistent."
 msgstr ""
 "Не можеш да уређујеш интернет податке у облаку у туђем пројекту.<br>Свака "
 "промена коју направиш у едитору биће привремена а не трајна."
@@ -2009,8 +1951,8 @@ msgstr ""
 
 msgid ""
 "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-"For more info, <a href= target=>see the cloud data FAQ!</a>"
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Информације о интернет променљивама у облаку</b><br>&nbsp;<br>Тренутно су "
 "само бројеви продржани<br>собе за разговор (chat rooms) нису дозвољене, и "
@@ -2025,6 +1967,56 @@ msgstr "Обриши употребом:"
 
 msgid "Line width:"
 msgstr "Ширина линије:"
+
+# 86%
+#, fuzzy
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "нека смер мотора буде %m.motorDirection"
+
+#~ msgid "user id"
+#~ msgstr "корисникова ознака"
+
+#~ msgid "clone startup"
+#~ msgstr "почетак рада умношка"
+
+#~ msgid "forever if %b"
+#~ msgstr "понављај ако %b"
+
+#~ msgid "hide all sprites"
+#~ msgstr "сакриј све спрајтове"
+
+#~ msgid "if %b"
+#~ msgstr "ако %b"
+
+#~ msgid "Scratch days"
+#~ msgstr "Scratch дани"
+
+#~ msgid "hide monitor %m.varOrList"
+#~ msgstr "сакриј приказ за %m.varOrList"
+
+#~ msgid "motor direction %m.motorDirection"
+#~ msgstr "%m.motorDirection смер мотора"
+
+#~ msgid "motor off"
+#~ msgstr "угаси мотор"
+
+#~ msgid "motor on"
+#~ msgstr "упали мотор"
+
+#~ msgid "motor on for %n secs"
+#~ msgstr "покрећи мотор током %n секунде"
+
+#~ msgid "motor power %n"
+#~ msgstr "снага мотора %n"
+
+#~ msgid "play note %n for %n beats"
+#~ msgstr "сивирај ноту %d.note током %n откуцаја"
+
+#~ msgid "show monitor %m.varOrList"
+#~ msgstr "прикажи %m.varOrList"
+
+#~ msgid "when I am clicked"
+#~ msgstr "када је кликнуто на мене"
 
 #~ msgid "cleanup"
 #~ msgstr "чишћење"

@@ -1,5 +1,7 @@
+#, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
@@ -13,6 +15,20 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1419051983.000000\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
+"PO-Revision-Date: 2015-01-01 01:59+0000\n"
+"Last-Translator: Emmanuella <emma.rumanti@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1420077570.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -48,10 +64,12 @@ msgstr "jawaban"
 msgid "ask %s and wait"
 msgstr "tanya %s dan tunggu"
 
+# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
 msgstr "latar #"
 
+# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
 msgstr "nama latar"
@@ -353,8 +371,13 @@ msgstr "set x ke %n"
 msgid "set y to %n"
 msgstr "set y ke %n"
 
+#, fuzzy
 msgid "show"
-msgstr "tampilkan"
+msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"tampilkan\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"muncul"
 
 msgid "show list %m.list"
 msgstr "tampilkan daftar %m.list"
@@ -518,64 +541,20 @@ msgstr "ketika jarak < %n"
 msgid "when tilt = %n"
 msgstr "ketika miring = %n"
 
-# 89%
-# 86%
-#~ msgid "set %m.motor direction to %m.motorDirection"
-#~ msgstr "atur arah motor %m.motorDirection"
-
-#~ msgid "forever if %b"
-#~ msgstr "selamanya jika %b"
-
-#~ msgid "if %b"
-#~ msgstr "jika %b"
-
-#~ msgid "motor direction %m.motorDirection"
-#~ msgstr "arah motor %m.motorDirection"
-
-#~ msgid "motor off"
-#~ msgstr "matikan motor"
-
-#~ msgid "motor on"
-#~ msgstr "hidupkan motor"
-
-#~ msgid "motor on for %n secs"
-#~ msgstr "hidupkan motor selama %n detik"
-
-#~ msgid "motor power %n"
-#~ msgstr "daya motor %n"
-
-#~ msgid "play note %n for %n beats"
-#~ msgstr "mainkan nada %d.note sebanyak %n ketukan"
-
-##################
-# User Interface #
-##################
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-01-01 01:59+0000\n"
-"Last-Translator: Emmanuella <emma.rumanti@gmail.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: id\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1420077570.000000\n"
-
 # Sepertinya ini matematika... ~R
 msgid "10 ^"
 msgstr "10 ^"
 
-msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank"
+"\">see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Informasi tentang variabel Cloud</b><br>&nbsp;<br>Sekarang, hanya angka "
 "yang didukung<br>Chat room tidak diperbolehkan, dan akan dihapus<br>Untuk "
-"informasi lebih lanjut, <a href=\"/help/faq/#clouddata\" target=\"_blank\">"
-"lihat FAQ Cloud Data!</a>"
+"informasi lebih lanjut, <a href=\"/help/faq/#clouddata\" target=\"_blank"
+"\">lihat FAQ Cloud Data!</a>"
 
 msgid "A connected"
 msgstr "A terkoneksi"
@@ -669,14 +648,8 @@ msgstr "latar"
 msgid "Backdrop"
 msgstr "Latar"
 
-msgid "backdrop #"
-msgstr "latar #"
-
 msgid "Backdrop Library"
 msgstr "Pustaka Latar"
-
-msgid "backdrop name"
-msgstr "nama latar"
 
 msgid "backdrop1"
 msgstr "latar1"
@@ -700,7 +673,10 @@ msgstr "Drum Bass"
 msgid "Bassoon"
 msgstr "Serunai kayu"
 
-msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgid ""
+"Because you have a new Scratch account, any changes to cloud data won't be "
+"saved yet. Keep participating on the site you'll be able to use cloud data "
+"soon!"
 msgstr ""
 "Karena akun Scratch-mu baru, setiap perubahan pada cloud data tidak akan "
 "tersimpan. Tetaplah berpartisipasi di situs ini dan kau akan dapat "
@@ -820,7 +796,7 @@ msgstr "Hapus semua"
 msgid "clear senders/receivers"
 msgstr "hapus pengirim/penerima"
 
-msgid "Click "Save now" to try again or "Download" to save"
+msgid "Click \"Save now\" to try again or \"Download\" to save"
 msgstr ""
 "Klik \"Simpan sekarang\" untuk mencoba lagi atau untuk \"Unduh\" untuk "
 "menyimpan"
@@ -876,9 +852,6 @@ msgstr "cos"
 
 msgid "Costume"
 msgstr "Kostum"
-
-msgid "costume #"
-msgstr "kostum #"
 
 msgid "Costume Library"
 msgstr "Pustaka Kostum"
@@ -938,9 +911,6 @@ msgstr "Hapus"
 
 msgid "delete variable"
 msgstr "hapus variabel"
-
-msgid "direction"
-msgstr "arah"
 
 msgid "direction:"
 msgstr "arah:"
@@ -1120,9 +1090,6 @@ msgstr "Hmm..."
 msgid "hello"
 msgstr "halo"
 
-msgid "hide"
-msgstr "sembunyikan"
-
 # Guru pianoku, sih, mengajarkanku begitu. MEnurutku ini adalah bagian dari nnada (musik)
 msgid "High C"
 msgstr "C Tinggi"
@@ -1215,9 +1182,6 @@ msgstr "log"
 
 msgid "louder"
 msgstr "lebih keras"
-
-msgid "loudness"
-msgstr "kekerasan suara"
 
 msgid "Low C"
 msgstr "C Rendah"
@@ -1344,9 +1308,6 @@ msgstr "Sprite baru:"
 
 msgid "New Variable"
 msgstr "Variabel Baru"
-
-msgid "next backdrop"
-msgstr ""
 
 msgid "No motion blocks"
 msgstr "Tidak ada blocks gerak"
@@ -1609,7 +1570,9 @@ msgstr "detik"
 msgid "See project page"
 msgstr "Lihat halaman projek"
 
-msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
+msgid ""
+"See the Tips window (on the right) to install the plug-in and get the "
+"extension working."
 msgstr "Projek tidak termuat."
 
 msgid "Select"
@@ -1648,9 +1611,6 @@ msgstr "terbagikan"
 msgid "Shift:"
 msgstr "Shift:"
 
-msgid "show"
-msgstr "muncul"
-
 msgid "show receivers"
 msgstr "tampilkan penerima"
 
@@ -1682,9 +1642,6 @@ msgstr "sunyi"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "ukuran"
-
 msgid "slider"
 msgstr "slider"
 
@@ -1706,9 +1663,6 @@ msgstr "lebih lembut"
 
 msgid "sound"
 msgstr "suara"
-
-msgid "Sound"
-msgstr "Suara"
 
 msgid "Sound Library"
 msgstr "Pustaka Suara"
@@ -1784,7 +1738,9 @@ msgstr "ke arah sana"
 msgid "The name is already in use."
 msgstr ""
 
-msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgid ""
+"The project failed to load and Scratch Team has been notified. Press OK to "
+"leave this page."
 msgstr ""
 
 msgid "Theme"
@@ -1799,13 +1755,17 @@ msgstr ""
 msgid "This is the current version."
 msgstr ""
 
-msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
+msgid ""
+"This project can detect who is using it, through the “username” block. To "
+"hide your identity, sign out before using the project."
 msgstr ""
 "Lewat balok “username” karya ini dapat mendeteksi username siapa yang "
 "menggunakannya. Untuk menyembunyikan identitasmu, keluarlah sebelum "
 "menjalankan karya ini."
 
-msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
+msgid ""
+"This project uses Cloud data ‒ a feature that is available only to signed in "
+"users."
 msgstr ""
 "Projek ini menggunakan Cloud data ‒ sebuah fitur yang hanya bisa dipakai "
 "oleh user terdaftar yang masuk."
@@ -1821,9 +1781,6 @@ msgstr "ke arah sini"
 
 msgid "Throw away all changes since opening this project?"
 msgstr "Hapus semua perubahan sejak membuka projek ini?"
-
-msgid "timer"
-msgstr "timer"
 
 msgid "Tips"
 msgstr "Tips"
@@ -1949,9 +1906,6 @@ msgstr "Video on:"
 msgid "Vocals"
 msgstr "Vokal"
 
-msgid "volume"
-msgstr "volume"
-
 msgid "Walking"
 msgstr "Berjalan"
 
@@ -1976,16 +1930,12 @@ msgstr "Seruling Kayu"
 msgid "world"
 msgstr ""
 
-msgid "x position"
-msgstr "posisi x"
-
-msgid "y position"
-msgstr "posisi y"
-
 msgid "year"
 msgstr "tahun"
 
-msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
+msgid ""
+"You cannot edit cloud data in someone else's project.<br>Any change that you "
+"make in the editor will be temporary and not persistent."
 msgstr ""
 "Kamu tidak bisa mengedit cloud data di dalam projek orang lain.<br>Semua "
 "perubahan yang kamu buat di editor adalah sementara dan tidak tetap."
@@ -1998,8 +1948,8 @@ msgstr ""
 
 msgid ""
 "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-"For more info, <a href= target=>see the cloud data FAQ!</a>"
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Informasi tentang variabel Cloud</b><br>&nbsp;<br>Sekarang, hanya angka "
 "yang didukung<br>Chat room tidak diperbolehkan, dan akan dihapus<br>Untuk "
@@ -2013,6 +1963,35 @@ msgstr "Lebar penghapus:"
 
 msgid "Line width:"
 msgstr "Lebar garis:"
+
+# 89%
+# 86%
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "atur arah motor %m.motorDirection"
+
+#~ msgid "forever if %b"
+#~ msgstr "selamanya jika %b"
+
+#~ msgid "if %b"
+#~ msgstr "jika %b"
+
+#~ msgid "motor direction %m.motorDirection"
+#~ msgstr "arah motor %m.motorDirection"
+
+#~ msgid "motor off"
+#~ msgstr "matikan motor"
+
+#~ msgid "motor on"
+#~ msgstr "hidupkan motor"
+
+#~ msgid "motor on for %n secs"
+#~ msgstr "hidupkan motor selama %n detik"
+
+#~ msgid "motor power %n"
+#~ msgstr "daya motor %n"
+
+#~ msgid "play note %n for %n beats"
+#~ msgstr "mainkan nada %d.note sebanyak %n ketukan"
 
 # "cleanup" adalah fitur editor yang dapat kau gunakan untuk merapikan scripts. (blocks)
 #~ msgid "cleanup"

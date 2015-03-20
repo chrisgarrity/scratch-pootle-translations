@@ -1,5 +1,7 @@
+#, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
@@ -10,10 +12,25 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1375796894.000000\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
+"PO-Revision-Date: 2013-08-01 00:29+0000\n"
+"Last-Translator: zeta11 <tajana.toto@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1375316989.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -49,10 +66,12 @@ msgstr "odgovor"
 msgid "ask %s and wait"
 msgstr "pitaj %s i čekaj"
 
+# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
 msgstr "pozadina #"
 
+# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
 msgstr "naziv pozadine"
@@ -362,6 +381,8 @@ msgstr "prikaži varijablu %m.var"
 msgid "size"
 msgstr "veličina"
 
+# #-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#
+# 80%
 msgid "Sound"
 msgstr "Zvuk"
 
@@ -397,8 +418,13 @@ msgstr "razmišljaj %s %n sekundi"
 msgid "tilt"
 msgstr "nagni"
 
+#, fuzzy
 msgid "timer"
-msgstr "alarm"
+msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"alarm\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"brojač"
 
 msgid "touching %m.touching?"
 msgstr "dodiruje %m.touching?"
@@ -511,65 +537,19 @@ msgstr "kada je udaljenost < %n"
 msgid "when tilt = %n"
 msgstr "kad je nagib = %n"
 
-# 89%
-# 86%
-#, fuzzy
-#~ msgid "set %m.motor direction to %m.motorDirection"
-#~ msgstr "postavi smjer motora %m.motorDirection"
-
-#~ msgid "forever if %b"
-#~ msgstr "ponavljaj ako je %b"
-
-#~ msgid "if %b"
-#~ msgstr "ako je %b"
-
-#~ msgid "motor direction %m.motorDirection"
-#~ msgstr "smjer motora %m.motorDirection"
-
-#~ msgid "motor off"
-#~ msgstr "upali motor"
-
-#~ msgid "motor on"
-#~ msgstr "ugasi motor"
-
-#~ msgid "motor on for %n secs"
-#~ msgstr "upali motor na %n sekunda"
-
-#~ msgid "motor power %n"
-#~ msgstr "snaga motora %n"
-
-#~ msgid "play note %n for %n beats"
-#~ msgstr "sviraj notu %d.note %n puta"
-
-##################
-# User Interface #
-##################
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2013-08-01 00:29+0000\n"
-"Last-Translator: zeta11 <tajana.toto@gmail.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: hr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1375316989.000000\n"
-
 msgid "10 ^"
 msgstr "10 ^"
 
-msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank"
+"\">see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Informacije o varijablama oblaka</b><br>&nbsp;<br>Trenutno su podržani "
 "jedino brojevi<br>Čavrljanje nije dozvoljeno i bit će uklonjeno<br>Za više "
-"informacija, <a href=target=> vidi često postavljena pitanja i odgovore (FAQ)"
-" vezane uz podatke oblaka!</a>"
+"informacija, <a href=target=> vidi često postavljena pitanja i odgovore "
+"(FAQ) vezane uz podatke oblaka!</a>"
 
 msgid "A connected"
 msgstr "A spojen"
@@ -662,14 +642,8 @@ msgstr "pozadina"
 msgid "Backdrop"
 msgstr "Pozadina"
 
-msgid "backdrop #"
-msgstr "pozadina #"
-
 msgid "Backdrop Library"
 msgstr "Knjižnica pozadina"
-
-msgid "backdrop name"
-msgstr "naziv pozadine"
 
 msgid "backdrop1"
 msgstr "pozadina1"
@@ -692,7 +666,10 @@ msgstr "Kasa"
 msgid "Bassoon"
 msgstr "Fagot"
 
-msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgid ""
+"Because you have a new Scratch account, any changes to cloud data won't be "
+"saved yet. Keep participating on the site you'll be able to use cloud data "
+"soon!"
 msgstr ""
 "Budući da imate novi Scratch račun promjene koje napravite na podacima u "
 "oblaku neće biti sačuvane.Nastavite s radom na stranici i uskoro ćete imati "
@@ -807,7 +784,7 @@ msgstr "Obriši"
 msgid "clear senders/receivers"
 msgstr "obriši pošiljatelje/primatelje"
 
-msgid "Click "Save now" to try again or "Download" to save"
+msgid "Click \"Save now\" to try again or \"Download\" to save"
 msgstr "Odaberi  za ponovni pokušaj ili  za spremanje"
 
 msgid "Close"
@@ -859,9 +836,6 @@ msgstr "cos"
 # 75%
 msgid "Costume"
 msgstr "Kostim"
-
-msgid "costume #"
-msgstr "kostim #"
 
 msgid "Costume Library"
 msgstr "Knjižnica kostima"
@@ -920,9 +894,6 @@ msgstr "Obriši"
 
 msgid "delete variable"
 msgstr "obriši varijablu"
-
-msgid "direction"
-msgstr "smjer"
 
 # 90%
 msgid "direction:"
@@ -1102,9 +1073,6 @@ msgstr ""
 msgid "hello"
 msgstr "Violončelo"
 
-msgid "hide"
-msgstr "sakrij"
-
 msgid "High C"
 msgstr "Visoki C"
 
@@ -1194,9 +1162,6 @@ msgstr "log"
 
 msgid "louder"
 msgstr "glasnije"
-
-msgid "loudness"
-msgstr "glasnoća"
 
 msgid "Low C"
 msgstr "Niski C"
@@ -1320,9 +1285,6 @@ msgstr "Novi lik:"
 
 msgid "New Variable"
 msgstr "Nova varijabla"
-
-msgid "next backdrop"
-msgstr ""
 
 msgid "No motion blocks"
 msgstr "Bez blokova kretanja"
@@ -1587,7 +1549,9 @@ msgstr "sekunda"
 msgid "See project page"
 msgstr "Pogledaj stranicu projekta"
 
-msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
+msgid ""
+"See the Tips window (on the right) to install the plug-in and get the "
+"extension working."
 msgstr ""
 
 msgid "Select"
@@ -1626,9 +1590,6 @@ msgstr "dijeljeno"
 msgid "Shift:"
 msgstr "Promjena:"
 
-msgid "show"
-msgstr "prikaži"
-
 msgid "show receivers"
 msgstr "prikaži primatelje"
 
@@ -1659,9 +1620,6 @@ msgstr "tišina"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "veličina"
-
 msgid "slider"
 msgstr "klizač"
 
@@ -1682,10 +1640,6 @@ msgstr "blaže"
 
 msgid "sound"
 msgstr "zvuk"
-
-# 80%
-msgid "Sound"
-msgstr "Zvuk"
 
 msgid "Sound Library"
 msgstr "Knjižnica zvukova"
@@ -1757,7 +1711,9 @@ msgstr "ovim smjerom"
 msgid "The name is already in use."
 msgstr ""
 
-msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgid ""
+"The project failed to load and Scratch Team has been notified. Press OK to "
+"leave this page."
 msgstr ""
 
 msgid "Theme"
@@ -1772,12 +1728,16 @@ msgstr ""
 msgid "This is the current version."
 msgstr ""
 
-msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
+msgid ""
+"This project can detect who is using it, through the “username” block. To "
+"hide your identity, sign out before using the project."
 msgstr ""
 "Korisnik projekta može se odrediti preko bloka \"korisničko ime\". Kako bi "
 "sakrili svoj identitet, odjavite se prije korištenja projekta."
 
-msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
+msgid ""
+"This project uses Cloud data ‒ a feature that is available only to signed in "
+"users."
 msgstr ""
 "Projekt koristi podatke s oblaka - mogućnost koja je dostupna jedino "
 "prijavljenim korisnicima."
@@ -1793,9 +1753,6 @@ msgstr "ovim smjerom"
 
 msgid "Throw away all changes since opening this project?"
 msgstr "Odbaci sve promjene nastale od otvaranja ovog projekta?"
-
-msgid "timer"
-msgstr "brojač"
 
 msgid "Tips"
 msgstr "Natuknice"
@@ -1914,9 +1871,6 @@ msgstr "Video uključen:"
 msgid "Vocals"
 msgstr "Glasovi"
 
-msgid "volume"
-msgstr "glasnoća"
-
 msgid "Walking"
 msgstr "Hodanje"
 
@@ -1942,16 +1896,12 @@ msgstr "Drvena flauta"
 msgid "world"
 msgstr ""
 
-msgid "x position"
-msgstr "x položaj"
-
-msgid "y position"
-msgstr "y položaj"
-
 msgid "year"
 msgstr "godina"
 
-msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
+msgid ""
+"You cannot edit cloud data in someone else's project.<br>Any change that you "
+"make in the editor will be temporary and not persistent."
 msgstr ""
 "Ne možete uređivati podatke oblaka u tuđim projektima.<br>Svaka promjena u "
 "pregledniku je privremena i nije trajna."
@@ -1964,13 +1914,13 @@ msgstr ""
 
 msgid ""
 "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-"For more info, <a href= target=>see the cloud data FAQ!</a>"
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Informacije o varijablama oblaka</b><br>&nbsp;<br>Trenutno su podržani "
 "jedino brojevi<br>Čavrljanje nije dozvoljeno i bit će uklonjeno<br>Za više "
-"informacija, <a href=target=> vidi često postavljena pitanja i odgovore (FAQ)"
-" vezane uz podatke oblaka!</a>"
+"informacija, <a href=target=> vidi često postavljena pitanja i odgovore "
+"(FAQ) vezane uz podatke oblaka!</a>"
 
 msgid "Click  to try again or  to save"
 msgstr "Odaberi  za ponovni pokušaj ili  za spremanje"
@@ -1980,6 +1930,36 @@ msgstr "Debljina gumice:"
 
 msgid "Line width:"
 msgstr "Debljina linije:"
+
+# 89%
+# 86%
+#, fuzzy
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "postavi smjer motora %m.motorDirection"
+
+#~ msgid "forever if %b"
+#~ msgstr "ponavljaj ako je %b"
+
+#~ msgid "if %b"
+#~ msgstr "ako je %b"
+
+#~ msgid "motor direction %m.motorDirection"
+#~ msgstr "smjer motora %m.motorDirection"
+
+#~ msgid "motor off"
+#~ msgstr "upali motor"
+
+#~ msgid "motor on"
+#~ msgstr "ugasi motor"
+
+#~ msgid "motor on for %n secs"
+#~ msgstr "upali motor na %n sekunda"
+
+#~ msgid "motor power %n"
+#~ msgstr "snaga motora %n"
+
+#~ msgid "play note %n for %n beats"
+#~ msgstr "sviraj notu %d.note %n puta"
 
 #~ msgid "cleanup"
 #~ msgstr "očisti"

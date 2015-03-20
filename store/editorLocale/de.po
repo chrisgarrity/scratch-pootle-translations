@@ -1,5 +1,7 @@
+#, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
@@ -13,6 +15,20 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1421961313.000000\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
+"PO-Revision-Date: 2015-03-08 22:28+0000\n"
+"Last-Translator: Frodewin <wilfried.elmenreich@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1425853700.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -48,10 +64,12 @@ msgstr "Antwort"
 msgid "ask %s and wait"
 msgstr "frage %s und warte"
 
+# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
 msgstr "Bühnenbildnummer"
 
+# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
 msgstr "Bühnenbildname"
@@ -164,6 +182,8 @@ msgstr "komme nach vorn"
 msgid "go to x:%n y:%n"
 msgstr "gehe zu x:%n y:%n"
 
+# #-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#
+# sollte als Menüeintrag 'Verstecken' sein, kollidiert aber mit hide in blocks.po
 msgid "hide"
 msgstr "verstecke dich"
 
@@ -225,6 +245,7 @@ msgstr "Maus y-Position"
 msgid "move %n steps"
 msgstr "gehe %n er-Schritt"
 
+# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "next backdrop"
 msgstr "nächstes Bühnenbild"
@@ -352,6 +373,8 @@ msgstr "setze x auf %n"
 msgid "set y to %n"
 msgstr "setze y auf %n"
 
+# #-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#
+# sollte als Menüeintrag 'Anzeigen' oder 'Zeigen' heißen, kollidiert aber mit show in blocks.po
 msgid "show"
 msgstr "zeige dich"
 
@@ -364,6 +387,8 @@ msgstr "zeige Variable %m.var"
 msgid "size"
 msgstr "Größe"
 
+# #-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#
+# 80%
 msgid "Sound"
 msgstr "Klang"
 
@@ -511,84 +536,18 @@ msgstr "Wenn Abstand < %n"
 msgid "when tilt = %n"
 msgstr "Wenn Neigung = %n"
 
-#~ msgid "set %m.motor direction to %m.motorDirection"
-#~ msgstr "setze Drehung von %m.motor auf %m.motorDirection"
-
-#~ msgid "user name"
-#~ msgstr "Benutzername"
-
-#~ msgid "user id"
-#~ msgstr "Benutzer-ID"
-
-#~ msgid "clone startup"
-#~ msgstr "Klon-Startskript"
-
-#~ msgid "forever if %b"
-#~ msgstr "wiederhole fortlaufend, falls %b"
-
-#~ msgid "hide all sprites"
-#~ msgstr "verstecke alle Figuren"
-
-#~ msgid "if %b"
-#~ msgstr "falls %b"
-
-#~ msgid "Scratch days"
-#~ msgstr "Scratch-Tage"
-
-#~ msgid "hide monitor %m.varOrList"
-#~ msgstr "verstecke Betrachter für %m.varOrList"
-
-#~ msgid "motor direction %m.motorDirection"
-#~ msgstr "setze Motorrichtung auf %m.motorDirection"
-
-#~ msgid "motor off"
-#~ msgstr "schalte Motor aus"
-
-#~ msgid "motor on"
-#~ msgstr "schalte Motor an"
-
-#~ msgid "motor on for %n secs"
-#~ msgstr "schalte Motor für %n Sekunden an"
-
-#~ msgid "motor power %n"
-#~ msgstr "setze Motorkraft auf %n"
-
-#~ msgid "play note %n for %n beats"
-#~ msgstr "spiele Note %d.note für %n Schläge"
-
-#~ msgid "show monitor %m.varOrList"
-#~ msgstr "zeige Betrachter für %m.varOrList"
-
-#~ msgid "when I am clicked"
-#~ msgstr "Wenn ich angeklickt werde"
-
-##################
-# User Interface #
-##################
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-03-03 21:25+0000\n"
-"Last-Translator: Tim <tim5001@byom.de>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: de\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1425417922.000000\n"
-
 msgid "10 ^"
 msgstr "10^"
 
-msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank"
+"\">see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Information zu den Cloud-Variablen</b><br>&nbsp;<br>Zur Zeit werden nur "
-"Zahlen unterstützt<br>Chat-Rooms sind nicht erlaubt und werden gelöscht!<br>"
-"Für weitere Infos, <a href= target=>siehe Cloud-Daten FAQ!</a>"
+"Zahlen unterstützt<br>Chat-Rooms sind nicht erlaubt und werden gelöscht!"
+"<br>Für weitere Infos, <a href= target=>siehe Cloud-Daten FAQ!</a>"
 
 # sensor board
 msgid "A connected"
@@ -689,14 +648,8 @@ msgstr "Bühnenbild"
 msgid "Backdrop"
 msgstr "Bühnenbild"
 
-msgid "backdrop #"
-msgstr "Bühnenbildnummer"
-
 msgid "Backdrop Library"
 msgstr "Bühnenbild-Bibliothek"
-
-msgid "backdrop name"
-msgstr "Bühnenbildname"
 
 msgid "backdrop1"
 msgstr "Bühnenbild1"
@@ -721,7 +674,10 @@ msgstr "Basstrommel"
 msgid "Bassoon"
 msgstr "Fagott"
 
-msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgid ""
+"Because you have a new Scratch account, any changes to cloud data won't be "
+"saved yet. Keep participating on the site you'll be able to use cloud data "
+"soon!"
 msgstr ""
 "Weil Dein Scratch Konto noch recht neu ist, werden deine Änderungen an Cloud-"
 "Daten noch nicht gespeichert. Nimm weiter an der Scratch-Website teil, dann "
@@ -745,9 +701,8 @@ msgstr "Helligkeit"
 msgid "Bring to front"
 msgstr "Ganz nach vorne"
 
-#, fuzzy
 msgid "Broadcast"
-msgstr "Nachricht an alle"
+msgstr "Sende an alle"
 
 msgid "Brush"
 msgstr "Pinsel"
@@ -780,7 +735,6 @@ msgstr "ziehbar im Präsentationsmodus:"
 msgid "Cancel"
 msgstr "Abbrechen"
 
-#, fuzzy
 msgid "Cannot Add"
 msgstr "Hinzufügen nicht möglich"
 
@@ -844,7 +798,7 @@ msgstr "Löschen"
 msgid "clear senders/receivers"
 msgstr "Kennzeichnung der Sender/Empfänger aufheben"
 
-msgid "Click "Save now" to try again or "Download" to save"
+msgid "Click \"Save now\" to try again or \"Download\" to save"
 msgstr "Klicke  für einen neuen Versuch oder  zum Speichern"
 
 msgid "Close"
@@ -894,9 +848,6 @@ msgstr "cos"
 
 msgid "Costume"
 msgstr "Kostüm"
-
-msgid "costume #"
-msgstr "Kostümnummer"
 
 msgid "Costume Library"
 msgstr "Kostüm-Bibliothek"
@@ -956,9 +907,6 @@ msgstr "Löschen"
 
 msgid "delete variable"
 msgstr "Variable löschen"
-
-msgid "direction"
-msgstr "Richtung"
 
 msgid "direction:"
 msgstr "Richtung:"
@@ -1138,11 +1086,6 @@ msgstr "Hmm..."
 msgid "hello"
 msgstr "hallo"
 
-# sollte als Menüeintrag 'Verstecken' sein, kollidiert aber mit hide in blocks.po
-#, fuzzy
-msgid "hide"
-msgstr "verstecke dich"
-
 msgid "High C"
 msgstr "Hohes C"
 
@@ -1236,9 +1179,6 @@ msgstr "log"
 # sounds->effects
 msgid "louder"
 msgstr "lauter"
-
-msgid "loudness"
-msgstr "Lautstärke"
 
 msgid "Low C"
 msgstr "Tiefes C"
@@ -1367,9 +1307,6 @@ msgstr "Neue Figur:"
 
 msgid "New Variable"
 msgstr "Neue Variable"
-
-msgid "next backdrop"
-msgstr "nächstes Bühnenbild"
 
 msgid "No motion blocks"
 msgstr "Keine Bewegungsblöcke"
@@ -1639,7 +1576,9 @@ msgstr "Sekunde"
 msgid "See project page"
 msgstr "Zeige Projektseite"
 
-msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
+msgid ""
+"See the Tips window (on the right) to install the plug-in and get the "
+"extension working."
 msgstr ""
 "Beachte das Fenster (rechts am Rand) mit Tipps zur Installation des Plugins "
 "und zur Inbetriebnahme der Erweiterung."
@@ -1681,11 +1620,6 @@ msgstr "veröffentlicht"
 msgid "Shift:"
 msgstr "Umschalttaste:"
 
-# sollte als Menüeintrag 'Anzeigen' oder 'Zeigen' heißen, kollidiert aber mit show in blocks.po
-#, fuzzy
-msgid "show"
-msgstr "zeige dich"
-
 msgid "show receivers"
 msgstr "Empfänger zeigen"
 
@@ -1717,9 +1651,6 @@ msgstr "stumm"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "Größe"
-
 msgid "slider"
 msgstr "Schieberegler"
 
@@ -1740,10 +1671,6 @@ msgid "softer"
 msgstr "leiser"
 
 msgid "sound"
-msgstr "Klang"
-
-# 80%
-msgid "Sound"
 msgstr "Klang"
 
 msgid "Sound Library"
@@ -1808,7 +1735,6 @@ msgid "tan"
 msgstr "tan"
 
 # im Rastermodus nur hinzufügen, im Vektormodus auch bearbeiten
-#, fuzzy
 msgid "text"
 msgstr "Textwerkzeug"
 
@@ -1823,7 +1749,9 @@ msgstr "andersherum"
 msgid "The name is already in use."
 msgstr "Dieser Name ist bereits vergeben."
 
-msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgid ""
+"The project failed to load and Scratch Team has been notified. Press OK to "
+"leave this page."
 msgstr ""
 "Das Projekt konnte nicht geladen werden. Das Scratch-Team wurde deswegen "
 "benachrichtigt. Klicke auf OK, um diese Seite zu verlassen."
@@ -1834,20 +1762,23 @@ msgstr "Thema"
 msgid "Things"
 msgstr "Dinge"
 
-#, fuzzy
 msgid "thing"
 msgstr "Ding"
 
 msgid "This is the current version."
 msgstr "Dies ist die aktuelle Version."
 
-msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
+msgid ""
+"This project can detect who is using it, through the “username” block. To "
+"hide your identity, sign out before using the project."
 msgstr ""
 "Dieses Projekt kann über den \"Benutzername\"-Block feststellen, wer es "
 "benutzt. Willst du deine Identität verbergen, so melde dich vor der "
 "Benutzung des Projekts ab."
 
-msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
+msgid ""
+"This project uses Cloud data ‒ a feature that is available only to signed in "
+"users."
 msgstr ""
 "Dieses Projekt nutzt Cloud-Daten ‒ eine Funktion, die nur angemeldeten "
 "Benutzern zur Verfügung steht."
@@ -1864,9 +1795,6 @@ msgstr "soherum"
 
 msgid "Throw away all changes since opening this project?"
 msgstr "Alle Änderungen seit dem Öffnen dieses Projekts verwerfen?"
-
-msgid "timer"
-msgstr "Stoppuhr"
 
 msgid "Tips"
 msgstr "Tipps"
@@ -1991,9 +1919,6 @@ msgstr "Video über:"
 msgid "Vocals"
 msgstr "Gesang"
 
-msgid "volume"
-msgstr "Lautstärke"
-
 msgid "Walking"
 msgstr "Gehen"
 
@@ -2018,19 +1943,15 @@ msgstr "Blockflöte"
 msgid "world"
 msgstr "Welt"
 
-msgid "x position"
-msgstr "x-Position"
-
-msgid "y position"
-msgstr "y-Position"
-
 msgid "year"
 msgstr "Jahr"
 
-msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
+msgid ""
+"You cannot edit cloud data in someone else's project.<br>Any change that you "
+"make in the editor will be temporary and not persistent."
 msgstr ""
-"Du kannst keine Cloud-Daten in Projekten von jemand Anderem editieren.<br>"
-"Jede von dir im Editor gemachte Änderung ist temporär und geht verloren."
+"Du kannst keine Cloud-Daten in Projekten von jemand Anderem editieren."
+"<br>Jede von dir im Editor gemachte Änderung ist temporär und geht verloren."
 
 msgid "Your Scratch name"
 msgstr "Dein Scratch-Name"
@@ -2040,12 +1961,12 @@ msgstr "Dein Scratch-Name ist erforderlich"
 
 msgid ""
 "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-"For more info, <a href= target=>see the cloud data FAQ!</a>"
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Information zu den Cloud-Variablen</b><br>&nbsp;<br>Zur Zeit werden nur "
-"Zahlen unterstützt<br>Chat-Rooms sind nicht erlaubt und werden gelöscht!<br>"
-"Für weitere Infos, <a href= target=>siehe Cloud-Daten FAQ!</a>"
+"Zahlen unterstützt<br>Chat-Rooms sind nicht erlaubt und werden gelöscht!"
+"<br>Für weitere Infos, <a href= target=>siehe Cloud-Daten FAQ!</a>"
 
 msgid "Click  to try again or  to save"
 msgstr "Klicke  für einen neuen Versuch oder  zum Speichern"
@@ -2055,6 +1976,57 @@ msgstr "Radierbreite:"
 
 msgid "Line width:"
 msgstr "Linienbreite"
+
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "setze Drehung von %m.motor auf %m.motorDirection"
+
+#~ msgid "user name"
+#~ msgstr "Benutzername"
+
+#~ msgid "user id"
+#~ msgstr "Benutzer-ID"
+
+#~ msgid "clone startup"
+#~ msgstr "Klon-Startskript"
+
+#~ msgid "forever if %b"
+#~ msgstr "wiederhole fortlaufend, falls %b"
+
+#~ msgid "hide all sprites"
+#~ msgstr "verstecke alle Figuren"
+
+#~ msgid "if %b"
+#~ msgstr "falls %b"
+
+#~ msgid "Scratch days"
+#~ msgstr "Scratch-Tage"
+
+#~ msgid "hide monitor %m.varOrList"
+#~ msgstr "verstecke Betrachter für %m.varOrList"
+
+#~ msgid "motor direction %m.motorDirection"
+#~ msgstr "setze Motorrichtung auf %m.motorDirection"
+
+#~ msgid "motor off"
+#~ msgstr "schalte Motor aus"
+
+#~ msgid "motor on"
+#~ msgstr "schalte Motor an"
+
+#~ msgid "motor on for %n secs"
+#~ msgstr "schalte Motor für %n Sekunden an"
+
+#~ msgid "motor power %n"
+#~ msgstr "setze Motorkraft auf %n"
+
+#~ msgid "play note %n for %n beats"
+#~ msgstr "spiele Note %d.note für %n Schläge"
+
+#~ msgid "show monitor %m.varOrList"
+#~ msgstr "zeige Betrachter für %m.varOrList"
+
+#~ msgid "when I am clicked"
+#~ msgstr "Wenn ich angeklickt werde"
 
 #~ msgid "cleanup"
 #~ msgstr "Aufräumen"

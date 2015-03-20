@@ -1,5 +1,7 @@
+#, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
@@ -14,6 +16,21 @@ msgstr ""
 "20)) ? 1 : 2);;\n"
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1382274078.000000\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
+"PO-Revision-Date: 2013-10-20 13:08+0000\n"
+"Last-Translator: Anca-Diana <diacadan@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
+"20)) ? 1 : 2);;\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1382274488.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -49,13 +66,20 @@ msgstr "raspuns"
 msgid "ask %s and wait"
 msgstr "intreaba %s si asteapta"
 
+# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
 msgstr "fundal #"
 
+# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#, fuzzy
 msgid "backdrop name"
-msgstr "denumire fundal"
+msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"denumire fundal\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"numele fundalului"
 
 msgid "broadcast %m.broadcast"
 msgstr "expediere la toti %m.broadcast"
@@ -105,8 +129,13 @@ msgstr "culoarea %c atinge %c?"
 msgid "Control"
 msgstr "Control"
 
+#, fuzzy
 msgid "costume #"
-msgstr "costumul #"
+msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"costumul #\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"costum #"
 
 msgid "create clone of %m.spriteOnly"
 msgstr "creaza clona pentru %m.spriteOnly"
@@ -201,8 +230,13 @@ msgstr "litera %n din %s"
 msgid "Looks"
 msgstr "Aspect"
 
+#, fuzzy
 msgid "loudness"
-msgstr "volum sonor"
+msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"volum sonor\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"putere"
 
 msgid "More Blocks"
 msgstr "Mai multe blocuri"
@@ -360,8 +394,13 @@ msgstr "afiseaza lista %m.list"
 msgid "show variable %m.var"
 msgstr "afiseaza variabila %m.var"
 
+#, fuzzy
 msgid "size"
-msgstr "marime"
+msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"marime\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"dimensiune"
 
 msgid "Sound"
 msgstr "Sunet"
@@ -485,11 +524,21 @@ msgstr "cand se da clic pe acest sprite"
 msgid "when tilt %m.eNe %n"
 msgstr ""
 
+#, fuzzy
 msgid "x position"
-msgstr "pozitia x"
+msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"pozitia x\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"pozitia lui x"
 
+#, fuzzy
 msgid "y position"
-msgstr "pozitia y"
+msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"pozitia y\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"pozitia lui y"
 
 # 89%
 msgid "set motor direction %m.motorDirection"
@@ -515,63 +564,14 @@ msgstr "cand distanta < %n"
 msgid "when tilt = %n"
 msgstr "cand inclinarea = %n"
 
-# 89%
-# 86%
-#, fuzzy
-#~ msgid "set %m.motor direction to %m.motorDirection"
-#~ msgstr "seteaza directia motorului la %m.motorDirection"
-
-#~ msgid "user id"
-#~ msgstr "id utilizator"
-
-#~ msgid "forever if %b"
-#~ msgstr "pentru totdeauna daca %b"
-
-#~ msgid "if %b"
-#~ msgstr "daca %b"
-
-#~ msgid "motor direction %m.motorDirection"
-#~ msgstr "sensul de rotatie al motorului %m.motorDirection"
-
-#~ msgid "motor off"
-#~ msgstr "motor oprit"
-
-#~ msgid "motor on"
-#~ msgstr "motor pornit"
-
-#~ msgid "motor on for %n secs"
-#~ msgstr "motor pornit pentru %n sec"
-
-#~ msgid "motor power %n"
-#~ msgstr "turatia motorului %n"
-
-#~ msgid "play note %n for %n beats"
-#~ msgstr "canta nota %d.note pentru %n timpi"
-
-##################
-# User Interface #
-##################
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2013-10-20 13:08+0000\n"
-"Last-Translator: Anca-Diana <diacadan@gmail.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ro\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
-"20)) ? 1 : 2);;\n"
-"X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1382274488.000000\n"
-
 msgid "10 ^"
 msgstr "10^"
 
-msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank"
+"\">see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Informatia despre variabilele Cloud</b><br>&nbsp;<br>In acest moment sunt "
 "suportate numai numere<br>Camerele de chat nu sunt permise si vor fi "
@@ -668,14 +668,8 @@ msgstr "fundal"
 msgid "Backdrop"
 msgstr "Fundal"
 
-msgid "backdrop #"
-msgstr "fundal #"
-
 msgid "Backdrop Library"
 msgstr "Biblioteca Fundal"
-
-msgid "backdrop name"
-msgstr "numele fundalului"
 
 msgid "backdrop1"
 msgstr "fundal1"
@@ -698,7 +692,10 @@ msgstr "Toba Bass"
 msgid "Bassoon"
 msgstr "Fagot"
 
-msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgid ""
+"Because you have a new Scratch account, any changes to cloud data won't be "
+"saved yet. Keep participating on the site you'll be able to use cloud data "
+"soon!"
 msgstr ""
 "Deoarece ai un nou cont Scratch, modificarile la informatiile din cloud inca "
 "nu vor fi salvate. Continuand sa participi pe site vei putea curnad sa "
@@ -812,7 +809,7 @@ msgstr "Curata"
 msgid "clear senders/receivers"
 msgstr "curata expeditori/destinatari"
 
-msgid "Click "Save now" to try again or "Download" to save"
+msgid "Click \"Save now\" to try again or \"Download\" to save"
 msgstr "Clic pentru a incerca din nou sau  pentru a salva"
 
 msgid "Close"
@@ -862,9 +859,6 @@ msgstr "cos"
 
 msgid "Costume"
 msgstr "Costum"
-
-msgid "costume #"
-msgstr "costum #"
 
 msgid "Costume Library"
 msgstr "Biblioteca de costume"
@@ -923,9 +917,6 @@ msgstr "Sterge"
 
 msgid "delete variable"
 msgstr "sterge variabila"
-
-msgid "direction"
-msgstr "directie"
 
 msgid "direction:"
 msgstr "directie:"
@@ -1102,9 +1093,6 @@ msgstr ""
 msgid "hello"
 msgstr "Violoncel"
 
-msgid "hide"
-msgstr "ascunde"
-
 msgid "High C"
 msgstr "Do de sus"
 
@@ -1196,9 +1184,6 @@ msgstr "log"
 
 msgid "louder"
 msgstr "mai tare"
-
-msgid "loudness"
-msgstr "putere"
 
 msgid "Low C"
 msgstr "Do de jos"
@@ -1323,9 +1308,6 @@ msgstr "Sprite nou:"
 
 msgid "New Variable"
 msgstr "Variabila noua"
-
-msgid "next backdrop"
-msgstr ""
 
 msgid "No motion blocks"
 msgstr "Niciun bloc de miscare"
@@ -1587,7 +1569,9 @@ msgstr "al doilea"
 msgid "See project page"
 msgstr "Vezi pagina proiectului"
 
-msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
+msgid ""
+"See the Tips window (on the right) to install the plug-in and get the "
+"extension working."
 msgstr ""
 
 msgid "Select"
@@ -1626,9 +1610,6 @@ msgstr "partajat"
 msgid "Shift:"
 msgstr "Shift:"
 
-msgid "show"
-msgstr "afiseaza"
-
 msgid "show receivers"
 msgstr "afiseaza destinatarii"
 
@@ -1659,9 +1640,6 @@ msgstr "liniste"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "dimensiune"
-
 msgid "slider"
 msgstr "indicator"
 
@@ -1682,9 +1660,6 @@ msgstr "mai usor"
 
 msgid "sound"
 msgstr "sunet"
-
-msgid "Sound"
-msgstr "Sunet"
 
 msgid "Sound Library"
 msgstr "Biblioteca de sunete"
@@ -1759,7 +1734,9 @@ msgstr "acest mod"
 msgid "The name is already in use."
 msgstr ""
 
-msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgid ""
+"The project failed to load and Scratch Team has been notified. Press OK to "
+"leave this page."
 msgstr ""
 
 msgid "Theme"
@@ -1774,13 +1751,17 @@ msgstr ""
 msgid "This is the current version."
 msgstr ""
 
-msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
+msgid ""
+"This project can detect who is using it, through the “username” block. To "
+"hide your identity, sign out before using the project."
 msgstr ""
-"Acest proiect poate detecta cine il foloseste, cu ajutorul blocului \""
-"username\". Pentru a-ti scunde identitatea, iesi din cont inainte de a "
+"Acest proiect poate detecta cine il foloseste, cu ajutorul blocului "
+"\"username\". Pentru a-ti scunde identitatea, iesi din cont inainte de a "
 "folosi proiectul."
 
-msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
+msgid ""
+"This project uses Cloud data ‒ a feature that is available only to signed in "
+"users."
 msgstr ""
 "Acest proiect foloseste informatii din cloud - o facilitate ce este "
 "disponibila numai utilizatorilor logati."
@@ -1796,9 +1777,6 @@ msgstr "in acest fel"
 
 msgid "Throw away all changes since opening this project?"
 msgstr "Renunti la toate modificarile facute de la deschiderea proiectului?"
-
-msgid "timer"
-msgstr "cronometru"
 
 msgid "Tips"
 msgstr "Sfaturi"
@@ -1921,9 +1899,6 @@ msgstr "Video:"
 msgid "Vocals"
 msgstr "Voci"
 
-msgid "volume"
-msgstr "volum"
-
 msgid "Walking"
 msgstr "Plimbare"
 
@@ -1948,16 +1923,12 @@ msgstr "Flaut din lemn"
 msgid "world"
 msgstr ""
 
-msgid "x position"
-msgstr "pozitia lui x"
-
-msgid "y position"
-msgstr "pozitia lui y"
-
 msgid "year"
 msgstr "an"
 
-msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
+msgid ""
+"You cannot edit cloud data in someone else's project.<br>Any change that you "
+"make in the editor will be temporary and not persistent."
 msgstr ""
 "Nu poti sa editezi informatiile din cloud inttr-un proiect ce apartine "
 "altcuiva.<br>Orice modificare pe care o faci este temporara si nu se va "
@@ -1971,8 +1942,8 @@ msgstr ""
 
 msgid ""
 "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-"For more info, <a href= target=>see the cloud data FAQ!</a>"
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Informatia despre variabilele Cloud</b><br>&nbsp;<br>In acest moment sunt "
 "suportate numai numere<br>Camerele de chat nu sunt permise si vor fi "
@@ -1991,6 +1962,39 @@ msgstr "Grosimea radierei"
 #, fuzzy
 msgid "Line width:"
 msgstr "Grosimea liniei"
+
+# 89%
+# 86%
+#, fuzzy
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "seteaza directia motorului la %m.motorDirection"
+
+#~ msgid "user id"
+#~ msgstr "id utilizator"
+
+#~ msgid "forever if %b"
+#~ msgstr "pentru totdeauna daca %b"
+
+#~ msgid "if %b"
+#~ msgstr "daca %b"
+
+#~ msgid "motor direction %m.motorDirection"
+#~ msgstr "sensul de rotatie al motorului %m.motorDirection"
+
+#~ msgid "motor off"
+#~ msgstr "motor oprit"
+
+#~ msgid "motor on"
+#~ msgstr "motor pornit"
+
+#~ msgid "motor on for %n secs"
+#~ msgstr "motor pornit pentru %n sec"
+
+#~ msgid "motor power %n"
+#~ msgstr "turatia motorului %n"
+
+#~ msgid "play note %n for %n beats"
+#~ msgstr "canta nota %d.note pentru %n timpi"
 
 #~ msgid "Microphone Volume:"
 #~ msgstr "Volumul microfonului:"

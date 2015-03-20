@@ -1,5 +1,7 @@
+#, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
@@ -13,6 +15,20 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1405347170.000000\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
+"PO-Revision-Date: 2015-03-10 10:17+0000\n"
+"Last-Translator: aitolajau <aitorolano@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: eu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1425982659.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -48,10 +64,12 @@ msgstr "erantzuna"
 msgid "ask %s and wait"
 msgstr "galdetu %s eta itxaron"
 
+# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
 msgstr "# hondoa"
 
+# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
 msgstr "hondoaren izena"
@@ -104,8 +122,13 @@ msgstr "%c kolorea %c ukitzen?"
 msgid "Control"
 msgstr "Kontrola"
 
+#, fuzzy
 msgid "costume #"
-msgstr "# mozorroa"
+msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"# mozorroa\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"# Mozorroa"
 
 msgid "create clone of %m.spriteOnly"
 msgstr "%m.spriteOnly klonatu"
@@ -200,8 +223,13 @@ msgstr "%n hizkia %s katean"
 msgid "Looks"
 msgstr "Itxura"
 
+#, fuzzy
 msgid "loudness"
-msgstr "soinuaren bolumena"
+msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"soinuaren bolumena\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"soinuaren intentsitatea"
 
 msgid "More Blocks"
 msgstr "Bloke gehiago"
@@ -221,6 +249,7 @@ msgstr "saguaren y posizioa"
 msgid "move %n steps"
 msgstr "%n pausu mugitu"
 
+# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "next backdrop"
 msgstr "hurrengo hondoa"
@@ -479,11 +508,21 @@ msgstr "Sprite hau sakatzean"
 msgid "when tilt %m.eNe %n"
 msgstr "malda %m.eNe %n denean"
 
+#, fuzzy
 msgid "x position"
-msgstr "x posizioa"
+msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"x posizioa\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"x-en posizioa"
 
+#, fuzzy
 msgid "y position"
-msgstr "y posizioa"
+msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"y posizioa\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"y-ren posizioa"
 
 # 89%
 msgid "set motor direction %m.motorDirection"
@@ -509,58 +548,14 @@ msgstr "distantzia < %n denean"
 msgid "when tilt = %n"
 msgstr "malda = %n denean"
 
-# 89%
-# 86%
-#~ msgid "set %m.motor direction to %m.motorDirection"
-#~ msgstr "motorearen norabidea = %m.motorDirection"
-
-#~ msgid "forever if %b"
-#~ msgstr "beti baldin eta %b"
-
-#~ msgid "if %b"
-#~ msgstr "baldin eta  %b"
-
-#~ msgid "motor direction %m.motorDirection"
-#~ msgstr "motorea-norabidea %m.motorDirection"
-
-#~ msgid "motor off"
-#~ msgstr "motorea itzalita"
-
-#~ msgid "motor on"
-#~ msgstr "motorea piztuta"
-
-#~ msgid "motor on for %n secs"
-#~ msgstr "motorea piztuta %n segundoan"
-
-#~ msgid "motor power %n"
-#~ msgstr "motorearen ahalmena %n"
-
-#~ msgid "play note %n for %n beats"
-#~ msgstr "jo %d.note  nota  %n pultsuan"
-
-##################
-# User Interface #
-##################
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2014-09-24 16:06+0000\n"
-"Last-Translator: aitolajau <aitorolano@gmail.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: eu\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1411574779.000000\n"
-
 msgid "10 ^"
 msgstr "10 ^"
 
-msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank"
+"\">see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Hodei aldagaiei buruzko informazioa</b><br>&nbsp;<br>Momentuz, zenbakiak "
 "soilik erabil daitezke<br>Txat gelak ez dira onartzen, eta ezabatuak izango "
@@ -574,7 +569,7 @@ msgid "a copy of the project file on your computer."
 msgstr "proiektu fitxategiaren kopia bat zeure ordenagailuan."
 
 msgid "A newer version of Scratch is available"
-msgstr ""
+msgstr "Scratch-en bertsio berriago bat eskuragarri duzu"
 
 msgid "About"
 msgstr "Honi buruz"
@@ -595,19 +590,19 @@ msgid "acos"
 msgstr "acos"
 
 msgid "Add"
-msgstr ""
+msgstr "Gehitu"
 
 msgid "Add an Extension"
 msgstr "Extentsioa"
 
 msgid "Add boolean input:"
-msgstr "Sarrera boolearra gehitu"
+msgstr "Sarrera boolearra gehitu:"
 
 msgid "add comment"
 msgstr "iruzkina gehitu"
 
 msgid "add comment here..."
-msgstr ""
+msgstr "iruzkina gehitu hemen..."
 
 msgid "Add label text:"
 msgstr "Etiketa testua gehitu:"
@@ -657,17 +652,11 @@ msgstr "hondoa"
 msgid "Backdrop"
 msgstr "Hondoa"
 
-msgid "backdrop #"
-msgstr "# hondoa"
-
 msgid "Backdrop Library"
 msgstr "Hondoen liburutegia"
 
-msgid "backdrop name"
-msgstr "hondoaren izena"
-
 msgid "backdrop1"
-msgstr "1hondoa"
+msgstr "hondoa1"
 
 msgid "backdrops"
 msgstr "hondoak"
@@ -687,7 +676,10 @@ msgstr "Dunbala"
 msgid "Bassoon"
 msgstr "Fagota"
 
-msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgid ""
+"Because you have a new Scratch account, any changes to cloud data won't be "
+"saved yet. Keep participating on the site you'll be able to use cloud data "
+"soon!"
 msgstr ""
 "Scratch kontu berria duzunez, Hodeiko datuetan eginiko aldaketak ez dira "
 "oraindik gordeko. Segi ezazu webgunean parte hartzen eta laister izango zara "
@@ -706,7 +698,7 @@ msgid "Bongo"
 msgstr "Bongoa"
 
 msgid "brightness"
-msgstr "distira"
+msgstr "argitasuna"
 
 msgid "Bring to front"
 msgstr "Aurrekaldera ekarri"
@@ -742,7 +734,7 @@ msgid "Cancel"
 msgstr "Ezeztatu"
 
 msgid "Cannot Add"
-msgstr ""
+msgstr "Ezin da gehitu"
 
 msgid "Cannot Delete"
 msgstr "Ezin da ezabatu"
@@ -763,7 +755,7 @@ msgid "Cello"
 msgstr "Txeloa"
 
 msgid "Check for updates"
-msgstr ""
+msgstr "Begiratu eguneraketak"
 
 msgid "Choir"
 msgstr "Korua"
@@ -775,7 +767,7 @@ msgid "Choose costume from library"
 msgstr "Mozorroa aukeratu liburutegitik"
 
 msgid "Choose sound from library"
-msgstr "Soinua aukeratu liburutegitik"
+msgstr "Liburutegitik soinu bat aukeratu"
 
 msgid "Choose sprite from library"
 msgstr "Spritea aukeratu liburutegitik"
@@ -800,9 +792,9 @@ msgid "Clear"
 msgstr "Garbitu"
 
 msgid "clear senders/receivers"
-msgstr "ezabatu igorleak/hartzaileak"
+msgstr "ezabatu igorleak/hartzaileak "
 
-msgid "Click "Save now" to try again or "Download" to save"
+msgid "Click \"Save now\" to try again or \"Download\" to save"
 msgstr ""
 "\"Gorde orain\"-en klikatu berriz saiatzeko edo \" Deskargatu\"-n gordetzeko"
 
@@ -816,10 +808,10 @@ msgid "Cloud"
 msgstr "Hodeia"
 
 msgid "Cloud data"
-msgstr "Hodei informazioa"
+msgstr "Hodeieko datuak"
 
 msgid "Cloud variable (stored on server)"
-msgstr ""
+msgstr "Hodei-aldagaia (zerbitzarian gordea)"
 
 msgid "color"
 msgstr "kolorea"
@@ -854,9 +846,6 @@ msgstr "cos"
 msgid "Costume"
 msgstr "Mozorroa"
 
-msgid "costume #"
-msgstr "# Mozorroa"
-
 msgid "Costume Library"
 msgstr "Mozorroen liburutegia"
 
@@ -864,10 +853,10 @@ msgid "costume name"
 msgstr "mozorroaren izena"
 
 msgid "costume1"
-msgstr "1mozorroa"
+msgstr "mozorroa1"
 
 msgid "costume2"
-msgstr "2mozorroa"
+msgstr "mozorroa2"
 
 msgid "Costumes"
 msgstr "Mozorroak"
@@ -879,7 +868,7 @@ msgid "Costumes:"
 msgstr "Mozorroak:"
 
 msgid "Could not retrieve new application from server."
-msgstr ""
+msgstr "Ezin izan da zerbitzaritik aplikazio berria eskuratu ."
 
 msgid "Cowbell"
 msgstr "Zintzarria"
@@ -915,9 +904,6 @@ msgstr "Ezabatu"
 msgid "delete variable"
 msgstr "aldagaia ezabatu"
 
-msgid "direction"
-msgstr "norabidea"
-
 msgid "direction:"
 msgstr "norabidea:"
 
@@ -925,7 +911,7 @@ msgid "don't rotate"
 msgstr "ez biratu"
 
 msgid "Don't save"
-msgstr ""
+msgstr "Ez gorde"
 
 msgid "down"
 msgstr "behe"
@@ -940,13 +926,13 @@ msgid "Download to your computer"
 msgstr "Zure ordenagailura deskargatu"
 
 msgid "Downloading new version"
-msgstr ""
+msgstr "Bertsio berria deskargatzen."
 
 msgid "duplicate"
 msgstr "bikoiztu"
 
 msgid "Duplicate"
-msgstr "bikoiztu"
+msgstr "Bikoiztu"
 
 msgid "e ^"
 msgstr "e ^"
@@ -958,7 +944,7 @@ msgid "Edit"
 msgstr "Editatu"
 
 msgid "edit"
-msgstr "Editatu"
+msgstr "editatu"
 
 msgid "Edit Block"
 msgstr "Blokea editatu"
@@ -973,19 +959,19 @@ msgid "Electric Piano"
 msgstr "Piano elektrikoa"
 
 msgid "Electronic"
-msgstr "Elektronikoa"
+msgstr "Elektronika"
 
 msgid "Ellipse"
 msgstr "Elipsea"
 
 msgid "empty"
-msgstr ""
+msgstr "hutsa"
 
 msgid "Erase"
 msgstr "Ezabatu"
 
 msgid "Erase all"
-msgstr ""
+msgstr "Dena ezabatu"
 
 msgid "Eraser width"
 msgstr "Ezabatzailearen loditasuna"
@@ -1012,7 +998,7 @@ msgid "fade out"
 msgstr "desegin"
 
 msgid "false"
-msgstr ""
+msgstr "faltsua"
 
 msgid "Fantasy"
 msgstr "Fantasia"
@@ -1027,7 +1013,7 @@ msgid "Fill with color"
 msgstr "Kolorez bete"
 
 msgid "fisheye"
-msgstr "arrain begia"
+msgstr "arrain-begia (fisheye)"
 
 msgid "Flip left-right"
 msgstr "Horizontalki buelta eman"
@@ -1081,26 +1067,22 @@ msgid "Hardware"
 msgstr "Hardwarea"
 
 msgid "help"
-msgstr ""
+msgstr "laguntza"
 
 msgid "Hello!"
-msgstr ""
+msgstr "Kaixo!"
 
 msgid "Hmm..."
-msgstr ""
+msgstr "Mmm..."
 
-#, fuzzy
 msgid "hello"
-msgstr "Txeloa"
-
-msgid "hide"
-msgstr "ezkutatu"
+msgstr "kaixo"
 
 msgid "High C"
 msgstr "Goiko Do"
 
 msgid "Holiday"
-msgstr ""
+msgstr "Jaieguna"
 
 msgid "hour"
 msgstr "ordua"
@@ -1146,7 +1128,7 @@ msgid "length"
 msgstr "luzera"
 
 msgid "Letters"
-msgstr ""
+msgstr "Hizkiak"
 
 msgid "Library"
 msgstr "Liburutegia"
@@ -1185,9 +1167,6 @@ msgstr "log"
 
 msgid "louder"
 msgstr "ozenago"
-
-msgid "loudness"
-msgstr "soinuaren intentsitatea"
 
 msgid "Low C"
 msgstr "Do baxua"
@@ -1281,7 +1260,7 @@ msgid "New backdrop:"
 msgstr "Hondo berria:"
 
 msgid "New Block"
-msgstr ""
+msgstr "Bloke berria"
 
 msgid "New costume from camera"
 msgstr "Mozorro berria kamaratik"
@@ -1293,7 +1272,7 @@ msgid "New List"
 msgstr "Zerrenda berria"
 
 msgid "New Message"
-msgstr ""
+msgstr "Mezu berria"
 
 msgid "new message..."
 msgstr "mezu berria..."
@@ -1312,9 +1291,6 @@ msgstr "Objektu berria"
 
 msgid "New Variable"
 msgstr "Aldagai berria"
-
-msgid "next backdrop"
-msgstr ""
 
 msgid "No motion blocks"
 msgstr "Ez dago mugimendurako blokerik"
@@ -1350,7 +1326,7 @@ msgid "on-flipped"
 msgstr "pizturik eta iraulita"
 
 msgid "Open"
-msgstr ""
+msgstr "Ireki"
 
 msgid "Open Cuica"
 msgstr "Kuika irekia"
@@ -1372,7 +1348,7 @@ msgstr "beste skript batzu spritean"
 
 #, fuzzy
 msgid "other scripts in stage"
-msgstr "beste skript batzu spritean"
+msgstr "beste skript batzu eszenatokian"
 
 msgid "Outdoors"
 msgstr "Kanpoaldeak"
@@ -1387,10 +1363,10 @@ msgid "Paint new sprite"
 msgstr "Sprite berria marraztu"
 
 msgid "Password"
-msgstr ""
+msgstr "Pasahitza"
 
 msgid "Password is required"
-msgstr ""
+msgstr "Pasahitza behar da"
 
 msgid "paste"
 msgstr "itsatsi"
@@ -1423,7 +1399,7 @@ msgid "pop"
 msgstr "pop"
 
 msgid "previous backdrop"
-msgstr ""
+msgstr "aurreko hondoa"
 
 msgid "Profile"
 msgstr "Profila"
@@ -1435,10 +1411,10 @@ msgid "Project not saved!"
 msgstr "Proiektua ez da gorde!"
 
 msgid "Project name"
-msgstr ""
+msgstr "Proiektuaren izena"
 
 msgid "Project name is required"
-msgstr ""
+msgstr "Proiektuaren izena beharrezkoa da"
 
 msgid "random"
 msgstr "ausazkoa"
@@ -1450,7 +1426,7 @@ msgid "Record new sound"
 msgstr "Soinu berria grabatu"
 
 msgid "record..."
-msgstr ""
+msgstr "grabatu..."
 
 msgid "recording1"
 msgstr "1grabaketa"
@@ -1481,7 +1457,7 @@ msgid "rename variable"
 msgstr "aldagaia berrizendatu"
 
 msgid "Replace existing project"
-msgstr ""
+msgstr "Ordezkatu existitzen den proiektu bat"
 
 msgid "requires sign in"
 msgstr "Saioa hastea beharrezkoa"
@@ -1526,10 +1502,10 @@ msgid "Save"
 msgstr "Gorde"
 
 msgid "Save a copy of this project and add your own ideas."
-msgstr ""
+msgstr "Proiektu honen kopia bat gorde eta zure ideiak gehitu."
 
 msgid "Save as"
-msgstr ""
+msgstr "Gorde honela"
 
 msgid "Save as a copy"
 msgstr "Kopia gixa gorde"
@@ -1538,7 +1514,7 @@ msgid "Save now"
 msgstr "Gorde orain"
 
 msgid "Save project?"
-msgstr ""
+msgstr "Proiektua gorde?"
 
 msgid "save to local file"
 msgstr "fitxategi lokalean gorde"
@@ -1556,10 +1532,10 @@ msgid "Saxophone"
 msgstr "Saxofoi"
 
 msgid "Scratch Updater"
-msgstr ""
+msgstr "Scratch eguneratzailea"
 
 msgid "Scratch 2.0 Offline Editor"
-msgstr ""
+msgstr "Scratch 2.0 Offline Editorea"
 
 msgid "Script"
 msgstr "Skripta"
@@ -1576,7 +1552,9 @@ msgstr "segundua"
 msgid "See project page"
 msgstr "Proiektuaren orrialdea ikusi"
 
-msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
+msgid ""
+"See the Tips window (on the right) to install the plug-in and get the "
+"extension working."
 msgstr ""
 "Aholkuen leihoa ikusi (eskuinean) plug-ina instalatzeko eta extentsioa "
 "martxan jartzea lortzeko."
@@ -1606,19 +1584,16 @@ msgid "Share"
 msgstr "Partekatu"
 
 msgid "Share to website"
-msgstr ""
+msgstr "Webgunean partekatu"
 
 msgid "Share to Scratch website"
-msgstr ""
+msgstr "Scratch webgunean partekatu"
 
 msgid "shared"
 msgstr "partekatuta"
 
 msgid "Shift:"
 msgstr "Txandakatu:"
-
-msgid "show"
-msgstr "erakutsi"
 
 msgid "show receivers"
 msgstr "hartzaileak erakutsi"
@@ -1650,9 +1625,6 @@ msgstr "isildu"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "tamaina"
-
 msgid "slider"
 msgstr "irristailua"
 
@@ -1673,9 +1645,6 @@ msgstr "leunago"
 
 msgid "sound"
 msgstr "soinua"
-
-msgid "Sound"
-msgstr "Soinua"
 
 msgid "Sound Library"
 msgstr "Soinu liburutegia"
@@ -1737,7 +1706,7 @@ msgstr "tan"
 
 #, fuzzy
 msgid "text"
-msgstr "Testua"
+msgstr "testua"
 
 msgid "Text"
 msgstr "Testua"
@@ -1746,10 +1715,14 @@ msgid "that way"
 msgstr "norabide horretan"
 
 msgid "The name is already in use."
-msgstr ""
+msgstr "Izena harturik dago."
 
-msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgid ""
+"The project failed to load and Scratch Team has been notified. Press OK to "
+"leave this page."
 msgstr ""
+"Proiektu hau ezin izan da kargatu eta Scratch taldeari mezua bidali zaio. OK "
+"sakatu orri hau uzteko."
 
 msgid "Theme"
 msgstr "Gaia"
@@ -1758,18 +1731,22 @@ msgid "Things"
 msgstr "Gauzak"
 
 msgid "thing"
-msgstr ""
+msgstr "gauza"
 
 msgid "This is the current version."
-msgstr ""
+msgstr "Hau da azken bertsioa."
 
-msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
+msgid ""
+"This project can detect who is using it, through the “username” block. To "
+"hide your identity, sign out before using the project."
 msgstr ""
 "Proiektu honek \"erabiltzaile izena\" duen blokea erabiliz zeinek erabiltzen "
 "duen hauteman dezake. Zure identitatea ez ezagutarazteko proiektua erabili "
 "baino lehen zure kontutik atera zaitez"
 
-msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
+msgid ""
+"This project uses Cloud data ‒ a feature that is available only to signed in "
+"users."
 msgstr ""
 "Proiektu honek Hodei informazioa darabil. Hau soilik izena eman duten "
 "erabiltzaileentzat izango da. "
@@ -1785,9 +1762,6 @@ msgstr "norabide honetan"
 
 msgid "Throw away all changes since opening this project?"
 msgstr "Proiektua ireki zenetik egindako aldaketa oro baztertu?"
-
-msgid "timer"
-msgstr "kronometroa"
 
 msgid "Tips"
 msgstr "Laguntza"
@@ -1807,7 +1781,7 @@ msgid "Trombone"
 msgstr "Tronboia"
 
 msgid "true"
-msgstr ""
+msgstr "egiazkoa"
 
 msgid "Turbo mode"
 msgstr "Turbo modua"
@@ -1848,13 +1822,13 @@ msgid "up arrow"
 msgstr "goranzko gezia"
 
 msgid "Update failed"
-msgstr ""
+msgstr "Eguneraketak akatsa eman du"
 
 msgid "Update not needed"
-msgstr ""
+msgstr "Eguneraketa ez da beharrezkoa"
 
 msgid "Update now"
-msgstr ""
+msgstr "Eguneratu orain"
 
 msgid "Upload backdrop from file"
 msgstr "Hondoa fitxategitik igo"
@@ -1899,7 +1873,7 @@ msgid "Vibraslap"
 msgstr "Bibraslapa"
 
 msgid "video direction"
-msgstr ""
+msgstr "bideoaren direkzioa"
 
 msgid "video motion"
 msgstr "bideoaren mugimendua"
@@ -1909,9 +1883,6 @@ msgstr "Bideoa piztuta:"
 
 msgid "Vocals"
 msgstr "Ahotsak"
-
-msgid "volume"
-msgstr "bolumena"
 
 msgid "Walking"
 msgstr "Oinez"
@@ -1923,7 +1894,7 @@ msgid "Which column do you want to import"
 msgstr "Zein zutabe inportatu nahi duzu?"
 
 msgid "What's your name?"
-msgstr ""
+msgstr "Zein da zure izena?"
 
 msgid "whirl"
 msgstr "zurrunbiloa"
@@ -1935,32 +1906,28 @@ msgid "Wooden Flute"
 msgstr "Egurrezko txirula"
 
 msgid "world"
-msgstr ""
-
-msgid "x position"
-msgstr "x-en posizioa"
-
-msgid "y position"
-msgstr "y-ren posizioa"
+msgstr "mundua"
 
 msgid "year"
 msgstr "urtea"
 
-msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
+msgid ""
+"You cannot edit cloud data in someone else's project.<br>Any change that you "
+"make in the editor will be temporary and not persistent."
 msgstr ""
 "Ezin duzu beste baten proiektuan hodei informazioa editatu. <br> Editorean "
 "eginiko aldaketak epe baterako izango dira eta ez iraunkorrak."
 
 msgid "Your Scratch name"
-msgstr ""
+msgstr "Zure Scratcheko erabiltzaile izena"
 
 msgid "Your Scratch name is required"
-msgstr ""
+msgstr "Scratcheko zure erabiltzaile izena beharrezkoa da"
 
 msgid ""
 "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-"For more info, <a href= target=>see the cloud data FAQ!</a>"
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Hodei aldagaiei buruzko informazioa</b><br>&nbsp;<br>Momentuz, zenbakiak "
 "soilik erabil daitezke<br>Txat gelak ez dira onartzen, eta ezabatuak izango "
@@ -1976,6 +1943,35 @@ msgstr "Ezabatzailearen lodiera"
 
 msgid "Line width:"
 msgstr "Marraren lodiera"
+
+# 89%
+# 86%
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "motorearen norabidea = %m.motorDirection"
+
+#~ msgid "forever if %b"
+#~ msgstr "beti baldin eta %b"
+
+#~ msgid "if %b"
+#~ msgstr "baldin eta  %b"
+
+#~ msgid "motor direction %m.motorDirection"
+#~ msgstr "motorea-norabidea %m.motorDirection"
+
+#~ msgid "motor off"
+#~ msgstr "motorea itzalita"
+
+#~ msgid "motor on"
+#~ msgstr "motorea piztuta"
+
+#~ msgid "motor on for %n secs"
+#~ msgstr "motorea piztuta %n segundoan"
+
+#~ msgid "motor power %n"
+#~ msgstr "motorearen ahalmena %n"
+
+#~ msgid "play note %n for %n beats"
+#~ msgstr "jo %d.note  nota  %n pultsuan"
 
 #~ msgid "cleanup"
 #~ msgstr "garbitu"

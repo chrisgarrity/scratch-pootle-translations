@@ -1,9 +1,11 @@
+#, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-03-01 14:35+0000\n"
+"PO-Revision-Date: 2015-03-19 07:46+0000\n"
 "Last-Translator: Suha <suhaaktan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tr\n"
@@ -12,7 +14,21 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1425220518.000000\n"
+"X-POOTLE-MTIME: 1426751187.000000\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
+"PO-Revision-Date: 2015-03-08 08:05+0000\n"
+"Last-Translator: Suha <suhaaktan@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1425801940.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -48,10 +64,12 @@ msgstr "yanıt"
 msgid "ask %s and wait"
 msgstr "%s diye sor ve bekle"
 
+# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
 msgstr "dekor #"
 
+# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
 msgstr "dekorun adı"
@@ -104,8 +122,13 @@ msgstr "%c rengi %c rengine değdi (mi?)"
 msgid "Control"
 msgstr "Kontrol"
 
+#, fuzzy
 msgid "costume #"
-msgstr "kılık no"
+msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"kılık no\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"kılık #"
 
 msgid "create clone of %m.spriteOnly"
 msgstr "%m.spriteOnly in ikizini yarat"
@@ -128,8 +151,13 @@ msgstr "sil %d.listDeleteItem ini %m.list in"
 msgid "delete this clone"
 msgstr "bu ikizi sil"
 
+#, fuzzy
 msgid "direction"
-msgstr "yön"
+msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"yön\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"yönü"
 
 msgid "distance"
 msgstr "mesafe"
@@ -221,6 +249,7 @@ msgstr "farenin y'si"
 msgid "move %n steps"
 msgstr "%n adım git"
 
+# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "next backdrop"
 msgstr "sonraki dekor"
@@ -331,16 +360,16 @@ msgid "set rotation style %m.rotationStyle"
 msgstr "kuklanın şekli %m.rotationStyle"
 
 msgid "set size to %n%"
-msgstr "büyüklüğü % %n yap"
+msgstr "büyüklüğü %%n yap"
 
 msgid "set tempo to %n bpm"
 msgstr "tempo %n vuruş/dk olsun"
 
 msgid "set video transparency to %n%"
-msgstr "video saydamlığı %n% olsun"
+msgstr "video saydamlığı %%n olsun"
 
 msgid "set volume to %n%"
-msgstr "ses şiddeti %n% olsun"
+msgstr "ses şiddeti %%n olsun"
 
 msgid "set x to %n"
 msgstr "x, %n olsun"
@@ -360,6 +389,8 @@ msgstr "%m.var değişkenini göster"
 msgid "size"
 msgstr "büyüklük"
 
+# #-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#
+# 80%
 msgid "Sound"
 msgstr "Ses"
 
@@ -510,74 +541,14 @@ msgstr "mesafe %n'den küçük olduğunda"
 msgid "when tilt = %n"
 msgstr "eğiklik %n olunca"
 
-# 89%
-# 86%
-#, fuzzy
-#~ msgid "set %m.motor direction to %m.motorDirection"
-#~ msgstr "motor yönünü %m.motorDirection yap"
-
-#~ msgid "user name"
-#~ msgstr "kullanıcı adı"
-
-#~ msgid "user id"
-#~ msgstr "kullanıcı kimliği"
-
-#~ msgid "clone startup"
-#~ msgstr "ikiz başlangıcı"
-
-#~ msgid "forever if %b"
-#~ msgstr "%b ise sürekli"
-
-#~ msgid "hide all sprites"
-#~ msgstr "tüm kuklaları gizle"
-
-#~ msgid "if %b"
-#~ msgstr "eğer %b ise"
-
-#~ msgid "Scratch days"
-#~ msgstr "Scratch günleri"
-
-#~ msgid "motor direction %m.motorDirection"
-#~ msgstr "%m.motorDirection motor yönü"
-
-#~ msgid "motor off"
-#~ msgstr "motor kapalı"
-
-#~ msgid "motor on"
-#~ msgstr "motor açık"
-
-#~ msgid "motor on for %n secs"
-#~ msgstr "%n saniye için motor açık"
-
-#~ msgid "motor power %n"
-#~ msgstr "motor gücü %n"
-
-#~ msgid "play note %n for %n beats"
-#~ msgstr "%d.note notasını %n defa çalın"
-
-##################
-# User Interface #
-##################
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-03-04 15:35+0000\n"
-"Last-Translator: Suha <suhaaktan@gmail.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: tr\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1425483322.000000\n"
-
 msgid "10 ^"
 msgstr "10 ^"
 
-msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank"
+"\">see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Bulut değişkenleri hakkında bilgi</b><br>&nbsp;<br>Şimdilik, sadece "
 "sayısal değerler destekleniyor<br>Sohbet odalarına izin yok, ve "
@@ -680,14 +651,8 @@ msgstr "dekor"
 msgid "Backdrop"
 msgstr "Dekor"
 
-msgid "backdrop #"
-msgstr "dekor #"
-
 msgid "Backdrop Library"
 msgstr "Dekor Kütüphanesi"
-
-msgid "backdrop name"
-msgstr "dekorun adı"
 
 msgid "backdrop1"
 msgstr "dekor1"
@@ -712,7 +677,10 @@ msgstr "Bas Davul"
 msgid "Bassoon"
 msgstr "Fagot"
 
-msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgid ""
+"Because you have a new Scratch account, any changes to cloud data won't be "
+"saved yet. Keep participating on the site you'll be able to use cloud data "
+"soon!"
 msgstr ""
 "Scratch hesabın henüz çok yeni olduğu için, bulut verilerin şimdilik "
 "kaydedilmeyecek. Sitedeki faaliyetlerine devam edersen çok yakında bulut "
@@ -831,10 +799,10 @@ msgstr "Temizle"
 msgid "clear senders/receivers"
 msgstr "göndericileri/alıcıları temizle"
 
-msgid "Click "Save now" to try again or "Download" to save"
+msgid "Click \"Save now\" to try again or \"Download\" to save"
 msgstr ""
-"Tekrar denemek için \"Şimdi kaydet\"e, bilgisayarına kaydetmek için \"İndir\""
-"e tıkla"
+"Tekrar denemek için \"Şimdi kaydet\"e, bilgisayarına kaydetmek için \"İndir"
+"\"e tıkla"
 
 msgid "Close"
 msgstr "Kapat"
@@ -886,9 +854,6 @@ msgstr "cos"
 # 75%
 msgid "Costume"
 msgstr "Kılık"
-
-msgid "costume #"
-msgstr "kılık #"
 
 msgid "Costume Library"
 msgstr "Kılık Kütüphanesi"
@@ -949,9 +914,6 @@ msgstr "Sil"
 
 msgid "delete variable"
 msgstr "değişkeni sil"
-
-msgid "direction"
-msgstr "yönü"
 
 # 90%
 msgid "direction:"
@@ -1141,9 +1103,6 @@ msgstr "Hmm..."
 msgid "hello"
 msgstr "merhaba"
 
-msgid "hide"
-msgstr "gizlen"
-
 msgid "High C"
 msgstr "Yüksek C"
 
@@ -1234,9 +1193,6 @@ msgstr "log"
 
 msgid "louder"
 msgstr "daha sesli"
-
-msgid "loudness"
-msgstr "ses şiddeti"
 
 msgid "Low C"
 msgstr "Alçak C"
@@ -1364,9 +1320,6 @@ msgstr "Yeni kukla:"
 
 msgid "New Variable"
 msgstr "Yeni Değişken"
-
-msgid "next backdrop"
-msgstr "sonraki dekor"
 
 msgid "No motion blocks"
 msgstr "Hareket taşı yok"
@@ -1630,7 +1583,9 @@ msgstr "saniye"
 msgid "See project page"
 msgstr "Proje sayfasına bak"
 
-msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
+msgid ""
+"See the Tips window (on the right) to install the plug-in and get the "
+"extension working."
 msgstr ""
 "Uzantıyı yüklemek ve çalıştırmak için (sağ taraftaki) ipuçları penceresine "
 "gözat."
@@ -1672,9 +1627,6 @@ msgstr "paylaştın"
 msgid "Shift:"
 msgstr "Shift:"
 
-msgid "show"
-msgstr "görün"
-
 msgid "show receivers"
 msgstr "haber alanları göster"
 
@@ -1685,7 +1637,7 @@ msgid "show:"
 msgstr "görün:"
 
 msgid "Shrink"
-msgstr "Ufalt"
+msgstr "Küçült"
 
 msgid "Side Stick"
 msgstr "Kenara Vuruş"
@@ -1704,9 +1656,6 @@ msgstr "sessizlik"
 
 msgid "sin"
 msgstr "sin"
-
-msgid "size"
-msgstr "büyüklük"
 
 msgid "slider"
 msgstr "sürgü"
@@ -1728,10 +1677,6 @@ msgstr "daha yumuşak"
 
 msgid "sound"
 msgstr "ses"
-
-# 80%
-msgid "Sound"
-msgstr "Ses"
 
 msgid "Sound Library"
 msgstr "Ses Kütüphanesi"
@@ -1806,7 +1751,9 @@ msgstr "diğer tarafa"
 msgid "The name is already in use."
 msgstr "Bu isimde biri var."
 
-msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgid ""
+"The project failed to load and Scratch Team has been notified. Press OK to "
+"leave this page."
 msgstr ""
 "Proje yüklenirken çuvalladık, teknik ekibe haber gitti. Bu sayfadan çıkmak "
 "için Tamam'a bas."
@@ -1823,12 +1770,16 @@ msgstr "şey"
 msgid "This is the current version."
 msgstr "Bu güncel sürümdür."
 
-msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
+msgid ""
+"This project can detect who is using it, through the “username” block. To "
+"hide your identity, sign out before using the project."
 msgstr ""
 "Bu proje “kullanıcı adı” taşını kullanarak kendisini kimin kullandığını "
 "bilebilir. Kimliğini gizlemek istiyorsan, projeyi kullanmadan önce çıkış yap."
 
-msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
+msgid ""
+"This project uses Cloud data ‒ a feature that is available only to signed in "
+"users."
 msgstr ""
 "Bu proje Bulut verisi kullanıyor - bu özellik sadece giriş yapmış olan "
 "kullanıcılara açıktır."
@@ -1844,9 +1795,6 @@ msgstr "bu tarafa"
 
 msgid "Throw away all changes since opening this project?"
 msgstr "Projeyi açtığından beri yaptığın tüm değişiklikeri iptal edeyim mi?"
-
-msgid "timer"
-msgstr "süre ölçer"
 
 msgid "Tips"
 msgstr "İpuçları"
@@ -1970,9 +1918,6 @@ msgstr "Video açık:"
 msgid "Vocals"
 msgstr "Vokaller"
 
-msgid "volume"
-msgstr "ses şiddeti"
-
 msgid "Walking"
 msgstr "Yürüyor"
 
@@ -1997,16 +1942,12 @@ msgstr "Ahşap Flüt"
 msgid "world"
 msgstr "dünya"
 
-msgid "x position"
-msgstr "x konumu"
-
-msgid "y position"
-msgstr "y konumu"
-
 msgid "year"
 msgstr "yıl"
 
-msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
+msgid ""
+"You cannot edit cloud data in someone else's project.<br>Any change that you "
+"make in the editor will be temporary and not persistent."
 msgstr ""
 "Başkasının projesindeki bulut verisini değiştiremezsin.<br>Bu verilerde "
 "yaptığın her değişiklik kalıcı olamayacak."
@@ -2019,12 +1960,13 @@ msgstr "Scratch'daki adın gerekli"
 
 msgid ""
 "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-"For more info, <a href= target=>see the cloud data FAQ!</a>"
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Bulut değişkenleri hakkında</b><br>&nbsp;<br>Şimdilik, sadece sayısal "
-"değerler destekleniyor<br>Sohbet odalarına izin yok, ve kaldırılacaklar<br>"
-"Daha fazla bilgi için,<a href= target=>bulut veriler SSS'sine bakın!</a>"
+"değerler destekleniyor<br>Sohbet odalarına izin yok, ve "
+"kaldırılacaklar<br>Daha fazla bilgi için,<a href= target=>bulut veriler "
+"SSS'sine bakın!</a>"
 
 msgid "Click  to try again or  to save"
 msgstr "Tekrar denemek için  'a tıkla veya kaydetmek için  ."
@@ -2034,6 +1976,51 @@ msgstr "Silgi genişliği:"
 
 msgid "Line width:"
 msgstr "Çizgi kalınlığı:"
+
+# 89%
+# 86%
+#, fuzzy
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "motor yönünü %m.motorDirection yap"
+
+#~ msgid "user name"
+#~ msgstr "kullanıcı adı"
+
+#~ msgid "user id"
+#~ msgstr "kullanıcı kimliği"
+
+#~ msgid "clone startup"
+#~ msgstr "ikiz başlangıcı"
+
+#~ msgid "forever if %b"
+#~ msgstr "%b ise sürekli"
+
+#~ msgid "hide all sprites"
+#~ msgstr "tüm kuklaları gizle"
+
+#~ msgid "if %b"
+#~ msgstr "eğer %b ise"
+
+#~ msgid "Scratch days"
+#~ msgstr "Scratch günleri"
+
+#~ msgid "motor direction %m.motorDirection"
+#~ msgstr "%m.motorDirection motor yönü"
+
+#~ msgid "motor off"
+#~ msgstr "motor kapalı"
+
+#~ msgid "motor on"
+#~ msgstr "motor açık"
+
+#~ msgid "motor on for %n secs"
+#~ msgstr "%n saniye için motor açık"
+
+#~ msgid "motor power %n"
+#~ msgstr "motor gücü %n"
+
+#~ msgid "play note %n for %n beats"
+#~ msgstr "%d.note notasını %n defa çalın"
 
 #~ msgid "cleanup"
 #~ msgstr "temizlik"

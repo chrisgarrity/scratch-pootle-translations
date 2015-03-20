@@ -1,5 +1,7 @@
+#, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
@@ -13,6 +15,20 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1415557396.000000\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
+"PO-Revision-Date: 2015-02-13 09:35+0000\n"
+"Last-Translator: Anders <anders.berggren@smedjebacken.se>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1423820116.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -48,10 +64,12 @@ msgstr "svar"
 msgid "ask %s and wait"
 msgstr "fråga %s och vänta"
 
+# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
 msgstr "bakgrundsnummer"
 
+# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
 msgstr "bakgrundsnamn"
@@ -200,8 +218,13 @@ msgstr "bokstav %n i %s"
 msgid "Looks"
 msgstr "Utseende"
 
+#, fuzzy
 msgid "loudness"
-msgstr "ljudnivå"
+msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ljudnivå\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"ljudstyrka"
 
 msgid "More Blocks"
 msgstr "Fler block"
@@ -221,6 +244,7 @@ msgstr "mus y"
 msgid "move %n steps"
 msgstr "gå %n steg"
 
+# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "next backdrop"
 msgstr "nästa bakgrund"
@@ -360,6 +384,8 @@ msgstr "visa variabel %m.var"
 msgid "size"
 msgstr "storlek"
 
+# #-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#
+# 80%
 msgid "Sound"
 msgstr "Ljud"
 
@@ -509,80 +535,14 @@ msgstr "när avståndet är < %n"
 msgid "when tilt = %n"
 msgstr "om lutning = %n"
 
-# 89%
-# 86%
-#, fuzzy
-#~ msgid "set %m.motor direction to %m.motorDirection"
-#~ msgstr "sätt motorriktning %m.motorDirection"
-
-#~ msgid "user id"
-#~ msgstr "användarnamn"
-
-#~ msgid "clone startup"
-#~ msgstr "starta upp kloning"
-
-#~ msgid "forever if %b"
-#~ msgstr "för alltid om %b"
-
-#~ msgid "hide all sprites"
-#~ msgstr "göm alla sprites"
-
-#~ msgid "if %b"
-#~ msgstr "om %b"
-
-#~ msgid "Scratch days"
-#~ msgstr "Scratchdagar"
-
-#~ msgid "hide monitor %m.varOrList"
-#~ msgstr "göm övervakare %m.varOrList"
-
-#~ msgid "motor direction %m.motorDirection"
-#~ msgstr "motorriktning %m.motorDirection"
-
-#~ msgid "motor off"
-#~ msgstr "motor av"
-
-#~ msgid "motor on"
-#~ msgstr "motor på"
-
-#~ msgid "motor on for %n secs"
-#~ msgstr "motor på i %n sekunder"
-
-#~ msgid "motor power %n"
-#~ msgstr "motor kraft %n"
-
-#~ msgid "play note %n for %n beats"
-#~ msgstr "spela noten %n i %n taktslag"
-
-#~ msgid "show monitor %m.varOrList"
-#~ msgstr "visa övervakare %m.varOrList"
-
-#~ msgid "when I am clicked"
-#~ msgstr "när jag klickas på"
-
-##################
-# User Interface #
-##################
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-02-13 09:35+0000\n"
-"Last-Translator: Anders <anders.berggren@smedjebacken.se>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: sv\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1423820116.000000\n"
-
 msgid "10 ^"
 msgstr "10 ^"
 
-msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank"
+"\">see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Information om Molnvariabler</b><br>&nbsp;<br>För närvarande stöds enbart "
 "siffror<br>Chattrum är inte tillåtna, och kommer att tas bort<br>för mer "
@@ -684,14 +644,8 @@ msgstr "bakgrund"
 msgid "Backdrop"
 msgstr "Bakgrund"
 
-msgid "backdrop #"
-msgstr "bakgrundsnummer"
-
 msgid "Backdrop Library"
 msgstr "Bakgrunder - Bibliotek"
-
-msgid "backdrop name"
-msgstr "bakgrundsnamn"
 
 msgid "backdrop1"
 msgstr "bakgrund 1"
@@ -716,7 +670,10 @@ msgstr "Bastrumma"
 msgid "Bassoon"
 msgstr "Fagott"
 
-msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgid ""
+"Because you have a new Scratch account, any changes to cloud data won't be "
+"saved yet. Keep participating on the site you'll be able to use cloud data "
+"soon!"
 msgstr ""
 "Eftersom du har ett nytt Scratchkonto, kommer eventuella ändringar av "
 "molndata inte sparas ännu. Fortsätt att delta på webbplatsen så kommer du "
@@ -830,7 +787,7 @@ msgstr "Rensa"
 msgid "clear senders/receivers"
 msgstr "ta bort avsändare/mottagare"
 
-msgid "Click "Save now" to try again or "Download" to save"
+msgid "Click \"Save now\" to try again or \"Download\" to save"
 msgstr "Klicka  för att försöka igen eller  för att spara"
 
 msgid "Close"
@@ -881,9 +838,6 @@ msgstr "cos"
 # 75%
 msgid "Costume"
 msgstr "Klädsel"
-
-msgid "costume #"
-msgstr "klädselnummer"
 
 msgid "Costume Library"
 msgstr "Klädsel - bibliotek"
@@ -947,9 +901,6 @@ msgstr "Radera"
 
 msgid "delete variable"
 msgstr "radera variabel"
-
-msgid "direction"
-msgstr "riktning"
 
 # 90%
 msgid "direction:"
@@ -1127,9 +1078,6 @@ msgstr "Hmm..."
 msgid "hello"
 msgstr "hej"
 
-msgid "hide"
-msgstr "göm"
-
 msgid "High C"
 msgstr "Höga C"
 
@@ -1221,9 +1169,6 @@ msgstr "log"
 
 msgid "louder"
 msgstr "högre"
-
-msgid "loudness"
-msgstr "ljudstyrka"
 
 msgid "Low C"
 msgstr "Låga C"
@@ -1350,9 +1295,6 @@ msgstr "Ny sprajt:"
 
 msgid "New Variable"
 msgstr "Ny variabel"
-
-msgid "next backdrop"
-msgstr "nästa bakgrund"
 
 msgid "No motion blocks"
 msgstr "Inga rörelseblock"
@@ -1617,7 +1559,9 @@ msgstr "sekund"
 msgid "See project page"
 msgstr "Se projektsida"
 
-msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
+msgid ""
+"See the Tips window (on the right) to install the plug-in and get the "
+"extension working."
 msgstr ""
 "Se tipsrutan (till höger) för att installera och få tillägget att fungera."
 
@@ -1658,9 +1602,6 @@ msgstr "delad"
 msgid "Shift:"
 msgstr "Skift:"
 
-msgid "show"
-msgstr "visa"
-
 msgid "show receivers"
 msgstr "visa mottagare"
 
@@ -1691,9 +1632,6 @@ msgstr "tystnad"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "storlek"
-
 msgid "slider"
 msgstr "reglage"
 
@@ -1714,10 +1652,6 @@ msgstr "mjukare"
 
 msgid "sound"
 msgstr "ljud"
-
-# 80%
-msgid "Sound"
-msgstr "Ljud"
 
 msgid "Sound Library"
 msgstr "Ljudbibliotek"
@@ -1794,7 +1728,9 @@ msgstr "andra hållet"
 msgid "The name is already in use."
 msgstr "Namnet används redan."
 
-msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgid ""
+"The project failed to load and Scratch Team has been notified. Press OK to "
+"leave this page."
 msgstr ""
 "Misslyckades att ladda projektet och det har anmälts till Scratchteamet. "
 "Tryck på OK för att lämna sidan."
@@ -1811,12 +1747,16 @@ msgstr "sak"
 msgid "This is the current version."
 msgstr "Detta är den senaste versionen."
 
-msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
+msgid ""
+"This project can detect who is using it, through the “username” block. To "
+"hide your identity, sign out before using the project."
 msgstr ""
 "Projektet kan upptäcka vem som använder det, via blocket för användare. För "
 "att dölja din identitet, logga ut innan du använder projektet."
 
-msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
+msgid ""
+"This project uses Cloud data ‒ a feature that is available only to signed in "
+"users."
 msgstr ""
 "Projektet använder molndata ‒ en funktion som enbart fungerar för inloggade "
 "användare."
@@ -1832,9 +1772,6 @@ msgstr "detta hållet"
 
 msgid "Throw away all changes since opening this project?"
 msgstr "Vill du kasta bort alla ändringar sen du öppnade projektet?"
-
-msgid "timer"
-msgstr "timer"
 
 msgid "Tips"
 msgstr "Tips"
@@ -1957,9 +1894,6 @@ msgstr "Video på:"
 msgid "Vocals"
 msgstr "Röster"
 
-msgid "volume"
-msgstr "volym"
-
 msgid "Walking"
 msgstr "Gående"
 
@@ -1984,16 +1918,12 @@ msgstr "Träflöjt"
 msgid "world"
 msgstr "världen"
 
-msgid "x position"
-msgstr "x-läge"
-
-msgid "y position"
-msgstr "y-läge"
-
 msgid "year"
 msgstr "år"
 
-msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
+msgid ""
+"You cannot edit cloud data in someone else's project.<br>Any change that you "
+"make in the editor will be temporary and not persistent."
 msgstr ""
 "Du kan inte redigera molndata i någon annans projekt.<br>Alla ändringar du "
 "gör blir tillfälliga och sparas inte."
@@ -2006,8 +1936,8 @@ msgstr "Ditt Scratchnamn krävs"
 
 msgid ""
 "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-"For more info, <a href= target=>see the cloud data FAQ!</a>"
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Information om Molnvariabler</b><br>&nbsp;<br>För närvarande stöds enbart "
 "siffror<br>Chattrum är inte tillåtna, och kommer att tas bort<br>för mer "
@@ -2021,6 +1951,57 @@ msgstr "Suddgummibredd:"
 
 msgid "Line width:"
 msgstr "Linjebredd:"
+
+# 89%
+# 86%
+#, fuzzy
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "sätt motorriktning %m.motorDirection"
+
+#~ msgid "user id"
+#~ msgstr "användarnamn"
+
+#~ msgid "clone startup"
+#~ msgstr "starta upp kloning"
+
+#~ msgid "forever if %b"
+#~ msgstr "för alltid om %b"
+
+#~ msgid "hide all sprites"
+#~ msgstr "göm alla sprites"
+
+#~ msgid "if %b"
+#~ msgstr "om %b"
+
+#~ msgid "Scratch days"
+#~ msgstr "Scratchdagar"
+
+#~ msgid "hide monitor %m.varOrList"
+#~ msgstr "göm övervakare %m.varOrList"
+
+#~ msgid "motor direction %m.motorDirection"
+#~ msgstr "motorriktning %m.motorDirection"
+
+#~ msgid "motor off"
+#~ msgstr "motor av"
+
+#~ msgid "motor on"
+#~ msgstr "motor på"
+
+#~ msgid "motor on for %n secs"
+#~ msgstr "motor på i %n sekunder"
+
+#~ msgid "motor power %n"
+#~ msgstr "motor kraft %n"
+
+#~ msgid "play note %n for %n beats"
+#~ msgstr "spela noten %n i %n taktslag"
+
+#~ msgid "show monitor %m.varOrList"
+#~ msgstr "visa övervakare %m.varOrList"
+
+#~ msgid "when I am clicked"
+#~ msgstr "när jag klickas på"
 
 #~ msgid "cleanup"
 #~ msgstr "ordna block"

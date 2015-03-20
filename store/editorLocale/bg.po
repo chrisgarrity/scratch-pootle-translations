@@ -1,5 +1,7 @@
+#, fuzzy
 msgid ""
 msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
@@ -13,6 +15,20 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1415782556.000000\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-23 12:54+0000\n"
+"PO-Revision-Date: 2015-02-19 14:34+0000\n"
+"Last-Translator: Anton <anton.kalauzki@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1424356491.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -48,10 +64,12 @@ msgstr "отговор"
 msgid "ask %s and wait"
 msgstr "питай %s и чакай"
 
+# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
 msgstr "декор #"
 
+# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
 msgstr "име на декор"
@@ -161,8 +179,13 @@ msgstr "премини най-отпред"
 msgid "go to x:%n y:%n"
 msgstr "отиди до x:%n y:%n"
 
+#, fuzzy
 msgid "hide"
-msgstr "скрий се"
+msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"скрий се\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"скрий"
 
 msgid "hide list %m.list"
 msgstr "скрий списък %m.list"
@@ -221,6 +244,7 @@ msgstr "мишка y"
 msgid "move %n steps"
 msgstr "премести се с %n стъпки"
 
+# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "next backdrop"
 msgstr "следващ декор"
@@ -351,8 +375,15 @@ msgstr "направи x равно на %n"
 msgid "set y to %n"
 msgstr "направи y равно на %n"
 
+# #-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#
+# 80%
+#, fuzzy
 msgid "show"
-msgstr "покажи се"
+msgstr ""
+"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"покажи се\n"
+"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
+"покажи"
 
 msgid "show list %m.list"
 msgstr "покажи списък %m.list"
@@ -363,6 +394,8 @@ msgstr "покажи променлива %m.var"
 msgid "size"
 msgstr "размер"
 
+# #-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#
+# 80%
 msgid "Sound"
 msgstr "Звук"
 
@@ -518,62 +551,14 @@ msgstr "когато разстояние < %n"
 msgid "when tilt = %n"
 msgstr "когато наклон = %n"
 
-# 89%
-# 100%
-# 86%
-#~ msgid "set %m.motor direction to %m.motorDirection"
-#~ msgstr "задай на %m.motor посока %m.motorDirection"
-
-#~ msgid "user name"
-#~ msgstr "потребителско име"
-
-#~ msgid "forever if %b"
-#~ msgstr "винаги, ако %b"
-
-#~ msgid "if %b"
-#~ msgstr "ако %b"
-
-#~ msgid "motor direction %m.motorDirection"
-#~ msgstr "посока на мотора %m.motorDirection"
-
-#~ msgid "motor off"
-#~ msgstr "изключи мотора"
-
-#~ msgid "motor on"
-#~ msgstr "включи мотора"
-
-#~ msgid "motor on for %n secs"
-#~ msgstr "включи мотора за %n сек"
-
-#~ msgid "motor power %n"
-#~ msgstr "мощност на мотора %n"
-
-#~ msgid "play note %n for %n beats"
-#~ msgstr "свири нота %d.note %n такта"
-
-##################
-# User Interface #
-##################
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-02-19 14:34+0000\n"
-"Last-Translator: Anton <anton.kalauzki@gmail.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: bg\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1424356491.000000\n"
-
 msgid "10 ^"
 msgstr ""
 
-msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank"
+"\">see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Информация за Облачни променливи</b><br>&nbsp;<br>Към момента се "
 "поддържат само числa<br>Чат стаи не са разрешени и ще бъдат премахвани<br>За "
@@ -674,14 +659,8 @@ msgstr "декор"
 msgid "Backdrop"
 msgstr "Декор"
 
-msgid "backdrop #"
-msgstr "декор #"
-
 msgid "Backdrop Library"
 msgstr "Библиотека с декори"
-
-msgid "backdrop name"
-msgstr "име на декор"
 
 msgid "backdrop1"
 msgstr "декор1"
@@ -705,7 +684,10 @@ msgstr "Бас барабан"
 msgid "Bassoon"
 msgstr "Фагот"
 
-msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgid ""
+"Because you have a new Scratch account, any changes to cloud data won't be "
+"saved yet. Keep participating on the site you'll be able to use cloud data "
+"soon!"
 msgstr ""
 "Тъй като Scratch акаунта Ви е нов, промени в облачните данни няма да бъдат "
 "съхранени все още. Продължавайте да се упражнявате и скоро ще можете да "
@@ -820,7 +802,7 @@ msgstr "Изчистване"
 msgid "clear senders/receivers"
 msgstr "изчисти изпращащи/получаващи"
 
-msgid "Click "Save now" to try again or "Download" to save"
+msgid "Click \"Save now\" to try again or \"Download\" to save"
 msgstr "Кликнете  за повторен опит или  за запис"
 
 msgid "Close"
@@ -871,9 +853,6 @@ msgstr ""
 # 75%
 msgid "Costume"
 msgstr "Костюм"
-
-msgid "costume #"
-msgstr "костюм #"
 
 msgid "Costume Library"
 msgstr "Библиотека с костюми"
@@ -933,9 +912,6 @@ msgstr "Изтриване"
 
 msgid "delete variable"
 msgstr "изтриване на променливата"
-
-msgid "direction"
-msgstr "посока"
 
 # 90%
 msgid "direction:"
@@ -1113,9 +1089,6 @@ msgstr "Хмм..."
 msgid "hello"
 msgstr "здравей"
 
-msgid "hide"
-msgstr "скрий"
-
 msgid "High C"
 msgstr "Горно До"
 
@@ -1207,9 +1180,6 @@ msgstr ""
 
 msgid "louder"
 msgstr "по-силно"
-
-msgid "loudness"
-msgstr "шумно"
 
 msgid "Low C"
 msgstr "Долно До"
@@ -1337,9 +1307,6 @@ msgstr "Нов спрайт:"
 
 msgid "New Variable"
 msgstr "Нова променлива"
-
-msgid "next backdrop"
-msgstr "следващ декор"
 
 msgid "No motion blocks"
 msgstr "Няма блокове за движение"
@@ -1604,7 +1571,9 @@ msgstr "секунда"
 msgid "See project page"
 msgstr "Към страницата на проекта"
 
-msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
+msgid ""
+"See the Tips window (on the right) to install the plug-in and get the "
+"extension working."
 msgstr ""
 "Вижте прозореца със съветите (от дясно) за да инсталирате \"plug-in\" и да "
 "заработи приставката."
@@ -1646,10 +1615,6 @@ msgstr "споделен"
 msgid "Shift:"
 msgstr ""
 
-# 80%
-msgid "show"
-msgstr "покажи"
-
 msgid "show receivers"
 msgstr "покажи изпращачите"
 
@@ -1680,9 +1645,6 @@ msgstr "тишина"
 msgid "sin"
 msgstr ""
 
-msgid "size"
-msgstr "размер"
-
 msgid "slider"
 msgstr "плъзгач"
 
@@ -1703,10 +1665,6 @@ msgstr "по-слабо"
 
 msgid "sound"
 msgstr "звук"
-
-# 80%
-msgid "Sound"
-msgstr "Звук"
 
 msgid "Sound Library"
 msgstr "Библиотека със звуци"
@@ -1782,7 +1740,9 @@ msgstr "натам"
 msgid "The name is already in use."
 msgstr ""
 
-msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgid ""
+"The project failed to load and Scratch Team has been notified. Press OK to "
+"leave this page."
 msgstr ""
 
 msgid "Theme"
@@ -1797,12 +1757,16 @@ msgstr ""
 msgid "This is the current version."
 msgstr "Това е текущата версия."
 
-msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
+msgid ""
+"This project can detect who is using it, through the “username” block. To "
+"hide your identity, sign out before using the project."
 msgstr ""
-"Този проект може да установява кой го използва чрез блока “потребителско име”"
-". За да скриете своята самоличност, излезте преди да използвате проекта."
+"Този проект може да установява кой го използва чрез блока “потребителско "
+"име”. За да скриете своята самоличност, излезте преди да използвате проекта."
 
-msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
+msgid ""
+"This project uses Cloud data ‒ a feature that is available only to signed in "
+"users."
 msgstr ""
 "Този проект използва Облачни данни - особеност, налична само за логнати "
 "потребители."
@@ -1818,9 +1782,6 @@ msgstr "насам"
 
 msgid "Throw away all changes since opening this project?"
 msgstr "Отхвърляне на всички промени, направени след отваряне на проекта?"
-
-msgid "timer"
-msgstr "таймер"
 
 msgid "Tips"
 msgstr "Съвети"
@@ -1941,9 +1902,6 @@ msgstr "Видео:"
 msgid "Vocals"
 msgstr "Вокални"
 
-msgid "volume"
-msgstr "сила на звука"
-
 msgid "Walking"
 msgstr "Ходене"
 
@@ -1968,16 +1926,12 @@ msgstr "Дървена флейта"
 msgid "world"
 msgstr ""
 
-msgid "x position"
-msgstr "x позиция"
-
-msgid "y position"
-msgstr "y позиция"
-
 msgid "year"
 msgstr "година"
 
-msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
+msgid ""
+"You cannot edit cloud data in someone else's project.<br>Any change that you "
+"make in the editor will be temporary and not persistent."
 msgstr ""
 "Не можете да редактирате облачни данни в чужд проект.<br>Всички промени, "
 "коите ще направите в редактора ще бъдат временни, а не постоянни."
@@ -1990,8 +1944,8 @@ msgstr "Изисква се вашето Scratch име"
 
 msgid ""
 "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-"For more info, <a href= target=>see the cloud data FAQ!</a>"
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Информация за Облачни променливи</b><br>&nbsp;<br>Към момента се "
 "поддържат само числa<br>Чат стаи не са разрешени и ще бъдат премахвани<br>За "
@@ -2006,6 +1960,39 @@ msgstr "Широчина на гумата:"
 
 msgid "Line width:"
 msgstr "Широчина на линията:"
+
+# 89%
+# 100%
+# 86%
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "задай на %m.motor посока %m.motorDirection"
+
+#~ msgid "user name"
+#~ msgstr "потребителско име"
+
+#~ msgid "forever if %b"
+#~ msgstr "винаги, ако %b"
+
+#~ msgid "if %b"
+#~ msgstr "ако %b"
+
+#~ msgid "motor direction %m.motorDirection"
+#~ msgstr "посока на мотора %m.motorDirection"
+
+#~ msgid "motor off"
+#~ msgstr "изключи мотора"
+
+#~ msgid "motor on"
+#~ msgstr "включи мотора"
+
+#~ msgid "motor on for %n secs"
+#~ msgstr "включи мотора за %n сек"
+
+#~ msgid "motor power %n"
+#~ msgstr "мощност на мотора %n"
+
+#~ msgid "play note %n for %n beats"
+#~ msgstr "свири нота %d.note %n такта"
 
 #~ msgid "cleanup"
 #~ msgstr "разчисти"

@@ -18,7 +18,7 @@ msgstr ""
 msgid "10 ^"
 msgstr "10 ^"
 
-msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank\">see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Informacje o zmiennych w Chmurze</b><br>&nbsp;<br>Aktualnie jedynie "
 "liczby są wspierane.<br>Pokoje czatu nie są dozwolone i zostaną usunięte<br>"
@@ -268,7 +268,7 @@ msgstr "Wyczyść"
 msgid "clear senders/receivers"
 msgstr "wyczyść nadawców/odbiorców"
 
-msgid "Click "Save now" to try again or "Download" to save"
+msgid "Click \"Save now\" to try again or \"Download\" to save"
 msgstr "Naciśnij    aby spróbować ponownie lub    aby zapisać"
 
 msgid "Close"

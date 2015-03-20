@@ -18,7 +18,7 @@ msgstr ""
 msgid "10 ^"
 msgstr "10 ^"
 
-msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank\">see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Informacije o spremenljivkah v oblaku</b><br>&nbsp;<br>Trenutno so "
 "podprta samo števila<br>Klepetalnice niso dovoljene in bodo odstranjene<br>"
@@ -259,7 +259,7 @@ msgstr "Izbriši"
 msgid "clear senders/receivers"
 msgstr "izbriši pošiljatelje/prejemnike"
 
-msgid "Click "Save now" to try again or "Download" to save"
+msgid "Click \"Save now\" to try again or \"Download\" to save"
 msgstr "Klikni 'Shrani takoj' za ponovni poskus ali 'Prenesi' za shranjevanje"
 
 msgid "Close"

@@ -17,7 +17,7 @@ msgstr ""
 msgid "10 ^"
 msgstr "10 ^മലയാളം"
 
-msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank\">see the cloud data FAQ!</a>"
 msgstr ""
 "<b>ക്ലൌഡിലെ ചരങ്ങളെ കുറിച്ചുള്ള വിവരങ്ങള്‍</b><br>&nbsp;<br>നിലവില്‍ സംഖ്യകളെ"
 " മാത്രമെ പിന്തുണയ്ക്കുകയുള്ളു<br>ചാറ്റ് റൂം സംവിധാനം അനുവദിനീയമല്ല അത് "
@@ -259,7 +259,7 @@ msgstr "വൃത്തിയാക്കുക"
 msgid "clear senders/receivers"
 msgstr "അയക്കുന്നവരെയും/സ്വീകരിക്കുന്നവരെയും നിയന്ത്രിക്കുക"
 
-msgid "Click "Save now" to try again or "Download" to save"
+msgid "Click \"Save now\" to try again or \"Download\" to save"
 msgstr "ഒന്നുകൂടി ചെയ്യാനോ അല്ലെങ്കില്‍ സേവ് ചെയ്യാനോ ക്ലിക്ക് ചെയ്യുക"
 
 msgid "Close"

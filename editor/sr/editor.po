@@ -22,7 +22,7 @@ msgstr ""
 msgid "10 ^"
 msgstr "10 на степен"
 
-msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank\">see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Информације о интернет променљивама у облаку</b><br>&nbsp;<br>Тренутно су "
 "само бројеви продржани<br>собе за разговор (chat rooms) нису дозвољене, и "
@@ -272,7 +272,7 @@ msgstr "Обриши"
 msgid "clear senders/receivers"
 msgstr "обриши пошиљаоце/примаоце"
 
-msgid "Click "Save now" to try again or "Download" to save"
+msgid "Click \"Save now\" to try again or \"Download\" to save"
 msgstr "Кликни да покушаш поново или сачуваш"
 
 msgid "Close"

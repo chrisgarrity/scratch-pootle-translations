@@ -17,7 +17,7 @@ msgstr ""
 msgid "10 ^"
 msgstr "10 ^"
 
-msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank\">see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Information om Molnvariabler</b><br>&nbsp;<br>För närvarande stöds enbart "
 "siffror<br>Chattrum är inte tillåtna, och kommer att tas bort<br>för mer "
@@ -265,7 +265,7 @@ msgstr "Rensa"
 msgid "clear senders/receivers"
 msgstr "ta bort avsändare/mottagare"
 
-msgid "Click "Save now" to try again or "Download" to save"
+msgid "Click \"Save now\" to try again or \"Download\" to save"
 msgstr "Klicka  för att försöka igen eller  för att spara"
 
 msgid "Close"

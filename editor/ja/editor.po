@@ -17,7 +17,7 @@ msgstr ""
 msgid "10 ^"
 msgstr "10 ^"
 
-msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank\">see the cloud data FAQ!</a>"
 msgstr ""
 "<b>クラウド変数について</b><br>&nbsp;<br>現在、数値のみがサポートされています<br>チャットルームの作成は許可されていないため、削除"
 "されます<br>詳細な情報は <a href= target=>クラウドデータに関するFAQを読んでください！</a>"
@@ -257,7 +257,7 @@ msgstr "消す"
 msgid "clear senders/receivers"
 msgstr "センダーとレシーバーを消す"
 
-msgid "Click "Save now" to try again or "Download" to save"
+msgid "Click \"Save now\" to try again or \"Download\" to save"
 msgstr "「直ちに保存」をクリックして再試行するか、「ダウンロード」で保存してください"
 
 msgid "Close"

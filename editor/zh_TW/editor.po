@@ -18,7 +18,7 @@ msgstr ""
 msgid "10 ^"
 msgstr "10 ^"
 
-msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank\">see the cloud data FAQ!</a>"
 msgstr ""
 "<b>雲端變數的</b><br>&nbsp;<br>目前只能用數字<br>不能用聊天室，會被刪除。<br>更多相關資訊<a href=\""
 "/help/faq/#clouddata\" target=\"_blank\">請看雲端資料FAQ!</a>"
@@ -255,7 +255,7 @@ msgstr "清除"
 msgid "clear senders/receivers"
 msgstr "清除發送者/接收者"
 
-msgid "Click "Save now" to try again or "Download" to save"
+msgid "Click \"Save now\" to try again or \"Download\" to save"
 msgstr "點選\"立即儲存\"以重試或\"下載\"以儲存"
 
 msgid "Close"

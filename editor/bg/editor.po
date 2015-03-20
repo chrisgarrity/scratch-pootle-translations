@@ -17,7 +17,7 @@ msgstr ""
 msgid "10 ^"
 msgstr ""
 
-msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank\">see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Информация за Облачни променливи</b><br>&nbsp;<br>Към момента се "
 "поддържат само числa<br>Чат стаи не са разрешени и ще бъдат премахвани<br>За "
@@ -264,7 +264,7 @@ msgstr "Изчистване"
 msgid "clear senders/receivers"
 msgstr "изчисти изпращащи/получаващи"
 
-msgid "Click "Save now" to try again or "Download" to save"
+msgid "Click \"Save now\" to try again or \"Download\" to save"
 msgstr "Кликнете  за повторен опит или  за запис"
 
 msgid "Close"

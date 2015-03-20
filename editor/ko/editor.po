@@ -17,7 +17,7 @@ msgstr ""
 msgid "10 ^"
 msgstr "10 ^"
 
-msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank\">see the cloud data FAQ!</a>"
 msgstr ""
 "<b>클라우드 변수 정보</b><br>&nbsp;<br>현재, 스크래치 웹사이트 회원만 사용할 수 있습니다.<br>채팅방은 현재 허용되지 "
 "않으며, 조만간 없어질 예정입니다.<br>관련 정보는, <a href=\"/help/faq/#clouddata\" target=\""
@@ -261,7 +261,7 @@ msgstr "모두 지우기"
 msgid "clear senders/receivers"
 msgstr "표시 삭제하기"
 
-msgid "Click "Save now" to try again or "Download" to save"
+msgid "Click \"Save now\" to try again or \"Download\" to save"
 msgstr "저장하기 위해서는 \"저장하기\" 를 다시 누르거나 \"다운로드\"를 누르세요."
 
 msgid "Close"

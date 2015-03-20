@@ -17,7 +17,7 @@ msgstr ""
 msgid "10 ^"
 msgstr "10 ^"
 
-msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank\">see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Informatziones a pitzu de sas variàbiles de sa Nue</b><br>&nbsp;<br>A oe "
 "si poderant petzi balores numèricos<br>Non sunt permitidos Aposentos de "
@@ -259,7 +259,7 @@ msgstr "Lìmpia"
 msgid "clear senders/receivers"
 msgstr "cua mitentes/retzidores"
 
-msgid "Click "Save now" to try again or "Download" to save"
+msgid "Click \"Save now\" to try again or \"Download\" to save"
 msgstr "Carca \"Alloga como\" pro torrare a proare o \"Iscàrriga\" pro allogare"
 
 msgid "Close"

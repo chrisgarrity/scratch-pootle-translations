@@ -30,7 +30,7 @@ def importProject_editor():
 					oname = os.path.join('editorLocale', (dname + '.po'))
 					print f1name
 					print f2name
-					command = ['msgcat', f1name, f2name, '-o', oname]
+					command = ['msgcat', '--use-first', f1name, f2name, '-o', oname]
 					try:
 						errors = subprocess.check_output(command, stderr=subprocess.STDOUT)
 					except subprocess.CalledProcessError as e:

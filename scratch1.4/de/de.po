@@ -3,15 +3,16 @@ msgstr ""
 "Project-Id-Version: Scratch\n"
 "Report-Msgid-Bugs-To: Evelyn Eastmond <evelyn@media.mit.edu>\n"
 "POT-Creation-Date: 2008-02-18 03:58-0400\n"
-"PO-Revision-Date: 2013-08-13 22:02+0200\n"
-"Last-Translator: Markus <m.slg@gmx.de>\n"
+"PO-Revision-Date: 2015-03-09 20:47+0000\n"
+"Last-Translator: Frodewin <wilfried.elmenreich@gmail.com>\n"
 "Language-Team: Mtw <martin.wollenweber@gmx.de>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.1.6\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1425934070.000000\n"
 
 ############################################
 # FORMATTING
@@ -45,7 +46,7 @@ msgstr "false"
 # Font to use on a Windows system&lt;br /&gt;<br />
 # &lt;br /&gt;
 msgid "Win-Font"
-msgstr ""
+msgstr "Win-Font"
 
 # Font to use on a Mac system
 # (Markus S.) bitte nicht übersetzen. Hier müsste man ggf. eine Schriftart eintragen
@@ -55,7 +56,7 @@ msgstr ""
 # Font to use on a Mac system&lt;br /&gt;<br />
 # &lt;br /&gt;
 msgid "Mac-Font"
-msgstr ""
+msgstr "Mac-Font"
 
 # Font to use on a Linux system
 # (Markus S.) bitte nicht übersetzen. Hier müsste man ggf. eine Schriftart eintragen
@@ -65,7 +66,7 @@ msgstr ""
 # Font to use on a Linux system&lt;br /&gt;<br />
 # &lt;br /&gt;
 msgid "Linux-Font"
-msgstr ""
+msgstr "Linux-Font"
 
 ############################################
 # BLOCKS

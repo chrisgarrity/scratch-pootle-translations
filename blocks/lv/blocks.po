@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-01-21 13:06+0000\n"
+"PO-Revision-Date: 2015-03-06 19:45+0000\n"
 "Last-Translator: Kalvis <kalvis.kincis@r6vsk.lv>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: lv\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);"
 "\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1421845567.000000\n"
+"X-POOTLE-MTIME: 1425671124.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -406,7 +406,7 @@ msgid "turn @turnLeft %n degrees"
 msgstr "pagriezties @turnLeft par %n grādiem"
 
 msgid "turn @turnRight %n degrees"
-msgstr "pagriezties @turnRigth par %n grādiem"
+msgstr "pagriezties @turnRight par %n grādiem"
 
 # 82%
 msgid "turn %m.motor off"

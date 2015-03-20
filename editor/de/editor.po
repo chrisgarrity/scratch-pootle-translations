@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-03-03 21:25+0000\n"
-"Last-Translator: Tim <tim5001@byom.de>\n"
+"PO-Revision-Date: 2015-03-08 22:28+0000\n"
+"Last-Translator: Frodewin <wilfried.elmenreich@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1425417922.000000\n"
+"X-POOTLE-MTIME: 1425853700.000000\n"
 
 msgid "10 ^"
 msgstr "10^"
@@ -178,9 +178,8 @@ msgstr "Helligkeit"
 msgid "Bring to front"
 msgstr "Ganz nach vorne"
 
-#, fuzzy
 msgid "Broadcast"
-msgstr "Nachricht an alle"
+msgstr "Sende an alle"
 
 msgid "Brush"
 msgstr "Pinsel"
@@ -213,7 +212,6 @@ msgstr "ziehbar im Präsentationsmodus:"
 msgid "Cancel"
 msgstr "Abbrechen"
 
-#, fuzzy
 msgid "Cannot Add"
 msgstr "Hinzufügen nicht möglich"
 
@@ -572,7 +570,6 @@ msgid "hello"
 msgstr "hallo"
 
 # sollte als Menüeintrag 'Verstecken' sein, kollidiert aber mit hide in blocks.po
-#, fuzzy
 msgid "hide"
 msgstr "verstecke dich"
 
@@ -1115,7 +1112,6 @@ msgid "Shift:"
 msgstr "Umschalttaste:"
 
 # sollte als Menüeintrag 'Anzeigen' oder 'Zeigen' heißen, kollidiert aber mit show in blocks.po
-#, fuzzy
 msgid "show"
 msgstr "zeige dich"
 
@@ -1241,7 +1237,6 @@ msgid "tan"
 msgstr "tan"
 
 # im Rastermodus nur hinzufügen, im Vektormodus auch bearbeiten
-#, fuzzy
 msgid "text"
 msgstr "Textwerkzeug"
 
@@ -1267,7 +1262,6 @@ msgstr "Thema"
 msgid "Things"
 msgstr "Dinge"
 
-#, fuzzy
 msgid "thing"
 msgstr "Ding"
 

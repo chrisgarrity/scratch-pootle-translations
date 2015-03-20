@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-03-01 14:35+0000\n"
+"PO-Revision-Date: 2015-03-19 07:46+0000\n"
 "Last-Translator: Suha <suhaaktan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1425220518.000000\n"
+"X-POOTLE-MTIME: 1426751187.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -331,16 +331,16 @@ msgid "set rotation style %m.rotationStyle"
 msgstr "kuklanın şekli %m.rotationStyle"
 
 msgid "set size to %n%"
-msgstr "büyüklüğü % %n yap"
+msgstr "büyüklüğü %%n yap"
 
 msgid "set tempo to %n bpm"
 msgstr "tempo %n vuruş/dk olsun"
 
 msgid "set video transparency to %n%"
-msgstr "video saydamlığı %n% olsun"
+msgstr "video saydamlığı %%n olsun"
 
 msgid "set volume to %n%"
-msgstr "ses şiddeti %n% olsun"
+msgstr "ses şiddeti %%n olsun"
 
 msgid "set x to %n"
 msgstr "x, %n olsun"

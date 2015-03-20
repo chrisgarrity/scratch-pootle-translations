@@ -18,7 +18,7 @@ msgstr ""
 msgid "10 ^"
 msgstr "10^"
 
-msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank\">see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Informatia despre variabilele Cloud</b><br>&nbsp;<br>In acest moment sunt "
 "suportate numai numere<br>Camerele de chat nu sunt permise si vor fi "
@@ -259,7 +259,7 @@ msgstr "Curata"
 msgid "clear senders/receivers"
 msgstr "curata expeditori/destinatari"
 
-msgid "Click "Save now" to try again or "Download" to save"
+msgid "Click \"Save now\" to try again or \"Download\" to save"
 msgstr "Clic pentru a incerca din nou sau  pentru a salva"
 
 msgid "Close"

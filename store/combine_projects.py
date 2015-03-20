@@ -10,6 +10,7 @@ It creates a list of language names (lang_list.txt).
 
 import os, os.path
 import shutil
+import subprocess
 
 def importProject_editor():
 	if not os.path.exists('editorLocale'):
@@ -26,12 +27,15 @@ def importProject_editor():
 				if fname.endswith(".po"):
 					f1name = os.path.join(subpath, 'blocks.po')
 					f2name = os.path.join(editorPath, dname, 'editor.po')
+					oname = os.path.join('editorLocale', (dname + '.po'))
 					print f1name
 					print f2name
-					uiHeader = '\n##################\n# User Interface #\n##################\n'
-					content = open(f1name).read() + uiHeader + open(f2name).read()
-					langCode = dname + '.po'
-					open(os.path.join('editorLocale', langCode),'wb').write(content)
+					command = ['msgcat', f1name, f2name, '-o', oname]
+					try:
+						errors = subprocess.check_output(command, stderr=subprocess.STDOUT)
+					except subprocess.CalledProcessError as e:
+						print "subprocess error on language %s" % dname
+						print e
 					#shutil.copy2(fname, projectName)
 
 def importProject_django():

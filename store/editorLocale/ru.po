@@ -1,7 +1,5 @@
-#, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
@@ -16,21 +14,6 @@ msgstr ""
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1413125838.000000\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2014-10-19 17:32+0000\n"
-"Last-Translator: parukhin <parukhin@gmail.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ru\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1413739975.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -66,12 +49,10 @@ msgstr "ответ"
 msgid "ask %s and wait"
 msgstr "спросить %s и ждать"
 
-# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
 msgstr "фон #"
 
-# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
 msgstr "имя фона"
@@ -124,13 +105,8 @@ msgstr "цвет %c касается %c?"
 msgid "Control"
 msgstr "Управление"
 
-#, fuzzy
 msgid "costume #"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"костюм #\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"костюм №"
+msgstr "костюм #"
 
 msgid "create clone of %m.spriteOnly"
 msgstr "создать клон %m.spriteOnly"
@@ -186,13 +162,8 @@ msgstr "перейти в верхний слой"
 msgid "go to x:%n y:%n"
 msgstr "перейти в x:%n y:%n"
 
-#, fuzzy
 msgid "hide"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"спрятаться\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"скрыть"
+msgstr "спрятаться"
 
 msgid "hide list %m.list"
 msgstr "скрыть список %m.list"
@@ -378,13 +349,8 @@ msgstr "установить x в %n"
 msgid "set y to %n"
 msgstr "установить y в %n"
 
-#, fuzzy
 msgid "show"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"показаться\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"показать"
+msgstr "показаться"
 
 msgid "show list %m.list"
 msgstr "показать список %m.list"
@@ -395,8 +361,6 @@ msgstr "показать переменную %m.var"
 msgid "size"
 msgstr "размер"
 
-# #-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#
-# 80%
 msgid "Sound"
 msgstr "Звук"
 
@@ -469,13 +433,8 @@ msgstr "имя участника"
 msgid "video %m.videoMotionType on %m.stageOrThis"
 msgstr "видео %m.videoMotionType на %m.stageOrThis"
 
-#, fuzzy
 msgid "volume"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"громкость\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"уровень"
+msgstr "громкость"
 
 msgid "wait %n secs"
 msgstr "ждать %n секунд"
@@ -521,21 +480,11 @@ msgstr "когда спрайт нажат"
 msgid "when tilt %m.eNe %n"
 msgstr "когда наклон %m.eNe %n"
 
-#, fuzzy
 msgid "x position"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"положение x\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"положение по оси x"
+msgstr "положение x"
 
-#, fuzzy
 msgid "y position"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"положение y\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"положение по оси y"
+msgstr "положение y"
 
 # 89%
 msgid "set motor direction %m.motorDirection"

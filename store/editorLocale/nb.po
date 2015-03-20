@@ -1,7 +1,5 @@
-#, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
@@ -15,20 +13,6 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1412671835.000000\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-02-08 08:59+0000\n"
-"Last-Translator: Torbjorn <torbjorn.skauli@ffi.no>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: nb\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1423385971.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -64,25 +48,13 @@ msgstr "svar"
 msgid "ask %s and wait"
 msgstr "spør %s og vent"
 
-# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop #"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"bakgrunn #\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"bakgrunn nr."
+msgstr "bakgrunn #"
 
-# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop name"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"navn på bakgrunn\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"bakgrunnsnavn"
+msgstr "navn på bakgrunn"
 
 msgid "broadcast %m.broadcast"
 msgstr "send melding %m.broadcast"
@@ -132,13 +104,8 @@ msgstr "farge %c berører %c?"
 msgid "Control"
 msgstr "Styring"
 
-#, fuzzy
 msgid "costume #"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"drakt #\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"drakt nr."
+msgstr "drakt #"
 
 msgid "create clone of %m.spriteOnly"
 msgstr "lag klon av %m.spriteOnly"
@@ -233,13 +200,8 @@ msgstr "bokstav %n i %s"
 msgid "Looks"
 msgstr "Utseende"
 
-#, fuzzy
 msgid "loudness"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"volum\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"lydstyrke"
+msgstr "volum"
 
 msgid "More Blocks"
 msgstr "Flere klosser"
@@ -259,7 +221,6 @@ msgstr "mus y"
 msgid "move %n steps"
 msgstr "gå %n steg"
 
-# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "next backdrop"
 msgstr "neste bakgrunn"
@@ -399,8 +360,6 @@ msgstr "vis variablen %m.var"
 msgid "size"
 msgstr "størrelse"
 
-# #-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#
-# 80%
 msgid "Sound"
 msgstr "Lyd"
 
@@ -436,13 +395,8 @@ msgstr "tenk %s i %n sekunder"
 msgid "tilt"
 msgstr "helning"
 
-#, fuzzy
 msgid "timer"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"klokke\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"tid"
+msgstr "klokke"
 
 msgid "touching %m.touching?"
 msgstr "berører %m.touching?"

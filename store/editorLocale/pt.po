@@ -1,7 +1,5 @@
-#, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
@@ -15,20 +13,6 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1425135329.000000\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-02-28 14:54+0000\n"
-"Last-Translator: Manuel <mmsequeira@gmail.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: pt\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1425135260.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -64,12 +48,10 @@ msgstr "a resposta"
 msgid "ask %s and wait"
 msgstr "pergunta %s e espera pela resposta"
 
-# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
 msgstr "o número do cenário"
 
-# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
 msgstr "o nome do cenário"
@@ -179,13 +161,8 @@ msgstr "vem para a frente"
 msgid "go to x:%n y:%n"
 msgstr "vai para as coordenadas (x:%n , y:%n )"
 
-#, fuzzy
 msgid "hide"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"esconde-te\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"esconder"
+msgstr "esconde-te"
 
 msgid "hide list %m.list"
 msgstr "esconde a lista %m.list"
@@ -223,13 +200,8 @@ msgstr "o caractere %n de %s"
 msgid "Looks"
 msgstr "Aparência"
 
-#, fuzzy
 msgid "loudness"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"o volume\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"a intensidade do som"
+msgstr "o volume"
 
 msgid "More Blocks"
 msgstr "Mais Blocos"
@@ -249,7 +221,6 @@ msgstr "a coordenada y do rato"
 msgid "move %n steps"
 msgstr "anda %n passos"
 
-# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "next backdrop"
 msgstr "passa para o teu próximo cenário"
@@ -377,13 +348,8 @@ msgstr "altera a tua coordenada x para %n"
 msgid "set y to %n"
 msgstr "altera a tua coordenada y para %n"
 
-#, fuzzy
 msgid "show"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"mostra-te\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"mostrar"
+msgstr "mostra-te"
 
 msgid "show list %m.list"
 msgstr "mostra a lista %m.list"
@@ -394,8 +360,6 @@ msgstr "mostra a variável %m.var"
 msgid "size"
 msgstr "o tamanho"
 
-# #-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#
-# 80%
 msgid "Sound"
 msgstr "Som"
 

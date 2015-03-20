@@ -1,7 +1,5 @@
-#, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
@@ -16,21 +14,6 @@ msgstr ""
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1383330289.000000\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2014-11-02 14:43+0000\n"
-"Last-Translator: Krzysztof <ko_23@o2.pl>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: pl\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"|| n%100>=20) ? 1 : 2);\n"
-"X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1414939428.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -66,12 +49,10 @@ msgstr "odpowiedź"
 msgid "ask %s and wait"
 msgstr "zapytaj %s i czekaj"
 
-# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
 msgstr "tło #"
 
-# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
 msgstr "nazwa tła"
@@ -385,8 +366,6 @@ msgstr "pokaż zmienną %m.var"
 msgid "size"
 msgstr "rozmiar"
 
-# #-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#
-# 80%
 msgid "Sound"
 msgstr "Dźwięk"
 
@@ -422,13 +401,8 @@ msgstr "pomyśl %s przez %n s"
 msgid "tilt"
 msgstr "wychylenie"
 
-#, fuzzy
 msgid "timer"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"stoper\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"czasomierz"
+msgstr "stoper"
 
 msgid "touching %m.touching?"
 msgstr "dotyka %m.touching?"
@@ -515,21 +489,11 @@ msgstr "kiedy duszek kliknięty"
 msgid "when tilt %m.eNe %n"
 msgstr ""
 
-#, fuzzy
 msgid "x position"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"współrzędna x\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"pozycja x"
+msgstr "współrzędna x"
 
-#, fuzzy
 msgid "y position"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"współrzędna y\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"pozycja y"
+msgstr "współrzędna y"
 
 # 89%
 msgid "set motor direction %m.motorDirection"

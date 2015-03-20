@@ -1,7 +1,5 @@
-#, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
@@ -15,20 +13,6 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1423409878.000000\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-02-07 22:07+0000\n"
-"Last-Translator: Fabrizio <utalabi@gmail.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: sc\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1423346832.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -64,25 +48,13 @@ msgstr "risposta"
 msgid "ask %s and wait"
 msgstr "pregonta %s e arrea"
 
-# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop #"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"fundale #\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"nùmeru de fundale"
+msgstr "fundale #"
 
-# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop name"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"nùmene de su fundale\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"nùmene de fundale"
+msgstr "nùmene de su fundale"
 
 msgid "broadcast %m.broadcast"
 msgstr "imbia a totus %m.broadcast"
@@ -132,13 +104,8 @@ msgstr "su colore %c tochende su colore %c est?"
 msgid "Control"
 msgstr "Controllu"
 
-#, fuzzy
 msgid "costume #"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"costùmene #\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"nùmeru costumène"
+msgstr "costùmene #"
 
 msgid "create clone of %m.spriteOnly"
 msgstr "cria unu clonu de %m.spriteOnly"
@@ -233,13 +200,8 @@ msgstr "lìtera %n de %s"
 msgid "Looks"
 msgstr "Bisura"
 
-#, fuzzy
 msgid "loudness"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"volùmene micròfonu\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"volùmene de su sonu"
+msgstr "volùmene micròfonu"
 
 msgid "More Blocks"
 msgstr "Àteros Blocos"
@@ -259,7 +221,6 @@ msgstr "y de su sòrighe"
 msgid "move %n steps"
 msgstr "move de %n passos"
 
-# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "next backdrop"
 msgstr "fundale imbeniente"

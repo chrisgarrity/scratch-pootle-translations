@@ -1,7 +1,5 @@
-#, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
@@ -15,20 +13,6 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1423417966.000000\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-02-08 17:34+0000\n"
-"Last-Translator: ehsansadeghi <m.e.sadeghi@gmail.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: fa\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1423416864.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -64,25 +48,13 @@ msgstr "پاسخ"
 msgid "ask %s and wait"
 msgstr "%s را بپرس و صبر کن"
 
-# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop #"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"پس‌زمینه #\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-" # پشت صحنه"
+msgstr "پس‌زمینه #"
 
-# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop name"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"نام پس زمینه\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"نام پشت صحنه"
+msgstr "نام پس زمینه"
 
 msgid "broadcast %m.broadcast"
 msgstr "%m.broadcast را انتشار بده"
@@ -132,13 +104,8 @@ msgstr "زنگ %c با رنگ %c تماس دارد؟"
 msgid "Control"
 msgstr "کنترل"
 
-#, fuzzy
 msgid "costume #"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"شماره لباس #\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"لباس #"
+msgstr "شماره لباس #"
 
 msgid "create clone of %m.spriteOnly"
 msgstr "از %m.spriteOnly تکرار کن"
@@ -194,13 +161,8 @@ msgstr "برو به جلو"
 msgid "go to x:%n y:%n"
 msgstr "%n2 :وای %n1 :برو به مکان ایکس"
 
-#, fuzzy
 msgid "hide"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"پنهان کن\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"پنهان کردن"
+msgstr "پنهان کن"
 
 msgid "hide list %m.list"
 msgstr "فهرست %m.list را پنهان کن"
@@ -259,15 +221,9 @@ msgstr "مکان وای ماوس"
 msgid "move %n steps"
 msgstr "گام حرکت کن %n"
 
-# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "next backdrop"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"پس زمینه بعدی\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"پشت صحنه بعدی"
+msgstr "پس زمینه بعدی"
 
 msgid "next costume"
 msgstr "لباس بعدی"
@@ -392,13 +348,8 @@ msgstr "مکانx را %n قرار بده"
 msgid "set y to %n"
 msgstr "مکان y را %n قرار بده"
 
-#, fuzzy
 msgid "show"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"نمایش بده\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"نمایش"
+msgstr "نمایش بده"
 
 msgid "show list %m.list"
 msgstr "فهرست %m.list را نمایش بده"
@@ -409,8 +360,6 @@ msgstr "متغیر %m.var را نمایش بده"
 msgid "size"
 msgstr "اندازه"
 
-# #-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#
-# 80%
 msgid "Sound"
 msgstr "صدا"
 
@@ -446,13 +395,8 @@ msgstr "برای %n ثانیه فکر کن  %s"
 msgid "tilt"
 msgstr "کج شو"
 
-#, fuzzy
 msgid "timer"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"زمان سنج\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"تایمر"
+msgstr "زمان سنج"
 
 msgid "touching %m.touching?"
 msgstr "آیا %m.touching لمس می کند؟"
@@ -486,13 +430,8 @@ msgstr "نام کاربری"
 msgid "video %m.videoMotionType on %m.stageOrThis"
 msgstr "ویدئو %m.videoMotionType در %m.stageOrThis"
 
-#, fuzzy
 msgid "volume"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"بلندی صدا\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"حجم صدا"
+msgstr "بلندی صدا"
 
 msgid "wait %n secs"
 msgstr "%n ثانيه صبر کن "

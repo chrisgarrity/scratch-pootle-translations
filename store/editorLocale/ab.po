@@ -1,7 +1,5 @@
-#, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
@@ -14,19 +12,6 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1418998414.000000\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-01-21 19:16+0000\n"
-"Last-Translator: aabuchba <aabuchba@mail.ru>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ab\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1421867767.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -62,12 +47,10 @@ msgstr "аҭак"
 msgid "ask %s and wait"
 msgstr "иазҵаатәуп %s нас иҧштәуп"
 
-# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
 msgstr "аҿаҧшыра #"
 
-# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
 msgstr "аҿаҧшыра ахьӡ"
@@ -177,13 +160,8 @@ msgstr "ииастәуп аҩадатәи аҿыгҳара ахь"
 msgid "go to x:%n y:%n"
 msgstr "ииастәуп x:%n y:%n ахь"
 
-#, fuzzy
 msgid "hide"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"аҽыҵәахра\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"иҵәахтәуп"
+msgstr "аҽыҵәахра"
 
 msgid "hide list %m.list"
 msgstr "иҵәахтәуп ахьӡынҵа %m.list"
@@ -242,7 +220,6 @@ msgstr "ахәына y ала"
 msgid "move %n steps"
 msgstr "ицатәуп %n шьаҿак"
 
-# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "next backdrop"
 msgstr "анаҩстәи аҿаҧшыра"
@@ -364,13 +341,8 @@ msgstr "ишьақәыргылатәуп x %n аҿы"
 msgid "set y to %n"
 msgstr "ишьақәыргылатәуп y %n аҿы"
 
-#, fuzzy
 msgid "show"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"ацәырҵра\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"иаарҧштәуп"
+msgstr "ацәырҵра"
 
 msgid "show list %m.list"
 msgstr "иаарҧштәуп ахьӡынҵа %m.list"
@@ -449,13 +421,8 @@ msgstr "алахәлаҩ ихьӡ"
 msgid "video %m.videoMotionType on %m.stageOrThis"
 msgstr "авидео %m.videoMotionType %m.stageOrThis ала"
 
-#, fuzzy
 msgid "volume"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"абжьы аҳаракыра\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"аҩаӡара"
+msgstr "абжьы аҳаракыра"
 
 msgid "wait %n secs"
 msgstr "иҧштәуп %n секундк"
@@ -503,13 +470,8 @@ msgstr "анаара %m.eNe %n анакәу"
 msgid "x position"
 msgstr "x аҭыҧ"
 
-#, fuzzy
 msgid "y position"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"y аҭыҧ\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"у аҭыҧ"
+msgstr "y аҭыҧ"
 
 msgid "set motor direction %m.motorDirection"
 msgstr "амотор ахырхарҭа %m.motorDirection"

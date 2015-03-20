@@ -1,7 +1,5 @@
-#, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
@@ -16,21 +14,6 @@ msgstr ""
 "20)) ? 1 : 2);;\n"
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1382274078.000000\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2013-10-20 13:08+0000\n"
-"Last-Translator: Anca-Diana <diacadan@gmail.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ro\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
-"20)) ? 1 : 2);;\n"
-"X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1382274488.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -66,20 +49,13 @@ msgstr "raspuns"
 msgid "ask %s and wait"
 msgstr "intreaba %s si asteapta"
 
-# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
 msgstr "fundal #"
 
-# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop name"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"denumire fundal\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"numele fundalului"
+msgstr "denumire fundal"
 
 msgid "broadcast %m.broadcast"
 msgstr "expediere la toti %m.broadcast"
@@ -129,13 +105,8 @@ msgstr "culoarea %c atinge %c?"
 msgid "Control"
 msgstr "Control"
 
-#, fuzzy
 msgid "costume #"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"costumul #\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"costum #"
+msgstr "costumul #"
 
 msgid "create clone of %m.spriteOnly"
 msgstr "creaza clona pentru %m.spriteOnly"
@@ -230,13 +201,8 @@ msgstr "litera %n din %s"
 msgid "Looks"
 msgstr "Aspect"
 
-#, fuzzy
 msgid "loudness"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"volum sonor\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"putere"
+msgstr "volum sonor"
 
 msgid "More Blocks"
 msgstr "Mai multe blocuri"
@@ -394,13 +360,8 @@ msgstr "afiseaza lista %m.list"
 msgid "show variable %m.var"
 msgstr "afiseaza variabila %m.var"
 
-#, fuzzy
 msgid "size"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"marime\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"dimensiune"
+msgstr "marime"
 
 msgid "Sound"
 msgstr "Sunet"
@@ -524,21 +485,11 @@ msgstr "cand se da clic pe acest sprite"
 msgid "when tilt %m.eNe %n"
 msgstr ""
 
-#, fuzzy
 msgid "x position"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"pozitia x\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"pozitia lui x"
+msgstr "pozitia x"
 
-#, fuzzy
 msgid "y position"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"pozitia y\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"pozitia lui y"
+msgstr "pozitia y"
 
 # 89%
 msgid "set motor direction %m.motorDirection"

@@ -1,7 +1,5 @@
-#, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
@@ -15,20 +13,6 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1391652125.000000\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2014-03-02 21:28+0000\n"
-"Last-Translator: timsk3 <translate_scratch@timsk.org>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: eo\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1393795680.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -64,25 +48,13 @@ msgstr "respondo"
 msgid "ask %s and wait"
 msgstr "demandi %s kaj atendi"
 
-# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop #"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"numero de la fono\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"numero de fono"
+msgstr "numero de la fono"
 
-# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop name"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"nomo de la fono\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"nomo de fono"
+msgstr "nomo de la fono"
 
 msgid "broadcast %m.broadcast"
 msgstr "elsendi %m.broadcast"
@@ -132,13 +104,8 @@ msgstr "ĉu koloro %c tuŝas %c?"
 msgid "Control"
 msgstr "Stirado"
 
-#, fuzzy
 msgid "costume #"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"kostum-nombro\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"numero de kostumo"
+msgstr "kostum-nombro"
 
 msgid "create clone of %m.spriteOnly"
 msgstr "krei klonon de %m.spriteOnly"
@@ -194,13 +161,8 @@ msgstr "iri al la malfono"
 msgid "go to x:%n y:%n"
 msgstr "iri al x:%n y:%n"
 
-#, fuzzy
 msgid "hide"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"kaŝiĝi\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"kaŝi"
+msgstr "kaŝiĝi"
 
 msgid "hide list %m.list"
 msgstr "kaŝi la liston %m.list"
@@ -238,13 +200,8 @@ msgstr "%n-a litero el %s"
 msgid "Looks"
 msgstr "Aspekto"
 
-#, fuzzy
 msgid "loudness"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"laŭteco\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"laŭto"
+msgstr "laŭteco"
 
 msgid "More Blocks"
 msgstr "Pli da blokoj"
@@ -393,13 +350,8 @@ msgstr "valorigi x al %n"
 msgid "set y to %n"
 msgstr "valorigi y al %n"
 
-#, fuzzy
 msgid "show"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"montriĝi\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"montri"
+msgstr "montriĝi"
 
 msgid "show list %m.list"
 msgstr "montri la liston %m.list"
@@ -410,13 +362,8 @@ msgstr "montri variablon %m.var"
 msgid "size"
 msgstr "grando"
 
-#, fuzzy
 msgid "Sound"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Sonoj\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Sono"
+msgstr "Sonoj"
 
 msgid "stamp"
 msgstr "stampi"
@@ -450,13 +397,8 @@ msgstr "pensi %s dum %n sekundoj"
 msgid "tilt"
 msgstr "klini"
 
-#, fuzzy
 msgid "timer"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"klikhorloĝo\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"horloĝo"
+msgstr "klikhorloĝo"
 
 msgid "touching %m.touching?"
 msgstr "ĉu mi tuŝas %m.touching?"

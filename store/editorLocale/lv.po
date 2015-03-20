@@ -1,7 +1,5 @@
-#, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
@@ -16,21 +14,6 @@ msgstr ""
 "2);\n"
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1425671124.000000\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-03-06 19:46+0000\n"
-"Last-Translator: Kalvis <kalvis.kincis@r6vsk.lv>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: lv\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
-"2);\n"
-"X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1425671161.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -66,17 +49,10 @@ msgstr "atbilde"
 msgid "ask %s and wait"
 msgstr "pajautāt %s un gaidīt"
 
-# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop #"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"fons #\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"fons nr"
+msgstr "fons #"
 
-# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
 msgstr "fona nosaukums"
@@ -129,13 +105,8 @@ msgstr "krāsa %c pieskaras %c?"
 msgid "Control"
 msgstr "Vadība"
 
-#, fuzzy
 msgid "costume #"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"tērps #\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"tērps nr"
+msgstr "tērps #"
 
 msgid "create clone of %m.spriteOnly"
 msgstr "izveidot dublikātu %m.spriteOnly"
@@ -191,13 +162,8 @@ msgstr "iet uz priekšpusi"
 msgid "go to x:%n y:%n"
 msgstr "iet uz x:%n y:%n"
 
-#, fuzzy
 msgid "hide"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"slēpt\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"paslēpt"
+msgstr "slēpt"
 
 msgid "hide list %m.list"
 msgstr "slēpt sarakstu %m.list"
@@ -256,7 +222,6 @@ msgstr "peles y"
 msgid "move %n steps"
 msgstr "pārvietot %n soļus"
 
-# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "next backdrop"
 msgstr "nākamais fons"
@@ -393,8 +358,6 @@ msgstr "parādīt mainīgo %m.var"
 msgid "size"
 msgstr "izmērs"
 
-# #-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#
-# 80%
 msgid "Sound"
 msgstr "Skaņa"
 

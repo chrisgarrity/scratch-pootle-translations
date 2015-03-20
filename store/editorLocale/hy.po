@@ -1,7 +1,5 @@
-#, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
@@ -15,20 +13,6 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1379110593.000000\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2013-10-23 09:03+0000\n"
-"Last-Translator: Jasmine <udea_jasmine@yahoo.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: hy\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1382518993.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -64,25 +48,13 @@ msgstr "պատասխան"
 msgid "ask %s and wait"
 msgstr "հարցնել %s և սպասել"
 
-# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop #"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"ետնապատ #\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Ետնապատ #"
+msgstr "ետնապատ #"
 
-# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop name"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"ետնապատի անվանումը\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Ետնապատի անվանումը"
+msgstr "ետնապատի անվանումը"
 
 msgid "broadcast %m.broadcast"
 msgstr "հեռարձակել %m.broadcast"
@@ -378,13 +350,8 @@ msgstr "x ը կայել %n ին"
 msgid "set y to %n"
 msgstr "y ը կայել %n ին"
 
-#, fuzzy
 msgid "show"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"ցույց տալ\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Ցույց տալ"
+msgstr "ցույց տալ"
 
 msgid "show list %m.list"
 msgstr "Ցույց տալ %m.list ցանկը"
@@ -392,21 +359,11 @@ msgstr "Ցույց տալ %m.list ցանկը"
 msgid "show variable %m.var"
 msgstr "Ցույց տալ %m.var փոփոխականը"
 
-#, fuzzy
 msgid "size"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"չափս\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Չափս"
+msgstr "չափս"
 
-#, fuzzy
 msgid "Sound"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Ձայն\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Հնչյուն"
+msgstr "Ձայն"
 
 msgid "stamp"
 msgstr "Կնիք"
@@ -440,13 +397,8 @@ msgstr "Մտածել %s %n վայրկյանում"
 msgid "tilt"
 msgstr "Թեքում"
 
-#, fuzzy
 msgid "timer"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Վայկյանաչափ\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Վայրկյանաչափ"
+msgstr "Վայկյանաչափ"
 
 msgid "touching %m.touching?"
 msgstr "հպվու՞մ է %m.touching ին"
@@ -485,13 +437,8 @@ msgstr "Օգտվողի անունը"
 msgid "video %m.videoMotionType on %m.stageOrThis"
 msgstr "Տեսագրություն %m.videoMotionType on %m.stageOrThis"
 
-#, fuzzy
 msgid "volume"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Ձայն\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Ձայնի ուժգնություն"
+msgstr "Ձայն"
 
 msgid "wait %n secs"
 msgstr "Սպասել %n վայրկյան"
@@ -537,21 +484,11 @@ msgstr "Երբ սեղմեմ այս օբյեկտի վրա"
 msgid "when tilt %m.eNe %n"
 msgstr ""
 
-#, fuzzy
 msgid "x position"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Դիրքն x ի վրա\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"x դիրքը"
+msgstr "Դիրքն x ի վրա"
 
-#, fuzzy
 msgid "y position"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Դիրքն y ի վրա\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"y դիրքը"
+msgstr "Դիրքն y ի վրա"
 
 # 89%
 msgid "set motor direction %m.motorDirection"

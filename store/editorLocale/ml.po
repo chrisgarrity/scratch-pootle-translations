@@ -1,7 +1,5 @@
-#, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
@@ -15,20 +13,6 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1398237976.000000\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2014-04-29 11:37+0000\n"
-"Last-Translator: dhanila <dhanilabk@gmail.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: ml\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1398771434.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -64,12 +48,10 @@ msgstr "ഉത്തരം"
 msgid "ask %s and wait"
 msgstr "ചോദിക്കു %s ശേഷം കാത്തിരിക്കുക"
 
-# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
 msgstr "രംഗം #"
 
-# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
 msgstr "രംഗത്തിന്‍റെ പേര്"
@@ -179,13 +161,8 @@ msgstr "ഉപരിതലത്തിലോട്ടു വരിക"
 msgid "go to x:%n y:%n"
 msgstr "x:%n,y:%nലേക്കും പോവുക"
 
-#, fuzzy
 msgid "hide"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"ഒളിക്കുക\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"മറച്ചുവയ്ക്കുക"
+msgstr "ഒളിക്കുക"
 
 msgid "hide list %m.list"
 msgstr "ലിസ്റ്റ് %m.നെ ഒളിപ്പിക്കുക"
@@ -223,13 +200,8 @@ msgstr "%n ന്‍റെ %s മത്തെ അക്ഷരം"
 msgid "Looks"
 msgstr "കാഴ്ച"
 
-#, fuzzy
 msgid "loudness"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"ഉച്ചത\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"ഘോഷം"
+msgstr "ഉച്ചത"
 
 msgid "More Blocks"
 msgstr "കൂടുതല്‍ ബ്ലോക്കുകള്‍"
@@ -374,13 +346,8 @@ msgstr "x നെ %n ആക്കുക"
 msgid "set y to %n"
 msgstr "y നെ %n ആക്കുക"
 
-#, fuzzy
 msgid "show"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"കാണിക്കുക\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"പ്രത്യക്ഷമാവുക"
+msgstr "കാണിക്കുക"
 
 msgid "show list %m.list"
 msgstr "ലിസ്റ്റ് %m നെ കാണിക്കുക"
@@ -388,21 +355,11 @@ msgstr "ലിസ്റ്റ് %m നെ കാണിക്കുക"
 msgid "show variable %m.var"
 msgstr "ചരം %m.var കാണിക്കുക"
 
-#, fuzzy
 msgid "size"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"വലുപ്പം\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"വലിപ്പം"
+msgstr "വലുപ്പം"
 
-#, fuzzy
 msgid "Sound"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"ശബ്ദം\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"ശബ്‌ദം"
+msgstr "ശബ്ദം"
 
 msgid "stamp"
 msgstr "ഒട്ടിക്കുക"

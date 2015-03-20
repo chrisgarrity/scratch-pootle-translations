@@ -1,7 +1,5 @@
-#, fuzzy
 msgid ""
 msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
@@ -15,20 +13,6 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1423997682.000000\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-02-15 11:07+0000\n"
-"Last-Translator: Karel <janda@ccs.cz>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: cs\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1423998439.000000\n"
 
 # The language name as it will appear in the language menu
 # The language name as it will appear in the language menu. "Č" v 1.4 je na konci abecedy!
@@ -65,12 +49,10 @@ msgstr "odpověď"
 msgid "ask %s and wait"
 msgstr "ptej se %s a čekej"
 
-# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
 msgstr "číslo pozadí"
 
-# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
 msgstr "název pozadí"
@@ -183,13 +165,8 @@ msgstr "jdi do popředí"
 msgid "go to x:%n y:%n"
 msgstr "skoč na pozici x:%n y:%n"
 
-#, fuzzy
 msgid "hide"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"skryj se\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"skrýt"
+msgstr "skryj se"
 
 msgid "hide list %m.list"
 msgstr "skryj seznam %m.list"
@@ -249,7 +226,6 @@ msgstr "souřadnice myši y"
 msgid "move %n steps"
 msgstr "posuň se o %n kroků"
 
-# #-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "next backdrop"
 msgstr "další pozadí"
@@ -381,13 +357,8 @@ msgstr "nastav x na %n"
 msgid "set y to %n"
 msgstr "nastav y na %n"
 
-#, fuzzy
 msgid "show"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"ukaž se\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"ukázat"
+msgstr "ukaž se"
 
 msgid "show list %m.list"
 msgstr "ukaž seznam %m.list"
@@ -398,8 +369,6 @@ msgstr "ukaž proměnnou %m.var"
 msgid "size"
 msgstr "velikost"
 
-# #-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#
-# 80%
 msgid "Sound"
 msgstr "Zvuk"
 
@@ -522,21 +491,11 @@ msgstr "po kliknutí na mě"
 msgid "when tilt %m.eNe %n"
 msgstr "při sklonu %m.eNe %n"
 
-#, fuzzy
 msgid "x position"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"pozice x\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"souřadnice x"
+msgstr "pozice x"
 
-#, fuzzy
 msgid "y position"
-msgstr ""
-"#-#-#-#-#  blocks.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"pozice y\n"
-"#-#-#-#-#  editor.po (PACKAGE VERSION)  #-#-#-#-#\n"
-"souřadnice y"
+msgstr "pozice y"
 
 # 89%
 # 100%

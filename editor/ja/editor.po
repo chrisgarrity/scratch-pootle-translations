@@ -17,7 +17,11 @@ msgstr ""
 msgid "10 ^"
 msgstr "10 ^"
 
-msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank\">see the cloud data FAQ!</a>"
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank"
+"\">see the cloud data FAQ!</a>"
 msgstr ""
 "<b>クラウド変数について</b><br>&nbsp;<br>現在、数値のみがサポートされています<br>チャットルームの作成は許可されていないため、削除"
 "されます<br>詳細な情報は <a href= target=>クラウドデータに関するFAQを読んでください！</a>"
@@ -144,7 +148,10 @@ msgstr "バスドラム"
 msgid "Bassoon"
 msgstr "バスーン"
 
-msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgid ""
+"Because you have a new Scratch account, any changes to cloud data won't be "
+"saved yet. Keep participating on the site you'll be able to use cloud data "
+"soon!"
 msgstr ""
 "新しいScratchのアカウントを使っているので、クラウド・データへの変更は保存できません。このサイトに参加し続けると、すぐにクラウド・データを使用できる"
 "ようになります。"
@@ -1029,7 +1036,9 @@ msgstr "秒"
 msgid "See project page"
 msgstr "プロジェクトページ参照"
 
-msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
+msgid ""
+"See the Tips window (on the right) to install the plug-in and get the "
+"extension working."
 msgstr "プラグインをインストールして拡張機能を使う方法は、(右側の)ヒントウィンドウを見てください。"
 
 msgid "Select"
@@ -1198,7 +1207,9 @@ msgstr "あちら向き"
 msgid "The name is already in use."
 msgstr "この名前は既に使われています。"
 
-msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgid ""
+"The project failed to load and Scratch Team has been notified. Press OK to "
+"leave this page."
 msgstr "プロジェクトの読み込みに失敗しました。このことはScratchチームに通知されています。OKを押して、このページから戻ってください。"
 
 msgid "Theme"
@@ -1213,11 +1224,15 @@ msgstr "もの"
 msgid "This is the current version."
 msgstr "これが最新のバージョンです。"
 
-msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
+msgid ""
+"This project can detect who is using it, through the “username” block. To "
+"hide your identity, sign out before using the project."
 msgstr ""
 "このプロジェクトは「ユーザー名」ブロックを使って、誰が使っているかを検出します。特定されたくない場合はこのプロジェクトを使う前にサインアウトしてください。"
 
-msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
+msgid ""
+"This project uses Cloud data ‒ a feature that is available only to signed in "
+"users."
 msgstr "このプロジェクトはクラウドデータを使っています。この機能はサインインしたユーザーだけ使うことができます。"
 
 msgid "this script"
@@ -1388,7 +1403,9 @@ msgstr "y座標"
 msgid "year"
 msgstr "年"
 
-msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
+msgid ""
+"You cannot edit cloud data in someone else's project.<br>Any change that you "
+"make in the editor will be temporary and not persistent."
 msgstr "他の人のプロジェクトのクラウドデータを編集することはできません。<br>エディターで行った変更は一時的なもので永続性はありません。"
 
 msgid "Your Scratch name"
@@ -1399,8 +1416,8 @@ msgstr "Scratch名が必要です"
 
 msgid ""
 "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-"For more info, <a href= target=>see the cloud data FAQ!</a>"
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
 msgstr ""
 "<b>クラウド変数について</b><br>&nbsp;<br>現在、数値のみがサポートされています<br>チャットルームの作成は許可されていないため、削除"
 "されます<br>詳細な情報は <a href= target=>クラウドデータに関するFAQを読んでください！</a>"
@@ -1413,6 +1430,114 @@ msgstr "消しゴムの幅:"
 
 msgid "Line width:"
 msgstr "線の幅:"
+
+# Offline editor only
+msgid "All Tips"
+msgstr ""
+
+# Offline editor only
+msgid ""
+"An updated version of the Scratch offline editor is available on the Scratch "
+"website."
+msgstr ""
+
+# Offline editor only
+#, fuzzy
+msgid "Could not retrieve update location from server."
+msgstr "サーバーから新しいアプリケーションを取り出せません。"
+
+# Offline editor only
+#, fuzzy
+msgid "Could not retrieve version information from server."
+msgstr "サーバーから新しいアプリケーションを取り出せません。"
+
+# Offline editor only
+msgid "Could not write file:"
+msgstr ""
+
+# Offline editor only
+#, fuzzy
+msgid "Downloading new version..."
+msgstr "新しいバージョンをダウンロード中"
+
+# Offline editor only
+msgid "Error saving project"
+msgstr ""
+
+# Offline editor only
+msgid "Force help file update"
+msgstr ""
+
+# Offline editor only
+msgid "Import experimental HTTP extension"
+msgstr ""
+
+# Offline editor only
+msgid "Loading help files..."
+msgstr ""
+
+# Offline editor only
+msgid "Manual Update Available"
+msgstr ""
+
+# Offline editor only
+msgid "Open Project"
+msgstr ""
+
+# Offline editor only
+msgid "Please visit the download page to install it."
+msgstr ""
+
+# Offline editor only
+msgid "Quit"
+msgstr ""
+
+# Offline editor only
+#, fuzzy
+msgid "Replace existing project?"
+msgstr "既存のプロジェクトを置換"
+
+# Offline editor only
+msgid "Running pre-release"
+msgstr ""
+
+# Offline editor only
+#, fuzzy
+msgid "Save Project"
+msgstr "プロジェクトを保存?"
+
+# Offline editor only
+msgid "Server error:"
+msgstr ""
+
+# Offline editor only
+#, fuzzy
+msgid "Share to Scratch Website"
+msgstr "ScratchのWebサイトで共有する"
+
+# Offline editor only
+msgid "Success"
+msgstr ""
+
+# Offline editor only
+msgid "This version is newer than the current release version."
+msgstr ""
+
+# Offline editor only
+msgid "Update check failed"
+msgstr ""
+
+# Offline editor only
+msgid "Upload failed"
+msgstr ""
+
+# Offline editor only
+msgid "Visit download page"
+msgstr ""
+
+# Offline editor only
+msgid "Your project has been uploaded to scratch.mit.edu"
+msgstr ""
 
 #~ msgid "cleanup"
 #~ msgstr "きれいにする"

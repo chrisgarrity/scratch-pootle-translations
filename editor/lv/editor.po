@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-03-06 19:46+0000\n"
+"PO-Revision-Date: 2015-03-25 10:13+0000\n"
 "Last-Translator: Kalvis <kalvis.kincis@r6vsk.lv>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: lv\n"
@@ -13,12 +13,16 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);"
 "\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1425671161.000000\n"
+"X-POOTLE-MTIME: 1427278415.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
 
-msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank\">see the cloud data FAQ!</a>"
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank"
+"\">see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Informācija par mākoņu mainīgajiem</b><br>&nbsp;<br>Šobrīd atļāuti tikai "
 "skaitļi<br>Čata istabas nav atļautas, un tās tiks dzēstas.<br>Papildus "
@@ -153,7 +157,10 @@ msgstr "Basa bungas"
 msgid "Bassoon"
 msgstr "Fagots"
 
-msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgid ""
+"Because you have a new Scratch account, any changes to cloud data won't be "
+"saved yet. Keep participating on the site you'll be able to use cloud data "
+"soon!"
 msgstr ""
 "Tā kā tev ir jauns Scratch profils, izmaiņas mākonī pagaidām netiek "
 "saglabātas. Turpini darboties lapā un drīz varēsi izmantot arī datu mākoni!"
@@ -186,7 +193,7 @@ msgid "button pressed"
 msgstr "poga nospiesta"
 
 msgid "by"
-msgstr "pa"
+msgstr "no"
 
 msgid "bytes loaded"
 msgstr "baiti ielādēti"
@@ -1046,7 +1053,9 @@ msgstr "sekunde"
 msgid "See project page"
 msgstr "Skatīt projekta lapu"
 
-msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
+msgid ""
+"See the Tips window (on the right) to install the plug-in and get the "
+"extension working."
 msgstr ""
 "Skaties padomu logā (pa labi) lai uzstādītu spraudni un papildinājums sāktu "
 "strādāt."
@@ -1222,7 +1231,9 @@ msgstr "tas ceļš"
 msgid "The name is already in use."
 msgstr "Šis nosaukums jau tiek lietots"
 
-msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgid ""
+"The project failed to load and Scratch Team has been notified. Press OK to "
+"leave this page."
 msgstr ""
 "Projektu nebija iespējams ielādēt un Scratch komandai ir par to paziņots. "
 "Spiediet Labi, lai pamestu šo lapu."
@@ -1239,12 +1250,16 @@ msgstr "lieta"
 msgid "This is the current version."
 msgstr "Šī ir jaunākā versija"
 
-msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
+msgid ""
+"This project can detect who is using it, through the “username” block. To "
+"hide your identity, sign out before using the project."
 msgstr ""
 "Projekts var noteikt, kas to izmanto, lietojot bloku “lietotājvārds”. Lai "
 "slēptu savu identitāti, izraksties, pirms izmanto šo projektu."
 
-msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
+msgid ""
+"This project uses Cloud data ‒ a feature that is available only to signed in "
+"users."
 msgstr ""
 "Projektā ir izmantoti mākoņu dati - iespēja, kas pieejama tikai autorizētiem "
 "lietotājiem."
@@ -1313,7 +1328,7 @@ msgid "Ungroup"
 msgstr "Atgrupēt"
 
 msgid "unshared"
-msgstr "nekoplietots"
+msgstr "nav koplietots"
 
 msgid "up"
 msgstr "uz augšu"
@@ -1420,7 +1435,9 @@ msgstr "y pozīcija"
 msgid "year"
 msgstr "gads"
 
-msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
+msgid ""
+"You cannot edit cloud data in someone else's project.<br>Any change that you "
+"make in the editor will be temporary and not persistent."
 msgstr ""
 "Nav iespējams labot datus mākonī kāda cita projektā.<br>Jebkuras veiktās "
 "izmaiņas būs pagaidu un netiks saglabātas."
@@ -1433,8 +1450,8 @@ msgstr "Tavs Scratch vārds ir obligāts"
 
 msgid ""
 "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-"For more info, <a href= target=>see the cloud data FAQ!</a>"
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Informācija par mākoņu mainīgajiem</b><br>&nbsp;<br>Šobrīd atļauti tikai "
 "skaitļi<br>Sarunu istabas nav atļautas, un tiks dzēstas.<br>Vairāk "
@@ -1448,6 +1465,110 @@ msgstr "Dzēšgumijas platums:"
 
 msgid "Line width:"
 msgstr "Līnijas platums:"
+
+# Offline editor only
+msgid "All Tips"
+msgstr "Visi padomi"
+
+# Offline editor only
+msgid ""
+"An updated version of the Scratch offline editor is available on the Scratch "
+"website."
+msgstr ""
+"Scratch bezsaistes redaktoram ir pieejama jaunāka versija, meklē to Scratch "
+"mājaslapā."
+
+# Offline editor only
+msgid "Could not retrieve update location from server."
+msgstr "Nevar saņemt jauninājuma atrašanās vietu serverī."
+
+# Offline editor only
+msgid "Could not retrieve version information from server."
+msgstr "Nevar saņemt versijas informāciju no servera."
+
+# Offline editor only
+msgid "Could not write file:"
+msgstr "Nevar ierakstīt datni:"
+
+# Offline editor only
+msgid "Downloading new version..."
+msgstr "Lejuplādē jaunu versiju..."
+
+# Offline editor only
+msgid "Error saving project"
+msgstr "Kļūda saglabājot projektu"
+
+# Offline editor only
+msgid "Force help file update"
+msgstr "Atjaunot palīdzības datni"
+
+# Offline editor only
+msgid "Import experimental HTTP extension"
+msgstr "Importēt eksperimentālu HTTP paplašinājumu"
+
+# Offline editor only
+msgid "Loading help files..."
+msgstr "Ielādē palīdzības datnes..."
+
+# Offline editor only
+msgid "Manual Update Available"
+msgstr "Pieejams manuāls atjauninājums"
+
+# Offline editor only
+msgid "Open Project"
+msgstr "Atvērt projektu"
+
+# Offline editor only
+msgid "Please visit the download page to install it."
+msgstr "Lūdzu apmeklēt lejupielādes lapu, lai to uzstādītu."
+
+# Offline editor only
+msgid "Quit"
+msgstr "Iziet"
+
+# Offline editor only
+msgid "Replace existing project?"
+msgstr "Aizvietot esošu projektu?"
+
+# Offline editor only
+msgid "Running pre-release"
+msgstr "Izpilda izstrādes versiju"
+
+# Offline editor only
+msgid "Save Project"
+msgstr "Saglabāt projektu"
+
+# Offline editor only
+msgid "Server error:"
+msgstr "Servera kļūda:"
+
+# Offline editor only
+msgid "Share to Scratch Website"
+msgstr "Koplietot Scratch mājaslapā"
+
+# Offline editor only
+msgid "Success"
+msgstr "Veiksmīgi"
+
+# Offline editor only
+msgid "This version is newer than the current release version."
+msgstr "Šī versija ir jaunākā, nekā pašreizējā izlaistā versija."
+
+# Offline editor only
+msgid "Update check failed"
+msgstr "Atjauninājumu pārbaude neizdevās"
+
+# Offline editor only
+msgid "Upload failed"
+msgstr "Augšupielāde neizdevās"
+
+# Offline editor only
+msgid "Visit download page"
+msgstr "Apmeklēt lejupielāžu lapu"
+
+# Offline editor only
+msgid "Your project has been uploaded to scratch.mit.edu"
+msgstr "Tavs projekts ir augšuplādēts scratch.mit.edu"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Pievienot Būla (boolean) ievadi:"

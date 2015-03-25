@@ -17,7 +17,11 @@ msgstr ""
 msgid "10 ^"
 msgstr "10^"
 
-msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank\">see the cloud data FAQ!</a>"
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank"
+"\">see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Information sur les variables du Cloud</b><br>&nbsp;<br>Actuellement, "
 "seuls les numéros sont pris en charge<br>Les salles de Chat ne sont pas "
@@ -150,7 +154,10 @@ msgstr "Grosse caisse"
 msgid "Bassoon"
 msgstr "Basson"
 
-msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgid ""
+"Because you have a new Scratch account, any changes to cloud data won't be "
+"saved yet. Keep participating on the site you'll be able to use cloud data "
+"soon!"
 msgstr ""
 "Parce que vous avez un nouveau compte Scratch, toute modification des "
 "données en nuage ne ​​sera pas encore enregistrée. Continuer à participer "
@@ -1051,7 +1058,9 @@ msgstr "seconde"
 msgid "See project page"
 msgstr "Montrer la page du projet"
 
-msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
+msgid ""
+"See the Tips window (on the right) to install the plug-in and get the "
+"extension working."
 msgstr ""
 "Voir la fenêtre Conseils (à droite) pour installer le plug-in et activer "
 "l'extension."
@@ -1229,7 +1238,9 @@ msgstr "négatif"
 msgid "The name is already in use."
 msgstr "Ce nom est déjà utilisé"
 
-msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgid ""
+"The project failed to load and Scratch Team has been notified. Press OK to "
+"leave this page."
 msgstr ""
 "Le projet n'a pas été chargé et l'équipe de Scratch en a été averti. Appuyer "
 "sur OK pour quitter cette page."
@@ -1246,12 +1257,16 @@ msgstr "chose"
 msgid "This is the current version."
 msgstr "C'est la version actuelle du projet."
 
-msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
+msgid ""
+"This project can detect who is using it, through the “username” block. To "
+"hide your identity, sign out before using the project."
 msgstr ""
 "Ce projet peut détecter qui l'utilise, grâce au bloc \"username\". Pour "
 "masquer votre identité, déconnectez-vous avant d'utiliser le projet."
 
-msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
+msgid ""
+"This project uses Cloud data ‒ a feature that is available only to signed in "
+"users."
 msgstr ""
 "Ce projet utilise des données du nuage - une fonctionnalité qui est "
 "disponible uniquement pour les utilisateurs connectés."
@@ -1428,7 +1443,9 @@ msgstr "position y"
 msgid "year"
 msgstr "année"
 
-msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
+msgid ""
+"You cannot edit cloud data in someone else's project.<br>Any change that you "
+"make in the editor will be temporary and not persistent."
 msgstr ""
 "Vous ne pouvez pas modifier les données du Cloud ​​dans le projet de "
 "quelqu'un d'autre. <br> Toute modification que vous faites dans l'éditeur "
@@ -1442,8 +1459,8 @@ msgstr "Votre nom dans Scratch est requis "
 
 msgid ""
 "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-"For more info, <a href= target=>see the cloud data FAQ!</a>"
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Information sur les variables du Cloud</b><br>&nbsp;<br>Actuellement, "
 "seuls les numéros sont pris en charge<br>Les salles de Chat ne sont pas "
@@ -1458,6 +1475,114 @@ msgstr "Effacer avec:"
 
 msgid "Line width:"
 msgstr "Largeur de la ligne:"
+
+# Offline editor only
+msgid "All Tips"
+msgstr ""
+
+# Offline editor only
+msgid ""
+"An updated version of the Scratch offline editor is available on the Scratch "
+"website."
+msgstr ""
+
+# Offline editor only
+#, fuzzy
+msgid "Could not retrieve update location from server."
+msgstr "Echec de la récupération de la nouvelle application depuis le serveur"
+
+# Offline editor only
+#, fuzzy
+msgid "Could not retrieve version information from server."
+msgstr "Echec de la récupération de la nouvelle application depuis le serveur"
+
+# Offline editor only
+msgid "Could not write file:"
+msgstr ""
+
+# Offline editor only
+#, fuzzy
+msgid "Downloading new version..."
+msgstr "En cours de téléchargement d'une nouvelle version"
+
+# Offline editor only
+msgid "Error saving project"
+msgstr ""
+
+# Offline editor only
+msgid "Force help file update"
+msgstr ""
+
+# Offline editor only
+msgid "Import experimental HTTP extension"
+msgstr ""
+
+# Offline editor only
+msgid "Loading help files..."
+msgstr ""
+
+# Offline editor only
+msgid "Manual Update Available"
+msgstr ""
+
+# Offline editor only
+msgid "Open Project"
+msgstr ""
+
+# Offline editor only
+msgid "Please visit the download page to install it."
+msgstr ""
+
+# Offline editor only
+msgid "Quit"
+msgstr ""
+
+# Offline editor only
+#, fuzzy
+msgid "Replace existing project?"
+msgstr "Remplacer un projet existant"
+
+# Offline editor only
+msgid "Running pre-release"
+msgstr ""
+
+# Offline editor only
+#, fuzzy
+msgid "Save Project"
+msgstr "Enregistrer le projet?"
+
+# Offline editor only
+msgid "Server error:"
+msgstr ""
+
+# Offline editor only
+#, fuzzy
+msgid "Share to Scratch Website"
+msgstr "Partager avec le site web de Scratch"
+
+# Offline editor only
+msgid "Success"
+msgstr ""
+
+# Offline editor only
+msgid "This version is newer than the current release version."
+msgstr ""
+
+# Offline editor only
+msgid "Update check failed"
+msgstr ""
+
+# Offline editor only
+msgid "Upload failed"
+msgstr ""
+
+# Offline editor only
+msgid "Visit download page"
+msgstr ""
+
+# Offline editor only
+msgid "Your project has been uploaded to scratch.mit.edu"
+msgstr ""
 
 #~ msgid "cleanup"
 #~ msgstr "nettoyer"

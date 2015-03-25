@@ -17,7 +17,11 @@ msgstr ""
 msgid "10 ^"
 msgstr ""
 
-msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank\">see the cloud data FAQ!</a>"
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank"
+"\">see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Информация за Облачни променливи</b><br>&nbsp;<br>Към момента се "
 "поддържат само числa<br>Чат стаи не са разрешени и ще бъдат премахвани<br>За "
@@ -149,7 +153,10 @@ msgstr "Бас барабан"
 msgid "Bassoon"
 msgstr "Фагот"
 
-msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgid ""
+"Because you have a new Scratch account, any changes to cloud data won't be "
+"saved yet. Keep participating on the site you'll be able to use cloud data "
+"soon!"
 msgstr ""
 "Тъй като Scratch акаунта Ви е нов, промени в облачните данни няма да бъдат "
 "съхранени все още. Продължавайте да се упражнявате и скоро ще можете да "
@@ -1048,7 +1055,9 @@ msgstr "секунда"
 msgid "See project page"
 msgstr "Към страницата на проекта"
 
-msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
+msgid ""
+"See the Tips window (on the right) to install the plug-in and get the "
+"extension working."
 msgstr ""
 "Вижте прозореца със съветите (от дясно) за да инсталирате \"plug-in\" и да "
 "заработи приставката."
@@ -1226,7 +1235,9 @@ msgstr "натам"
 msgid "The name is already in use."
 msgstr ""
 
-msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgid ""
+"The project failed to load and Scratch Team has been notified. Press OK to "
+"leave this page."
 msgstr ""
 
 msgid "Theme"
@@ -1241,12 +1252,16 @@ msgstr ""
 msgid "This is the current version."
 msgstr "Това е текущата версия."
 
-msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
+msgid ""
+"This project can detect who is using it, through the “username” block. To "
+"hide your identity, sign out before using the project."
 msgstr ""
 "Този проект може да установява кой го използва чрез блока “потребителско име”"
 ". За да скриете своята самоличност, излезте преди да използвате проекта."
 
-msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
+msgid ""
+"This project uses Cloud data ‒ a feature that is available only to signed in "
+"users."
 msgstr ""
 "Този проект използва Облачни данни - особеност, налична само за логнати "
 "потребители."
@@ -1421,7 +1436,9 @@ msgstr "y позиция"
 msgid "year"
 msgstr "година"
 
-msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
+msgid ""
+"You cannot edit cloud data in someone else's project.<br>Any change that you "
+"make in the editor will be temporary and not persistent."
 msgstr ""
 "Не можете да редактирате облачни данни в чужд проект.<br>Всички промени, "
 "коите ще направите в редактора ще бъдат временни, а не постоянни."
@@ -1434,8 +1451,8 @@ msgstr "Изисква се вашето Scratch име"
 
 msgid ""
 "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-"For more info, <a href= target=>see the cloud data FAQ!</a>"
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Информация за Облачни променливи</b><br>&nbsp;<br>Към момента се "
 "поддържат само числa<br>Чат стаи не са разрешени и ще бъдат премахвани<br>За "
@@ -1450,6 +1467,112 @@ msgstr "Широчина на гумата:"
 
 msgid "Line width:"
 msgstr "Широчина на линията:"
+
+# Offline editor only
+msgid "All Tips"
+msgstr ""
+
+# Offline editor only
+msgid ""
+"An updated version of the Scratch offline editor is available on the Scratch "
+"website."
+msgstr ""
+
+# Offline editor only
+#, fuzzy
+msgid "Could not retrieve update location from server."
+msgstr "Не се получава ново приложение от сървъра."
+
+# Offline editor only
+#, fuzzy
+msgid "Could not retrieve version information from server."
+msgstr "Не се получава ново приложение от сървъра."
+
+# Offline editor only
+msgid "Could not write file:"
+msgstr ""
+
+# Offline editor only
+#, fuzzy
+msgid "Downloading new version..."
+msgstr "Изтегляне на новата версия"
+
+# Offline editor only
+msgid "Error saving project"
+msgstr ""
+
+# Offline editor only
+msgid "Force help file update"
+msgstr ""
+
+# Offline editor only
+msgid "Import experimental HTTP extension"
+msgstr ""
+
+# Offline editor only
+msgid "Loading help files..."
+msgstr ""
+
+# Offline editor only
+msgid "Manual Update Available"
+msgstr ""
+
+# Offline editor only
+msgid "Open Project"
+msgstr ""
+
+# Offline editor only
+msgid "Please visit the download page to install it."
+msgstr ""
+
+# Offline editor only
+msgid "Quit"
+msgstr ""
+
+# Offline editor only
+msgid "Replace existing project?"
+msgstr ""
+
+# Offline editor only
+msgid "Running pre-release"
+msgstr ""
+
+# Offline editor only
+msgid "Save Project"
+msgstr ""
+
+# Offline editor only
+msgid "Server error:"
+msgstr ""
+
+# Offline editor only
+#, fuzzy
+msgid "Share to Scratch Website"
+msgstr "Споделяне на Scratch уебсайта"
+
+# Offline editor only
+msgid "Success"
+msgstr ""
+
+# Offline editor only
+msgid "This version is newer than the current release version."
+msgstr ""
+
+# Offline editor only
+msgid "Update check failed"
+msgstr ""
+
+# Offline editor only
+msgid "Upload failed"
+msgstr ""
+
+# Offline editor only
+msgid "Visit download page"
+msgstr ""
+
+# Offline editor only
+msgid "Your project has been uploaded to scratch.mit.edu"
+msgstr ""
 
 #~ msgid "cleanup"
 #~ msgstr "разчисти"

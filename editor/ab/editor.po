@@ -16,7 +16,11 @@ msgstr ""
 msgid "10 ^"
 msgstr "10 ^"
 
-msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank\">see the cloud data FAQ!</a>"
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank"
+"\">see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Аҧсҭҳәатә ҽеиҭакқәа ринформациа</b><br>&nbsp;<br>Уажәазтәи аамҭазы ухы "
 "иаурхәар зуа ахыҧхьаӡаратә ҽеиҭакқәа роуп<br>Чат-ауадақәа ауӡом, "
@@ -143,7 +147,10 @@ msgstr "Идыуу абастә даул"
 msgid "Bassoon"
 msgstr "Афагот"
 
-msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgid ""
+"Because you have a new Scratch account, any changes to cloud data won't be "
+"saved yet. Keep participating on the site you'll be able to use cloud data "
+"soon!"
 msgstr ""
 "Шәара шәахьҿыцыу азы, иарбанзаалакь аиҭакрақәа адыррақәа рыҧсҭҳәаҿ "
 "иеиқәхазом. Шәҽалашәырхәла аидгылара аусура, шәхы иашәырхәарцаз адыррақәа "
@@ -1022,7 +1029,9 @@ msgstr "секундк"
 msgid "See project page"
 msgstr "Иахәаҧштәуп апроеқт адаҟьа"
 
-msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
+msgid ""
+"See the Tips window (on the right) to install the plug-in and get the "
+"extension working."
 msgstr ""
 "Шәаахәаҧш (аргьрахь) аҵаҳәарақәа рҧенџыр, ишықәыргылатәу амодуль ишәоурцаз "
 "аус зуа ахарҭәаара."
@@ -1192,7 +1201,9 @@ msgstr "анахь"
 msgid "The name is already in use."
 msgstr "Ахьӡ ахархәара амоуп"
 
-msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgid ""
+"The project failed to load and Scratch Team has been notified. Press OK to "
+"leave this page."
 msgstr ""
 "Апроеқт аҭагалара ауам, ирзыцҳауп Scratch Агәҧ. Шәақәыӷәӷәа ОК ари адаҟьа "
 "аҭыҵраз."
@@ -1209,12 +1220,16 @@ msgstr "амаҭәар"
 msgid "This is the current version."
 msgstr "Ари уажәтәи аверсиа ауп"
 
-msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
+msgid ""
+"This project can detect who is using it, through the “username” block. To "
+"hide your identity, sign out before using the project."
 msgstr ""
 "Ари апроеқт иеилнакаар алшоит, иара зхы иазырхәо, блокла \"ахархәаҩ ихьӡ\". "
 "Аӡәгьы изеилымкаарц азы, шәҭыҵ асистема, апроеқт ахархәара шәалагаанӡа."
 
-msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
+msgid ""
+"This project uses Cloud data ‒ a feature that is available only to signed in "
+"users."
 msgstr ""
 "Ари апроеқт ахы ианархәоит адыррақәа рыҧсҭҳәа- ари аҩыза алшарақәа рымоуп "
 "авторизациа змоу ахархәаҩцәа."
@@ -1387,7 +1402,9 @@ msgstr "у аҭыҧ"
 msgid "year"
 msgstr "ашықәс"
 
-msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
+msgid ""
+"You cannot edit cloud data in someone else's project.<br>Any change that you "
+"make in the editor will be temporary and not persistent."
 msgstr ""
 "Шәара ишәылшом аҧсҭҳәатә дыррақәа рыҧсахра ишәтәым апроеқтқәа рҿы<br>"
 "Иарбанзаалакь иалажәгало аҧсахрақәа, аредақциа арежим аҟны иаамҭалатәихоит."
@@ -1400,8 +1417,8 @@ msgstr "иаҭахәуп шәара шәыхьӡ Scratch аҟны"
 
 msgid ""
 "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-"For more info, <a href= target=>see the cloud data FAQ!</a>"
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Аинформациа аҧсҭҳәатә ҽеиҭакқәа ирызкны</b><br>&nbsp;<br>Уажәтәи аамҭазы "
 "ахархәара зуа ихыҧхьаӡаратәу аҽеиҭакқәа роуп<br>Чат-ауадақәа ауӡом, "
@@ -1416,6 +1433,114 @@ msgstr "Аныхга аҭбаара:"
 
 msgid "Line width:"
 msgstr "Ацәаҳәа аҭбаара:"
+
+# Offline editor only
+msgid "All Tips"
+msgstr ""
+
+# Offline editor only
+msgid ""
+"An updated version of the Scratch offline editor is available on the Scratch "
+"website."
+msgstr ""
+
+# Offline editor only
+#, fuzzy
+msgid "Could not retrieve update location from server."
+msgstr "Иаузом асервер аҟынтәи."
+
+# Offline editor only
+#, fuzzy
+msgid "Could not retrieve version information from server."
+msgstr "Иаузом асервер аҟынтәи."
+
+# Offline editor only
+msgid "Could not write file:"
+msgstr ""
+
+# Offline editor only
+#, fuzzy
+msgid "Downloading new version..."
+msgstr "Аверсиа ҿыц ҭагалатәуп"
+
+# Offline editor only
+msgid "Error saving project"
+msgstr ""
+
+# Offline editor only
+msgid "Force help file update"
+msgstr ""
+
+# Offline editor only
+msgid "Import experimental HTTP extension"
+msgstr ""
+
+# Offline editor only
+msgid "Loading help files..."
+msgstr ""
+
+# Offline editor only
+msgid "Manual Update Available"
+msgstr ""
+
+# Offline editor only
+msgid "Open Project"
+msgstr ""
+
+# Offline editor only
+msgid "Please visit the download page to install it."
+msgstr ""
+
+# Offline editor only
+msgid "Quit"
+msgstr ""
+
+# Offline editor only
+#, fuzzy
+msgid "Replace existing project?"
+msgstr "Иҧсахтәуп иҟоу апроеқт "
+
+# Offline editor only
+msgid "Running pre-release"
+msgstr ""
+
+# Offline editor only
+#, fuzzy
+msgid "Save Project"
+msgstr "Апроеқт еиқәырхатәума?"
+
+# Offline editor only
+msgid "Server error:"
+msgstr ""
+
+# Offline editor only
+#, fuzzy
+msgid "Share to Scratch Website"
+msgstr "Акциа Scratch - асаит аҟны"
+
+# Offline editor only
+msgid "Success"
+msgstr ""
+
+# Offline editor only
+msgid "This version is newer than the current release version."
+msgstr ""
+
+# Offline editor only
+msgid "Update check failed"
+msgstr ""
+
+# Offline editor only
+msgid "Upload failed"
+msgstr ""
+
+# Offline editor only
+msgid "Visit download page"
+msgstr ""
+
+# Offline editor only
+msgid "Your project has been uploaded to scratch.mit.edu"
+msgstr ""
 
 #~ msgid "cleanup"
 #~ msgstr "арыцқьара"

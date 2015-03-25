@@ -1922,6 +1922,111 @@ msgstr "Espessura da borracha:"
 msgid "Line width:"
 msgstr "Espessura da linha:"
 
+# Offline editor only
+msgid "All Tips"
+msgstr "Todas as Dicas"
+
+# Offline editor only
+msgid ""
+"An updated version of the Scratch offline editor is available on the Scratch "
+"website."
+msgstr ""
+"Está disponível no sítio Web do Scratch uma versão actualizada do editor "
+"desconectado do Scratch."
+
+# Offline editor only
+msgid "Could not retrieve update location from server."
+msgstr ""
+"Não foi possível obter a localização da actualização a partir do servidor."
+
+# Offline editor only
+msgid "Could not retrieve version information from server."
+msgstr "Não foi possível obter a informação de versão a partir do servidor."
+
+# Offline editor only
+msgid "Could not write file:"
+msgstr "Não foi possível escrever o arquivo:"
+
+# Offline editor only
+msgid "Downloading new version..."
+msgstr "Descarregando a nova versão…"
+
+# Offline editor only
+msgid "Error saving project"
+msgstr "Erro ao guardar o projecto"
+
+# Offline editor only
+msgid "Force help file update"
+msgstr "Forçar actualização do arquivo de ajuda"
+
+# Offline editor only
+msgid "Import experimental HTTP extension"
+msgstr "Importar extensão HTTP experimental"
+
+# Offline editor only
+msgid "Loading help files..."
+msgstr "Carregando arquivos de ajuda…"
+
+# Offline editor only
+msgid "Manual Update Available"
+msgstr "Actualização Manual Disponível"
+
+# Offline editor only
+msgid "Open Project"
+msgstr "Abrir Projecto"
+
+# Offline editor only
+msgid "Please visit the download page to install it."
+msgstr "Por favor visite a página de descarregamento para a instalar."
+
+# Offline editor only
+msgid "Quit"
+msgstr "Sair"
+
+# Offline editor only
+msgid "Replace existing project?"
+msgstr "Substituir o projecto existente?"
+
+# Offline editor only
+msgid "Running pre-release"
+msgstr "A executar pré-lançamento"
+
+# Offline editor only
+msgid "Save Project"
+msgstr "Guardar Projecto"
+
+# Offline editor only
+msgid "Server error:"
+msgstr "Erro de servidor:"
+
+# Offline editor only
+msgid "Share to Scratch Website"
+msgstr "Partilhar no Sítio Web do Scratch"
+
+# Offline editor only
+msgid "Success"
+msgstr "Sucesso"
+
+# Offline editor only
+msgid "This version is newer than the current release version."
+msgstr "Esta versão é mais recente que a versão de lançamento corrente."
+
+# Offline editor only
+msgid "Update check failed"
+msgstr "Verificação de actualização falhou"
+
+# Offline editor only
+msgid "Upload failed"
+msgstr "Carregamento falhou"
+
+# Offline editor only
+msgid "Visit download page"
+msgstr "Visite a página de descargas"
+
+# Offline editor only
+msgid "Your project has been uploaded to scratch.mit.edu"
+msgstr "O seu projecto foi carregado em scratch.mit.edu"
+
 # 89%
 # 86%
 #~ msgid "set %m.motor direction to %m.motorDirection"

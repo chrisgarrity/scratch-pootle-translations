@@ -674,7 +674,7 @@ msgid "button pressed"
 msgstr "poga nospiesta"
 
 msgid "by"
-msgstr "pa"
+msgstr "no"
 
 msgid "bytes loaded"
 msgstr "baiti ielādēti"
@@ -1781,7 +1781,7 @@ msgid "Ungroup"
 msgstr "Atgrupēt"
 
 msgid "unshared"
-msgstr "nekoplietots"
+msgstr "nav koplietots"
 
 msgid "up"
 msgstr "uz augšu"
@@ -1909,6 +1909,110 @@ msgstr "Dzēšgumijas platums:"
 
 msgid "Line width:"
 msgstr "Līnijas platums:"
+
+# Offline editor only
+msgid "All Tips"
+msgstr "Visi padomi"
+
+# Offline editor only
+msgid ""
+"An updated version of the Scratch offline editor is available on the Scratch "
+"website."
+msgstr ""
+"Scratch bezsaistes redaktoram ir pieejama jaunāka versija, meklē to Scratch "
+"mājaslapā."
+
+# Offline editor only
+msgid "Could not retrieve update location from server."
+msgstr "Nevar saņemt jauninājuma atrašanās vietu serverī."
+
+# Offline editor only
+msgid "Could not retrieve version information from server."
+msgstr "Nevar saņemt versijas informāciju no servera."
+
+# Offline editor only
+msgid "Could not write file:"
+msgstr "Nevar ierakstīt datni:"
+
+# Offline editor only
+msgid "Downloading new version..."
+msgstr "Lejuplādē jaunu versiju..."
+
+# Offline editor only
+msgid "Error saving project"
+msgstr "Kļūda saglabājot projektu"
+
+# Offline editor only
+msgid "Force help file update"
+msgstr "Atjaunot palīdzības datni"
+
+# Offline editor only
+msgid "Import experimental HTTP extension"
+msgstr "Importēt eksperimentālu HTTP paplašinājumu"
+
+# Offline editor only
+msgid "Loading help files..."
+msgstr "Ielādē palīdzības datnes..."
+
+# Offline editor only
+msgid "Manual Update Available"
+msgstr "Pieejams manuāls atjauninājums"
+
+# Offline editor only
+msgid "Open Project"
+msgstr "Atvērt projektu"
+
+# Offline editor only
+msgid "Please visit the download page to install it."
+msgstr "Lūdzu apmeklēt lejupielādes lapu, lai to uzstādītu."
+
+# Offline editor only
+msgid "Quit"
+msgstr "Iziet"
+
+# Offline editor only
+msgid "Replace existing project?"
+msgstr "Aizvietot esošu projektu?"
+
+# Offline editor only
+msgid "Running pre-release"
+msgstr "Izpilda izstrādes versiju"
+
+# Offline editor only
+msgid "Save Project"
+msgstr "Saglabāt projektu"
+
+# Offline editor only
+msgid "Server error:"
+msgstr "Servera kļūda:"
+
+# Offline editor only
+msgid "Share to Scratch Website"
+msgstr "Koplietot Scratch mājaslapā"
+
+# Offline editor only
+msgid "Success"
+msgstr "Veiksmīgi"
+
+# Offline editor only
+msgid "This version is newer than the current release version."
+msgstr "Šī versija ir jaunākā, nekā pašreizējā izlaistā versija."
+
+# Offline editor only
+msgid "Update check failed"
+msgstr "Atjauninājumu pārbaude neizdevās"
+
+# Offline editor only
+msgid "Upload failed"
+msgstr "Augšupielāde neizdevās"
+
+# Offline editor only
+msgid "Visit download page"
+msgstr "Apmeklēt lejupielāžu lapu"
+
+# Offline editor only
+msgid "Your project has been uploaded to scratch.mit.edu"
+msgstr "Tavs projekts ir augšuplādēts scratch.mit.edu"
 
 # 86%
 #, fuzzy

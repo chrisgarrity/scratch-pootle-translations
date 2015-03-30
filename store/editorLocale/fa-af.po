@@ -32,12 +32,10 @@ msgid "ask %s and wait"
 msgstr ""
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop #"
 msgstr ""
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop name"
 msgstr ""
 
@@ -225,7 +223,6 @@ msgid "move %n steps"
 msgstr ""
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "next backdrop"
 msgstr ""
 
@@ -362,12 +359,10 @@ msgid "stop all sounds"
 msgstr ""
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "switch backdrop to %m.backdrop"
 msgstr ""
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "switch backdrop to %m.backdrop and wait"
 msgstr ""
 
@@ -426,7 +421,6 @@ msgid "when @greenFlag clicked"
 msgstr ""
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "when backdrop switches to %m.backdrop"
 msgstr ""
 
@@ -442,10 +436,6 @@ msgstr ""
 msgid "y position"
 msgstr ""
 
-
-##################
-# User Interface #
-##################
 msgid "A connected"
 msgstr ""
 
@@ -480,12 +470,6 @@ msgid "atan"
 msgstr ""
 
 msgid "B connected"
-msgstr ""
-
-msgid "backdrop #"
-msgstr ""
-
-msgid "backdrop name"
 msgstr ""
 
 msgid "backdrop1"
@@ -554,9 +538,6 @@ msgstr ""
 msgid "cos"
 msgstr ""
 
-msgid "costume #"
-msgstr ""
-
 msgid "costume name"
 msgstr ""
 
@@ -582,9 +563,6 @@ msgid "day of week"
 msgstr ""
 
 msgid "delete"
-msgstr ""
-
-msgid "direction"
 msgstr ""
 
 msgid "down"
@@ -893,9 +871,6 @@ msgstr ""
 msgid "sin"
 msgstr ""
 
-msgid "size"
-msgstr ""
-
 msgid "slider"
 msgstr ""
 
@@ -977,9 +952,6 @@ msgstr ""
 msgid "Vibraslap"
 msgstr ""
 
-msgid "volume"
-msgstr ""
-
 msgid "whirl"
 msgstr ""
 
@@ -989,12 +961,5 @@ msgstr ""
 msgid "Wooden Flute"
 msgstr ""
 
-msgid "x position"
-msgstr ""
-
-msgid "y position"
-msgstr ""
-
 msgid "year"
 msgstr ""
-

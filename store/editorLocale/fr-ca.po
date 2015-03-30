@@ -520,79 +520,14 @@ msgstr ""
 msgid "when tilt = %n"
 msgstr ""
 
-# 89%
-# 86%
-#, fuzzy
-#~ msgid "set %m.motor direction to %m.motorDirection"
-#~ msgstr "direction du moteur %m.motorDirection"
-
-#~ msgid "user id"
-#~ msgstr "identifiant"
-
-#~ msgid "clone startup"
-#~ msgstr "cloner le démarrage"
-
-#~ msgid "forever if %b"
-#~ msgstr "répéter indéfiniment si %b"
-
-#~ msgid "hide all sprites"
-#~ msgstr "cacher tous les lutins"
-
-#~ msgid "if %b"
-#~ msgstr "si %b"
-
-#~ msgid "Scratch days"
-#~ msgstr "Journée Scratch"
-
-#~ msgid "hide monitor %m.varOrList"
-#~ msgstr "cacher le moniteur %m.varOrList"
-
-#~ msgid "motor direction %m.motorDirection"
-#~ msgstr "direction du moteur %m.motorDirection"
-
-#~ msgid "motor off"
-#~ msgstr "moteur inactif"
-
-#~ msgid "motor on"
-#~ msgstr "moteur actif"
-
-#~ msgid "motor on for %n secs"
-#~ msgstr "moteur actif durant %n secondes"
-
-#~ msgid "motor power %n"
-#~ msgstr "force du moteur %n"
-
-#~ msgid "play note %n for %n beats"
-#~ msgstr "jouer la note %d.note pour %n temps"
-
-#~ msgid "show monitor %m.varOrList"
-#~ msgstr "afficher le moniteur %m.varOrList"
-
-#~ msgid "when I am clicked"
-#~ msgstr "quand je suis cliqué"
-
-##################
-# User Interface #
-##################
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2013-01-30 03:00+0000\n"
-"Last-Translator: sylvainlongpre <sylvainlongpre@gmail.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: fr_CA\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1359514857.000000\n"
-
 msgid "10 ^"
 msgstr ""
 
-msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank"
+"\">see the cloud data FAQ!</a>"
 msgstr ""
 
 msgid "A connected"
@@ -685,13 +620,7 @@ msgstr ""
 msgid "Backdrop"
 msgstr ""
 
-msgid "backdrop #"
-msgstr ""
-
 msgid "Backdrop Library"
-msgstr ""
-
-msgid "backdrop name"
 msgstr ""
 
 msgid "backdrop1"
@@ -715,7 +644,10 @@ msgstr ""
 msgid "Bassoon"
 msgstr "Basson"
 
-msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgid ""
+"Because you have a new Scratch account, any changes to cloud data won't be "
+"saved yet. Keep participating on the site you'll be able to use cloud data "
+"soon!"
 msgstr ""
 
 msgid "Bitmap"
@@ -826,7 +758,7 @@ msgstr ""
 msgid "clear senders/receivers"
 msgstr ""
 
-msgid "Click "Save now" to try again or "Download" to save"
+msgid "Click \"Save now\" to try again or \"Download\" to save"
 msgstr ""
 
 msgid "Close"
@@ -875,9 +807,6 @@ msgid "cos"
 msgstr ""
 
 msgid "Costume"
-msgstr ""
-
-msgid "costume #"
 msgstr ""
 
 msgid "Costume Library"
@@ -937,9 +866,6 @@ msgid "Delete"
 msgstr "supprimer"
 
 msgid "delete variable"
-msgstr ""
-
-msgid "direction"
 msgstr ""
 
 msgid "direction:"
@@ -1117,9 +1043,6 @@ msgstr ""
 msgid "hello"
 msgstr "Violoncelle"
 
-msgid "hide"
-msgstr ""
-
 msgid "High C"
 msgstr ""
 
@@ -1211,9 +1134,6 @@ msgid "log"
 msgstr ""
 
 msgid "louder"
-msgstr ""
-
-msgid "loudness"
 msgstr ""
 
 msgid "Low C"
@@ -1338,9 +1258,6 @@ msgid "New sprite:"
 msgstr "Nouveau lutin :"
 
 msgid "New Variable"
-msgstr ""
-
-msgid "next backdrop"
 msgstr ""
 
 msgid "No motion blocks"
@@ -1603,7 +1520,9 @@ msgstr ""
 msgid "See project page"
 msgstr ""
 
-msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
+msgid ""
+"See the Tips window (on the right) to install the plug-in and get the "
+"extension working."
 msgstr ""
 
 msgid "Select"
@@ -1642,9 +1561,6 @@ msgstr ""
 msgid "Shift:"
 msgstr ""
 
-msgid "show"
-msgstr ""
-
 msgid "show receivers"
 msgstr ""
 
@@ -1675,9 +1591,6 @@ msgstr ""
 msgid "sin"
 msgstr ""
 
-msgid "size"
-msgstr ""
-
 msgid "slider"
 msgstr "glisseur"
 
@@ -1697,9 +1610,6 @@ msgid "softer"
 msgstr ""
 
 msgid "sound"
-msgstr ""
-
-msgid "Sound"
 msgstr ""
 
 msgid "Sound Library"
@@ -1777,7 +1687,9 @@ msgstr "de l'autre façon"
 msgid "The name is already in use."
 msgstr ""
 
-msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgid ""
+"The project failed to load and Scratch Team has been notified. Press OK to "
+"leave this page."
 msgstr ""
 
 msgid "Theme"
@@ -1792,10 +1704,14 @@ msgstr ""
 msgid "This is the current version."
 msgstr ""
 
-msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
+msgid ""
+"This project can detect who is using it, through the “username” block. To "
+"hide your identity, sign out before using the project."
 msgstr ""
 
-msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
+msgid ""
+"This project uses Cloud data ‒ a feature that is available only to signed in "
+"users."
 msgstr ""
 
 msgid "this script"
@@ -1808,9 +1724,6 @@ msgid "this way"
 msgstr "de cette façon"
 
 msgid "Throw away all changes since opening this project?"
-msgstr ""
-
-msgid "timer"
 msgstr ""
 
 msgid "Tips"
@@ -1934,9 +1847,6 @@ msgstr ""
 msgid "Vocals"
 msgstr ""
 
-msgid "volume"
-msgstr ""
-
 msgid "Walking"
 msgstr ""
 
@@ -1961,16 +1871,12 @@ msgstr ""
 msgid "world"
 msgstr ""
 
-msgid "x position"
-msgstr ""
-
-msgid "y position"
-msgstr ""
-
 msgid "year"
 msgstr ""
 
-msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
+msgid ""
+"You cannot edit cloud data in someone else's project.<br>Any change that you "
+"make in the editor will be temporary and not persistent."
 msgstr ""
 
 msgid "Your Scratch name"
@@ -1981,8 +1887,8 @@ msgstr ""
 
 msgid ""
 "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-"For more info, <a href= target=>see the cloud data FAQ!</a>"
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
 msgstr ""
 
 msgid "Click  to try again or  to save"
@@ -1993,6 +1899,159 @@ msgstr ""
 
 msgid "Line width:"
 msgstr ""
+
+# Offline editor only
+msgid "All Tips"
+msgstr ""
+
+# Offline editor only
+msgid ""
+"An updated version of the Scratch offline editor is available on the Scratch "
+"website."
+msgstr ""
+
+# Offline editor only
+msgid "Could not retrieve update location from server."
+msgstr ""
+
+# Offline editor only
+msgid "Could not retrieve version information from server."
+msgstr ""
+
+# Offline editor only
+msgid "Could not write file:"
+msgstr ""
+
+# Offline editor only
+msgid "Downloading new version..."
+msgstr ""
+
+# Offline editor only
+msgid "Error saving project"
+msgstr ""
+
+# Offline editor only
+msgid "Force help file update"
+msgstr ""
+
+# Offline editor only
+msgid "Import experimental HTTP extension"
+msgstr ""
+
+# Offline editor only
+msgid "Loading help files..."
+msgstr ""
+
+# Offline editor only
+msgid "Manual Update Available"
+msgstr ""
+
+# Offline editor only
+msgid "Open Project"
+msgstr ""
+
+# Offline editor only
+msgid "Please visit the download page to install it."
+msgstr ""
+
+# Offline editor only
+msgid "Quit"
+msgstr ""
+
+# Offline editor only
+msgid "Replace existing project?"
+msgstr ""
+
+# Offline editor only
+msgid "Running pre-release"
+msgstr ""
+
+# Offline editor only
+msgid "Save Project"
+msgstr ""
+
+# Offline editor only
+msgid "Server error:"
+msgstr ""
+
+# Offline editor only
+msgid "Share to Scratch Website"
+msgstr ""
+
+# Offline editor only
+msgid "Success"
+msgstr ""
+
+# Offline editor only
+msgid "This version is newer than the current release version."
+msgstr ""
+
+# Offline editor only
+msgid "Update check failed"
+msgstr ""
+
+# Offline editor only
+msgid "Upload failed"
+msgstr ""
+
+# Offline editor only
+msgid "Visit download page"
+msgstr ""
+
+# Offline editor only
+msgid "Your project has been uploaded to scratch.mit.edu"
+msgstr ""
+
+# 89%
+# 86%
+#, fuzzy
+#~ msgid "set %m.motor direction to %m.motorDirection"
+#~ msgstr "direction du moteur %m.motorDirection"
+
+#~ msgid "user id"
+#~ msgstr "identifiant"
+
+#~ msgid "clone startup"
+#~ msgstr "cloner le démarrage"
+
+#~ msgid "forever if %b"
+#~ msgstr "répéter indéfiniment si %b"
+
+#~ msgid "hide all sprites"
+#~ msgstr "cacher tous les lutins"
+
+#~ msgid "if %b"
+#~ msgstr "si %b"
+
+#~ msgid "Scratch days"
+#~ msgstr "Journée Scratch"
+
+#~ msgid "hide monitor %m.varOrList"
+#~ msgstr "cacher le moniteur %m.varOrList"
+
+#~ msgid "motor direction %m.motorDirection"
+#~ msgstr "direction du moteur %m.motorDirection"
+
+#~ msgid "motor off"
+#~ msgstr "moteur inactif"
+
+#~ msgid "motor on"
+#~ msgstr "moteur actif"
+
+#~ msgid "motor on for %n secs"
+#~ msgstr "moteur actif durant %n secondes"
+
+#~ msgid "motor power %n"
+#~ msgstr "force du moteur %n"
+
+#~ msgid "play note %n for %n beats"
+#~ msgstr "jouer la note %d.note pour %n temps"
+
+#~ msgid "show monitor %m.varOrList"
+#~ msgstr "afficher le moniteur %m.varOrList"
+
+#~ msgid "when I am clicked"
+#~ msgstr "quand je suis cliqué"
 
 # 90%
 #, fuzzy

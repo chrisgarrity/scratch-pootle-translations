@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-03-08 22:28+0000\n"
-"Last-Translator: Frodewin <wilfried.elmenreich@gmail.com>\n"
+"PO-Revision-Date: 2015-03-27 15:38+0000\n"
+"Last-Translator: LiFaytheGoblin <LiFaytheGoblin@googlemail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1425853700.000000\n"
+"X-POOTLE-MTIME: 1427470713.000000\n"
 
 msgid "10 ^"
 msgstr "10^"
@@ -1502,13 +1502,15 @@ msgstr "Linienbreite"
 
 # Offline editor only
 msgid "All Tips"
-msgstr ""
+msgstr "Alle Tips"
 
 # Offline editor only
 msgid ""
 "An updated version of the Scratch offline editor is available on the Scratch "
 "website."
 msgstr ""
+"Eine aktuelle Version des Scratch Offline Editors ist auf der Scratch "
+"Webseite verfügbar."
 
 # Offline editor only
 #, fuzzy
@@ -1531,7 +1533,7 @@ msgstr "Eine neue Version wird heruntergeladen"
 
 # Offline editor only
 msgid "Error saving project"
-msgstr ""
+msgstr "Fehler beim Speichern des Projekts"
 
 # Offline editor only
 msgid "Force help file update"
@@ -1539,7 +1541,7 @@ msgstr ""
 
 # Offline editor only
 msgid "Import experimental HTTP extension"
-msgstr ""
+msgstr "Experimentelle HTTP Erweiterung importieren"
 
 # Offline editor only
 msgid "Loading help files..."
@@ -1547,11 +1549,11 @@ msgstr ""
 
 # Offline editor only
 msgid "Manual Update Available"
-msgstr ""
+msgstr "Manuelles Update verfügbar"
 
 # Offline editor only
 msgid "Open Project"
-msgstr ""
+msgstr "Projekt öffnen"
 
 # Offline editor only
 msgid "Please visit the download page to install it."
@@ -1598,7 +1600,7 @@ msgstr ""
 
 # Offline editor only
 msgid "Upload failed"
-msgstr ""
+msgstr "Das Hochladen ist fehlgeschlagen"
 
 # Offline editor only
 msgid "Visit download page"

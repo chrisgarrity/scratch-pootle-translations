@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-03-08 08:05+0000\n"
+"PO-Revision-Date: 2015-03-29 12:43+0000\n"
 "Last-Translator: Suha <suhaaktan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1425801940.000000\n"
+"X-POOTLE-MTIME: 1427632980.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -83,7 +83,7 @@ msgid "Add string input:"
 msgstr "Sözel girdi ekle:"
 
 msgid "all"
-msgstr "hepsi"
+msgstr "her şeyi"
 
 msgid "All"
 msgstr "Tümü"
@@ -180,7 +180,6 @@ msgstr "Bongo"
 msgid "brightness"
 msgstr "parlaklık"
 
-#, fuzzy
 msgid "Bring to front"
 msgstr "Öne getir"
 
@@ -199,7 +198,6 @@ msgstr "yapan"
 msgid "bytes loaded"
 msgstr "bayt yüklendi"
 
-#, fuzzy
 msgid "C connected"
 msgstr "C bağlandı"
 
@@ -209,14 +207,12 @@ msgstr "Cabasa"
 msgid "Camera"
 msgstr "Kamera"
 
-#, fuzzy
 msgid "can drag in player:"
 msgstr "fareyle sürüklenebilir:"
 
 msgid "Cancel"
 msgstr "İptal"
 
-#, fuzzy
 msgid "Cannot Add"
 msgstr "Ekleyemem"
 
@@ -268,9 +264,8 @@ msgstr "Klarnet"
 msgid "Claves"
 msgstr "Tahta çubuk"
 
-#, fuzzy
 msgid "clean up"
-msgstr "temizlik"
+msgstr "tertiple"
 
 msgid "Clear"
 msgstr "Temizle"
@@ -732,7 +727,7 @@ msgid "mosaic"
 msgstr "mozaik"
 
 msgid "motion"
-msgstr "hareket"
+msgstr "hareketi"
 
 msgid "motor"
 msgstr "motorun"

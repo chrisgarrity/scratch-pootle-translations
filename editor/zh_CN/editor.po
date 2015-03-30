@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-03-24 03:10+0000\n"
+"PO-Revision-Date: 2015-03-25 20:17+0000\n"
 "Last-Translator: Natalie <nrusk@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_CN\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1427166618.000000\n"
+"X-POOTLE-MTIME: 1427314641.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -259,9 +259,8 @@ msgstr "单簧管"
 msgid "Claves"
 msgstr "古钢琴"
 
-#, fuzzy
 msgid "clean up"
-msgstr "清除"
+msgstr "清理"
 
 msgid "Clear"
 msgstr "清除"
@@ -689,7 +688,6 @@ msgstr "消息名称"
 msgid "message1"
 msgstr "消息1"
 
-#, fuzzy
 msgid "Microphone volume:"
 msgstr "麦克风音量："
 
@@ -1221,12 +1219,11 @@ msgstr "铃鼓"
 msgid "tan"
 msgstr "tan"
 
-#, fuzzy
 msgid "text"
-msgstr "文字"
+msgstr "文本"
 
 msgid "Text"
-msgstr "文字"
+msgstr "文本"
 
 msgid "that way"
 msgstr "逆时针"
@@ -1462,7 +1459,7 @@ msgstr "线宽："
 
 # Offline editor only
 msgid "All Tips"
-msgstr ""
+msgstr "帮助"
 
 # Offline editor only
 msgid ""
@@ -1480,7 +1477,7 @@ msgstr ""
 
 # Offline editor only
 msgid "Could not write file:"
-msgstr ""
+msgstr "无法写入文件"
 
 # Offline editor only
 msgid "Downloading new version..."
@@ -1488,7 +1485,7 @@ msgstr "正在下载新版本"
 
 # Offline editor only
 msgid "Error saving project"
-msgstr ""
+msgstr "保存项目时出错"
 
 # Offline editor only
 msgid "Force help file update"
@@ -1500,7 +1497,7 @@ msgstr ""
 
 # Offline editor only
 msgid "Loading help files..."
-msgstr ""
+msgstr "正在载入帮助文件..."
 
 # Offline editor only
 msgid "Manual Update Available"
@@ -1508,7 +1505,7 @@ msgstr ""
 
 # Offline editor only
 msgid "Open Project"
-msgstr ""
+msgstr "打开项目"
 
 # Offline editor only
 msgid "Please visit the download page to install it."
@@ -1516,11 +1513,12 @@ msgstr ""
 
 # Offline editor only
 msgid "Quit"
-msgstr ""
+msgstr "退出"
 
 # Offline editor only
+#, fuzzy
 msgid "Replace existing project?"
-msgstr ""
+msgstr "替换现存项目嗎?"
 
 # Offline editor only
 msgid "Running pre-release"
@@ -1528,15 +1526,15 @@ msgstr ""
 
 # Offline editor only
 msgid "Save Project"
-msgstr ""
+msgstr "保存项目"
 
 # Offline editor only
 msgid "Server error:"
-msgstr ""
+msgstr "服务器错误:"
 
 # Offline editor only
 msgid "Share to Scratch Website"
-msgstr ""
+msgstr "分享到Scratch网站"
 
 # Offline editor only
 msgid "Success"
@@ -1552,7 +1550,7 @@ msgstr ""
 
 # Offline editor only
 msgid "Upload failed"
-msgstr ""
+msgstr "上传失败"
 
 # Offline editor only
 msgid "Visit download page"

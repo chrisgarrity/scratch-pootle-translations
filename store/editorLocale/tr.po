@@ -579,7 +579,7 @@ msgid "Add string input:"
 msgstr "Sözel girdi ekle:"
 
 msgid "all"
-msgstr "hepsi"
+msgstr "her şeyi"
 
 msgid "All"
 msgstr "Tümü"
@@ -670,7 +670,6 @@ msgstr "Bongo"
 msgid "brightness"
 msgstr "parlaklık"
 
-#, fuzzy
 msgid "Bring to front"
 msgstr "Öne getir"
 
@@ -689,7 +688,6 @@ msgstr "yapan"
 msgid "bytes loaded"
 msgstr "bayt yüklendi"
 
-#, fuzzy
 msgid "C connected"
 msgstr "C bağlandı"
 
@@ -699,14 +697,12 @@ msgstr "Cabasa"
 msgid "Camera"
 msgstr "Kamera"
 
-#, fuzzy
 msgid "can drag in player:"
 msgstr "fareyle sürüklenebilir:"
 
 msgid "Cancel"
 msgstr "İptal"
 
-#, fuzzy
 msgid "Cannot Add"
 msgstr "Ekleyemem"
 
@@ -758,9 +754,8 @@ msgstr "Klarnet"
 msgid "Claves"
 msgstr "Tahta çubuk"
 
-#, fuzzy
 msgid "clean up"
-msgstr "temizlik"
+msgstr "tertiple"
 
 msgid "Clear"
 msgstr "Temizle"
@@ -1210,7 +1205,7 @@ msgid "mosaic"
 msgstr "mozaik"
 
 msgid "motion"
-msgstr "hareket"
+msgstr "hareketi"
 
 msgid "motor"
 msgstr "motorun"

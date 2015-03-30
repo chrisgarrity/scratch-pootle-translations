@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-03-06 19:45+0000\n"
-"Last-Translator: Kalvis <kalvis.kincis@r6vsk.lv>\n"
+"PO-Revision-Date: 2015-03-30 09:42+0000\n"
+"Last-Translator: Raivis <raivis.ievins@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: lv\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
 "2);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1425671124.000000\n"
+"X-POOTLE-MTIME: 1427708567.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -67,25 +67,25 @@ msgid "change %m.effect effect by %n"
 msgstr "mainīt %m.effect efektu par %n"
 
 msgid "change %m.var by %n"
-msgstr "mainīt %m.var pa %n"
+msgstr "mainīt %m.var par %n"
 
 msgid "change pen color by %n"
 msgstr "mainīt zīmuļa krāsu pa %n"
 
 msgid "change pen shade by %n"
-msgstr "mainīt zīmuļa tumšumu pa %n"
+msgstr "mainīt zīmuļa tumšumu par %n"
 
 msgid "change pen size by %n"
-msgstr "mainīt zīmuļa izmēru pa %n"
+msgstr "mainīt zīmuļa izmēru par %n"
 
 msgid "change size by %n"
-msgstr "mainīt izmēru pa %n"
+msgstr "mainīt izmēru par %n"
 
 msgid "change tempo by %n"
-msgstr "mainīt tempu pa %n"
+msgstr "mainīt tempu par %n"
 
 msgid "change volume by %n"
-msgstr "mainīt skaļumu pa %n"
+msgstr "mainīt skaļumu par %n"
 
 msgid "change x by %n"
 msgstr "mainīt x par %n"
@@ -1682,7 +1682,7 @@ msgid "Text"
 msgstr "Teksts"
 
 msgid "that way"
-msgstr "tas ceļš"
+msgstr "uz otru pusi"
 
 msgid "The name is already in use."
 msgstr "Šis nosaukums jau tiek lietots"
@@ -1727,7 +1727,7 @@ msgid "this sprite"
 msgstr "šis gariņš"
 
 msgid "this way"
-msgstr "šis ceļš"
+msgstr "uz vienu pusi"
 
 msgid "Throw away all changes since opening this project?"
 msgstr "Pamest visas izmaiņas, kas izveidotas kopš projekta atvēršanas?"

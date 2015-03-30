@@ -1954,13 +1954,15 @@ msgstr "Linienbreite"
 
 # Offline editor only
 msgid "All Tips"
-msgstr ""
+msgstr "Alle Tips"
 
 # Offline editor only
 msgid ""
 "An updated version of the Scratch offline editor is available on the Scratch "
 "website."
 msgstr ""
+"Eine aktuelle Version des Scratch Offline Editors ist auf der Scratch "
+"Webseite verfügbar."
 
 # Offline editor only
 #, fuzzy
@@ -1983,7 +1985,7 @@ msgstr "Eine neue Version wird heruntergeladen"
 
 # Offline editor only
 msgid "Error saving project"
-msgstr ""
+msgstr "Fehler beim Speichern des Projekts"
 
 # Offline editor only
 msgid "Force help file update"
@@ -1991,7 +1993,7 @@ msgstr ""
 
 # Offline editor only
 msgid "Import experimental HTTP extension"
-msgstr ""
+msgstr "Experimentelle HTTP Erweiterung importieren"
 
 # Offline editor only
 msgid "Loading help files..."
@@ -1999,11 +2001,11 @@ msgstr ""
 
 # Offline editor only
 msgid "Manual Update Available"
-msgstr ""
+msgstr "Manuelles Update verfügbar"
 
 # Offline editor only
 msgid "Open Project"
-msgstr ""
+msgstr "Projekt öffnen"
 
 # Offline editor only
 msgid "Please visit the download page to install it."
@@ -2050,7 +2052,7 @@ msgstr ""
 
 # Offline editor only
 msgid "Upload failed"
-msgstr ""
+msgstr "Das Hochladen ist fehlgeschlagen"
 
 # Offline editor only
 msgid "Visit download page"

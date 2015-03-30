@@ -745,9 +745,8 @@ msgstr "Klarinetea"
 msgid "Claves"
 msgstr "Klabeak"
 
-#, fuzzy
 msgid "clean up"
-msgstr "garbitu"
+msgstr "Garbitu"
 
 msgid "Clear"
 msgstr "Garbitu"
@@ -778,7 +777,7 @@ msgid "color"
 msgstr "kolorea"
 
 msgid "Color a shape"
-msgstr "Forma bat koloreztatu"
+msgstr "Koloreztatu forma bat"
 
 msgid "Conga"
 msgstr "Kongak"
@@ -1004,7 +1003,7 @@ msgid "Forward a layer"
 msgstr "Geruza bat aurrerantza"
 
 msgid "ghost"
-msgstr "fantasma"
+msgstr "mamua"
 
 msgid "Go to My Stuff"
 msgstr "Nire Gauzetara joan"
@@ -1062,7 +1061,7 @@ msgid "Importing sound..."
 msgstr "Soinua inportatzen..."
 
 msgid "Indoors"
-msgstr "Barrukaldeak"
+msgstr "Barnekaldeak"
 
 msgid "Installing..."
 msgstr "Instalatzen..."
@@ -1074,7 +1073,7 @@ msgid "large readout"
 msgstr "tamaina handia"
 
 msgid "last"
-msgstr "amaieran"
+msgstr "azkena"
 
 msgid "left"
 msgstr "ezker"
@@ -1112,10 +1111,10 @@ msgstr "Marraren lodiera"
 
 # 75%
 msgid "list"
-msgstr "zerrenda"
+msgstr "lista"
 
 msgid "List name"
-msgstr "Zerrendaren izena"
+msgstr "Listaren izena"
 
 msgid "ln"
 msgstr "Barruan"
@@ -1136,7 +1135,7 @@ msgid "Make a Block"
 msgstr "Blokea sortu"
 
 msgid "Make a List"
-msgstr "Zerrenda sortu"
+msgstr "Lista sortu"
 
 msgid "Make a Variable"
 msgstr "Aldagaia sortu"
@@ -1154,9 +1153,8 @@ msgid "Message Name"
 msgstr "Mezuaren izena"
 
 msgid "message1"
-msgstr "1mezua"
+msgstr "mezua1"
 
-#, fuzzy
 msgid "Microphone volume:"
 msgstr "Mikrofonoaren bolumena:"
 
@@ -1230,7 +1228,7 @@ msgid "New costume:"
 msgstr "Mozorro berria:"
 
 msgid "New List"
-msgstr "Zerrenda berria"
+msgstr "Lista berria"
 
 msgid "New Message"
 msgstr "Mezu berria"
@@ -1248,7 +1246,7 @@ msgid "New sprite from camera"
 msgstr "Sprite berria kamaratik"
 
 msgid "New sprite:"
-msgstr "Objektu berria"
+msgstr "Sprite berria:"
 
 msgid "New Variable"
 msgstr "Aldagai berria"
@@ -1272,16 +1270,16 @@ msgid "of"
 msgstr " - "
 
 msgid "off"
-msgstr "Itzalita"
+msgstr "itzalita"
 
 msgid "Offline Editor"
-msgstr "Editorea lineaz kanpo dago"
+msgstr "Editorea konexio gabe ari da"
 
 msgid "OK"
 msgstr "OK"
 
 msgid "on"
-msgstr "Piztuta"
+msgstr "piztuta"
 
 msgid "on-flipped"
 msgstr "pizturik eta iraulita"
@@ -1302,12 +1300,11 @@ msgid "Organ"
 msgstr "Organoa"
 
 msgid "Other"
-msgstr "Besteak"
+msgstr "Bestelakoak"
 
 msgid "other scripts in sprite"
 msgstr "beste skript batzu spritean"
 
-#, fuzzy
 msgid "other scripts in stage"
 msgstr "beste skript batzu eszenatokian"
 
@@ -1342,7 +1339,7 @@ msgid "Percussion"
 msgstr "Perkusioa"
 
 msgid "photo1"
-msgstr "1argazkia"
+msgstr "argazkia1"
 
 msgid "Piano"
 msgstr "Pianoa"
@@ -1351,7 +1348,7 @@ msgid "Pick up color"
 msgstr "Kolorea hartu"
 
 msgid "pixelate"
-msgstr "pixelizatu"
+msgstr "pixelatu"
 
 msgid "Pizzicato"
 msgstr "Pizzikatoa"
@@ -1381,7 +1378,7 @@ msgid "random"
 msgstr "ausazkoa"
 
 msgid "Record"
-msgstr "grabatu"
+msgstr "Grabatu"
 
 msgid "Record new sound"
 msgstr "Soinu berria grabatu"
@@ -1390,7 +1387,7 @@ msgid "record..."
 msgstr "grabatu..."
 
 msgid "recording1"
-msgstr "1grabaketa"
+msgstr "grabaketa1"
 
 msgid "Rectangle"
 msgstr "Laukizuzena"
@@ -1400,7 +1397,7 @@ msgid "Redo"
 msgstr "Berregin"
 
 msgid "redo"
-msgstr "Berregin"
+msgstr "berregin"
 
 msgid "Remix"
 msgstr "Birnahastu"
@@ -1421,7 +1418,7 @@ msgid "Replace existing project"
 msgstr "Ordezkatu existitzen den proiektu bat"
 
 msgid "requires sign in"
-msgstr "Saioa hastea beharrezkoa"
+msgstr "Saioa berriz hastea eskatzen da"
 
 msgid "Reshape"
 msgstr "Forma aldatu"
@@ -1566,7 +1563,7 @@ msgid "show:"
 msgstr "erakutsi:"
 
 msgid "Shrink"
-msgstr "Txikiagotu"
+msgstr "Uzkurtu"
 
 msgid "Side Stick"
 msgstr "Albo kolpea"
@@ -1665,7 +1662,6 @@ msgstr "Panderoa"
 msgid "tan"
 msgstr "tan"
 
-#, fuzzy
 msgid "text"
 msgstr "testua"
 
@@ -1907,111 +1903,106 @@ msgstr "Marraren lodiera"
 
 # Offline editor only
 msgid "All Tips"
-msgstr ""
+msgstr "Gomendio guztiak"
 
 # Offline editor only
 msgid ""
 "An updated version of the Scratch offline editor is available on the Scratch "
 "website."
 msgstr ""
+"Scratch offline editorearen bertsio eguneratu bat eskuragarri da webgunean."
 
 # Offline editor only
-#, fuzzy
 msgid "Could not retrieve update location from server."
-msgstr "Ezin izan da zerbitzaritik aplikazio berria eskuratu ."
+msgstr "Ezin izan da zerbitzaritik eguneraketa helbidea eskuratu."
 
 # Offline editor only
-#, fuzzy
 msgid "Could not retrieve version information from server."
-msgstr "Ezin izan da zerbitzaritik aplikazio berria eskuratu ."
+msgstr "Ezin izan da zerbitzaritik bertsioaren informazioa eskuratu."
 
 # Offline editor only
 msgid "Could not write file:"
-msgstr ""
+msgstr "Ezin izan da fitxategia idatzi."
 
 # Offline editor only
-#, fuzzy
 msgid "Downloading new version..."
-msgstr "Bertsio berria deskargatzen."
+msgstr "Bertsio berria deskargatzen..."
 
 # Offline editor only
 msgid "Error saving project"
-msgstr ""
+msgstr "Errorea proiektua gordetzerakoan"
 
 # Offline editor only
 msgid "Force help file update"
-msgstr ""
+msgstr "Laguntza fitxategiaren eguneraketa behartu"
 
 # Offline editor only
 msgid "Import experimental HTTP extension"
-msgstr ""
+msgstr "HTTP extentsio experimentala importatu"
 
 # Offline editor only
 msgid "Loading help files..."
-msgstr ""
+msgstr "Laguntza fitxategiak kargatzen..."
 
 # Offline editor only
 msgid "Manual Update Available"
-msgstr ""
+msgstr "Eskuliburuaren eguneraketa eskuragarri"
 
 # Offline editor only
 msgid "Open Project"
-msgstr ""
+msgstr "Proiektua ireki"
 
 # Offline editor only
 msgid "Please visit the download page to install it."
-msgstr ""
+msgstr "Deskarga orria bisita ezazu instalatzeko."
 
 # Offline editor only
 msgid "Quit"
-msgstr ""
+msgstr "Irten"
 
 # Offline editor only
-#, fuzzy
 msgid "Replace existing project?"
-msgstr "Ordezkatu existitzen den proiektu bat"
+msgstr "Lehendik dagoen proiektua ordezkatu?"
 
 # Offline editor only
 msgid "Running pre-release"
-msgstr ""
+msgstr "Aurre-bertsioa exekutatzen"
 
 # Offline editor only
-#, fuzzy
 msgid "Save Project"
-msgstr "Proiektua gorde?"
+msgstr "Proiektua gorde"
 
 # Offline editor only
 msgid "Server error:"
-msgstr ""
+msgstr "Zerbitzariaren errorea:"
 
 # Offline editor only
-#, fuzzy
 msgid "Share to Scratch Website"
 msgstr "Scratch webgunean partekatu"
 
 # Offline editor only
 msgid "Success"
-msgstr ""
+msgstr "Ongi burutu da"
 
 # Offline editor only
 msgid "This version is newer than the current release version."
-msgstr ""
+msgstr "Bertsio hau argitaratze bertsioa baino berriagoa da."
 
 # Offline editor only
 msgid "Update check failed"
-msgstr ""
+msgstr "Eguneraketa egiaztapenak akatsa eman du"
 
 # Offline editor only
 msgid "Upload failed"
-msgstr ""
+msgstr "Igotzerakoan akatsa"
 
 # Offline editor only
 msgid "Visit download page"
-msgstr ""
+msgstr "Deskaraga orria bisitatu"
 
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
-msgstr ""
+msgstr "Zure proiektua scratch.mit.edu helbidera igoa izan da"
 
 # 89%
 # 86%

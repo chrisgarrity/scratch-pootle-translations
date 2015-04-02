@@ -55,13 +55,10 @@ msgstr "ពុម្ពអក្សរ​ម៉ាក"
 msgid "Linux-Font"
 msgstr "KhmerChrieng1"
 
-# ##########################################&amp;lt;br /&amp;gt;&lt;br /&gt;<br />
-# &amp;lt;br /&amp;gt;&lt;br /&gt;<br />
-# BLOCKS&amp;lt;br /&amp;gt;&lt;br /&gt;<br />
-# &amp;lt;br /&amp;gt;&lt;br /&gt;<br />
 # ##########################################
-msgid ""
-msgstr "ពុម្ពអក្សរលីនុច"
+# BLOCKS
+# ##########################################
+# 
 
 msgid "%H sensor value"
 msgstr "%H តម្លៃសិនស័រ"
@@ -441,14 +438,10 @@ msgstr "x ទីតាំង"
 msgid "y position"
 msgstr "ទីតាំង y"
 
-# ##########################################&lt;br /&gt;<br />
-# &lt;br /&gt;<br />
-# USER INTERFACE&lt;br /&gt;<br />
-# &lt;br /&gt;<br />
 # ##########################################
-msgid ""
-msgstr "y ទីតាំង"
-
+# USER INTERFACE
+# ##########################################
+# 
 msgid "(empty)"
 msgstr "(ទទេ)"
 

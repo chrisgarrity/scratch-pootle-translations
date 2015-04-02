@@ -1605,9 +1605,6 @@ msgstr ""
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
-#~ msgid "<B>Information about Cloud variables</B><BR>&nbsp;<BR>Currently, only numbers are supported<BR>Chat rooms are not allowed, and will be removed<BR>For more info, <A href="file:///C:/help/faq/#clouddata" target=_blank>see the cloud data FAQ!</A>"
-#~ msgstr "<B>クラウドへんすうについて</B><BR>&nbsp;<BR>げんざい、すうちのみがサポートされています<BR>チャットルームのさくせいはきょかされません(さくじょされます)。<BR>しょうさいなじょうほうは <A href="file:///C:/Users/abee/Desktop/editor-ja%20(1)/target=">クラウドデータFAQをよんでください!</A>"
-
 #~ msgid "Costumes &gt; 1"
 #~ msgstr "コスチューム &gt; 1"
 

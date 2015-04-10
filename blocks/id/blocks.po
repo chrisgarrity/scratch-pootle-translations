@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-12-20 05:06+0000\n"
-"Last-Translator: Emmanuella <emma.rumanti@gmail.com>\n"
+"PO-Revision-Date: 2015-04-03 03:09+0000\n"
+"Last-Translator: andylolz <a.lulham@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1419051983.000000\n"
+"X-POOTLE-MTIME: 1428030545.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -427,7 +427,7 @@ msgstr "hidupkan %m.motor"
 # 80%
 # 89%
 msgid "turn %m.motor on for %n secs"
-msgstr "hidupkan %mmotor selama %n detik"
+msgstr "hidupkan %m.motor selama %n detik"
 
 msgid "turn video %m.videoState"
 msgstr "putar video %m.videoState"

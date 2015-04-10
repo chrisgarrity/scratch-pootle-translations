@@ -48,13 +48,11 @@ msgstr "жауап"
 msgid "ask %s and wait"
 msgstr "%s сұрау және күту"
 
-# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
-msgstr ""
+msgstr "はいけい #"
 
-# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr ""
+msgstr "はいけいめい"
 
 msgid "broadcast %m.broadcast"
 msgstr "%m.broadcast тарату"
@@ -500,38 +498,14 @@ msgstr ""
 msgid "when tilt = %n"
 msgstr ""
 
-#~ msgid "forever if %b"
-#~ msgstr "%b болса, үнемі"
-
-#~ msgid "if %b"
-#~ msgstr "%b болса"
-
-#~ msgid "play note %n for %n beats"
-#~ msgstr "%d.note нотасын %n такт ойнау"
-
-##################
-# User Interface #
-##################
-msgid ""
-msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2014-11-25 05:20+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: kk\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1416892832.000000\n"
-
 msgid "10 ^"
 msgstr "10 ^"
 
-msgid "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only numbers are supported<br>Chat rooms are not allowed, and will be removed<br>For more info, <a href="/help/faq/#clouddata" target="_blank">see the cloud data FAQ!</a>"
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank"
+"\">see the cloud data FAQ!</a>"
 msgstr ""
 
 msgid "A connected"
@@ -626,14 +600,8 @@ msgstr "はいけい"
 msgid "Backdrop"
 msgstr "はいけい"
 
-msgid "backdrop #"
-msgstr "はいけい #"
-
 msgid "Backdrop Library"
 msgstr "はいけいライブラリー"
-
-msgid "backdrop name"
-msgstr "はいけいめい"
 
 msgid "backdrop1"
 msgstr "はいけい1"
@@ -657,7 +625,10 @@ msgstr "バスドラム"
 msgid "Bassoon"
 msgstr "バスーン"
 
-msgid "Because you have a new Scratch account, any changes to cloud data won't be saved yet. Keep participating on the site you'll be able to use cloud data soon!"
+msgid ""
+"Because you have a new Scratch account, any changes to cloud data won't be "
+"saved yet. Keep participating on the site you'll be able to use cloud data "
+"soon!"
 msgstr ""
 
 msgid "Bitmap"
@@ -768,8 +739,10 @@ msgstr "けす"
 msgid "clear senders/receivers"
 msgstr "センダーとレシーバーをけす"
 
-msgid "Click "Save now" to try again or "Download" to save"
-msgstr "「ただちにほぞん」をクリックしてさいしこうするか、「ダウンロード」でほぞんしてください"
+msgid "Click \"Save now\" to try again or \"Download\" to save"
+msgstr ""
+"「ただちにほぞん」をクリックしてさいしこうするか、「ダウンロード」でほぞんし"
+"てください"
 
 msgid "Close"
 msgstr "とじる"
@@ -820,9 +793,6 @@ msgstr "cos"
 
 msgid "Costume"
 msgstr "コスチューム"
-
-msgid "costume #"
-msgstr "コスチューム #"
 
 msgid "Costume Library"
 msgstr "コスチュームライブラリー"
@@ -884,9 +854,6 @@ msgstr "жою"
 
 msgid "delete variable"
 msgstr "へんすうをさくじょ"
-
-msgid "direction"
-msgstr "むき"
 
 msgid "direction:"
 msgstr "むかいき:"
@@ -1070,9 +1037,6 @@ msgstr ""
 msgid "hello"
 msgstr "チェロ"
 
-msgid "hide"
-msgstr "かくす"
-
 msgid "High C"
 msgstr ""
 
@@ -1165,9 +1129,6 @@ msgstr "log"
 
 msgid "louder"
 msgstr "おおきく"
-
-msgid "loudness"
-msgstr "おんりょう"
 
 msgid "Low C"
 msgstr ""
@@ -1292,9 +1253,6 @@ msgstr "あたらしいスプライト:"
 
 msgid "New Variable"
 msgstr "あたらしいへんすう"
-
-msgid "next backdrop"
-msgstr ""
 
 msgid "No motion blocks"
 msgstr "うごきのブロックはありません"
@@ -1557,7 +1515,9 @@ msgstr "びょう"
 msgid "See project page"
 msgstr "プロジェクトページさんしょう"
 
-msgid "See the Tips window (on the right) to install the plug-in and get the extension working."
+msgid ""
+"See the Tips window (on the right) to install the plug-in and get the "
+"extension working."
 msgstr ""
 
 msgid "Select"
@@ -1596,9 +1556,6 @@ msgstr "きょうゆうちゅう"
 msgid "Shift:"
 msgstr "シフト:"
 
-msgid "show"
-msgstr "ひょうじする"
-
 msgid "show receivers"
 msgstr "レシーバーをひょうじ"
 
@@ -1629,9 +1586,6 @@ msgstr "サイレンス"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "おおきさ"
-
 msgid "slider"
 msgstr "スライダー"
 
@@ -1651,9 +1605,6 @@ msgid "softer"
 msgstr "やわらかく"
 
 msgid "sound"
-msgstr "おと"
-
-msgid "Sound"
 msgstr "おと"
 
 msgid "Sound Library"
@@ -1727,7 +1678,9 @@ msgstr "あちらむき"
 msgid "The name is already in use."
 msgstr ""
 
-msgid "The project failed to load and Scratch Team has been notified. Press OK to leave this page."
+msgid ""
+"The project failed to load and Scratch Team has been notified. Press OK to "
+"leave this page."
 msgstr ""
 
 msgid "Theme"
@@ -1742,12 +1695,17 @@ msgstr ""
 msgid "This is the current version."
 msgstr ""
 
-msgid "This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project."
+msgid ""
+"This project can detect who is using it, through the “username” block. To "
+"hide your identity, sign out before using the project."
 msgstr ""
-"このプロジェクトは「ユーザーめい」ブロックをつかって、だれがつかっているかをけんしゅつします。とくていされたくないばあいはこのプロジェクトをつかうまえにサ"
-"インアウトしてください。"
+"このプロジェクトは「ユーザーめい」ブロックをつかって、だれがつかっているかを"
+"けんしゅつします。とくていされたくないばあいはこのプロジェクトをつかうまえに"
+"サインアウトしてください。"
 
-msgid "This project uses Cloud data ‒ a feature that is available only to signed in users."
+msgid ""
+"This project uses Cloud data ‒ a feature that is available only to signed in "
+"users."
 msgstr ""
 
 msgid "this script"
@@ -1762,14 +1720,13 @@ msgstr "こちらむき"
 msgid "Throw away all changes since opening this project?"
 msgstr "このプロジェクトをひらいたあとのすべてのへんこうをすてますか?"
 
-msgid "timer"
-msgstr "タイマー"
-
 msgid "Tips"
 msgstr "ヒント"
 
 msgid "To delete a block definition, first remove all uses of the block."
-msgstr "ブロックのていぎをさくじょするには、まずそのブロックをつかっているかしょをけしてください。"
+msgstr ""
+"ブロックのていぎをさくじょするには、まずそのブロックをつかっているかしょをけ"
+"してください。"
 
 msgid "Transportation"
 msgstr "のりもの"
@@ -1884,9 +1841,6 @@ msgstr "ビデオ:"
 msgid "Vocals"
 msgstr "ボーカル"
 
-msgid "volume"
-msgstr "ボリューム"
-
 msgid "Walking"
 msgstr "ほこう"
 
@@ -1911,16 +1865,12 @@ msgstr "もっかんフルート"
 msgid "world"
 msgstr ""
 
-msgid "x position"
-msgstr "xざひょう"
-
-msgid "y position"
-msgstr "yざひょう"
-
 msgid "year"
 msgstr "とし"
 
-msgid "You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent."
+msgid ""
+"You cannot edit cloud data in someone else's project.<br>Any change that you "
+"make in the editor will be temporary and not persistent."
 msgstr ""
 
 msgid "Your Scratch name"
@@ -1931,12 +1881,14 @@ msgstr ""
 
 msgid ""
 "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-"For more info, <a href= target=>see the cloud data FAQ!</a>"
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
 msgstr ""
 
 msgid "Click  to try again or  to save"
-msgstr "「ただちにほぞん」をクリックしてさいしこうするか、「ダウンロード」でほぞんしてください"
+msgstr ""
+"「ただちにほぞん」をクリックしてさいしこうするか、「ダウンロード」でほぞんし"
+"てください"
 
 msgid "Eraser width:"
 msgstr "けしゴムのはば:"
@@ -1944,17 +1896,134 @@ msgstr "けしゴムのはば:"
 msgid "Line width:"
 msgstr "せんのはば:"
 
-#~ msgid "<B>Information about Cloud variables</B><BR>&nbsp;<BR>Currently, only numbers are supported<BR>Chat rooms are not allowed, and will be removed<BR>For more info, <A href="file:///C:/help/faq/#clouddata" target=_blank>see the cloud data FAQ!</A>"
-#~ msgstr "<B>クラウドへんすうについて</B><BR>&nbsp;<BR>げんざい、すうちのみがサポートされています<BR>チャットルームのさくせいはきょかされません(さくじょされます)。<BR>しょうさいなじょうほうは <A href="file:///C:/Users/abee/Desktop/editor-ja%20(1)/target=">クラウドデータFAQをよんでください!</A>"
+# Offline editor only
+msgid "All Tips"
+msgstr ""
+
+# Offline editor only
+msgid ""
+"An updated version of the Scratch offline editor is available on the Scratch "
+"website."
+msgstr ""
+
+# Offline editor only
+msgid "Could not retrieve update location from server."
+msgstr ""
+
+# Offline editor only
+msgid "Could not retrieve version information from server."
+msgstr ""
+
+# Offline editor only
+msgid "Could not write file:"
+msgstr ""
+
+# Offline editor only
+msgid "Downloading new version..."
+msgstr ""
+
+# Offline editor only
+msgid "Error saving project"
+msgstr ""
+
+# Offline editor only
+msgid "Force help file update"
+msgstr ""
+
+# Offline editor only
+msgid "Import experimental HTTP extension"
+msgstr ""
+
+# Offline editor only
+msgid "Loading help files..."
+msgstr ""
+
+# Offline editor only
+msgid "Manual Update Available"
+msgstr ""
+
+# Offline editor only
+msgid "Open Project"
+msgstr ""
+
+# Offline editor only
+msgid "Please visit the download page to install it."
+msgstr ""
+
+# Offline editor only
+msgid "Quit"
+msgstr ""
+
+# Offline editor only
+msgid "Replace existing project?"
+msgstr ""
+
+# Offline editor only
+msgid "Running pre-release"
+msgstr ""
+
+# Offline editor only
+msgid "Save Project"
+msgstr ""
+
+# Offline editor only
+msgid "Server error:"
+msgstr ""
+
+# Offline editor only
+msgid "Share to Scratch Website"
+msgstr ""
+
+# Offline editor only
+msgid "Success"
+msgstr ""
+
+# Offline editor only
+msgid "This version is newer than the current release version."
+msgstr ""
+
+# Offline editor only
+msgid "Update check failed"
+msgstr ""
+
+# Offline editor only
+msgid "Upload failed"
+msgstr ""
+
+# Offline editor only
+msgid "Visit download page"
+msgstr ""
+
+# Offline editor only
+msgid "Your project has been uploaded to scratch.mit.edu"
+msgstr ""
+
+#~ msgid "forever if %b"
+#~ msgstr "%b болса, үнемі"
+
+#~ msgid "if %b"
+#~ msgstr "%b болса"
+
+#~ msgid "play note %n for %n beats"
+#~ msgstr "%d.note нотасын %n такт ойнау"
 
 #~ msgid "Costumes &gt; 1"
 #~ msgstr "コスチューム &gt; 1"
 
-#~ msgid "This project uses Cloud data ??? a feature that is available only to signed in users."
-#~ msgstr "このプロジェクトはクラウドデータをつかっています。このきのうはサインインしたユーザーだけつかうことができます。"
+#~ msgid ""
+#~ "This project uses Cloud data ??? a feature that is available only to "
+#~ "signed in users."
+#~ msgstr ""
+#~ "このプロジェクトはクラウドデータをつかっています。このきのうはサインインし"
+#~ "たユーザーだけつかうことができます。"
 
-#~ msgid "You cannot edit cloud data in someone else's project.<BR>Any change that you make in the editor will be temporary and not persistent."
-#~ msgstr "ほかのひとのプロジェクトのクラウドデータをへんしゅうすることはできません。<BR>エディターでいったへんこうはいちじてきなものでえいぞくせいはありません。"
+#~ msgid ""
+#~ "You cannot edit cloud data in someone else's project.<BR>Any change that "
+#~ "you make in the editor will be temporary and not persistent."
+#~ msgstr ""
+#~ "ほかのひとのプロジェクトのクラウドデータをへんしゅうすることはできません。"
+#~ "<BR>エディターでいったへんこうはいちじてきなものでえいぞくせいはありませ"
+#~ "ん。"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "しんぎちのひきすうをついか:"

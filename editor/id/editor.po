@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-03-24 12:37+0000\n"
-"Last-Translator: Emmanuella <emma.rumanti@gmail.com>\n"
+"PO-Revision-Date: 2015-04-03 03:24+0000\n"
+"Last-Translator: MorningDew <kasih2002@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1427200640.000000\n"
+"X-POOTLE-MTIME: 1428031468.000000\n"
 
 # Sepertinya ini matematika... ~R
 msgid "10 ^"
@@ -401,10 +401,10 @@ msgid "direction:"
 msgstr "arah:"
 
 msgid "don't rotate"
-msgstr "tidak berotasi"
+msgstr "tidak berputar"
 
 msgid "Don't save"
-msgstr "Tidak tersimpan"
+msgstr "Jangan simpan"
 
 msgid "down"
 msgstr "bawah"
@@ -457,7 +457,7 @@ msgid "Electronic"
 msgstr "Elektronik"
 
 msgid "Ellipse"
-msgstr "Elips"
+msgstr "Lonjong"
 
 msgid "empty"
 msgstr "kosong"
@@ -493,7 +493,7 @@ msgid "fade out"
 msgstr "fade out"
 
 msgid "false"
-msgstr ""
+msgstr "salah"
 
 msgid "Fantasy"
 msgstr "Fantasi"
@@ -508,7 +508,7 @@ msgid "Fill with color"
 msgstr "Isi dengan warna"
 
 msgid "fisheye"
-msgstr "lensa mata ikan"
+msgstr "mata ikan"
 
 msgid "Flip left-right"
 msgstr "Balik kiri-kanan"
@@ -545,7 +545,7 @@ msgid "Go to My Stuff"
 msgstr "Pergi ke Karyaku"
 
 msgid "Group"
-msgstr "Grup"
+msgstr "Kelompok"
 
 msgid "Grow"
 msgstr "Perbesar"
@@ -583,7 +583,7 @@ msgid "High C"
 msgstr "C Tinggi"
 
 msgid "Holiday"
-msgstr ""
+msgstr "Liburan"
 
 msgid "hour"
 msgstr "jam"
@@ -608,7 +608,7 @@ msgid "Installing..."
 msgstr "Menginstall..."
 
 msgid "Instruments"
-msgstr "Instrumen"
+msgstr "Alat Musik"
 
 # Ini adalah tampilan variabel. ~R
 msgid "large readout"
@@ -643,7 +643,7 @@ msgid "lights"
 msgstr "cahaya"
 
 msgid "limit reached"
-msgstr "batas tercapai"
+msgstr "batas telah tercapai"
 
 msgid "Line"
 msgstr "Garis"
@@ -681,7 +681,7 @@ msgid "Make a Block"
 msgstr "Buat sebuah Balok"
 
 msgid "Make a List"
-msgstr "Buat sebuah List"
+msgstr "Buat sebuah Daftar"
 
 msgid "Make a Variable"
 msgstr "Buat sebuah Variabel"
@@ -694,7 +694,7 @@ msgid "Max"
 msgstr "Maksimal"
 
 msgid "meow"
-msgstr "miaw"
+msgstr "meong"
 
 msgid "Message Name"
 msgstr "Nama Pesan"
@@ -786,7 +786,7 @@ msgid "new message..."
 msgstr "pesan baru..."
 
 msgid "New name"
-msgstr "Nama baru"
+msgstr "Judul baru"
 
 msgid "New sound:"
 msgstr "Suara baru:"
@@ -846,13 +846,13 @@ msgid "Open Hi-Hat"
 msgstr "Buka Hi-Hat"
 
 msgid "Options"
-msgstr "Pilihan"
+msgstr "Pengaturan"
 
 msgid "Organ"
 msgstr "Organ"
 
 msgid "Other"
-msgstr "Lain-lain"
+msgstr "Lainnya"
 
 msgid "other scripts in sprite"
 msgstr "script lain di sprite ini"
@@ -862,7 +862,7 @@ msgid "other scripts in stage"
 msgstr "script lain di sprite ini"
 
 msgid "Outdoors"
-msgstr "Outdoors"
+msgstr "Luar Ruangan"
 
 msgid "Paint new backdrop"
 msgstr "Gambar latar baru"
@@ -874,10 +874,10 @@ msgid "Paint new sprite"
 msgstr "Gambar sprite baru"
 
 msgid "Password"
-msgstr ""
+msgstr "Password"
 
 msgid "Password is required"
-msgstr ""
+msgstr "Password dibutuhkan"
 
 msgid "paste"
 msgstr "tempel"
@@ -910,7 +910,7 @@ msgid "pop"
 msgstr "pop"
 
 msgid "previous backdrop"
-msgstr ""
+msgstr "Latar sebelumnya"
 
 msgid "Profile"
 msgstr "Profil"
@@ -922,10 +922,10 @@ msgid "Project not saved!"
 msgstr "Projek belum tersimpan!"
 
 msgid "Project name"
-msgstr ""
+msgstr "Judul karya"
 
 msgid "Project name is required"
-msgstr ""
+msgstr "Judul karya dibutuhkan"
 
 msgid "random"
 msgstr "random"
@@ -937,7 +937,7 @@ msgid "Record new sound"
 msgstr "Rekam suara baru"
 
 msgid "record..."
-msgstr ""
+msgstr "rekam..."
 
 msgid "recording1"
 msgstr "rekaman1"
@@ -965,10 +965,10 @@ msgid "Rename"
 msgstr "Rename"
 
 msgid "rename variable"
-msgstr "rename variabel"
+msgstr "namai ulang variabel"
 
 msgid "Replace existing project"
-msgstr ""
+msgstr "Ganti karya yang ada"
 
 msgid "requires sign in"
 msgstr "mengharuskan untuk masuk"
@@ -1014,10 +1014,10 @@ msgid "Save"
 msgstr "Simpan"
 
 msgid "Save a copy of this project and add your own ideas."
-msgstr ""
+msgstr "Simpan salinan karya ini dan tambahkan dengan idemu sendiri"
 
 msgid "Save as"
-msgstr ""
+msgstr "Simpan sebagai"
 
 msgid "Save as a copy"
 msgstr "Simpan sebagai salinan"
@@ -1044,19 +1044,19 @@ msgid "Saxophone"
 msgstr "Saxophone"
 
 msgid "Scratch Updater"
-msgstr ""
+msgstr "Updater Scratch"
 
 msgid "Scratch 2.0 Offline Editor"
-msgstr ""
+msgstr "Editor Scratch 2.0 Offline"
 
 msgid "Script"
-msgstr "Script"
+msgstr "Skrip"
 
 msgid "Scripts"
-msgstr "Script"
+msgstr "Skrip"
 
 msgid "Scripts:"
-msgstr "Script:"
+msgstr "Skrip:"
 
 msgid "second"
 msgstr "detik"
@@ -1094,10 +1094,10 @@ msgid "Share"
 msgstr "Bagikan"
 
 msgid "Share to website"
-msgstr ""
+msgstr "Bagikan ke website"
 
 msgid "Share to Scratch website"
-msgstr ""
+msgstr "Bagikan ke website Scratch"
 
 msgid "shared"
 msgstr "terbagikan"
@@ -1239,7 +1239,7 @@ msgid "that way"
 msgstr "ke arah sana"
 
 msgid "The name is already in use."
-msgstr ""
+msgstr "Nama ini telah digunakan"
 
 msgid ""
 "The project failed to load and Scratch Team has been notified. Press OK to "
@@ -1253,10 +1253,10 @@ msgid "Things"
 msgstr "Benda"
 
 msgid "thing"
-msgstr ""
+msgstr "benda"
 
 msgid "This is the current version."
-msgstr ""
+msgstr "Ini adalah versi terkini."
 
 msgid ""
 "This project can detect who is using it, through the “username” block. To "
@@ -1307,7 +1307,7 @@ msgid "Trombone"
 msgstr "Trombon"
 
 msgid "true"
-msgstr ""
+msgstr "benar"
 
 msgid "Turbo mode"
 msgstr "Mode turbo"
@@ -1327,7 +1327,7 @@ msgstr "Di bawah laut"
 
 # Ini tidak bisa diterjemahkan tanpa membingungkan pengguna (baru) ~R
 msgid "undo"
-msgstr "undo"
+msgstr "batalkan"
 
 # Ada beberapa hal yang tidak bisa diterjemahkan- ke Bahasa Indonesia ~R
 msgid "Undo"

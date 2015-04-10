@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-10-22 06:58+0000\n"
-"Last-Translator: Chao-Hsiung <pesder@gmail.com>\n"
+"PO-Revision-Date: 2015-04-03 00:19+0000\n"
+"Last-Translator: andylolz <a.lulham@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1413961105.000000\n"
+"X-POOTLE-MTIME: 1428020386.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -54,7 +54,7 @@ msgstr "背景編號 #"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr "背景 名稱"
+msgstr "背景名稱"
 
 msgid "broadcast %m.broadcast"
 msgstr "廣播 %m.broadcast"
@@ -108,7 +108,7 @@ msgid "costume #"
 msgstr "造型編號"
 
 msgid "create clone of %m.spriteOnly"
-msgstr "創造角色  %m.spriteOnly  的分身"
+msgstr "創造  %m.sprite  的分身"
 
 msgid "current %m.timeAndDate"
 msgstr "目前的 %m.timeAndDate"
@@ -144,13 +144,13 @@ msgid "Events"
 msgstr "事件"
 
 msgid "forever"
-msgstr "不停重複"
+msgstr "重複執行"
 
 msgid "glide %n secs to x:%n y:%n"
 msgstr "在 %n 秒內，滑行到 x:%n y:%n"
 
 msgid "go back %n layers"
-msgstr "往回走 %n 層"
+msgstr "下移 %n 層"
 
 msgid "go to %m.spriteOrMouse"
 msgstr "移到 %m.spriteOrMouse"
@@ -186,7 +186,7 @@ msgid "join %s %s"
 msgstr "合併 %s 和 %s"
 
 msgid "key %m.key pressed?"
-msgstr "%m.key 鍵被按下了嗎  ?"
+msgstr "按下 %m.key 鍵了嗎？"
 
 msgid "length of %m.list"
 msgstr "%m.list 的長度"
@@ -269,7 +269,7 @@ msgid "repeat %n"
 msgstr "重複 %n 次"
 
 msgid "repeat until %b"
-msgstr "直到 %b  前都不斷重複"
+msgstr "重複執行直到 %b"
 
 msgid "replace item %d.listItem of %m.list with %s"
 msgstr "將 %m.list 的第 %d.listItem 項替換為 %s"
@@ -319,7 +319,7 @@ msgid "set pen color to %c"
 msgstr "將畫筆顏色設定為 %c"
 
 msgid "set pen color to %n"
-msgstr "將畫筆顏色設定為 %c"
+msgstr "將畫筆顏色設定為 %n"
 
 msgid "set pen shade to %n"
 msgstr "將畫筆亮度設為 %n"

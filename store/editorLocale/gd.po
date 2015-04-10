@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-03-14 04:33+0200\n"
-"Last-Translator: akerbeltz <fios@akerbeltz.org>\n"
+"PO-Revision-Date: 2015-04-04 20:29+0000\n"
+"Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: gd\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
 "(n > 2 && n < 20) ? 2 : 3;\n"
-"X-Generator: Pootle 2.1.6\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1428179349.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -25,45 +26,45 @@ msgid "%b or %b"
 msgstr "%b no %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
-msgstr "%m.attribute de %m.spriteOrStage"
+msgstr "%m.attribute aig %m.spriteOrStage"
 
 msgid "%m.list contains %s"
-msgstr "tha %s am broinn %m.list"
+msgstr "%m.list ann agus %s na broinn"
 
 msgid "%m.mathOp of %n"
-msgstr "%m.mathOp à %n"
+msgstr "%m.mathOp aig %n"
 
 msgid "%m.sensor sensor value"
-msgstr ""
+msgstr "luach mothaicheir: %m.sensor"
 
 msgid "%n mod %n"
-msgstr ""
+msgstr "%n mòidealas %n"
 
 msgid "add %s to %m.list"
 msgstr "cuir %s ri %m.list"
 
 msgid "answer"
-msgstr "freagair"
+msgstr "freagairt"
 
 msgid "ask %s and wait"
-msgstr "freagair %s is dèan feitheamh"
+msgstr "faighnich %s is fan"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
-msgstr "dealbh-cùil #"
+msgstr "àireamh a' chùlaibh"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr "ainm an deilbh-chùil"
+msgstr "ainm a' chùlaibh"
 
 msgid "broadcast %m.broadcast"
 msgstr "craol %m.broadcast"
 
 msgid "broadcast %m.broadcast and wait"
-msgstr "craol %m.broadcast is dèan feitheamh"
+msgstr "craol %m.broadcast is fan"
 
 msgid "change %m.effect effect by %n"
-msgstr "atharraich an èifeachd %m.effect le %n"
+msgstr "atharraich èifeachd %m.effect le %n"
 
 msgid "change %m.var by %n"
 msgstr "atharraich %m.var le %n"
@@ -78,10 +79,10 @@ msgid "change pen size by %n"
 msgstr "atharraich meud a' phinn le %n"
 
 msgid "change size by %n"
-msgstr "atharraich am meud le %n"
+msgstr "atharraich do mheud le %n"
 
 msgid "change tempo by %n"
-msgstr "atharraich an t-astar le %n"
+msgstr "atharraich an luaths le %n"
 
 msgid "change volume by %n"
 msgstr "atharraich àirde na fuaime le %n"
@@ -96,19 +97,19 @@ msgid "clear"
 msgstr "falamhaich"
 
 msgid "clear graphic effects"
-msgstr "falamhaich na h-èifeachdan grafaigeach"
+msgstr "falamhaich na h-èifeachdan"
 
 msgid "color %c is touching %c?"
-msgstr "a bheil an dath %c a' beantainn ri %c?"
+msgstr "an dath %c a' beantainn ri %c"
 
 msgid "Control"
-msgstr "Uidheaman-smachd"
+msgstr "Smachd"
 
 msgid "costume #"
-msgstr "culaidh-choimheach #"
+msgstr "àireamh an aodaich"
 
 msgid "create clone of %m.spriteOnly"
-msgstr "cruthaich clòn de %m.spriteOnly"
+msgstr "cruthaich clòn %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
 msgstr "%m.timeAndDate làithreach"
@@ -117,7 +118,7 @@ msgid "Data"
 msgstr "Dàta"
 
 msgid "days since 2000"
-msgstr "làithean a-mach o 2000"
+msgstr "làithean o 2000 a-mach"
 
 msgid "define"
 msgstr "mìnich"
@@ -135,365 +136,365 @@ msgid "distance"
 msgstr "astar"
 
 msgid "distance to %m.spriteOrMouse"
-msgstr "an t-astar ri %m.spriteOrMouse"
+msgstr "an t-astar o %m.spriteOrMouse"
 
 msgid "else"
 msgstr "air neo"
 
 msgid "Events"
-msgstr "Tachartasan"
+msgstr "Tachartas"
 
 msgid "forever"
 msgstr "gu buan"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr "gluais %n secs a dh'ionnsaigh x:%n y:%n"
+msgstr "gluais fad %n diog gu x:%n y:%n"
 
 msgid "go back %n layers"
-msgstr ""
+msgstr "%n breathan dhan chùl"
 
 msgid "go to %m.spriteOrMouse"
-msgstr ""
+msgstr "rach gu %m.spriteOrMouse"
 
 msgid "go to front"
-msgstr ""
+msgstr "rach gun fhìor-bheulaibh"
 
 msgid "go to x:%n y:%n"
-msgstr ""
+msgstr "rach gu x:%n y:%n"
 
 msgid "hide"
-msgstr ""
+msgstr "falaich"
 
 msgid "hide list %m.list"
-msgstr ""
+msgstr "falaich an liosta %m.list"
 
 msgid "hide variable %m.var"
-msgstr ""
+msgstr "falaich an caochladair %m.var"
 
 msgid "if %b then"
-msgstr ""
+msgstr "ma tha %b a-rèiste"
 
 msgid "if on edge, bounce"
-msgstr ""
+msgstr "ma tha thu ris an oir, boc"
 
 msgid "insert %s at %d.listItem of %m.list"
-msgstr ""
+msgstr "cuir %s ris aig %d.listItem de %m.list"
 
 msgid "item %d.listItem of %m.list"
-msgstr ""
+msgstr "nì %d.listItem de %m.list"
 
 msgid "join %s %s"
-msgstr ""
+msgstr "ceangal %s ri %s"
 
 msgid "key %m.key pressed?"
-msgstr ""
+msgstr "an iuchair %m.key ga brùthadh"
 
 msgid "length of %m.list"
-msgstr ""
+msgstr "an fhaide aig %m.list"
 
 msgid "length of %s"
-msgstr ""
+msgstr "an fhaide aig %s"
 
 msgid "letter %n of %s"
-msgstr ""
+msgstr "litir %n de %s"
 
 msgid "Looks"
-msgstr ""
+msgstr "Coltas"
 
 msgid "loudness"
-msgstr ""
+msgstr "àirde na fuaime"
 
 msgid "More Blocks"
-msgstr ""
+msgstr "Bloca eile"
 
 msgid "Motion"
-msgstr ""
+msgstr "Gluasad"
 
 msgid "mouse down?"
-msgstr ""
+msgstr "an luchag ga briogadh"
 
 msgid "mouse x"
-msgstr ""
+msgstr "x na luchaige"
 
 msgid "mouse y"
-msgstr ""
+msgstr "y na luchaige"
 
 msgid "move %n steps"
-msgstr ""
+msgstr "gluais %n ceuman"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "next backdrop"
-msgstr ""
+msgstr "an t-ath-chùlaibh"
 
 msgid "next costume"
-msgstr ""
+msgstr "an t-ath-aodach"
 
 msgid "not %b"
-msgstr ""
+msgstr "e fallsa gu bheil %b"
 
 msgid "Operators"
-msgstr ""
+msgstr "Gnìomharaiche"
 
 msgid "Pen"
-msgstr ""
+msgstr "Peann"
 
 msgid "pen down"
-msgstr ""
+msgstr "peann sìos"
 
 msgid "pen up"
-msgstr ""
+msgstr "peann suas"
 
 msgid "pick random %n to %n"
-msgstr ""
+msgstr "luach tuaireamach eadar %n is %n"
 
 msgid "play drum %d.drum for %n beats"
-msgstr ""
+msgstr "cluich druma %d.drum fad %n buille"
 
 msgid "play note %d.note for %n beats"
-msgstr ""
+msgstr "cluich puing %d.note fad %n puing"
 
 msgid "play sound %m.sound"
-msgstr ""
+msgstr "cluich fuaim: %m.sound"
 
 msgid "play sound %m.sound until done"
-msgstr ""
+msgstr "cluich fuaim: %m.sound gu lèir"
 
 msgid "point in direction %d.direction"
-msgstr ""
+msgstr "cuir d' aghaidh %d.direction"
 
 msgid "point towards %m.spriteOrMouse"
-msgstr ""
+msgstr "cuir d' aghaidh an comhair %m.spriteOrMouse"
 
 msgid "repeat %n"
-msgstr ""
+msgstr "dèan seo %n tursan"
 
 msgid "repeat until %b"
-msgstr ""
+msgstr "dèan a-rithist e gus am bi %b"
 
 msgid "replace item %d.listItem of %m.list with %s"
-msgstr ""
+msgstr "cuir an àite %d.listItem de %m.list le %s"
 
 msgid "reset timer"
-msgstr ""
+msgstr "ath-shuidhich an tìmear"
 
 msgid "rest for %n beats"
-msgstr ""
+msgstr "tost fad %n buille"
 
 msgid "round %n"
-msgstr ""
+msgstr "cuairtich %n"
 
 msgid "say %s"
-msgstr ""
+msgstr "can %s"
 
 msgid "say %s for %n secs"
-msgstr ""
+msgstr "can %s fad %n diog"
 
 msgid "Sensing"
-msgstr ""
+msgstr "Mothachadh"
 
 msgid "sensor %m.booleanSensor?"
-msgstr ""
+msgstr "%m.booleanSensor aig mothaichear"
 
 msgid "set %m.effect effect to %n"
-msgstr ""
+msgstr "suidhich èifeachd %m.effect de %n ort"
 
 msgid "set %m.var to %s"
-msgstr ""
+msgstr "suidhich %m.var air %s"
 
 msgid "set instrument to %d.instrument"
-msgstr ""
+msgstr "suidhich an t-inneal-ciùil air %d.instrument"
 
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr ""
+msgstr "suidhich %m.motor2 an comhair %m.motorDirection"
 
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "suidhich a' chumhachd aig %m.motor air %n"
 
 msgid "set pen color to %c"
-msgstr ""
+msgstr "suidhich dath a' phinn air %c"
 
 msgid "set pen color to %n"
-msgstr ""
+msgstr "suidhich dath a' phinn air %n"
 
 msgid "set pen shade to %n"
-msgstr ""
+msgstr "suidhich tuar a' phinn air %n"
 
 msgid "set pen size to %n"
-msgstr ""
+msgstr "suidhich meud a' phinn air %n"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr ""
+msgstr "suidhich stoidhle na cuairte air %m.rotationStyle"
 
 msgid "set size to %n%"
-msgstr ""
+msgstr "suidhich do mheud air %n%"
 
 msgid "set tempo to %n bpm"
-msgstr ""
+msgstr "suidhich an luaths air %n bpm"
 
 msgid "set video transparency to %n%"
-msgstr ""
+msgstr "suidhich trìd-shoillse a' video air %n%"
 
 msgid "set volume to %n%"
-msgstr ""
+msgstr "suidhich àirde na fuaime air %n%"
 
 msgid "set x to %n"
-msgstr ""
+msgstr "suidhich x air %n"
 
 msgid "set y to %n"
-msgstr ""
+msgstr "suidhich y air %n"
 
 msgid "show"
-msgstr ""
+msgstr "seall"
 
 msgid "show list %m.list"
-msgstr ""
+msgstr "seall an liosta %m.list"
 
 msgid "show variable %m.var"
-msgstr ""
+msgstr "seall an caochladair %m.var"
 
 msgid "size"
-msgstr ""
+msgstr "meud"
 
 msgid "Sound"
-msgstr ""
+msgstr "Fuaim"
 
 msgid "stamp"
-msgstr ""
+msgstr "stampa"
 
 msgid "stop %m.stop"
-msgstr ""
+msgstr "cuir stad air %m.stop"
 
 msgid "stop all sounds"
-msgstr ""
+msgstr "cuir stad air a h-uile fuaim"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr ""
+msgstr "atharraich an cùlaibh gun %m.backdrop"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr ""
+msgstr "atharraich an cùlaibh gun %m.backdrop is fan"
 
 msgid "switch costume to %m.costume"
-msgstr ""
+msgstr "cuir an t-aodach %m.costume ort"
 
 msgid "tempo"
-msgstr ""
+msgstr "luaths"
 
 msgid "think %s"
-msgstr ""
+msgstr "smaoinich %s"
 
 msgid "think %s for %n secs"
-msgstr ""
+msgstr "smaoinich %s fad %n diog"
 
 msgid "tilt"
-msgstr ""
+msgstr "claonadh"
 
 msgid "timer"
-msgstr ""
+msgstr "tìmear"
 
 msgid "touching %m.touching?"
-msgstr ""
+msgstr "%m.touching a' beantainn riut"
 
 msgid "touching color %c?"
-msgstr ""
+msgstr "an dath %c a' beantainn riut"
 
 msgid "turn @turnLeft %n degrees"
-msgstr ""
+msgstr "cuairtich @turnLeft le %n ceuman"
 
 msgid "turn @turnRight %n degrees"
-msgstr ""
+msgstr "cuairtich @turnRight le %n ceuman"
 
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "cuir %m.motor dheth"
 
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "cuir %m.motor air"
 
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "cuir %m.motor air fad %n diog"
 
 msgid "turn video %m.videoState"
-msgstr ""
+msgstr "cuir a' video %m.videoState"
 
 msgid "username"
-msgstr ""
+msgstr "ainm-cleachdaiche"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr ""
+msgstr "%m.videoMotionType a' video air %m.stageOrThis"
 
 msgid "volume"
-msgstr ""
+msgstr "àirde na fuaime"
 
 msgid "wait %n secs"
-msgstr ""
+msgstr "fan fad %n diog"
 
 msgid "wait until %b"
-msgstr ""
+msgstr "fan gus am bi %b"
 
 msgid "when %m.booleanSensor"
-msgstr ""
+msgstr "nuair a bhios %m.booleanSensor"
 
 msgid "when %m.key key pressed"
-msgstr ""
+msgstr "le brùthadh na h-iuchrach %m.key"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr ""
+msgstr "nuair a thèid %m.sensor %m.lessMore %n"
 
 msgid "when %m.triggerSensor > %n"
-msgstr ""
+msgstr "nuair a thèid %m.triggerSensor > %n"
 
 msgid "when @greenFlag clicked"
-msgstr ""
+msgstr "le briogadh air @greenFlag"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr ""
+msgstr "nuair a thèid an cùlaibh na %m.backdrop"
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
+msgstr "nuair a thèid an t-astar %m.lessMore %n"
 
 msgid "when I receive %m.broadcast"
-msgstr ""
+msgstr "nuair a gheibh thu %m.broadcast"
 
 msgid "when I start as a clone"
-msgstr ""
+msgstr "nuair a thèid thu nad chlòn"
 
 msgid "when Stage clicked"
-msgstr ""
+msgstr "le briogadh air an àrd-ùrlar"
 
 msgid "when this sprite clicked"
-msgstr ""
+msgstr "le briogadh air an sprìd seo"
 
 msgid "when tilt %m.eNe %n"
-msgstr ""
+msgstr "nuair a thèid an claonadh %m.eNe %n"
 
 msgid "x position"
-msgstr ""
+msgstr "ionad x"
 
 msgid "y position"
-msgstr ""
+msgstr "ionad y"
 
 msgid "set motor direction %m.motorDirection"
-msgstr ""
+msgstr "cuir comhair a' mhotair air %m.motorDirection"
 
 msgid "set motor power %n"
-msgstr ""
+msgstr "cuir cumhachd a' mhotair air %n"
 
 msgid "turn motor off"
-msgstr ""
+msgstr "cuir am motar dheth"
 
 msgid "turn motor on"
-msgstr ""
+msgstr "cuir am motar air"
 
 msgid "turn motor on for %n secs"
-msgstr ""
+msgstr "cuir am motar air fad %n diog"
 
 msgid "when distance < %n"
-msgstr ""
+msgstr "nuair a thèid an t-astar < %n"
 
 msgid "when tilt = %n"
-msgstr ""
+msgstr "nuair a thèid an claonadh = %n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -504,7 +505,7 @@ msgid ""
 "removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank"
 "\">see the cloud data FAQ!</a>"
 msgstr ""
-"<b>Fiosrachadh a thaobh caochladairean Cloud</b><br>&nbsp;<br>Chan eil ach "
+"<b>Fiosrachadh a thaobh caochladairean neòil</b><br>&nbsp;<br>Chan eil ach "
 "àireamhan ceadaichte aig an àm seo<br>Chan eil seòmraichean cabadaich "
 "ceadaichte 's thèid an toirt air falbh<br>Airson barrachd fiosrachaidh, <a "
 "href= target=>faic na CÀBHA air dàta neòil!</a>"
@@ -516,16 +517,16 @@ msgid "a copy of the project file on your computer."
 msgstr "lethbhreac de dh'fhaidhle a' phròiseict air a' choimpiutair agad."
 
 msgid "A newer version of Scratch is available"
-msgstr ""
+msgstr "Tha tionndadh ùr de Scratch ri fhaighinn"
 
 msgid "About"
-msgstr ""
+msgstr "Mu dhèidhinn"
 
 msgid "About LEGO WeDo extension..."
-msgstr ""
+msgstr "Mun leudachan LEGO WeDo..."
 
 msgid "About PicoBoard extension..."
-msgstr ""
+msgstr "Mun leudachan PicoBoard..."
 
 msgid "abs"
 msgstr "abs"
@@ -534,31 +535,31 @@ msgid "Account settings"
 msgstr "Roghainnean a' chunntais"
 
 msgid "acos"
-msgstr "acos"
+msgstr "àrc-cho-shìneas"
 
 msgid "Add"
-msgstr ""
+msgstr "Cuir ris"
 
 msgid "Add an Extension"
-msgstr ""
+msgstr "Cuir leudachan ris"
 
 msgid "Add boolean input:"
-msgstr "Raon Booleanach:"
+msgstr "Cuir raon Booleanach ris:"
 
 msgid "add comment"
 msgstr "cuir beachd ris"
 
 msgid "add comment here..."
-msgstr ""
+msgstr "cuir beachd ris an-seo..."
 
 msgid "Add label text:"
-msgstr "Cuir teacsa na leubail ris:"
+msgstr "Cuir leubail teacsa ris:"
 
 msgid "Add number input:"
-msgstr "Raon àireamhan:"
+msgstr "Cuir raon àireimh ris:"
 
 msgid "Add string input:"
-msgstr "Raon teacsa:"
+msgstr "Cuir raon teacsa ris:"
 
 msgid "all"
 msgstr "na h-uile"
@@ -567,10 +568,10 @@ msgid "All"
 msgstr "Na h-uile"
 
 msgid "all around"
-msgstr "ceithir timcheall air"
+msgstr "cuairt shlàn"
 
 msgid "all motors"
-msgstr ""
+msgstr "a h-uile motar"
 
 msgid "Animal"
 msgstr "Beathach"
@@ -579,40 +580,40 @@ msgid "Animals"
 msgstr "Beathaichean"
 
 msgid "asin"
-msgstr "asin"
+msgstr "àrc-cho-shìneas"
 
 msgid "assets loaded"
-msgstr "maoin air an luchdadh"
+msgstr "eileamaidean air an luchdadh"
 
 msgid "atan"
-msgstr "atan"
+msgstr "àrc-bheantan"
 
 msgid "B connected"
 msgstr "B ceangailte"
 
 msgid "Back a layer"
-msgstr "Aon bhreath air ais"
+msgstr "Breath dhan chùl"
 
 msgid "backdrop"
-msgstr "dealbh-cùil"
+msgstr "cùlaibh"
 
 msgid "Backdrop"
-msgstr "Dealbh-cùil"
+msgstr "Cùlaibh"
 
 msgid "Backdrop Library"
-msgstr "Leabhar-lann nan dealbhan-cùil"
+msgstr "Leabhar-lann nan cùlaibh"
 
 msgid "backdrop1"
-msgstr "dealbh-cùil1"
+msgstr "cùlaibh1"
 
 msgid "backdrops"
-msgstr "dealbhan-cùil"
+msgstr "cùlaibhean"
 
 msgid "Backdrops"
-msgstr "Dealbhan-cùil"
+msgstr "Cùlaibhean"
 
 msgid "Backpack"
-msgstr "Stòr-lann"
+msgstr "Màla-droma"
 
 msgid "Bass"
 msgstr "Beus"
@@ -628,9 +629,9 @@ msgid ""
 "saved yet. Keep participating on the site you'll be able to use cloud data "
 "soon!"
 msgstr ""
-"A chionn 's gu bheil cunntas Scratch ùr agad, cha dèid atharraichean a "
+"A chionn 's gu bheil cunntas Scratch ùr agad, cha tèid atharraichean a "
 "shàbhaladh san neul. Cum a' dol a' gabhail pàirt air an làrach is bidh "
-"cothrom agad air an dàta san neul a dh'aithghearr."
+"cothrom agad air an dàta san neul a dh'aithghearr!"
 
 msgid "Bitmap"
 msgstr "Bitmap"
@@ -651,13 +652,13 @@ msgid "Bring to front"
 msgstr "Gluais gun fhìor-bheulaibh"
 
 msgid "Broadcast"
-msgstr "Craoladh"
+msgstr "Craol"
 
 msgid "Brush"
 msgstr "Bruis"
 
 msgid "button pressed"
-msgstr "putan 'ga bhrùthadh"
+msgstr "putan ga bhrùthadh"
 
 msgid "by"
 msgstr "le"
@@ -681,7 +682,7 @@ msgid "Cancel"
 msgstr "Sguir dheth"
 
 msgid "Cannot Add"
-msgstr ""
+msgstr "Cha ghabh a chur ris"
 
 msgid "Cannot Delete"
 msgstr "Cha ghabh a sguabadh às"
@@ -697,28 +698,28 @@ msgid "Category"
 msgstr "Roinn-seòrsa"
 
 msgid "ceiling"
-msgstr "mullach-seòmair"
+msgstr "cuairteachadh suas"
 
 msgid "Cello"
 msgstr "Cello"
 
 msgid "Check for updates"
-msgstr ""
+msgstr "Thoir sùil airson ùrachaidhean"
 
 msgid "Choir"
 msgstr "Còisir"
 
 msgid "Choose backdrop from library"
-msgstr "Tagh dealbh-cùil on leabhar-lann"
+msgstr "Tagh cùlaibh on leabhar-lann"
 
 msgid "Choose costume from library"
-msgstr "Tagh culaidh-choimheach on leabhar-lann"
+msgstr "Tagh aodach on leabhar-lann"
 
 msgid "Choose sound from library"
 msgstr "Tagh fuaim on leabhar-lann"
 
 msgid "Choose sprite from library"
-msgstr "Tagh sprite on leabhar-lann"
+msgstr "Tagh sprìd on leabhar-lann"
 
 msgid "Circle"
 msgstr "Cearcall"
@@ -732,9 +733,8 @@ msgstr "Clàirneid"
 msgid "Claves"
 msgstr "Claves"
 
-#, fuzzy
 msgid "clean up"
-msgstr "sgioblachadh"
+msgstr "sgioblaich"
 
 msgid "Clear"
 msgstr "Falamhaich"
@@ -743,13 +743,13 @@ msgid "clear senders/receivers"
 msgstr "falamhaich na seòladairean/faightearan"
 
 msgid "Click \"Save now\" to try again or \"Download\" to save"
-msgstr "Briog air  airson feuchainn ris a-rithist  no airson sàbhaladh"
+msgstr "Briog air  gus feuchainn ris a-rithist  no gus a shàbhaladh"
 
 msgid "Close"
 msgstr "Dùin"
 
 msgid "Closed Hi-Hat"
-msgstr ""
+msgstr "Hi-hat dùinte"
 
 msgid "Cloud"
 msgstr "Neul"
@@ -758,13 +758,13 @@ msgid "Cloud data"
 msgstr "Dàta san neul"
 
 msgid "Cloud variable (stored on server)"
-msgstr ""
+msgstr "Caochladair san neul (ga stòradh air an fhrithealaiche)"
 
 msgid "color"
-msgstr "dath"
+msgstr "datha"
 
 msgid "Color a shape"
-msgstr "Cuir dath air cruth"
+msgstr "Lìon cruth le dath"
 
 msgid "Conga"
 msgstr "Conga"
@@ -773,49 +773,49 @@ msgid "Connecting to Cloud data server..."
 msgstr "A' ceangal ri frithealaiche dàta an neòil..."
 
 msgid "Convert to bitmap"
-msgstr "Iompaich 'na bitmap"
+msgstr "Iompaich na bitmap"
 
 msgid "Convert to vector"
-msgstr "Iompaich 'na vector"
+msgstr "Iompaich na vector"
 
 msgid "Converting mp3..."
-msgstr "'Ga iompachadh an mp3..."
+msgstr "Ga iompachadh an mp3..."
 
 msgid "copy"
-msgstr "lethbhreac"
+msgstr "dèan lethbhreac"
 
 msgid "Copying..."
 msgstr "A' dèanamh lethbhreac dheth..."
 
 msgid "cos"
-msgstr "cos"
+msgstr "co-sìneas"
 
 msgid "Costume"
-msgstr "Culaidh-choimheach"
+msgstr "Aodach"
 
 msgid "Costume Library"
-msgstr "Leabhar-lann nan culaidhean-coimheach"
+msgstr "Leabhar-lann nan aodach"
 
 msgid "costume name"
-msgstr "ainm na culaidh-choimheach"
+msgstr "ainm an aodaich"
 
 msgid "costume1"
-msgstr "culaidh-choimheach1"
+msgstr "aodach1"
 
 msgid "costume2"
-msgstr "culaidh-choimheach2"
+msgstr "aodach2"
 
 msgid "Costumes"
-msgstr "Culaidhean-coimheach"
+msgstr "Aodaich"
 
 msgid "Costumes > 1"
-msgstr "Culaidh-choimheach > 1"
+msgstr "Aodaich > 1"
 
 msgid "Costumes:"
-msgstr "Culaidhean-coimheach:"
+msgstr "Aodaich:"
 
 msgid "Could not retrieve new application from server."
-msgstr ""
+msgstr "Cha b' urrainn dhuinn an aplacaid ùr fhaighinn on fhrithealaiche."
 
 msgid "Cowbell"
 msgstr "Clag bà"
@@ -824,7 +824,7 @@ msgid "Crash Cymbal"
 msgstr ""
 
 msgid "Creating..."
-msgstr "'Ga chruthachadh..."
+msgstr "Ga chruthachadh..."
 
 msgid "Currently, only numbers can be stored in Cloud variables."
 msgstr ""
@@ -841,7 +841,7 @@ msgid "date"
 msgstr "ceann-là"
 
 msgid "day of week"
-msgstr "làithean na seachdaine"
+msgstr "latha na seachdaine"
 
 msgid "delete"
 msgstr "sguab às"
@@ -856,10 +856,10 @@ msgid "direction:"
 msgstr "comhair:"
 
 msgid "don't rotate"
-msgstr "na cuairtich"
+msgstr "gun chuairteachadh"
 
 msgid "Don't save"
-msgstr ""
+msgstr "Na sàbhail"
 
 msgid "down"
 msgstr "sìos"
@@ -874,7 +874,7 @@ msgid "Download to your computer"
 msgstr "Luchdaich a-nuas dhan choimpiutair agad"
 
 msgid "Downloading new version"
-msgstr ""
+msgstr "A' luchdadh a-nuas tionndadh ùr"
 
 msgid "duplicate"
 msgstr "dùblaich"
@@ -886,7 +886,7 @@ msgid "e ^"
 msgstr "e ^"
 
 msgid "edge"
-msgstr "oir"
+msgstr "an oir"
 
 msgid "Edit"
 msgstr "Deasaich"
@@ -907,732 +907,734 @@ msgid "Electric Piano"
 msgstr "Piàna dealain"
 
 msgid "Electronic"
-msgstr ""
+msgstr "Leactronach"
 
 msgid "Ellipse"
-msgstr ""
+msgstr "Eileaps"
 
 msgid "empty"
-msgstr ""
+msgstr "falamh"
 
 msgid "Erase"
-msgstr ""
+msgstr "Suath"
 
 msgid "Erase all"
-msgstr ""
+msgstr "Suath na h-uile"
 
 msgid "Eraser width"
-msgstr ""
+msgstr "Leud an t-suathain"
 
 msgid "Error!"
-msgstr ""
+msgstr "Mearachd!"
 
 msgid "everything"
-msgstr ""
+msgstr "a h-uile rud"
 
 msgid "export"
-msgstr ""
+msgstr "às-phortaich"
 
 msgid "Extension Library"
-msgstr ""
+msgstr "Leabhar-lann nan leudachan"
 
 msgid "Extension Problem"
-msgstr ""
+msgstr "Duilgheadas le leudachan"
 
 msgid "fade in"
-msgstr ""
+msgstr "crìon a-steach"
 
 msgid "fade out"
-msgstr ""
+msgstr "crìon a-mach"
 
 msgid "false"
-msgstr ""
+msgstr "fallsa"
 
 msgid "Fantasy"
-msgstr ""
+msgstr "Fantastachd"
 
 msgid "Features"
-msgstr ""
+msgstr "Feartan"
 
 msgid "File"
-msgstr ""
+msgstr "Faidhle"
 
 msgid "Fill with color"
-msgstr ""
+msgstr "Lìon le dath"
 
 msgid "fisheye"
-msgstr ""
+msgstr "sùil èisg"
 
 msgid "Flip left-right"
-msgstr ""
+msgstr "Dèan flip clì is deas"
 
 msgid "Flip up-down"
-msgstr ""
+msgstr "Dèan flip suas is sìos"
 
 msgid "floor"
-msgstr ""
+msgstr "cuairteachadh sìos"
 
 msgid "Flute"
-msgstr ""
+msgstr "Duiseal"
 
 msgid "Flying"
-msgstr ""
+msgstr "Sgiathadh"
 
 msgid "Font:"
-msgstr ""
+msgstr "Cruth-clò:"
 
 msgid "For all sprites"
-msgstr ""
+msgstr "Airson a h-uile sprìd"
 
 msgid "For this sprite only"
-msgstr ""
+msgstr "Airson na sprìde seo a-mhàin"
 
 msgid "Forward a layer"
-msgstr ""
+msgstr "Breath gun bheulaibh"
 
 msgid "ghost"
-msgstr ""
+msgstr "taibhse"
 
 msgid "Go to My Stuff"
-msgstr ""
+msgstr "Rach dhan stuth agam"
 
 msgid "Group"
-msgstr ""
+msgstr "Buidhnich"
 
 msgid "Grow"
-msgstr ""
+msgstr "Fàs"
 
 msgid "Guiro"
-msgstr ""
+msgstr "Guiro"
 
 msgid "Guitar"
-msgstr ""
+msgstr "Giotàr"
 
 msgid "Hand Clap"
-msgstr ""
+msgstr "Bualadh basan"
 
 msgid "Hardware"
-msgstr ""
+msgstr "Bathar-cruaidh"
 
 msgid "help"
-msgstr ""
+msgstr "cobhair"
 
 msgid "Hello!"
-msgstr ""
+msgstr "Shin thu!"
 
 msgid "Hmm..."
 msgstr ""
 
-#, fuzzy
 msgid "hello"
-msgstr "Cello"
+msgstr "shin thu"
 
 msgid "High C"
-msgstr ""
+msgstr "C àrd"
 
 msgid "Holiday"
-msgstr ""
+msgstr "Latha-fèille"
 
 msgid "hour"
-msgstr ""
+msgstr "uair"
 
 msgid "Human"
-msgstr ""
+msgstr "Daoine"
 
 msgid "import"
-msgstr ""
+msgstr "ion-phortaich"
 
 msgid "Import"
-msgstr ""
+msgstr "Ion-phortaich"
 
 msgid "Importing sound..."
-msgstr ""
+msgstr "Ag ion-phortadh fuaim..."
 
 msgid "Indoors"
-msgstr ""
+msgstr "Taobh a-staigh"
 
 msgid "Installing..."
-msgstr ""
+msgstr "Ga stàladh..."
 
 msgid "Instruments"
-msgstr ""
+msgstr "Innealan-ciùil"
 
 msgid "large readout"
-msgstr ""
+msgstr "sealladh mòr"
 
 msgid "last"
-msgstr ""
+msgstr "am fear mu dheireadh"
 
 msgid "left"
-msgstr ""
+msgstr "gu clì"
 
 msgid "left arrow"
-msgstr ""
+msgstr "saighead gu clì"
 
 msgid "left-right"
-msgstr ""
+msgstr "clì is deas"
 
 msgid "length"
-msgstr ""
+msgstr "faide"
 
 msgid "Letters"
-msgstr ""
+msgstr "Litrichean"
 
 msgid "Library"
-msgstr ""
+msgstr "Leabhar-lann"
 
 msgid "light"
-msgstr ""
+msgstr "an solas"
 
 msgid "lights"
-msgstr ""
+msgstr "na solasan"
 
 msgid "limit reached"
-msgstr ""
+msgstr "crìoch air a ruigsinn"
 
 msgid "Line"
-msgstr ""
+msgstr "Loidhne"
 
 msgid "Line width"
-msgstr ""
+msgstr "Leud na loidhne"
 
 msgid "list"
-msgstr ""
+msgstr "liosta"
 
 msgid "List name"
-msgstr ""
+msgstr "Ainm na liosta"
 
 msgid "ln"
-msgstr ""
+msgstr "log-àireamh nàdarra"
 
 msgid "Loading project..."
-msgstr ""
+msgstr "A' luchdadh a' phròiseict..."
 
 msgid "log"
-msgstr ""
+msgstr "log-àireamh"
 
 msgid "louder"
-msgstr ""
+msgstr "nas àirde"
 
 msgid "Low C"
-msgstr ""
+msgstr "C ìosal"
 
 msgid "Make a Block"
-msgstr ""
+msgstr "Cruthaich bloca"
 
 msgid "Make a List"
-msgstr ""
+msgstr "Cruthaich liosta"
 
 msgid "Make a Variable"
-msgstr ""
+msgstr "Cruthaich caochladair"
 
 msgid "Marimba"
 msgstr ""
 
 msgid "Max"
-msgstr ""
+msgstr "As motha"
 
 msgid "meow"
-msgstr ""
+msgstr "miamh"
 
 msgid "Message Name"
-msgstr ""
+msgstr "Ainm na teachdaireachd"
 
 msgid "message1"
-msgstr ""
+msgstr "teachdaireachd1"
 
 msgid "Microphone volume:"
-msgstr ""
+msgstr "Àirde a' mhicreofon:"
 
 msgid "Middle C"
-msgstr ""
+msgstr "C meadhanach"
 
 msgid "Min"
-msgstr ""
+msgstr "As lugha"
 
 msgid "minute"
-msgstr ""
+msgstr "mionaid"
 
 msgid "month"
-msgstr ""
+msgstr "mìos"
 
 msgid "mosaic"
-msgstr ""
+msgstr "mosàig"
 
 msgid "motion"
-msgstr ""
+msgstr "gluasad"
 
 msgid "motor"
-msgstr ""
+msgstr "motar"
 
 msgid "motor A"
-msgstr ""
+msgstr "motar A"
 
 msgid "motor B"
-msgstr ""
+msgstr "motar B"
 
 msgid "mouse-pointer"
-msgstr ""
+msgstr "tomhaire na luchaige"
 
 msgid "Multiple"
-msgstr ""
+msgstr "Iomadach"
 
 msgid "Music and Dance"
-msgstr ""
+msgstr "Ceòl is dannsa"
 
 msgid "Music Box"
-msgstr ""
+msgstr "Bogsa ciùil"
 
 msgid "Music Loops"
-msgstr ""
+msgstr "Lùban ciùil"
 
 msgid "My Stuff"
-msgstr ""
+msgstr "An stuth agam"
 
 msgid "myself"
-msgstr ""
+msgstr "dhut fhèin"
 
 msgid "Nature"
-msgstr ""
+msgstr "An nàdar"
 
 msgid "New"
-msgstr ""
+msgstr "Ùr"
 
 msgid "New backdrop from camera"
-msgstr ""
+msgstr "Cùlaibh ùr o chamara"
 
 msgid "New backdrop:"
-msgstr ""
+msgstr "Cùlaibh ùr:"
 
 msgid "New Block"
-msgstr ""
+msgstr "Bloca ùr"
 
 msgid "New costume from camera"
-msgstr ""
+msgstr "Aodach ùr o chamara"
 
 msgid "New costume:"
-msgstr ""
+msgstr "Aodach ùr:"
 
 msgid "New List"
-msgstr ""
+msgstr "Liosta ùr"
 
 msgid "New Message"
-msgstr ""
+msgstr "Teachdaireachd ùr"
 
 msgid "new message..."
-msgstr ""
+msgstr "teachdaireachd ùr..."
 
 msgid "New name"
-msgstr ""
+msgstr "Ainm ùr"
 
 msgid "New sound:"
-msgstr ""
+msgstr "Fuaim ùr:"
 
 msgid "New sprite from camera"
-msgstr ""
+msgstr "Sprìd ùr o chamara"
 
 msgid "New sprite:"
-msgstr ""
+msgstr "Sprìd ùr:"
 
 msgid "New Variable"
-msgstr ""
+msgstr "Caochladair ùr"
 
 msgid "No motion blocks"
-msgstr ""
+msgstr "Chan eil bloca gluasaid ann"
 
 msgid "normal readout"
-msgstr ""
+msgstr "sealladh àbhaisteach"
 
 msgid "not ="
-msgstr ""
+msgstr "nach ionnann"
 
 msgid "Not saved; network or server problem."
 msgstr ""
+"Cha deach a shàbhaladh; duilgheadas leis an lìonra no an fhrithealaiche."
 
 msgid "Not saved; project did not load."
-msgstr ""
+msgstr "Cha deach a shàbhaladh; cha deach am pròiseact a luchdadh."
 
 msgid "of"
-msgstr ""
+msgstr "aig"
 
 msgid "off"
-msgstr ""
+msgstr "dheth"
 
 msgid "Offline Editor"
-msgstr ""
+msgstr "Deasaiche far loidhne"
 
 msgid "OK"
-msgstr ""
+msgstr "Ceart ma-thà"
 
 msgid "on"
-msgstr ""
+msgstr "air"
 
 msgid "on-flipped"
-msgstr ""
+msgstr "air, le fliop"
 
 msgid "Open"
-msgstr ""
+msgstr "Fosgail"
 
 msgid "Open Cuica"
-msgstr ""
+msgstr "Fosgail Cuica"
 
 msgid "Open Hi-Hat"
-msgstr ""
+msgstr "Hi-hat fosgailte"
 
 msgid "Options"
-msgstr ""
+msgstr "Roghainnean"
 
 msgid "Organ"
-msgstr ""
+msgstr "Organ"
 
 msgid "Other"
-msgstr ""
+msgstr "Eile"
 
 msgid "other scripts in sprite"
-msgstr ""
+msgstr "sgriobtaichean eile na sprìd"
 
 msgid "other scripts in stage"
-msgstr ""
+msgstr "sgriobtaichean eile air an àrd-ùrlar"
 
 msgid "Outdoors"
-msgstr ""
+msgstr "Taobh a-muigh"
 
 msgid "Paint new backdrop"
-msgstr ""
+msgstr "Peant cùlaibh ùr"
 
 msgid "Paint new costume"
-msgstr ""
+msgstr "Peant aodach ùr"
 
 msgid "Paint new sprite"
-msgstr ""
+msgstr "Peant sprìd ùr"
 
 msgid "Password"
-msgstr ""
+msgstr "Facal-faire"
 
 msgid "Password is required"
-msgstr ""
+msgstr "Tha facal-faire a dhìth"
 
 msgid "paste"
-msgstr ""
+msgstr "cuir ann"
 
 msgid "Pencil"
-msgstr ""
+msgstr "Peansail"
 
 msgid "People"
-msgstr ""
+msgstr "Daoine"
 
 msgid "Percussion"
 msgstr ""
 
 msgid "photo1"
-msgstr ""
+msgstr "dealbh1"
 
 msgid "Piano"
-msgstr ""
+msgstr "Piàno"
 
 msgid "Pick up color"
-msgstr ""
+msgstr "Roghnaich dath"
 
 msgid "pixelate"
-msgstr ""
+msgstr "phiogsailean"
 
 msgid "Pizzicato"
-msgstr ""
+msgstr "Pizzicato"
 
 msgid "pop"
-msgstr ""
+msgstr "cnap"
 
 msgid "previous backdrop"
-msgstr ""
+msgstr "chùlaibh roimhe"
 
 msgid "Profile"
-msgstr ""
+msgstr "Pròifil"
 
 msgid "Project did not load."
-msgstr ""
+msgstr "Cha deach am pròiseact a luchdadh."
 
 msgid "Project not saved!"
-msgstr ""
+msgstr "Cha deach am pròiseact a shàbhaladh!"
 
 msgid "Project name"
-msgstr ""
+msgstr "Ainm a' phròiseict"
 
 msgid "Project name is required"
-msgstr ""
+msgstr "Tha ainm a' phròiseict a dhìth"
 
 msgid "random"
-msgstr ""
+msgstr "tuaireamach"
 
 msgid "Record"
-msgstr ""
+msgstr "Clàraich"
 
 msgid "Record new sound"
-msgstr ""
+msgstr "Clàraich fuaim ùr"
 
 msgid "record..."
-msgstr ""
+msgstr "clàraich..."
 
 msgid "recording1"
-msgstr ""
+msgstr "clàradh1"
 
 msgid "Rectangle"
-msgstr ""
+msgstr "Ceart-cheàrnach"
 
 msgid "Redo"
-msgstr ""
+msgstr "Ath-dhèan"
 
 msgid "redo"
-msgstr ""
+msgstr "ath-dhèan"
 
 msgid "Remix"
-msgstr ""
+msgstr "Ath-mheasgaich"
 
 msgid "Remixing..."
-msgstr ""
+msgstr "'Ga ath-mheasgachadh..."
 
 msgid "Remove extension blocks"
-msgstr ""
+msgstr "Thoir blocaichean an leudachain air falbh"
 
 msgid "Rename"
-msgstr ""
+msgstr "Thoir ainm ùr air"
 
 msgid "rename variable"
-msgstr ""
+msgstr "thoir ainm ùr air caochladair"
 
 msgid "Replace existing project"
-msgstr ""
+msgstr "Cuir an àite pròiseict eile"
 
 msgid "requires sign in"
-msgstr ""
+msgstr "tha e ag iarraidh clàradh a-steach"
 
 msgid "Reshape"
-msgstr ""
+msgstr "Atharraich cruth"
 
 msgid "resistance-A"
-msgstr ""
+msgstr "bacadh-dealain A"
 
 msgid "resistance-B"
-msgstr ""
+msgstr "bacadh-dealain B"
 
 msgid "resistance-C"
-msgstr ""
+msgstr "bacadh-dealain C"
 
 msgid "resistance-D"
-msgstr ""
+msgstr "bacadh-dealain D"
 
 msgid "reverse"
-msgstr ""
+msgstr "contrarra"
 
 msgid "Revert"
-msgstr ""
+msgstr "Till"
 
 msgid "Reverting..."
-msgstr ""
+msgstr "Ga thilleadh..."
 
 msgid "right"
-msgstr ""
+msgstr "gu deas"
 
 msgid "right arrow"
-msgstr ""
+msgstr "saighead gu deas"
 
 msgid "rotation style:"
-msgstr ""
+msgstr "stoidhle a' chuairteachaidh:"
 
 msgid "Run without screen refresh"
-msgstr ""
+msgstr "Ruith gun ath-nuadhachadh na sgrìn"
 
 msgid "Save"
-msgstr ""
+msgstr "Sàbhail"
 
 msgid "Save a copy of this project and add your own ideas."
 msgstr ""
+"Sàbhail lethbhreac dhen phròiseact seo agus cuir na beachdan agad fhèin ris."
 
 msgid "Save as"
-msgstr ""
+msgstr "Sàbhail mar"
 
 msgid "Save as a copy"
-msgstr ""
+msgstr "Sàbhail mar lethbhreac"
 
 msgid "Save now"
-msgstr ""
+msgstr "Sàbhail an-dràsta"
 
 msgid "Save project?"
-msgstr ""
+msgstr "A bheil thu airson am pròiseact a shàbhaladh?"
 
 msgid "save to local file"
-msgstr ""
+msgstr "sàbhail gu faidhle ionadail"
 
 msgid "Saved"
-msgstr ""
+msgstr "Air a shàbhaladh"
 
 msgid "Saving changes..."
-msgstr ""
+msgstr "A' sàbhaladh nan atharraichean..."
 
 msgid "Saving..."
-msgstr ""
+msgstr "Ga shàbhaladh..."
 
 msgid "Saxophone"
-msgstr ""
+msgstr "Sacsafon"
 
 msgid "Scratch Updater"
-msgstr ""
+msgstr "Ùraichear Scratch"
 
 msgid "Scratch 2.0 Offline Editor"
-msgstr ""
+msgstr "Deasaiche far loidhne Scratch 2.0"
 
 msgid "Script"
-msgstr ""
+msgstr "Sgriobt"
 
 msgid "Scripts"
-msgstr ""
+msgstr "Sgriobtaichean"
 
 msgid "Scripts:"
-msgstr ""
+msgstr "Sgriobtaichean:"
 
 msgid "second"
-msgstr ""
+msgstr "diog"
 
 msgid "See project page"
-msgstr ""
+msgstr "Seall duilleag a' phròiseict"
 
 msgid ""
 "See the Tips window (on the right) to install the plug-in and get the "
 "extension working."
 msgstr ""
+"Cleachd uinneag nan oidheaman (taobh deas) gus am plugan a stàladh ach an "
+"obraich an leudachan."
 
 msgid "Select"
-msgstr ""
+msgstr "Tagh"
 
 msgid "select all"
-msgstr ""
+msgstr "tagh na h-uile"
 
 msgid "Select and duplicate"
-msgstr ""
+msgstr "Tagh is dùblaich"
 
 msgid "Send to back"
-msgstr ""
+msgstr "Cuir gun fhìor-chùlaibh"
 
 msgid "Set Costume Center"
-msgstr ""
+msgstr "Suidhich ionad nan aodach"
 
 msgid "Set costume center"
-msgstr ""
+msgstr "Suidhich ionad nan aodach"
 
 msgid "set slider min and max"
-msgstr ""
+msgstr "suidhich an luach as motha 's as lugha aig sleamhnachan"
 
 msgid "Share"
-msgstr ""
+msgstr "Co-roinn"
 
 msgid "Share to website"
-msgstr ""
+msgstr "Co-roinn air an làrach-lìn"
 
 msgid "Share to Scratch website"
-msgstr ""
+msgstr "Co-roinn air làrach-lìn Scratch"
 
 msgid "shared"
-msgstr ""
+msgstr "air a cho-roinneadh"
 
 msgid "Shift:"
-msgstr ""
+msgstr "Shift:"
 
 msgid "show receivers"
-msgstr ""
+msgstr "seall na faightearan"
 
 msgid "show senders"
-msgstr ""
+msgstr "seall na seòladairean"
 
 msgid "show:"
-msgstr ""
+msgstr "seall:"
 
 msgid "Shrink"
-msgstr ""
+msgstr "Crùb"
 
 msgid "Side Stick"
 msgstr ""
 
 msgid "Sign in"
-msgstr ""
+msgstr "Clàraich a-steach"
 
 msgid "Sign in to save"
-msgstr ""
+msgstr "Clàraich a-steach gus a shàbhaladh"
 
 msgid "Sign out"
-msgstr ""
+msgstr "Clàraich a-mach"
 
 msgid "silence"
-msgstr ""
+msgstr "tost"
 
 # 75%
-#, fuzzy
 msgid "sin"
-msgstr "asin"
+msgstr "sìneas"
 
 msgid "slider"
-msgstr ""
+msgstr "an sleamhnachan"
 
 msgid "Slider Range"
-msgstr ""
+msgstr "Rainse an t-sleamhnachain"
 
 msgid "Small stage layout"
-msgstr ""
+msgstr "Co-dhealbhachd àrd-ùrlair bhig"
 
 msgid "Smooth"
-msgstr ""
+msgstr "Rèidh"
 
 msgid "Snare Drum"
-msgstr ""
+msgstr "Druma-tormain"
 
 msgid "softer"
-msgstr ""
+msgstr "nas ìsle"
 
 msgid "sound"
-msgstr ""
+msgstr "an fhuaim"
 
 msgid "Sound Library"
-msgstr ""
+msgstr "Leabhar-lann nam fuaimean"
 
 msgid "Sounds"
-msgstr ""
+msgstr "Fuaimean"
 
 msgid "Space"
-msgstr ""
+msgstr "Fànas"
 
 msgid "space"
-msgstr ""
+msgstr "spàs"
 
 msgid "Sports"
-msgstr ""
+msgstr "Spòrs"
 
 msgid "Sprite"
-msgstr ""
+msgstr "Sprìd"
 
 msgid "Sprite Library"
-msgstr ""
+msgstr "Leabhar-lann nan sprìd"
 
 msgid "Sprite1"
-msgstr ""
+msgstr "Sprìd1"
 
 msgid "Sprites"
-msgstr ""
+msgstr "Sprìdean"
 
 msgid "sqrt"
-msgstr ""
+msgstr "freumh ceàrnagach"
 
 msgid "Square"
-msgstr ""
+msgstr "Ceàrnach"
 
 msgid "Stage"
-msgstr ""
+msgstr "Àrd-ùrlar"
 
 msgid "Stage selected:"
-msgstr ""
+msgstr "Àrd-ùrlar air a thaghadh:"
 
 msgid "Steel Drum"
-msgstr ""
+msgstr "Druma-stàillinn"
 
 msgid "stored on server"
-msgstr ""
+msgstr "air a stòradh air an fhrithealaiche"
 
 msgid "Synth Lead"
 msgstr ""
@@ -1641,164 +1643,173 @@ msgid "Synth Pad"
 msgstr ""
 
 msgid "Tambourine"
-msgstr ""
+msgstr "Tiompan"
 
 # 75%
-#, fuzzy
 msgid "tan"
-msgstr "atan"
+msgstr "beantan"
 
 msgid "text"
-msgstr ""
+msgstr "teacsa"
 
 msgid "Text"
-msgstr ""
+msgstr "Teacsa"
 
 msgid "that way"
-msgstr ""
+msgstr "an taoibh sin"
 
 msgid "The name is already in use."
-msgstr ""
+msgstr "Tha an t-ainm seo ga chleachdadh mar-thà."
 
 msgid ""
 "The project failed to load and Scratch Team has been notified. Press OK to "
 "leave this page."
 msgstr ""
+"Dh'fhàillig le luchdadh a' phròiseict agus chaidh fios a chur gu sgioba "
+"Scratch. Briog air \"Ceart ma-thà\" gus an duilleag seo fhàgail."
 
 msgid "Theme"
-msgstr ""
+msgstr "Ùrlar"
 
 msgid "Things"
-msgstr ""
+msgstr "Rudan"
 
 msgid "thing"
-msgstr ""
+msgstr "rud"
 
 msgid "This is the current version."
-msgstr ""
+msgstr "Seo an tionndadh làithreach."
 
 msgid ""
 "This project can detect who is using it, through the “username” block. To "
 "hide your identity, sign out before using the project."
 msgstr ""
+"'S urrainn dhan phròiseact seo mothachadh air cò tha ga chleachdadh le bloca "
+"\"ainm-cleachdaiche\". Ma tha thu airson falach cò thusa, clàraich a-mach "
+"mus cleachd thu am pròiseact seo."
 
 msgid ""
 "This project uses Cloud data ‒ a feature that is available only to signed in "
 "users."
 msgstr ""
+"Cleachdaidh am pròiseact seo dàta san neul ‒ seo feart nach eil ri làimh ach "
+"do chleachdaichean a chlàraich a-steach."
 
 msgid "this script"
-msgstr ""
+msgstr "an sgriobt seo"
 
 msgid "this sprite"
-msgstr ""
+msgstr "an sprìd seo"
 
 msgid "this way"
-msgstr ""
+msgstr "an taoibh seo"
 
 msgid "Throw away all changes since opening this project?"
 msgstr ""
+"A bheil thu airson gach atharrachadh a rinn thu às dèidh am pròiseact "
+"fhosgladh a shadail a-mach?"
 
 msgid "Tips"
-msgstr ""
+msgstr "Oidheaman"
 
 msgid "To delete a block definition, first remove all uses of the block."
 msgstr ""
+"Gus mìneachadh bloca a sguabadh às, thoir air falbh gach cleachdadh a' "
+"bhloca an toiseach."
 
 msgid "Transportation"
-msgstr ""
+msgstr "Còmhdhail"
 
 msgid "Triangle"
-msgstr ""
+msgstr "Triantan"
 
 msgid "Trombone"
-msgstr ""
+msgstr "Trompan"
 
 msgid "true"
-msgstr ""
+msgstr "fìor"
 
 msgid "Turbo mode"
-msgstr ""
+msgstr "Modh turbo"
 
 msgid "Turbo Mode"
-msgstr ""
+msgstr "Modh turbo"
 
 msgid "Type"
-msgstr ""
+msgstr "Seòrsa"
 
 # 75%
-#, fuzzy
 msgid "Undelete"
-msgstr "sguab às"
+msgstr "Neo-dhèan an sguabadh às"
 
 msgid "Underwater"
-msgstr ""
+msgstr "Fon uisge"
 
 msgid "undo"
-msgstr ""
+msgstr "neo-dhèan"
 
 msgid "Undo"
-msgstr ""
+msgstr "Neo-dhèan"
 
 msgid "Undo Revert"
-msgstr ""
+msgstr "Neo-dhèan an tilleadh"
 
 msgid "Ungroup"
-msgstr ""
+msgstr "Sgaoil am buidheann"
 
 msgid "unshared"
-msgstr ""
+msgstr "gun cho-roinneadh"
 
 msgid "up"
-msgstr ""
+msgstr "suas"
 
 msgid "up arrow"
-msgstr ""
+msgstr "saighead suas"
 
 msgid "Update failed"
-msgstr ""
+msgstr "Dh'fhàillig leis an ùrachadh"
 
 msgid "Update not needed"
-msgstr ""
+msgstr "Chan eil feum air ùrachadh"
 
 msgid "Update now"
-msgstr ""
+msgstr "Ùraich an-dràsta"
 
 msgid "Upload backdrop from file"
-msgstr ""
+msgstr "Luchdaich suas cùlaibh o fhaidhle"
 
 msgid "Upload costume from file"
-msgstr ""
+msgstr "Luchdaich suas aodach o fhaidhle"
 
 msgid "Upload from your computer"
-msgstr ""
+msgstr "Luchdaich suas on choimpiutair agad"
 
 msgid "Upload sound from file"
-msgstr ""
+msgstr "Luchdaich suas fuaim o fhaidhle"
 
 msgid "Upload sprite from file"
-msgstr ""
+msgstr "Luchdaich suas sprìd o fhaidhle"
 
 msgid "Uploading image..."
-msgstr ""
+msgstr "A' luchdadh suas dealbh..."
 
 msgid "Uploading sound..."
-msgstr ""
+msgstr "A' luchdadh suas fuaim..."
 
 msgid "Uploading sprite..."
-msgstr ""
+msgstr "A' luchdadh suas sprìd..."
 
 msgid "variable"
-msgstr ""
+msgstr "caochladair"
 
 msgid "Variable name"
-msgstr ""
+msgstr "Ainm a' chaochladair"
 
 msgid "Vector"
-msgstr ""
+msgstr "Vector"
 
 msgid "Vector Mode"
-msgstr ""
+msgstr "Modh vector"
 
 msgid "Vibraphone"
 msgstr ""
@@ -1807,54 +1818,56 @@ msgid "Vibraslap"
 msgstr ""
 
 msgid "video direction"
-msgstr ""
+msgstr "comhair a' video"
 
 msgid "video motion"
-msgstr ""
+msgstr "gluasad a' video"
 
 msgid "Video on:"
-msgstr ""
+msgstr "Video air:"
 
 msgid "Vocals"
-msgstr ""
+msgstr "Seinn"
 
 msgid "Walking"
-msgstr ""
+msgstr "Coiseachd"
 
 msgid "Want to save? Click remix"
-msgstr ""
+msgstr "A bheil thu airson a shàbhaladh? Briog air \"ath-mheasgaich\""
 
 msgid "Which column do you want to import"
-msgstr ""
+msgstr "An colbh a tha thu airson ion-phortadh"
 
 msgid "What's your name?"
-msgstr ""
+msgstr "Dè an t-ainm a th' ort?"
 
 msgid "whirl"
-msgstr ""
+msgstr "cuairteige"
 
 msgid "Wood Block"
-msgstr ""
+msgstr "Sgonn"
 
 msgid "Wooden Flute"
-msgstr ""
+msgstr "Duiseal fiodha"
 
 msgid "world"
-msgstr ""
+msgstr "a shaoghail"
 
 msgid "year"
-msgstr ""
+msgstr "bliadhna"
 
 msgid ""
 "You cannot edit cloud data in someone else's project.<br>Any change that you "
 "make in the editor will be temporary and not persistent."
 msgstr ""
+"Chan urrainn dhut dàta neòil ann am pròiseact daoine eile a dheasachadh."
+"<br>Cha mhair atharrachadh sam bith a nì thu san deasaiche."
 
 msgid "Your Scratch name"
-msgstr ""
+msgstr "D' ainm Scratch"
 
 msgid "Your Scratch name is required"
-msgstr ""
+msgstr "Tha feum air d' ainm Scratch"
 
 msgid ""
 "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
@@ -1870,10 +1883,10 @@ msgid "Click  to try again or  to save"
 msgstr "Briog air  airson feuchainn ris a-rithist  no airson sàbhaladh"
 
 msgid "Eraser width:"
-msgstr ""
+msgstr "Leud an t-suathain:"
 
 msgid "Line width:"
-msgstr ""
+msgstr "Leud na loidhne:"
 
 # Offline editor only
 msgid "All Tips"

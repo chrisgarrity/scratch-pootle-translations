@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-03-27 15:38+0000\n"
-"Last-Translator: LiFaytheGoblin <LiFaytheGoblin@googlemail.com>\n"
+"PO-Revision-Date: 2015-04-02 20:41+0000\n"
+"Last-Translator: Frodewin <wilfried.elmenreich@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1427470713.000000\n"
+"X-POOTLE-MTIME: 1428007266.000000\n"
 
 msgid "10 ^"
 msgstr "10^"
@@ -981,7 +981,7 @@ msgid "Replace existing project"
 msgstr "Existierendes Projekt ersetzen"
 
 msgid "requires sign in"
-msgstr "Hierzu musst Du angemeldet sein."
+msgstr "Hierzu musst du angemeldet sein."
 
 msgid "Reshape"
 msgstr "Verformen"
@@ -1513,23 +1513,20 @@ msgstr ""
 "Webseite verfügbar."
 
 # Offline editor only
-#, fuzzy
 msgid "Could not retrieve update location from server."
-msgstr "Neue Anwendung konnte nicht vom Server abgerufen werden."
+msgstr "Die Update-Location konnte nicht vom Server abgerufen werden."
 
 # Offline editor only
-#, fuzzy
 msgid "Could not retrieve version information from server."
-msgstr "Neue Anwendung konnte nicht vom Server abgerufen werden."
+msgstr "Es konnten keine Versions-Informationen vom Server abgerufen werden."
 
 # Offline editor only
 msgid "Could not write file:"
-msgstr ""
+msgstr "Datei kann nicht geschrieben werden:"
 
 # Offline editor only
-#, fuzzy
 msgid "Downloading new version..."
-msgstr "Eine neue Version wird heruntergeladen"
+msgstr "Eine neue Version wird heruntergeladen..."
 
 # Offline editor only
 msgid "Error saving project"
@@ -1537,7 +1534,7 @@ msgstr "Fehler beim Speichern des Projekts"
 
 # Offline editor only
 msgid "Force help file update"
-msgstr ""
+msgstr "Update der Hilfedatei erzwingen"
 
 # Offline editor only
 msgid "Import experimental HTTP extension"
@@ -1545,7 +1542,7 @@ msgstr "Experimentelle HTTP Erweiterung importieren"
 
 # Offline editor only
 msgid "Loading help files..."
-msgstr ""
+msgstr "Hilfedateien werden geladen..."
 
 # Offline editor only
 msgid "Manual Update Available"
@@ -1557,46 +1554,43 @@ msgstr "Projekt öffnen"
 
 # Offline editor only
 msgid "Please visit the download page to install it."
-msgstr ""
+msgstr "Bitte besuche die Download-Seite um es zu installieren."
 
 # Offline editor only
 msgid "Quit"
-msgstr ""
+msgstr "Beenden"
 
 # Offline editor only
-#, fuzzy
 msgid "Replace existing project?"
-msgstr "Existierendes Projekt ersetzen"
+msgstr "Existierendes Projekt ersetzen?"
 
 # Offline editor only
 msgid "Running pre-release"
-msgstr ""
+msgstr "Vorabversion ausführen"
 
 # Offline editor only
-#, fuzzy
 msgid "Save Project"
-msgstr "Projekt speichern?"
+msgstr "Projekt speichern"
 
 # Offline editor only
 msgid "Server error:"
-msgstr ""
+msgstr "Server-Fehler:"
 
 # Offline editor only
-#, fuzzy
 msgid "Share to Scratch Website"
 msgstr "Auf der Scratch-Webseite veröffentlichen"
 
 # Offline editor only
 msgid "Success"
-msgstr ""
+msgstr "Erfolg"
 
 # Offline editor only
 msgid "This version is newer than the current release version."
-msgstr ""
+msgstr "Diese Version ist neuer als die aktuell veröffentlichte Version."
 
 # Offline editor only
 msgid "Update check failed"
-msgstr ""
+msgstr "Aktualisierungsprüfung fehlgeschlagen"
 
 # Offline editor only
 msgid "Upload failed"
@@ -1604,11 +1598,11 @@ msgstr "Das Hochladen ist fehlgeschlagen"
 
 # Offline editor only
 msgid "Visit download page"
-msgstr ""
+msgstr "Download-Seite besuchen"
 
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
-msgstr ""
+msgstr "Dein Projekt wurde auf scratch.mit.edu hochgeladen"
 
 #~ msgid "cleanup"
 #~ msgstr "Aufräumen"

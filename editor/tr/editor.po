@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-03-29 12:43+0000\n"
+"PO-Revision-Date: 2015-04-07 22:04+0000\n"
 "Last-Translator: Suha <suhaaktan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1427632980.000000\n"
+"X-POOTLE-MTIME: 1428444283.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -59,7 +59,7 @@ msgid "Add"
 msgstr "Ekle"
 
 msgid "Add an Extension"
-msgstr "Bir Uzantı ekle"
+msgstr "Bir Uzantı Ekle"
 
 # 90%
 msgid "Add boolean input:"
@@ -83,7 +83,7 @@ msgid "Add string input:"
 msgstr "Sözel girdi ekle:"
 
 msgid "all"
-msgstr "her şeyi"
+msgstr "hepsi"
 
 msgid "All"
 msgstr "Tümü"
@@ -1053,7 +1053,7 @@ msgid "Scratch Updater"
 msgstr "Scratch Güncelleyici"
 
 msgid "Scratch 2.0 Offline Editor"
-msgstr "Scratch 2.0 Çevrimdışı Editörü"
+msgstr "Scratch 2.0 Ağ-dışı Editörü"
 
 # 85%
 msgid "Script"

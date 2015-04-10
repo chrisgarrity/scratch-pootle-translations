@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-10-22 06:58+0000\n"
-"Last-Translator: Chao-Hsiung <pesder@gmail.com>\n"
+"PO-Revision-Date: 2015-04-03 00:19+0000\n"
+"Last-Translator: andylolz <a.lulham@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1413961105.000000\n"
+"X-POOTLE-MTIME: 1428020386.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -54,7 +54,7 @@ msgstr "背景編號 #"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr "背景 名稱"
+msgstr "背景名稱"
 
 msgid "broadcast %m.broadcast"
 msgstr "廣播 %m.broadcast"
@@ -108,7 +108,7 @@ msgid "costume #"
 msgstr "造型編號"
 
 msgid "create clone of %m.spriteOnly"
-msgstr "創造角色  %m.spriteOnly  的分身"
+msgstr "創造  %m.sprite  的分身"
 
 msgid "current %m.timeAndDate"
 msgstr "目前的 %m.timeAndDate"
@@ -144,13 +144,13 @@ msgid "Events"
 msgstr "事件"
 
 msgid "forever"
-msgstr "不停重複"
+msgstr "重複執行"
 
 msgid "glide %n secs to x:%n y:%n"
 msgstr "在 %n 秒內，滑行到 x:%n y:%n"
 
 msgid "go back %n layers"
-msgstr "往回走 %n 層"
+msgstr "下移 %n 層"
 
 msgid "go to %m.spriteOrMouse"
 msgstr "移到 %m.spriteOrMouse"
@@ -186,7 +186,7 @@ msgid "join %s %s"
 msgstr "合併 %s 和 %s"
 
 msgid "key %m.key pressed?"
-msgstr "%m.key 鍵被按下了嗎  ?"
+msgstr "按下 %m.key 鍵了嗎？"
 
 msgid "length of %m.list"
 msgstr "%m.list 的長度"
@@ -269,7 +269,7 @@ msgid "repeat %n"
 msgstr "重複 %n 次"
 
 msgid "repeat until %b"
-msgstr "直到 %b  前都不斷重複"
+msgstr "重複執行直到 %b"
 
 msgid "replace item %d.listItem of %m.list with %s"
 msgstr "將 %m.list 的第 %d.listItem 項替換為 %s"
@@ -319,7 +319,7 @@ msgid "set pen color to %c"
 msgstr "將畫筆顏色設定為 %c"
 
 msgid "set pen color to %n"
-msgstr "將畫筆顏色設定為 %c"
+msgstr "將畫筆顏色設定為 %n"
 
 msgid "set pen shade to %n"
 msgstr "將畫筆亮度設為 %n"
@@ -1898,99 +1898,99 @@ msgstr "所有密訣"
 msgid ""
 "An updated version of the Scratch offline editor is available on the Scratch "
 "website."
-msgstr ""
+msgstr "在 Scratch 網站有 Scratch 離線編輯器的更新版本可用。"
 
 # Offline editor only
 msgid "Could not retrieve update location from server."
-msgstr ""
+msgstr "無法從伺服器取回更新位置。"
 
 # Offline editor only
 msgid "Could not retrieve version information from server."
-msgstr ""
+msgstr "無法從伺服器取回更新資訊。"
 
 # Offline editor only
 msgid "Could not write file:"
-msgstr ""
+msgstr "無法寫入檔案："
 
 # Offline editor only
 msgid "Downloading new version..."
-msgstr ""
+msgstr "正在下載新版本…"
 
 # Offline editor only
 msgid "Error saving project"
-msgstr ""
+msgstr "儲存計畫時發生錯誤"
 
 # Offline editor only
 msgid "Force help file update"
-msgstr ""
+msgstr "強制更新說明檔"
 
 # Offline editor only
 msgid "Import experimental HTTP extension"
-msgstr ""
+msgstr "匯入實驗性 HTTP 擴充功能"
 
 # Offline editor only
 msgid "Loading help files..."
-msgstr ""
+msgstr "正在載入說明檔案…"
 
 # Offline editor only
 msgid "Manual Update Available"
-msgstr ""
+msgstr "有手動更新可用"
 
 # Offline editor only
 msgid "Open Project"
-msgstr ""
+msgstr "開啟計畫"
 
 # Offline editor only
 msgid "Please visit the download page to install it."
-msgstr ""
+msgstr "請參訪下載頁面以下載它。"
 
 # Offline editor only
 msgid "Quit"
-msgstr ""
+msgstr "結束"
 
 # Offline editor only
 msgid "Replace existing project?"
-msgstr ""
+msgstr "取代現有的計畫？"
 
 # Offline editor only
 msgid "Running pre-release"
-msgstr ""
+msgstr "執行預先釋出版"
 
 # Offline editor only
 msgid "Save Project"
-msgstr ""
+msgstr "儲存計畫"
 
 # Offline editor only
 msgid "Server error:"
-msgstr ""
+msgstr "伺服器錯誤："
 
 # Offline editor only
 msgid "Share to Scratch Website"
-msgstr ""
+msgstr "分享到 Scratch 網站"
 
 # Offline editor only
 msgid "Success"
-msgstr ""
+msgstr "成功"
 
 # Offline editor only
 msgid "This version is newer than the current release version."
-msgstr ""
+msgstr "這個版本比目前的釋出版本還新。"
 
 # Offline editor only
 msgid "Update check failed"
-msgstr ""
+msgstr "更新檢查失敗"
 
 # Offline editor only
 msgid "Upload failed"
-msgstr ""
+msgstr "上傳失敗"
 
 # Offline editor only
 msgid "Visit download page"
-msgstr ""
+msgstr "參訪下載頁面"
 
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
-msgstr ""
+msgstr "您的專案已經更新到 scratch.mit.edu"
 
 # 89%
 # 86%

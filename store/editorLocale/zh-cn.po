@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-03-25 19:55+0000\n"
+"PO-Revision-Date: 2015-03-30 21:45+0000\n"
 "Last-Translator: Natalie <nrusk@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_CN\n"
@@ -12,11 +12,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1427313315.000000\n"
+"X-POOTLE-MTIME: 1427751909.000000\n"
 
-# The language name as it will appear in the language menu
+# Note: This should be translated as 简体中文 because it's the name of the current language (not 语言名称).
 msgid "Language-Name"
-msgstr "语言名称"
+msgstr "简体中文"
 
 msgid "%b and %b"
 msgstr "%b 且 %b"

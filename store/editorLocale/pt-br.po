@@ -1915,111 +1915,107 @@ msgstr "Espessura da linha:"
 
 # Offline editor only
 msgid "All Tips"
-msgstr ""
+msgstr "Todas as dicas"
 
 # Offline editor only
 msgid ""
 "An updated version of the Scratch offline editor is available on the Scratch "
 "website."
 msgstr ""
+"Uma versão atualizada do editor offline do Scratch está disponível no site "
+"do Scratch."
 
 # Offline editor only
-#, fuzzy
 msgid "Could not retrieve update location from server."
-msgstr "Não foi possível obter a nova aplicação a partir do servidor."
+msgstr "Não foi possível obter a atualização a partir do servidor."
 
 # Offline editor only
-#, fuzzy
 msgid "Could not retrieve version information from server."
-msgstr "Não foi possível obter a nova aplicação a partir do servidor."
+msgstr "Não foi possível obter as informações da versão a partir do servidor."
 
 # Offline editor only
 msgid "Could not write file:"
-msgstr ""
+msgstr "Não foi possível escrever o arquivo:"
 
 # Offline editor only
-#, fuzzy
 msgid "Downloading new version..."
-msgstr "Baixando nova versão"
+msgstr "Baixando nova versão..."
 
 # Offline editor only
 msgid "Error saving project"
-msgstr ""
+msgstr "Erro ao salvar o projeto"
 
 # Offline editor only
 msgid "Force help file update"
-msgstr ""
+msgstr "Forçar a atualização do arquivo de ajuda"
 
 # Offline editor only
 msgid "Import experimental HTTP extension"
-msgstr ""
+msgstr "Importar extensão HTTP experimental"
 
 # Offline editor only
 msgid "Loading help files..."
-msgstr ""
+msgstr "Carregando arquivos de ajuda..."
 
 # Offline editor only
 msgid "Manual Update Available"
-msgstr ""
+msgstr "Atualização manual disponível"
 
 # Offline editor only
 msgid "Open Project"
-msgstr ""
+msgstr "Abrir projeto"
 
 # Offline editor only
 msgid "Please visit the download page to install it."
-msgstr ""
+msgstr "Visite a página de download para fazer a instalação."
 
 # Offline editor only
 msgid "Quit"
-msgstr ""
+msgstr "Sair"
 
 # Offline editor only
-#, fuzzy
 msgid "Replace existing project?"
-msgstr "Substituir o projeto existente"
+msgstr "Substituir o projeto existente?"
 
 # Offline editor only
 msgid "Running pre-release"
-msgstr ""
+msgstr "Executando pré-lançamento"
 
 # Offline editor only
-#, fuzzy
 msgid "Save Project"
-msgstr "Salvar projeto?"
+msgstr "Salvar projeto"
 
 # Offline editor only
 msgid "Server error:"
-msgstr ""
+msgstr "Erro de servidor:"
 
 # Offline editor only
-#, fuzzy
 msgid "Share to Scratch Website"
-msgstr "Compartilhar no site Scratch"
+msgstr "Compartilhar no site do Scratch"
 
 # Offline editor only
 msgid "Success"
-msgstr ""
+msgstr "Êxito"
 
 # Offline editor only
 msgid "This version is newer than the current release version."
-msgstr ""
+msgstr "Essa versão é mais recente que a versão de lançamento atual."
 
 # Offline editor only
 msgid "Update check failed"
-msgstr ""
+msgstr "Falha na verificação da atualização"
 
 # Offline editor only
 msgid "Upload failed"
-msgstr ""
+msgstr "Falha no envio"
 
 # Offline editor only
 msgid "Visit download page"
-msgstr ""
+msgstr "Visite a página de download"
 
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
-msgstr ""
+msgstr "Seu projeto foi enviado para scratch.mit.edu"
 
 # 89%
 # 86%

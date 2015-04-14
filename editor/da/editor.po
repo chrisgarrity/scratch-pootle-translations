@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-04-12 15:39+0000\n"
+"PO-Revision-Date: 2014-08-19 10:13+0000\n"
 "Last-Translator: Kirsten <kirstendampedersen@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: da\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1428853176.000000\n"
+"X-POOTLE-MTIME: 1408443224.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -34,7 +34,7 @@ msgid "a copy of the project file on your computer."
 msgstr "en kopi af projektfilen på din computer."
 
 msgid "A newer version of Scratch is available"
-msgstr "Der findes en nyere version af Scratch"
+msgstr ""
 
 msgid "About"
 msgstr "Om"
@@ -49,14 +49,14 @@ msgid "abs"
 msgstr "abs"
 
 msgid "Account settings"
-msgstr "Kontoindstillinger"
+msgstr "Konto instillinger"
 
 # What does acos mean?
 msgid "acos"
 msgstr "acos"
 
 msgid "Add"
-msgstr "Tilføj"
+msgstr ""
 
 msgid "Add an Extension"
 msgstr "Tilføj en Udvidelse"
@@ -68,7 +68,7 @@ msgid "add comment"
 msgstr "tilføj kommentar"
 
 msgid "add comment here..."
-msgstr "skriv en kommentar her..."
+msgstr ""
 
 msgid "Add label text:"
 msgstr "Tilføj mærkningstekst:"
@@ -112,7 +112,7 @@ msgid "B connected"
 msgstr "B opkoblet"
 
 msgid "Back a layer"
-msgstr "Et lag tilbage"
+msgstr "Flyt et lag tilbage"
 
 msgid "backdrop"
 msgstr "baggrund"
@@ -207,7 +207,7 @@ msgid "Cancel"
 msgstr "Annuller"
 
 msgid "Cannot Add"
-msgstr "Kan ikke tilføje"
+msgstr ""
 
 msgid "Cannot Delete"
 msgstr "Kan ikke slette"
@@ -228,7 +228,7 @@ msgid "Cello"
 msgstr "Cello"
 
 msgid "Check for updates"
-msgstr "Søg efter opdateringer"
+msgstr ""
 
 msgid "Choir"
 msgstr "Kor"
@@ -257,6 +257,7 @@ msgstr "Klarinet"
 msgid "Claves"
 msgstr "Claves"
 
+#, fuzzy
 msgid "clean up"
 msgstr "ryd op"
 
@@ -282,7 +283,7 @@ msgid "Cloud data"
 msgstr "Skydata"
 
 msgid "Cloud variable (stored on server)"
-msgstr "Sky variabel (gemt på serveren)"
+msgstr ""
 
 msgid "color"
 msgstr "farve"
@@ -343,7 +344,7 @@ msgid "Costumes:"
 msgstr "Kostumer:"
 
 msgid "Could not retrieve new application from server."
-msgstr "Ikke muligt at hente den nye applikation fra serveren."
+msgstr ""
 
 msgid "Cowbell"
 msgstr "Koklokke"
@@ -389,7 +390,7 @@ msgid "don't rotate"
 msgstr "drej ikke"
 
 msgid "Don't save"
-msgstr "Gem ikke"
+msgstr ""
 
 msgid "down"
 msgstr "ned"
@@ -404,7 +405,7 @@ msgid "Download to your computer"
 msgstr "Download til din computer"
 
 msgid "Downloading new version"
-msgstr "Hent den nye version."
+msgstr ""
 
 msgid "duplicate"
 msgstr "kopier"
@@ -443,13 +444,13 @@ msgid "Ellipse"
 msgstr "Ellipse"
 
 msgid "empty"
-msgstr "tom"
+msgstr ""
 
 msgid "Erase"
 msgstr "Slet"
 
 msgid "Erase all"
-msgstr "Slet alt"
+msgstr ""
 
 # 92%
 msgid "Eraser width"
@@ -477,7 +478,7 @@ msgid "fade out"
 msgstr "fade ud"
 
 msgid "false"
-msgstr "forkert"
+msgstr ""
 
 msgid "Fantasy"
 msgstr "Fantasi"
@@ -546,16 +547,17 @@ msgid "Hardware"
 msgstr "Hardware"
 
 msgid "help"
-msgstr "hjælp"
+msgstr ""
 
 msgid "Hello!"
-msgstr "Hej!"
+msgstr ""
 
 msgid "Hmm..."
-msgstr "Hmm..."
+msgstr ""
 
+#, fuzzy
 msgid "hello"
-msgstr "hej"
+msgstr "Cello"
 
 msgid "hide"
 msgstr "skjul"
@@ -564,7 +566,7 @@ msgid "High C"
 msgstr "Det høje C"
 
 msgid "Holiday"
-msgstr "Ferie"
+msgstr ""
 
 msgid "hour"
 msgstr "time"
@@ -610,7 +612,7 @@ msgid "length"
 msgstr "længde"
 
 msgid "Letters"
-msgstr "Bogstaver"
+msgstr ""
 
 msgid "Library"
 msgstr "Bibliotek"
@@ -681,6 +683,7 @@ msgstr "Meddelelse Navn"
 msgid "message1"
 msgstr "meddelelse1"
 
+#, fuzzy
 msgid "Microphone volume:"
 msgstr "Mikrofonstyrke:"
 
@@ -745,7 +748,7 @@ msgid "New backdrop:"
 msgstr "Ny baggrund:"
 
 msgid "New Block"
-msgstr "Ny Klods"
+msgstr ""
 
 msgid "New costume from camera"
 msgstr "Nyt kostume fra kamera"
@@ -757,7 +760,7 @@ msgid "New List"
 msgstr "Ny liste"
 
 msgid "New Message"
-msgstr "Ny besked"
+msgstr ""
 
 msgid "new message..."
 msgstr "ny meddelese..."
@@ -778,7 +781,7 @@ msgid "New Variable"
 msgstr "Ny variabel"
 
 msgid "next backdrop"
-msgstr "næste baggrund"
+msgstr ""
 
 msgid "No motion blocks"
 msgstr "Ingen bevægelses brikker"
@@ -814,7 +817,7 @@ msgid "on-flipped"
 msgstr "når omvendt"
 
 msgid "Open"
-msgstr "Åbn"
+msgstr ""
 
 msgid "Open Cuica"
 msgstr "Åben cuica"
@@ -834,8 +837,9 @@ msgstr "Andre"
 msgid "other scripts in sprite"
 msgstr "andre script i sprite"
 
+#, fuzzy
 msgid "other scripts in stage"
-msgstr "andre script i scene"
+msgstr "andre script i sprite"
 
 msgid "Outdoors"
 msgstr "Udendørs"
@@ -850,10 +854,10 @@ msgid "Paint new sprite"
 msgstr "Tegn ny sprite"
 
 msgid "Password"
-msgstr "Kodeord"
+msgstr ""
 
 msgid "Password is required"
-msgstr "Kodeord er nødvendigt"
+msgstr ""
 
 msgid "paste"
 msgstr "sæt ind"
@@ -886,7 +890,7 @@ msgid "pop"
 msgstr "knald"
 
 msgid "previous backdrop"
-msgstr "forrige baggrund"
+msgstr ""
 
 msgid "Profile"
 msgstr "Profil"
@@ -898,10 +902,10 @@ msgid "Project not saved!"
 msgstr "Projektet er ikke gemt!"
 
 msgid "Project name"
-msgstr "Navn på projektet"
+msgstr ""
 
 msgid "Project name is required"
-msgstr "Navn på projektet er nødvendigt"
+msgstr ""
 
 msgid "random"
 msgstr "tilfældig"
@@ -913,7 +917,7 @@ msgid "Record new sound"
 msgstr "Optag ny lyd"
 
 msgid "record..."
-msgstr "optag..."
+msgstr ""
 
 msgid "recording1"
 msgstr "optagelse1"
@@ -944,7 +948,7 @@ msgid "rename variable"
 msgstr "omdøb variabel"
 
 msgid "Replace existing project"
-msgstr "Erstat et eksisterende projekt"
+msgstr ""
 
 msgid "requires sign in"
 msgstr "kræver log-in"
@@ -989,10 +993,10 @@ msgid "Save"
 msgstr "Gem"
 
 msgid "Save a copy of this project and add your own ideas."
-msgstr "Gem en kopi af dette projekt og tilføj dine egne ideer."
+msgstr ""
 
 msgid "Save as"
-msgstr "Gem som"
+msgstr ""
 
 msgid "Save as a copy"
 msgstr "Gem som kopi"
@@ -1001,7 +1005,7 @@ msgid "Save now"
 msgstr "Gem nu"
 
 msgid "Save project?"
-msgstr "Gem projekt?"
+msgstr ""
 
 msgid "save to local file"
 msgstr "gem som lokal fil"
@@ -1019,10 +1023,10 @@ msgid "Saxophone"
 msgstr "Saxofon"
 
 msgid "Scratch Updater"
-msgstr "Scratch Opdatering"
+msgstr ""
 
 msgid "Scratch 2.0 Offline Editor"
-msgstr "Scratch 2.0 Offline Editor"
+msgstr ""
 
 msgid "Script"
 msgstr "Script"
@@ -1071,10 +1075,10 @@ msgid "Share"
 msgstr "Del"
 
 msgid "Share to website"
-msgstr "Del til hjemmeside"
+msgstr ""
 
 msgid "Share to Scratch website"
-msgstr "Del til Scratch hjemmeside"
+msgstr ""
 
 msgid "shared"
 msgstr "delt"
@@ -1204,8 +1208,9 @@ msgstr "Tamburin"
 msgid "tan"
 msgstr "tan"
 
+#, fuzzy
 msgid "text"
-msgstr "tekst"
+msgstr "Tekst"
 
 msgid "Text"
 msgstr "Tekst"
@@ -1214,14 +1219,12 @@ msgid "that way"
 msgstr "den måde"
 
 msgid "The name is already in use."
-msgstr "Navnet er allerede i brug."
+msgstr ""
 
 msgid ""
 "The project failed to load and Scratch Team has been notified. Press OK to "
 "leave this page."
 msgstr ""
-"Projektet kunne ikke hentes og Scratch Teamet er blevet orienteret. Tryk OK "
-"for at forlade denne side."
 
 msgid "Theme"
 msgstr "Tema"
@@ -1230,10 +1233,10 @@ msgid "Things"
 msgstr "Ting"
 
 msgid "thing"
-msgstr "ting"
+msgstr ""
 
 msgid "This is the current version."
-msgstr "Dette er den nuværende version."
+msgstr ""
 
 msgid ""
 "This project can detect who is using it, through the “username” block. To "
@@ -1281,7 +1284,7 @@ msgid "Trombone"
 msgstr "Trækbasun"
 
 msgid "true"
-msgstr "sandt"
+msgstr ""
 
 msgid "Turbo mode"
 msgstr "Sæt turbo på"
@@ -1322,13 +1325,13 @@ msgid "up arrow"
 msgstr "pil opad"
 
 msgid "Update failed"
-msgstr "Opdatering mislykkedes"
+msgstr ""
 
 msgid "Update not needed"
-msgstr "Opdatering er ikke nødvendig"
+msgstr ""
 
 msgid "Update now"
-msgstr "Opdatér nu"
+msgstr ""
 
 msgid "Upload backdrop from file"
 msgstr "Upload baggrund fra fil"
@@ -1373,7 +1376,7 @@ msgid "Vibraslap"
 msgstr "Vibraslap"
 
 msgid "video direction"
-msgstr "video retning"
+msgstr ""
 
 msgid "video motion"
 msgstr "videobevægelse"
@@ -1397,7 +1400,7 @@ msgid "Which column do you want to import"
 msgstr "Hvilken kolonne vil du importere"
 
 msgid "What's your name?"
-msgstr "Hvad er dit navn?"
+msgstr ""
 
 msgid "whirl"
 msgstr "vrid"
@@ -1409,7 +1412,7 @@ msgid "Wooden Flute"
 msgstr "Træfløjte"
 
 msgid "world"
-msgstr "verden"
+msgstr ""
 
 msgid "x position"
 msgstr "x-position"
@@ -1428,10 +1431,10 @@ msgstr ""
 "bliver kun midlertidige, ikke vedvarende."
 
 msgid "Your Scratch name"
-msgstr "Dit Scratch navn"
+msgstr ""
 
 msgid "Your Scratch name is required"
-msgstr "Dit Scratch navn er påkrævet"
+msgstr ""
 
 msgid ""
 "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
@@ -1453,107 +1456,105 @@ msgstr "Linjebredde:"
 
 # Offline editor only
 msgid "All Tips"
-msgstr "Alle Tips"
+msgstr ""
 
 # Offline editor only
 msgid ""
 "An updated version of the Scratch offline editor is available on the Scratch "
 "website."
 msgstr ""
-"En opdateret version af Scratch offline editoren er tilgængelig på Scratch "
-"hjemmesiden."
 
 # Offline editor only
 msgid "Could not retrieve update location from server."
-msgstr "Det var ikke muligt at hente opdateringen fra serveren."
+msgstr ""
 
 # Offline editor only
 msgid "Could not retrieve version information from server."
-msgstr "Det var ikke muligt at hente version information fra server."
+msgstr ""
 
 # Offline editor only
 msgid "Could not write file:"
-msgstr "Kunne ikke skrive fil:"
+msgstr ""
 
 # Offline editor only
 msgid "Downloading new version..."
-msgstr "Hent den nye version..."
+msgstr ""
 
 # Offline editor only
 msgid "Error saving project"
-msgstr "Projektet kunne ikke gemmes"
+msgstr ""
 
 # Offline editor only
 msgid "Force help file update"
-msgstr "Gennemtving opdatering af hjælpefil"
+msgstr ""
 
 # Offline editor only
 msgid "Import experimental HTTP extension"
-msgstr "Importér eksperimental HTTP udvidelse"
+msgstr ""
 
 # Offline editor only
 msgid "Loading help files..."
-msgstr "Henter hjælpefiler..."
+msgstr ""
 
 # Offline editor only
 msgid "Manual Update Available"
-msgstr "Manuel Opdatering Tilgængelig"
+msgstr ""
 
 # Offline editor only
 msgid "Open Project"
-msgstr "Åbn Projekt"
+msgstr ""
 
 # Offline editor only
 msgid "Please visit the download page to install it."
-msgstr "Det kan installeres på download siden."
+msgstr ""
 
 # Offline editor only
 msgid "Quit"
-msgstr "Luk"
+msgstr ""
 
 # Offline editor only
 msgid "Replace existing project?"
-msgstr "Erstat det eksisterende projekt?"
+msgstr ""
 
 # Offline editor only
 msgid "Running pre-release"
-msgstr "Kører beta-udgave"
+msgstr ""
 
 # Offline editor only
 msgid "Save Project"
-msgstr "Gem Projekt"
+msgstr ""
 
 # Offline editor only
 msgid "Server error:"
-msgstr "Serverfejl:"
+msgstr ""
 
 # Offline editor only
 msgid "Share to Scratch Website"
-msgstr "Del til Scratch Hjemmeside"
+msgstr ""
 
 # Offline editor only
 msgid "Success"
-msgstr "Succes"
+msgstr ""
 
 # Offline editor only
 msgid "This version is newer than the current release version."
-msgstr "Denne version er nyere end den nuværende version."
+msgstr ""
 
 # Offline editor only
 msgid "Update check failed"
-msgstr "Kunne ikke tjekke for opdateringer"
+msgstr ""
 
 # Offline editor only
 msgid "Upload failed"
-msgstr "Upload mislykkedes"
+msgstr ""
 
 # Offline editor only
 msgid "Visit download page"
-msgstr "Gå til download side"
+msgstr ""
 
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
-msgstr "Dit projekt er blevet uploadet til scratch.mit.edu"
+msgstr ""
 
 #~ msgid "cleanup"
 #~ msgstr "ryd op"

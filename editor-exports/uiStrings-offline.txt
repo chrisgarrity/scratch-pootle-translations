@@ -1,0 +1,405 @@
+10 ^
+A connected
+a copy of the project file on your computer.
+A newer version of Scratch is available
+About
+abs
+acos
+Add
+Add an Extension
+Add boolean input:
+add comment
+Add label text:
+Add number input:
+Add string input:
+all
+All
+all around
+All Tips
+An updated version of the Scratch offline editor is available on the Scratch website.
+Animal
+Animals
+asin
+atan
+B connected
+Back a layer
+backdrop
+Backdrop
+backdrop #
+Backdrop Library
+backdrop name
+backdrop1
+Backdrops
+backdrops
+Backpack
+Bass
+Bass Drum
+Bassoon
+Bitmap
+Bitmap Mode
+Block help
+Bongo
+brightness
+Bring to front
+Broadcast
+Brush
+button pressed
+by
+C connected
+Cabasa
+Camera
+can drag in player:
+Cancel
+Cannot Delete
+Castle
+Category
+ceiling
+Cello
+Check for updates
+Choir
+Choose backdrop from library
+Choose costume from library
+Choose sound from library
+Choose sprite from library
+Circle
+City
+Clarinet
+Claves
+Clear
+clear senders/receivers
+Close
+Closed Hi-Hat
+color
+Color a shape
+Conga
+Convert to bitmap
+Convert to vector
+Converting mp3...
+copy
+cos
+Costume
+costume #
+Costume Library
+costume name
+costume1
+costume2
+Costumes
+Costumes > 1
+Could not retrieve new application from server.
+Could not retrieve update location from server.
+Could not retrieve version information from server.
+Could not write file:
+Cowbell
+Crash Cymbal
+cut
+D connected
+date
+day of week
+delete
+Delete
+delete variable
+direction
+direction:
+don't rotate
+Don't save
+down
+down arrow
+Downloading new version...
+duplicate
+Duplicate
+e ^
+edge
+edit
+Edit
+Edit Block
+Effects
+Electric Guitar
+Electric Piano
+Electronic
+Ellipse
+Erase
+Eraser width
+Error saving project
+export
+fade in
+fade out
+Fantasy
+Features
+File
+Fill with color
+fisheye
+Flip left-right
+Flip up-down
+floor
+Flute
+Flying
+Font:
+For all sprites
+For this sprite only
+Force help file update
+Forward a layer
+ghost
+Group
+Grow
+Guiro
+Guitar
+Hand Clap
+Hardware
+help
+hide
+High C
+Holiday
+hour
+Human
+import
+Import
+Import experimental HTTP extension
+Importing sound...
+Indoors
+Instruments
+large readout
+last
+left
+left arrow
+left-right
+length
+Letters
+Library
+light
+Line
+Line width
+list
+List name
+ln
+Loading help files...
+log
+louder
+loudness
+Low C
+Make a Block
+Make a List
+Make a Variable
+Manual Update Available
+Marimba
+Max
+meow
+Message Name
+message1
+Microphone volume:
+Middle C
+Min
+minute
+month
+mosaic
+motion
+mouse-pointer
+Multiple
+Music and Dance
+Music Box
+Music Loops
+myself
+Nature
+New
+New backdrop from camera
+New backdrop:
+New Block
+New costume from camera
+New costume:
+New List
+New Message
+new message...
+New name
+New sound:
+New sprite from camera
+New sprite:
+New Variable
+next backdrop
+No motion blocks
+normal readout
+Not saved; project did not load.
+off
+Offline Editor
+OK
+on
+on-flipped
+Open
+Open Cuica
+Open Hi-Hat
+Open Project
+Options
+Organ
+Other
+other scripts in sprite
+other scripts in stage
+Outdoors
+Paint new backdrop
+Paint new costume
+Paint new sprite
+Password
+Password is required
+paste
+Pencil
+People
+Percussion
+photo1
+Piano
+Pick up color
+pixelate
+Pizzicato
+Please visit the download page to install it.
+pop
+previous backdrop
+Project name
+Project name is required
+Project not saved!
+Quit
+random
+Record
+Record new sound
+record...
+recording1
+Rectangle
+Redo
+redo
+Rename
+rename variable
+Replace existing project?
+Reshape
+resistance-A
+resistance-B
+resistance-C
+resistance-D
+reverse
+Revert
+Reverting...
+right
+right arrow
+rotation style:
+Run without screen refresh
+Running pre-release
+Save
+Save as
+Save now
+Save Project
+Save project?
+save to local file
+Saved
+Saxophone
+Scratch Updater
+Script
+Scripts
+second
+Select
+select all
+Select and duplicate
+Send to back
+Server error:
+Set costume center
+Set Costume Center
+set slider min and max
+Share to Scratch Website
+Share to website
+shared
+Shift:
+show
+show receivers
+show senders
+show:
+Shrink
+Side Stick
+silence
+sin
+size
+slider
+Slider Range
+Small stage layout
+Smooth
+Snare Drum
+softer
+sound
+Sound
+Sound Library
+Sounds
+Space
+space
+Sports
+Sprite
+Sprite Library
+Sprite1
+Sprites
+sqrt
+Square
+Stage
+Stage selected:
+Steel Drum
+Success
+Synth Lead
+Synth Pad
+Tambourine
+tan
+text
+Text
+that way
+Theme
+Things
+This is the current version.
+This project can detect who is using it, through the “username” block. To hide your identity, sign out before using the project.
+this script
+this sprite
+This version is newer than the current release version.
+this way
+Throw away all changes since opening this project?
+timer
+Tips
+To delete a block definition, first remove all uses of the block.
+Transportation
+Triangle
+Trombone
+Turbo Mode
+Turbo mode
+Type
+Undelete
+Underwater
+undo
+Undo
+Undo Revert
+Ungroup
+unshared
+up
+up arrow
+Update check failed
+Update failed
+Update not needed
+Update now
+Upload backdrop from file
+Upload costume from file
+Upload failed
+Upload sound from file
+Upload sprite from file
+Uploading image...
+Uploading sound...
+Uploading sprite...
+variable
+Variable name
+Vector
+Vector Mode
+Vibraphone
+Vibraslap
+video direction
+video motion
+Video on:
+Visit download page
+Vocals
+volume
+Walking
+Which column do you want to import
+whirl
+Wood Block
+Wooden Flute
+x position
+y position
+year
+Your project has been uploaded to scratch.mit.edu
+Your Scratch name
+Your Scratch name is required
+

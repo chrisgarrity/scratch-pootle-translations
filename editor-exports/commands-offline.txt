@@ -1,0 +1,150 @@
+%b and %b
+%b or %b
+%m.attribute of %m.spriteOrStage
+%m.list contains %s?
+%m.mathOp of %n
+%m.sensor sensor value
+%n mod %n
+add %s to %m.list
+answer
+ask %s and wait
+backdrop #
+backdrop name
+broadcast %m.broadcast
+broadcast %m.broadcast and wait
+change %m.effect effect by %n
+change %m.var by %n
+change pen color by %n
+change pen shade by %n
+change pen size by %n
+change size by %n
+change tempo by %n
+change volume by %n
+change x by %n
+change y by %n
+clear
+clear graphic effects
+color %c is touching %c?
+Control
+costume #
+create clone of %m.spriteOnly
+current %m.timeAndDate
+Data
+days since 2000
+define
+delete %d.listDeleteItem of %m.list
+delete this clone
+direction
+distance
+distance to %m.spriteOrMouse
+else
+Events
+forever
+glide %n secs to x:%n y:%n
+go back %n layers
+go to %m.spriteOrMouse
+go to front
+go to x:%n y:%n
+hide
+hide list %m.list
+hide variable %m.var
+if %b then
+if on edge, bounce
+insert %s at %d.listItem of %m.list
+item %d.listItem of %m.list
+join %s %s
+key %m.key pressed?
+length of %m.list
+length of %s
+letter %n of %s
+Looks
+loudness
+More Blocks
+Motion
+mouse down?
+mouse x
+mouse y
+move %n steps
+next backdrop
+next costume
+not %b
+Operators
+Pen
+pen down
+pen up
+pick random %n to %n
+play drum %d.drum for %n beats
+play note %d.note for %n beats
+play sound %m.sound
+play sound %m.sound until done
+point in direction %d.direction
+point towards %m.spriteOrMouse
+repeat %n
+repeat until %b
+replace item %d.listItem of %m.list with %s
+reset timer
+rest for %n beats
+round %n
+say %s
+say %s for %n secs
+Sensing
+sensor %m.booleanSensor?
+set %m.effect effect to %n
+set %m.motor power to %n
+set %m.motor2 direction to %m.motorDirection
+set %m.var to %s
+set instrument to %d.instrument
+set pen color to %c
+set pen color to %n
+set pen shade to %n
+set pen size to %n
+set rotation style %m.rotationStyle
+set size to %n%
+set tempo to %n bpm
+set video transparency to %n%
+set volume to %n%
+set x to %n
+set y to %n
+show
+show list %m.list
+show variable %m.var
+size
+Sound
+stamp
+stop %m.stop
+stop all sounds
+switch backdrop to %m.backdrop
+switch backdrop to %m.backdrop and wait
+switch costume to %m.costume
+tempo
+think %s
+think %s for %n secs
+tilt
+timer
+touching %m.touching?
+touching color %c?
+turn %m.motor off
+turn %m.motor on
+turn %m.motor on for %n secs
+turn @turnLeft %n degrees
+turn @turnRight %n degrees
+turn video %m.videoState
+username
+video %m.videoMotionType on %m.stageOrThis
+volume
+wait %n secs
+wait until %b
+when %m.booleanSensor
+when %m.key key pressed
+when %m.sensor %m.lessMore %n
+when %m.triggerSensor > %n
+when @greenFlag clicked
+when backdrop switches to %m.backdrop
+when distance %m.lessMore %n
+when I receive %m.broadcast
+when I start as a clone
+when this sprite clicked
+when tilt %m.eNe %n
+x position
+y position
+

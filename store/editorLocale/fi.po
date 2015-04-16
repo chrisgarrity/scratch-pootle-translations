@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-01-15 15:21+0000\n"
-"Last-Translator: Juha <juha.harviainen@gmail.com>\n"
+"PO-Revision-Date: 2015-04-15 15:05+0000\n"
+"Last-Translator: Natalie <nrusk@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
@@ -12,11 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1421335302.000000\n"
-
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Suomi"
+"X-POOTLE-MTIME: 1429110313.000000\n"
 
 msgid "%b and %b"
 msgstr "%b ja %b"
@@ -26,9 +22,6 @@ msgstr "%b tai %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "kohteen %m.spriteOrStage %m.attribute"
-
-msgid "%m.list contains %s"
-msgstr "%m.list sisältää %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp arvosta %n"
@@ -472,9 +465,6 @@ msgstr "kun vastaanotan %m.broadcast"
 msgid "when I start as a clone"
 msgstr "kun aloitan kloonina"
 
-msgid "when Stage clicked"
-msgstr "kun taustaa klikataan"
-
 msgid "when this sprite clicked"
 msgstr "kun tätä hahmoa klikataan"
 
@@ -487,29 +477,9 @@ msgstr "x-sijainti"
 msgid "y position"
 msgstr "y-sijainti"
 
-# 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "moottorinsuunta %m.motorDirection"
-
-# 77%
-msgid "set motor power %n"
-msgstr "moottorin voima %n"
-
-msgid "turn motor off"
-msgstr "moottori pois päältä"
-
-msgid "turn motor on"
-msgstr "moottori päälle"
-
-# 80%
-msgid "turn motor on for %n secs"
-msgstr "moottori päälle %n sekunniksi"
-
-msgid "when distance < %n"
-msgstr "kun etäisyys < %n"
-
-msgid "when tilt = %n"
-msgstr "kun kallistuminen = %n"
+#: commands-online.txt:7 commands-offline.txt:7
+msgid "%m.list contains %s?"
+msgstr "%m.list sisältää %s?"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -536,17 +506,8 @@ msgstr ""
 msgid "About"
 msgstr "Tietoa"
 
-msgid "About LEGO WeDo extension..."
-msgstr "Tietoa LEGO WeDo laajennuksesta..."
-
-msgid "About PicoBoard extension..."
-msgstr "Tietoa PicoBoard laajennuksesta..."
-
 msgid "abs"
 msgstr "itseisarvo"
-
-msgid "Account settings"
-msgstr "Tiliasetukset"
 
 msgid "acos"
 msgstr "acos"
@@ -586,9 +547,6 @@ msgstr "Kaikki"
 
 msgid "all around"
 msgstr "joka suuntaan"
-
-msgid "all motors"
-msgstr "kaikki moottorit"
 
 msgid "Animal"
 msgstr "Eläin"
@@ -773,9 +731,6 @@ msgstr "Sulje"
 msgid "Closed Hi-Hat"
 msgstr "Suljettu hi-hat"
 
-msgid "Cloud"
-msgstr "Pilvi"
-
 msgid "Cloud data"
 msgstr "Pilvidata"
 
@@ -835,9 +790,6 @@ msgstr "Asusteet"
 
 msgid "Costumes > 1"
 msgstr "Asusteet > 1"
-
-msgid "Costumes:"
-msgstr "Asusteet:"
 
 msgid "Could not retrieve new application from server."
 msgstr ""
@@ -953,17 +905,8 @@ msgstr "Kumin leveys"
 msgid "Error!"
 msgstr "Virhe!"
 
-msgid "everything"
-msgstr "kaikki"
-
 msgid "export"
 msgstr "vie"
-
-msgid "Extension Library"
-msgstr "Laajennuskirjasto"
-
-msgid "Extension Problem"
-msgstr "Laajennusongelma"
 
 msgid "fade in"
 msgstr "vaimenna alku"
@@ -1018,9 +961,6 @@ msgstr "Kerros eteenpäin"
 
 msgid "ghost"
 msgstr "haamu"
-
-msgid "Go to My Stuff"
-msgstr "Mene minun juttuihini"
 
 msgid "Group"
 msgstr "Ryhmä"
@@ -1111,13 +1051,6 @@ msgstr "Kirjasto"
 msgid "light"
 msgstr "vaalea"
 
-# 83%
-msgid "lights"
-msgstr "valot"
-
-msgid "limit reached"
-msgstr "raja saavutettu"
-
 msgid "Line"
 msgstr "Viiva"
 
@@ -1193,15 +1126,6 @@ msgstr "mosaiikki"
 msgid "motion"
 msgstr "liike"
 
-msgid "motor"
-msgstr "moottori"
-
-msgid "motor A"
-msgstr "moottori A"
-
-msgid "motor B"
-msgstr "moottori B"
-
 msgid "mouse-pointer"
 msgstr "hiiriosoitin"
 
@@ -1216,9 +1140,6 @@ msgstr "Soittopeli"
 
 msgid "Music Loops"
 msgstr "Musiikkiluuppeja"
-
-msgid "My Stuff"
-msgstr "Omat jutut"
 
 msgid "myself"
 msgstr "minä itse"
@@ -1276,9 +1197,6 @@ msgstr "Ei liikelohkoja"
 
 msgid "normal readout"
 msgstr "normaali lukuasu"
-
-msgid "not ="
-msgstr "ei ="
 
 msgid "Not saved; network or server problem."
 msgstr "Ei tallennettu; verkko- tai palvelinongelmia."
@@ -1380,9 +1298,6 @@ msgstr "pop"
 msgid "previous backdrop"
 msgstr ""
 
-msgid "Profile"
-msgstr "Profiili"
-
 msgid "Project did not load."
 msgstr "Projekti ei latautunut."
 
@@ -1426,9 +1341,6 @@ msgstr "Remix"
 msgid "Remixing..."
 msgstr "Remixaa..."
 
-msgid "Remove extension blocks"
-msgstr "Poista laajennuslohkot"
-
 msgid "Rename"
 msgstr "Uudelleennimeä"
 
@@ -1437,9 +1349,6 @@ msgstr "uudelleennimeä muuttuja"
 
 msgid "Replace existing project"
 msgstr ""
-
-msgid "requires sign in"
-msgstr "vaatii sisäänkirjautumisen"
 
 msgid "Reshape"
 msgstr "Uudelleenhahmota"
@@ -1486,9 +1395,6 @@ msgstr ""
 msgid "Save as"
 msgstr ""
 
-msgid "Save as a copy"
-msgstr "Tallenna kopio"
-
 msgid "Save now"
 msgstr "Tallenna nyt"
 
@@ -1522,21 +1428,11 @@ msgstr "Skripti"
 msgid "Scripts"
 msgstr "Skriptit"
 
-msgid "Scripts:"
-msgstr "Skriptit:"
-
 msgid "second"
 msgstr "sekunti"
 
 msgid "See project page"
 msgstr "Katso projektisivu"
-
-msgid ""
-"See the Tips window (on the right) to install the plug-in and get the "
-"extension working."
-msgstr ""
-"Katso ohjeet ikkuna (oikealla) asentaaksesi liitännäisen ja saadaksesi "
-"laajennuksen toimimaan."
 
 msgid "Select"
 msgstr "Valitse"
@@ -1594,9 +1490,6 @@ msgstr "Sisäänkirjaudu"
 
 msgid "Sign in to save"
 msgstr "Sisäänkirjaudu tallentaaksesi"
-
-msgid "Sign out"
-msgstr "Kirjaudu ulos"
 
 msgid "silence"
 msgstr "hiljaisuus"
@@ -1669,9 +1562,6 @@ msgstr "Valittu esiintymislava:"
 
 msgid "Steel Drum"
 msgstr "Teräsrumpu"
-
-msgid "stored on server"
-msgstr "tallennettu palvelimeen"
 
 msgid "Synth Lead"
 msgstr "Synth Lead"
@@ -1903,24 +1793,6 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Tietoa pilvipalveluista ja -muuttujista</b><br>&nbsp;<br>Tällä hetkellä "
-"vain numerot on tuettuja<br>Keskustelufoorumeja ei sallita ja ne "
-"poistetaan<br>Lisätietoa: <a href= target=>usein kysytyt kysymykset</a>"
-
-msgid "Click  to try again or  to save"
-msgstr "Klikkaa uudellaan tai tallenna"
-
-msgid "Eraser width:"
-msgstr "Kumin leveys"
-
-msgid "Line width:"
-msgstr "Viivanleveys:"
-
 # Offline editor only
 msgid "All Tips"
 msgstr ""
@@ -2023,6 +1895,40 @@ msgstr ""
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "Suomi"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list sisältää %s"
+
+#~ msgid "when Stage clicked"
+#~ msgstr "kun taustaa klikataan"
+
+# 89%
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "moottorinsuunta %m.motorDirection"
+
+# 77%
+#~ msgid "set motor power %n"
+#~ msgstr "moottorin voima %n"
+
+#~ msgid "turn motor off"
+#~ msgstr "moottori pois päältä"
+
+#~ msgid "turn motor on"
+#~ msgstr "moottori päälle"
+
+# 80%
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "moottori päälle %n sekunniksi"
+
+#~ msgid "when distance < %n"
+#~ msgstr "kun etäisyys < %n"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "kun kallistuminen = %n"
+
 # 89%
 # 86%
 #~ msgid "set %m.motor direction to %m.motorDirection"
@@ -2072,6 +1978,104 @@ msgstr ""
 
 #~ msgid "when I am clicked"
 #~ msgstr "kun minua klikataan"
+
+#~ msgid "About LEGO WeDo extension..."
+#~ msgstr "Tietoa LEGO WeDo laajennuksesta..."
+
+#~ msgid "About PicoBoard extension..."
+#~ msgstr "Tietoa PicoBoard laajennuksesta..."
+
+#~ msgid "Account settings"
+#~ msgstr "Tiliasetukset"
+
+#~ msgid "all motors"
+#~ msgstr "kaikki moottorit"
+
+#~ msgid "Cloud"
+#~ msgstr "Pilvi"
+
+#~ msgid "Costumes:"
+#~ msgstr "Asusteet:"
+
+#~ msgid "everything"
+#~ msgstr "kaikki"
+
+#~ msgid "Extension Library"
+#~ msgstr "Laajennuskirjasto"
+
+#~ msgid "Extension Problem"
+#~ msgstr "Laajennusongelma"
+
+#~ msgid "Go to My Stuff"
+#~ msgstr "Mene minun juttuihini"
+
+# 83%
+#~ msgid "lights"
+#~ msgstr "valot"
+
+#~ msgid "limit reached"
+#~ msgstr "raja saavutettu"
+
+#~ msgid "motor"
+#~ msgstr "moottori"
+
+#~ msgid "motor A"
+#~ msgstr "moottori A"
+
+#~ msgid "motor B"
+#~ msgstr "moottori B"
+
+#~ msgid "My Stuff"
+#~ msgstr "Omat jutut"
+
+#~ msgid "not ="
+#~ msgstr "ei ="
+
+#~ msgid "Profile"
+#~ msgstr "Profiili"
+
+#~ msgid "Remove extension blocks"
+#~ msgstr "Poista laajennuslohkot"
+
+#~ msgid "requires sign in"
+#~ msgstr "vaatii sisäänkirjautumisen"
+
+#~ msgid "Save as a copy"
+#~ msgstr "Tallenna kopio"
+
+#~ msgid "Scripts:"
+#~ msgstr "Skriptit:"
+
+#~ msgid ""
+#~ "See the Tips window (on the right) to install the plug-in and get the "
+#~ "extension working."
+#~ msgstr ""
+#~ "Katso ohjeet ikkuna (oikealla) asentaaksesi liitännäisen ja saadaksesi "
+#~ "laajennuksen toimimaan."
+
+#~ msgid "Sign out"
+#~ msgstr "Kirjaudu ulos"
+
+#~ msgid "stored on server"
+#~ msgstr "tallennettu palvelimeen"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Tietoa pilvipalveluista ja -muuttujista</b><br>&nbsp;<br>Tällä "
+#~ "hetkellä vain numerot on tuettuja<br>Keskustelufoorumeja ei sallita ja ne "
+#~ "poistetaan<br>Lisätietoa: <a href= target=>usein kysytyt kysymykset</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Klikkaa uudellaan tai tallenna"
+
+#~ msgid "Eraser width:"
+#~ msgstr "Kumin leveys"
+
+#~ msgid "Line width:"
+#~ msgstr "Viivanleveys:"
 
 #~ msgid "cleanup"
 #~ msgstr "siivoa"

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-10-18 10:26+0000\n"
-"Last-Translator: Manuel <mcaeiror@gmail.com>\n"
+"PO-Revision-Date: 2015-04-15 15:06+0000\n"
+"Last-Translator: Natalie <nrusk@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: gl\n"
 "MIME-Version: 1.0\n"
@@ -12,11 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1413627988.000000\n"
-
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Galego"
+"X-POOTLE-MTIME: 1429110396.000000\n"
 
 msgid "%b and %b"
 msgstr "%b e %b"
@@ -26,9 +22,6 @@ msgstr "%b ou %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute de %m.spriteOrStage"
-
-msgid "%m.list contains %s"
-msgstr "%m.list contén %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp de %n"
@@ -467,9 +460,6 @@ msgstr "ao recibir %m.broadcast"
 msgid "when I start as a clone"
 msgstr "cando comence como clon"
 
-msgid "when Stage clicked"
-msgstr "ao premer no Escenario"
-
 msgid "when this sprite clicked"
 msgstr "ao premer nesta figura"
 
@@ -482,26 +472,9 @@ msgstr "posición x"
 msgid "y position"
 msgstr "posición y"
 
-msgid "set motor direction %m.motorDirection"
-msgstr "fixar dirección do motor %m.motorDirection"
-
-msgid "set motor power %n"
-msgstr "fixar potencia do motor a %n"
-
-msgid "turn motor off"
-msgstr "apagar motor"
-
-msgid "turn motor on"
-msgstr "acender motor"
-
-msgid "turn motor on for %n secs"
-msgstr "acender motor durante %n segundos"
-
-msgid "when distance < %n"
-msgstr "cando a distancia sexa < %n"
-
-msgid "when tilt = %n"
-msgstr "cando a pendente = %n"
+#: commands-online.txt:7 commands-offline.txt:7
+msgid "%m.list contains %s?"
+msgstr "%m.list contén %s?"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -529,17 +502,8 @@ msgstr "Hai dispoñible unha nova versión de Scratch"
 msgid "About"
 msgstr "Acerca de"
 
-msgid "About LEGO WeDo extension..."
-msgstr "Acerca da extensión LEGO WeDo"
-
-msgid "About PicoBoard extension..."
-msgstr "Acerca da extensión PicoBoard..."
-
 msgid "abs"
 msgstr "valor absoluto"
-
-msgid "Account settings"
-msgstr "Configuración da conta"
 
 msgid "acos"
 msgstr "arco coseno"
@@ -555,9 +519,6 @@ msgstr "Engadir entrada lóxica:"
 
 msgid "add comment"
 msgstr "engadir comentario"
-
-msgid "add comment here..."
-msgstr "Engadir aquí un comentario"
 
 msgid "Add label text:"
 msgstr "Engadir texto da etiqueta:"
@@ -576,9 +537,6 @@ msgstr "Todos"
 
 msgid "all around"
 msgstr "en todas as direccións"
-
-msgid "all motors"
-msgstr "tódolos motores"
 
 msgid "Animal"
 msgstr "Animal"
@@ -688,9 +646,6 @@ msgstr "pode ser arrastrado:"
 msgid "Cancel"
 msgstr "Cancelar"
 
-msgid "Cannot Add"
-msgstr "Non se pode Engadir"
-
 msgid "Cannot Delete"
 msgstr "Non se pode borrar"
 
@@ -739,9 +694,6 @@ msgstr "Clarinete"
 msgid "Claves"
 msgstr "Chaves"
 
-msgid "clean up"
-msgstr "limpar"
-
 msgid "Clear"
 msgstr "Limpar"
 
@@ -757,14 +709,8 @@ msgstr "Pechar"
 msgid "Closed Hi-Hat"
 msgstr "Charles pechado"
 
-msgid "Cloud"
-msgstr "Nube"
-
 msgid "Cloud data"
 msgstr "Datos na nube"
-
-msgid "Cloud variable (stored on server)"
-msgstr "Variable na nube (gardada no servidor)"
 
 msgid "color"
 msgstr "cor"
@@ -816,9 +762,6 @@ msgstr "Vestimentas"
 
 msgid "Costumes > 1"
 msgstr "Vestimentas > 1"
-
-msgid "Costumes:"
-msgstr "Vestimentas:"
 
 msgid "Could not retrieve new application from server."
 msgstr "Non se pode descargar a nova aplicación dende o servidor."
@@ -877,9 +820,6 @@ msgstr "Descargar"
 msgid "Download to your computer"
 msgstr "Descargar ao teu ordenador"
 
-msgid "Downloading new version"
-msgstr "Descargando a nova versión"
-
 msgid "duplicate"
 msgstr "duplicar"
 
@@ -916,14 +856,8 @@ msgstr "Electrónica"
 msgid "Ellipse"
 msgstr "Elipse"
 
-msgid "empty"
-msgstr "baleiro"
-
 msgid "Erase"
 msgstr "Borrar"
-
-msgid "Erase all"
-msgstr "Borrar todo"
 
 msgid "Eraser width"
 msgstr "Groso do borrador"
@@ -931,26 +865,14 @@ msgstr "Groso do borrador"
 msgid "Error!"
 msgstr "Erro!"
 
-msgid "everything"
-msgstr "todo"
-
 msgid "export"
 msgstr "exportar"
-
-msgid "Extension Library"
-msgstr "Librería de Extensión"
-
-msgid "Extension Problem"
-msgstr "Problema de Extensión"
 
 msgid "fade in"
 msgstr "aparecer"
 
 msgid "fade out"
 msgstr "esvaecer"
-
-msgid "false"
-msgstr "falso"
 
 msgid "Fantasy"
 msgstr "Fantasía"
@@ -997,9 +919,6 @@ msgstr "Una capa cara adiante"
 msgid "ghost"
 msgstr "desaparecer"
 
-msgid "Go to My Stuff"
-msgstr "Ir a Miñas Cousas"
-
 msgid "Group"
 msgstr "Grupo"
 
@@ -1020,15 +939,6 @@ msgstr "Hardware"
 
 msgid "help"
 msgstr "axuda"
-
-msgid "Hello!"
-msgstr "Ola!"
-
-msgid "Hmm..."
-msgstr "Hmm..."
-
-msgid "hello"
-msgstr "Ola"
 
 msgid "High C"
 msgstr "Do Alto"
@@ -1087,14 +997,6 @@ msgstr "Biblioteca"
 # 80%
 msgid "light"
 msgstr "luz"
-
-# 80%
-# 83%
-msgid "lights"
-msgstr "luces"
-
-msgid "limit reached"
-msgstr "límite acadado"
 
 msgid "Line"
 msgstr "Liña"
@@ -1168,15 +1070,6 @@ msgstr "mosaico"
 msgid "motion"
 msgstr "movemento"
 
-msgid "motor"
-msgstr "motor"
-
-msgid "motor A"
-msgstr "motor A"
-
-msgid "motor B"
-msgstr "motor B"
-
 msgid "mouse-pointer"
 msgstr "punteiro do rato"
 
@@ -1191,9 +1084,6 @@ msgstr "Caixa de Música"
 
 msgid "Music Loops"
 msgstr "Bucles Musicais"
-
-msgid "My Stuff"
-msgstr "Miñas Cousas"
 
 msgid "myself"
 msgstr "a min mesmo"
@@ -1248,9 +1138,6 @@ msgstr "Non hai bloques de movemento"
 
 msgid "normal readout"
 msgstr "tamaño normal"
-
-msgid "not ="
-msgstr "non ="
 
 msgid "Not saved; network or server problem."
 msgstr "Non se gardou; problema de rede ou servidor."
@@ -1351,9 +1238,6 @@ msgstr "pop"
 msgid "previous backdrop"
 msgstr "fondo anterior"
 
-msgid "Profile"
-msgstr "Perfil"
-
 msgid "Project did not load."
 msgstr "Proxecto non cargado."
 
@@ -1396,20 +1280,11 @@ msgstr "Mesturar"
 msgid "Remixing..."
 msgstr "Mesturando..."
 
-msgid "Remove extension blocks"
-msgstr "Eliminar os bloques de extensión"
-
 msgid "Rename"
 msgstr "Renomear"
 
 msgid "rename variable"
 msgstr "renomear variable"
-
-msgid "Replace existing project"
-msgstr "Reemplazar o proxecto existente"
-
-msgid "requires sign in"
-msgstr "require entrar"
 
 msgid "Reshape"
 msgstr "Reformar"
@@ -1456,9 +1331,6 @@ msgstr "Garda unha copia deste proxecto e engade as túas propias ideas."
 msgid "Save as"
 msgstr "Gardar como"
 
-msgid "Save as a copy"
-msgstr "Gardar como unha copia"
-
 msgid "Save now"
 msgstr "Gargar agora"
 
@@ -1483,30 +1355,17 @@ msgstr "Saxofón"
 msgid "Scratch Updater"
 msgstr "Actualizador de Scratch"
 
-msgid "Scratch 2.0 Offline Editor"
-msgstr "Editor Local Scratch 2.0"
-
 msgid "Script"
 msgstr "Programa"
 
 msgid "Scripts"
 msgstr "Programas"
 
-msgid "Scripts:"
-msgstr "Programas:"
-
 msgid "second"
 msgstr "segundo"
 
 msgid "See project page"
 msgstr "Ver a páxina do proxecto"
-
-msgid ""
-"See the Tips window (on the right) to install the plug-in and get the "
-"extension working."
-msgstr ""
-"Mira a ventá de Axuda (á dereita) para instalar o plug-in e deixar a "
-"extensión en funcionamento."
 
 msgid "Select"
 msgstr "Seleccionar"
@@ -1535,9 +1394,6 @@ msgstr "Compartir"
 msgid "Share to website"
 msgstr "Compartir no sitio web"
 
-msgid "Share to Scratch website"
-msgstr "Compartir no sitio web Scratch"
-
 msgid "shared"
 msgstr "compartido"
 
@@ -1564,9 +1420,6 @@ msgstr "Entrar"
 
 msgid "Sign in to save"
 msgstr "Entrar para gardar"
-
-msgid "Sign out"
-msgstr "Saír"
 
 msgid "silence"
 msgstr "silencio"
@@ -1637,9 +1490,6 @@ msgstr "Escenario seleccionado:"
 msgid "Steel Drum"
 msgstr "Tambor metálico"
 
-msgid "stored on server"
-msgstr "gardado no servidor"
-
 msgid "Synth Lead"
 msgstr "Sintetizador melódico"
 
@@ -1661,24 +1511,11 @@ msgstr "Texto"
 msgid "that way"
 msgstr "cara alá"
 
-msgid "The name is already in use."
-msgstr "O nome xa está sendo utilizado."
-
-msgid ""
-"The project failed to load and Scratch Team has been notified. Press OK to "
-"leave this page."
-msgstr ""
-"Non se pudo cargar o proxecto e notificouse ao Equipo Scratch. Preme OK para "
-"sair desta páxina."
-
 msgid "Theme"
 msgstr "Tema"
 
 msgid "Things"
 msgstr "Cousas"
-
-msgid "thing"
-msgstr "cousa"
 
 msgid "This is the current version."
 msgstr "Esta é a versión actual."
@@ -1726,9 +1563,6 @@ msgstr "Triángulo"
 
 msgid "Trombone"
 msgstr "Trombón"
-
-msgid "true"
-msgstr "verdadeiro"
 
 msgid "Turbo mode"
 msgstr "Modo turbo"
@@ -1838,9 +1672,6 @@ msgstr "Queres gardar? Preme mesturar"
 msgid "Which column do you want to import"
 msgstr "Que columna queres importar"
 
-msgid "What's your name?"
-msgstr "Como te chamas?"
-
 msgid "whirl"
 msgstr "remuiño"
 
@@ -1849,9 +1680,6 @@ msgstr "Bloque de Madeira"
 
 msgid "Wooden Flute"
 msgstr "Flauta de madeira"
-
-msgid "world"
-msgstr "mundo"
 
 msgid "year"
 msgstr "ano"
@@ -1868,25 +1696,6 @@ msgstr "O teu nome Scratch"
 
 msgid "Your Scratch name is required"
 msgstr "Fai falla o teu nome Scratch"
-
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Información sobre variables da nube</b><br>&nbsp;<br>Agora, só se poden "
-"utilizar números<br>Non se permiten as salas de chat e serán "
-"eliminadas<br>Para máis información, <a href=\"/help/faq/#clouddata\" target="
-"\"_blank\">revisa as preguntas sobre información da nube!</a>"
-
-msgid "Click  to try again or  to save"
-msgstr "Preme  para intentar de novo ou en  para gardar"
-
-msgid "Eraser width:"
-msgstr "Groso da goma:"
-
-msgid "Line width:"
-msgstr "Groso da liña:"
 
 # Offline editor only
 msgid "All Tips"
@@ -1996,6 +1805,37 @@ msgstr ""
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "Galego"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list contén %s"
+
+#~ msgid "when Stage clicked"
+#~ msgstr "ao premer no Escenario"
+
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "fixar dirección do motor %m.motorDirection"
+
+#~ msgid "set motor power %n"
+#~ msgstr "fixar potencia do motor a %n"
+
+#~ msgid "turn motor off"
+#~ msgstr "apagar motor"
+
+#~ msgid "turn motor on"
+#~ msgstr "acender motor"
+
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "acender motor durante %n segundos"
+
+#~ msgid "when distance < %n"
+#~ msgstr "cando a distancia sexa < %n"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "cando a pendente = %n"
+
 # 86%
 #~ msgid "set %m.motor direction to %m.motorDirection"
 #~ msgstr "fixar dirección %m.motor a %m.motorDirection"
@@ -2008,6 +1848,170 @@ msgstr ""
 
 #~ msgid "play note %n for %n beats"
 #~ msgstr "facer soar a nota %d.note durante %n"
+
+#~ msgid "About LEGO WeDo extension..."
+#~ msgstr "Acerca da extensión LEGO WeDo"
+
+#~ msgid "About PicoBoard extension..."
+#~ msgstr "Acerca da extensión PicoBoard..."
+
+#~ msgid "Account settings"
+#~ msgstr "Configuración da conta"
+
+#~ msgid "add comment here..."
+#~ msgstr "Engadir aquí un comentario"
+
+#~ msgid "all motors"
+#~ msgstr "tódolos motores"
+
+#~ msgid "Cannot Add"
+#~ msgstr "Non se pode Engadir"
+
+#~ msgid "clean up"
+#~ msgstr "limpar"
+
+#~ msgid "Cloud"
+#~ msgstr "Nube"
+
+#~ msgid "Cloud variable (stored on server)"
+#~ msgstr "Variable na nube (gardada no servidor)"
+
+#~ msgid "Costumes:"
+#~ msgstr "Vestimentas:"
+
+#~ msgid "Downloading new version"
+#~ msgstr "Descargando a nova versión"
+
+#~ msgid "empty"
+#~ msgstr "baleiro"
+
+#~ msgid "Erase all"
+#~ msgstr "Borrar todo"
+
+#~ msgid "everything"
+#~ msgstr "todo"
+
+#~ msgid "Extension Library"
+#~ msgstr "Librería de Extensión"
+
+#~ msgid "Extension Problem"
+#~ msgstr "Problema de Extensión"
+
+#~ msgid "false"
+#~ msgstr "falso"
+
+#~ msgid "Go to My Stuff"
+#~ msgstr "Ir a Miñas Cousas"
+
+#~ msgid "Hello!"
+#~ msgstr "Ola!"
+
+#~ msgid "Hmm..."
+#~ msgstr "Hmm..."
+
+#~ msgid "hello"
+#~ msgstr "Ola"
+
+# 80%
+# 83%
+#~ msgid "lights"
+#~ msgstr "luces"
+
+#~ msgid "limit reached"
+#~ msgstr "límite acadado"
+
+#~ msgid "motor"
+#~ msgstr "motor"
+
+#~ msgid "motor A"
+#~ msgstr "motor A"
+
+#~ msgid "motor B"
+#~ msgstr "motor B"
+
+#~ msgid "My Stuff"
+#~ msgstr "Miñas Cousas"
+
+#~ msgid "not ="
+#~ msgstr "non ="
+
+#~ msgid "Profile"
+#~ msgstr "Perfil"
+
+#~ msgid "Remove extension blocks"
+#~ msgstr "Eliminar os bloques de extensión"
+
+#~ msgid "Replace existing project"
+#~ msgstr "Reemplazar o proxecto existente"
+
+#~ msgid "requires sign in"
+#~ msgstr "require entrar"
+
+#~ msgid "Save as a copy"
+#~ msgstr "Gardar como unha copia"
+
+#~ msgid "Scratch 2.0 Offline Editor"
+#~ msgstr "Editor Local Scratch 2.0"
+
+#~ msgid "Scripts:"
+#~ msgstr "Programas:"
+
+#~ msgid ""
+#~ "See the Tips window (on the right) to install the plug-in and get the "
+#~ "extension working."
+#~ msgstr ""
+#~ "Mira a ventá de Axuda (á dereita) para instalar o plug-in e deixar a "
+#~ "extensión en funcionamento."
+
+#~ msgid "Share to Scratch website"
+#~ msgstr "Compartir no sitio web Scratch"
+
+#~ msgid "Sign out"
+#~ msgstr "Saír"
+
+#~ msgid "stored on server"
+#~ msgstr "gardado no servidor"
+
+#~ msgid "The name is already in use."
+#~ msgstr "O nome xa está sendo utilizado."
+
+#~ msgid ""
+#~ "The project failed to load and Scratch Team has been notified. Press OK "
+#~ "to leave this page."
+#~ msgstr ""
+#~ "Non se pudo cargar o proxecto e notificouse ao Equipo Scratch. Preme OK "
+#~ "para sair desta páxina."
+
+#~ msgid "thing"
+#~ msgstr "cousa"
+
+#~ msgid "true"
+#~ msgstr "verdadeiro"
+
+#~ msgid "What's your name?"
+#~ msgstr "Como te chamas?"
+
+#~ msgid "world"
+#~ msgstr "mundo"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Información sobre variables da nube</b><br>&nbsp;<br>Agora, só se "
+#~ "poden utilizar números<br>Non se permiten as salas de chat e serán "
+#~ "eliminadas<br>Para máis información, <a href=\"/help/faq/#clouddata\" "
+#~ "target=\"_blank\">revisa as preguntas sobre información da nube!</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Preme  para intentar de novo ou en  para gardar"
+
+#~ msgid "Eraser width:"
+#~ msgstr "Groso da goma:"
+
+#~ msgid "Line width:"
+#~ msgstr "Groso da liña:"
 
 #~ msgid "cleanup"
 #~ msgstr "limpar"

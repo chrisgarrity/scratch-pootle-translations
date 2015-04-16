@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-02-08 23:56+0000\n"
-"Last-Translator: Juan Pablo <juanpabl@gmail.com>\n"
+"PO-Revision-Date: 2015-04-15 13:52+0000\n"
+"Last-Translator: Natalie <nrusk@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: an\n"
 "MIME-Version: 1.0\n"
@@ -12,11 +12,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1423439796.000000\n"
+"X-POOTLE-MTIME: 1429105936.000000\n"
 
 # The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Aragonés"
+#~ msgid "Language-Name"
+#~ msgstr "Aragonés"
 
 msgid "%b and %b"
 msgstr "%b y %b"
@@ -27,8 +27,8 @@ msgstr "%b u %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute de %m.spriteOrStage"
 
-msgid "%m.list contains %s"
-msgstr "%m.list contién %s"
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list contién %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp de %n"
@@ -467,8 +467,8 @@ msgstr "en recibir %m.broadcast"
 msgid "when I start as a clone"
 msgstr "quan empecipie una copia mía"
 
-msgid "when Stage clicked"
-msgstr "quan se faiga clic en o scenario"
+#~ msgid "when Stage clicked"
+#~ msgstr "quan se faiga clic en o scenario"
 
 msgid "when this sprite clicked"
 msgstr "quan se faiga clic en iste obchecto"
@@ -482,26 +482,26 @@ msgstr "posición en x"
 msgid "y position"
 msgstr "posición en y"
 
-msgid "set motor direction %m.motorDirection"
-msgstr "fixar a dirección d'o motor %m.motorDirection"
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "fixar a dirección d'o motor %m.motorDirection"
 
-msgid "set motor power %n"
-msgstr "fixar a potencia d'o motor a %n"
+#~ msgid "set motor power %n"
+#~ msgstr "fixar a potencia d'o motor a %n"
 
-msgid "turn motor off"
-msgstr "amortar o motor"
+#~ msgid "turn motor off"
+#~ msgstr "amortar o motor"
 
-msgid "turn motor on"
-msgstr "enchegar o motor"
+#~ msgid "turn motor on"
+#~ msgstr "enchegar o motor"
 
-msgid "turn motor on for %n secs"
-msgstr "enchegar o motor por %n segundos"
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "enchegar o motor por %n segundos"
 
-msgid "when distance < %n"
-msgstr "quan a distancia < %n"
+#~ msgid "when distance < %n"
+#~ msgstr "quan a distancia < %n"
 
-msgid "when tilt = %n"
-msgstr "quan a inclinación = %n"
+#~ msgid "when tilt = %n"
+#~ msgstr "quan a inclinación = %n"
 
 # 86%
 #, fuzzy
@@ -528,3 +528,8 @@ msgstr "quan a inclinación = %n"
 
 #~ msgid "user name"
 #~ msgstr "nombre d'usuario"
+
+#: commands-online.txt:7
+#: commands-offline.txt:7
+msgid "%m.list contains %s?"
+msgstr "%m.list contién %s?"

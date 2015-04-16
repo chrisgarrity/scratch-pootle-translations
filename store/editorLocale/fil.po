@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-07-10 22:52+0000\n"
+"PO-Revision-Date: 2015-04-14 18:21+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fil\n"
@@ -12,11 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1405032730.000000\n"
-
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Filipino"
+"X-POOTLE-MTIME: 1429035686.000000\n"
 
 msgid "%b and %b"
 msgstr "%b at %b"
@@ -505,6 +501,10 @@ msgid "when distance < %n"
 msgstr ""
 
 msgid "when tilt = %n"
+msgstr ""
+
+#: commands-online.txt:7 commands-offline.txt:7
+msgid "%m.list contains %s?"
 msgstr ""
 
 msgid "10 ^"
@@ -1970,6 +1970,10 @@ msgstr ""
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
+
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "Filipino"
 
 #~ msgid "motor off"
 #~ msgstr "patayin ang motor"

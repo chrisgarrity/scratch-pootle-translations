@@ -15,10 +15,6 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1393540412.000000\n"
 
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Malti"
-
 msgid "%b and %b"
 msgstr "%b u %b"
 
@@ -27,9 +23,6 @@ msgstr "%b jew %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute ta %m.spriteOrStage"
-
-msgid "%m.list contains %s"
-msgstr "%m.list għandu %s ġo fiħ"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp ta %n"
@@ -495,26 +488,16 @@ msgstr "pozizzjoni ta x"
 msgid "y position"
 msgstr "pozizzjoni ta y"
 
-msgid "set motor direction %m.motorDirection"
-msgstr "qiegħed id-direzzjoni tal-mutur %m.motorDirection"
-
 msgid "set motor power %n"
 msgstr ""
 
-msgid "turn motor off"
-msgstr "itfi il-mutur"
-
-msgid "turn motor on"
-msgstr "ixgħel il-mutur"
-
-msgid "turn motor on for %n secs"
-msgstr "ixgħel il-mutur ghall %n sekondi"
-
-msgid "when distance < %n"
-msgstr "meta id-distanza < %n"
-
 msgid "when tilt = %n"
 msgstr ""
+
+#: commands-online.txt:7 commands-offline.txt:7
+#, fuzzy
+msgid "%m.list contains %s?"
+msgstr "%m.list għandu %s ġo fiħ"
 
 msgid "10 ^"
 msgstr ""
@@ -1976,6 +1959,28 @@ msgstr ""
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
+
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "Malti"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list għandu %s ġo fiħ"
+
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "qiegħed id-direzzjoni tal-mutur %m.motorDirection"
+
+#~ msgid "turn motor off"
+#~ msgstr "itfi il-mutur"
+
+#~ msgid "turn motor on"
+#~ msgstr "ixgħel il-mutur"
+
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "ixgħel il-mutur ghall %n sekondi"
+
+#~ msgid "when distance < %n"
+#~ msgstr "meta id-distanza < %n"
 
 # 86%
 #, fuzzy

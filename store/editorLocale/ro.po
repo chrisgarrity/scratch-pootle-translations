@@ -15,10 +15,6 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1382274078.000000\n"
 
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Română"
-
 msgid "%b and %b"
 msgstr "%b si %b"
 
@@ -27,9 +23,6 @@ msgstr "%b sau %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute din %m.spriteOrStage"
-
-msgid "%m.list contains %s"
-msgstr "%m.list conține %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp din %n"
@@ -491,29 +484,10 @@ msgstr "pozitia x"
 msgid "y position"
 msgstr "pozitia y"
 
-# 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "seteaza directia motorului la %m.motorDirection"
-
-# 77%
-msgid "set motor power %n"
-msgstr "seteaza puterea motorului la %n"
-
-msgid "turn motor off"
-msgstr "opreste motorul"
-
-msgid "turn motor on"
-msgstr "porneste motorul"
-
-# 80%
-msgid "turn motor on for %n secs"
-msgstr "porneste motorul pentru %n sec"
-
-msgid "when distance < %n"
-msgstr "cand distanta < %n"
-
-msgid "when tilt = %n"
-msgstr "cand inclinarea = %n"
+#: commands-online.txt:7 commands-offline.txt:7
+#, fuzzy
+msgid "%m.list contains %s?"
+msgstr "%m.list conține %s"
 
 msgid "10 ^"
 msgstr "10^"
@@ -549,9 +523,6 @@ msgstr ""
 
 msgid "abs"
 msgstr "modul"
-
-msgid "Account settings"
-msgstr "Setarile contului"
 
 msgid "acos"
 msgstr "acos"
@@ -769,9 +740,6 @@ msgstr "Inchide"
 msgid "Closed Hi-Hat"
 msgstr "Hi-Hat inchis"
 
-msgid "Cloud"
-msgstr "Cloud"
-
 msgid "Cloud data"
 msgstr "Informatii din cloud"
 
@@ -828,9 +796,6 @@ msgstr "Costume"
 
 msgid "Costumes > 1"
 msgstr "Costume > 1"
-
-msgid "Costumes:"
-msgstr "Costume:"
 
 msgid "Could not retrieve new application from server."
 msgstr ""
@@ -1010,9 +975,6 @@ msgstr "Inainteaza un strat"
 msgid "ghost"
 msgstr "fantoma"
 
-msgid "Go to My Stuff"
-msgstr "Mergi la lucrurile mele"
-
 msgid "Group"
 msgstr "Grupeaza"
 
@@ -1107,9 +1069,6 @@ msgstr "lumina"
 #, fuzzy
 msgid "lights"
 msgstr "lumina"
-
-msgid "limit reached"
-msgstr "s-a atins limita"
 
 msgid "Line"
 msgstr "Linie"
@@ -1208,9 +1167,6 @@ msgstr "Cutie muzicala"
 
 msgid "Music Loops"
 msgstr "Repetitii muzica"
-
-msgid "My Stuff"
-msgstr "Lucrurile mele"
 
 msgid "myself"
 msgstr "eu"
@@ -1369,9 +1325,6 @@ msgstr "pop"
 msgid "previous backdrop"
 msgstr ""
 
-msgid "Profile"
-msgstr "Profil"
-
 msgid "Project did not load."
 msgstr "Proiectul nu s-a incarcat."
 
@@ -1427,9 +1380,6 @@ msgstr "redenumeste variabila"
 msgid "Replace existing project"
 msgstr ""
 
-msgid "requires sign in"
-msgstr "este necesara logarea"
-
 msgid "Reshape"
 msgstr "Remodeleaza"
 
@@ -1475,9 +1425,6 @@ msgstr ""
 msgid "Save as"
 msgstr ""
 
-msgid "Save as a copy"
-msgstr "Salveaza o copie"
-
 msgid "Save now"
 msgstr "Salveaza acum"
 
@@ -1510,9 +1457,6 @@ msgstr "Script"
 
 msgid "Scripts"
 msgstr "Script-uri"
-
-msgid "Scripts:"
-msgstr "Script-uri:"
 
 msgid "second"
 msgstr "al doilea"
@@ -1581,9 +1525,6 @@ msgstr "Logare"
 
 msgid "Sign in to save"
 msgstr "Logheaza-te pentru a salva"
-
-msgid "Sign out"
-msgstr "Iesire"
 
 msgid "silence"
 msgstr "liniste"
@@ -1656,9 +1597,6 @@ msgstr "Scena selectata:"
 
 msgid "Steel Drum"
 msgstr "Steel Drum"
-
-msgid "stored on server"
-msgstr "salvat pe server"
 
 msgid "Synth Lead"
 msgstr "Synth Lead"
@@ -1891,19 +1829,6 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Informatia despre variabilele Cloud</b><br>&nbsp;<br>In acest moment sunt "
-"suportate numai numere<br>Camerele de chat nu sunt permise si vor fi "
-"eliminate<br>Pentru mai multe informatii, <a href= target=>vezi sectiunea "
-"cloud FAQ!</a>"
-
-msgid "Click  to try again or  to save"
-msgstr "Clic pentru a incerca din nou sau  pentru a salva"
-
 # 92%
 #, fuzzy
 msgid "Eraser width:"
@@ -2016,6 +1941,37 @@ msgstr ""
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "Română"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list conține %s"
+
+# 89%
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "seteaza directia motorului la %m.motorDirection"
+
+# 77%
+#~ msgid "set motor power %n"
+#~ msgstr "seteaza puterea motorului la %n"
+
+#~ msgid "turn motor off"
+#~ msgstr "opreste motorul"
+
+#~ msgid "turn motor on"
+#~ msgstr "porneste motorul"
+
+# 80%
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "porneste motorul pentru %n sec"
+
+#~ msgid "when distance < %n"
+#~ msgstr "cand distanta < %n"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "cand inclinarea = %n"
+
 # 89%
 # 86%
 #, fuzzy
@@ -2048,6 +2004,55 @@ msgstr ""
 
 #~ msgid "play note %n for %n beats"
 #~ msgstr "canta nota %d.note pentru %n timpi"
+
+#~ msgid "Account settings"
+#~ msgstr "Setarile contului"
+
+#~ msgid "Cloud"
+#~ msgstr "Cloud"
+
+#~ msgid "Costumes:"
+#~ msgstr "Costume:"
+
+#~ msgid "Go to My Stuff"
+#~ msgstr "Mergi la lucrurile mele"
+
+#~ msgid "limit reached"
+#~ msgstr "s-a atins limita"
+
+#~ msgid "My Stuff"
+#~ msgstr "Lucrurile mele"
+
+#~ msgid "Profile"
+#~ msgstr "Profil"
+
+#~ msgid "requires sign in"
+#~ msgstr "este necesara logarea"
+
+#~ msgid "Save as a copy"
+#~ msgstr "Salveaza o copie"
+
+#~ msgid "Scripts:"
+#~ msgstr "Script-uri:"
+
+#~ msgid "Sign out"
+#~ msgstr "Iesire"
+
+#~ msgid "stored on server"
+#~ msgstr "salvat pe server"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Informatia despre variabilele Cloud</b><br>&nbsp;<br>In acest moment "
+#~ "sunt suportate numai numere<br>Camerele de chat nu sunt permise si vor fi "
+#~ "eliminate<br>Pentru mai multe informatii, <a href= target=>vezi sectiunea "
+#~ "cloud FAQ!</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Clic pentru a incerca din nou sau  pentru a salva"
 
 #~ msgid "Microphone Volume:"
 #~ msgstr "Volumul microfonului:"

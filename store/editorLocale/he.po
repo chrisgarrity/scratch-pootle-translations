@@ -14,10 +14,6 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1369923502.000000\n"
 
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "עִבְרִית"
-
 msgid "%b and %b"
 msgstr "%b וגם %b"
 
@@ -26,9 +22,6 @@ msgstr "%b או %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute של %m.spriteOrStage"
-
-msgid "%m.list contains %s"
-msgstr "%m.list מכיל %s ?"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp של %n"
@@ -486,26 +479,10 @@ msgstr "מיקום על ציר x"
 msgid "y position"
 msgstr "מיקום על ציר y"
 
-msgid "set motor direction %m.motorDirection"
-msgstr "קבע כיוון מנוע ל %m.motorDirection"
-
-msgid "set motor power %n"
-msgstr "קבע עוצמת מנוע ל %n"
-
-msgid "turn motor off"
-msgstr "כבה מנוע"
-
-msgid "turn motor on"
-msgstr "הפעל מנוע"
-
-msgid "turn motor on for %n secs"
-msgstr "הפעל מנוע ל %n שניות"
-
-msgid "when distance < %n"
-msgstr "כאשר מרחק > %n"
-
-msgid "when tilt = %n"
-msgstr "כאשר הטיה = %n"
+#: commands-online.txt:7 commands-offline.txt:7
+#, fuzzy
+msgid "%m.list contains %s?"
+msgstr "%m.list מכיל %s ?"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -539,9 +516,6 @@ msgstr ""
 
 msgid "abs"
 msgstr "abs"
-
-msgid "Account settings"
-msgstr "הגדרות של החשבון"
 
 msgid "acos"
 msgstr "acos"
@@ -761,9 +735,6 @@ msgstr "סגור"
 msgid "Closed Hi-Hat"
 msgstr "Hi-Hat סגור"
 
-msgid "Cloud"
-msgstr "ענן"
-
 msgid "Cloud data"
 msgstr "נתוני ענן"
 
@@ -822,9 +793,6 @@ msgstr "תלבושת"
 
 msgid "Costumes > 1"
 msgstr "תלבושות > 1"
-
-msgid "Costumes:"
-msgstr "תלבושות:"
 
 msgid "Could not retrieve new application from server."
 msgstr ""
@@ -1007,9 +975,6 @@ msgstr "שכבה קדימה"
 msgid "ghost"
 msgstr "רוח רפאים"
 
-msgid "Go to My Stuff"
-msgstr "לך לדברים שלי"
-
 msgid "Group"
 msgstr "קבץ"
 
@@ -1104,9 +1069,6 @@ msgstr "אור"
 #, fuzzy
 msgid "lights"
 msgstr "אור"
-
-msgid "limit reached"
-msgstr "הגעה לקצה"
 
 msgid "Line"
 msgstr "קו"
@@ -1205,9 +1167,6 @@ msgstr "תיבת נגינה "
 
 msgid "Music Loops"
 msgstr "לולאות מוסיקה"
-
-msgid "My Stuff"
-msgstr "הדברים שלי"
 
 msgid "myself"
 msgstr "עצמי"
@@ -1370,9 +1329,6 @@ msgstr "פופ"
 msgid "previous backdrop"
 msgstr ""
 
-msgid "Profile"
-msgstr "פרופיל"
-
 msgid "Project did not load."
 msgstr ""
 
@@ -1428,9 +1384,6 @@ msgstr "שנה שם משתנה"
 msgid "Replace existing project"
 msgstr ""
 
-msgid "requires sign in"
-msgstr "חובה להתחבר"
-
 msgid "Reshape"
 msgstr "שנה צורה"
 
@@ -1476,9 +1429,6 @@ msgstr ""
 msgid "Save as"
 msgstr ""
 
-msgid "Save as a copy"
-msgstr "שמור כעותק"
-
 msgid "Save now"
 msgstr "שמור עכשיו"
 
@@ -1512,10 +1462,6 @@ msgstr "תסריטים"
 
 msgid "Scripts"
 msgstr "תסריטים"
-
-# 87%
-msgid "Scripts:"
-msgstr "תסריטים:"
 
 msgid "second"
 msgstr "שניה"
@@ -1586,9 +1532,6 @@ msgstr "התחבר"
 
 msgid "Sign in to save"
 msgstr "התחבר כדי לשמור"
-
-msgid "Sign out"
-msgstr "נתק"
 
 msgid "silence"
 msgstr "שקט"
@@ -1662,9 +1605,6 @@ msgstr "נבחרה הבמה:"
 
 msgid "Steel Drum"
 msgstr "תוף האנג"
-
-msgid "stored on server"
-msgstr "נשמר על השרת"
 
 msgid "Synth Lead"
 msgstr "סינתיסייזר"
@@ -1888,23 +1828,6 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"מידע בקשר למשתני ענן.כעת נתמכים רק משתנים. חדרי שיחות אינם מורשים ויימחקו. "
-"למידע נוסף, ראה: שאלות נפוצות."
-
-msgid "Click  to try again or  to save"
-msgstr "לחץ לנסות שנית או כדי לשמור"
-
-msgid "Eraser width:"
-msgstr "רוחב מחק:"
-
-msgid "Line width:"
-msgstr "רוחב קו:"
-
 # Offline editor only
 msgid "All Tips"
 msgstr ""
@@ -2007,6 +1930,34 @@ msgstr ""
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "עִבְרִית"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list מכיל %s ?"
+
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "קבע כיוון מנוע ל %m.motorDirection"
+
+#~ msgid "set motor power %n"
+#~ msgstr "קבע עוצמת מנוע ל %n"
+
+#~ msgid "turn motor off"
+#~ msgstr "כבה מנוע"
+
+#~ msgid "turn motor on"
+#~ msgstr "הפעל מנוע"
+
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "הפעל מנוע ל %n שניות"
+
+#~ msgid "when distance < %n"
+#~ msgstr "כאשר מרחק > %n"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "כאשר הטיה = %n"
+
 # 86%
 #, fuzzy
 #~ msgid "set %m.motor direction to %m.motorDirection"
@@ -2053,6 +2004,60 @@ msgstr ""
 
 #~ msgid "when I am clicked"
 #~ msgstr "כאשר לוחצים עלי"
+
+#~ msgid "Account settings"
+#~ msgstr "הגדרות של החשבון"
+
+#~ msgid "Cloud"
+#~ msgstr "ענן"
+
+#~ msgid "Costumes:"
+#~ msgstr "תלבושות:"
+
+#~ msgid "Go to My Stuff"
+#~ msgstr "לך לדברים שלי"
+
+#~ msgid "limit reached"
+#~ msgstr "הגעה לקצה"
+
+#~ msgid "My Stuff"
+#~ msgstr "הדברים שלי"
+
+#~ msgid "Profile"
+#~ msgstr "פרופיל"
+
+#~ msgid "requires sign in"
+#~ msgstr "חובה להתחבר"
+
+#~ msgid "Save as a copy"
+#~ msgstr "שמור כעותק"
+
+# 87%
+#~ msgid "Scripts:"
+#~ msgstr "תסריטים:"
+
+#~ msgid "Sign out"
+#~ msgstr "נתק"
+
+#~ msgid "stored on server"
+#~ msgstr "נשמר על השרת"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "מידע בקשר למשתני ענן.כעת נתמכים רק משתנים. חדרי שיחות אינם מורשים "
+#~ "ויימחקו. למידע נוסף, ראה: שאלות נפוצות."
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "לחץ לנסות שנית או כדי לשמור"
+
+#~ msgid "Eraser width:"
+#~ msgstr "רוחב מחק:"
+
+#~ msgid "Line width:"
+#~ msgstr "רוחב קו:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "הוסף קלט בוליאני:"

@@ -15,8 +15,8 @@ msgstr ""
 "X-POOTLE-MTIME: 1398237976.000000\n"
 
 # The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "മലയാളം"
+#~ msgid "Language-Name"
+#~ msgstr "മലയാളം"
 
 msgid "%b and %b"
 msgstr "%b കൂടാതെ %b"
@@ -27,8 +27,8 @@ msgstr "%b അഥവാ %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.സ്പ്രയ്റ്റിനെ അഥവാ രംഗത്ത സംബന്ധിക്കുന്ന.%m"
 
-msgid "%m.list contains %s"
-msgstr "%m.listല്‍ %s ഉണ്ടോ"
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.listല്‍ %s ഉണ്ടോ"
 
 msgid "%m.mathOp of %n"
 msgstr "%m ന്റെ %n.mathOp"
@@ -482,26 +482,26 @@ msgstr "xസ്ഥാനം"
 msgid "y position"
 msgstr "yസ്ഥാനം"
 
-msgid "set motor direction %m.motorDirection"
-msgstr "മോട്ടോറിന്‍റെ ദിശ %m ആക്കുക"
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "മോട്ടോറിന്‍റെ ദിശ %m ആക്കുക"
 
-msgid "set motor power %n"
-msgstr "മോട്ടോറിന്‍റെ പവര്‍ %n ആക്കുക"
+#~ msgid "set motor power %n"
+#~ msgstr "മോട്ടോറിന്‍റെ പവര്‍ %n ആക്കുക"
 
-msgid "turn motor off"
-msgstr "മോട്ടോര്‍ ഓഫ്‌ ആക്കുക"
+#~ msgid "turn motor off"
+#~ msgstr "മോട്ടോര്‍ ഓഫ്‌ ആക്കുക"
 
-msgid "turn motor on"
-msgstr "മോട്ടോര്‍ ഓണ്‍ ആക്കുക"
+#~ msgid "turn motor on"
+#~ msgstr "മോട്ടോര്‍ ഓണ്‍ ആക്കുക"
 
-msgid "turn motor on for %n secs"
-msgstr "മോട്ടോര്‍ %n നിമിഷം ഓണാക്കുക"
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "മോട്ടോര്‍ %n നിമിഷം ഓണാക്കുക"
 
-msgid "when distance < %n"
-msgstr "ദൂരം < %n ആവുമ്പോള്‍"
+#~ msgid "when distance < %n"
+#~ msgstr "ദൂരം < %n ആവുമ്പോള്‍"
 
-msgid "when tilt = %n"
-msgstr "ചെരിവ് = %n ആവുമ്പോള്‍"
+#~ msgid "when tilt = %n"
+#~ msgstr "ചെരിവ് = %n ആവുമ്പോള്‍"
 
 # 86%
 #~ msgid "set %m.motor direction to %m.motorDirection"
@@ -512,3 +512,9 @@ msgstr "ചെരിവ് = %n ആവുമ്പോള്‍"
 
 #~ msgid "if %b"
 #~ msgstr "%b ആണെങ്കില്‍"
+
+#: commands-online.txt:7
+#: commands-offline.txt:7
+#, fuzzy
+msgid "%m.list contains %s?"
+msgstr "%m.listല്‍ %s ഉണ്ടോ"

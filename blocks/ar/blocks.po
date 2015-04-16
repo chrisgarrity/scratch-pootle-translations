@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-07-10 22:57+0000\n"
+"PO-Revision-Date: 2015-04-15 04:03+0000\n"
 "Last-Translator: adlogi <adlogi@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ar\n"
@@ -13,11 +13,11 @@ msgstr ""
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1405033057.000000\n"
+"X-POOTLE-MTIME: 1429070628.000000\n"
 
 # The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "العربية"
+#~ msgid "Language-Name"
+#~ msgstr "العربية"
 
 msgid "%b and %b"
 msgstr "%b و %b"
@@ -28,8 +28,8 @@ msgstr "%b أو %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute للكائن %m.spriteOrStage"
 
-msgid "%m.list contains %s"
-msgstr "%m.list تحتوي %s"
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list تحتوي %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp للقيمة %n"
@@ -476,8 +476,8 @@ msgstr "عندما تستقبل %m.broadcast"
 msgid "when I start as a clone"
 msgstr "عندما تبدأ نسخة مني"
 
-msgid "when Stage clicked"
-msgstr "عند نقر المنصة"
+#~ msgid "when Stage clicked"
+#~ msgstr "عند نقر المنصة"
 
 msgid "when this sprite clicked"
 msgstr "عند نقر هذا الكائن"
@@ -492,28 +492,28 @@ msgid "y position"
 msgstr "الموضع ص"
 
 # 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "اجعل اتجاه المحرك %m.motorDirection"
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "اجعل اتجاه المحرك %m.motorDirection"
 
 # 77%
-msgid "set motor power %n"
-msgstr "اجعل طاقة المحرك مساويةً %n"
+#~ msgid "set motor power %n"
+#~ msgstr "اجعل طاقة المحرك مساويةً %n"
 
-msgid "turn motor off"
-msgstr "أوقف المحرك"
+#~ msgid "turn motor off"
+#~ msgstr "أوقف المحرك"
 
-msgid "turn motor on"
-msgstr "شغّل المحرك"
+#~ msgid "turn motor on"
+#~ msgstr "شغّل المحرك"
 
 # 80%
-msgid "turn motor on for %n secs"
-msgstr "شغِّل المحرك لمدة %n ثانية"
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "شغِّل المحرك لمدة %n ثانية"
 
-msgid "when distance < %n"
-msgstr "عندما المسافة > %n"
+#~ msgid "when distance < %n"
+#~ msgstr "عندما المسافة > %n"
 
-msgid "when tilt = %n"
-msgstr "عندما الميل = %n"
+#~ msgid "when tilt = %n"
+#~ msgstr "عندما الميل = %n"
 
 # 89%
 # 86%
@@ -576,3 +576,8 @@ msgstr "عندما الميل = %n"
 
 #~ msgid "when I am clicked"
 #~ msgstr "عندما أنقرك"
+
+#: commands-online.txt:7
+#: commands-offline.txt:7
+msgid "%m.list contains %s?"
+msgstr "%m.list تحتوي %s؟"

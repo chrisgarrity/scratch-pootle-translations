@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-07-15 13:34+0000\n"
-"Last-Translator: Stavros Rafael <georgekourkouliss@yahoo.gr>\n"
+"PO-Revision-Date: 2015-04-15 15:11+0000\n"
+"Last-Translator: Natalie <nrusk@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
@@ -12,11 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1405431289.000000\n"
-
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Ελληνικά"
+"X-POOTLE-MTIME: 1429110685.000000\n"
 
 msgid "%b and %b"
 msgstr "%b και %b"
@@ -26,9 +22,6 @@ msgstr "%b ή %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute από %m.spriteOrStage"
-
-msgid "%m.list contains %s"
-msgstr "Η λίστα %m.list περιέχει %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp από %n"
@@ -470,9 +463,6 @@ msgstr "Όταν λάβω το %m.broadcast"
 msgid "when I start as a clone"
 msgstr "Όταν ξεκινήσει ο κλώνος"
 
-msgid "when Stage clicked"
-msgstr "Όταν γίνει κλικ στο Σκηνικό"
-
 msgid "when this sprite clicked"
 msgstr "Όταν σε αυτό το αντικείμενο γίνει κλικ"
 
@@ -485,29 +475,9 @@ msgstr "θέση του x"
 msgid "y position"
 msgstr "θέση του y"
 
-# 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "όρισε την κατεύθυνση κίνησης του κινητήρα σε %m.motorDirection"
-
-# 77%
-msgid "set motor power %n"
-msgstr "όρισε την ισχύ κινητήρα σε %n"
-
-msgid "turn motor off"
-msgstr "απενεργοποίησε τον κινητήρα"
-
-msgid "turn motor on"
-msgstr "ενεργοποίησε τον κινητήρα"
-
-# 80%
-msgid "turn motor on for %n secs"
-msgstr "ενεργοποίησε τον κινητήρα για %n δευτερόλεπτα"
-
-msgid "when distance < %n"
-msgstr "Όταν η απόσταση < %n"
-
-msgid "when tilt = %n"
-msgstr "Όταν η κλίση = %n"
+#: commands-online.txt:7 commands-offline.txt:7
+msgid "%m.list contains %s?"
+msgstr "Η λίστα %m.list περιέχει %s"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -536,17 +506,8 @@ msgstr ""
 msgid "About"
 msgstr "Σχετικά"
 
-msgid "About LEGO WeDo extension..."
-msgstr "Σχετικά με επέκταση LEGO WeDo..."
-
-msgid "About PicoBoard extension..."
-msgstr "Σχετικά με επέκταση PicoBoard..."
-
 msgid "abs"
 msgstr "ΑπόλυτηΤιμή"
-
-msgid "Account settings"
-msgstr "Ρυθμίσεις Λογαριασμού"
 
 msgid "acos"
 msgstr "acos"
@@ -583,9 +544,6 @@ msgstr "Όλα"
 
 msgid "all around"
 msgstr "ελεύθερο"
-
-msgid "all motors"
-msgstr "όλοι οι κινητήρες"
 
 msgid "Animal"
 msgstr "Ζώα"
@@ -767,9 +725,6 @@ msgstr "Κλείσιμο"
 msgid "Closed Hi-Hat"
 msgstr "Κλειστό Χάϊ-χατ"
 
-msgid "Cloud"
-msgstr "Cloud"
-
 msgid "Cloud data"
 msgstr "Δεδομένα Cloud"
 
@@ -826,9 +781,6 @@ msgstr "Ενδυμασίες"
 
 msgid "Costumes > 1"
 msgstr "Ενδυμασίες > 1"
-
-msgid "Costumes:"
-msgstr "Ενδυμασίες:"
 
 msgid "Could not retrieve new application from server."
 msgstr ""
@@ -1009,9 +961,6 @@ msgstr "Μπροστά κατά 1 στρώση"
 msgid "ghost"
 msgstr "εξαφάνισης"
 
-msgid "Go to My Stuff"
-msgstr "Μετάβαση στα πράγματά σας"
-
 msgid "Group"
 msgstr "Ένωση"
 
@@ -1105,9 +1054,6 @@ msgstr "φως"
 #, fuzzy
 msgid "lights"
 msgstr "φως"
-
-msgid "limit reached"
-msgstr "Το όριο έχει φταστεί"
 
 msgid "Line"
 msgstr "Γραμμή"
@@ -1206,9 +1152,6 @@ msgstr "Μουσικό Κουτί"
 
 msgid "Music Loops"
 msgstr "Επαναλαμβανόμενοι Ήχοι"
-
-msgid "My Stuff"
-msgstr "Τα Πράγματά Μου"
 
 msgid "myself"
 msgstr "εαυτού μου"
@@ -1367,9 +1310,6 @@ msgstr "μπουμ"
 msgid "previous backdrop"
 msgstr ""
 
-msgid "Profile"
-msgstr "Προφίλ"
-
 msgid "Project did not load."
 msgstr "Το έργο δεν φορτώθηκε."
 
@@ -1424,9 +1364,6 @@ msgstr "Μετονομασία Μεταβλητής"
 msgid "Replace existing project"
 msgstr ""
 
-msgid "requires sign in"
-msgstr "Απαιτείται σύνδεση Λογαριασμού"
-
 msgid "Reshape"
 msgstr "Αλλαγή του σχήματος"
 
@@ -1472,9 +1409,6 @@ msgstr ""
 msgid "Save as"
 msgstr ""
 
-msgid "Save as a copy"
-msgstr "Αποθήκευση ενός Αντιγράφου"
-
 msgid "Save now"
 msgstr "Αποθήκευση τώρα"
 
@@ -1507,9 +1441,6 @@ msgstr "ΣενάριΟ"
 
 msgid "Scripts"
 msgstr "Σενάρια"
-
-msgid "Scripts:"
-msgstr "Σενάρια:"
 
 msgid "second"
 msgstr "δευτερόλεπτο"
@@ -1579,9 +1510,6 @@ msgstr "Είσοδος"
 msgid "Sign in to save"
 msgstr "Συνδεθείτε στο λογαριασμό σας για να αποθηκεύσετε"
 
-msgid "Sign out"
-msgstr "Έξοδος"
-
 msgid "silence"
 msgstr "Σίγαση"
 
@@ -1650,9 +1578,6 @@ msgstr "Το Σκηνικό που έχει επιλεγεί:"
 
 msgid "Steel Drum"
 msgstr "Ατσαλένιο τύμπανο"
-
-msgid "stored on server"
-msgstr "Αποθηκευμένο στο σέρβερ"
 
 msgid "Synth Lead"
 msgstr "Lead-συνθεσάιζερ"
@@ -1883,26 +1808,6 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Πληροφορίες σχετικά με τις μεταβλητές Cloud</b><br>&nbsp;<br>Προς το "
-"παρόν, μόνο οι αριθμητικές μεταβλητές Cloud υποστηρίζονται.<br> Οι χώροι "
-"συνομιλίας (Chat room) μέσω των μεταβλητών Cloud δεν επιτρέπονται και θα "
-"διαγράφονται.<br>Για περισσότερες πληροφορίες, <a href= target=>δείτε τις "
-"Συχνές Ερωτήσεις για τα δεδομένα Cloud.</a>"
-
-msgid "Click  to try again or  to save"
-msgstr "Πατήστε  για να προσπαθήσετε ξανά ή πατήστε  για να κάνετε αποθήκευση."
-
-msgid "Eraser width:"
-msgstr "Πλάτος γόμας"
-
-msgid "Line width:"
-msgstr "Πλάτος γραμμής"
-
 # Offline editor only
 msgid "All Tips"
 msgstr ""
@@ -2005,6 +1910,40 @@ msgstr ""
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "Ελληνικά"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "Η λίστα %m.list περιέχει %s"
+
+#~ msgid "when Stage clicked"
+#~ msgstr "Όταν γίνει κλικ στο Σκηνικό"
+
+# 89%
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "όρισε την κατεύθυνση κίνησης του κινητήρα σε %m.motorDirection"
+
+# 77%
+#~ msgid "set motor power %n"
+#~ msgstr "όρισε την ισχύ κινητήρα σε %n"
+
+#~ msgid "turn motor off"
+#~ msgstr "απενεργοποίησε τον κινητήρα"
+
+#~ msgid "turn motor on"
+#~ msgstr "ενεργοποίησε τον κινητήρα"
+
+# 80%
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "ενεργοποίησε τον κινητήρα για %n δευτερόλεπτα"
+
+#~ msgid "when distance < %n"
+#~ msgstr "Όταν η απόσταση < %n"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "Όταν η κλίση = %n"
+
 # 89%
 # 86%
 #, fuzzy
@@ -2049,6 +1988,72 @@ msgstr ""
 
 #~ msgid "play note %n for %n beats"
 #~ msgstr "Παίξε νότα %d.note για %n χρόνους"
+
+#~ msgid "About LEGO WeDo extension..."
+#~ msgstr "Σχετικά με επέκταση LEGO WeDo..."
+
+#~ msgid "About PicoBoard extension..."
+#~ msgstr "Σχετικά με επέκταση PicoBoard..."
+
+#~ msgid "Account settings"
+#~ msgstr "Ρυθμίσεις Λογαριασμού"
+
+#~ msgid "all motors"
+#~ msgstr "όλοι οι κινητήρες"
+
+#~ msgid "Cloud"
+#~ msgstr "Cloud"
+
+#~ msgid "Costumes:"
+#~ msgstr "Ενδυμασίες:"
+
+#~ msgid "Go to My Stuff"
+#~ msgstr "Μετάβαση στα πράγματά σας"
+
+#~ msgid "limit reached"
+#~ msgstr "Το όριο έχει φταστεί"
+
+#~ msgid "My Stuff"
+#~ msgstr "Τα Πράγματά Μου"
+
+#~ msgid "Profile"
+#~ msgstr "Προφίλ"
+
+#~ msgid "requires sign in"
+#~ msgstr "Απαιτείται σύνδεση Λογαριασμού"
+
+#~ msgid "Save as a copy"
+#~ msgstr "Αποθήκευση ενός Αντιγράφου"
+
+#~ msgid "Scripts:"
+#~ msgstr "Σενάρια:"
+
+#~ msgid "Sign out"
+#~ msgstr "Έξοδος"
+
+#~ msgid "stored on server"
+#~ msgstr "Αποθηκευμένο στο σέρβερ"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Πληροφορίες σχετικά με τις μεταβλητές Cloud</b><br>&nbsp;<br>Προς το "
+#~ "παρόν, μόνο οι αριθμητικές μεταβλητές Cloud υποστηρίζονται.<br> Οι χώροι "
+#~ "συνομιλίας (Chat room) μέσω των μεταβλητών Cloud δεν επιτρέπονται και θα "
+#~ "διαγράφονται.<br>Για περισσότερες πληροφορίες, <a href= target=>δείτε τις "
+#~ "Συχνές Ερωτήσεις για τα δεδομένα Cloud.</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr ""
+#~ "Πατήστε  για να προσπαθήσετε ξανά ή πατήστε  για να κάνετε αποθήκευση."
+
+#~ msgid "Eraser width:"
+#~ msgstr "Πλάτος γόμας"
+
+#~ msgid "Line width:"
+#~ msgstr "Πλάτος γραμμής"
 
 #~ msgid "cleanup"
 #~ msgstr "Εκκαθάριση"

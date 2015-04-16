@@ -41,17 +41,17 @@ msgstr "Tha tionndadh ùr de Scratch ri fhaighinn"
 msgid "About"
 msgstr "Mu dhèidhinn"
 
-msgid "About LEGO WeDo extension..."
-msgstr "Mun leudachan LEGO WeDo..."
+#~ msgid "About LEGO WeDo extension..."
+#~ msgstr "Mun leudachan LEGO WeDo..."
 
-msgid "About PicoBoard extension..."
-msgstr "Mun leudachan PicoBoard..."
+#~ msgid "About PicoBoard extension..."
+#~ msgstr "Mun leudachan PicoBoard..."
 
 msgid "abs"
 msgstr "abs"
 
-msgid "Account settings"
-msgstr "Roghainnean a' chunntais"
+#~ msgid "Account settings"
+#~ msgstr "Roghainnean a' chunntais"
 
 msgid "acos"
 msgstr "àrc-cho-shìneas"
@@ -68,8 +68,8 @@ msgstr "Cuir raon Booleanach ris:"
 msgid "add comment"
 msgstr "cuir beachd ris"
 
-msgid "add comment here..."
-msgstr "cuir beachd ris an-seo..."
+#~ msgid "add comment here..."
+#~ msgstr "cuir beachd ris an-seo..."
 
 msgid "Add label text:"
 msgstr "Cuir leubail teacsa ris:"
@@ -89,8 +89,8 @@ msgstr "Na h-uile"
 msgid "all around"
 msgstr "cuairt shlàn"
 
-msgid "all motors"
-msgstr "a h-uile motar"
+#~ msgid "all motors"
+#~ msgstr "a h-uile motar"
 
 msgid "Animal"
 msgstr "Beathach"
@@ -206,8 +206,8 @@ msgstr "gabhaidh a shlaodadh sa chluicheadair:"
 msgid "Cancel"
 msgstr "Sguir dheth"
 
-msgid "Cannot Add"
-msgstr "Cha ghabh a chur ris"
+#~ msgid "Cannot Add"
+#~ msgstr "Cha ghabh a chur ris"
 
 msgid "Cannot Delete"
 msgstr "Cha ghabh a sguabadh às"
@@ -258,8 +258,8 @@ msgstr "Clàirneid"
 msgid "Claves"
 msgstr "Claves"
 
-msgid "clean up"
-msgstr "sgioblaich"
+#~ msgid "clean up"
+#~ msgstr "sgioblaich"
 
 msgid "Clear"
 msgstr "Falamhaich"
@@ -276,14 +276,14 @@ msgstr "Dùin"
 msgid "Closed Hi-Hat"
 msgstr "Hi-hat dùinte"
 
-msgid "Cloud"
-msgstr "Neul"
+#~ msgid "Cloud"
+#~ msgstr "Neul"
 
 msgid "Cloud data"
 msgstr "Dàta san neul"
 
-msgid "Cloud variable (stored on server)"
-msgstr "Caochladair san neul (ga stòradh air an fhrithealaiche)"
+#~ msgid "Cloud variable (stored on server)"
+#~ msgstr "Caochladair san neul (ga stòradh air an fhrithealaiche)"
 
 msgid "color"
 msgstr "datha"
@@ -339,8 +339,8 @@ msgstr "Aodaich"
 msgid "Costumes > 1"
 msgstr "Aodaich > 1"
 
-msgid "Costumes:"
-msgstr "Aodaich:"
+#~ msgid "Costumes:"
+#~ msgstr "Aodaich:"
 
 msgid "Could not retrieve new application from server."
 msgstr "Cha b' urrainn dhuinn an aplacaid ùr fhaighinn on fhrithealaiche."
@@ -404,8 +404,8 @@ msgstr "Luchdaich a-nuas"
 msgid "Download to your computer"
 msgstr "Luchdaich a-nuas dhan choimpiutair agad"
 
-msgid "Downloading new version"
-msgstr "A' luchdadh a-nuas tionndadh ùr"
+#~ msgid "Downloading new version"
+#~ msgstr "A' luchdadh a-nuas tionndadh ùr"
 
 msgid "duplicate"
 msgstr "dùblaich"
@@ -443,14 +443,14 @@ msgstr "Leactronach"
 msgid "Ellipse"
 msgstr "Eileaps"
 
-msgid "empty"
-msgstr "falamh"
+#~ msgid "empty"
+#~ msgstr "falamh"
 
 msgid "Erase"
 msgstr "Suath"
 
-msgid "Erase all"
-msgstr "Suath na h-uile"
+#~ msgid "Erase all"
+#~ msgstr "Suath na h-uile"
 
 msgid "Eraser width"
 msgstr "Leud an t-suathain"
@@ -458,17 +458,17 @@ msgstr "Leud an t-suathain"
 msgid "Error!"
 msgstr "Mearachd!"
 
-msgid "everything"
-msgstr "a h-uile rud"
+#~ msgid "everything"
+#~ msgstr "a h-uile rud"
 
 msgid "export"
 msgstr "às-phortaich"
 
-msgid "Extension Library"
-msgstr "Leabhar-lann nan leudachan"
+#~ msgid "Extension Library"
+#~ msgstr "Leabhar-lann nan leudachan"
 
-msgid "Extension Problem"
-msgstr "Duilgheadas le leudachan"
+#~ msgid "Extension Problem"
+#~ msgstr "Duilgheadas le leudachan"
 
 msgid "fade in"
 msgstr "crìon a-steach"
@@ -476,8 +476,8 @@ msgstr "crìon a-steach"
 msgid "fade out"
 msgstr "crìon a-mach"
 
-msgid "false"
-msgstr "fallsa"
+#~ msgid "false"
+#~ msgstr "fallsa"
 
 msgid "Fantasy"
 msgstr "Fantastachd"
@@ -524,8 +524,8 @@ msgstr "Breath gun bheulaibh"
 msgid "ghost"
 msgstr "taibhse"
 
-msgid "Go to My Stuff"
-msgstr "Rach dhan stuth agam"
+#~ msgid "Go to My Stuff"
+#~ msgstr "Rach dhan stuth agam"
 
 msgid "Group"
 msgstr "Buidhnich"
@@ -548,14 +548,14 @@ msgstr "Bathar-cruaidh"
 msgid "help"
 msgstr "cobhair"
 
-msgid "Hello!"
-msgstr "Shin thu!"
+#~ msgid "Hello!"
+#~ msgstr "Shin thu!"
 
 msgid "Hmm..."
 msgstr ""
 
-msgid "hello"
-msgstr "shin thu"
+#~ msgid "hello"
+#~ msgstr "shin thu"
 
 msgid "hide"
 msgstr "falaich"
@@ -617,11 +617,11 @@ msgstr "Leabhar-lann"
 msgid "light"
 msgstr "an solas"
 
-msgid "lights"
-msgstr "na solasan"
+#~ msgid "lights"
+#~ msgstr "na solasan"
 
-msgid "limit reached"
-msgstr "crìoch air a ruigsinn"
+#~ msgid "limit reached"
+#~ msgstr "crìoch air a ruigsinn"
 
 msgid "Line"
 msgstr "Loidhne"
@@ -698,14 +698,14 @@ msgstr "mosàig"
 msgid "motion"
 msgstr "gluasad"
 
-msgid "motor"
-msgstr "motar"
+#~ msgid "motor"
+#~ msgstr "motar"
 
-msgid "motor A"
-msgstr "motar A"
+#~ msgid "motor A"
+#~ msgstr "motar A"
 
-msgid "motor B"
-msgstr "motar B"
+#~ msgid "motor B"
+#~ msgstr "motar B"
 
 msgid "mouse-pointer"
 msgstr "tomhaire na luchaige"
@@ -722,8 +722,8 @@ msgstr "Bogsa ciùil"
 msgid "Music Loops"
 msgstr "Lùban ciùil"
 
-msgid "My Stuff"
-msgstr "An stuth agam"
+#~ msgid "My Stuff"
+#~ msgstr "An stuth agam"
 
 msgid "myself"
 msgstr "dhut fhèin"
@@ -782,8 +782,8 @@ msgstr "Chan eil bloca gluasaid ann"
 msgid "normal readout"
 msgstr "sealladh àbhaisteach"
 
-msgid "not ="
-msgstr "nach ionnann"
+#~ msgid "not ="
+#~ msgstr "nach ionnann"
 
 msgid "Not saved; network or server problem."
 msgstr ""
@@ -885,8 +885,8 @@ msgstr "cnap"
 msgid "previous backdrop"
 msgstr "chùlaibh roimhe"
 
-msgid "Profile"
-msgstr "Pròifil"
+#~ msgid "Profile"
+#~ msgstr "Pròifil"
 
 msgid "Project did not load."
 msgstr "Cha deach am pròiseact a luchdadh."
@@ -930,8 +930,8 @@ msgstr "Ath-mheasgaich"
 msgid "Remixing..."
 msgstr "'Ga ath-mheasgachadh..."
 
-msgid "Remove extension blocks"
-msgstr "Thoir blocaichean an leudachain air falbh"
+#~ msgid "Remove extension blocks"
+#~ msgstr "Thoir blocaichean an leudachain air falbh"
 
 msgid "Rename"
 msgstr "Thoir ainm ùr air"
@@ -939,11 +939,11 @@ msgstr "Thoir ainm ùr air"
 msgid "rename variable"
 msgstr "thoir ainm ùr air caochladair"
 
-msgid "Replace existing project"
-msgstr "Cuir an àite pròiseict eile"
+#~ msgid "Replace existing project"
+#~ msgstr "Cuir an àite pròiseict eile"
 
-msgid "requires sign in"
-msgstr "tha e ag iarraidh clàradh a-steach"
+#~ msgid "requires sign in"
+#~ msgstr "tha e ag iarraidh clàradh a-steach"
 
 msgid "Reshape"
 msgstr "Atharraich cruth"
@@ -991,8 +991,8 @@ msgstr ""
 msgid "Save as"
 msgstr "Sàbhail mar"
 
-msgid "Save as a copy"
-msgstr "Sàbhail mar lethbhreac"
+#~ msgid "Save as a copy"
+#~ msgstr "Sàbhail mar lethbhreac"
 
 msgid "Save now"
 msgstr "Sàbhail an-dràsta"
@@ -1018,8 +1018,8 @@ msgstr "Sacsafon"
 msgid "Scratch Updater"
 msgstr "Ùraichear Scratch"
 
-msgid "Scratch 2.0 Offline Editor"
-msgstr "Deasaiche far loidhne Scratch 2.0"
+#~ msgid "Scratch 2.0 Offline Editor"
+#~ msgstr "Deasaiche far loidhne Scratch 2.0"
 
 msgid "Script"
 msgstr "Sgriobt"
@@ -1027,8 +1027,8 @@ msgstr "Sgriobt"
 msgid "Scripts"
 msgstr "Sgriobtaichean"
 
-msgid "Scripts:"
-msgstr "Sgriobtaichean:"
+#~ msgid "Scripts:"
+#~ msgstr "Sgriobtaichean:"
 
 msgid "second"
 msgstr "diog"
@@ -1036,12 +1036,12 @@ msgstr "diog"
 msgid "See project page"
 msgstr "Seall duilleag a' phròiseict"
 
-msgid ""
-"See the Tips window (on the right) to install the plug-in and get the "
-"extension working."
-msgstr ""
-"Cleachd uinneag nan oidheaman (taobh deas) gus am plugan a stàladh ach an "
-"obraich an leudachan."
+#~ msgid ""
+#~ "See the Tips window (on the right) to install the plug-in and get the "
+#~ "extension working."
+#~ msgstr ""
+#~ "Cleachd uinneag nan oidheaman (taobh deas) gus am plugan a stàladh ach an "
+#~ "obraich an leudachan."
 
 msgid "Select"
 msgstr "Tagh"
@@ -1070,8 +1070,8 @@ msgstr "Co-roinn"
 msgid "Share to website"
 msgstr "Co-roinn air an làrach-lìn"
 
-msgid "Share to Scratch website"
-msgstr "Co-roinn air làrach-lìn Scratch"
+#~ msgid "Share to Scratch website"
+#~ msgstr "Co-roinn air làrach-lìn Scratch"
 
 msgid "shared"
 msgstr "air a cho-roinneadh"
@@ -1103,8 +1103,8 @@ msgstr "Clàraich a-steach"
 msgid "Sign in to save"
 msgstr "Clàraich a-steach gus a shàbhaladh"
 
-msgid "Sign out"
-msgstr "Clàraich a-mach"
+#~ msgid "Sign out"
+#~ msgstr "Clàraich a-mach"
 
 msgid "silence"
 msgstr "tost"
@@ -1182,8 +1182,8 @@ msgstr "Àrd-ùrlar air a thaghadh:"
 msgid "Steel Drum"
 msgstr "Druma-stàillinn"
 
-msgid "stored on server"
-msgstr "air a stòradh air an fhrithealaiche"
+#~ msgid "stored on server"
+#~ msgstr "air a stòradh air an fhrithealaiche"
 
 msgid "Synth Lead"
 msgstr ""
@@ -1207,15 +1207,15 @@ msgstr "Teacsa"
 msgid "that way"
 msgstr "an taoibh sin"
 
-msgid "The name is already in use."
-msgstr "Tha an t-ainm seo ga chleachdadh mar-thà."
+#~ msgid "The name is already in use."
+#~ msgstr "Tha an t-ainm seo ga chleachdadh mar-thà."
 
-msgid ""
-"The project failed to load and Scratch Team has been notified. Press OK to "
-"leave this page."
-msgstr ""
-"Dh'fhàillig le luchdadh a' phròiseict agus chaidh fios a chur gu sgioba "
-"Scratch. Briog air \"Ceart ma-thà\" gus an duilleag seo fhàgail."
+#~ msgid ""
+#~ "The project failed to load and Scratch Team has been notified. Press OK to "
+#~ "leave this page."
+#~ msgstr ""
+#~ "Dh'fhàillig le luchdadh a' phròiseict agus chaidh fios a chur gu sgioba "
+#~ "Scratch. Briog air \"Ceart ma-thà\" gus an duilleag seo fhàgail."
 
 msgid "Theme"
 msgstr "Ùrlar"
@@ -1223,8 +1223,8 @@ msgstr "Ùrlar"
 msgid "Things"
 msgstr "Rudan"
 
-msgid "thing"
-msgstr "rud"
+#~ msgid "thing"
+#~ msgstr "rud"
 
 msgid "This is the current version."
 msgstr "Seo an tionndadh làithreach."
@@ -1278,8 +1278,8 @@ msgstr "Triantan"
 msgid "Trombone"
 msgstr "Trompan"
 
-msgid "true"
-msgstr "fìor"
+#~ msgid "true"
+#~ msgstr "fìor"
 
 msgid "Turbo mode"
 msgstr "Modh turbo"
@@ -1393,8 +1393,8 @@ msgstr "A bheil thu airson a shàbhaladh? Briog air \"ath-mheasgaich\""
 msgid "Which column do you want to import"
 msgstr "An colbh a tha thu airson ion-phortadh"
 
-msgid "What's your name?"
-msgstr "Dè an t-ainm a th' ort?"
+#~ msgid "What's your name?"
+#~ msgstr "Dè an t-ainm a th' ort?"
 
 msgid "whirl"
 msgstr "cuairteige"
@@ -1405,8 +1405,8 @@ msgstr "Sgonn"
 msgid "Wooden Flute"
 msgstr "Duiseal fiodha"
 
-msgid "world"
-msgstr "a shaoghail"
+#~ msgid "world"
+#~ msgstr "a shaoghail"
 
 msgid "x position"
 msgstr "ionad x"
@@ -1430,24 +1430,24 @@ msgstr "D' ainm Scratch"
 msgid "Your Scratch name is required"
 msgstr "Tha feum air d' ainm Scratch"
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Fiosrachadh a thaobh caochladairean Cloud</b><br>&nbsp;<br>Chan eil ach "
-"àireamhan ceadaichte aig an àm seo<br>Chan eil seòmraichean cabadaich "
-"ceadaichte 's thèid an toirt air falbh<br>Airson barrachd fiosrachaidh, <a "
-"href= target=>faic na CÀBHA air dàta neòil!</a>"
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Fiosrachadh a thaobh caochladairean Cloud</b><br>&nbsp;<br>Chan eil ach "
+#~ "àireamhan ceadaichte aig an àm seo<br>Chan eil seòmraichean cabadaich "
+#~ "ceadaichte 's thèid an toirt air falbh<br>Airson barrachd fiosrachaidh, <a "
+#~ "href= target=>faic na CÀBHA air dàta neòil!</a>"
 
-msgid "Click  to try again or  to save"
-msgstr "Briog air  airson feuchainn ris a-rithist  no airson sàbhaladh"
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Briog air  airson feuchainn ris a-rithist  no airson sàbhaladh"
 
-msgid "Eraser width:"
-msgstr "Leud an t-suathain:"
+#~ msgid "Eraser width:"
+#~ msgstr "Leud an t-suathain:"
 
-msgid "Line width:"
-msgstr "Leud na loidhne:"
+#~ msgid "Line width:"
+#~ msgstr "Leud na loidhne:"
 
 # Offline editor only
 msgid "All Tips"
@@ -1460,20 +1460,23 @@ msgid ""
 msgstr ""
 
 # Offline editor only
+#, fuzzy
 msgid "Could not retrieve update location from server."
-msgstr ""
+msgstr "Cha b' urrainn dhuinn an aplacaid ùr fhaighinn on fhrithealaiche."
 
 # Offline editor only
+#, fuzzy
 msgid "Could not retrieve version information from server."
-msgstr ""
+msgstr "Cha b' urrainn dhuinn an aplacaid ùr fhaighinn on fhrithealaiche."
 
 # Offline editor only
 msgid "Could not write file:"
 msgstr ""
 
 # Offline editor only
+#, fuzzy
 msgid "Downloading new version..."
-msgstr ""
+msgstr "A' luchdadh a-nuas tionndadh ùr"
 
 # Offline editor only
 msgid "Error saving project"
@@ -1508,24 +1511,27 @@ msgid "Quit"
 msgstr ""
 
 # Offline editor only
+#, fuzzy
 msgid "Replace existing project?"
-msgstr ""
+msgstr "Cuir an àite pròiseict eile"
 
 # Offline editor only
 msgid "Running pre-release"
 msgstr ""
 
 # Offline editor only
+#, fuzzy
 msgid "Save Project"
-msgstr ""
+msgstr "A bheil thu airson am pròiseact a shàbhaladh?"
 
 # Offline editor only
 msgid "Server error:"
 msgstr ""
 
 # Offline editor only
+#, fuzzy
 msgid "Share to Scratch Website"
-msgstr ""
+msgstr "Co-roinn air làrach-lìn Scratch"
 
 # Offline editor only
 msgid "Success"

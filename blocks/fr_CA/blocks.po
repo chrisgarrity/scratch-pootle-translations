@@ -14,8 +14,8 @@ msgstr ""
 "X-POOTLE-MTIME: 1354837017.000000\n"
 
 # The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Français (Canada)"
+#~ msgid "Language-Name"
+#~ msgstr "Français (Canada)"
 
 msgid "%b and %b"
 msgstr "%b et %b"
@@ -26,8 +26,8 @@ msgstr "%b ou %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "valeur %m.attribute de %m.spriteOrStage"
 
-msgid "%m.list contains %s"
-msgstr "%m.list contient %s"
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list contient %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp de %n"
@@ -570,3 +570,9 @@ msgstr ""
 
 #~ msgid "when I am clicked"
 #~ msgstr "quand je suis cliqué"
+
+#: commands-online.txt:7
+#: commands-offline.txt:7
+#, fuzzy
+msgid "%m.list contains %s?"
+msgstr "%m.list contient %s"

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-03-30 09:42+0000\n"
-"Last-Translator: Raivis <raivis.ievins@gmail.com>\n"
+"PO-Revision-Date: 2015-04-15 15:18+0000\n"
+"Last-Translator: Natalie <nrusk@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: lv\n"
 "MIME-Version: 1.0\n"
@@ -13,11 +13,11 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : 2);"
 "\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1427708567.000000\n"
+"X-POOTLE-MTIME: 1429111098.000000\n"
 
 # The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Latviešu"
+#~ msgid "Language-Name"
+#~ msgstr "Latviešu"
 
 msgid "%b and %b"
 msgstr "%b un %b"
@@ -28,8 +28,8 @@ msgstr "%b vai %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute no %m.spriteOrStage"
 
-msgid "%m.list contains %s"
-msgstr "%m.list satur %s"
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list satur %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp no %n"
@@ -466,8 +466,8 @@ msgstr "kad es saņemu %m.broadcast"
 msgid "when I start as a clone"
 msgstr "Kad es parādos kā dublikāts"
 
-msgid "when Stage clicked"
-msgstr "kad noklikšķināta skatuve"
+#~ msgid "when Stage clicked"
+#~ msgstr "kad noklikšķināta skatuve"
 
 msgid "when this sprite clicked"
 msgstr "kad noklikšķināts uz šī gariņa"
@@ -481,26 +481,26 @@ msgstr "x pozīcija"
 msgid "y position"
 msgstr "y pozīcija"
 
-msgid "set motor direction %m.motorDirection"
-msgstr "iestatīt motora virzienu uz %m.motorDirection"
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "iestatīt motora virzienu uz %m.motorDirection"
 
-msgid "set motor power %n"
-msgstr "iestatīt motora jaudu %n"
+#~ msgid "set motor power %n"
+#~ msgstr "iestatīt motora jaudu %n"
 
-msgid "turn motor off"
-msgstr "izslēgt motoru"
+#~ msgid "turn motor off"
+#~ msgstr "izslēgt motoru"
 
-msgid "turn motor on"
-msgstr "ieslēgt motoru"
+#~ msgid "turn motor on"
+#~ msgstr "ieslēgt motoru"
 
-msgid "turn motor on for %n secs"
-msgstr "iezlēgt motoru uz %n sekundēm"
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "iezlēgt motoru uz %n sekundēm"
 
-msgid "when distance < %n"
-msgstr "kad attālums < %n"
+#~ msgid "when distance < %n"
+#~ msgstr "kad attālums < %n"
 
-msgid "when tilt = %n"
-msgstr "kad noliekts = %n"
+#~ msgid "when tilt = %n"
+#~ msgstr "kad noliekts = %n"
 
 # 86%
 #, fuzzy
@@ -524,3 +524,8 @@ msgstr "kad noliekts = %n"
 
 #~ msgid "Scratch days"
 #~ msgstr "Scratch dienas"
+
+#: commands-online.txt:7
+#: commands-offline.txt:7
+msgid "%m.list contains %s?"
+msgstr "%m.list satur %s?"

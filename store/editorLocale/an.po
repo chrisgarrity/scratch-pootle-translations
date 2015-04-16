@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-02-08 23:56+0000\n"
-"Last-Translator: Juan Pablo <juanpabl@gmail.com>\n"
+"PO-Revision-Date: 2015-04-15 13:52+0000\n"
+"Last-Translator: Natalie <nrusk@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: an\n"
 "MIME-Version: 1.0\n"
@@ -12,11 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1423439796.000000\n"
-
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Aragonés"
+"X-POOTLE-MTIME: 1429105936.000000\n"
 
 msgid "%b and %b"
 msgstr "%b y %b"
@@ -26,9 +22,6 @@ msgstr "%b u %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute de %m.spriteOrStage"
-
-msgid "%m.list contains %s"
-msgstr "%m.list contién %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp de %n"
@@ -467,9 +460,6 @@ msgstr "en recibir %m.broadcast"
 msgid "when I start as a clone"
 msgstr "quan empecipie una copia mía"
 
-msgid "when Stage clicked"
-msgstr "quan se faiga clic en o scenario"
-
 msgid "when this sprite clicked"
 msgstr "quan se faiga clic en iste obchecto"
 
@@ -482,26 +472,9 @@ msgstr "posición en x"
 msgid "y position"
 msgstr "posición en y"
 
-msgid "set motor direction %m.motorDirection"
-msgstr "fixar a dirección d'o motor %m.motorDirection"
-
-msgid "set motor power %n"
-msgstr "fixar a potencia d'o motor a %n"
-
-msgid "turn motor off"
-msgstr "amortar o motor"
-
-msgid "turn motor on"
-msgstr "enchegar o motor"
-
-msgid "turn motor on for %n secs"
-msgstr "enchegar o motor por %n segundos"
-
-msgid "when distance < %n"
-msgstr "quan a distancia < %n"
-
-msgid "when tilt = %n"
-msgstr "quan a inclinación = %n"
+#: commands-online.txt:7 commands-offline.txt:7
+msgid "%m.list contains %s?"
+msgstr "%m.list contién %s?"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -528,17 +501,8 @@ msgstr "Ye disponible una nueva versión de Scratch"
 msgid "About"
 msgstr "Arredol de"
 
-msgid "About LEGO WeDo extension..."
-msgstr "Arredol d'a extensión Lego WeDo..."
-
-msgid "About PicoBoard extension..."
-msgstr "Arredol d'a extensión PicoBoard..."
-
 msgid "abs"
 msgstr "abs"
-
-msgid "Account settings"
-msgstr "Achustes d'a cuenta"
 
 msgid "acos"
 msgstr "acos"
@@ -555,9 +519,6 @@ msgstr "Adhibir una dentrada lochica:"
 
 msgid "add comment"
 msgstr "adhibir un comentario"
-
-msgid "add comment here..."
-msgstr "anyader un comentario aquí..."
 
 msgid "Add label text:"
 msgstr "Adhibir o texto d'a etiqueta:"
@@ -578,9 +539,6 @@ msgstr "Totz"
 
 msgid "all around"
 msgstr "por tot arreu"
-
-msgid "all motors"
-msgstr "totz os motors"
 
 msgid "Animal"
 msgstr "Animal"
@@ -692,9 +650,6 @@ msgstr "se puede arrocegar enta o reproductor:"
 msgid "Cancel"
 msgstr "Cancelar"
 
-msgid "Cannot Add"
-msgstr "No se puet anyader"
-
 msgid "Cannot Delete"
 msgstr "No se puede borrar"
 
@@ -743,9 +698,6 @@ msgstr "Clarinet"
 msgid "Claves"
 msgstr "Claus"
 
-msgid "clean up"
-msgstr "escoscar"
-
 msgid "Clear"
 msgstr "Limpiar"
 
@@ -761,14 +713,8 @@ msgstr "Zarrar"
 msgid "Closed Hi-Hat"
 msgstr "Charles zarrau"
 
-msgid "Cloud"
-msgstr "Boira"
-
 msgid "Cloud data"
 msgstr "Datos en a boira"
-
-msgid "Cloud variable (stored on server)"
-msgstr "Variable en a boira (alzada en o servidor)"
 
 msgid "color"
 msgstr "color"
@@ -821,9 +767,6 @@ msgstr "Vestius"
 
 msgid "Costumes > 1"
 msgstr "Vestius > 1"
-
-msgid "Costumes:"
-msgstr "Vestius:"
 
 msgid "Could not retrieve new application from server."
 msgstr "No s'ha puesto recuperar a nueva aplicación de servidor."
@@ -884,9 +827,6 @@ msgstr "Descargar"
 msgid "Download to your computer"
 msgstr "Descargar enta o tuyo ordinador"
 
-msgid "Downloading new version"
-msgstr "Descargando a nueva versión"
-
 msgid "duplicate"
 msgstr "duplicar"
 
@@ -923,14 +863,8 @@ msgstr "Electronico"
 msgid "Ellipse"
 msgstr "Elipse"
 
-msgid "empty"
-msgstr "vuedo"
-
 msgid "Erase"
 msgstr "Borrar"
-
-msgid "Erase all"
-msgstr "Borrar-lo tot"
 
 msgid "Eraser width"
 msgstr "Amplaria d'o borrador"
@@ -938,26 +872,14 @@ msgstr "Amplaria d'o borrador"
 msgid "Error!"
 msgstr "Error!"
 
-msgid "everything"
-msgstr "tot"
-
 msgid "export"
 msgstr "exportar"
-
-msgid "Extension Library"
-msgstr "Biblioteca d'Extensions"
-
-msgid "Extension Problem"
-msgstr "Problema con a Extensión"
 
 msgid "fade in"
 msgstr "apareixer"
 
 msgid "fade out"
 msgstr "desapareixer"
-
-msgid "false"
-msgstr "falso"
 
 msgid "Fantasy"
 msgstr "Fantasía"
@@ -1004,9 +926,6 @@ msgstr "Una capa enta debant"
 msgid "ghost"
 msgstr "transparent"
 
-msgid "Go to My Stuff"
-msgstr "Ves ta las Mías Cosas."
-
 msgid "Group"
 msgstr "Grupo"
 
@@ -1027,15 +946,6 @@ msgstr "Hardware"
 
 msgid "help"
 msgstr "aduya"
-
-msgid "Hello!"
-msgstr "Ola!"
-
-msgid "Hmm..."
-msgstr "Hmm..."
-
-msgid "hello"
-msgstr "ola"
 
 msgid "High C"
 msgstr "Do Alta"
@@ -1094,13 +1004,6 @@ msgstr "Biblioteca"
 
 msgid "light"
 msgstr "luz"
-
-# 83%
-msgid "lights"
-msgstr "luces"
-
-msgid "limit reached"
-msgstr "limite alcanzau"
 
 msgid "Line"
 msgstr "Linia"
@@ -1176,15 +1079,6 @@ msgstr "mosaico"
 msgid "motion"
 msgstr "movimiento"
 
-msgid "motor"
-msgstr "motor"
-
-msgid "motor A"
-msgstr "motor A"
-
-msgid "motor B"
-msgstr "motor B"
-
 msgid "mouse-pointer"
 msgstr "puntero d'o ratet"
 
@@ -1199,9 +1093,6 @@ msgstr "Caixa musical"
 
 msgid "Music Loops"
 msgstr "Bucles musicals"
-
-msgid "My Stuff"
-msgstr "As Mías Cosetas"
 
 msgid "myself"
 msgstr "yo mesmo"
@@ -1259,9 +1150,6 @@ msgstr "Sin bloques de movimiento"
 
 msgid "normal readout"
 msgstr "tamanyo normal"
-
-msgid "not ="
-msgstr "no ="
 
 msgid "Not saved; network or server problem."
 msgstr "No s'ha alzau; problemas en o ret u en o servidor."
@@ -1363,9 +1251,6 @@ msgstr "pop"
 msgid "previous backdrop"
 msgstr "fondo anterior"
 
-msgid "Profile"
-msgstr "Perfil"
-
 msgid "Project did not load."
 msgstr "O prochecto no s'ha cargau."
 
@@ -1409,20 +1294,11 @@ msgstr "Reinventar"
 msgid "Remixing..."
 msgstr "Se ye reinventando..."
 
-msgid "Remove extension blocks"
-msgstr "Sacar os bloques d'extensión"
-
 msgid "Rename"
 msgstr "Cambiar o nombre"
 
 msgid "rename variable"
 msgstr "cambiar o nombre d'a variable"
-
-msgid "Replace existing project"
-msgstr "Substituir un prochecto existent"
-
-msgid "requires sign in"
-msgstr "requiere iniciar a sesión"
 
 msgid "Reshape"
 msgstr "Redibuixar"
@@ -1469,9 +1345,6 @@ msgstr "Alzar una copia d'iste prochecto y adhibir as tuyas propias ideyas."
 msgid "Save as"
 msgstr "Alzar como"
 
-msgid "Save as a copy"
-msgstr "Alzar un acopia"
-
 msgid "Save now"
 msgstr "Alzar agora"
 
@@ -1496,9 +1369,6 @@ msgstr "Saxofón"
 msgid "Scratch Updater"
 msgstr "Esviellador de Scratch"
 
-msgid "Scratch 2.0 Offline Editor"
-msgstr "Scratch 2.0 Sin Connexión"
-
 # 85%
 msgid "Script"
 msgstr "Programa"
@@ -1506,22 +1376,11 @@ msgstr "Programa"
 msgid "Scripts"
 msgstr "Programas"
 
-# 87%
-msgid "Scripts:"
-msgstr "Programas:"
-
 msgid "second"
 msgstr "segundo"
 
 msgid "See project page"
 msgstr "Veyer a pachina d'o prochecto"
-
-msgid ""
-"See the Tips window (on the right) to install the plug-in and get the "
-"extension working."
-msgstr ""
-"Mira-te a finestra de consellos (a la dreita) ta instalar o plug-in y "
-"activar a extensión."
 
 msgid "Select"
 msgstr "Seleccionar"
@@ -1551,9 +1410,6 @@ msgstr "Compartir"
 msgid "Share to website"
 msgstr "Compartir a o puesto web"
 
-msgid "Share to Scratch website"
-msgstr "Compartir a o puesto web de Scratch"
-
 msgid "shared"
 msgstr "compartiu"
 
@@ -1580,9 +1436,6 @@ msgstr "Encetar a sesión"
 
 msgid "Sign in to save"
 msgstr "Encetar a sesión ta poder alzar"
-
-msgid "Sign out"
-msgstr "Zarrar a sesión"
 
 msgid "silence"
 msgstr "silencio"
@@ -1656,9 +1509,6 @@ msgstr "Scenario trigau:"
 msgid "Steel Drum"
 msgstr "Tambor d'acero"
 
-msgid "stored on server"
-msgstr "alzau en o servidor"
-
 msgid "Synth Lead"
 msgstr "Sintetizador solista"
 
@@ -1680,24 +1530,11 @@ msgstr "Texto"
 msgid "that way"
 msgstr "enta allá"
 
-msgid "The name is already in use."
-msgstr "Iste nombre ya ye en uso"
-
-msgid ""
-"The project failed to load and Scratch Team has been notified. Press OK to "
-"leave this page."
-msgstr ""
-"O prochecto no s'ha puesto cargar y se'n ha notificau a o Equipo de Scratch. "
-"Preta OK ta salir d'ista pachina."
-
 msgid "Theme"
 msgstr "Tema"
 
 msgid "Things"
 msgstr "Cosas"
-
-msgid "thing"
-msgstr "cosa"
 
 msgid "This is the current version."
 msgstr "Ista ye a versión actual."
@@ -1747,9 +1584,6 @@ msgstr "Trianglo"
 
 msgid "Trombone"
 msgstr "Trombón"
-
-msgid "true"
-msgstr "verdadero"
 
 # 90%
 msgid "Turbo mode"
@@ -1862,9 +1696,6 @@ msgstr "Lo quiers alzar? Fe clic en reinventar"
 msgid "Which column do you want to import"
 msgstr "Qué columna quiers importar?"
 
-msgid "What's your name?"
-msgstr "Quál ye o tuyo nombre?"
-
 msgid "whirl"
 msgstr "rechirar"
 
@@ -1873,9 +1704,6 @@ msgstr "Bloque de fusta"
 
 msgid "Wooden Flute"
 msgstr "Flauta de fusta"
-
-msgid "world"
-msgstr "mundo"
 
 msgid "year"
 msgstr "anyo"
@@ -1893,24 +1721,6 @@ msgstr "O tuyo nombre de Scratch"
 
 msgid "Your Scratch name is required"
 msgstr "Ye menister o tuyo nombre de Scratch"
-
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Información sobre variables en a boira</b><br>&nbsp;<br>Por agora, nomás "
-"s'acceptan numers<br>Os chats no se permiten, y se'n eliminarán<br>Ta saber-"
-"ne mas, <a href= target=>puetz leyer a FAQ sobre datos en a boira</a>"
-
-msgid "Click  to try again or  to save"
-msgstr "Fer clic  ta tornar a prebar-lo u  ta alzar-lo"
-
-msgid "Eraser width:"
-msgstr "Amplaria d'o borrador:"
-
-msgid "Line width:"
-msgstr "Amplaria de linia:"
 
 # Offline editor only
 msgid "All Tips"
@@ -2020,6 +1830,37 @@ msgstr ""
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "Aragonés"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list contién %s"
+
+#~ msgid "when Stage clicked"
+#~ msgstr "quan se faiga clic en o scenario"
+
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "fixar a dirección d'o motor %m.motorDirection"
+
+#~ msgid "set motor power %n"
+#~ msgstr "fixar a potencia d'o motor a %n"
+
+#~ msgid "turn motor off"
+#~ msgstr "amortar o motor"
+
+#~ msgid "turn motor on"
+#~ msgstr "enchegar o motor"
+
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "enchegar o motor por %n segundos"
+
+#~ msgid "when distance < %n"
+#~ msgstr "quan a distancia < %n"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "quan a inclinación = %n"
+
 # 86%
 #, fuzzy
 #~ msgid "set %m.motor direction to %m.motorDirection"
@@ -2045,6 +1886,170 @@ msgstr ""
 
 #~ msgid "user name"
 #~ msgstr "nombre d'usuario"
+
+#~ msgid "About LEGO WeDo extension..."
+#~ msgstr "Arredol d'a extensión Lego WeDo..."
+
+#~ msgid "About PicoBoard extension..."
+#~ msgstr "Arredol d'a extensión PicoBoard..."
+
+#~ msgid "Account settings"
+#~ msgstr "Achustes d'a cuenta"
+
+#~ msgid "add comment here..."
+#~ msgstr "anyader un comentario aquí..."
+
+#~ msgid "all motors"
+#~ msgstr "totz os motors"
+
+#~ msgid "Cannot Add"
+#~ msgstr "No se puet anyader"
+
+#~ msgid "clean up"
+#~ msgstr "escoscar"
+
+#~ msgid "Cloud"
+#~ msgstr "Boira"
+
+#~ msgid "Cloud variable (stored on server)"
+#~ msgstr "Variable en a boira (alzada en o servidor)"
+
+#~ msgid "Costumes:"
+#~ msgstr "Vestius:"
+
+#~ msgid "Downloading new version"
+#~ msgstr "Descargando a nueva versión"
+
+#~ msgid "empty"
+#~ msgstr "vuedo"
+
+#~ msgid "Erase all"
+#~ msgstr "Borrar-lo tot"
+
+#~ msgid "everything"
+#~ msgstr "tot"
+
+#~ msgid "Extension Library"
+#~ msgstr "Biblioteca d'Extensions"
+
+#~ msgid "Extension Problem"
+#~ msgstr "Problema con a Extensión"
+
+#~ msgid "false"
+#~ msgstr "falso"
+
+#~ msgid "Go to My Stuff"
+#~ msgstr "Ves ta las Mías Cosas."
+
+#~ msgid "Hello!"
+#~ msgstr "Ola!"
+
+#~ msgid "Hmm..."
+#~ msgstr "Hmm..."
+
+#~ msgid "hello"
+#~ msgstr "ola"
+
+# 83%
+#~ msgid "lights"
+#~ msgstr "luces"
+
+#~ msgid "limit reached"
+#~ msgstr "limite alcanzau"
+
+#~ msgid "motor"
+#~ msgstr "motor"
+
+#~ msgid "motor A"
+#~ msgstr "motor A"
+
+#~ msgid "motor B"
+#~ msgstr "motor B"
+
+#~ msgid "My Stuff"
+#~ msgstr "As Mías Cosetas"
+
+#~ msgid "not ="
+#~ msgstr "no ="
+
+#~ msgid "Profile"
+#~ msgstr "Perfil"
+
+#~ msgid "Remove extension blocks"
+#~ msgstr "Sacar os bloques d'extensión"
+
+#~ msgid "Replace existing project"
+#~ msgstr "Substituir un prochecto existent"
+
+#~ msgid "requires sign in"
+#~ msgstr "requiere iniciar a sesión"
+
+#~ msgid "Save as a copy"
+#~ msgstr "Alzar un acopia"
+
+#~ msgid "Scratch 2.0 Offline Editor"
+#~ msgstr "Scratch 2.0 Sin Connexión"
+
+# 87%
+#~ msgid "Scripts:"
+#~ msgstr "Programas:"
+
+#~ msgid ""
+#~ "See the Tips window (on the right) to install the plug-in and get the "
+#~ "extension working."
+#~ msgstr ""
+#~ "Mira-te a finestra de consellos (a la dreita) ta instalar o plug-in y "
+#~ "activar a extensión."
+
+#~ msgid "Share to Scratch website"
+#~ msgstr "Compartir a o puesto web de Scratch"
+
+#~ msgid "Sign out"
+#~ msgstr "Zarrar a sesión"
+
+#~ msgid "stored on server"
+#~ msgstr "alzau en o servidor"
+
+#~ msgid "The name is already in use."
+#~ msgstr "Iste nombre ya ye en uso"
+
+#~ msgid ""
+#~ "The project failed to load and Scratch Team has been notified. Press OK "
+#~ "to leave this page."
+#~ msgstr ""
+#~ "O prochecto no s'ha puesto cargar y se'n ha notificau a o Equipo de "
+#~ "Scratch. Preta OK ta salir d'ista pachina."
+
+#~ msgid "thing"
+#~ msgstr "cosa"
+
+#~ msgid "true"
+#~ msgstr "verdadero"
+
+#~ msgid "What's your name?"
+#~ msgstr "Quál ye o tuyo nombre?"
+
+#~ msgid "world"
+#~ msgstr "mundo"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Información sobre variables en a boira</b><br>&nbsp;<br>Por agora, "
+#~ "nomás s'acceptan numers<br>Os chats no se permiten, y se'n "
+#~ "eliminarán<br>Ta saber-ne mas, <a href= target=>puetz leyer a FAQ sobre "
+#~ "datos en a boira</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Fer clic  ta tornar a prebar-lo u  ta alzar-lo"
+
+#~ msgid "Eraser width:"
+#~ msgstr "Amplaria d'o borrador:"
+
+#~ msgid "Line width:"
+#~ msgstr "Amplaria de linia:"
 
 #~ msgid "cleanup"
 #~ msgstr "escoscar"

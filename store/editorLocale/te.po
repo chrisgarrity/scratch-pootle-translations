@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-02-20 04:44+0200\n"
+"PO-Revision-Date: 2014-02-20 04:44+0000\n"
 "Last-Translator: adlogi <adlogi@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: te\n"
@@ -11,7 +11,8 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Pootle 2.1.6\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1392871496.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -498,6 +499,10 @@ msgstr ""
 msgid "when tilt = %n"
 msgstr ""
 
+#: commands-online.txt:7 commands-offline.txt:7
+msgid "%m.list contains %s?"
+msgstr ""
+
 msgid "10 ^"
 msgstr ""
 
@@ -520,17 +525,8 @@ msgstr "స్క్రాచ్ యొక్క క్రొత్త సంస
 msgid "About"
 msgstr "గురించి"
 
-msgid "About LEGO WeDo extension..."
-msgstr "LEGO డబ్ల్యుఇడిఒ పొడిగింపు గురించి ..."
-
-msgid "About PicoBoard extension..."
-msgstr "PicoBoard పొడిగింపు గురించి ..."
-
 msgid "abs"
 msgstr "ఎబిఎస్"
-
-msgid "Account settings"
-msgstr "ఖాతాల అమరికలు"
 
 msgid "acos"
 msgstr "ఎసిఒఎస్"
@@ -1962,3 +1958,12 @@ msgstr ""
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
+
+#~ msgid "About LEGO WeDo extension..."
+#~ msgstr "LEGO డబ్ల్యుఇడిఒ పొడిగింపు గురించి ..."
+
+#~ msgid "About PicoBoard extension..."
+#~ msgstr "PicoBoard పొడిగింపు గురించి ..."
+
+#~ msgid "Account settings"
+#~ msgstr "ఖాతాల అమరికలు"

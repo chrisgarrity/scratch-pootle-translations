@@ -40,17 +40,17 @@ msgstr "هناك إصدار جديد من سكراتش"
 msgid "About"
 msgstr "عن سكراتش"
 
-msgid "About LEGO WeDo extension..."
-msgstr "عن إضافة LEGO WeDo..."
+#~ msgid "About LEGO WeDo extension..."
+#~ msgstr "عن إضافة LEGO WeDo..."
 
-msgid "About PicoBoard extension..."
-msgstr "عن إضافة PicoBoard..."
+#~ msgid "About PicoBoard extension..."
+#~ msgstr "عن إضافة PicoBoard..."
 
 msgid "abs"
 msgstr "القيمة المطلقة"
 
-msgid "Account settings"
-msgstr "إعدادات الحساب"
+#~ msgid "Account settings"
+#~ msgstr "إعدادات الحساب"
 
 msgid "acos"
 msgstr "جيب التمام العكسي"
@@ -68,8 +68,8 @@ msgstr "إضافة حقل منطقي:"
 msgid "add comment"
 msgstr "إضافة تعليق"
 
-msgid "add comment here..."
-msgstr "أضف التعليق هنا..."
+#~ msgid "add comment here..."
+#~ msgstr "أضف التعليق هنا..."
 
 msgid "Add label text:"
 msgstr "إضافة نص:"
@@ -91,8 +91,8 @@ msgstr "الكل"
 msgid "all around"
 msgstr "في جميع الاتجاهات"
 
-msgid "all motors"
-msgstr "كل المحركات"
+#~ msgid "all motors"
+#~ msgstr "كل المحركات"
 
 msgid "Animal"
 msgstr "حيوان"
@@ -215,8 +215,8 @@ msgstr ":السماح بالسحب أثناء العرض"
 msgid "Cancel"
 msgstr "إلغاء الأمر"
 
-msgid "Cannot Add"
-msgstr "الإضافة غير ممكنة"
+#~ msgid "Cannot Add"
+#~ msgstr "الإضافة غير ممكنة"
 
 msgid "Cannot Delete"
 msgstr "لا يمكن الحذف"
@@ -266,8 +266,8 @@ msgstr "كلارينيت"
 msgid "Claves"
 msgstr "Claves"
 
-msgid "clean up"
-msgstr "ترتيب"
+#~ msgid "clean up"
+#~ msgstr "ترتيب"
 
 msgid "Clear"
 msgstr "مسح"
@@ -284,14 +284,14 @@ msgstr "إغلاق"
 msgid "Closed Hi-Hat"
 msgstr "Closed Hi-Hat"
 
-msgid "Cloud"
-msgstr "السحابة"
+#~ msgid "Cloud"
+#~ msgstr "السحابة"
 
 msgid "Cloud data"
 msgstr "البيانات السحابية"
 
-msgid "Cloud variable (stored on server)"
-msgstr "متغير سحابي (مخزّن على المخدّم)"
+#~ msgid "Cloud variable (stored on server)"
+#~ msgstr "متغير سحابي (مخزّن على المخدّم)"
 
 msgid "color"
 msgstr "اللون"
@@ -352,8 +352,8 @@ msgstr "المظاهر > ١"
 
 # 75%
 # 88%
-msgid "Costumes:"
-msgstr "المظاهر:"
+#~ msgid "Costumes:"
+#~ msgstr "المظاهر:"
 
 msgid "Could not retrieve new application from server."
 msgstr "لم يكن بالإمكان الحصول على التطبيق الجديد من المخدّم."
@@ -418,8 +418,8 @@ msgstr "تنزيل"
 msgid "Download to your computer"
 msgstr "تنزيل إلى حاسبك"
 
-msgid "Downloading new version"
-msgstr "جارٍ تنزيل الإصدار الجديد"
+#~ msgid "Downloading new version"
+#~ msgstr "جارٍ تنزيل الإصدار الجديد"
 
 msgid "duplicate"
 msgstr "مضاعفة"
@@ -457,14 +457,14 @@ msgstr "إلكتروني"
 msgid "Ellipse"
 msgstr "إهليلج"
 
-msgid "empty"
-msgstr "فارغة"
+#~ msgid "empty"
+#~ msgstr "فارغة"
 
 msgid "Erase"
 msgstr "مسح"
 
-msgid "Erase all"
-msgstr "مسح الكل"
+#~ msgid "Erase all"
+#~ msgstr "مسح الكل"
 
 # 92%
 msgid "Eraser width"
@@ -473,17 +473,17 @@ msgstr "عرض الممحاة"
 msgid "Error!"
 msgstr "خطأ!"
 
-msgid "everything"
-msgstr "كل شيء"
+#~ msgid "everything"
+#~ msgstr "كل شيء"
 
 msgid "export"
 msgstr "تصدير"
 
-msgid "Extension Library"
-msgstr "مكتبة الإضافات"
+#~ msgid "Extension Library"
+#~ msgstr "مكتبة الإضافات"
 
-msgid "Extension Problem"
-msgstr "مشكلة في الإضافة"
+#~ msgid "Extension Problem"
+#~ msgstr "مشكلة في الإضافة"
 
 msgid "fade in"
 msgstr "تلاشي في البداية"
@@ -491,8 +491,8 @@ msgstr "تلاشي في البداية"
 msgid "fade out"
 msgstr "تلاشي في النهاية"
 
-msgid "false"
-msgstr "صحيح"
+#~ msgid "false"
+#~ msgstr "صحيح"
 
 msgid "Fantasy"
 msgstr "خيال"
@@ -539,8 +539,8 @@ msgstr "طبقة واحدة إلى الأمام"
 msgid "ghost"
 msgstr "الشبح"
 
-msgid "Go to My Stuff"
-msgstr "الذهاب إلى أغراضي"
+#~ msgid "Go to My Stuff"
+#~ msgstr "الذهاب إلى أغراضي"
 
 msgid "Group"
 msgstr "تجميع"
@@ -563,14 +563,14 @@ msgstr "عتاد"
 msgid "help"
 msgstr "مساعدة"
 
-msgid "Hello!"
-msgstr "السلام عليكم!"
+#~ msgid "Hello!"
+#~ msgstr "السلام عليكم!"
 
-msgid "Hmm..."
-msgstr "هممم..."
+#~ msgid "Hmm..."
+#~ msgstr "هممم..."
 
-msgid "hello"
-msgstr "مرحبًا"
+#~ msgid "hello"
+#~ msgstr "مرحبًا"
 
 msgid "hide"
 msgstr "اختف"
@@ -634,11 +634,11 @@ msgid "light"
 msgstr "الضوء"
 
 # 83%
-msgid "lights"
-msgstr "الضوء"
+#~ msgid "lights"
+#~ msgstr "الضوء"
 
-msgid "limit reached"
-msgstr "وصلت الحد الأقصى"
+#~ msgid "limit reached"
+#~ msgstr "وصلت الحد الأقصى"
 
 msgid "Line"
 msgstr "خط مستقيم"
@@ -717,14 +717,14 @@ msgstr "الموزاييك"
 msgid "motion"
 msgstr "حركة"
 
-msgid "motor"
-msgstr "المحرك"
+#~ msgid "motor"
+#~ msgstr "المحرك"
 
-msgid "motor A"
-msgstr "المحرك ١"
+#~ msgid "motor A"
+#~ msgstr "المحرك ١"
 
-msgid "motor B"
-msgstr "المحرك ٢"
+#~ msgid "motor B"
+#~ msgstr "المحرك ٢"
 
 msgid "mouse-pointer"
 msgstr "مؤشر الفأرة"
@@ -741,8 +741,8 @@ msgstr "صندوق الموسيقى"
 msgid "Music Loops"
 msgstr "حلقات موسيقية"
 
-msgid "My Stuff"
-msgstr "أغراضي"
+#~ msgid "My Stuff"
+#~ msgstr "أغراضي"
 
 msgid "myself"
 msgstr "نفسي"
@@ -804,8 +804,8 @@ msgstr "لا توجد لبنات للحركة"
 msgid "normal readout"
 msgstr "عرض عادي"
 
-msgid "not ="
-msgstr "لا يساوي"
+#~ msgid "not ="
+#~ msgstr "لا يساوي"
 
 msgid "Not saved; network or server problem."
 msgstr "لم يُحفظ المشروع. هناك مشكلة في الشبكة أو المخدّم."
@@ -907,8 +907,8 @@ msgstr "بُب"
 msgid "previous backdrop"
 msgstr "الخلفية السابقة"
 
-msgid "Profile"
-msgstr "الملف الشخصي"
+#~ msgid "Profile"
+#~ msgstr "الملف الشخصي"
 
 msgid "Project did not load."
 msgstr "لم يتم تحميل المشروع."
@@ -953,8 +953,8 @@ msgstr "مزج"
 msgid "Remixing..."
 msgstr "المزج جارٍ..."
 
-msgid "Remove extension blocks"
-msgstr "إزالة لبنات الإضافة"
+#~ msgid "Remove extension blocks"
+#~ msgstr "إزالة لبنات الإضافة"
 
 msgid "Rename"
 msgstr "إعادة تسمية"
@@ -966,8 +966,8 @@ msgid "Replace existing project"
 msgstr ""
 
 # 75%
-msgid "requires sign in"
-msgstr "يتطلب تسجيل الدخول"
+#~ msgid "requires sign in"
+#~ msgstr "يتطلب تسجيل الدخول"
 
 msgid "Reshape"
 msgstr "إعادة تشكيل"
@@ -1015,8 +1015,8 @@ msgstr "احفظ نسخةً من هذا المشروع وأضف أفكارك ا�
 msgid "Save as"
 msgstr "حفظ باسم"
 
-msgid "Save as a copy"
-msgstr "حفظ كنسخة"
+#~ msgid "Save as a copy"
+#~ msgstr "حفظ كنسخة"
 
 msgid "Save now"
 msgstr "الحفظ الآن"
@@ -1043,8 +1043,8 @@ msgstr "ساكسفون"
 msgid "Scratch Updater"
 msgstr "محدِّث سكراتش"
 
-msgid "Scratch 2.0 Offline Editor"
-msgstr "سكراتش ٢,٠"
+#~ msgid "Scratch 2.0 Offline Editor"
+#~ msgstr "سكراتش ٢,٠"
 
 # 85%
 msgid "Script"
@@ -1054,8 +1054,8 @@ msgid "Scripts"
 msgstr "المقاطع البرمجية"
 
 # 87%
-msgid "Scripts:"
-msgstr "المقاطع البرمجية:"
+#~ msgid "Scripts:"
+#~ msgstr "المقاطع البرمجية:"
 
 msgid "second"
 msgstr "الثانية"
@@ -1063,12 +1063,12 @@ msgstr "الثانية"
 msgid "See project page"
 msgstr "عرض صفحة المشروع"
 
-msgid ""
-"See the Tips window (on the right) to install the plug-in and get the "
-"extension working."
-msgstr ""
-"انظر نافذة المساعدة (إلى اليمين) لتثبيت إضافة المتصفح المطلوبة لجعل اللبنات "
-"الإضافية تعمل."
+#~ msgid ""
+#~ "See the Tips window (on the right) to install the plug-in and get the "
+#~ "extension working."
+#~ msgstr ""
+#~ "انظر نافذة المساعدة (إلى اليمين) لتثبيت إضافة المتصفح المطلوبة لجعل اللبنات "
+#~ "الإضافية تعمل."
 
 msgid "Select"
 msgstr "تحديد"
@@ -1098,8 +1098,8 @@ msgstr "مشاركة"
 msgid "Share to website"
 msgstr "المشاركة على موقع سكراتش"
 
-msgid "Share to Scratch website"
-msgstr "المشاركة على موقع سكراتش"
+#~ msgid "Share to Scratch website"
+#~ msgstr "المشاركة على موقع سكراتش"
 
 msgid "shared"
 msgstr "تمت المشاركة"
@@ -1133,8 +1133,8 @@ msgstr "تسجيل الدخول"
 msgid "Sign in to save"
 msgstr "سجّل الدخول للحفظ"
 
-msgid "Sign out"
-msgstr "تسجيل الخروج"
+#~ msgid "Sign out"
+#~ msgstr "تسجيل الخروج"
 
 msgid "silence"
 msgstr "صمت"
@@ -1216,8 +1216,8 @@ msgstr "المنصة محددة:"
 msgid "Steel Drum"
 msgstr "Steel Drum"
 
-msgid "stored on server"
-msgstr "مخزَّن على المخدِّم"
+#~ msgid "stored on server"
+#~ msgstr "مخزَّن على المخدِّم"
 
 msgid "Synth Lead"
 msgstr "Synth Lead"
@@ -1240,15 +1240,15 @@ msgstr "نص"
 msgid "that way"
 msgstr "ذاك الاتجاه"
 
-msgid "The name is already in use."
-msgstr "الاسم مستخدم حاليًا"
+#~ msgid "The name is already in use."
+#~ msgstr "الاسم مستخدم حاليًا"
 
-msgid ""
-"The project failed to load and Scratch Team has been notified. Press OK to "
-"leave this page."
-msgstr ""
-"لم يكن بالإمكان تحميل المشروع وتم إخبار فريق سكراتش بذلك. انقر موافق لمغادرة "
-"هذه الصفحة."
+#~ msgid ""
+#~ "The project failed to load and Scratch Team has been notified. Press OK to "
+#~ "leave this page."
+#~ msgstr ""
+#~ "لم يكن بالإمكان تحميل المشروع وتم إخبار فريق سكراتش بذلك. انقر موافق لمغادرة "
+#~ "هذه الصفحة."
 
 msgid "Theme"
 msgstr "الموضوع"
@@ -1256,8 +1256,8 @@ msgstr "الموضوع"
 msgid "Things"
 msgstr "الأشياء"
 
-msgid "thing"
-msgstr "شيء"
+#~ msgid "thing"
+#~ msgstr "شيء"
 
 msgid "This is the current version."
 msgstr "هذا هو الإصدار الأخير."
@@ -1305,8 +1305,8 @@ msgstr "مثلث"
 msgid "Trombone"
 msgstr "Trombone"
 
-msgid "true"
-msgstr "صحيح"
+#~ msgid "true"
+#~ msgstr "صحيح"
 
 # 90%
 msgid "Turbo mode"
@@ -1423,8 +1423,8 @@ msgstr "أتريد حفظ هذا المشروع؟ انقر مزج"
 msgid "Which column do you want to import"
 msgstr "أي الأعمدة تريد استيراده"
 
-msgid "What's your name?"
-msgstr "ما اسمك؟"
+#~ msgid "What's your name?"
+#~ msgstr "ما اسمك؟"
 
 msgid "whirl"
 msgstr "الدوامة"
@@ -1435,8 +1435,8 @@ msgstr "Wood Block"
 msgid "Wooden Flute"
 msgstr "Wooden Flute"
 
-msgid "world"
-msgstr "بالعالم"
+#~ msgid "world"
+#~ msgstr "بالعالم"
 
 msgid "x position"
 msgstr "الموضع س"
@@ -1460,23 +1460,23 @@ msgstr "اسمك على موقع سكراتش"
 msgid "Your Scratch name is required"
 msgstr "اسمك على موقع سكراتش مطلوب"
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>معلومات عن المتغيرات السحابية</b><br>&nbsp;<br>الأعداد فقط مدعومة "
-"حالياً.<br>غرف المحادثة غير مسموحة وسوف تزال<br>لمزيد من المعلومات <a href= "
-"target=>زر الأسئلة متكررة الطرح عن المتغيرات السحابية</a>"
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>معلومات عن المتغيرات السحابية</b><br>&nbsp;<br>الأعداد فقط مدعومة "
+#~ "حالياً.<br>غرف المحادثة غير مسموحة وسوف تزال<br>لمزيد من المعلومات <a href= "
+#~ "target=>زر الأسئلة متكررة الطرح عن المتغيرات السحابية</a>"
 
-msgid "Click  to try again or  to save"
-msgstr "انقر  للمحاولة ثانيةً أو  للحفظ"
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "انقر  للمحاولة ثانيةً أو  للحفظ"
 
-msgid "Eraser width:"
-msgstr "عرض الممحاة:"
+#~ msgid "Eraser width:"
+#~ msgstr "عرض الممحاة:"
 
-msgid "Line width:"
-msgstr "عرض الخط:"
+#~ msgid "Line width:"
+#~ msgstr "عرض الخط:"
 
 # Offline editor only
 msgid "All Tips"

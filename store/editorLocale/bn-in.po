@@ -14,10 +14,6 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1425189419.000000\n"
 
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "বাংলা (ভারত)"
-
 msgid "%b and %b"
 msgstr "%b এবং %b"
 
@@ -26,9 +22,6 @@ msgstr "%b অথবা %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute -এর %m.spriteOrStage"
-
-msgid "%m.list contains %s"
-msgstr "%m.list -এর মধ্যে %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp -এর %n"
@@ -71,8 +64,9 @@ msgstr "%m.var %n দিয়ে বদলাও"
 msgid "change pen color by %n"
 msgstr "কলমের রং %n দিয়ে বদলাও"
 
+#, fuzzy
 msgid "change pen shade by %n"
-msgstr ""
+msgstr "%n দিয়ে কলমের আয়তন বদলাও"
 
 msgid "change pen size by %n"
 msgstr "%n দিয়ে কলমের আয়তন বদলাও"
@@ -86,11 +80,13 @@ msgstr "%n দিয়ে তাল বদলাও"
 msgid "change volume by %n"
 msgstr ""
 
+#, fuzzy
 msgid "change x by %n"
-msgstr ""
+msgstr "%n দিয়ে  আয়তন বদলাও"
 
+#, fuzzy
 msgid "change y by %n"
-msgstr ""
+msgstr "%n দিয়ে  আয়তন বদলাও"
 
 msgid "clear"
 msgstr "পরিষ্কার"
@@ -494,6 +490,11 @@ msgstr ""
 
 msgid "when tilt = %n"
 msgstr ""
+
+#: commands-online.txt:7 commands-offline.txt:7
+#, fuzzy
+msgid "%m.list contains %s?"
+msgstr "%m.list -এর মধ্যে %s"
 
 msgid "10 ^"
 msgstr ""
@@ -1954,3 +1955,10 @@ msgstr ""
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
+
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "বাংলা (ভারত)"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list -এর মধ্যে %s"

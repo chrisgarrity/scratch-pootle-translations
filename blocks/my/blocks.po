@@ -14,8 +14,8 @@ msgstr ""
 "X-POOTLE-MTIME: 1367074287.000000\n"
 
 # The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "မြန်မာဘာသာ"
+#~ msgid "Language-Name"
+#~ msgstr "မြန်မာဘာသာ"
 
 msgid "%b and %b"
 msgstr "%b နဲ့ %b"
@@ -26,8 +26,8 @@ msgstr "%b သို့မဟုတ် %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.spriteOrStage ရဲ့ %m.attribute"
 
-msgid "%m.list contains %s"
-msgstr "%m.list မှာ %s က ပါဝင်"
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list မှာ %s က ပါဝင်"
 
 msgid "%m.mathOp of %n"
 msgstr "%n ရဲ့ %m.mathOp"
@@ -505,22 +505,22 @@ msgstr "မော်တာရဲ့ လည်ပတ်မှု့ကို %m.m
 msgid "set motor power %n"
 msgstr "မော်တာ ပါဝါကို  %n အဖြစ်ထား"
 
-msgid "turn motor off"
-msgstr "မော်တာကို ပိတ်"
+#~ msgid "turn motor off"
+#~ msgstr "မော်တာကို ပိတ်"
 
-msgid "turn motor on"
-msgstr "မော်တာကို ဖွင့်"
+#~ msgid "turn motor on"
+#~ msgstr "မော်တာကို ဖွင့်"
 
 # 80%
 #, fuzzy
 msgid "turn motor on for %n secs"
 msgstr "မော်တာကို  %n စက္ကန့် ဖွင့်"
 
-msgid "when distance < %n"
-msgstr "distance < %n ဖြစ်တဲ့ အခါ"
+#~ msgid "when distance < %n"
+#~ msgstr "distance < %n ဖြစ်တဲ့ အခါ"
 
-msgid "when tilt = %n"
-msgstr "စောင်းတဲ့ ပမာဏ = %n ဖြစ်တဲ့အခါ"
+#~ msgid "when tilt = %n"
+#~ msgstr "စောင်းတဲ့ ပမာဏ = %n ဖြစ်တဲ့အခါ"
 
 # 89%
 # 86%
@@ -554,3 +554,9 @@ msgstr "စောင်းတဲ့ ပမာဏ = %n ဖြစ်တဲ့အ�
 
 #~ msgid "play note %n for %n beats"
 #~ msgstr "%d.note ဂီတသင်္ကေတတွေ ကို %n စည်းချက်နဲ့ တီးခတ်"
+
+#: commands-online.txt:7
+#: commands-offline.txt:7
+#, fuzzy
+msgid "%m.list contains %s?"
+msgstr "%m.list မှာ %s က ပါဝင်"

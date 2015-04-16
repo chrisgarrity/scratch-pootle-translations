@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-12-19 14:38+0000\n"
-"Last-Translator: Jüri <juri.vilipold@ttu.ee>\n"
+"PO-Revision-Date: 2015-04-15 15:04+0000\n"
+"Last-Translator: Natalie <nrusk@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: et\n"
 "MIME-Version: 1.0\n"
@@ -12,11 +12,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1418999924.000000\n"
+"X-POOTLE-MTIME: 1429110282.000000\n"
 
 # The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Eesti"
+#~ msgid "Language-Name"
+#~ msgstr "Eesti"
 
 msgid "%b and %b"
 msgstr "%b ja %b"
@@ -28,8 +28,8 @@ msgid "%m.attribute of %m.spriteOrStage"
 msgstr "objekti %m.spriteOrStage %m.attribute"
 
 # lühem variant on parem; kui, siis väärtust
-msgid "%m.list contains %s"
-msgstr "%m.list sisaldab %s"
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list sisaldab %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp %n"
@@ -331,12 +331,12 @@ msgstr "määra %m.motor2 suunaks %m.motorDirection"
 msgid "set %m.motor power to %n"
 msgstr "määra %m.motor võimsuseks %n"
 
-# taotlus on erineda käsust 
+# taotlus on erineda käsust
 # võta pliiatsi värviks %n
 msgid "set pen color to %c"
 msgstr "vali pliiatsi värviks %c"
 
-# taotlus on erineda käsust 
+# taotlus on erineda käsust
 # vali pliiatsi värviks %c
 msgid "set pen color to %n"
 msgstr "võta pliiatsi värviks %n"
@@ -496,8 +496,8 @@ msgstr "kui teade %m.broadcast"
 msgid "when I start as a clone"
 msgstr "kui alustan kloonina"
 
-msgid "when Stage clicked"
-msgstr "kui Lava klõpsatakse"
+#~ msgid "when Stage clicked"
+#~ msgstr "kui Lava klõpsatakse"
 
 msgid "when this sprite clicked"
 msgstr "kui klõpsatakse sel spraidil"
@@ -512,28 +512,28 @@ msgid "y position"
 msgstr "y"
 
 # 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "mootori suund %m.motorDirection"
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "mootori suund %m.motorDirection"
 
 # 77%
-msgid "set motor power %n"
-msgstr "mootori võimsus %n"
+#~ msgid "set motor power %n"
+#~ msgstr "mootori võimsus %n"
 
-msgid "turn motor off"
-msgstr "lülita mootor välja"
+#~ msgid "turn motor off"
+#~ msgstr "lülita mootor välja"
 
-msgid "turn motor on"
-msgstr "lülita mootor sisse"
+#~ msgid "turn motor on"
+#~ msgstr "lülita mootor sisse"
 
 # 80%
-msgid "turn motor on for %n secs"
-msgstr "lülita mootor %n sekundiks sisse"
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "lülita mootor %n sekundiks sisse"
 
-msgid "when distance < %n"
-msgstr "kui kaugus < %n"
+#~ msgid "when distance < %n"
+#~ msgstr "kui kaugus < %n"
 
-msgid "when tilt = %n"
-msgstr "kui kalle = %n"
+#~ msgid "when tilt = %n"
+#~ msgstr "kui kalle = %n"
 
 # 89%
 # 86%
@@ -588,3 +588,9 @@ msgstr "kui kalle = %n"
 
 #~ msgid "when I am clicked"
 #~ msgstr "kui mind klõpsatakse"
+
+# lühem variant on parem; kui, siis väärtust
+#: commands-online.txt:7
+#: commands-offline.txt:7
+msgid "%m.list contains %s?"
+msgstr "%m.list sisaldab %s?"

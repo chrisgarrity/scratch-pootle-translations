@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-04-03 03:09+0000\n"
-"Last-Translator: andylolz <a.lulham@gmail.com>\n"
+"PO-Revision-Date: 2015-04-15 15:10+0000\n"
+"Last-Translator: Natalie <nrusk@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
@@ -12,11 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1428030545.000000\n"
-
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Bahasa Indonesia"
+"X-POOTLE-MTIME: 1429110638.000000\n"
 
 msgid "%b and %b"
 msgstr "%b dan %b"
@@ -26,9 +22,6 @@ msgstr "%b atau %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute dari %m.spriteOrStage"
-
-msgid "%m.list contains %s"
-msgstr "%m.list berisi %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp dari %n"
@@ -478,9 +471,6 @@ msgstr "ketika aku menerima %m.broadcast"
 msgid "when I start as a clone"
 msgstr "ketika aku mulai sebagai clone"
 
-msgid "when Stage clicked"
-msgstr "ketika Stage diklik"
-
 # past tense (clicked)
 msgid "when this sprite clicked"
 msgstr "ketika sprite ini diklik"
@@ -494,29 +484,9 @@ msgstr "posisi x"
 msgid "y position"
 msgstr "posisi y"
 
-# 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "atur arah motor %m.motorDirection"
-
-# 77%
-msgid "set motor power %n"
-msgstr "atur daya motor %n"
-
-msgid "turn motor off"
-msgstr "matikan motor"
-
-msgid "turn motor on"
-msgstr "hidupkan motor"
-
-# 80%
-msgid "turn motor on for %n secs"
-msgstr "hidupkan motor selama %n detik"
-
-msgid "when distance < %n"
-msgstr "ketika jarak < %n"
-
-msgid "when tilt = %n"
-msgstr "ketika miring = %n"
+#: commands-online.txt:7 commands-offline.txt:7
+msgid "%m.list contains %s?"
+msgstr "%m.list berisi %s?"
 
 # Sepertinya ini matematika... ~R
 msgid "10 ^"
@@ -545,17 +515,8 @@ msgstr "Versi Scratch yang lebih baru telah tersedia"
 msgid "About"
 msgstr "Tentang"
 
-msgid "About LEGO WeDo extension..."
-msgstr "Tentang extension LEGO WeDo..."
-
-msgid "About PicoBoard extension..."
-msgstr "Tentang extension PicoBoard..."
-
 msgid "abs"
 msgstr "abs"
-
-msgid "Account settings"
-msgstr "Pengaturan akun"
 
 msgid "acos"
 msgstr "acos"
@@ -571,9 +532,6 @@ msgstr "Tambahkan input boolean:"
 
 msgid "add comment"
 msgstr "tambahkan komentar"
-
-msgid "add comment here..."
-msgstr "tambahkan komentar disini..."
 
 msgid "Add label text:"
 msgstr "Tambahkan label teks:"
@@ -592,9 +550,6 @@ msgstr "Semua"
 
 msgid "all around"
 msgstr "seluruh"
-
-msgid "all motors"
-msgstr "semua motor"
 
 msgid "Animal"
 msgstr "Hewan"
@@ -763,10 +718,6 @@ msgstr "Klarinet"
 msgid "Claves"
 msgstr "Claves"
 
-# "cleanup" adalah fitur editor yang dapat kau gunakan untuk merapikan scripts. (blocks)
-msgid "clean up"
-msgstr "rapikan"
-
 msgid "Clear"
 msgstr "Hapus semua"
 
@@ -784,15 +735,8 @@ msgstr "Tutup"
 msgid "Closed Hi-Hat"
 msgstr "Tutup hi-hat"
 
-# Sepertinya "cloud" disini ada hubungannya dengan cloud data, jadi kupikir sebaiknya tidak diterjemahkan :) ~R
-msgid "Cloud"
-msgstr "Cloud"
-
 msgid "Cloud data"
 msgstr "Cloud data"
-
-msgid "Cloud variable (stored on server)"
-msgstr "Variabel Cloud (disimpan di server)"
 
 msgid "color"
 msgstr "warna"
@@ -848,9 +792,6 @@ msgstr "Kostum"
 # Sangat membingungkan bila tidak ditambahkan "jumlah"
 msgid "Costumes > 1"
 msgstr "Jumlah kostum > 1"
-
-msgid "Costumes:"
-msgstr "Kostum:"
 
 msgid "Could not retrieve new application from server."
 msgstr "Tidak dapat menerima aplikasi baru dari server."
@@ -910,9 +851,6 @@ msgstr "Unduh"
 msgid "Download to your computer"
 msgstr "Download ke komputermu"
 
-msgid "Downloading new version"
-msgstr "Mengunduh versi baru"
-
 msgid "duplicate"
 msgstr "gandakan"
 
@@ -951,14 +889,8 @@ msgstr "Elektronik"
 msgid "Ellipse"
 msgstr "Lonjong"
 
-msgid "empty"
-msgstr "kosong"
-
 msgid "Erase"
 msgstr "Hapus"
-
-msgid "Erase all"
-msgstr "Hapus semua"
 
 msgid "Eraser width"
 msgstr "Lebar penghapus"
@@ -966,26 +898,14 @@ msgstr "Lebar penghapus"
 msgid "Error!"
 msgstr "Error!"
 
-msgid "everything"
-msgstr "semuanya"
-
 msgid "export"
 msgstr "ekspor"
-
-msgid "Extension Library"
-msgstr "Pustaka Extension"
-
-msgid "Extension Problem"
-msgstr "Masalah Extension"
 
 msgid "fade in"
 msgstr "fade in"
 
 msgid "fade out"
 msgstr "fade out"
-
-msgid "false"
-msgstr "salah"
 
 msgid "Fantasy"
 msgstr "Fantasi"
@@ -1032,10 +952,6 @@ msgstr "Majukan satu layer"
 msgid "ghost"
 msgstr "transparan"
 
-# Cukup sederhana untuk dimengerti segala usia ~R
-msgid "Go to My Stuff"
-msgstr "Pergi ke Karyaku"
-
 msgid "Group"
 msgstr "Kelompok"
 
@@ -1057,15 +973,6 @@ msgstr "Perangkat keras"
 
 msgid "help"
 msgstr "bantuan"
-
-msgid "Hello!"
-msgstr "Halo!"
-
-msgid "Hmm..."
-msgstr "Hmm..."
-
-msgid "hello"
-msgstr "halo"
 
 # Guru pianoku, sih, mengajarkanku begitu. MEnurutku ini adalah bagian dari nnada (musik)
 msgid "High C"
@@ -1126,13 +1033,6 @@ msgstr "Perpustakaan"
 
 msgid "light"
 msgstr "cahaya"
-
-# 83%
-msgid "lights"
-msgstr "cahaya"
-
-msgid "limit reached"
-msgstr "batas telah tercapai"
 
 msgid "Line"
 msgstr "Garis"
@@ -1209,15 +1109,6 @@ msgstr "mosaik"
 msgid "motion"
 msgstr "gerak"
 
-msgid "motor"
-msgstr "motor"
-
-msgid "motor A"
-msgstr "motor A"
-
-msgid "motor B"
-msgstr "motor B"
-
 msgid "mouse-pointer"
 msgstr "pointer-mouse"
 
@@ -1232,10 +1123,6 @@ msgstr "Kotak Musik"
 
 msgid "Music Loops"
 msgstr "Loop Musik"
-
-# Aku memutuskan untuk menyebutnya "karyaku" karena mudah dimengerti, serhana, dan masuk akal ;) ~R
-msgid "My Stuff"
-msgstr "Karyaku"
 
 msgid "myself"
 msgstr "diriku"
@@ -1291,9 +1178,6 @@ msgstr "Tidak ada blocks gerak"
 
 msgid "normal readout"
 msgstr "tampilan normal"
-
-msgid "not ="
-msgstr "tidak ="
 
 msgid "Not saved; network or server problem."
 msgstr "Tidak tersimpan; masalah koneksi network atau server."
@@ -1395,9 +1279,6 @@ msgstr "pop"
 msgid "previous backdrop"
 msgstr "Latar sebelumnya"
 
-msgid "Profile"
-msgstr "Profil"
-
 msgid "Project did not load."
 msgstr "Projek tidak termuat."
 
@@ -1441,20 +1322,11 @@ msgstr "Remix"
 msgid "Remixing..."
 msgstr "Remixing..."
 
-msgid "Remove extension blocks"
-msgstr "Hapus balok extension"
-
 msgid "Rename"
 msgstr "Rename"
 
 msgid "rename variable"
 msgstr "namai ulang variabel"
-
-msgid "Replace existing project"
-msgstr "Ganti karya yang ada"
-
-msgid "requires sign in"
-msgstr "mengharuskan untuk masuk"
 
 msgid "Reshape"
 msgstr "Bentuk ulang"
@@ -1502,9 +1374,6 @@ msgstr "Simpan salinan karya ini dan tambahkan dengan idemu sendiri"
 msgid "Save as"
 msgstr "Simpan sebagai"
 
-msgid "Save as a copy"
-msgstr "Simpan sebagai salinan"
-
 msgid "Save now"
 msgstr "Simpan sekarang"
 
@@ -1529,28 +1398,17 @@ msgstr "Saxophone"
 msgid "Scratch Updater"
 msgstr "Updater Scratch"
 
-msgid "Scratch 2.0 Offline Editor"
-msgstr "Editor Scratch 2.0 Offline"
-
 msgid "Script"
 msgstr "Skrip"
 
 msgid "Scripts"
 msgstr "Skrip"
 
-msgid "Scripts:"
-msgstr "Skrip:"
-
 msgid "second"
 msgstr "detik"
 
 msgid "See project page"
 msgstr "Lihat halaman projek"
-
-msgid ""
-"See the Tips window (on the right) to install the plug-in and get the "
-"extension working."
-msgstr "Projek tidak termuat."
 
 msgid "Select"
 msgstr "Pilih"
@@ -1579,9 +1437,6 @@ msgstr "Bagikan"
 msgid "Share to website"
 msgstr "Bagikan ke website"
 
-msgid "Share to Scratch website"
-msgstr "Bagikan ke website Scratch"
-
 msgid "shared"
 msgstr "terbagikan"
 
@@ -1608,9 +1463,6 @@ msgstr "Masuk"
 
 msgid "Sign in to save"
 msgstr "Masuk untuk simpan"
-
-msgid "Sign out"
-msgstr "Keluar"
 
 msgid "silence"
 msgstr "sunyi"
@@ -1687,9 +1539,6 @@ msgstr "Stage terpilih:"
 msgid "Steel Drum"
 msgstr "Drum Besi"
 
-msgid "stored on server"
-msgstr "tersimpan di server"
-
 msgid "Synth Lead"
 msgstr "Synth Lead"
 
@@ -1712,9 +1561,6 @@ msgstr "Teks"
 msgid "that way"
 msgstr "ke arah sana"
 
-msgid "The name is already in use."
-msgstr "Nama ini telah digunakan"
-
 msgid ""
 "The project failed to load and Scratch Team has been notified. Press OK to "
 "leave this page."
@@ -1725,9 +1571,6 @@ msgstr "Tema"
 
 msgid "Things"
 msgstr "Benda"
-
-msgid "thing"
-msgstr "benda"
 
 msgid "This is the current version."
 msgstr "Ini adalah versi terkini."
@@ -1776,9 +1619,6 @@ msgstr "Segitiga"
 
 msgid "Trombone"
 msgstr "Trombon"
-
-msgid "true"
-msgstr "benar"
 
 msgid "Turbo mode"
 msgstr "Mode turbo"
@@ -1923,24 +1763,6 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Informasi tentang variabel Cloud</b><br>&nbsp;<br>Sekarang, hanya angka "
-"yang didukung<br>Chat room tidak diperbolehkan, dan akan dihapus<br>Untuk "
-"info lebih lanjut, <a href= target=>lihat Data Cloud FAQ!</a>"
-
-msgid "Click  to try again or  to save"
-msgstr "Klik  untuk mencoba lagi atau  untuk menyimpan"
-
-msgid "Eraser width:"
-msgstr "Lebar penghapus:"
-
-msgid "Line width:"
-msgstr "Lebar garis:"
-
 # Offline editor only
 msgid "All Tips"
 msgstr ""
@@ -2003,8 +1825,9 @@ msgid "Quit"
 msgstr ""
 
 # Offline editor only
+#, fuzzy
 msgid "Replace existing project?"
-msgstr ""
+msgstr "Ganti karya yang ada"
 
 # Offline editor only
 msgid "Running pre-release"
@@ -2019,8 +1842,9 @@ msgid "Server error:"
 msgstr ""
 
 # Offline editor only
+#, fuzzy
 msgid "Share to Scratch Website"
-msgstr ""
+msgstr "Bagikan ke website Scratch"
 
 # Offline editor only
 msgid "Success"
@@ -2045,6 +1869,40 @@ msgstr ""
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
+
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "Bahasa Indonesia"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list berisi %s"
+
+#~ msgid "when Stage clicked"
+#~ msgstr "ketika Stage diklik"
+
+# 89%
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "atur arah motor %m.motorDirection"
+
+# 77%
+#~ msgid "set motor power %n"
+#~ msgstr "atur daya motor %n"
+
+#~ msgid "turn motor off"
+#~ msgstr "matikan motor"
+
+#~ msgid "turn motor on"
+#~ msgstr "hidupkan motor"
+
+# 80%
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "hidupkan motor selama %n detik"
+
+#~ msgid "when distance < %n"
+#~ msgstr "ketika jarak < %n"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "ketika miring = %n"
 
 # 89%
 # 86%
@@ -2074,6 +1932,155 @@ msgstr ""
 
 #~ msgid "play note %n for %n beats"
 #~ msgstr "mainkan nada %d.note sebanyak %n ketukan"
+
+#~ msgid "About LEGO WeDo extension..."
+#~ msgstr "Tentang extension LEGO WeDo..."
+
+#~ msgid "About PicoBoard extension..."
+#~ msgstr "Tentang extension PicoBoard..."
+
+#~ msgid "Account settings"
+#~ msgstr "Pengaturan akun"
+
+#~ msgid "add comment here..."
+#~ msgstr "tambahkan komentar disini..."
+
+#~ msgid "all motors"
+#~ msgstr "semua motor"
+
+# "cleanup" adalah fitur editor yang dapat kau gunakan untuk merapikan scripts. (blocks)
+#~ msgid "clean up"
+#~ msgstr "rapikan"
+
+# Sepertinya "cloud" disini ada hubungannya dengan cloud data, jadi kupikir sebaiknya tidak diterjemahkan :) ~R
+#~ msgid "Cloud"
+#~ msgstr "Cloud"
+
+#~ msgid "Cloud variable (stored on server)"
+#~ msgstr "Variabel Cloud (disimpan di server)"
+
+#~ msgid "Costumes:"
+#~ msgstr "Kostum:"
+
+#~ msgid "Downloading new version"
+#~ msgstr "Mengunduh versi baru"
+
+#~ msgid "empty"
+#~ msgstr "kosong"
+
+#~ msgid "Erase all"
+#~ msgstr "Hapus semua"
+
+#~ msgid "everything"
+#~ msgstr "semuanya"
+
+#~ msgid "Extension Library"
+#~ msgstr "Pustaka Extension"
+
+#~ msgid "Extension Problem"
+#~ msgstr "Masalah Extension"
+
+#~ msgid "false"
+#~ msgstr "salah"
+
+# Cukup sederhana untuk dimengerti segala usia ~R
+#~ msgid "Go to My Stuff"
+#~ msgstr "Pergi ke Karyaku"
+
+#~ msgid "Hello!"
+#~ msgstr "Halo!"
+
+#~ msgid "Hmm..."
+#~ msgstr "Hmm..."
+
+#~ msgid "hello"
+#~ msgstr "halo"
+
+# 83%
+#~ msgid "lights"
+#~ msgstr "cahaya"
+
+#~ msgid "limit reached"
+#~ msgstr "batas telah tercapai"
+
+#~ msgid "motor"
+#~ msgstr "motor"
+
+#~ msgid "motor A"
+#~ msgstr "motor A"
+
+#~ msgid "motor B"
+#~ msgstr "motor B"
+
+# Aku memutuskan untuk menyebutnya "karyaku" karena mudah dimengerti, serhana, dan masuk akal ;) ~R
+#~ msgid "My Stuff"
+#~ msgstr "Karyaku"
+
+#~ msgid "not ="
+#~ msgstr "tidak ="
+
+#~ msgid "Profile"
+#~ msgstr "Profil"
+
+#~ msgid "Remove extension blocks"
+#~ msgstr "Hapus balok extension"
+
+#~ msgid "Replace existing project"
+#~ msgstr "Ganti karya yang ada"
+
+#~ msgid "requires sign in"
+#~ msgstr "mengharuskan untuk masuk"
+
+#~ msgid "Save as a copy"
+#~ msgstr "Simpan sebagai salinan"
+
+#~ msgid "Scratch 2.0 Offline Editor"
+#~ msgstr "Editor Scratch 2.0 Offline"
+
+#~ msgid "Scripts:"
+#~ msgstr "Skrip:"
+
+#~ msgid ""
+#~ "See the Tips window (on the right) to install the plug-in and get the "
+#~ "extension working."
+#~ msgstr "Projek tidak termuat."
+
+#~ msgid "Share to Scratch website"
+#~ msgstr "Bagikan ke website Scratch"
+
+#~ msgid "Sign out"
+#~ msgstr "Keluar"
+
+#~ msgid "stored on server"
+#~ msgstr "tersimpan di server"
+
+#~ msgid "The name is already in use."
+#~ msgstr "Nama ini telah digunakan"
+
+#~ msgid "thing"
+#~ msgstr "benda"
+
+#~ msgid "true"
+#~ msgstr "benar"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Informasi tentang variabel Cloud</b><br>&nbsp;<br>Sekarang, hanya "
+#~ "angka yang didukung<br>Chat room tidak diperbolehkan, dan akan "
+#~ "dihapus<br>Untuk info lebih lanjut, <a href= target=>lihat Data Cloud FAQ!"
+#~ "</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Klik  untuk mencoba lagi atau  untuk menyimpan"
+
+#~ msgid "Eraser width:"
+#~ msgstr "Lebar penghapus:"
+
+#~ msgid "Line width:"
+#~ msgstr "Lebar garis:"
 
 # "cleanup" adalah fitur editor yang dapat kau gunakan untuk merapikan scripts. (blocks)
 #~ msgid "cleanup"

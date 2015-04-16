@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-07-14 14:12+0000\n"
-"Last-Translator: aitolajau <aitorolano@gmail.com>\n"
+"PO-Revision-Date: 2015-04-15 13:53+0000\n"
+"Last-Translator: Natalie <nrusk@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: eu\n"
 "MIME-Version: 1.0\n"
@@ -12,11 +12,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1405347170.000000\n"
+"X-POOTLE-MTIME: 1429105996.000000\n"
 
 # The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Euskara"
+#~ msgid "Language-Name"
+#~ msgstr "Euskara"
 
 msgid "%b and %b"
 msgstr "%b eta %b"
@@ -27,8 +27,8 @@ msgstr "%b edo %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute -- %m.spriteOrStage"
 
-msgid "%m.list contains %s"
-msgstr "%m.list barnean dago %s"
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list barnean dago %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp -- %n"
@@ -470,8 +470,8 @@ msgstr "%m.broadcast jasotzean"
 msgid "when I start as a clone"
 msgstr "klon moduan hastean"
 
-msgid "when Stage clicked"
-msgstr "Eszenatokia sakatzean"
+#~ msgid "when Stage clicked"
+#~ msgstr "Eszenatokia sakatzean"
 
 msgid "when this sprite clicked"
 msgstr "Sprite hau sakatzean"
@@ -486,28 +486,28 @@ msgid "y position"
 msgstr "y posizioa"
 
 # 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "motore norabidea = %m.motorDirection"
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "motore norabidea = %m.motorDirection"
 
 # 77%
-msgid "set motor power %n"
-msgstr "motorearen ahalmena = %n"
+#~ msgid "set motor power %n"
+#~ msgstr "motorearen ahalmena = %n"
 
-msgid "turn motor off"
-msgstr "motorea itzali"
+#~ msgid "turn motor off"
+#~ msgstr "motorea itzali"
 
-msgid "turn motor on"
-msgstr "motorea piztu"
+#~ msgid "turn motor on"
+#~ msgstr "motorea piztu"
 
 # 80%
-msgid "turn motor on for %n secs"
-msgstr "motorea piztu %n segunduz"
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "motorea piztu %n segunduz"
 
-msgid "when distance < %n"
-msgstr "distantzia < %n denean"
+#~ msgid "when distance < %n"
+#~ msgstr "distantzia < %n denean"
 
-msgid "when tilt = %n"
-msgstr "malda = %n denean"
+#~ msgid "when tilt = %n"
+#~ msgstr "malda = %n denean"
 
 # 89%
 # 86%
@@ -537,3 +537,8 @@ msgstr "malda = %n denean"
 
 #~ msgid "play note %n for %n beats"
 #~ msgstr "jo %d.note  nota  %n pultsuan"
+
+#: commands-online.txt:7
+#: commands-offline.txt:7
+msgid "%m.list contains %s?"
+msgstr "%m.list barnean dago %s?"

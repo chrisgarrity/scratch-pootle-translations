@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-01-22 21:15+0000\n"
-"Last-Translator: nicosta1132 <nicosta1132@gmail.com>\n"
+"PO-Revision-Date: 2015-04-15 15:07+0000\n"
+"Last-Translator: Natalie <nrusk@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -12,11 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1421961313.000000\n"
-
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Deutsch"
+"X-POOTLE-MTIME: 1429110432.000000\n"
 
 msgid "%b and %b"
 msgstr "%b und %b"
@@ -26,9 +22,6 @@ msgstr "%b oder %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute von %m.spriteOrStage"
-
-msgid "%m.list contains %s"
-msgstr "%m.list enthält %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp von %n"
@@ -472,9 +465,6 @@ msgstr "Wenn ich %m.broadcast empfange"
 msgid "when I start as a clone"
 msgstr "Wenn ich als Klon entstehe"
 
-msgid "when Stage clicked"
-msgstr "Wenn Bühne angeklickt"
-
 msgid "when this sprite clicked"
 msgstr "Wenn ich angeklickt werde"
 
@@ -487,29 +477,9 @@ msgstr "x-Position"
 msgid "y position"
 msgstr "y-Position"
 
-# 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "setze Motordrehung %m.motorDirection"
-
-# 77%
-msgid "set motor power %n"
-msgstr "setze Motorleistung auf %n"
-
-msgid "turn motor off"
-msgstr "schalte Motor aus"
-
-msgid "turn motor on"
-msgstr "schalte Motor an"
-
-# 80%
-msgid "turn motor on for %n secs"
-msgstr "schalte Motor für %n Sekunden an"
-
-msgid "when distance < %n"
-msgstr "Wenn Abstand < %n"
-
-msgid "when tilt = %n"
-msgstr "Wenn Neigung = %n"
+#: commands-online.txt:7 commands-offline.txt:7
+msgid "%m.list contains %s?"
+msgstr "%m.list enthält %s?"
 
 msgid "10 ^"
 msgstr "10^"
@@ -537,17 +507,8 @@ msgstr "Eine neuere Version von Scratch ist verfügbar."
 msgid "About"
 msgstr "Info"
 
-msgid "About LEGO WeDo extension..."
-msgstr "Über die LEGO-WeDo-Erweiterung..."
-
-msgid "About PicoBoard extension..."
-msgstr "Über die PicoBoard-Erweiterung..."
-
 msgid "abs"
 msgstr "Betrag"
-
-msgid "Account settings"
-msgstr "Kontoeinstellungen"
 
 msgid "acos"
 msgstr "acos"
@@ -564,9 +525,6 @@ msgstr "Boolesches Feld:"
 
 msgid "add comment"
 msgstr "Kommentar hinzufügen"
-
-msgid "add comment here..."
-msgstr "Verfasse ein Kommentar..."
 
 msgid "Add label text:"
 msgstr "Beschriftungstext:"
@@ -588,9 +546,6 @@ msgstr "Alles"
 # Drehtyp
 msgid "all around"
 msgstr "rundherum"
-
-msgid "all motors"
-msgstr "alle Motoren"
 
 msgid "Animal"
 msgstr "Tier"
@@ -710,9 +665,6 @@ msgstr "ziehbar im Präsentationsmodus:"
 msgid "Cancel"
 msgstr "Abbrechen"
 
-msgid "Cannot Add"
-msgstr "Hinzufügen nicht möglich"
-
 msgid "Cannot Delete"
 msgstr "Kann nicht gelöscht werden"
 
@@ -763,9 +715,6 @@ msgstr "Klarinette"
 msgid "Claves"
 msgstr "Claves"
 
-msgid "clean up"
-msgstr "Aufräumen"
-
 # Paint-Tool
 msgid "Clear"
 msgstr "Löschen"
@@ -782,14 +731,8 @@ msgstr "Schließen"
 msgid "Closed Hi-Hat"
 msgstr "Geschlossenes Hi-Hat"
 
-msgid "Cloud"
-msgstr "Cloud"
-
 msgid "Cloud data"
 msgstr "Cloud-Daten"
-
-msgid "Cloud variable (stored on server)"
-msgstr "Cloud-Variable (auf dem Server gespeichert)"
 
 msgid "color"
 msgstr "Farbe"
@@ -842,9 +785,6 @@ msgstr "Kostüme"
 
 msgid "Costumes > 1"
 msgstr "Kostüme > 1"
-
-msgid "Costumes:"
-msgstr "Kostüme:"
 
 msgid "Could not retrieve new application from server."
 msgstr "Neue Anwendung konnte nicht vom Server abgerufen werden."
@@ -905,9 +845,6 @@ msgstr "Herunterladen"
 msgid "Download to your computer"
 msgstr "Herunterladen auf deinen Computer"
 
-msgid "Downloading new version"
-msgstr "Eine neue Version wird heruntergeladen"
-
 msgid "duplicate"
 msgstr "Duplizieren"
 
@@ -944,14 +881,8 @@ msgstr "Elektronik"
 msgid "Ellipse"
 msgstr "Ellipse"
 
-msgid "empty"
-msgstr "leer"
-
 msgid "Erase"
 msgstr "Radiergummi"
-
-msgid "Erase all"
-msgstr "Alles löschen"
 
 # 92%
 msgid "Eraser width"
@@ -960,17 +891,8 @@ msgstr "Radiererbreite"
 msgid "Error!"
 msgstr "Fehler!"
 
-msgid "everything"
-msgstr "alles"
-
 msgid "export"
 msgstr "Exportieren"
-
-msgid "Extension Library"
-msgstr "Erweiterungsbibliothek"
-
-msgid "Extension Problem"
-msgstr "Erweiterungsproblem"
 
 # sounds->effects
 msgid "fade in"
@@ -979,9 +901,6 @@ msgstr "einblenden"
 # sounds->effects
 msgid "fade out"
 msgstr "ausblenden"
-
-msgid "false"
-msgstr "falsch"
 
 msgid "Fantasy"
 msgstr "Fantasie"
@@ -1028,9 +947,6 @@ msgstr "Eine Ebene nach vorne"
 msgid "ghost"
 msgstr "Durchsichtigkeit"
 
-msgid "Go to My Stuff"
-msgstr "Meine Sachen"
-
 msgid "Group"
 msgstr "Gruppieren"
 
@@ -1051,15 +967,6 @@ msgstr "Hardware"
 
 msgid "help"
 msgstr "Hilfe"
-
-msgid "Hello!"
-msgstr "Hallo!"
-
-msgid "Hmm..."
-msgstr "Hmm..."
-
-msgid "hello"
-msgstr "hallo"
 
 msgid "High C"
 msgstr "Hohes C"
@@ -1120,13 +1027,6 @@ msgstr "Bibliothek"
 # Sensor? LegoWeDo: ein- und ausschalten
 msgid "light"
 msgstr "Licht"
-
-# Sensor? LegoWeDo
-msgid "lights"
-msgstr "Leuchten"
-
-msgid "limit reached"
-msgstr "Grenze erreicht"
 
 msgid "Line"
 msgstr "Linie"
@@ -1203,15 +1103,6 @@ msgstr "Mosaik"
 msgid "motion"
 msgstr "Bewegung"
 
-msgid "motor"
-msgstr "Motor"
-
-msgid "motor A"
-msgstr "Motor A"
-
-msgid "motor B"
-msgstr "Motor B"
-
 msgid "mouse-pointer"
 msgstr "Mauszeiger"
 
@@ -1227,9 +1118,6 @@ msgstr "Musikbox"
 
 msgid "Music Loops"
 msgstr "Musikschleifen"
-
-msgid "My Stuff"
-msgstr "Meine Sachen"
 
 # "erzeuge Klon von _mir selbst_"
 msgid "myself"
@@ -1288,9 +1176,6 @@ msgstr "Keine Bewegungsblöcke"
 
 msgid "normal readout"
 msgstr "Normale Anzeigengröße"
-
-msgid "not ="
-msgstr "nicht ="
 
 msgid "Not saved; network or server problem."
 msgstr "Nicht gespeichert: Netzwerk- oder Server-Problem"
@@ -1396,9 +1281,6 @@ msgstr "Plopp"
 msgid "previous backdrop"
 msgstr "vorheriges Bühnenbild"
 
-msgid "Profile"
-msgstr "Profil"
-
 msgid "Project did not load."
 msgstr "Das Projekt wurde nicht geladen."
 
@@ -1443,20 +1325,11 @@ msgstr "Remixen"
 msgid "Remixing..."
 msgstr "Erstelle Remix..."
 
-msgid "Remove extension blocks"
-msgstr "Erweiterungsblöcke entfernen"
-
 msgid "Rename"
 msgstr "Umbenennen"
 
 msgid "rename variable"
 msgstr "Variable umbenennen"
-
-msgid "Replace existing project"
-msgstr "Existierendes Projekt ersetzen"
-
-msgid "requires sign in"
-msgstr "Hierzu musst du angemeldet sein."
 
 msgid "Reshape"
 msgstr "Verformen"
@@ -1504,9 +1377,6 @@ msgstr ""
 msgid "Save as"
 msgstr "Speichern unter"
 
-msgid "Save as a copy"
-msgstr "Eine Kopie speichern"
-
 msgid "Save now"
 msgstr "Jetzt speichern"
 
@@ -1531,9 +1401,6 @@ msgstr "Saxophon"
 msgid "Scratch Updater"
 msgstr "Scratch-Aktualisierung"
 
-msgid "Scratch 2.0 Offline Editor"
-msgstr "Scratch 2.0 Offline-Editor"
-
 # 85%
 msgid "Script"
 msgstr "Skript"
@@ -1541,22 +1408,11 @@ msgstr "Skript"
 msgid "Scripts"
 msgstr "Skripte"
 
-# 87%
-msgid "Scripts:"
-msgstr "Skripte:"
-
 msgid "second"
 msgstr "Sekunde"
 
 msgid "See project page"
 msgstr "Zeige Projektseite"
-
-msgid ""
-"See the Tips window (on the right) to install the plug-in and get the "
-"extension working."
-msgstr ""
-"Beachte das Fenster (rechts am Rand) mit Tipps zur Installation des Plugins "
-"und zur Inbetriebnahme der Erweiterung."
 
 msgid "Select"
 msgstr "Auswählen"
@@ -1586,9 +1442,6 @@ msgstr "Veröffentlichen"
 msgid "Share to website"
 msgstr "Auf der Webseite veröffentlichen"
 
-msgid "Share to Scratch website"
-msgstr "Auf der Scratch-Webseite veröffentlichen"
-
 msgid "shared"
 msgstr "veröffentlicht"
 
@@ -1615,9 +1468,6 @@ msgstr "Anmelden"
 
 msgid "Sign in to save"
 msgstr "Melde dich zum Speichern an"
-
-msgid "Sign out"
-msgstr "Abmelden"
 
 # sounds->effects
 msgid "silence"
@@ -1694,9 +1544,6 @@ msgstr "Bühne ausgewählt:"
 msgid "Steel Drum"
 msgstr "Steel-Drum"
 
-msgid "stored on server"
-msgstr "auf dem Server gespeichert"
-
 msgid "Synth Lead"
 msgstr "Lead-Synthesizer"
 
@@ -1721,24 +1568,11 @@ msgstr "Textwerkzeug"
 msgid "that way"
 msgstr "andersherum"
 
-msgid "The name is already in use."
-msgstr "Dieser Name ist bereits vergeben."
-
-msgid ""
-"The project failed to load and Scratch Team has been notified. Press OK to "
-"leave this page."
-msgstr ""
-"Das Projekt konnte nicht geladen werden. Das Scratch-Team wurde deswegen "
-"benachrichtigt. Klicke auf OK, um diese Seite zu verlassen."
-
 msgid "Theme"
 msgstr "Thema"
 
 msgid "Things"
 msgstr "Dinge"
-
-msgid "thing"
-msgstr "Ding"
 
 msgid "This is the current version."
 msgstr "Dies ist die aktuelle Version."
@@ -1787,9 +1621,6 @@ msgstr "Triangel"
 
 msgid "Trombone"
 msgstr "Posaune"
-
-msgid "true"
-msgstr "wahr"
 
 # 90%
 msgid "Turbo mode"
@@ -1903,9 +1734,6 @@ msgstr "Du möchtest speichern? Klicke auf Remixen!"
 msgid "Which column do you want to import"
 msgstr "Welche Zeile willst Du importieren?"
 
-msgid "What's your name?"
-msgstr "Wie lautet dein Name?"
-
 msgid "whirl"
 msgstr "Wirbel"
 
@@ -1914,9 +1742,6 @@ msgstr "Holzblock"
 
 msgid "Wooden Flute"
 msgstr "Blockflöte"
-
-msgid "world"
-msgstr "Welt"
 
 msgid "year"
 msgstr "Jahr"
@@ -1933,24 +1758,6 @@ msgstr "Dein Scratch-Name"
 
 msgid "Your Scratch name is required"
 msgstr "Dein Scratch-Name ist erforderlich"
-
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Information zu den Cloud-Variablen</b><br>&nbsp;<br>Zur Zeit werden nur "
-"Zahlen unterstützt<br>Chat-Rooms sind nicht erlaubt und werden gelöscht!"
-"<br>Für weitere Infos, <a href= target=>siehe Cloud-Daten FAQ!</a>"
-
-msgid "Click  to try again or  to save"
-msgstr "Klicke  für einen neuen Versuch oder  zum Speichern"
-
-msgid "Eraser width:"
-msgstr "Radierbreite:"
-
-msgid "Line width:"
-msgstr "Linienbreite"
 
 # Offline editor only
 msgid "All Tips"
@@ -2056,6 +1863,40 @@ msgstr "Download-Seite besuchen"
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr "Dein Projekt wurde auf scratch.mit.edu hochgeladen"
 
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "Deutsch"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list enthält %s"
+
+#~ msgid "when Stage clicked"
+#~ msgstr "Wenn Bühne angeklickt"
+
+# 89%
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "setze Motordrehung %m.motorDirection"
+
+# 77%
+#~ msgid "set motor power %n"
+#~ msgstr "setze Motorleistung auf %n"
+
+#~ msgid "turn motor off"
+#~ msgstr "schalte Motor aus"
+
+#~ msgid "turn motor on"
+#~ msgstr "schalte Motor an"
+
+# 80%
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "schalte Motor für %n Sekunden an"
+
+#~ msgid "when distance < %n"
+#~ msgstr "Wenn Abstand < %n"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "Wenn Neigung = %n"
+
 #~ msgid "set %m.motor direction to %m.motorDirection"
 #~ msgstr "setze Drehung von %m.motor auf %m.motorDirection"
 
@@ -2106,6 +1947,170 @@ msgstr "Dein Projekt wurde auf scratch.mit.edu hochgeladen"
 
 #~ msgid "when I am clicked"
 #~ msgstr "Wenn ich angeklickt werde"
+
+#~ msgid "About LEGO WeDo extension..."
+#~ msgstr "Über die LEGO-WeDo-Erweiterung..."
+
+#~ msgid "About PicoBoard extension..."
+#~ msgstr "Über die PicoBoard-Erweiterung..."
+
+#~ msgid "Account settings"
+#~ msgstr "Kontoeinstellungen"
+
+#~ msgid "add comment here..."
+#~ msgstr "Verfasse ein Kommentar..."
+
+#~ msgid "all motors"
+#~ msgstr "alle Motoren"
+
+#~ msgid "Cannot Add"
+#~ msgstr "Hinzufügen nicht möglich"
+
+#~ msgid "clean up"
+#~ msgstr "Aufräumen"
+
+#~ msgid "Cloud"
+#~ msgstr "Cloud"
+
+#~ msgid "Cloud variable (stored on server)"
+#~ msgstr "Cloud-Variable (auf dem Server gespeichert)"
+
+#~ msgid "Costumes:"
+#~ msgstr "Kostüme:"
+
+#~ msgid "Downloading new version"
+#~ msgstr "Eine neue Version wird heruntergeladen"
+
+#~ msgid "empty"
+#~ msgstr "leer"
+
+#~ msgid "Erase all"
+#~ msgstr "Alles löschen"
+
+#~ msgid "everything"
+#~ msgstr "alles"
+
+#~ msgid "Extension Library"
+#~ msgstr "Erweiterungsbibliothek"
+
+#~ msgid "Extension Problem"
+#~ msgstr "Erweiterungsproblem"
+
+#~ msgid "false"
+#~ msgstr "falsch"
+
+#~ msgid "Go to My Stuff"
+#~ msgstr "Meine Sachen"
+
+#~ msgid "Hello!"
+#~ msgstr "Hallo!"
+
+#~ msgid "Hmm..."
+#~ msgstr "Hmm..."
+
+#~ msgid "hello"
+#~ msgstr "hallo"
+
+# Sensor? LegoWeDo
+#~ msgid "lights"
+#~ msgstr "Leuchten"
+
+#~ msgid "limit reached"
+#~ msgstr "Grenze erreicht"
+
+#~ msgid "motor"
+#~ msgstr "Motor"
+
+#~ msgid "motor A"
+#~ msgstr "Motor A"
+
+#~ msgid "motor B"
+#~ msgstr "Motor B"
+
+#~ msgid "My Stuff"
+#~ msgstr "Meine Sachen"
+
+#~ msgid "not ="
+#~ msgstr "nicht ="
+
+#~ msgid "Profile"
+#~ msgstr "Profil"
+
+#~ msgid "Remove extension blocks"
+#~ msgstr "Erweiterungsblöcke entfernen"
+
+#~ msgid "Replace existing project"
+#~ msgstr "Existierendes Projekt ersetzen"
+
+#~ msgid "requires sign in"
+#~ msgstr "Hierzu musst du angemeldet sein."
+
+#~ msgid "Save as a copy"
+#~ msgstr "Eine Kopie speichern"
+
+#~ msgid "Scratch 2.0 Offline Editor"
+#~ msgstr "Scratch 2.0 Offline-Editor"
+
+# 87%
+#~ msgid "Scripts:"
+#~ msgstr "Skripte:"
+
+#~ msgid ""
+#~ "See the Tips window (on the right) to install the plug-in and get the "
+#~ "extension working."
+#~ msgstr ""
+#~ "Beachte das Fenster (rechts am Rand) mit Tipps zur Installation des "
+#~ "Plugins und zur Inbetriebnahme der Erweiterung."
+
+#~ msgid "Share to Scratch website"
+#~ msgstr "Auf der Scratch-Webseite veröffentlichen"
+
+#~ msgid "Sign out"
+#~ msgstr "Abmelden"
+
+#~ msgid "stored on server"
+#~ msgstr "auf dem Server gespeichert"
+
+#~ msgid "The name is already in use."
+#~ msgstr "Dieser Name ist bereits vergeben."
+
+#~ msgid ""
+#~ "The project failed to load and Scratch Team has been notified. Press OK "
+#~ "to leave this page."
+#~ msgstr ""
+#~ "Das Projekt konnte nicht geladen werden. Das Scratch-Team wurde deswegen "
+#~ "benachrichtigt. Klicke auf OK, um diese Seite zu verlassen."
+
+#~ msgid "thing"
+#~ msgstr "Ding"
+
+#~ msgid "true"
+#~ msgstr "wahr"
+
+#~ msgid "What's your name?"
+#~ msgstr "Wie lautet dein Name?"
+
+#~ msgid "world"
+#~ msgstr "Welt"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Information zu den Cloud-Variablen</b><br>&nbsp;<br>Zur Zeit werden "
+#~ "nur Zahlen unterstützt<br>Chat-Rooms sind nicht erlaubt und werden "
+#~ "gelöscht!<br>Für weitere Infos, <a href= target=>siehe Cloud-Daten FAQ!</"
+#~ "a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Klicke  für einen neuen Versuch oder  zum Speichern"
+
+#~ msgid "Eraser width:"
+#~ msgstr "Radierbreite:"
+
+#~ msgid "Line width:"
+#~ msgstr "Linienbreite"
 
 #~ msgid "cleanup"
 #~ msgstr "Aufräumen"

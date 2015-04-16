@@ -15,8 +15,8 @@ msgstr ""
 "X-POOTLE-MTIME: 1406848104.000000\n"
 
 # The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Asturianu"
+#~ msgid "Language-Name"
+#~ msgstr "Asturianu"
 
 msgid "%b and %b"
 msgstr "%b y %b"
@@ -27,8 +27,8 @@ msgstr "%b o %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute de %m.spriteOrStage"
 
-msgid "%m.list contains %s"
-msgstr "%m.list contién %s"
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list contién %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp de %n"
@@ -467,8 +467,8 @@ msgstr "cuando reciba %m.broadcast"
 msgid "when I start as a clone"
 msgstr "cuando principie como clon"
 
-msgid "when Stage clicked"
-msgstr "cuando se faiga click nel escenariu"
+#~ msgid "when Stage clicked"
+#~ msgstr "cuando se faiga click nel escenariu"
 
 msgid "when this sprite clicked"
 msgstr "cuando se calque nesti personaxe"
@@ -482,28 +482,34 @@ msgstr "posición x"
 msgid "y position"
 msgstr "posición y"
 
-msgid "set motor direction %m.motorDirection"
-msgstr "poner direición del motor %m.motorDirection"
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "poner direición del motor %m.motorDirection"
 
-msgid "set motor power %n"
-msgstr "poner potencia del motor %n"
+#~ msgid "set motor power %n"
+#~ msgstr "poner potencia del motor %n"
 
-msgid "turn motor off"
-msgstr "apagar el motor"
+#~ msgid "turn motor off"
+#~ msgstr "apagar el motor"
 
-msgid "turn motor on"
-msgstr "prender el motor"
+#~ msgid "turn motor on"
+#~ msgstr "prender el motor"
 
-msgid "turn motor on for %n secs"
-msgstr "prender el motor %n segundos"
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "prender el motor %n segundos"
 
-msgid "when distance < %n"
-msgstr "cuando la distancia seya < %n"
+#~ msgid "when distance < %n"
+#~ msgstr "cuando la distancia seya < %n"
 
-msgid "when tilt = %n"
-msgstr "cuando la inclinación = %n"
+#~ msgid "when tilt = %n"
+#~ msgstr "cuando la inclinación = %n"
 
 # 86%
 #, fuzzy
 #~ msgid "set %m.motor direction to %m.motorDirection"
 #~ msgstr "poner direición del motor %m.motorDirection"
+
+#: commands-online.txt:7
+#: commands-offline.txt:7
+#, fuzzy
+msgid "%m.list contains %s?"
+msgstr "%m.list contién %s"

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-07-14 20:47+0000\n"
-"Last-Translator: Eugeni <eugenicat@gmail.com>\n"
+"PO-Revision-Date: 2015-04-15 13:49+0000\n"
+"Last-Translator: Natalie <nrusk@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
@@ -12,11 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1405370827.000000\n"
-
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Català"
+"X-POOTLE-MTIME: 1429105772.000000\n"
 
 msgid "%b and %b"
 msgstr "%b i %b"
@@ -26,9 +22,6 @@ msgstr "%b o %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute de %m.spriteOrStage"
-
-msgid "%m.list contains %s"
-msgstr "%m.list conté %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp de %n"
@@ -476,9 +469,6 @@ msgstr "quan rebi %m.broadcast"
 msgid "when I start as a clone"
 msgstr "quan una còpia meva comenci"
 
-msgid "when Stage clicked"
-msgstr "quan es cliqui l'escenari"
-
 msgid "when this sprite clicked"
 msgstr "quan es cliqui aquest personatge"
 
@@ -491,30 +481,9 @@ msgstr "posició x"
 msgid "y position"
 msgstr "posició y"
 
-# 89%
-# 100%
-msgid "set motor direction %m.motorDirection"
-msgstr "direcció del motor %m.motorDirection"
-
-# 77%
-# 100%
-msgid "set motor power %n"
-msgstr "potència del motor a %n"
-
-msgid "turn motor off"
-msgstr "desactiva el motor"
-
-msgid "turn motor on"
-msgstr "activa el motor"
-
-msgid "turn motor on for %n secs"
-msgstr "activa el motor %n segons"
-
-msgid "when distance < %n"
-msgstr "quan distància < %n"
-
-msgid "when tilt = %n"
-msgstr "quan inclinació = %n"
+#: commands-online.txt:7 commands-offline.txt:7
+msgid "%m.list contains %s?"
+msgstr "%m.list conté %s?"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -542,17 +511,8 @@ msgstr ""
 msgid "About"
 msgstr "Quant a"
 
-msgid "About LEGO WeDo extension..."
-msgstr "Sobre l'extensió de LEGO WeDo..."
-
-msgid "About PicoBoard extension..."
-msgstr "Sobre l'extensió PicoBoard..."
-
 msgid "abs"
 msgstr "abs"
-
-msgid "Account settings"
-msgstr "Configuració del compte"
 
 msgid "acos"
 msgstr "acos"
@@ -592,9 +552,6 @@ msgstr "Tot"
 
 msgid "all around"
 msgstr "al voltant"
-
-msgid "all motors"
-msgstr "tots els motors"
 
 msgid "Animal"
 msgstr "Animal"
@@ -779,9 +736,6 @@ msgstr "Tanca"
 msgid "Closed Hi-Hat"
 msgstr "Xarles tancat"
 
-msgid "Cloud"
-msgstr "Núvol"
-
 msgid "Cloud data"
 msgstr "Dades al núvol"
 
@@ -841,9 +795,6 @@ msgstr "Vestits"
 
 msgid "Costumes > 1"
 msgstr "Vestits > 1"
-
-msgid "Costumes:"
-msgstr "Vestits:"
 
 msgid "Could not retrieve new application from server."
 msgstr ""
@@ -959,17 +910,8 @@ msgstr "Ample de l'esborrador"
 msgid "Error!"
 msgstr "Error!"
 
-msgid "everything"
-msgstr "tot"
-
 msgid "export"
 msgstr "exporta"
-
-msgid "Extension Library"
-msgstr "Galeria d'Extensions"
-
-msgid "Extension Problem"
-msgstr "Problema amb l'Extensió"
 
 msgid "fade in"
 msgstr "augmenta"
@@ -1024,9 +966,6 @@ msgstr "Endavant una capa"
 
 msgid "ghost"
 msgstr "transparència"
-
-msgid "Go to My Stuff"
-msgstr "Vés a les Meves Coses"
 
 msgid "Group"
 msgstr "Agrupa"
@@ -1117,13 +1056,6 @@ msgstr "Biblioteca"
 msgid "light"
 msgstr "llum"
 
-# 83%
-msgid "lights"
-msgstr "llums"
-
-msgid "limit reached"
-msgstr "límit assolit"
-
 msgid "Line"
 msgstr "Línia"
 
@@ -1199,15 +1131,6 @@ msgstr "mosaic"
 msgid "motion"
 msgstr "moviment"
 
-msgid "motor"
-msgstr "motor"
-
-msgid "motor A"
-msgstr "motor A"
-
-msgid "motor B"
-msgstr "motor B"
-
 msgid "mouse-pointer"
 msgstr "punter del ratolí"
 
@@ -1222,9 +1145,6 @@ msgstr "Caixa xinesa"
 
 msgid "Music Loops"
 msgstr "Bucles Musicals"
-
-msgid "My Stuff"
-msgstr "Les Meves Coses"
 
 msgid "myself"
 msgstr "jo mateix"
@@ -1282,9 +1202,6 @@ msgstr "Sense blocs de moviment"
 
 msgid "normal readout"
 msgstr "pantalla normal"
-
-msgid "not ="
-msgstr "no ="
 
 msgid "Not saved; network or server problem."
 msgstr "No s'ha desat; problemes a la xarxa o al servidor."
@@ -1387,9 +1304,6 @@ msgstr "pop"
 msgid "previous backdrop"
 msgstr ""
 
-msgid "Profile"
-msgstr "Perfil"
-
 msgid "Project did not load."
 msgstr "El projecte no s'ha carregat."
 
@@ -1433,9 +1347,6 @@ msgstr "Reinventa"
 msgid "Remixing..."
 msgstr "Reinventant..."
 
-msgid "Remove extension blocks"
-msgstr "Treure els blocs d'extensió"
-
 msgid "Rename"
 msgstr "Canvia el nom"
 
@@ -1444,9 +1355,6 @@ msgstr "canvia el nom de la variable"
 
 msgid "Replace existing project"
 msgstr ""
-
-msgid "requires sign in"
-msgstr "requereix iniciar la sessió"
 
 msgid "Reshape"
 msgstr "Redibuixa"
@@ -1493,9 +1401,6 @@ msgstr ""
 msgid "Save as"
 msgstr ""
 
-msgid "Save as a copy"
-msgstr "Desa una còpia"
-
 msgid "Save now"
 msgstr "Desa ara"
 
@@ -1530,22 +1435,11 @@ msgstr "Programa"
 msgid "Scripts"
 msgstr "Programes"
 
-# 87%
-msgid "Scripts:"
-msgstr "Programes:"
-
 msgid "second"
 msgstr "segon"
 
 msgid "See project page"
 msgstr "Veure la pàgina del projecte"
-
-msgid ""
-"See the Tips window (on the right) to install the plug-in and get the "
-"extension working."
-msgstr ""
-"Mira la finestra d'ajuda (de la dreta) per instal·lar el connector i fer que "
-"l'extensió funcioni."
 
 msgid "Select"
 msgstr "Selecciona"
@@ -1604,9 +1498,6 @@ msgstr "Inicia la sessió"
 
 msgid "Sign in to save"
 msgstr "Inicia la sessió per poder desar"
-
-msgid "Sign out"
-msgstr "Tanca la sessió"
 
 msgid "silence"
 msgstr "silenci"
@@ -1680,9 +1571,6 @@ msgstr "Escenari seleccionat:"
 
 msgid "Steel Drum"
 msgstr "Tambor d'acer"
-
-msgid "stored on server"
-msgstr "desat al servidor"
 
 msgid "Synth Lead"
 msgstr "Sintetitzador solista"
@@ -1917,25 +1805,6 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Informació sobre les variables al núvol</b><br>&nbsp;<br>Actualment només "
-"s'accepten números<br>Els xats no estan permesos i s'eliminaran<br>Si voleu "
-"més informació, <a href= target=>vegeu les Preguntes Més Freqüents sobre les "
-"dades al núvol!</a>"
-
-msgid "Click  to try again or  to save"
-msgstr "Fes clic a  per tornar-ho a intentar o bé  per desar"
-
-msgid "Eraser width:"
-msgstr "Ample de l'esborrador:"
-
-msgid "Line width:"
-msgstr "Ample de línia:"
-
 # Offline editor only
 msgid "All Tips"
 msgstr ""
@@ -2038,6 +1907,41 @@ msgstr ""
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "Català"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list conté %s"
+
+#~ msgid "when Stage clicked"
+#~ msgstr "quan es cliqui l'escenari"
+
+# 89%
+# 100%
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "direcció del motor %m.motorDirection"
+
+# 77%
+# 100%
+#~ msgid "set motor power %n"
+#~ msgstr "potència del motor a %n"
+
+#~ msgid "turn motor off"
+#~ msgstr "desactiva el motor"
+
+#~ msgid "turn motor on"
+#~ msgstr "activa el motor"
+
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "activa el motor %n segons"
+
+#~ msgid "when distance < %n"
+#~ msgstr "quan distància < %n"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "quan inclinació = %n"
+
 # 89%
 # 100%
 # 86%
@@ -2093,6 +1997,106 @@ msgstr ""
 
 #~ msgid "when I am clicked"
 #~ msgstr "quan em cliquin"
+
+#~ msgid "About LEGO WeDo extension..."
+#~ msgstr "Sobre l'extensió de LEGO WeDo..."
+
+#~ msgid "About PicoBoard extension..."
+#~ msgstr "Sobre l'extensió PicoBoard..."
+
+#~ msgid "Account settings"
+#~ msgstr "Configuració del compte"
+
+#~ msgid "all motors"
+#~ msgstr "tots els motors"
+
+#~ msgid "Cloud"
+#~ msgstr "Núvol"
+
+#~ msgid "Costumes:"
+#~ msgstr "Vestits:"
+
+#~ msgid "everything"
+#~ msgstr "tot"
+
+#~ msgid "Extension Library"
+#~ msgstr "Galeria d'Extensions"
+
+#~ msgid "Extension Problem"
+#~ msgstr "Problema amb l'Extensió"
+
+#~ msgid "Go to My Stuff"
+#~ msgstr "Vés a les Meves Coses"
+
+# 83%
+#~ msgid "lights"
+#~ msgstr "llums"
+
+#~ msgid "limit reached"
+#~ msgstr "límit assolit"
+
+#~ msgid "motor"
+#~ msgstr "motor"
+
+#~ msgid "motor A"
+#~ msgstr "motor A"
+
+#~ msgid "motor B"
+#~ msgstr "motor B"
+
+#~ msgid "My Stuff"
+#~ msgstr "Les Meves Coses"
+
+#~ msgid "not ="
+#~ msgstr "no ="
+
+#~ msgid "Profile"
+#~ msgstr "Perfil"
+
+#~ msgid "Remove extension blocks"
+#~ msgstr "Treure els blocs d'extensió"
+
+#~ msgid "requires sign in"
+#~ msgstr "requereix iniciar la sessió"
+
+#~ msgid "Save as a copy"
+#~ msgstr "Desa una còpia"
+
+# 87%
+#~ msgid "Scripts:"
+#~ msgstr "Programes:"
+
+#~ msgid ""
+#~ "See the Tips window (on the right) to install the plug-in and get the "
+#~ "extension working."
+#~ msgstr ""
+#~ "Mira la finestra d'ajuda (de la dreta) per instal·lar el connector i fer "
+#~ "que l'extensió funcioni."
+
+#~ msgid "Sign out"
+#~ msgstr "Tanca la sessió"
+
+#~ msgid "stored on server"
+#~ msgstr "desat al servidor"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Informació sobre les variables al núvol</b><br>&nbsp;<br>Actualment "
+#~ "només s'accepten números<br>Els xats no estan permesos i "
+#~ "s'eliminaran<br>Si voleu més informació, <a href= target=>vegeu les "
+#~ "Preguntes Més Freqüents sobre les dades al núvol!</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Fes clic a  per tornar-ho a intentar o bé  per desar"
+
+#~ msgid "Eraser width:"
+#~ msgstr "Ample de l'esborrador:"
+
+#~ msgid "Line width:"
+#~ msgstr "Ample de línia:"
 
 #~ msgid "cleanup"
 #~ msgstr "neteja"

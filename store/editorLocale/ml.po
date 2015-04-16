@@ -14,10 +14,6 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1398237976.000000\n"
 
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "മലയാളം"
-
 msgid "%b and %b"
 msgstr "%b കൂടാതെ %b"
 
@@ -26,9 +22,6 @@ msgstr "%b അഥവാ %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.സ്പ്രയ്റ്റിനെ അഥവാ രംഗത്ത സംബന്ധിക്കുന്ന.%m"
-
-msgid "%m.list contains %s"
-msgstr "%m.listല്‍ %s ഉണ്ടോ"
 
 msgid "%m.mathOp of %n"
 msgstr "%m ന്റെ %n.mathOp"
@@ -481,26 +474,10 @@ msgstr "xസ്ഥാനം"
 msgid "y position"
 msgstr "yസ്ഥാനം"
 
-msgid "set motor direction %m.motorDirection"
-msgstr "മോട്ടോറിന്‍റെ ദിശ %m ആക്കുക"
-
-msgid "set motor power %n"
-msgstr "മോട്ടോറിന്‍റെ പവര്‍ %n ആക്കുക"
-
-msgid "turn motor off"
-msgstr "മോട്ടോര്‍ ഓഫ്‌ ആക്കുക"
-
-msgid "turn motor on"
-msgstr "മോട്ടോര്‍ ഓണ്‍ ആക്കുക"
-
-msgid "turn motor on for %n secs"
-msgstr "മോട്ടോര്‍ %n നിമിഷം ഓണാക്കുക"
-
-msgid "when distance < %n"
-msgstr "ദൂരം < %n ആവുമ്പോള്‍"
-
-msgid "when tilt = %n"
-msgstr "ചെരിവ് = %n ആവുമ്പോള്‍"
+#: commands-online.txt:7 commands-offline.txt:7
+#, fuzzy
+msgid "%m.list contains %s?"
+msgstr "%m.listല്‍ %s ഉണ്ടോ"
 
 msgid "10 ^"
 msgstr "10 ^മലയാളം"
@@ -527,17 +504,11 @@ msgstr ""
 msgid "About"
 msgstr "കുറിച്ച്‌"
 
-msgid "About LEGO WeDo extension..."
-msgstr "LEGOയുടെ വിപുലീകരണത്തെ കുറിച്ച്..."
-
 msgid "About PicoBoard extension..."
 msgstr ""
 
 msgid "abs"
 msgstr "കേവല വില"
-
-msgid "Account settings"
-msgstr "അക്കൗണ്ട്‌ സംവിധാനം"
 
 msgid "acos"
 msgstr "ആകസ്"
@@ -574,9 +545,6 @@ msgstr "എല്ലാം"
 
 msgid "all around"
 msgstr "എല്ലായിടത്തും"
-
-msgid "all motors"
-msgstr "എല്ലാ മോട്ടോറുകളും"
 
 msgid "Animal"
 msgstr "മൃഗം"
@@ -755,9 +723,6 @@ msgstr "അടയ്ക്കുക"
 msgid "Closed Hi-Hat"
 msgstr ""
 
-msgid "Cloud"
-msgstr "ക്ലൌഡ്"
-
 msgid "Cloud data"
 msgstr "ക്ലൌഡ് ഡേറ്റ"
 
@@ -814,9 +779,6 @@ msgstr "രൂപങ്ങള്‍"
 
 msgid "Costumes > 1"
 msgstr "രൂപങ്ങള്‍ > 1"
-
-msgid "Costumes:"
-msgstr "രൂപങ്ങള്‍:"
 
 msgid "Could not retrieve new application from server."
 msgstr ""
@@ -935,9 +897,6 @@ msgstr ""
 
 msgid "export"
 msgstr "കയറ്റുമതി"
-
-msgid "Extension Library"
-msgstr "വിപുലീകരിച്ച ലൈബ്രറി"
 
 msgid "Extension Problem"
 msgstr ""
@@ -1093,9 +1052,6 @@ msgstr "പ്രകാശം"
 msgid "lights"
 msgstr "പ്രകാശം"
 
-msgid "limit reached"
-msgstr "പരിധി എത്തിച്ചേര്‍ന്നു"
-
 msgid "Line"
 msgstr "വര"
 
@@ -1170,15 +1126,6 @@ msgstr "ചിത്രവേല ചെയ്യുക"
 msgid "motion"
 msgstr "ചലനം"
 
-msgid "motor"
-msgstr "മോട്ടോര്‍"
-
-msgid "motor A"
-msgstr "മോട്ടോര്‍ A"
-
-msgid "motor B"
-msgstr "മോട്ടോര്‍ "
-
 msgid "mouse-pointer"
 msgstr "മൗസ്- പോയിന്റെര്‍"
 
@@ -1193,9 +1140,6 @@ msgstr "പാട്ടുപെട്ടി"
 
 msgid "Music Loops"
 msgstr ""
-
-msgid "My Stuff"
-msgstr "എന്‍റെ സാമഗ്രികള്‍"
 
 msgid "myself"
 msgstr "എന്നെത്തന്നെ"
@@ -1354,9 +1298,6 @@ msgstr "എടുക്കുക"
 msgid "previous backdrop"
 msgstr ""
 
-msgid "Profile"
-msgstr "രൂപരേഖ"
-
 msgid "Project did not load."
 msgstr "പ്രൊജെക്റ്റ് കൊണ്ടുവരാന്‍ സാധിച്ചില്ല."
 
@@ -1412,9 +1353,6 @@ msgstr "ചരത്തിനു പുതിയ പേര് കൊടുക്
 msgid "Replace existing project"
 msgstr ""
 
-msgid "requires sign in"
-msgstr "അകത്തു പ്രവേശിക്കണം"
-
 msgid "Reshape"
 msgstr "വീണ്ടും രൂപപ്പെടുത്തുക"
 
@@ -1460,9 +1398,6 @@ msgstr ""
 msgid "Save as"
 msgstr ""
 
-msgid "Save as a copy"
-msgstr "പകര്‍പ്പായി സേവ് ചെയ്യുക"
-
 msgid "Save now"
 msgstr "ഇപ്പോള്‍ സേവ് ചെയ്യുക"
 
@@ -1495,9 +1430,6 @@ msgstr "പ്രോഗ്രാം"
 
 msgid "Scripts"
 msgstr "പ്രോഗ്രാമുകള്‍"
-
-msgid "Scripts:"
-msgstr "പ്രോഗ്രാമുകള്‍:"
 
 msgid "second"
 msgstr "സെക്കന്റ്‌"
@@ -1566,9 +1498,6 @@ msgstr "അകത്തേക്ക് പ്രവേശിക്കുക"
 
 msgid "Sign in to save"
 msgstr "സേവ് ചെയ്യാന്‍ അകത്തേക്കു പ്രവേശിക്കുക"
-
-msgid "Sign out"
-msgstr "പുറത്തേക്ക്‌ കടക്കുക"
 
 msgid "silence"
 msgstr "നിശ്ശബ്ദത"
@@ -1641,9 +1570,6 @@ msgstr "തിരഞ്ഞെടുക്കപ്പെട്ട വേദി:"
 
 msgid "Steel Drum"
 msgstr "സ്റ്റീല്‍ ഡ്രം"
-
-msgid "stored on server"
-msgstr "സേവകരില്‍ സുക്ഷിക്കുക"
 
 msgid "Synth Lead"
 msgstr ""
@@ -1873,24 +1799,6 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>ക്ലൌഡിലെ ചരങ്ങളെ കുറിച്ചുള്ള വിവരങ്ങള്‍</b><br>&nbsp;<br>നിലവില്‍ സംഖ്യകളെ മാത്രമെ "
-"പിന്തുണയ്ക്കുകയുള്ളു<br>ചാറ്റ് റൂം സംവിധാനം അനുവദിനീയമല്ല അത് ഒഴിവാക്കും<br>കൂടുതല്‍ വിവരങ്ങള്‍ക്കായ്‌ "
-"<a href= target=>ക്ലൌഡിലെ വിവരങ്ങള്‍ നോക്കുക FAQ!</a>"
-
-msgid "Click  to try again or  to save"
-msgstr "ഒന്നുകൂടി ചെയ്യാനോ അല്ലെങ്കില്‍ സേവ് ചെയ്യാനോ ക്ലിക്ക് ചെയ്യുക"
-
-msgid "Eraser width:"
-msgstr "റബ്ബറിന്‍റെ വീതി:"
-
-msgid "Line width:"
-msgstr "വരയുടെ വീതി:"
-
 # Offline editor only
 msgid "All Tips"
 msgstr ""
@@ -1993,6 +1901,34 @@ msgstr ""
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "മലയാളം"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.listല്‍ %s ഉണ്ടോ"
+
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "മോട്ടോറിന്‍റെ ദിശ %m ആക്കുക"
+
+#~ msgid "set motor power %n"
+#~ msgstr "മോട്ടോറിന്‍റെ പവര്‍ %n ആക്കുക"
+
+#~ msgid "turn motor off"
+#~ msgstr "മോട്ടോര്‍ ഓഫ്‌ ആക്കുക"
+
+#~ msgid "turn motor on"
+#~ msgstr "മോട്ടോര്‍ ഓണ്‍ ആക്കുക"
+
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "മോട്ടോര്‍ %n നിമിഷം ഓണാക്കുക"
+
+#~ msgid "when distance < %n"
+#~ msgstr "ദൂരം < %n ആവുമ്പോള്‍"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "ചെരിവ് = %n ആവുമ്പോള്‍"
+
 # 86%
 #~ msgid "set %m.motor direction to %m.motorDirection"
 #~ msgstr "മോട്ടോറിന്‍റെ ദിശ %m ഇല്‍ നിന്നും %m ആക്കി മാറ്റുക"
@@ -2002,6 +1938,75 @@ msgstr ""
 
 #~ msgid "if %b"
 #~ msgstr "%b ആണെങ്കില്‍"
+
+#~ msgid "About LEGO WeDo extension..."
+#~ msgstr "LEGOയുടെ വിപുലീകരണത്തെ കുറിച്ച്..."
+
+#~ msgid "Account settings"
+#~ msgstr "അക്കൗണ്ട്‌ സംവിധാനം"
+
+#~ msgid "all motors"
+#~ msgstr "എല്ലാ മോട്ടോറുകളും"
+
+#~ msgid "Cloud"
+#~ msgstr "ക്ലൌഡ്"
+
+#~ msgid "Costumes:"
+#~ msgstr "രൂപങ്ങള്‍:"
+
+#~ msgid "Extension Library"
+#~ msgstr "വിപുലീകരിച്ച ലൈബ്രറി"
+
+#~ msgid "limit reached"
+#~ msgstr "പരിധി എത്തിച്ചേര്‍ന്നു"
+
+#~ msgid "motor"
+#~ msgstr "മോട്ടോര്‍"
+
+#~ msgid "motor A"
+#~ msgstr "മോട്ടോര്‍ A"
+
+#~ msgid "motor B"
+#~ msgstr "മോട്ടോര്‍ "
+
+#~ msgid "My Stuff"
+#~ msgstr "എന്‍റെ സാമഗ്രികള്‍"
+
+#~ msgid "Profile"
+#~ msgstr "രൂപരേഖ"
+
+#~ msgid "requires sign in"
+#~ msgstr "അകത്തു പ്രവേശിക്കണം"
+
+#~ msgid "Save as a copy"
+#~ msgstr "പകര്‍പ്പായി സേവ് ചെയ്യുക"
+
+#~ msgid "Scripts:"
+#~ msgstr "പ്രോഗ്രാമുകള്‍:"
+
+#~ msgid "Sign out"
+#~ msgstr "പുറത്തേക്ക്‌ കടക്കുക"
+
+#~ msgid "stored on server"
+#~ msgstr "സേവകരില്‍ സുക്ഷിക്കുക"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>ക്ലൌഡിലെ ചരങ്ങളെ കുറിച്ചുള്ള വിവരങ്ങള്‍</b><br>&nbsp;<br>നിലവില്‍ സംഖ്യകളെ മാത്രമെ "
+#~ "പിന്തുണയ്ക്കുകയുള്ളു<br>ചാറ്റ് റൂം സംവിധാനം അനുവദിനീയമല്ല അത് ഒഴിവാക്കും<br>കൂടുതല്‍ "
+#~ "വിവരങ്ങള്‍ക്കായ്‌ <a href= target=>ക്ലൌഡിലെ വിവരങ്ങള്‍ നോക്കുക FAQ!</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "ഒന്നുകൂടി ചെയ്യാനോ അല്ലെങ്കില്‍ സേവ് ചെയ്യാനോ ക്ലിക്ക് ചെയ്യുക"
+
+#~ msgid "Eraser width:"
+#~ msgstr "റബ്ബറിന്‍റെ വീതി:"
+
+#~ msgid "Line width:"
+#~ msgstr "വരയുടെ വീതി:"
 
 #~ msgid "cleanup"
 #~ msgstr "വൃത്തിയാക്കുക"

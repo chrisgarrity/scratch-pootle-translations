@@ -15,8 +15,8 @@ msgstr ""
 "X-POOTLE-MTIME: 1414589851.000000\n"
 
 # The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Magyar"
+#~ msgid "Language-Name"
+#~ msgstr "Magyar"
 
 msgid "%b and %b"
 msgstr "%b és %b"
@@ -27,8 +27,8 @@ msgstr "%b vagy %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.spriteOrStage %m.attribute értéke"
 
-msgid "%m.list contains %s"
-msgstr "%m.list tartalmazza: %s"
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list tartalmazza: %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp%n"
@@ -475,8 +475,8 @@ msgstr "%m.broadcast üzenet érkezésekor"
 msgid "when I start as a clone"
 msgstr "másolatként kezdéskor"
 
-msgid "when Stage clicked"
-msgstr "játéktérre kattintáskor"
+#~ msgid "when Stage clicked"
+#~ msgstr "játéktérre kattintáskor"
 
 msgid "when this sprite clicked"
 msgstr "e szereplőre kattintáskor"
@@ -491,28 +491,28 @@ msgid "y position"
 msgstr "y hely"
 
 # 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "set motor direction %m.motorDirection"
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "set motor direction %m.motorDirection"
 
 # 77%
-msgid "set motor power %n"
-msgstr "set motor power %n"
+#~ msgid "set motor power %n"
+#~ msgstr "set motor power %n"
 
-msgid "turn motor off"
-msgstr "turn motor off"
+#~ msgid "turn motor off"
+#~ msgstr "turn motor off"
 
-msgid "turn motor on"
-msgstr "turn motor on"
+#~ msgid "turn motor on"
+#~ msgstr "turn motor on"
 
 # 80%
-msgid "turn motor on for %n secs"
-msgstr "turn motor on for %n secs"
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "turn motor on for %n secs"
 
-msgid "when distance < %n"
-msgstr "when distance < %n"
+#~ msgid "when distance < %n"
+#~ msgstr "when distance < %n"
 
-msgid "when tilt = %n"
-msgstr "when tilt = %n"
+#~ msgid "when tilt = %n"
+#~ msgstr "when tilt = %n"
 
 # 89%
 # 86%
@@ -543,3 +543,9 @@ msgstr "when tilt = %n"
 
 #~ msgid "play note %n for %n beats"
 #~ msgstr "szóljon %d.note%n ütemig"
+
+#: commands-online.txt:7
+#: commands-offline.txt:7
+#, fuzzy
+msgid "%m.list contains %s?"
+msgstr "%m.list tartalmazza: %s"

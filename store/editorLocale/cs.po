@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-02-15 10:54+0000\n"
-"Last-Translator: Jiří <vanicek@pf.jcu.cz>\n"
+"PO-Revision-Date: 2015-04-15 13:56+0000\n"
+"Last-Translator: Natalie <nrusk@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -12,12 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1423997682.000000\n"
-
-# The language name as it will appear in the language menu
-# The language name as it will appear in the language menu. "Č" v 1.4 je na konci abecedy!
-msgid "Language-Name"
-msgstr "Česky"
+"X-POOTLE-MTIME: 1429106191.000000\n"
 
 msgid "%b and %b"
 msgstr "%b a %b"
@@ -27,9 +22,6 @@ msgstr "%b nebo %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute z %m.spriteOrStage"
-
-msgid "%m.list contains %s"
-msgstr "%m.list obsahuje %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp z %n"
@@ -482,9 +474,6 @@ msgstr "po obdržení zprávy %m.broadcast"
 msgid "when I start as a clone"
 msgstr "když startuji jako klon"
 
-msgid "when Stage clicked"
-msgstr "po kliknutí na Scénu"
-
 msgid "when this sprite clicked"
 msgstr "po kliknutí na mě"
 
@@ -497,32 +486,9 @@ msgstr "pozice x"
 msgid "y position"
 msgstr "pozice y"
 
-# 89%
-# 100%
-msgid "set motor direction %m.motorDirection"
-msgstr "nastav směr motoru %m.motorDirection"
-
-# 77%
-# 100%
-msgid "set motor power %n"
-msgstr "nastav sílu motoru %n"
-
-msgid "turn motor off"
-msgstr "vypni motor"
-
-msgid "turn motor on"
-msgstr "zapni motor"
-
-# 80%
-# 100%
-msgid "turn motor on for %n secs"
-msgstr "zapni motor na %n s"
-
-msgid "when distance < %n"
-msgstr "když vzdálenost < %n"
-
-msgid "when tilt = %n"
-msgstr "když sklon = %n"
+#: commands-online.txt:7 commands-offline.txt:7
+msgid "%m.list contains %s?"
+msgstr "%m.list obsahuje %s?"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -549,17 +515,8 @@ msgstr "Je dostupná novější verze Scratch"
 msgid "About"
 msgstr "O aplikaci"
 
-msgid "About LEGO WeDo extension..."
-msgstr "O rozšíření LEGO WeDo"
-
-msgid "About PicoBoard extension..."
-msgstr "O rozšíření PicoBoard"
-
 msgid "abs"
 msgstr "abs"
-
-msgid "Account settings"
-msgstr "Nastavení účtu"
 
 msgid "acos"
 msgstr "arccos"
@@ -576,9 +533,6 @@ msgstr "Přidat logický parametr:"
 
 msgid "add comment"
 msgstr "přidat komentář"
-
-msgid "add comment here..."
-msgstr "přidej komentář ..."
 
 msgid "Add label text:"
 msgstr "Přidat nápis:"
@@ -599,9 +553,6 @@ msgstr "Všechno"
 
 msgid "all around"
 msgstr "dokola"
-
-msgid "all motors"
-msgstr "všechny motory"
 
 msgid "Animal"
 msgstr "Zvíře"
@@ -716,9 +667,6 @@ msgstr "smí být přesouváno hráčem:"
 msgid "Cancel"
 msgstr "Storno"
 
-msgid "Cannot Add"
-msgstr "Nelze přidat"
-
 msgid "Cannot Delete"
 msgstr "Nelze smazat"
 
@@ -786,14 +734,8 @@ msgstr "Zavřít"
 msgid "Closed Hi-Hat"
 msgstr "Zavřená Hi-hat"
 
-msgid "Cloud"
-msgstr "Cloud"
-
 msgid "Cloud data"
 msgstr "Cloud data"
-
-msgid "Cloud variable (stored on server)"
-msgstr "cloudová proměnná (uložená na serveru)"
 
 msgid "color"
 msgstr "barva"
@@ -848,9 +790,6 @@ msgstr "Kostýmy"
 
 msgid "Costumes > 1"
 msgstr "Kostýmů > 1"
-
-msgid "Costumes:"
-msgstr "Kostýmy:"
 
 msgid "Could not retrieve new application from server."
 msgstr "Nelze získat novou aplikaci ze serveru"
@@ -911,9 +850,6 @@ msgstr "Stáhnout"
 msgid "Download to your computer"
 msgstr "Stáhnout do tvého počítače"
 
-msgid "Downloading new version"
-msgstr "Stahuji novou verzi"
-
 msgid "duplicate"
 msgstr "kopírovat"
 
@@ -950,14 +886,8 @@ msgstr "Elektronika"
 msgid "Ellipse"
 msgstr "Elipsa"
 
-msgid "empty"
-msgstr "prázdný"
-
 msgid "Erase"
 msgstr "Smazání"
-
-msgid "Erase all"
-msgstr "Smaž všechno"
 
 # 92%
 msgid "Eraser width"
@@ -966,26 +896,14 @@ msgstr "Šířka gumy"
 msgid "Error!"
 msgstr "Chyba!"
 
-msgid "everything"
-msgstr "všechno"
-
 msgid "export"
 msgstr "export"
-
-msgid "Extension Library"
-msgstr "Knihovna rozšíření"
-
-msgid "Extension Problem"
-msgstr "Problém u rozšíření"
 
 msgid "fade in"
 msgstr "rozednívat"
 
 msgid "fade out"
 msgstr "stmívat"
-
-msgid "false"
-msgstr "nepravdivý"
 
 msgid "Fantasy"
 msgstr "Fantazie"
@@ -1032,9 +950,6 @@ msgstr "Navrch o vrstvu"
 msgid "ghost"
 msgstr "průhlednost"
 
-msgid "Go to My Stuff"
-msgstr "Přejít na moje věci"
-
 msgid "Group"
 msgstr "Skupina"
 
@@ -1055,15 +970,6 @@ msgstr "Hardware"
 
 msgid "help"
 msgstr "nápověda"
-
-msgid "Hello!"
-msgstr "Ahoj"
-
-msgid "Hmm..."
-msgstr "Hmm ..."
-
-msgid "hello"
-msgstr "ahoj"
 
 msgid "High C"
 msgstr "Vysoké C"
@@ -1122,13 +1028,6 @@ msgstr "Knihovna"
 
 msgid "light"
 msgstr "světlo"
-
-# 83%
-msgid "lights"
-msgstr "světla"
-
-msgid "limit reached"
-msgstr "dosáhlo limitu"
 
 msgid "Line"
 msgstr "Úsečka"
@@ -1204,15 +1103,6 @@ msgstr "mozaika"
 msgid "motion"
 msgstr "pohyb"
 
-msgid "motor"
-msgstr "motor"
-
-msgid "motor A"
-msgstr "motor A"
-
-msgid "motor B"
-msgstr "motor B"
-
 msgid "mouse-pointer"
 msgstr "ukazatel myši"
 
@@ -1227,9 +1117,6 @@ msgstr "Hrací skříňka"
 
 msgid "Music Loops"
 msgstr "Hudební smyčky"
-
-msgid "My Stuff"
-msgstr "Moje věci"
 
 # parametr prikazu clone
 msgid "myself"
@@ -1288,9 +1175,6 @@ msgstr "Žádné bloky pohybu"
 
 msgid "normal readout"
 msgstr "normální zobrazení"
-
-msgid "not ="
-msgstr "nerovná se"
 
 msgid "Not saved; network or server problem."
 msgstr "Neuloženo; problém se sítí nebo serverem."
@@ -1393,9 +1277,6 @@ msgstr "pop"
 msgid "previous backdrop"
 msgstr "předchozí pozadí"
 
-msgid "Profile"
-msgstr "Profil"
-
 msgid "Project did not load."
 msgstr "Projekt nebyl stažen."
 
@@ -1439,20 +1320,11 @@ msgstr "Odvozené"
 msgid "Remixing..."
 msgstr "Odvozuji..."
 
-msgid "Remove extension blocks"
-msgstr "Odstraň bloky rozšíření"
-
 msgid "Rename"
 msgstr "Přejmenovat"
 
 msgid "rename variable"
 msgstr "přejmenovat proměnnou"
-
-msgid "Replace existing project"
-msgstr "Nahraď existující projekt"
-
-msgid "requires sign in"
-msgstr "vyžaduje přihlášení"
 
 msgid "Reshape"
 msgstr "Změna tvaru"
@@ -1499,9 +1371,6 @@ msgstr "Ulož kopii tohoto projektu a přidej své vlastní nápady."
 msgid "Save as"
 msgstr "Ulož jako"
 
-msgid "Save as a copy"
-msgstr "Uložit jako kopii"
-
 # J.Vaníček
 msgid "Save now"
 msgstr "Uložit aktuální stav"
@@ -1527,9 +1396,6 @@ msgstr "Saxofon"
 msgid "Scratch Updater"
 msgstr "Aktualizační nástroj Scratch"
 
-msgid "Scratch 2.0 Offline Editor"
-msgstr "Scratch 2.0 offline editor"
-
 # 85%
 msgid "Script"
 msgstr "Scénář"
@@ -1537,23 +1403,12 @@ msgstr "Scénář"
 msgid "Scripts"
 msgstr "Scénáře"
 
-# 87%
-msgid "Scripts:"
-msgstr "Scénáře:"
-
 msgid "second"
 msgstr "sekunda"
 
 # J.Vaníček
 msgid "See project page"
 msgstr "Pohlédni na stránku projektu"
-
-msgid ""
-"See the Tips window (on the right) to install the plug-in and get the "
-"extension working."
-msgstr ""
-"Prohlédni okno Tipy (vpravo) k nainstalování plug-inu a rozšiř si možnosti "
-"práce."
 
 msgid "Select"
 msgstr "Výběr"
@@ -1583,9 +1438,6 @@ msgstr "Sdílej"
 msgid "Share to website"
 msgstr "Sdílej na webu"
 
-msgid "Share to Scratch website"
-msgstr "Sdílej na webu Scratch"
-
 msgid "shared"
 msgstr "sdílené"
 
@@ -1612,9 +1464,6 @@ msgstr "Přihlásit se"
 
 msgid "Sign in to save"
 msgstr "Přihlásit se pro uložení"
-
-msgid "Sign out"
-msgstr "Odhlásit se"
 
 msgid "silence"
 msgstr "ticho"
@@ -1689,9 +1538,6 @@ msgstr "Vybraná scéna:"
 msgid "Steel Drum"
 msgstr "Kovový kotel"
 
-msgid "stored on server"
-msgstr "uloženo na serveru"
-
 msgid "Synth Lead"
 msgstr "Syntezátor sólo"
 
@@ -1713,24 +1559,11 @@ msgstr "Text"
 msgid "that way"
 msgstr "jinak"
 
-msgid "The name is already in use."
-msgstr "Tento název se již používá."
-
-msgid ""
-"The project failed to load and Scratch Team has been notified. Press OK to "
-"leave this page."
-msgstr ""
-"Projekt se nepodařilo načíst a tým Scratch o tom byl informován. Stiskni OK, "
-"abys opustil tuto stránku."
-
 msgid "Theme"
 msgstr "Téma"
 
 msgid "Things"
 msgstr "Věci"
-
-msgid "thing"
-msgstr "prvek"
 
 msgid "This is the current version."
 msgstr "Toto je aktuální verze."
@@ -1775,9 +1608,6 @@ msgstr "Triangl"
 
 msgid "Trombone"
 msgstr "Trombón"
-
-msgid "true"
-msgstr "pravdivý"
 
 # 90%
 msgid "Turbo mode"
@@ -1890,9 +1720,6 @@ msgstr "Chceš uložit? Klikni na odvození"
 msgid "Which column do you want to import"
 msgstr "Který sloupec chceš importovat"
 
-msgid "What's your name?"
-msgstr "Jak se jmenuješ?"
-
 msgid "whirl"
 msgstr "víření"
 
@@ -1901,9 +1728,6 @@ msgstr "Dřevěný blok"
 
 msgid "Wooden Flute"
 msgstr "Zobcová flétna"
-
-msgid "world"
-msgstr "světe"
 
 msgid "year"
 msgstr "rok"
@@ -1920,24 +1744,6 @@ msgstr "Tvoje Scratch jméno"
 
 msgid "Your Scratch name is required"
 msgstr "Je vyžadováno Tvé Scratch jméno"
-
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Informace o cloudových proměnných</b><br>&nbsp;<br>Prozatím jsou "
-"podorována pouze čísla<br>Chat místnosti nejsou povoleny a budou "
-"smazány<br>Pro více informací <a href= target=>viz cloud data FAQ!</a>"
-
-msgid "Click  to try again or  to save"
-msgstr "Klikni  pro další pokus nebo  pro uložení"
-
-msgid "Eraser width:"
-msgstr "Šířka gumy:"
-
-msgid "Line width:"
-msgstr "Šířka úsečky: "
 
 # Offline editor only
 msgid "All Tips"
@@ -2047,6 +1853,44 @@ msgstr ""
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
+# The language name as it will appear in the language menu
+# The language name as it will appear in the language menu. "Č" v 1.4 je na konci abecedy!
+#~ msgid "Language-Name"
+#~ msgstr "Česky"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list obsahuje %s"
+
+#~ msgid "when Stage clicked"
+#~ msgstr "po kliknutí na Scénu"
+
+# 89%
+# 100%
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "nastav směr motoru %m.motorDirection"
+
+# 77%
+# 100%
+#~ msgid "set motor power %n"
+#~ msgstr "nastav sílu motoru %n"
+
+#~ msgid "turn motor off"
+#~ msgstr "vypni motor"
+
+#~ msgid "turn motor on"
+#~ msgstr "zapni motor"
+
+# 80%
+# 100%
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "zapni motor na %n s"
+
+#~ msgid "when distance < %n"
+#~ msgstr "když vzdálenost < %n"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "když sklon = %n"
+
 # 89%
 # 100%
 # 86%
@@ -2101,6 +1945,166 @@ msgstr ""
 
 #~ msgid "when I am clicked"
 #~ msgstr "po kliknutí na mě"
+
+#~ msgid "About LEGO WeDo extension..."
+#~ msgstr "O rozšíření LEGO WeDo"
+
+#~ msgid "About PicoBoard extension..."
+#~ msgstr "O rozšíření PicoBoard"
+
+#~ msgid "Account settings"
+#~ msgstr "Nastavení účtu"
+
+#~ msgid "add comment here..."
+#~ msgstr "přidej komentář ..."
+
+#~ msgid "all motors"
+#~ msgstr "všechny motory"
+
+#~ msgid "Cannot Add"
+#~ msgstr "Nelze přidat"
+
+#~ msgid "Cloud"
+#~ msgstr "Cloud"
+
+#~ msgid "Cloud variable (stored on server)"
+#~ msgstr "cloudová proměnná (uložená na serveru)"
+
+#~ msgid "Costumes:"
+#~ msgstr "Kostýmy:"
+
+#~ msgid "Downloading new version"
+#~ msgstr "Stahuji novou verzi"
+
+#~ msgid "empty"
+#~ msgstr "prázdný"
+
+#~ msgid "Erase all"
+#~ msgstr "Smaž všechno"
+
+#~ msgid "everything"
+#~ msgstr "všechno"
+
+#~ msgid "Extension Library"
+#~ msgstr "Knihovna rozšíření"
+
+#~ msgid "Extension Problem"
+#~ msgstr "Problém u rozšíření"
+
+#~ msgid "false"
+#~ msgstr "nepravdivý"
+
+#~ msgid "Go to My Stuff"
+#~ msgstr "Přejít na moje věci"
+
+#~ msgid "Hello!"
+#~ msgstr "Ahoj"
+
+#~ msgid "Hmm..."
+#~ msgstr "Hmm ..."
+
+#~ msgid "hello"
+#~ msgstr "ahoj"
+
+# 83%
+#~ msgid "lights"
+#~ msgstr "světla"
+
+#~ msgid "limit reached"
+#~ msgstr "dosáhlo limitu"
+
+#~ msgid "motor"
+#~ msgstr "motor"
+
+#~ msgid "motor A"
+#~ msgstr "motor A"
+
+#~ msgid "motor B"
+#~ msgstr "motor B"
+
+#~ msgid "My Stuff"
+#~ msgstr "Moje věci"
+
+#~ msgid "not ="
+#~ msgstr "nerovná se"
+
+#~ msgid "Profile"
+#~ msgstr "Profil"
+
+#~ msgid "Remove extension blocks"
+#~ msgstr "Odstraň bloky rozšíření"
+
+#~ msgid "Replace existing project"
+#~ msgstr "Nahraď existující projekt"
+
+#~ msgid "requires sign in"
+#~ msgstr "vyžaduje přihlášení"
+
+#~ msgid "Save as a copy"
+#~ msgstr "Uložit jako kopii"
+
+#~ msgid "Scratch 2.0 Offline Editor"
+#~ msgstr "Scratch 2.0 offline editor"
+
+# 87%
+#~ msgid "Scripts:"
+#~ msgstr "Scénáře:"
+
+#~ msgid ""
+#~ "See the Tips window (on the right) to install the plug-in and get the "
+#~ "extension working."
+#~ msgstr ""
+#~ "Prohlédni okno Tipy (vpravo) k nainstalování plug-inu a rozšiř si "
+#~ "možnosti práce."
+
+#~ msgid "Share to Scratch website"
+#~ msgstr "Sdílej na webu Scratch"
+
+#~ msgid "Sign out"
+#~ msgstr "Odhlásit se"
+
+#~ msgid "stored on server"
+#~ msgstr "uloženo na serveru"
+
+#~ msgid "The name is already in use."
+#~ msgstr "Tento název se již používá."
+
+#~ msgid ""
+#~ "The project failed to load and Scratch Team has been notified. Press OK "
+#~ "to leave this page."
+#~ msgstr ""
+#~ "Projekt se nepodařilo načíst a tým Scratch o tom byl informován. Stiskni "
+#~ "OK, abys opustil tuto stránku."
+
+#~ msgid "thing"
+#~ msgstr "prvek"
+
+#~ msgid "true"
+#~ msgstr "pravdivý"
+
+#~ msgid "What's your name?"
+#~ msgstr "Jak se jmenuješ?"
+
+#~ msgid "world"
+#~ msgstr "světe"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Informace o cloudových proměnných</b><br>&nbsp;<br>Prozatím jsou "
+#~ "podorována pouze čísla<br>Chat místnosti nejsou povoleny a budou "
+#~ "smazány<br>Pro více informací <a href= target=>viz cloud data FAQ!</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Klikni  pro další pokus nebo  pro uložení"
+
+#~ msgid "Eraser width:"
+#~ msgstr "Šířka gumy:"
+
+#~ msgid "Line width:"
+#~ msgstr "Šířka úsečky: "
 
 #~ msgid "cleanup"
 #~ msgstr "úklid"

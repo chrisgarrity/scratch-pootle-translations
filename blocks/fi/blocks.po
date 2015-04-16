@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-01-15 15:21+0000\n"
-"Last-Translator: Juha <juha.harviainen@gmail.com>\n"
+"PO-Revision-Date: 2015-04-15 15:05+0000\n"
+"Last-Translator: Natalie <nrusk@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
@@ -12,11 +12,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1421335302.000000\n"
+"X-POOTLE-MTIME: 1429110313.000000\n"
 
 # The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Suomi"
+#~ msgid "Language-Name"
+#~ msgstr "Suomi"
 
 msgid "%b and %b"
 msgstr "%b ja %b"
@@ -27,8 +27,8 @@ msgstr "%b tai %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "kohteen %m.spriteOrStage %m.attribute"
 
-msgid "%m.list contains %s"
-msgstr "%m.list sisältää %s"
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list sisältää %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp arvosta %n"
@@ -472,8 +472,8 @@ msgstr "kun vastaanotan %m.broadcast"
 msgid "when I start as a clone"
 msgstr "kun aloitan kloonina"
 
-msgid "when Stage clicked"
-msgstr "kun taustaa klikataan"
+#~ msgid "when Stage clicked"
+#~ msgstr "kun taustaa klikataan"
 
 msgid "when this sprite clicked"
 msgstr "kun tätä hahmoa klikataan"
@@ -488,28 +488,28 @@ msgid "y position"
 msgstr "y-sijainti"
 
 # 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "moottorinsuunta %m.motorDirection"
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "moottorinsuunta %m.motorDirection"
 
 # 77%
-msgid "set motor power %n"
-msgstr "moottorin voima %n"
+#~ msgid "set motor power %n"
+#~ msgstr "moottorin voima %n"
 
-msgid "turn motor off"
-msgstr "moottori pois päältä"
+#~ msgid "turn motor off"
+#~ msgstr "moottori pois päältä"
 
-msgid "turn motor on"
-msgstr "moottori päälle"
+#~ msgid "turn motor on"
+#~ msgstr "moottori päälle"
 
 # 80%
-msgid "turn motor on for %n secs"
-msgstr "moottori päälle %n sekunniksi"
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "moottori päälle %n sekunniksi"
 
-msgid "when distance < %n"
-msgstr "kun etäisyys < %n"
+#~ msgid "when distance < %n"
+#~ msgstr "kun etäisyys < %n"
 
-msgid "when tilt = %n"
-msgstr "kun kallistuminen = %n"
+#~ msgid "when tilt = %n"
+#~ msgstr "kun kallistuminen = %n"
 
 # 89%
 # 86%
@@ -560,3 +560,8 @@ msgstr "kun kallistuminen = %n"
 
 #~ msgid "when I am clicked"
 #~ msgstr "kun minua klikataan"
+
+#: commands-online.txt:7
+#: commands-offline.txt:7
+msgid "%m.list contains %s?"
+msgstr "%m.list sisältää %s?"

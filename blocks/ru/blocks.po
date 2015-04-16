@@ -16,8 +16,8 @@ msgstr ""
 "X-POOTLE-MTIME: 1413125838.000000\n"
 
 # The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Русский"
+#~ msgid "Language-Name"
+#~ msgstr "Русский"
 
 msgid "%b and %b"
 msgstr "%b и %b"
@@ -28,8 +28,8 @@ msgstr "%b или %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.атрибут от %m.spriteOrStage"
 
-msgid "%m.list contains %s"
-msgstr "%m.list содержит %s"
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list содержит %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp от %n"
@@ -471,8 +471,8 @@ msgstr "когда я получу %m.broadcast"
 msgid "when I start as a clone"
 msgstr "когда я начинаю как клон"
 
-msgid "when Stage clicked"
-msgstr "при нажатии на Этап"
+#~ msgid "when Stage clicked"
+#~ msgstr "при нажатии на Этап"
 
 msgid "when this sprite clicked"
 msgstr "когда спрайт нажат"
@@ -487,28 +487,28 @@ msgid "y position"
 msgstr "положение y"
 
 # 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "задать направление мотора %m.motorDirection"
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "задать направление мотора %m.motorDirection"
 
 # 77%
-msgid "set motor power %n"
-msgstr "задать мощность мотора %n"
+#~ msgid "set motor power %n"
+#~ msgstr "задать мощность мотора %n"
 
-msgid "turn motor off"
-msgstr "выключить мотор"
+#~ msgid "turn motor off"
+#~ msgstr "выключить мотор"
 
-msgid "turn motor on"
-msgstr "включить мотор"
+#~ msgid "turn motor on"
+#~ msgstr "включить мотор"
 
 # 80%
-msgid "turn motor on for %n secs"
-msgstr "включить мотор на %n секунд"
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "включить мотор на %n секунд"
 
-msgid "when distance < %n"
-msgstr "когда расстояние < %n"
+#~ msgid "when distance < %n"
+#~ msgstr "когда расстояние < %n"
 
-msgid "when tilt = %n"
-msgstr "когда наклон = %n"
+#~ msgid "when tilt = %n"
+#~ msgstr "когда наклон = %n"
 
 # 89%
 # 86%
@@ -560,3 +560,9 @@ msgstr "когда наклон = %n"
 
 #~ msgid "when I am clicked"
 #~ msgstr "когда я щелкну "
+
+#: commands-online.txt:7
+#: commands-offline.txt:7
+#, fuzzy
+msgid "%m.list contains %s?"
+msgstr "%m.list содержит %s"

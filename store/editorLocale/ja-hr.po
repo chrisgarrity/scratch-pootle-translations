@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-08-03 19:46+0000\n"
-"Last-Translator: Kazuhiro <abee@squeakland.jp>\n"
+"PO-Revision-Date: 2015-04-15 15:14+0000\n"
+"Last-Translator: Natalie <nrusk@media.mit.edu>\n"
 "Language-Team: LANGUAGE\n"
 "Language: ja_HIRA\n"
 "MIME-Version: 1.0\n"
@@ -12,11 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1407095214.000000\n"
-
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "にほんご"
+"X-POOTLE-MTIME: 1429110879.000000\n"
 
 msgid "%b and %b"
 msgstr "%b かつ %b"
@@ -26,9 +22,6 @@ msgstr "%b または %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute ( %m.spriteOrStage )"
-
-msgid "%m.list contains %s"
-msgstr "%m.list に %s がふくまれる"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp ( %n )"
@@ -471,9 +464,6 @@ msgstr "%m.broadcast をうけとったとき"
 msgid "when I start as a clone"
 msgstr "クローンされたとき"
 
-msgid "when Stage clicked"
-msgstr "ステージがクリックされたとき"
-
 msgid "when this sprite clicked"
 msgstr "このスプライトがクリックされたとき"
 
@@ -486,29 +476,9 @@ msgstr "xざひょう"
 msgid "y position"
 msgstr "yざひょう"
 
-# 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "モーターのかいてんほうこうを %m.motorDirection にする"
-
-# 77%
-msgid "set motor power %n"
-msgstr "モーターのパワーを %n にする"
-
-msgid "turn motor off"
-msgstr "モーターをオフにする"
-
-msgid "turn motor on"
-msgstr "モーターをオンにする"
-
-# 80%
-msgid "turn motor on for %n secs"
-msgstr "モーターを %n びょうオンにする"
-
-msgid "when distance < %n"
-msgstr "きょり < %n のとき"
-
-msgid "when tilt = %n"
-msgstr "かたむき = %n のとき"
+#: commands-online.txt:7 commands-offline.txt:7
+msgid "%m.list contains %s?"
+msgstr "%m.list に %s がふくまれる"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -536,17 +506,8 @@ msgstr ""
 msgid "About"
 msgstr "せつめい"
 
-msgid "About LEGO WeDo extension..."
-msgstr "レゴWeDoかくちょうについて..."
-
-msgid "About PicoBoard extension..."
-msgstr "PicoBoardきのうかくちょうについて..."
-
 msgid "abs"
 msgstr "ぜったいち"
-
-msgid "Account settings"
-msgstr "アカウントせってい"
 
 msgid "acos"
 msgstr "acos"
@@ -583,9 +544,6 @@ msgstr "すべて"
 
 msgid "all around"
 msgstr "じゆうにかいてん"
-
-msgid "all motors"
-msgstr "すべてのモーター"
 
 msgid "Animal"
 msgstr "どうぶつ"
@@ -769,9 +727,6 @@ msgstr "とじる"
 msgid "Closed Hi-Hat"
 msgstr "とじたハイハット"
 
-msgid "Cloud"
-msgstr "クラウド"
-
 msgid "Cloud data"
 msgstr "クラウドデータ"
 
@@ -829,9 +784,6 @@ msgstr "コスチューム"
 
 msgid "Costumes > 1"
 msgstr "コスチューム > 1"
-
-msgid "Costumes:"
-msgstr "コスチューム:"
 
 msgid "Could not retrieve new application from server."
 msgstr ""
@@ -945,17 +897,8 @@ msgstr "けしゴムのはば"
 msgid "Error!"
 msgstr "エラー !"
 
-msgid "everything"
-msgstr "すべて"
-
 msgid "export"
 msgstr "かきだし"
-
-msgid "Extension Library"
-msgstr "かくちょうライブラリー"
-
-msgid "Extension Problem"
-msgstr "かくちょうのもんだい"
 
 msgid "fade in"
 msgstr "フェードイン"
@@ -1010,9 +953,6 @@ msgstr "レイヤーをあげる"
 
 msgid "ghost"
 msgstr "ゆうれい"
-
-msgid "Go to My Stuff"
-msgstr "わたしのさくひんへいく"
 
 msgid "Group"
 msgstr "グループ"
@@ -1103,13 +1043,6 @@ msgstr "ライブラリ"
 msgid "light"
 msgstr "あかるさ"
 
-# 83%
-msgid "lights"
-msgstr "あかるさ"
-
-msgid "limit reached"
-msgstr "げんかいにとうたつ"
-
 msgid "Line"
 msgstr "ちょくせん"
 
@@ -1184,15 +1117,6 @@ msgstr "モザイク"
 msgid "motion"
 msgstr "モーション"
 
-msgid "motor"
-msgstr "モーター"
-
-msgid "motor A"
-msgstr "モーターA"
-
-msgid "motor B"
-msgstr "モーターB"
-
 msgid "mouse-pointer"
 msgstr "マウスのポインター"
 
@@ -1207,9 +1131,6 @@ msgstr "ミュージックボックス"
 
 msgid "Music Loops"
 msgstr "おんがくのループ"
-
-msgid "My Stuff"
-msgstr "わたしのさくひん"
 
 msgid "myself"
 msgstr "じぶんじしん"
@@ -1264,9 +1185,6 @@ msgstr "うごきのブロックはありません"
 
 msgid "normal readout"
 msgstr "ふつうのひょうじ"
-
-msgid "not ="
-msgstr "= ではない"
 
 msgid "Not saved; network or server problem."
 msgstr "ほぞんできません。ネットワークかサーバーにもんだいがあります。"
@@ -1370,9 +1288,6 @@ msgstr "ポップ"
 msgid "previous backdrop"
 msgstr ""
 
-msgid "Profile"
-msgstr "プロフィール"
-
 msgid "Project did not load."
 msgstr "プロジェクトがよみこまれていません。"
 
@@ -1415,9 +1330,6 @@ msgstr "リミックス"
 msgid "Remixing..."
 msgstr "リミックスちゅう..."
 
-msgid "Remove extension blocks"
-msgstr "かくちょうブロックをさくじょ"
-
 msgid "Rename"
 msgstr "なまえをへんこう"
 
@@ -1426,9 +1338,6 @@ msgstr "へんすうめいをへんこう"
 
 msgid "Replace existing project"
 msgstr ""
-
-msgid "requires sign in"
-msgstr "サインインがひつようです"
 
 msgid "Reshape"
 msgstr "かたちをかえる"
@@ -1475,9 +1384,6 @@ msgstr ""
 msgid "Save as"
 msgstr ""
 
-msgid "Save as a copy"
-msgstr "コピーをほぞん"
-
 msgid "Save now"
 msgstr "ただちにほぞん"
 
@@ -1511,21 +1417,11 @@ msgstr "スクリプト"
 msgid "Scripts"
 msgstr "スクリプト"
 
-msgid "Scripts:"
-msgstr "スクリプト:"
-
 msgid "second"
 msgstr "びょう"
 
 msgid "See project page"
 msgstr "プロジェクトページさんしょう"
-
-msgid ""
-"See the Tips window (on the right) to install the plug-in and get the "
-"extension working."
-msgstr ""
-"プラグインをインストールしてかくちょうきのうをつかうほうほうは、(みぎがわの)"
-"ヒントウィンドウをみてください。"
 
 msgid "Select"
 msgstr "せんたく"
@@ -1583,9 +1479,6 @@ msgstr "サインイン"
 
 msgid "Sign in to save"
 msgstr "ほぞんするためにサインイン"
-
-msgid "Sign out"
-msgstr "サインアウト"
 
 msgid "silence"
 msgstr "サイレンス"
@@ -1656,9 +1549,6 @@ msgstr "せんたくされたステージ:"
 
 msgid "Steel Drum"
 msgstr "スチールドラム"
-
-msgid "stored on server"
-msgstr "サーバーへかくのう"
 
 msgid "Synth Lead"
 msgstr "シンセリード"
@@ -1889,27 +1779,6 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"クラウドへんすうについて</b><br>&nbsp;<br>げんざい、すうちのみがサポートされ"
-"ています<br>チャットルームのさくせいはきょかされていないため、さくじょされま"
-"す<br>しょうさいなじょうほうは <a href= target=>クラウドデータにかんするFAQを"
-"よんでください！</a>"
-
-msgid "Click  to try again or  to save"
-msgstr ""
-"「ただちにほぞん」をクリックしてさいしこうするか、「ダウンロード」でほぞんし"
-"てください"
-
-msgid "Eraser width:"
-msgstr "けしゴムのはば:"
-
-msgid "Line width:"
-msgstr "せんのはば:"
-
 # Offline editor only
 msgid "All Tips"
 msgstr ""
@@ -2012,6 +1881,40 @@ msgstr ""
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "にほんご"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list に %s がふくまれる"
+
+#~ msgid "when Stage clicked"
+#~ msgstr "ステージがクリックされたとき"
+
+# 89%
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "モーターのかいてんほうこうを %m.motorDirection にする"
+
+# 77%
+#~ msgid "set motor power %n"
+#~ msgstr "モーターのパワーを %n にする"
+
+#~ msgid "turn motor off"
+#~ msgstr "モーターをオフにする"
+
+#~ msgid "turn motor on"
+#~ msgstr "モーターをオンにする"
+
+# 80%
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "モーターを %n びょうオンにする"
+
+#~ msgid "when distance < %n"
+#~ msgstr "きょり < %n のとき"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "かたむき = %n のとき"
+
 # 89%
 # 86%
 #~ msgid "set %m.motor direction to %m.motorDirection"
@@ -2064,6 +1967,107 @@ msgstr ""
 
 #~ msgid "when I am clicked"
 #~ msgstr "わたしがクリックされたとき"
+
+#~ msgid "About LEGO WeDo extension..."
+#~ msgstr "レゴWeDoかくちょうについて..."
+
+#~ msgid "About PicoBoard extension..."
+#~ msgstr "PicoBoardきのうかくちょうについて..."
+
+#~ msgid "Account settings"
+#~ msgstr "アカウントせってい"
+
+#~ msgid "all motors"
+#~ msgstr "すべてのモーター"
+
+#~ msgid "Cloud"
+#~ msgstr "クラウド"
+
+#~ msgid "Costumes:"
+#~ msgstr "コスチューム:"
+
+#~ msgid "everything"
+#~ msgstr "すべて"
+
+#~ msgid "Extension Library"
+#~ msgstr "かくちょうライブラリー"
+
+#~ msgid "Extension Problem"
+#~ msgstr "かくちょうのもんだい"
+
+#~ msgid "Go to My Stuff"
+#~ msgstr "わたしのさくひんへいく"
+
+# 83%
+#~ msgid "lights"
+#~ msgstr "あかるさ"
+
+#~ msgid "limit reached"
+#~ msgstr "げんかいにとうたつ"
+
+#~ msgid "motor"
+#~ msgstr "モーター"
+
+#~ msgid "motor A"
+#~ msgstr "モーターA"
+
+#~ msgid "motor B"
+#~ msgstr "モーターB"
+
+#~ msgid "My Stuff"
+#~ msgstr "わたしのさくひん"
+
+#~ msgid "not ="
+#~ msgstr "= ではない"
+
+#~ msgid "Profile"
+#~ msgstr "プロフィール"
+
+#~ msgid "Remove extension blocks"
+#~ msgstr "かくちょうブロックをさくじょ"
+
+#~ msgid "requires sign in"
+#~ msgstr "サインインがひつようです"
+
+#~ msgid "Save as a copy"
+#~ msgstr "コピーをほぞん"
+
+#~ msgid "Scripts:"
+#~ msgstr "スクリプト:"
+
+#~ msgid ""
+#~ "See the Tips window (on the right) to install the plug-in and get the "
+#~ "extension working."
+#~ msgstr ""
+#~ "プラグインをインストールしてかくちょうきのうをつかうほうほうは、(みぎがわ"
+#~ "の)ヒントウィンドウをみてください。"
+
+#~ msgid "Sign out"
+#~ msgstr "サインアウト"
+
+#~ msgid "stored on server"
+#~ msgstr "サーバーへかくのう"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "クラウドへんすうについて</b><br>&nbsp;<br>げんざい、すうちのみがサポートさ"
+#~ "れています<br>チャットルームのさくせいはきょかされていないため、さくじょさ"
+#~ "れます<br>しょうさいなじょうほうは <a href= target=>クラウドデータにかんす"
+#~ "るFAQをよんでください！</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr ""
+#~ "「ただちにほぞん」をクリックしてさいしこうするか、「ダウンロード」でほぞん"
+#~ "してください"
+
+#~ msgid "Eraser width:"
+#~ msgstr "けしゴムのはば:"
+
+#~ msgid "Line width:"
+#~ msgstr "せんのはば:"
 
 #~ msgid "cleanup"
 #~ msgstr "きれいにする"

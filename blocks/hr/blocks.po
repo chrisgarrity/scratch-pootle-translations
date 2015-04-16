@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2013-08-06 13:48+0000\n"
-"Last-Translator: zeta11 <tajana.toto@gmail.com>\n"
+"PO-Revision-Date: 2015-04-15 13:56+0000\n"
+"Last-Translator: Natalie <nrusk@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hr\n"
 "MIME-Version: 1.0\n"
@@ -13,11 +13,11 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1375796894.000000\n"
+"X-POOTLE-MTIME: 1429106166.000000\n"
 
 # The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Hrvatski"
+#~ msgid "Language-Name"
+#~ msgstr "Hrvatski"
 
 msgid "%b and %b"
 msgstr "%b i %b"
@@ -28,8 +28,8 @@ msgstr "%b ili %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute od %m.spriteOrStage"
 
-msgid "%m.list contains %s"
-msgstr "%m.list sadrži %s"
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list sadrži %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp od %n"
@@ -489,27 +489,27 @@ msgid "y position"
 msgstr "y položaj"
 
 # 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "postavi smjer motora %m.motorDirection"
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "postavi smjer motora %m.motorDirection"
 
 # 77%
-msgid "set motor power %n"
-msgstr "postavi snagu motora %n"
+#~ msgid "set motor power %n"
+#~ msgstr "postavi snagu motora %n"
 
-msgid "turn motor off"
-msgstr "isključi motor"
+#~ msgid "turn motor off"
+#~ msgstr "isključi motor"
 
-msgid "turn motor on"
-msgstr "uključi motor"
+#~ msgid "turn motor on"
+#~ msgstr "uključi motor"
 
-msgid "turn motor on for %n secs"
-msgstr "uključi motor na %n sekundi"
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "uključi motor na %n sekundi"
 
-msgid "when distance < %n"
-msgstr "kada je udaljenost < %n"
+#~ msgid "when distance < %n"
+#~ msgstr "kada je udaljenost < %n"
 
-msgid "when tilt = %n"
-msgstr "kad je nagib = %n"
+#~ msgid "when tilt = %n"
+#~ msgstr "kad je nagib = %n"
 
 # 89%
 # 86%
@@ -540,3 +540,8 @@ msgstr "kad je nagib = %n"
 
 #~ msgid "play note %n for %n beats"
 #~ msgstr "sviraj notu %d.note %n puta"
+
+#: commands-online.txt:7
+#: commands-offline.txt:7
+msgid "%m.list contains %s?"
+msgstr "%m.list sadrži %s?"

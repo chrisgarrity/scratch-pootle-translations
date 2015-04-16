@@ -36,17 +36,17 @@ msgstr "Cкрэчийн шинэ хувилбар бэлэн болсон бай
 msgid "About"
 msgstr "Тухай"
 
-msgid "About LEGO WeDo extension..."
-msgstr "LEGO WeDo өргөтгөлийн тухай..."
+#~ msgid "About LEGO WeDo extension..."
+#~ msgstr "LEGO WeDo өргөтгөлийн тухай..."
 
-msgid "About PicoBoard extension..."
-msgstr "PicoBoard өргөтгөлийн тухай..."
+#~ msgid "About PicoBoard extension..."
+#~ msgstr "PicoBoard өргөтгөлийн тухай..."
 
 msgid "abs"
 msgstr "abs"
 
-msgid "Account settings"
-msgstr "Хэрэглэгчийн тохиргоо"
+#~ msgid "Account settings"
+#~ msgstr "Хэрэглэгчийн тохиргоо"
 
 msgid "acos"
 msgstr ""
@@ -63,8 +63,8 @@ msgstr ""
 msgid "add comment"
 msgstr "Санал, сэтгэгдэл, тайлбараа нэмэрлэх"
 
-msgid "add comment here..."
-msgstr "Санал, сэтгэгдэл, тайлбараа энд бичих"
+#~ msgid "add comment here..."
+#~ msgstr "Санал, сэтгэгдэл, тайлбараа энд бичих"
 
 msgid "Add label text:"
 msgstr ""

@@ -36,17 +36,17 @@ msgstr "స్క్రాచ్ యొక్క క్రొత్త సంస
 msgid "About"
 msgstr "గురించి"
 
-msgid "About LEGO WeDo extension..."
-msgstr "LEGO డబ్ల్యుఇడిఒ పొడిగింపు గురించి ..."
+#~ msgid "About LEGO WeDo extension..."
+#~ msgstr "LEGO డబ్ల్యుఇడిఒ పొడిగింపు గురించి ..."
 
-msgid "About PicoBoard extension..."
-msgstr "PicoBoard పొడిగింపు గురించి ..."
+#~ msgid "About PicoBoard extension..."
+#~ msgstr "PicoBoard పొడిగింపు గురించి ..."
 
 msgid "abs"
 msgstr "ఎబిఎస్"
 
-msgid "Account settings"
-msgstr "ఖాతాల అమరికలు"
+#~ msgid "Account settings"
+#~ msgstr "ఖాతాల అమరికలు"
 
 msgid "acos"
 msgstr "ఎసిఒఎస్"

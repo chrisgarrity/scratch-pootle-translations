@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-03-30 09:42+0000\n"
-"Last-Translator: Raivis <raivis.ievins@gmail.com>\n"
+"PO-Revision-Date: 2015-04-15 15:18+0000\n"
+"Last-Translator: Natalie <nrusk@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: lv\n"
 "MIME-Version: 1.0\n"
@@ -13,11 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n != 0 ? 1 : "
 "2);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1427708567.000000\n"
-
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Latviešu"
+"X-POOTLE-MTIME: 1429111098.000000\n"
 
 msgid "%b and %b"
 msgstr "%b un %b"
@@ -27,9 +23,6 @@ msgstr "%b vai %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute no %m.spriteOrStage"
-
-msgid "%m.list contains %s"
-msgstr "%m.list satur %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp no %n"
@@ -466,9 +459,6 @@ msgstr "kad es saņemu %m.broadcast"
 msgid "when I start as a clone"
 msgstr "Kad es parādos kā dublikāts"
 
-msgid "when Stage clicked"
-msgstr "kad noklikšķināta skatuve"
-
 msgid "when this sprite clicked"
 msgstr "kad noklikšķināts uz šī gariņa"
 
@@ -481,26 +471,9 @@ msgstr "x pozīcija"
 msgid "y position"
 msgstr "y pozīcija"
 
-msgid "set motor direction %m.motorDirection"
-msgstr "iestatīt motora virzienu uz %m.motorDirection"
-
-msgid "set motor power %n"
-msgstr "iestatīt motora jaudu %n"
-
-msgid "turn motor off"
-msgstr "izslēgt motoru"
-
-msgid "turn motor on"
-msgstr "ieslēgt motoru"
-
-msgid "turn motor on for %n secs"
-msgstr "iezlēgt motoru uz %n sekundēm"
-
-msgid "when distance < %n"
-msgstr "kad attālums < %n"
-
-msgid "when tilt = %n"
-msgstr "kad noliekts = %n"
+#: commands-online.txt:7 commands-offline.txt:7
+msgid "%m.list contains %s?"
+msgstr "%m.list satur %s?"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -528,17 +501,8 @@ msgstr "Ir pieejama jauna Scratch versija"
 msgid "About"
 msgstr "Par"
 
-msgid "About LEGO WeDo extension..."
-msgstr "Par LEGO WeDo paplašinājumu..."
-
-msgid "About PicoBoard extension..."
-msgstr "Par PicoBoard paplašinājumu..."
-
 msgid "abs"
 msgstr "modulis (absolūtā vērtība)"
-
-msgid "Account settings"
-msgstr "Konta iestatījumi"
 
 msgid "acos"
 msgstr "acos"
@@ -555,9 +519,6 @@ msgstr "Pievienot loģisko (boolean) ievadi:"
 
 msgid "add comment"
 msgstr "pievienot komentāru"
-
-msgid "add comment here..."
-msgstr "pievienot komentāru šeit..."
 
 msgid "Add label text:"
 msgstr "Pievienot iezīmes tekstu:"
@@ -578,9 +539,6 @@ msgstr "Viss"
 
 msgid "all around"
 msgstr "viss apkārtējais"
-
-msgid "all motors"
-msgstr "visi motori"
 
 msgid "Animal"
 msgstr "Dzīvnieks"
@@ -694,9 +652,6 @@ msgstr "var pārvietot atskaņotājā:"
 msgid "Cancel"
 msgstr "Atcelt"
 
-msgid "Cannot Add"
-msgstr "Nevar pievienot"
-
 msgid "Cannot Delete"
 msgstr "Nevar dzēst"
 
@@ -745,9 +700,6 @@ msgstr "Klarnete"
 msgid "Claves"
 msgstr "Klave"
 
-msgid "clean up"
-msgstr "satīrīt"
-
 msgid "Clear"
 msgstr "Notīrīt"
 
@@ -765,14 +717,8 @@ msgstr "Aizvērt"
 msgid "Closed Hi-Hat"
 msgstr "Slēgtai Hi-Hat šķīvji"
 
-msgid "Cloud"
-msgstr "Mākonis"
-
 msgid "Cloud data"
 msgstr "Mākoņdati"
-
-msgid "Cloud variable (stored on server)"
-msgstr "Mākoņmainīgais (saglabāts serverī)"
 
 msgid "color"
 msgstr "krāsa"
@@ -826,11 +772,6 @@ msgstr "Tērpi"
 
 msgid "Costumes > 1"
 msgstr "Tērpi > 1"
-
-# 75%
-# 88%
-msgid "Costumes:"
-msgstr "Tērpi:"
 
 msgid "Could not retrieve new application from server."
 msgstr "Nevar saņemt jaunu lietotni no servera."
@@ -891,9 +832,6 @@ msgstr "Lejuplādēt"
 msgid "Download to your computer"
 msgstr "Lejuplādēt Jūsu datorā"
 
-msgid "Downloading new version"
-msgstr "Lejuplādē jaunu versiju"
-
 msgid "duplicate"
 msgstr "dublēt"
 
@@ -930,14 +868,8 @@ msgstr "Elektronika"
 msgid "Ellipse"
 msgstr "Elipse"
 
-msgid "empty"
-msgstr "tukšs"
-
 msgid "Erase"
 msgstr "Dzēst"
-
-msgid "Erase all"
-msgstr "Dzēst visu"
 
 msgid "Eraser width"
 msgstr "Dzēšgumijas platums"
@@ -945,26 +877,14 @@ msgstr "Dzēšgumijas platums"
 msgid "Error!"
 msgstr "Kļūda!"
 
-msgid "everything"
-msgstr "viss"
-
 msgid "export"
 msgstr "eksportēt"
-
-msgid "Extension Library"
-msgstr "Paplašinājumu bibliotēka"
-
-msgid "Extension Problem"
-msgstr "Paplašinājuma kļuda"
 
 msgid "fade in"
 msgstr "pakāpeniski parādīties"
 
 msgid "fade out"
 msgstr "pakāpeniski izzust"
-
-msgid "false"
-msgstr "nepatiess"
 
 msgid "Fantasy"
 msgstr "Fantāzija"
@@ -1011,9 +931,6 @@ msgstr "Par vienu slāni uz priekšu"
 msgid "ghost"
 msgstr "spoks"
 
-msgid "Go to My Stuff"
-msgstr "Doties uz Manas lietas"
-
 msgid "Group"
 msgstr "Grupa"
 
@@ -1034,15 +951,6 @@ msgstr "Aparatūra"
 
 msgid "help"
 msgstr "palīdzība"
-
-msgid "Hello!"
-msgstr "Sveiki!"
-
-msgid "Hmm..."
-msgstr "Hmm..."
-
-msgid "hello"
-msgstr "sveiki"
 
 msgid "High C"
 msgstr "Do augšā"
@@ -1101,13 +1009,6 @@ msgstr "Bibliotēka"
 
 msgid "light"
 msgstr "gaisma"
-
-# 83%
-msgid "lights"
-msgstr "gaismas"
-
-msgid "limit reached"
-msgstr "limits sasniegts"
 
 msgid "Line"
 msgstr "Līnija"
@@ -1182,15 +1083,6 @@ msgstr "mozaīka"
 msgid "motion"
 msgstr "kustība"
 
-msgid "motor"
-msgstr "motors"
-
-msgid "motor A"
-msgstr "motors A"
-
-msgid "motor B"
-msgstr "motors B"
-
 msgid "mouse-pointer"
 msgstr "peles kursors"
 
@@ -1205,9 +1097,6 @@ msgstr "Mūzikas lādīte"
 
 msgid "Music Loops"
 msgstr "Mūzikas cilpas"
-
-msgid "My Stuff"
-msgstr "Manas lietas"
 
 msgid "myself"
 msgstr "es pats"
@@ -1265,9 +1154,6 @@ msgstr "Nav kustības bloku"
 
 msgid "normal readout"
 msgstr "normāls lasījums"
-
-msgid "not ="
-msgstr "ne ="
 
 msgid "Not saved; network or server problem."
 msgstr "Nav saglabāts; tīkla vai servera problēma."
@@ -1368,9 +1254,6 @@ msgstr "paukšķis"
 msgid "previous backdrop"
 msgstr "iepriekšējais fons"
 
-msgid "Profile"
-msgstr "Profils"
-
 msgid "Project did not load."
 msgstr "Projekts neielādējās."
 
@@ -1414,20 +1297,11 @@ msgstr "Remix"
 msgid "Remixing..."
 msgstr "Remiksē...."
 
-msgid "Remove extension blocks"
-msgstr "Aizvākt paplašinājuma blokus"
-
 msgid "Rename"
 msgstr "Pārsaukt"
 
 msgid "rename variable"
 msgstr "pārsaukt mainīgo"
-
-msgid "Replace existing project"
-msgstr "Aizvietot esošu projektu"
-
-msgid "requires sign in"
-msgstr "nepieciešams pieslēgties"
 
 msgid "Reshape"
 msgstr "Pārveidot"
@@ -1474,9 +1348,6 @@ msgstr "Saglabā šī projekta kopiju un pievieno savas idejas"
 msgid "Save as"
 msgstr "Saglabāt kā"
 
-msgid "Save as a copy"
-msgstr "Saglabāt kā kopiju"
-
 msgid "Save now"
 msgstr "Saglabāt tagad"
 
@@ -1501,30 +1372,17 @@ msgstr "Saksofons"
 msgid "Scratch Updater"
 msgstr "Scratch atjauninātājs"
 
-msgid "Scratch 2.0 Offline Editor"
-msgstr "Scatch 2.0 Bezsaistes redaktors"
-
 msgid "Script"
 msgstr "Programma"
 
 msgid "Scripts"
 msgstr "Programmas"
 
-msgid "Scripts:"
-msgstr "Programmas:"
-
 msgid "second"
 msgstr "sekunde"
 
 msgid "See project page"
 msgstr "Skatīt projekta lapu"
-
-msgid ""
-"See the Tips window (on the right) to install the plug-in and get the "
-"extension working."
-msgstr ""
-"Skaties padomu logā (pa labi) lai uzstādītu spraudni un papildinājums sāktu "
-"strādāt."
 
 msgid "Select"
 msgstr "Izvēlēties"
@@ -1553,9 +1411,6 @@ msgstr "Kopīgot"
 msgid "Share to website"
 msgstr "Koplietot mājaslapā"
 
-msgid "Share to Scratch website"
-msgstr "Koplietot Scratch mājaslapā"
-
 msgid "shared"
 msgstr "koplietots"
 
@@ -1582,9 +1437,6 @@ msgstr "Pieslēgties"
 
 msgid "Sign in to save"
 msgstr "Pieslēgties lai saglabātu"
-
-msgid "Sign out"
-msgstr "Atteikties"
 
 msgid "silence"
 msgstr "klusums"
@@ -1660,9 +1512,6 @@ msgstr "Izvēlēta skatuve:"
 msgid "Steel Drum"
 msgstr "Metāla bungas"
 
-msgid "stored on server"
-msgstr "saglabāts serverī"
-
 msgid "Synth Lead"
 msgstr "Vadošais sintezators"
 
@@ -1684,24 +1533,11 @@ msgstr "Teksts"
 msgid "that way"
 msgstr "uz otru pusi"
 
-msgid "The name is already in use."
-msgstr "Šis nosaukums jau tiek lietots"
-
-msgid ""
-"The project failed to load and Scratch Team has been notified. Press OK to "
-"leave this page."
-msgstr ""
-"Projektu nebija iespējams ielādēt un Scratch komandai ir par to paziņots. "
-"Spiediet Labi, lai pamestu šo lapu."
-
 msgid "Theme"
 msgstr "Tēma"
 
 msgid "Things"
 msgstr "Lietas"
-
-msgid "thing"
-msgstr "lieta"
 
 msgid "This is the current version."
 msgstr "Šī ir jaunākā versija"
@@ -1747,9 +1583,6 @@ msgstr "Trijstūris"
 
 msgid "Trombone"
 msgstr "Trombons"
-
-msgid "true"
-msgstr "patiess"
 
 msgid "Turbo mode"
 msgstr "Turbo režīms"
@@ -1861,9 +1694,6 @@ msgstr "Vēlies saglabāt? Spied remix"
 msgid "Which column do you want to import"
 msgstr "Kuru kolonnu vēlies importēt"
 
-msgid "What's your name?"
-msgstr "Kāds ir tavs vārds?"
-
 msgid "whirl"
 msgstr "virpuļi"
 
@@ -1872,9 +1702,6 @@ msgstr "Vudbloks"
 
 msgid "Wooden Flute"
 msgstr "Koka flauta"
-
-msgid "world"
-msgstr "pasaule"
 
 msgid "year"
 msgstr "gads"
@@ -1891,24 +1718,6 @@ msgstr "Tavs Scratch vārds"
 
 msgid "Your Scratch name is required"
 msgstr "Tavs Scratch vārds ir obligāts"
-
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Informācija par mākoņu mainīgajiem</b><br>&nbsp;<br>Šobrīd atļauti tikai "
-"skaitļi<br>Sarunu istabas nav atļautas, un tiks dzēstas.<br>Vairāk "
-"informācijas <a href= target=>mākoņu datu BUJ!</a>"
-
-msgid "Click  to try again or  to save"
-msgstr "Klikšķini     lai mēģinātu vēlreiz vai     lai saglabātu"
-
-msgid "Eraser width:"
-msgstr "Dzēšgumijas platums:"
-
-msgid "Line width:"
-msgstr "Līnijas platums:"
 
 # Offline editor only
 msgid "All Tips"
@@ -2014,6 +1823,37 @@ msgstr "Apmeklēt lejupielāžu lapu"
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr "Tavs projekts ir augšuplādēts scratch.mit.edu"
 
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "Latviešu"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list satur %s"
+
+#~ msgid "when Stage clicked"
+#~ msgstr "kad noklikšķināta skatuve"
+
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "iestatīt motora virzienu uz %m.motorDirection"
+
+#~ msgid "set motor power %n"
+#~ msgstr "iestatīt motora jaudu %n"
+
+#~ msgid "turn motor off"
+#~ msgstr "izslēgt motoru"
+
+#~ msgid "turn motor on"
+#~ msgstr "ieslēgt motoru"
+
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "iezlēgt motoru uz %n sekundēm"
+
+#~ msgid "when distance < %n"
+#~ msgstr "kad attālums < %n"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "kad noliekts = %n"
+
 # 86%
 #, fuzzy
 #~ msgid "set %m.motor direction to %m.motorDirection"
@@ -2036,6 +1876,170 @@ msgstr "Tavs projekts ir augšuplādēts scratch.mit.edu"
 
 #~ msgid "Scratch days"
 #~ msgstr "Scratch dienas"
+
+#~ msgid "About LEGO WeDo extension..."
+#~ msgstr "Par LEGO WeDo paplašinājumu..."
+
+#~ msgid "About PicoBoard extension..."
+#~ msgstr "Par PicoBoard paplašinājumu..."
+
+#~ msgid "Account settings"
+#~ msgstr "Konta iestatījumi"
+
+#~ msgid "add comment here..."
+#~ msgstr "pievienot komentāru šeit..."
+
+#~ msgid "all motors"
+#~ msgstr "visi motori"
+
+#~ msgid "Cannot Add"
+#~ msgstr "Nevar pievienot"
+
+#~ msgid "clean up"
+#~ msgstr "satīrīt"
+
+#~ msgid "Cloud"
+#~ msgstr "Mākonis"
+
+#~ msgid "Cloud variable (stored on server)"
+#~ msgstr "Mākoņmainīgais (saglabāts serverī)"
+
+# 75%
+# 88%
+#~ msgid "Costumes:"
+#~ msgstr "Tērpi:"
+
+#~ msgid "Downloading new version"
+#~ msgstr "Lejuplādē jaunu versiju"
+
+#~ msgid "empty"
+#~ msgstr "tukšs"
+
+#~ msgid "Erase all"
+#~ msgstr "Dzēst visu"
+
+#~ msgid "everything"
+#~ msgstr "viss"
+
+#~ msgid "Extension Library"
+#~ msgstr "Paplašinājumu bibliotēka"
+
+#~ msgid "Extension Problem"
+#~ msgstr "Paplašinājuma kļuda"
+
+#~ msgid "false"
+#~ msgstr "nepatiess"
+
+#~ msgid "Go to My Stuff"
+#~ msgstr "Doties uz Manas lietas"
+
+#~ msgid "Hello!"
+#~ msgstr "Sveiki!"
+
+#~ msgid "Hmm..."
+#~ msgstr "Hmm..."
+
+#~ msgid "hello"
+#~ msgstr "sveiki"
+
+# 83%
+#~ msgid "lights"
+#~ msgstr "gaismas"
+
+#~ msgid "limit reached"
+#~ msgstr "limits sasniegts"
+
+#~ msgid "motor"
+#~ msgstr "motors"
+
+#~ msgid "motor A"
+#~ msgstr "motors A"
+
+#~ msgid "motor B"
+#~ msgstr "motors B"
+
+#~ msgid "My Stuff"
+#~ msgstr "Manas lietas"
+
+#~ msgid "not ="
+#~ msgstr "ne ="
+
+#~ msgid "Profile"
+#~ msgstr "Profils"
+
+#~ msgid "Remove extension blocks"
+#~ msgstr "Aizvākt paplašinājuma blokus"
+
+#~ msgid "Replace existing project"
+#~ msgstr "Aizvietot esošu projektu"
+
+#~ msgid "requires sign in"
+#~ msgstr "nepieciešams pieslēgties"
+
+#~ msgid "Save as a copy"
+#~ msgstr "Saglabāt kā kopiju"
+
+#~ msgid "Scratch 2.0 Offline Editor"
+#~ msgstr "Scatch 2.0 Bezsaistes redaktors"
+
+#~ msgid "Scripts:"
+#~ msgstr "Programmas:"
+
+#~ msgid ""
+#~ "See the Tips window (on the right) to install the plug-in and get the "
+#~ "extension working."
+#~ msgstr ""
+#~ "Skaties padomu logā (pa labi) lai uzstādītu spraudni un papildinājums "
+#~ "sāktu strādāt."
+
+#~ msgid "Share to Scratch website"
+#~ msgstr "Koplietot Scratch mājaslapā"
+
+#~ msgid "Sign out"
+#~ msgstr "Atteikties"
+
+#~ msgid "stored on server"
+#~ msgstr "saglabāts serverī"
+
+#~ msgid "The name is already in use."
+#~ msgstr "Šis nosaukums jau tiek lietots"
+
+#~ msgid ""
+#~ "The project failed to load and Scratch Team has been notified. Press OK "
+#~ "to leave this page."
+#~ msgstr ""
+#~ "Projektu nebija iespējams ielādēt un Scratch komandai ir par to paziņots. "
+#~ "Spiediet Labi, lai pamestu šo lapu."
+
+#~ msgid "thing"
+#~ msgstr "lieta"
+
+#~ msgid "true"
+#~ msgstr "patiess"
+
+#~ msgid "What's your name?"
+#~ msgstr "Kāds ir tavs vārds?"
+
+#~ msgid "world"
+#~ msgstr "pasaule"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Informācija par mākoņu mainīgajiem</b><br>&nbsp;<br>Šobrīd atļauti "
+#~ "tikai skaitļi<br>Sarunu istabas nav atļautas, un tiks dzēstas.<br>Vairāk "
+#~ "informācijas <a href= target=>mākoņu datu BUJ!</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Klikšķini     lai mēģinātu vēlreiz vai     lai saglabātu"
+
+#~ msgid "Eraser width:"
+#~ msgstr "Dzēšgumijas platums:"
+
+#~ msgid "Line width:"
+#~ msgstr "Līnijas platums:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Pievienot Būla (boolean) ievadi:"

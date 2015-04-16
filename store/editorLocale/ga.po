@@ -17,14 +17,6 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1368083805.000000\n"
 
-# The language name as it will appear in the language menu
-# ###########################################
-# FORMATTING
-# Language name as you'd like it to appear in the Languages menu
-# (Required)
-msgid "Language-Name"
-msgstr "Gaeilge"
-
 msgid "%b and %b"
 msgstr "%b agus %b"
 
@@ -33,9 +25,6 @@ msgstr "%b nó %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.aitreabúid de %m.spriteOrStage"
-
-msgid "%m.list contains %s"
-msgstr "%m.list: tá %s ann"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp de %n"
@@ -492,26 +481,10 @@ msgstr "ionad x"
 msgid "y position"
 msgstr "ionad y"
 
-msgid "set motor direction %m.motorDirection"
-msgstr "socraigh treo an mhótair: %m.motorDirection"
-
-msgid "set motor power %n"
-msgstr "socraigh cumhacht an mhótair: %n"
-
-msgid "turn motor off"
-msgstr "stop an mótar"
-
-msgid "turn motor on"
-msgstr "cuir an mótar ar siúl"
-
-msgid "turn motor on for %n secs"
-msgstr "cuir an mótar ar siúl ar feadh %n soicind"
-
-msgid "when distance < %n"
-msgstr "nuair a bhíonn fad < %n"
-
-msgid "when tilt = %n"
-msgstr "nuair atá claon = %n"
+#: commands-online.txt:7 commands-offline.txt:7
+#, fuzzy
+msgid "%m.list contains %s?"
+msgstr "%m.list: tá %s ann"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -539,17 +512,8 @@ msgstr "Tá leagan nua de Scratch ar fáil"
 msgid "About"
 msgstr "Maidir leis"
 
-msgid "About LEGO WeDo extension..."
-msgstr "Maidir leis an eisínteacht LEGO WeDo..."
-
-msgid "About PicoBoard extension..."
-msgstr "Maidir leis an eisínteacht PicoBoard..."
-
 msgid "abs"
 msgstr "abs"
-
-msgid "Account settings"
-msgstr "Socruithe an chuntais"
 
 msgid "acos"
 msgstr "acos"
@@ -565,9 +529,6 @@ msgstr "Cuir ionchur Boole leis:"
 
 msgid "add comment"
 msgstr "cuir nóta leis"
-
-msgid "add comment here..."
-msgstr "cuir nóta tráchta anseo..."
 
 msgid "Add label text:"
 msgstr "Cuir lipéad leis:"
@@ -586,9 +547,6 @@ msgstr "Uile"
 
 msgid "all around"
 msgstr "timpeall ar fad"
-
-msgid "all motors"
-msgstr "gach mótar"
 
 msgid "Animal"
 msgstr "Ainmhí"
@@ -697,9 +655,6 @@ msgstr "is féidir tarraingt sa mhód imreora:"
 msgid "Cancel"
 msgstr "Cealaigh"
 
-msgid "Cannot Add"
-msgstr "Ní Féidir Cur Leis"
-
 msgid "Cannot Delete"
 msgstr "Ní Féidir Scriosadh"
 
@@ -748,9 +703,6 @@ msgstr "Cláirnéid"
 msgid "Claves"
 msgstr "Clabhaí"
 
-msgid "clean up"
-msgstr "glan"
-
 msgid "Clear"
 msgstr "Glan"
 
@@ -768,14 +720,8 @@ msgstr "Dún"
 msgid "Closed Hi-Hat"
 msgstr "Ard-hata dúnta"
 
-msgid "Cloud"
-msgstr "Scamall"
-
 msgid "Cloud data"
 msgstr "Néalsonraí"
-
-msgid "Cloud variable (stored on server)"
-msgstr "Néalathróg (sábháilte ar an bhfreastalaí)"
 
 msgid "color"
 msgstr "dath"
@@ -827,9 +773,6 @@ msgstr "Cultacha"
 
 msgid "Costumes > 1"
 msgstr "Cultacha > 1"
-
-msgid "Costumes:"
-msgstr "Cultacha:"
 
 msgid "Could not retrieve new application from server."
 msgstr "Níorbh fhéidir feidhmchlár nua a fháil ón bhfreastalaí."
@@ -888,9 +831,6 @@ msgstr "Íosluchtaigh"
 msgid "Download to your computer"
 msgstr "Íosluchtaigh agus sábháil ar do ríomhaire"
 
-msgid "Downloading new version"
-msgstr "Leagan nua á íosluchtú"
-
 msgid "duplicate"
 msgstr "cóipeáil"
 
@@ -927,14 +867,8 @@ msgstr "Leictreonach"
 msgid "Ellipse"
 msgstr "Éilips"
 
-msgid "empty"
-msgstr "folamh"
-
 msgid "Erase"
 msgstr "Bánaigh"
-
-msgid "Erase all"
-msgstr "Bánaigh uile"
 
 msgid "Eraser width"
 msgstr "Leithead an léirscriosáin"
@@ -942,26 +876,14 @@ msgstr "Leithead an léirscriosáin"
 msgid "Error!"
 msgstr "Earráid!"
 
-msgid "everything"
-msgstr "gach rud"
-
 msgid "export"
 msgstr "easpórtáil"
-
-msgid "Extension Library"
-msgstr "Leabharlann Eisínteachtaí"
-
-msgid "Extension Problem"
-msgstr "Fadhb le hEisínteacht"
 
 msgid "fade in"
 msgstr "céimnigh isteach"
 
 msgid "fade out"
 msgstr "céimnigh amach"
-
-msgid "false"
-msgstr "bréagach"
 
 msgid "Fantasy"
 msgstr "Fantaisíocht"
@@ -1008,9 +930,6 @@ msgstr "Sraith amháin chun tosaigh"
 msgid "ghost"
 msgstr "taibhse"
 
-msgid "Go to My Stuff"
-msgstr "Mo Chuid Stuif"
-
 msgid "Group"
 msgstr "Grúpa"
 
@@ -1031,15 +950,6 @@ msgstr "Crua-earraí"
 
 msgid "help"
 msgstr "cabhair"
-
-msgid "Hello!"
-msgstr "Dia Dhuit!"
-
-msgid "Hmm..."
-msgstr "Mmmm..."
-
-msgid "hello"
-msgstr "dia dhuit"
 
 msgid "High C"
 msgstr "C ard"
@@ -1098,13 +1008,6 @@ msgstr "Leabharlann"
 
 msgid "light"
 msgstr "éadrom"
-
-# 83%
-msgid "lights"
-msgstr "soilse"
-
-msgid "limit reached"
-msgstr "teorainn sroichte"
 
 msgid "Line"
 msgstr "Líne"
@@ -1178,15 +1081,6 @@ msgstr "mósáic"
 msgid "motion"
 msgstr "gluaiseacht"
 
-msgid "motor"
-msgstr "mótar"
-
-msgid "motor A"
-msgstr "mótar A"
-
-msgid "motor B"
-msgstr "mótar B"
-
 msgid "mouse-pointer"
 msgstr "pointeoir-luiche"
 
@@ -1201,9 +1095,6 @@ msgstr "Ceolbhosca"
 
 msgid "Music Loops"
 msgstr "Lúba Ceoil"
-
-msgid "My Stuff"
-msgstr "Mo Chuid Stuif"
 
 msgid "myself"
 msgstr "mise féin"
@@ -1362,9 +1253,6 @@ msgstr "pléasc"
 msgid "previous backdrop"
 msgstr "cúlra roimhe seo"
 
-msgid "Profile"
-msgstr "Próifíl"
-
 msgid "Project did not load."
 msgstr "Ní raibh an tionscadal luchtaithe."
 
@@ -1407,20 +1295,11 @@ msgstr "Athmheasc"
 msgid "Remixing..."
 msgstr "Á athmheascadh..."
 
-msgid "Remove extension blocks"
-msgstr "Bain bloic eisínteachta"
-
 msgid "Rename"
 msgstr "Athainmnigh"
 
 msgid "rename variable"
 msgstr "cuir ainm nua ar athróg"
-
-msgid "Replace existing project"
-msgstr "Forscríobh tionscadal atá ann"
-
-msgid "requires sign in"
-msgstr "is gá logáil isteach"
 
 msgid "Reshape"
 msgstr "Athdheilbhigh"
@@ -1467,9 +1346,6 @@ msgstr "Sábháil cóip den tionscadal seo agus cuir leis."
 msgid "Save as"
 msgstr ""
 
-msgid "Save as a copy"
-msgstr "Sábháil mar chóip"
-
 msgid "Save now"
 msgstr "Sábháil anois"
 
@@ -1502,9 +1378,6 @@ msgstr "Script"
 
 msgid "Scripts"
 msgstr "Scripteanna"
-
-msgid "Scripts:"
-msgstr "Scripteanna:"
 
 msgid "second"
 msgstr "soicind"
@@ -1573,9 +1446,6 @@ msgstr "Logáil isteach"
 
 msgid "Sign in to save"
 msgstr "Logáil isteach chun sábháil"
-
-msgid "Sign out"
-msgstr "Logáil amach"
 
 msgid "silence"
 msgstr "tost"
@@ -1646,9 +1516,6 @@ msgstr "Stáitse roghnaithe:"
 msgid "Steel Drum"
 msgstr "Druma Cruach"
 
-msgid "stored on server"
-msgstr "sábháilte ar an bhfreastalaí"
-
 msgid "Synth Lead"
 msgstr "Príomhshintéiseoir"
 
@@ -1670,24 +1537,11 @@ msgstr "Téacs"
 msgid "that way"
 msgstr "an treo sin"
 
-msgid "The name is already in use."
-msgstr "Tá an t-ainm seo in úsáid cheana."
-
-msgid ""
-"The project failed to load and Scratch Team has been notified. Press OK to "
-"leave this page."
-msgstr ""
-"Theip ar luchtú an tionscadail seo agus cuireadh an fhadhb in iúl "
-"d'fhoireann Scratch. Brúigh OK leis an leathanach seo a fhágáil."
-
 msgid "Theme"
 msgstr "Téama"
 
 msgid "Things"
 msgstr "Rudaí"
-
-msgid "thing"
-msgstr "rud"
 
 msgid "This is the current version."
 msgstr "Seo é an leagan is déanaí."
@@ -1736,9 +1590,6 @@ msgstr "Triantán"
 
 msgid "Trombone"
 msgstr "Trombón"
-
-msgid "true"
-msgstr "fíor"
 
 msgid "Turbo mode"
 msgstr "Turbamhód"
@@ -1848,9 +1699,6 @@ msgstr "An bhfuil fonn ort sábháil? Cliceáil 'athmheasc'"
 msgid "Which column do you want to import"
 msgstr "Cén colún ar mhaith leat iompórtáil?"
 
-msgid "What's your name?"
-msgstr "Cén t-ainm atá ort?"
-
 msgid "whirl"
 msgstr "rothlaigh"
 
@@ -1859,9 +1707,6 @@ msgstr "Bloc Adhmaid"
 
 msgid "Wooden Flute"
 msgstr "Fliúit Adhmaid"
-
-msgid "world"
-msgstr "domhan"
 
 msgid "year"
 msgstr "bliain"
@@ -1887,14 +1732,6 @@ msgstr ""
 
 msgid "Click  to try again or  to save"
 msgstr ""
-
-# 92%
-msgid "Eraser width:"
-msgstr "Leithead an léirscriosáin:"
-
-# 90%
-msgid "Line width:"
-msgstr "Leithead líne:"
 
 # Offline editor only
 msgid "All Tips"
@@ -2002,10 +1839,178 @@ msgstr ""
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
+# The language name as it will appear in the language menu
+# ###########################################
+# FORMATTING
+# Language name as you'd like it to appear in the Languages menu
+# (Required)
+#~ msgid "Language-Name"
+#~ msgstr "Gaeilge"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list: tá %s ann"
+
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "socraigh treo an mhótair: %m.motorDirection"
+
+#~ msgid "set motor power %n"
+#~ msgstr "socraigh cumhacht an mhótair: %n"
+
+#~ msgid "turn motor off"
+#~ msgstr "stop an mótar"
+
+#~ msgid "turn motor on"
+#~ msgstr "cuir an mótar ar siúl"
+
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "cuir an mótar ar siúl ar feadh %n soicind"
+
+#~ msgid "when distance < %n"
+#~ msgstr "nuair a bhíonn fad < %n"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "nuair atá claon = %n"
+
 # 86%
 #, fuzzy
 #~ msgid "set %m.motor direction to %m.motorDirection"
 #~ msgstr "socraigh treo an mhótair: %m.motorDirection"
+
+#~ msgid "About LEGO WeDo extension..."
+#~ msgstr "Maidir leis an eisínteacht LEGO WeDo..."
+
+#~ msgid "About PicoBoard extension..."
+#~ msgstr "Maidir leis an eisínteacht PicoBoard..."
+
+#~ msgid "Account settings"
+#~ msgstr "Socruithe an chuntais"
+
+#~ msgid "add comment here..."
+#~ msgstr "cuir nóta tráchta anseo..."
+
+#~ msgid "all motors"
+#~ msgstr "gach mótar"
+
+#~ msgid "Cannot Add"
+#~ msgstr "Ní Féidir Cur Leis"
+
+#~ msgid "clean up"
+#~ msgstr "glan"
+
+#~ msgid "Cloud"
+#~ msgstr "Scamall"
+
+#~ msgid "Cloud variable (stored on server)"
+#~ msgstr "Néalathróg (sábháilte ar an bhfreastalaí)"
+
+#~ msgid "Costumes:"
+#~ msgstr "Cultacha:"
+
+#~ msgid "Downloading new version"
+#~ msgstr "Leagan nua á íosluchtú"
+
+#~ msgid "empty"
+#~ msgstr "folamh"
+
+#~ msgid "Erase all"
+#~ msgstr "Bánaigh uile"
+
+#~ msgid "everything"
+#~ msgstr "gach rud"
+
+#~ msgid "Extension Library"
+#~ msgstr "Leabharlann Eisínteachtaí"
+
+#~ msgid "Extension Problem"
+#~ msgstr "Fadhb le hEisínteacht"
+
+#~ msgid "false"
+#~ msgstr "bréagach"
+
+#~ msgid "Go to My Stuff"
+#~ msgstr "Mo Chuid Stuif"
+
+#~ msgid "Hello!"
+#~ msgstr "Dia Dhuit!"
+
+#~ msgid "Hmm..."
+#~ msgstr "Mmmm..."
+
+#~ msgid "hello"
+#~ msgstr "dia dhuit"
+
+# 83%
+#~ msgid "lights"
+#~ msgstr "soilse"
+
+#~ msgid "limit reached"
+#~ msgstr "teorainn sroichte"
+
+#~ msgid "motor"
+#~ msgstr "mótar"
+
+#~ msgid "motor A"
+#~ msgstr "mótar A"
+
+#~ msgid "motor B"
+#~ msgstr "mótar B"
+
+#~ msgid "My Stuff"
+#~ msgstr "Mo Chuid Stuif"
+
+#~ msgid "Profile"
+#~ msgstr "Próifíl"
+
+#~ msgid "Remove extension blocks"
+#~ msgstr "Bain bloic eisínteachta"
+
+#~ msgid "Replace existing project"
+#~ msgstr "Forscríobh tionscadal atá ann"
+
+#~ msgid "requires sign in"
+#~ msgstr "is gá logáil isteach"
+
+#~ msgid "Save as a copy"
+#~ msgstr "Sábháil mar chóip"
+
+#~ msgid "Scripts:"
+#~ msgstr "Scripteanna:"
+
+#~ msgid "Sign out"
+#~ msgstr "Logáil amach"
+
+#~ msgid "stored on server"
+#~ msgstr "sábháilte ar an bhfreastalaí"
+
+#~ msgid "The name is already in use."
+#~ msgstr "Tá an t-ainm seo in úsáid cheana."
+
+#~ msgid ""
+#~ "The project failed to load and Scratch Team has been notified. Press OK "
+#~ "to leave this page."
+#~ msgstr ""
+#~ "Theip ar luchtú an tionscadail seo agus cuireadh an fhadhb in iúl "
+#~ "d'fhoireann Scratch. Brúigh OK leis an leathanach seo a fhágáil."
+
+#~ msgid "thing"
+#~ msgstr "rud"
+
+#~ msgid "true"
+#~ msgstr "fíor"
+
+#~ msgid "What's your name?"
+#~ msgstr "Cén t-ainm atá ort?"
+
+#~ msgid "world"
+#~ msgstr "domhan"
+
+# 92%
+#~ msgid "Eraser width:"
+#~ msgstr "Leithead an léirscriosáin:"
+
+# 90%
+#~ msgid "Line width:"
+#~ msgstr "Leithead líne:"
 
 #~ msgid "Microphone Volume:"
 #~ msgstr "Airde an mhicreafóin:"

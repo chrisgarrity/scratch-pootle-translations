@@ -15,8 +15,8 @@ msgstr ""
 "X-POOTLE-MTIME: 1369013357.000000\n"
 
 # The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Føroyskt"
+#~ msgid "Language-Name"
+#~ msgstr "Føroyskt"
 
 msgid "%b and %b"
 msgstr "%b og %b"
@@ -27,8 +27,8 @@ msgstr "%b ella %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute av %m.spriteOrStage"
 
-msgid "%m.list contains %s"
-msgstr "%m.list inniheldur %s"
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list inniheldur %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp av %n"
@@ -504,3 +504,9 @@ msgstr ""
 
 #~ msgid "if %b"
 #~ msgstr "um %b"
+
+#: commands-online.txt:7
+#: commands-offline.txt:7
+#, fuzzy
+msgid "%m.list contains %s?"
+msgstr "%m.list inniheldur %s"

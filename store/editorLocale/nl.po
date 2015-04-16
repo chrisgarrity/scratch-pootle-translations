@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-07-12 12:36+0000\n"
-"Last-Translator: S.D. <internet@meijer-online.nl>\n"
+"PO-Revision-Date: 2015-04-15 13:57+0000\n"
+"Last-Translator: Natalie <nrusk@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
@@ -12,11 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1405168579.000000\n"
-
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Nederlands"
+"X-POOTLE-MTIME: 1429106255.000000\n"
 
 msgid "%b and %b"
 msgstr "%b en %b"
@@ -26,9 +22,6 @@ msgstr "%b of %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute van %m.spriteOrStage"
-
-msgid "%m.list contains %s"
-msgstr "%m.list bevat %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp van %n"
@@ -467,9 +460,6 @@ msgstr "wanneer ik signaal %m.broadcast ontvang"
 msgid "when I start as a clone"
 msgstr "wanneer ik als kloon start"
 
-msgid "when Stage clicked"
-msgstr "wanneer op het speelveld wordt geklikt"
-
 msgid "when this sprite clicked"
 msgstr "wanneer op deze sprite wordt geklikt"
 
@@ -482,29 +472,9 @@ msgstr "x-positie"
 msgid "y position"
 msgstr "y-positie"
 
-# 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "zet motorrichting op %m.motorDirection"
-
-# 77%
-msgid "set motor power %n"
-msgstr "zet motorvermogen op %n"
-
-msgid "turn motor off"
-msgstr "zet motor uit"
-
-msgid "turn motor on"
-msgstr "zet motor aan"
-
-# 80%
-msgid "turn motor on for %n secs"
-msgstr "zet motor %n sec. aan"
-
-msgid "when distance < %n"
-msgstr "wanneer afstand < %n"
-
-msgid "when tilt = %n"
-msgstr "wanneer gekanteld = %n"
+#: commands-online.txt:7 commands-offline.txt:7
+msgid "%m.list contains %s?"
+msgstr "%m.list bevat %s?"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -531,17 +501,8 @@ msgstr ""
 msgid "About"
 msgstr "Over"
 
-msgid "About LEGO WeDo extension..."
-msgstr "Over de LEGO WeDo-uitbreiding..."
-
-msgid "About PicoBoard extension..."
-msgstr "Over de PicoBoard-uitbreiding..."
-
 msgid "abs"
 msgstr "absoluut"
-
-msgid "Account settings"
-msgstr "Account-instellingen"
 
 msgid "acos"
 msgstr "acos"
@@ -579,9 +540,6 @@ msgstr "Alle"
 # wordt waarschijnlijk gebruikt bij rotatiemogelijkheden van een sprite
 msgid "all around"
 msgstr "helemaal rond"
-
-msgid "all motors"
-msgstr "alle motors"
 
 msgid "Animal"
 msgstr "Dier"
@@ -762,9 +720,6 @@ msgstr "Sluiten"
 msgid "Closed Hi-Hat"
 msgstr "Gesloten hi-hat"
 
-msgid "Cloud"
-msgstr "Cloud"
-
 msgid "Cloud data"
 msgstr "Cloud-data"
 
@@ -823,9 +778,6 @@ msgstr "Uiterlijken"
 
 msgid "Costumes > 1"
 msgstr "Uiterlijken > 1"
-
-msgid "Costumes:"
-msgstr "Uiterlijken:"
 
 msgid "Could not retrieve new application from server."
 msgstr ""
@@ -940,17 +892,8 @@ msgstr "Gum-breedte"
 msgid "Error!"
 msgstr "Fout!"
 
-msgid "everything"
-msgstr "alles"
-
 msgid "export"
 msgstr "exporteren"
-
-msgid "Extension Library"
-msgstr "Uitbreidingsbibliotheek"
-
-msgid "Extension Problem"
-msgstr "Probleem met uitbreiding"
 
 msgid "fade in"
 msgstr "fade in"
@@ -1005,9 +948,6 @@ msgstr "Een laag naar voren"
 
 msgid "ghost"
 msgstr "geest"
-
-msgid "Go to My Stuff"
-msgstr "Ga naar Mijn projecten"
 
 msgid "Group"
 msgstr "Groeperen"
@@ -1098,13 +1038,6 @@ msgstr "Bibliotheek"
 msgid "light"
 msgstr "licht"
 
-# 83%
-msgid "lights"
-msgstr "lichten"
-
-msgid "limit reached"
-msgstr "limiet bereikt"
-
 msgid "Line"
 msgstr "Lijn"
 
@@ -1179,15 +1112,6 @@ msgstr "mozaïek"
 msgid "motion"
 msgstr "beweging"
 
-msgid "motor"
-msgstr "motor"
-
-msgid "motor A"
-msgstr "motor A"
-
-msgid "motor B"
-msgstr "motor B"
-
 msgid "mouse-pointer"
 msgstr "muisaanwijzer"
 
@@ -1202,9 +1126,6 @@ msgstr "Speeldoos"
 
 msgid "Music Loops"
 msgstr "Muziekherhalingen"
-
-msgid "My Stuff"
-msgstr "Mijn projecten"
 
 msgid "myself"
 msgstr "mijzelf"
@@ -1260,9 +1181,6 @@ msgstr "Geen beweegblokken"
 
 msgid "normal readout"
 msgstr "normaal uitlezen"
-
-msgid "not ="
-msgstr "niet ="
 
 msgid "Not saved; network or server problem."
 msgstr "Niet opgeslagen; netwerk- of serverprobleem."
@@ -1364,9 +1282,6 @@ msgstr "plop"
 msgid "previous backdrop"
 msgstr ""
 
-msgid "Profile"
-msgstr "Profiel"
-
 msgid "Project did not load."
 msgstr "Project werd niet geladen."
 
@@ -1409,9 +1324,6 @@ msgstr "Remix"
 msgid "Remixing..."
 msgstr "Remixen..."
 
-msgid "Remove extension blocks"
-msgstr "Verwijder uitbreidingsblokken"
-
 msgid "Rename"
 msgstr "Andere naam"
 
@@ -1420,9 +1332,6 @@ msgstr "geef variabele andere naam"
 
 msgid "Replace existing project"
 msgstr ""
-
-msgid "requires sign in"
-msgstr "moet hiervoor ingelogd zijn"
 
 msgid "Reshape"
 msgstr "Opnieuw vormen"
@@ -1469,9 +1378,6 @@ msgstr ""
 msgid "Save as"
 msgstr ""
 
-msgid "Save as a copy"
-msgstr "Opslaan als"
-
 msgid "Save now"
 msgstr "Nu opslaan"
 
@@ -1505,22 +1411,11 @@ msgstr "Script"
 msgid "Scripts"
 msgstr "Scripts"
 
-# 87%
-msgid "Scripts:"
-msgstr "Scripts:"
-
 msgid "second"
 msgstr "seconde"
 
 msgid "See project page"
 msgstr "Bekijk project pagina"
-
-msgid ""
-"See the Tips window (on the right) to install the plug-in and get the "
-"extension working."
-msgstr ""
-"Bekijk het Tips-scherm (rechts) om de plug-in te installeren en om de "
-"uitbreiding te starten."
 
 msgid "Select"
 msgstr "Selecteer"
@@ -1578,9 +1473,6 @@ msgstr "Log in"
 
 msgid "Sign in to save"
 msgstr "Log in om op te slaan"
-
-msgid "Sign out"
-msgstr "Afmelden"
 
 msgid "silence"
 msgstr "stilte"
@@ -1651,9 +1543,6 @@ msgstr "Geselecteerd speelveld:"
 
 msgid "Steel Drum"
 msgstr "Steeldrum"
-
-msgid "stored on server"
-msgstr "opgeslagen op server"
 
 msgid "Synth Lead"
 msgstr "Synth Lead"
@@ -1883,24 +1772,6 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Informatie over cloud-variabelen</b><br>&nbsp;<br>Op dit moment worden "
-"alleen nummers ondersteund.<br>Chatruimtes zijn niet toegestaan en worden "
-"verwijderd.<br>Voor meer info, <a href= target=>zie cloud-data FAQ!</a>"
-
-msgid "Click  to try again or  to save"
-msgstr "Klik  om opnieuw te proberen of  bewaar"
-
-msgid "Eraser width:"
-msgstr "Gum-breedte:"
-
-msgid "Line width:"
-msgstr "Lijn-breedte:"
-
 # Offline editor only
 msgid "All Tips"
 msgstr ""
@@ -2003,6 +1874,40 @@ msgstr ""
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "Nederlands"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list bevat %s"
+
+#~ msgid "when Stage clicked"
+#~ msgstr "wanneer op het speelveld wordt geklikt"
+
+# 89%
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "zet motorrichting op %m.motorDirection"
+
+# 77%
+#~ msgid "set motor power %n"
+#~ msgstr "zet motorvermogen op %n"
+
+#~ msgid "turn motor off"
+#~ msgstr "zet motor uit"
+
+#~ msgid "turn motor on"
+#~ msgstr "zet motor aan"
+
+# 80%
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "zet motor %n sec. aan"
+
+#~ msgid "when distance < %n"
+#~ msgstr "wanneer afstand < %n"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "wanneer gekanteld = %n"
+
 # 89%
 # 86%
 #~ msgid "set %m.motor direction to %m.motorDirection"
@@ -2055,6 +1960,105 @@ msgstr ""
 
 #~ msgid "when I am clicked"
 #~ msgstr "wanneer ik word aangeklikt"
+
+#~ msgid "About LEGO WeDo extension..."
+#~ msgstr "Over de LEGO WeDo-uitbreiding..."
+
+#~ msgid "About PicoBoard extension..."
+#~ msgstr "Over de PicoBoard-uitbreiding..."
+
+#~ msgid "Account settings"
+#~ msgstr "Account-instellingen"
+
+#~ msgid "all motors"
+#~ msgstr "alle motors"
+
+#~ msgid "Cloud"
+#~ msgstr "Cloud"
+
+#~ msgid "Costumes:"
+#~ msgstr "Uiterlijken:"
+
+#~ msgid "everything"
+#~ msgstr "alles"
+
+#~ msgid "Extension Library"
+#~ msgstr "Uitbreidingsbibliotheek"
+
+#~ msgid "Extension Problem"
+#~ msgstr "Probleem met uitbreiding"
+
+#~ msgid "Go to My Stuff"
+#~ msgstr "Ga naar Mijn projecten"
+
+# 83%
+#~ msgid "lights"
+#~ msgstr "lichten"
+
+#~ msgid "limit reached"
+#~ msgstr "limiet bereikt"
+
+#~ msgid "motor"
+#~ msgstr "motor"
+
+#~ msgid "motor A"
+#~ msgstr "motor A"
+
+#~ msgid "motor B"
+#~ msgstr "motor B"
+
+#~ msgid "My Stuff"
+#~ msgstr "Mijn projecten"
+
+#~ msgid "not ="
+#~ msgstr "niet ="
+
+#~ msgid "Profile"
+#~ msgstr "Profiel"
+
+#~ msgid "Remove extension blocks"
+#~ msgstr "Verwijder uitbreidingsblokken"
+
+#~ msgid "requires sign in"
+#~ msgstr "moet hiervoor ingelogd zijn"
+
+#~ msgid "Save as a copy"
+#~ msgstr "Opslaan als"
+
+# 87%
+#~ msgid "Scripts:"
+#~ msgstr "Scripts:"
+
+#~ msgid ""
+#~ "See the Tips window (on the right) to install the plug-in and get the "
+#~ "extension working."
+#~ msgstr ""
+#~ "Bekijk het Tips-scherm (rechts) om de plug-in te installeren en om de "
+#~ "uitbreiding te starten."
+
+#~ msgid "Sign out"
+#~ msgstr "Afmelden"
+
+#~ msgid "stored on server"
+#~ msgstr "opgeslagen op server"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Informatie over cloud-variabelen</b><br>&nbsp;<br>Op dit moment worden "
+#~ "alleen nummers ondersteund.<br>Chatruimtes zijn niet toegestaan en worden "
+#~ "verwijderd.<br>Voor meer info, <a href= target=>zie cloud-data FAQ!</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Klik  om opnieuw te proberen of  bewaar"
+
+#~ msgid "Eraser width:"
+#~ msgstr "Gum-breedte:"
+
+#~ msgid "Line width:"
+#~ msgstr "Lijn-breedte:"
 
 #~ msgid "cleanup"
 #~ msgstr "opruimen"

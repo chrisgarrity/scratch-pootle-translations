@@ -38,17 +38,17 @@ msgstr "发现新版本"
 msgid "About"
 msgstr "关于"
 
-msgid "About LEGO WeDo extension..."
-msgstr "关于乐高WeDo扩展..."
+#~ msgid "About LEGO WeDo extension..."
+#~ msgstr "关于乐高WeDo扩展..."
 
-msgid "About PicoBoard extension..."
-msgstr "关于PicBoard扩展..."
+#~ msgid "About PicoBoard extension..."
+#~ msgstr "关于PicBoard扩展..."
 
 msgid "abs"
 msgstr "绝对值"
 
-msgid "Account settings"
-msgstr "帐号设置"
+#~ msgid "Account settings"
+#~ msgstr "帐号设置"
 
 msgid "acos"
 msgstr "acos"
@@ -66,8 +66,8 @@ msgstr "添加一个布尔参数："
 msgid "add comment"
 msgstr "添加注释"
 
-msgid "add comment here..."
-msgstr "在此处添加注释…"
+#~ msgid "add comment here..."
+#~ msgstr "在此处添加注释…"
 
 msgid "Add label text:"
 msgstr "添加文本标签："
@@ -89,8 +89,8 @@ msgstr "全部"
 msgid "all around"
 msgstr "任意"
 
-msgid "all motors"
-msgstr "所有马达"
+#~ msgid "all motors"
+#~ msgstr "所有马达"
 
 msgid "Animal"
 msgstr "动物"
@@ -208,8 +208,8 @@ msgstr "可以在播放器中拖动:"
 msgid "Cancel"
 msgstr "取消"
 
-msgid "Cannot Add"
-msgstr "无法添加"
+#~ msgid "Cannot Add"
+#~ msgstr "无法添加"
 
 msgid "Cannot Delete"
 msgstr "不能删除"
@@ -259,8 +259,8 @@ msgstr "单簧管"
 msgid "Claves"
 msgstr "古钢琴"
 
-msgid "clean up"
-msgstr "清理"
+#~ msgid "clean up"
+#~ msgstr "清理"
 
 msgid "Clear"
 msgstr "清除"
@@ -277,14 +277,14 @@ msgstr "关闭"
 msgid "Closed Hi-Hat"
 msgstr "闭合双面钹"
 
-msgid "Cloud"
-msgstr "云"
+#~ msgid "Cloud"
+#~ msgstr "云"
 
 msgid "Cloud data"
 msgstr "云数据"
 
-msgid "Cloud variable (stored on server)"
-msgstr "云变量（存储在服务器上）"
+#~ msgid "Cloud variable (stored on server)"
+#~ msgstr "云变量（存储在服务器上）"
 
 msgid "color"
 msgstr "颜色"
@@ -345,8 +345,8 @@ msgstr "造型数 > 1"
 
 # 75%
 # 88%
-msgid "Costumes:"
-msgstr "造型："
+#~ msgid "Costumes:"
+#~ msgstr "造型："
 
 msgid "Could not retrieve new application from server."
 msgstr "无法从服务器获取新的应用程序"
@@ -410,8 +410,8 @@ msgstr "下载"
 msgid "Download to your computer"
 msgstr "下载到您的计算机"
 
-msgid "Downloading new version"
-msgstr "正在下载新版本"
+#~ msgid "Downloading new version"
+#~ msgstr "正在下载新版本"
 
 msgid "duplicate"
 msgstr "复制"
@@ -449,14 +449,14 @@ msgstr "电子声"
 msgid "Ellipse"
 msgstr "椭圆"
 
-msgid "empty"
-msgstr "空"
+#~ msgid "empty"
+#~ msgstr "空"
 
 msgid "Erase"
 msgstr "擦除"
 
-msgid "Erase all"
-msgstr "全部清除"
+#~ msgid "Erase all"
+#~ msgstr "全部清除"
 
 # 92%
 msgid "Eraser width"
@@ -465,17 +465,17 @@ msgstr "橡皮擦宽度"
 msgid "Error!"
 msgstr "错误！"
 
-msgid "everything"
-msgstr "所有内容"
+#~ msgid "everything"
+#~ msgstr "所有内容"
 
 msgid "export"
 msgstr "导出"
 
-msgid "Extension Library"
-msgstr "扩展库"
+#~ msgid "Extension Library"
+#~ msgstr "扩展库"
 
-msgid "Extension Problem"
-msgstr "有关扩展的问题"
+#~ msgid "Extension Problem"
+#~ msgstr "有关扩展的问题"
 
 msgid "fade in"
 msgstr "淡入"
@@ -483,8 +483,8 @@ msgstr "淡入"
 msgid "fade out"
 msgstr "淡出"
 
-msgid "false"
-msgstr "假"
+#~ msgid "false"
+#~ msgstr "假"
 
 msgid "Fantasy"
 msgstr "奇幻"
@@ -531,8 +531,8 @@ msgstr "上移一层"
 msgid "ghost"
 msgstr "虚像"
 
-msgid "Go to My Stuff"
-msgstr "转到个人项目中心"
+#~ msgid "Go to My Stuff"
+#~ msgstr "转到个人项目中心"
 
 msgid "Group"
 msgstr "分组"
@@ -555,14 +555,14 @@ msgstr "硬件"
 msgid "help"
 msgstr "帮助"
 
-msgid "Hello!"
-msgstr "你好"
+#~ msgid "Hello!"
+#~ msgstr "你好"
 
-msgid "Hmm..."
-msgstr "嗯…"
+#~ msgid "Hmm..."
+#~ msgstr "嗯…"
 
-msgid "hello"
-msgstr "你好！"
+#~ msgid "hello"
+#~ msgstr "你好！"
 
 msgid "hide"
 msgstr "隐藏"
@@ -626,11 +626,11 @@ msgid "light"
 msgstr "光线"
 
 # 83%
-msgid "lights"
-msgstr "照明"
+#~ msgid "lights"
+#~ msgstr "照明"
 
-msgid "limit reached"
-msgstr "已达到限制"
+#~ msgid "limit reached"
+#~ msgstr "已达到限制"
 
 msgid "Line"
 msgstr "线段"
@@ -709,14 +709,14 @@ msgstr "马赛克"
 msgid "motion"
 msgstr "动作"
 
-msgid "motor"
-msgstr "马达"
+#~ msgid "motor"
+#~ msgstr "马达"
 
-msgid "motor A"
-msgstr "马达A"
+#~ msgid "motor A"
+#~ msgstr "马达A"
 
-msgid "motor B"
-msgstr "马达B"
+#~ msgid "motor B"
+#~ msgstr "马达B"
 
 msgid "mouse-pointer"
 msgstr "鼠标指针"
@@ -733,8 +733,8 @@ msgstr "音乐盒"
 msgid "Music Loops"
 msgstr "循环音乐"
 
-msgid "My Stuff"
-msgstr "我的项目中心"
+#~ msgid "My Stuff"
+#~ msgstr "我的项目中心"
 
 msgid "myself"
 msgstr "自己"
@@ -796,8 +796,8 @@ msgstr "无动作模块"
 msgid "normal readout"
 msgstr "正常显示"
 
-msgid "not ="
-msgstr "不等于"
+#~ msgid "not ="
+#~ msgstr "不等于"
 
 msgid "Not saved; network or server problem."
 msgstr "保存失败，可能是网络或服务器出了问题。"
@@ -900,8 +900,8 @@ msgstr "流行音乐"
 msgid "previous backdrop"
 msgstr "上一个背景"
 
-msgid "Profile"
-msgstr "资料"
+#~ msgid "Profile"
+#~ msgstr "资料"
 
 msgid "Project did not load."
 msgstr "项目未能加载。"
@@ -946,8 +946,8 @@ msgstr "再创作"
 msgid "Remixing..."
 msgstr "再创作中..."
 
-msgid "Remove extension blocks"
-msgstr "删除扩展模块"
+#~ msgid "Remove extension blocks"
+#~ msgstr "删除扩展模块"
 
 msgid "Rename"
 msgstr "重命名"
@@ -955,11 +955,11 @@ msgstr "重命名"
 msgid "rename variable"
 msgstr "重命名变量"
 
-msgid "Replace existing project"
-msgstr "替换现存项目"
+#~ msgid "Replace existing project"
+#~ msgstr "替换现存项目"
 
-msgid "requires sign in"
-msgstr "需要登录"
+#~ msgid "requires sign in"
+#~ msgstr "需要登录"
 
 msgid "Reshape"
 msgstr "变形"
@@ -1006,8 +1006,8 @@ msgstr "保存该项目的一个拷贝并添加你自己的创意"
 msgid "Save as"
 msgstr "另存为"
 
-msgid "Save as a copy"
-msgstr "保存副本"
+#~ msgid "Save as a copy"
+#~ msgstr "保存副本"
 
 msgid "Save now"
 msgstr "立即保存"
@@ -1033,8 +1033,8 @@ msgstr "萨克斯管"
 msgid "Scratch Updater"
 msgstr "Scratch更新程序"
 
-msgid "Scratch 2.0 Offline Editor"
-msgstr "Scratch2.0离线编辑器"
+#~ msgid "Scratch 2.0 Offline Editor"
+#~ msgstr "Scratch2.0离线编辑器"
 
 # 85%
 msgid "Script"
@@ -1044,8 +1044,8 @@ msgid "Scripts"
 msgstr "脚本"
 
 # 87%
-msgid "Scripts:"
-msgstr "脚本："
+#~ msgid "Scripts:"
+#~ msgstr "脚本："
 
 msgid "second"
 msgstr "秒"
@@ -1053,10 +1053,10 @@ msgstr "秒"
 msgid "See project page"
 msgstr "见项目页"
 
-msgid ""
-"See the Tips window (on the right) to install the plug-in and get the "
-"extension working."
-msgstr "参考贴士窗口（右侧）安装扩展并启用扩展"
+#~ msgid ""
+#~ "See the Tips window (on the right) to install the plug-in and get the "
+#~ "extension working."
+#~ msgstr "参考贴士窗口（右侧）安装扩展并启用扩展"
 
 msgid "Select"
 msgstr "选择"
@@ -1086,8 +1086,8 @@ msgstr "分享"
 msgid "Share to website"
 msgstr "分享到网站"
 
-msgid "Share to Scratch website"
-msgstr "分享到Scratch网站"
+#~ msgid "Share to Scratch website"
+#~ msgstr "分享到Scratch网站"
 
 msgid "shared"
 msgstr "共享"
@@ -1119,8 +1119,8 @@ msgstr "登录"
 msgid "Sign in to save"
 msgstr "登录后再保存"
 
-msgid "Sign out"
-msgstr "退出系统"
+#~ msgid "Sign out"
+#~ msgstr "退出系统"
 
 msgid "silence"
 msgstr "无声"
@@ -1204,8 +1204,8 @@ msgstr "选中的舞台"
 msgid "Steel Drum"
 msgstr "钢鼓"
 
-msgid "stored on server"
-msgstr "保存在服务器上"
+#~ msgid "stored on server"
+#~ msgstr "保存在服务器上"
 
 msgid "Synth Lead"
 msgstr "合成领奏"
@@ -1228,13 +1228,13 @@ msgstr "文本"
 msgid "that way"
 msgstr "逆时针"
 
-msgid "The name is already in use."
-msgstr "此名称已使用。"
+#~ msgid "The name is already in use."
+#~ msgstr "此名称已使用。"
 
-msgid ""
-"The project failed to load and Scratch Team has been notified. Press OK to "
-"leave this page."
-msgstr "加载项目失败，Scratch团队已经知晓。点击OK离开该页面。"
+#~ msgid ""
+#~ "The project failed to load and Scratch Team has been notified. Press OK to "
+#~ "leave this page."
+#~ msgstr "加载项目失败，Scratch团队已经知晓。点击OK离开该页面。"
 
 msgid "Theme"
 msgstr "主题"
@@ -1242,8 +1242,8 @@ msgstr "主题"
 msgid "Things"
 msgstr "物品"
 
-msgid "thing"
-msgstr "对象"
+#~ msgid "thing"
+#~ msgstr "对象"
 
 msgid "This is the current version."
 msgstr "这是最新版本"
@@ -1288,8 +1288,8 @@ msgstr "三角形"
 msgid "Trombone"
 msgstr "长号"
 
-msgid "true"
-msgstr "真"
+#~ msgid "true"
+#~ msgstr "真"
 
 # 90%
 msgid "Turbo mode"
@@ -1405,8 +1405,8 @@ msgstr "您想保存吗？请点击再创作"
 msgid "Which column do you want to import"
 msgstr "想导入哪一列"
 
-msgid "What's your name?"
-msgstr "您的姓名？"
+#~ msgid "What's your name?"
+#~ msgstr "您的姓名？"
 
 msgid "whirl"
 msgstr "旋转"
@@ -1417,8 +1417,8 @@ msgstr "木块"
 msgid "Wooden Flute"
 msgstr "木笛"
 
-msgid "world"
-msgstr "世界"
+#~ msgid "world"
+#~ msgstr "世界"
 
 msgid "x position"
 msgstr "x坐标"
@@ -1440,22 +1440,22 @@ msgstr "您的Scratch姓名"
 msgid "Your Scratch name is required"
 msgstr "需要填写你的Scratch姓名"
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>关于云变量的说明</b><br>&nbsp;<br>目前，只支持数值类型的数据<br>不允许使用云变量来创建聊天室，否则将被删除<br>更多信息请参"
-"考关于云数据的常见问题FAQ</a>"
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>关于云变量的说明</b><br>&nbsp;<br>目前，只支持数值类型的数据<br>不允许使用云变量来创建聊天室，否则将被删除<br>更多信息请参"
+#~ "考关于云数据的常见问题FAQ</a>"
 
-msgid "Click  to try again or  to save"
-msgstr "点击  重新尝试或  保存"
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "点击  重新尝试或  保存"
 
-msgid "Eraser width:"
-msgstr "橡皮擦宽度:"
+#~ msgid "Eraser width:"
+#~ msgstr "橡皮擦宽度:"
 
-msgid "Line width:"
-msgstr "线宽："
+#~ msgid "Line width:"
+#~ msgstr "线宽："
 
 # Offline editor only
 msgid "All Tips"
@@ -1468,12 +1468,14 @@ msgid ""
 msgstr ""
 
 # Offline editor only
+#, fuzzy
 msgid "Could not retrieve update location from server."
-msgstr ""
+msgstr "无法从服务器获取新的应用程序"
 
 # Offline editor only
+#, fuzzy
 msgid "Could not retrieve version information from server."
-msgstr ""
+msgstr "无法从服务器获取新的应用程序"
 
 # Offline editor only
 msgid "Could not write file:"

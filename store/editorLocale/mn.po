@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-01-13 14:10+0000\n"
+"PO-Revision-Date: 2015-01-13 14:09+0000\n"
 "Last-Translator: mungunbayar <mungunbayar@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: mn\n"
@@ -12,11 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1421158222.000000\n"
-
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Монгол хэл"
+"X-POOTLE-MTIME: 1421158164.000000\n"
 
 msgid "%b and %b"
 msgstr "%b ба %b"
@@ -26,9 +22,6 @@ msgstr "%b буюу %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute -н %m.spriteOrStage"
-
-msgid "%m.list contains %s"
-msgstr "%s нь %m.list -г агуулдаг"
 
 msgid "%m.mathOp of %n"
 msgstr "%n-н %m.mathOp"
@@ -413,11 +406,13 @@ msgstr ""
 msgid "turn @turnRight %n degrees"
 msgstr ""
 
+#, fuzzy
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "Хөдөлгүүрийг унтраа"
 
+#, fuzzy
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "Хөдөлгүүрийг асаа"
 
 # 80%
 # 89%
@@ -498,12 +493,6 @@ msgstr "%m.motorDirection хөдөлгүүрийн чиг"
 msgid "set motor power %n"
 msgstr "хөдөлгүүр %n чадалтай"
 
-msgid "turn motor off"
-msgstr "Хөдөлгүүрийг унтраа"
-
-msgid "turn motor on"
-msgstr "Хөдөлгүүрийг асаа"
-
 # 80%
 #, fuzzy
 msgid "turn motor on for %n secs"
@@ -514,6 +503,11 @@ msgstr ""
 
 msgid "when tilt = %n"
 msgstr ""
+
+#: commands-online.txt:7 commands-offline.txt:7
+#, fuzzy
+msgid "%m.list contains %s?"
+msgstr "%s нь %m.list -г агуулдаг"
 
 msgid "10 ^"
 msgstr ""
@@ -537,17 +531,8 @@ msgstr "Cкрэчийн шинэ хувилбар бэлэн болсон бай
 msgid "About"
 msgstr "Тухай"
 
-msgid "About LEGO WeDo extension..."
-msgstr "LEGO WeDo өргөтгөлийн тухай..."
-
-msgid "About PicoBoard extension..."
-msgstr "PicoBoard өргөтгөлийн тухай..."
-
 msgid "abs"
 msgstr "abs"
-
-msgid "Account settings"
-msgstr "Хэрэглэгчийн тохиргоо"
 
 msgid "acos"
 msgstr ""
@@ -563,9 +548,6 @@ msgstr ""
 
 msgid "add comment"
 msgstr "Санал, сэтгэгдэл, тайлбараа нэмэрлэх"
-
-msgid "add comment here..."
-msgstr "Санал, сэтгэгдэл, тайлбараа энд бичих"
 
 msgid "Add label text:"
 msgstr ""
@@ -2001,6 +1983,19 @@ msgstr ""
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "Монгол хэл"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%s нь %m.list -г агуулдаг"
+
+#~ msgid "turn motor off"
+#~ msgstr "Хөдөлгүүрийг унтраа"
+
+#~ msgid "turn motor on"
+#~ msgstr "Хөдөлгүүрийг асаа"
+
 # 89%
 # 86%
 #, fuzzy
@@ -2030,6 +2025,18 @@ msgstr ""
 
 #~ msgid "play note %n for %n beats"
 #~ msgstr "%n хэмээр %d.note нот тогло"
+
+#~ msgid "About LEGO WeDo extension..."
+#~ msgstr "LEGO WeDo өргөтгөлийн тухай..."
+
+#~ msgid "About PicoBoard extension..."
+#~ msgstr "PicoBoard өргөтгөлийн тухай..."
+
+#~ msgid "Account settings"
+#~ msgstr "Хэрэглэгчийн тохиргоо"
+
+#~ msgid "add comment here..."
+#~ msgstr "Санал, сэтгэгдэл, тайлбараа энд бичих"
 
 # 90%
 #, fuzzy

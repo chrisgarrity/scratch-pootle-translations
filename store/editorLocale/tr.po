@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-03-31 22:26+0000\n"
-"Last-Translator: Suha <suhaaktan@gmail.com>\n"
+"PO-Revision-Date: 2015-04-15 15:24+0000\n"
+"Last-Translator: Natalie <nrusk@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
@@ -12,11 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1427840777.000000\n"
-
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Türkçe"
+"X-POOTLE-MTIME: 1429111464.000000\n"
 
 msgid "%b and %b"
 msgstr "%b ve %b"
@@ -26,9 +22,6 @@ msgstr "%b veya %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute, %m.spriteOrStage 'in"
-
-msgid "%m.list contains %s"
-msgstr "%m.list listesinde %s var (mı?)"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp %n"
@@ -471,9 +464,6 @@ msgstr "%m.broadcast haberi gelince"
 msgid "when I start as a clone"
 msgstr "ikiz olarak başladığımda"
 
-msgid "when Stage clicked"
-msgstr "Sahne tıklandığında"
-
 msgid "when this sprite clicked"
 msgstr "bu kukla tıklanınca"
 
@@ -486,29 +476,9 @@ msgstr "x konumu"
 msgid "y position"
 msgstr "y konumu"
 
-# 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "motor yönünü %m.motorDirection yap"
-
-# 77%
-msgid "set motor power %n"
-msgstr "motor gücünü %n yap"
-
-msgid "turn motor off"
-msgstr "motoru kapat"
-
-msgid "turn motor on"
-msgstr "motorun işlevini başlat"
-
-# 80%
-msgid "turn motor on for %n secs"
-msgstr "motorun işlevini %n saniye boyunca başlat"
-
-msgid "when distance < %n"
-msgstr "mesafe %n'den küçük olduğunda"
-
-msgid "when tilt = %n"
-msgstr "eğiklik %n olunca"
+#: commands-online.txt:7 commands-offline.txt:7
+msgid "%m.list contains %s?"
+msgstr "%m.list listesinde %s var (mı?)"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -536,17 +506,8 @@ msgstr "Scratch'ın yeni bir sürümü çıktı"
 msgid "About"
 msgstr "Hakkında"
 
-msgid "About LEGO WeDo extension..."
-msgstr "LEGO WeDo uzantısı hakkında..."
-
-msgid "About PicoBoard extension..."
-msgstr "PicoBoard uzantısı hakkında..."
-
 msgid "abs"
 msgstr "mutlak değer"
-
-msgid "Account settings"
-msgstr "Hesap ayarları"
 
 msgid "acos"
 msgstr "acos"
@@ -563,9 +524,6 @@ msgstr "Mantıksal girdi ekle:"
 
 msgid "add comment"
 msgstr "yorum ekle"
-
-msgid "add comment here..."
-msgstr "buraya yorum ekle..."
 
 msgid "Add label text:"
 msgstr "Etiket yazısı ekle:"
@@ -586,9 +544,6 @@ msgstr "Tümü"
 
 msgid "all around"
 msgstr "her yöne dönebilsin"
-
-msgid "all motors"
-msgstr "tüm motorların"
 
 msgid "Animal"
 msgstr "Hayvan"
@@ -703,9 +658,6 @@ msgstr "fareyle sürüklenebilir:"
 msgid "Cancel"
 msgstr "İptal"
 
-msgid "Cannot Add"
-msgstr "Ekleyemem"
-
 msgid "Cannot Delete"
 msgstr "Silemem"
 
@@ -754,9 +706,6 @@ msgstr "Klarnet"
 msgid "Claves"
 msgstr "Tahta çubuk"
 
-msgid "clean up"
-msgstr "tertiple"
-
 msgid "Clear"
 msgstr "Temizle"
 
@@ -774,14 +723,8 @@ msgstr "Kapat"
 msgid "Closed Hi-Hat"
 msgstr "Kapalı Zil"
 
-msgid "Cloud"
-msgstr "Bulut"
-
 msgid "Cloud data"
 msgstr "Bulut veri"
-
-msgid "Cloud variable (stored on server)"
-msgstr "Bulut değişkeni (sunucuda saklanır)"
 
 msgid "color"
 msgstr "renk"
@@ -837,9 +780,6 @@ msgstr "Kılıklar"
 
 msgid "Costumes > 1"
 msgstr "Kılıklar > 1"
-
-msgid "Costumes:"
-msgstr "Kılıklar:"
 
 msgid "Could not retrieve new application from server."
 msgstr "Sunucudan yeni uygulama alamadım."
@@ -901,9 +841,6 @@ msgstr "İndir"
 msgid "Download to your computer"
 msgstr "Bilgisayarıma indir"
 
-msgid "Downloading new version"
-msgstr "Yeni sürümü indiriyorum"
-
 msgid "duplicate"
 msgstr "kopyasını çıkart"
 
@@ -940,14 +877,8 @@ msgstr "Elektronik"
 msgid "Ellipse"
 msgstr "Elips"
 
-msgid "empty"
-msgstr "boş"
-
 msgid "Erase"
 msgstr "Sil"
-
-msgid "Erase all"
-msgstr "Tümünü sil"
 
 # 92%
 msgid "Eraser width"
@@ -956,38 +887,14 @@ msgstr "Silgi eni"
 msgid "Error!"
 msgstr "Hata!"
 
-# Lego WeDo arayüzünde geçiyor
-# birilkte düşünülmesi gereken diğer tümceler şöyle:
-# --------
-# motorun
-# A motorunun
-# B motorunun
-# ışıkların
-# her aygıtın
-# ---------
-# Taşlarda şöyle görünüyor:
-# >her aygıtın işlevini başlat
-# >her aygıtın gücünü 100 yap
-msgid "everything"
-msgstr "her aygıtın"
-
 msgid "export"
 msgstr "dönüştür kaydet"
-
-msgid "Extension Library"
-msgstr "Uzantı Kütüphanesi"
-
-msgid "Extension Problem"
-msgstr "Uzantı Problemi"
 
 msgid "fade in"
 msgstr "giderek yükselt"
 
 msgid "fade out"
 msgstr "giderek alçalt"
-
-msgid "false"
-msgstr "yanlış"
 
 msgid "Fantasy"
 msgstr "Fantezi"
@@ -1034,9 +941,6 @@ msgstr "Bir katman üste çıkart"
 msgid "ghost"
 msgstr "hayalet"
 
-msgid "Go to My Stuff"
-msgstr "Projelerime git"
-
 msgid "Group"
 msgstr "Grup"
 
@@ -1057,15 +961,6 @@ msgstr "Donanım"
 
 msgid "help"
 msgstr "yardım"
-
-msgid "Hello!"
-msgstr "Merhaba!"
-
-msgid "Hmm..."
-msgstr "Hmm..."
-
-msgid "hello"
-msgstr "merhaba"
 
 msgid "High C"
 msgstr "Yüksek C"
@@ -1124,13 +1019,6 @@ msgstr "Kütüphane"
 
 msgid "light"
 msgstr "ışık"
-
-# 83%
-msgid "lights"
-msgstr "ışıkların"
-
-msgid "limit reached"
-msgstr "limite ulaşıldı"
 
 msgid "Line"
 msgstr "Çizgi"
@@ -1207,15 +1095,6 @@ msgstr "mozaik"
 msgid "motion"
 msgstr "hareketi"
 
-msgid "motor"
-msgstr "motorun"
-
-msgid "motor A"
-msgstr "A motorunun"
-
-msgid "motor B"
-msgstr "B motorunun"
-
 msgid "mouse-pointer"
 msgstr "fare oku"
 
@@ -1230,9 +1109,6 @@ msgstr "Müzik Kutusu"
 
 msgid "Music Loops"
 msgstr "Müzik Döngüleri"
-
-msgid "My Stuff"
-msgstr "Benim İşlerim"
 
 msgid "myself"
 msgstr "kendim"
@@ -1290,9 +1166,6 @@ msgstr "Hareket taşı yok"
 
 msgid "normal readout"
 msgstr "normal görünüm"
-
-msgid "not ="
-msgstr "= değil"
 
 msgid "Not saved; network or server problem."
 msgstr "Kaydedilmedi; ağ veya sunucuda sorun var."
@@ -1394,9 +1267,6 @@ msgstr "pop"
 msgid "previous backdrop"
 msgstr "önceki dekor"
 
-msgid "Profile"
-msgstr "Profil"
-
 msgid "Project did not load."
 msgstr "Proje yüklenmedi."
 
@@ -1440,20 +1310,11 @@ msgstr "Katkı Yap"
 msgid "Remixing..."
 msgstr "Ekliyorum..."
 
-msgid "Remove extension blocks"
-msgstr "Uzantı taşlarını kaldır"
-
 msgid "Rename"
 msgstr "Yeniden adlandır"
 
 msgid "rename variable"
 msgstr "değişkeni yeniden adlandır"
-
-msgid "Replace existing project"
-msgstr "Mevcut projenin üstüne yaz"
-
-msgid "requires sign in"
-msgstr "giriş yapman gerek"
 
 msgid "Reshape"
 msgstr "Şekli değiştir"
@@ -1500,9 +1361,6 @@ msgstr "Bu projenin bir kopyasını kaydet ve kendi fikirlerini ekle."
 msgid "Save as"
 msgstr "Farklı kaydet"
 
-msgid "Save as a copy"
-msgstr "Kopyasını kaydet"
-
 msgid "Save now"
 msgstr "Şimdi kaydet"
 
@@ -1527,9 +1385,6 @@ msgstr "Saksafon"
 msgid "Scratch Updater"
 msgstr "Scratch Güncelleyici"
 
-msgid "Scratch 2.0 Offline Editor"
-msgstr "Scratch 2.0 Ağ-dışı Editörü"
-
 # 85%
 msgid "Script"
 msgstr "Komutlar"
@@ -1537,22 +1392,11 @@ msgstr "Komutlar"
 msgid "Scripts"
 msgstr "Diziler"
 
-# 87%
-msgid "Scripts:"
-msgstr "Komutlar:"
-
 msgid "second"
 msgstr "saniye"
 
 msgid "See project page"
 msgstr "Proje sayfasına bak"
-
-msgid ""
-"See the Tips window (on the right) to install the plug-in and get the "
-"extension working."
-msgstr ""
-"Uzantıyı yüklemek ve çalıştırmak için (sağ taraftaki) ipuçları penceresine "
-"gözat."
 
 msgid "Select"
 msgstr "Seç"
@@ -1582,9 +1426,6 @@ msgstr "Paylaş"
 msgid "Share to website"
 msgstr "Web sitesinde paylaş"
 
-msgid "Share to Scratch website"
-msgstr "Scratch web sitesinde paylaş"
-
 msgid "shared"
 msgstr "paylaştın"
 
@@ -1611,9 +1452,6 @@ msgstr "Giriş yap"
 
 msgid "Sign in to save"
 msgstr "Kaydetmek için giriş yap"
-
-msgid "Sign out"
-msgstr "Çıkış"
 
 msgid "silence"
 msgstr "sessizlik"
@@ -1688,9 +1526,6 @@ msgstr "Sahne seçildi:"
 msgid "Steel Drum"
 msgstr "Çelik Davul"
 
-msgid "stored on server"
-msgstr "sunucuda kayıtlı"
-
 msgid "Synth Lead"
 msgstr "Synth Lead"
 
@@ -1712,24 +1547,11 @@ msgstr "Yazı"
 msgid "that way"
 msgstr "diğer tarafa"
 
-msgid "The name is already in use."
-msgstr "Bu isimde biri var."
-
-msgid ""
-"The project failed to load and Scratch Team has been notified. Press OK to "
-"leave this page."
-msgstr ""
-"Proje yüklenirken çuvalladık, teknik ekibe haber gitti. Bu sayfadan çıkmak "
-"için Tamam'a bas."
-
 msgid "Theme"
 msgstr "Tema"
 
 msgid "Things"
 msgstr "Muhtelif"
-
-msgid "thing"
-msgstr "şey"
 
 msgid "This is the current version."
 msgstr "Bu güncel sürümdür."
@@ -1776,9 +1598,6 @@ msgstr "Üçgen"
 
 msgid "Trombone"
 msgstr "Trombon"
-
-msgid "true"
-msgstr "doğru"
 
 # 90%
 msgid "Turbo mode"
@@ -1891,9 +1710,6 @@ msgstr "Kaydetmek istersen Katkı Yap'a tıkla"
 msgid "Which column do you want to import"
 msgstr "Hangi sütunu içeri aktarmak istiyorsun"
 
-msgid "What's your name?"
-msgstr "İsmin ne?"
-
 msgid "whirl"
 msgstr "fırılda"
 
@@ -1902,9 +1718,6 @@ msgstr "Tahta Blok"
 
 msgid "Wooden Flute"
 msgstr "Ahşap Flüt"
-
-msgid "world"
-msgstr "dünya"
 
 msgid "year"
 msgstr "yıl"
@@ -1921,25 +1734,6 @@ msgstr "Scratch'daki adın"
 
 msgid "Your Scratch name is required"
 msgstr "Scratch'daki adın gerekli"
-
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Bulut değişkenleri hakkında</b><br>&nbsp;<br>Şimdilik, sadece sayısal "
-"değerler destekleniyor<br>Sohbet odalarına izin yok, ve "
-"kaldırılacaklar<br>Daha fazla bilgi için,<a href= target=>bulut veriler "
-"SSS'sine bakın!</a>"
-
-msgid "Click  to try again or  to save"
-msgstr "Tekrar denemek için  'a tıkla veya kaydetmek için  ."
-
-msgid "Eraser width:"
-msgstr "Silgi genişliği:"
-
-msgid "Line width:"
-msgstr "Çizgi kalınlığı:"
 
 # Offline editor only
 msgid "All Tips"
@@ -2049,6 +1843,40 @@ msgstr ""
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "Türkçe"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list listesinde %s var (mı?)"
+
+#~ msgid "when Stage clicked"
+#~ msgstr "Sahne tıklandığında"
+
+# 89%
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "motor yönünü %m.motorDirection yap"
+
+# 77%
+#~ msgid "set motor power %n"
+#~ msgstr "motor gücünü %n yap"
+
+#~ msgid "turn motor off"
+#~ msgstr "motoru kapat"
+
+#~ msgid "turn motor on"
+#~ msgstr "motorun işlevini başlat"
+
+# 80%
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "motorun işlevini %n saniye boyunca başlat"
+
+#~ msgid "when distance < %n"
+#~ msgstr "mesafe %n'den küçük olduğunda"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "eğiklik %n olunca"
+
 # 89%
 # 86%
 #, fuzzy
@@ -2093,6 +1921,182 @@ msgstr ""
 
 #~ msgid "play note %n for %n beats"
 #~ msgstr "%d.note notasını %n defa çalın"
+
+#~ msgid "About LEGO WeDo extension..."
+#~ msgstr "LEGO WeDo uzantısı hakkında..."
+
+#~ msgid "About PicoBoard extension..."
+#~ msgstr "PicoBoard uzantısı hakkında..."
+
+#~ msgid "Account settings"
+#~ msgstr "Hesap ayarları"
+
+#~ msgid "add comment here..."
+#~ msgstr "buraya yorum ekle..."
+
+#~ msgid "all motors"
+#~ msgstr "tüm motorların"
+
+#~ msgid "Cannot Add"
+#~ msgstr "Ekleyemem"
+
+#~ msgid "clean up"
+#~ msgstr "tertiple"
+
+#~ msgid "Cloud"
+#~ msgstr "Bulut"
+
+#~ msgid "Cloud variable (stored on server)"
+#~ msgstr "Bulut değişkeni (sunucuda saklanır)"
+
+#~ msgid "Costumes:"
+#~ msgstr "Kılıklar:"
+
+#~ msgid "Downloading new version"
+#~ msgstr "Yeni sürümü indiriyorum"
+
+#~ msgid "empty"
+#~ msgstr "boş"
+
+#~ msgid "Erase all"
+#~ msgstr "Tümünü sil"
+
+# Lego WeDo arayüzünde geçiyor
+# birilkte düşünülmesi gereken diğer tümceler şöyle:
+# --------
+# motorun
+# A motorunun
+# B motorunun
+# ışıkların
+# her aygıtın
+# ---------
+# Taşlarda şöyle görünüyor:
+# >her aygıtın işlevini başlat
+# >her aygıtın gücünü 100 yap
+#~ msgid "everything"
+#~ msgstr "her aygıtın"
+
+#~ msgid "Extension Library"
+#~ msgstr "Uzantı Kütüphanesi"
+
+#~ msgid "Extension Problem"
+#~ msgstr "Uzantı Problemi"
+
+#~ msgid "false"
+#~ msgstr "yanlış"
+
+#~ msgid "Go to My Stuff"
+#~ msgstr "Projelerime git"
+
+#~ msgid "Hello!"
+#~ msgstr "Merhaba!"
+
+#~ msgid "Hmm..."
+#~ msgstr "Hmm..."
+
+#~ msgid "hello"
+#~ msgstr "merhaba"
+
+# 83%
+#~ msgid "lights"
+#~ msgstr "ışıkların"
+
+#~ msgid "limit reached"
+#~ msgstr "limite ulaşıldı"
+
+#~ msgid "motor"
+#~ msgstr "motorun"
+
+#~ msgid "motor A"
+#~ msgstr "A motorunun"
+
+#~ msgid "motor B"
+#~ msgstr "B motorunun"
+
+#~ msgid "My Stuff"
+#~ msgstr "Benim İşlerim"
+
+#~ msgid "not ="
+#~ msgstr "= değil"
+
+#~ msgid "Profile"
+#~ msgstr "Profil"
+
+#~ msgid "Remove extension blocks"
+#~ msgstr "Uzantı taşlarını kaldır"
+
+#~ msgid "Replace existing project"
+#~ msgstr "Mevcut projenin üstüne yaz"
+
+#~ msgid "requires sign in"
+#~ msgstr "giriş yapman gerek"
+
+#~ msgid "Save as a copy"
+#~ msgstr "Kopyasını kaydet"
+
+#~ msgid "Scratch 2.0 Offline Editor"
+#~ msgstr "Scratch 2.0 Ağ-dışı Editörü"
+
+# 87%
+#~ msgid "Scripts:"
+#~ msgstr "Komutlar:"
+
+#~ msgid ""
+#~ "See the Tips window (on the right) to install the plug-in and get the "
+#~ "extension working."
+#~ msgstr ""
+#~ "Uzantıyı yüklemek ve çalıştırmak için (sağ taraftaki) ipuçları "
+#~ "penceresine gözat."
+
+#~ msgid "Share to Scratch website"
+#~ msgstr "Scratch web sitesinde paylaş"
+
+#~ msgid "Sign out"
+#~ msgstr "Çıkış"
+
+#~ msgid "stored on server"
+#~ msgstr "sunucuda kayıtlı"
+
+#~ msgid "The name is already in use."
+#~ msgstr "Bu isimde biri var."
+
+#~ msgid ""
+#~ "The project failed to load and Scratch Team has been notified. Press OK "
+#~ "to leave this page."
+#~ msgstr ""
+#~ "Proje yüklenirken çuvalladık, teknik ekibe haber gitti. Bu sayfadan "
+#~ "çıkmak için Tamam'a bas."
+
+#~ msgid "thing"
+#~ msgstr "şey"
+
+#~ msgid "true"
+#~ msgstr "doğru"
+
+#~ msgid "What's your name?"
+#~ msgstr "İsmin ne?"
+
+#~ msgid "world"
+#~ msgstr "dünya"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Bulut değişkenleri hakkında</b><br>&nbsp;<br>Şimdilik, sadece sayısal "
+#~ "değerler destekleniyor<br>Sohbet odalarına izin yok, ve "
+#~ "kaldırılacaklar<br>Daha fazla bilgi için,<a href= target=>bulut veriler "
+#~ "SSS'sine bakın!</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Tekrar denemek için  'a tıkla veya kaydetmek için  ."
+
+#~ msgid "Eraser width:"
+#~ msgstr "Silgi genişliği:"
+
+#~ msgid "Line width:"
+#~ msgstr "Çizgi kalınlığı:"
 
 #~ msgid "cleanup"
 #~ msgstr "temizlik"

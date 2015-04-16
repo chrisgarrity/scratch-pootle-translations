@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-01-03 00:30+0000\n"
+"PO-Revision-Date: 2015-04-14 18:21+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ht\n"
@@ -12,11 +12,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1420245003.000000\n"
+"X-POOTLE-MTIME: 1429035694.000000\n"
 
 # The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Creole"
+#~ msgid "Language-Name"
+#~ msgstr "Creole"
 
 msgid "%b and %b"
 msgstr "%b ak %b"
@@ -502,3 +502,8 @@ msgstr ""
 
 #~ msgid "if %b"
 #~ msgstr "si %b"
+
+#: commands-online.txt:7
+#: commands-offline.txt:7
+msgid "%m.list contains %s?"
+msgstr ""

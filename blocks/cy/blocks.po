@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-02-10 09:45+0000\n"
-"Last-Translator: Gruffudd <gruffudd@gmail.com>\n"
+"PO-Revision-Date: 2015-04-15 15:23+0000\n"
+"Last-Translator: Natalie <nrusk@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: cy\n"
 "MIME-Version: 1.0\n"
@@ -12,11 +12,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n==2) ? 1 : 0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1423561527.000000\n"
+"X-POOTLE-MTIME: 1429111431.000000\n"
 
 # The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Cymraeg"
+#~ msgid "Language-Name"
+#~ msgstr "Cymraeg"
 
 msgid "%b and %b"
 msgstr "%b a %b"
@@ -27,8 +27,8 @@ msgstr "%b neu %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute o %m.spriteOrStage"
 
-msgid "%m.list contains %s"
-msgstr "%m.list yn cynnwys %s"
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list yn cynnwys %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp o %n"
@@ -475,8 +475,8 @@ msgstr "pan dderbyniaf %m.broadcast"
 msgid "when I start as a clone"
 msgstr "pan dechreuaf fel clôn"
 
-msgid "when Stage clicked"
-msgstr "pan cliciwch ar Llwyfan"
+#~ msgid "when Stage clicked"
+#~ msgstr "pan cliciwch ar Llwyfan"
 
 msgid "when this sprite clicked"
 msgstr "pan caiff y cymeriad ei glicio"
@@ -492,30 +492,30 @@ msgstr "safle y"
 
 # 89%
 # 100%
-msgid "set motor direction %m.motorDirection"
-msgstr "gosod cyfeiriad modur %m.motorDirection"
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "gosod cyfeiriad modur %m.motorDirection"
 
 # 77%
 # 100%
-msgid "set motor power %n"
-msgstr "gosod pŵer modur %n"
+#~ msgid "set motor power %n"
+#~ msgstr "gosod pŵer modur %n"
 
-msgid "turn motor off"
-msgstr "troi modur i ffwrdd"
+#~ msgid "turn motor off"
+#~ msgstr "troi modur i ffwrdd"
 
-msgid "turn motor on"
-msgstr "troi modur ymlaen"
+#~ msgid "turn motor on"
+#~ msgstr "troi modur ymlaen"
 
 # 80%
 # 100%
-msgid "turn motor on for %n secs"
-msgstr "troi modur ymlaen am %n eiliad"
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "troi modur ymlaen am %n eiliad"
 
-msgid "when distance < %n"
-msgstr "pan mae pellter yn < %n"
+#~ msgid "when distance < %n"
+#~ msgstr "pan mae pellter yn < %n"
 
-msgid "when tilt = %n"
-msgstr "pan mae gwyriad = %n"
+#~ msgid "when tilt = %n"
+#~ msgstr "pan mae gwyriad = %n"
 
 # 89%
 # 100%
@@ -547,3 +547,8 @@ msgstr "pan mae gwyriad = %n"
 
 #~ msgid "play note %n for %n beats"
 #~ msgstr "chwarae nodyn %d.note am %n curiad"
+
+#: commands-online.txt:7
+#: commands-offline.txt:7
+msgid "%m.list contains %s?"
+msgstr "%m.list yn cynnwys %s?"

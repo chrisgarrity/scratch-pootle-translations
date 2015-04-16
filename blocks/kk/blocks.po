@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-08-07 21:46+0000\n"
+"PO-Revision-Date: 2015-04-14 18:21+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kk\n"
@@ -12,11 +12,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1407447975.000000\n"
+"X-POOTLE-MTIME: 1429035701.000000\n"
 
 # The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Kazakh"
+#~ msgid "Language-Name"
+#~ msgstr "Kazakh"
 
 msgid "%b and %b"
 msgstr "%b және %b"
@@ -27,8 +27,8 @@ msgstr "%b немесе %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.spriteOrStage ішіндегі %m.attribute"
 
-msgid "%m.list contains %s"
-msgstr "%m.list құрамында %s бар"
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list құрамында %s бар"
 
 msgid "%m.mathOp of %n"
 msgstr "%n ішіндегі %m.mathOp"
@@ -508,3 +508,9 @@ msgstr ""
 
 #~ msgid "play note %n for %n beats"
 #~ msgstr "%d.note нотасын %n такт ойнау"
+
+#: commands-online.txt:7
+#: commands-offline.txt:7
+#, fuzzy
+msgid "%m.list contains %s?"
+msgstr "%m.list құрамында %s бар"

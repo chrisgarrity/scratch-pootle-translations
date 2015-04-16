@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-11-09 18:23+0000\n"
-"Last-Translator: Robert <rob313663@gmail.com>\n"
+"PO-Revision-Date: 2015-04-15 15:24+0000\n"
+"Last-Translator: Natalie <nrusk@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
@@ -12,11 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1415557396.000000\n"
-
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Svenska"
+"X-POOTLE-MTIME: 1429111492.000000\n"
 
 msgid "%b and %b"
 msgstr "%b och %b"
@@ -26,9 +22,6 @@ msgstr "%b eller %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute av %m.spriteOrStage"
-
-msgid "%m.list contains %s"
-msgstr "%m.list innehåller %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp av %n"
@@ -470,9 +463,6 @@ msgstr "när jag tar emot %m.broadcast"
 msgid "when I start as a clone"
 msgstr "när jag startar som klon"
 
-msgid "when Stage clicked"
-msgstr "när scenen klickas på"
-
 msgid "when this sprite clicked"
 msgstr "när denna sprajt klickas på"
 
@@ -485,29 +475,9 @@ msgstr "x-läge"
 msgid "y position"
 msgstr "y-läge"
 
-# 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "sätt motorriktning %m.motorDirection"
-
-# 77%
-msgid "set motor power %n"
-msgstr "sätt motorkraft %n"
-
-msgid "turn motor off"
-msgstr "stoppa motorn"
-
-msgid "turn motor on"
-msgstr "starta motorn"
-
-# 80%
-msgid "turn motor on for %n secs"
-msgstr "motorn på i %n sekunder"
-
-msgid "when distance < %n"
-msgstr "när avståndet är < %n"
-
-msgid "when tilt = %n"
-msgstr "om lutning = %n"
+#: commands-online.txt:7 commands-offline.txt:7
+msgid "%m.list contains %s?"
+msgstr "%m.list innehåller %s?"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -534,17 +504,8 @@ msgstr "En ny version av Scratch är tillgänglig"
 msgid "About"
 msgstr "Om"
 
-msgid "About LEGO WeDo extension..."
-msgstr "Om LEGO WeDo-tillägget ..."
-
-msgid "About PicoBoard extension..."
-msgstr "Om Picoboard-tillägget ..."
-
 msgid "abs"
 msgstr "abs"
-
-msgid "Account settings"
-msgstr "Kontoinställningar"
 
 msgid "acos"
 msgstr "acos"
@@ -561,9 +522,6 @@ msgstr "Lägg till boolskt värde:"
 
 msgid "add comment"
 msgstr "lägg till kommentar"
-
-msgid "add comment here..."
-msgstr "lägg till kommentar här..."
 
 msgid "Add label text:"
 msgstr "Lägg till etikettext:"
@@ -584,9 +542,6 @@ msgstr "Alla"
 
 msgid "all around"
 msgstr "rotera"
-
-msgid "all motors"
-msgstr "alla motorer"
 
 msgid "Animal"
 msgstr "Djur"
@@ -701,9 +656,6 @@ msgstr "kan dras på scenen:"
 msgid "Cancel"
 msgstr "Avbryt"
 
-msgid "Cannot Add"
-msgstr "Kan inte lägga till"
-
 msgid "Cannot Delete"
 msgstr "Kan inte ta bort"
 
@@ -752,9 +704,6 @@ msgstr "Klarinett"
 msgid "Claves"
 msgstr "Claves"
 
-msgid "clean up"
-msgstr "ordna block"
-
 msgid "Clear"
 msgstr "Rensa"
 
@@ -770,14 +719,8 @@ msgstr "Stäng"
 msgid "Closed Hi-Hat"
 msgstr "Stängd Hi-Hat"
 
-msgid "Cloud"
-msgstr "Moln"
-
 msgid "Cloud data"
 msgstr "Molndata"
-
-msgid "Cloud variable (stored on server)"
-msgstr "Molnvariabel (sparad på servern)"
 
 msgid "color"
 msgstr "färg"
@@ -832,11 +775,6 @@ msgstr "Klädslar"
 
 msgid "Costumes > 1"
 msgstr "Klädslar > 1"
-
-# 75%
-# 88%
-msgid "Costumes:"
-msgstr "Klädslar:"
 
 #, fuzzy
 msgid "Could not retrieve new application from server."
@@ -898,9 +836,6 @@ msgstr "Ladda ned"
 msgid "Download to your computer"
 msgstr "Ladda ned till din dator"
 
-msgid "Downloading new version"
-msgstr "Hämta den senaste versionen"
-
 msgid "duplicate"
 msgstr "kopiera"
 
@@ -937,14 +872,8 @@ msgstr "Elektronisk"
 msgid "Ellipse"
 msgstr "Ellips"
 
-msgid "empty"
-msgstr "tom"
-
 msgid "Erase"
 msgstr "Radera"
-
-msgid "Erase all"
-msgstr "Ta bort alla"
 
 # 92%
 msgid "Eraser width"
@@ -953,26 +882,14 @@ msgstr "Suddgummits bredd"
 msgid "Error!"
 msgstr "Fel!"
 
-msgid "everything"
-msgstr "allting"
-
 msgid "export"
 msgstr "exportera"
-
-msgid "Extension Library"
-msgstr "Tilläggsbibliotek"
-
-msgid "Extension Problem"
-msgstr "Problem med tillägg"
 
 msgid "fade in"
 msgstr "tona in"
 
 msgid "fade out"
 msgstr "tona ut"
-
-msgid "false"
-msgstr "falskt"
 
 msgid "Fantasy"
 msgstr "Fantasy"
@@ -1019,9 +936,6 @@ msgstr "Upp ett lager"
 msgid "ghost"
 msgstr "genomskinlighet"
 
-msgid "Go to My Stuff"
-msgstr "Gå till Mina grejer"
-
 msgid "Group"
 msgstr "Grupp"
 
@@ -1042,15 +956,6 @@ msgstr "Hårdvara"
 
 msgid "help"
 msgstr "hjälp"
-
-msgid "Hello!"
-msgstr "Hej!"
-
-msgid "Hmm..."
-msgstr "Hmm..."
-
-msgid "hello"
-msgstr "hej"
 
 msgid "High C"
 msgstr "Höga C"
@@ -1110,13 +1015,6 @@ msgstr "Bibliotek"
 
 msgid "light"
 msgstr "ljus"
-
-# 83%
-msgid "lights"
-msgstr "ljus"
-
-msgid "limit reached"
-msgstr "gränsen är nådd"
 
 msgid "Line"
 msgstr "Linje"
@@ -1192,15 +1090,6 @@ msgstr "mosaik"
 msgid "motion"
 msgstr "rörelse"
 
-msgid "motor"
-msgstr "motor"
-
-msgid "motor A"
-msgstr "motor A"
-
-msgid "motor B"
-msgstr "motor B"
-
 msgid "mouse-pointer"
 msgstr "muspekare"
 
@@ -1215,9 +1104,6 @@ msgstr "Speldosa"
 
 msgid "Music Loops"
 msgstr "Musikloopar"
-
-msgid "My Stuff"
-msgstr "Mina grejer"
 
 msgid "myself"
 msgstr "mig själv"
@@ -1275,9 +1161,6 @@ msgstr "Inga rörelseblock"
 
 msgid "normal readout"
 msgstr "normal avläsning"
-
-msgid "not ="
-msgstr "inte ="
 
 msgid "Not saved; network or server problem."
 msgstr "Sparades inte; nätverks- eller serverproblem."
@@ -1380,9 +1263,6 @@ msgstr "pop"
 msgid "previous backdrop"
 msgstr "föregående bakgrund"
 
-msgid "Profile"
-msgstr "Profil"
-
 msgid "Project did not load."
 msgstr "Projektet laddades inte."
 
@@ -1426,20 +1306,11 @@ msgstr "Remix"
 msgid "Remixing..."
 msgstr "Remixar ..."
 
-msgid "Remove extension blocks"
-msgstr "Ta bort tilläggsblock"
-
 msgid "Rename"
 msgstr "Ändra namn"
 
 msgid "rename variable"
 msgstr "ändra variabelnamn"
-
-msgid "Replace existing project"
-msgstr "Ersätt befintligt projekt"
-
-msgid "requires sign in"
-msgstr "kräver inloggning"
 
 msgid "Reshape"
 msgstr "Omforma"
@@ -1486,9 +1357,6 @@ msgstr "Spara en kopia av projektet och lägg till dina egna idéer."
 msgid "Save as"
 msgstr "Spara som"
 
-msgid "Save as a copy"
-msgstr "Spara som kopia"
-
 msgid "Save now"
 msgstr "Spara nu"
 
@@ -1513,9 +1381,6 @@ msgstr "Saxofon"
 msgid "Scratch Updater"
 msgstr "Scratchuppdaterare"
 
-msgid "Scratch 2.0 Offline Editor"
-msgstr "Scratch 2.0 Offlineredigerare"
-
 # 85%
 msgid "Script"
 msgstr "Skript"
@@ -1523,21 +1388,11 @@ msgstr "Skript"
 msgid "Scripts"
 msgstr "Skript"
 
-# 87%
-msgid "Scripts:"
-msgstr "Skript:"
-
 msgid "second"
 msgstr "sekund"
 
 msgid "See project page"
 msgstr "Se projektsida"
-
-msgid ""
-"See the Tips window (on the right) to install the plug-in and get the "
-"extension working."
-msgstr ""
-"Se tipsrutan (till höger) för att installera och få tillägget att fungera."
 
 msgid "Select"
 msgstr "Välj"
@@ -1567,9 +1422,6 @@ msgstr "Dela"
 msgid "Share to website"
 msgstr "Dela på webbsajt"
 
-msgid "Share to Scratch website"
-msgstr "Dela på Scratchwebbsajt"
-
 msgid "shared"
 msgstr "delad"
 
@@ -1596,9 +1448,6 @@ msgstr "Logga in"
 
 msgid "Sign in to save"
 msgstr "Logga in för att spara"
-
-msgid "Sign out"
-msgstr "Logga ut"
 
 msgid "silence"
 msgstr "tystnad"
@@ -1675,9 +1524,6 @@ msgstr "Scen vald:"
 msgid "Steel Drum"
 msgstr "Steel Drum"
 
-msgid "stored on server"
-msgstr "lagrad på servern"
-
 msgid "Synth Lead"
 msgstr "Synth Lead"
 
@@ -1699,24 +1545,11 @@ msgstr "Text"
 msgid "that way"
 msgstr "andra hållet"
 
-msgid "The name is already in use."
-msgstr "Namnet används redan."
-
-msgid ""
-"The project failed to load and Scratch Team has been notified. Press OK to "
-"leave this page."
-msgstr ""
-"Misslyckades att ladda projektet och det har anmälts till Scratchteamet. "
-"Tryck på OK för att lämna sidan."
-
 msgid "Theme"
 msgstr "Tema"
 
 msgid "Things"
 msgstr "Saker"
-
-msgid "thing"
-msgstr "sak"
 
 msgid "This is the current version."
 msgstr "Detta är den senaste versionen."
@@ -1762,9 +1595,6 @@ msgstr "Triangel"
 
 msgid "Trombone"
 msgstr "Trombon"
-
-msgid "true"
-msgstr "sant"
 
 # 90%
 msgid "Turbo mode"
@@ -1877,9 +1707,6 @@ msgstr "Vill du spara? Klicka på remix"
 msgid "Which column do you want to import"
 msgstr "Vilken kolumn vill du importera"
 
-msgid "What's your name?"
-msgstr "Vad heter du?"
-
 msgid "whirl"
 msgstr "virvel"
 
@@ -1888,9 +1715,6 @@ msgstr "Träblock"
 
 msgid "Wooden Flute"
 msgstr "Träflöjt"
-
-msgid "world"
-msgstr "världen"
 
 msgid "year"
 msgstr "år"
@@ -1907,24 +1731,6 @@ msgstr "Ditt Scratchnamn"
 
 msgid "Your Scratch name is required"
 msgstr "Ditt Scratchnamn krävs"
-
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Information om Molnvariabler</b><br>&nbsp;<br>För närvarande stöds enbart "
-"siffror<br>Chattrum är inte tillåtna, och kommer att tas bort<br>för mer "
-"information, <a href= target=>se Molndata - FAQ!</a>"
-
-msgid "Click  to try again or  to save"
-msgstr "Klicka  för att försöka igen eller  för att spara"
-
-msgid "Eraser width:"
-msgstr "Suddgummibredd:"
-
-msgid "Line width:"
-msgstr "Linjebredd:"
 
 # Offline editor only
 msgid "All Tips"
@@ -2034,6 +1840,40 @@ msgstr ""
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "Svenska"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list innehåller %s"
+
+#~ msgid "when Stage clicked"
+#~ msgstr "när scenen klickas på"
+
+# 89%
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "sätt motorriktning %m.motorDirection"
+
+# 77%
+#~ msgid "set motor power %n"
+#~ msgstr "sätt motorkraft %n"
+
+#~ msgid "turn motor off"
+#~ msgstr "stoppa motorn"
+
+#~ msgid "turn motor on"
+#~ msgstr "starta motorn"
+
+# 80%
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "motorn på i %n sekunder"
+
+#~ msgid "when distance < %n"
+#~ msgstr "när avståndet är < %n"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "om lutning = %n"
+
 # 89%
 # 86%
 #, fuzzy
@@ -2084,6 +1924,170 @@ msgstr ""
 
 #~ msgid "when I am clicked"
 #~ msgstr "när jag klickas på"
+
+#~ msgid "About LEGO WeDo extension..."
+#~ msgstr "Om LEGO WeDo-tillägget ..."
+
+#~ msgid "About PicoBoard extension..."
+#~ msgstr "Om Picoboard-tillägget ..."
+
+#~ msgid "Account settings"
+#~ msgstr "Kontoinställningar"
+
+#~ msgid "add comment here..."
+#~ msgstr "lägg till kommentar här..."
+
+#~ msgid "all motors"
+#~ msgstr "alla motorer"
+
+#~ msgid "Cannot Add"
+#~ msgstr "Kan inte lägga till"
+
+#~ msgid "clean up"
+#~ msgstr "ordna block"
+
+#~ msgid "Cloud"
+#~ msgstr "Moln"
+
+#~ msgid "Cloud variable (stored on server)"
+#~ msgstr "Molnvariabel (sparad på servern)"
+
+# 75%
+# 88%
+#~ msgid "Costumes:"
+#~ msgstr "Klädslar:"
+
+#~ msgid "Downloading new version"
+#~ msgstr "Hämta den senaste versionen"
+
+#~ msgid "empty"
+#~ msgstr "tom"
+
+#~ msgid "Erase all"
+#~ msgstr "Ta bort alla"
+
+#~ msgid "everything"
+#~ msgstr "allting"
+
+#~ msgid "Extension Library"
+#~ msgstr "Tilläggsbibliotek"
+
+#~ msgid "Extension Problem"
+#~ msgstr "Problem med tillägg"
+
+#~ msgid "false"
+#~ msgstr "falskt"
+
+#~ msgid "Go to My Stuff"
+#~ msgstr "Gå till Mina grejer"
+
+#~ msgid "Hello!"
+#~ msgstr "Hej!"
+
+#~ msgid "Hmm..."
+#~ msgstr "Hmm..."
+
+#~ msgid "hello"
+#~ msgstr "hej"
+
+# 83%
+#~ msgid "lights"
+#~ msgstr "ljus"
+
+#~ msgid "limit reached"
+#~ msgstr "gränsen är nådd"
+
+#~ msgid "motor"
+#~ msgstr "motor"
+
+#~ msgid "motor A"
+#~ msgstr "motor A"
+
+#~ msgid "motor B"
+#~ msgstr "motor B"
+
+#~ msgid "My Stuff"
+#~ msgstr "Mina grejer"
+
+#~ msgid "not ="
+#~ msgstr "inte ="
+
+#~ msgid "Profile"
+#~ msgstr "Profil"
+
+#~ msgid "Remove extension blocks"
+#~ msgstr "Ta bort tilläggsblock"
+
+#~ msgid "Replace existing project"
+#~ msgstr "Ersätt befintligt projekt"
+
+#~ msgid "requires sign in"
+#~ msgstr "kräver inloggning"
+
+#~ msgid "Save as a copy"
+#~ msgstr "Spara som kopia"
+
+#~ msgid "Scratch 2.0 Offline Editor"
+#~ msgstr "Scratch 2.0 Offlineredigerare"
+
+# 87%
+#~ msgid "Scripts:"
+#~ msgstr "Skript:"
+
+#~ msgid ""
+#~ "See the Tips window (on the right) to install the plug-in and get the "
+#~ "extension working."
+#~ msgstr ""
+#~ "Se tipsrutan (till höger) för att installera och få tillägget att fungera."
+
+#~ msgid "Share to Scratch website"
+#~ msgstr "Dela på Scratchwebbsajt"
+
+#~ msgid "Sign out"
+#~ msgstr "Logga ut"
+
+#~ msgid "stored on server"
+#~ msgstr "lagrad på servern"
+
+#~ msgid "The name is already in use."
+#~ msgstr "Namnet används redan."
+
+#~ msgid ""
+#~ "The project failed to load and Scratch Team has been notified. Press OK "
+#~ "to leave this page."
+#~ msgstr ""
+#~ "Misslyckades att ladda projektet och det har anmälts till Scratchteamet. "
+#~ "Tryck på OK för att lämna sidan."
+
+#~ msgid "thing"
+#~ msgstr "sak"
+
+#~ msgid "true"
+#~ msgstr "sant"
+
+#~ msgid "What's your name?"
+#~ msgstr "Vad heter du?"
+
+#~ msgid "world"
+#~ msgstr "världen"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Information om Molnvariabler</b><br>&nbsp;<br>För närvarande stöds "
+#~ "enbart siffror<br>Chattrum är inte tillåtna, och kommer att tas "
+#~ "bort<br>för mer information, <a href= target=>se Molndata - FAQ!</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Klicka  för att försöka igen eller  för att spara"
+
+#~ msgid "Eraser width:"
+#~ msgstr "Suddgummibredd:"
+
+#~ msgid "Line width:"
+#~ msgstr "Linjebredd:"
 
 #~ msgid "cleanup"
 #~ msgstr "ordna block"

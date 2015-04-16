@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-07-10 22:52+0000\n"
+"PO-Revision-Date: 2015-04-14 18:21+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: km\n"
@@ -12,11 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1405032746.000000\n"
-
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "សំលៀកបំពាក"
+"X-POOTLE-MTIME: 1429035702.000000\n"
 
 msgid "%b and %b"
 msgstr "%b និង %b"
@@ -26,9 +22,6 @@ msgstr "%b ឬ %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute នៃ %m.spriteOrStage"
-
-msgid "%m.list contains %s"
-msgstr "%m.list មាន %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp នៃ %n"
@@ -514,6 +507,11 @@ msgstr ""
 msgid "when tilt = %n"
 msgstr ""
 
+#: commands-online.txt:7 commands-offline.txt:7
+#, fuzzy
+msgid "%m.list contains %s?"
+msgstr "%m.list មាន %s"
+
 msgid "10 ^"
 msgstr "10 ^"
 
@@ -545,9 +543,6 @@ msgstr ""
 #, fuzzy
 msgid "abs"
 msgstr "ぜったいち"
-
-msgid "Account settings"
-msgstr "アカウントせってい"
 
 msgid "acos"
 msgstr "acos"
@@ -775,9 +770,6 @@ msgstr "とじる"
 msgid "Closed Hi-Hat"
 msgstr "とじたハイハット"
 
-msgid "Cloud"
-msgstr "クラウド"
-
 msgid "Cloud data"
 msgstr "クラウドデータ"
 
@@ -835,9 +827,6 @@ msgstr "コスチューム"
 
 msgid "Costumes > 1"
 msgstr ""
-
-msgid "Costumes:"
-msgstr "コスチューム:"
 
 msgid "Could not retrieve new application from server."
 msgstr ""
@@ -1026,9 +1015,6 @@ msgstr "レイヤーをあげる"
 msgid "ghost"
 msgstr "ゆうれい"
 
-msgid "Go to My Stuff"
-msgstr "わたしのさくひんへいく"
-
 msgid "Group"
 msgstr "グループ"
 
@@ -1129,9 +1115,6 @@ msgstr "あかるさ"
 #, fuzzy
 msgid "lights"
 msgstr "あかるさ"
-
-msgid "limit reached"
-msgstr "げんかいにとうたつ"
 
 msgid "Line"
 msgstr "ちょくせん"
@@ -1236,9 +1219,6 @@ msgstr "ミュージックボックス"
 
 msgid "Music Loops"
 msgstr "おんがくのループ"
-
-msgid "My Stuff"
-msgstr "わたしのさくひん"
 
 msgid "myself"
 msgstr "じぶんじしん"
@@ -1407,9 +1387,6 @@ msgstr "ポップ"
 msgid "previous backdrop"
 msgstr ""
 
-msgid "Profile"
-msgstr "プロフィール"
-
 msgid "Project did not load."
 msgstr ""
 
@@ -1468,9 +1445,6 @@ msgstr "へんすうめいをへんこう"
 msgid "Replace existing project"
 msgstr ""
 
-msgid "requires sign in"
-msgstr "サインインがひつようです"
-
 msgid "Reshape"
 msgstr "かたちをかえる"
 
@@ -1519,9 +1493,6 @@ msgstr ""
 msgid "Save as"
 msgstr ""
 
-msgid "Save as a copy"
-msgstr "コピーをほぞん"
-
 msgid "Save now"
 msgstr "ただちにほぞん"
 
@@ -1554,9 +1525,6 @@ msgstr "スクリプト"
 
 msgid "Scripts"
 msgstr "スクリプト"
-
-msgid "Scripts:"
-msgstr "スクリプト:"
 
 msgid "second"
 msgstr "びょう"
@@ -1626,9 +1594,6 @@ msgstr "サインイン"
 
 msgid "Sign in to save"
 msgstr "ほぞんするためにサインイン"
-
-msgid "Sign out"
-msgstr "サインアウト"
 
 msgid "silence"
 msgstr "サイレンス"
@@ -1709,9 +1674,6 @@ msgstr "せんたくされたステージ:"
 
 msgid "Steel Drum"
 msgstr "スチールドラム"
-
-msgid "stored on server"
-msgstr "サーバーへかくのう"
 
 msgid "Synth Lead"
 msgstr "シンセリード"
@@ -1957,17 +1919,6 @@ msgid ""
 "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
 msgstr ""
 
-msgid "Click  to try again or  to save"
-msgstr ""
-"「ただちにほぞん」をクリックしてさいしこうするか、「ダウンロード」でほぞんし"
-"てください"
-
-msgid "Eraser width:"
-msgstr "けしゴムのはば:"
-
-msgid "Line width:"
-msgstr "せんのはば:"
-
 # Offline editor only
 msgid "All Tips"
 msgstr ""
@@ -2070,6 +2021,13 @@ msgstr ""
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "សំលៀកបំពាក"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list មាន %s"
+
 # 89%
 # 86%
 #, fuzzy
@@ -2099,6 +2057,53 @@ msgstr ""
 
 #~ msgid "play note %n for %n beats"
 #~ msgstr "ផ្លេយណូត %d.note ចំនួន %n ដង(ប៊ីត)"
+
+#~ msgid "Account settings"
+#~ msgstr "アカウントせってい"
+
+#~ msgid "Cloud"
+#~ msgstr "クラウド"
+
+#~ msgid "Costumes:"
+#~ msgstr "コスチューム:"
+
+#~ msgid "Go to My Stuff"
+#~ msgstr "わたしのさくひんへいく"
+
+#~ msgid "limit reached"
+#~ msgstr "げんかいにとうたつ"
+
+#~ msgid "My Stuff"
+#~ msgstr "わたしのさくひん"
+
+#~ msgid "Profile"
+#~ msgstr "プロフィール"
+
+#~ msgid "requires sign in"
+#~ msgstr "サインインがひつようです"
+
+#~ msgid "Save as a copy"
+#~ msgstr "コピーをほぞん"
+
+#~ msgid "Scripts:"
+#~ msgstr "スクリプト:"
+
+#~ msgid "Sign out"
+#~ msgstr "サインアウト"
+
+#~ msgid "stored on server"
+#~ msgstr "サーバーへかくのう"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr ""
+#~ "「ただちにほぞん」をクリックしてさいしこうするか、「ダウンロード」でほぞん"
+#~ "してください"
+
+#~ msgid "Eraser width:"
+#~ msgstr "けしゴムのはば:"
+
+#~ msgid "Line width:"
+#~ msgstr "せんのはば:"
 
 #~ msgid "Costumes &gt; 1"
 #~ msgstr "コスチューム &gt; 1"

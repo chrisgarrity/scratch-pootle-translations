@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-04-03 06:46+0000\n"
-"Last-Translator: Anton <anton.kalauzki@gmail.com>\n"
+"PO-Revision-Date: 2015-04-15 13:54+0000\n"
+"Last-Translator: Natalie <nrusk@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
@@ -12,11 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1428043612.000000\n"
-
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Български"
+"X-POOTLE-MTIME: 1429106061.000000\n"
 
 msgid "%b and %b"
 msgstr "%b и %b"
@@ -26,9 +22,6 @@ msgstr "%b или %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute на %m.spriteOrStage"
-
-msgid "%m.list contains %s"
-msgstr "%m.list съдържа %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp от/на %n"
@@ -476,9 +469,6 @@ msgstr "когато получа %m.broadcast"
 msgid "when I start as a clone"
 msgstr "при старт като клонинг"
 
-msgid "when Stage clicked"
-msgstr "когато Сцената е щракната"
-
 msgid "when this sprite clicked"
 msgstr "когато този спрайт е щракнат"
 
@@ -491,32 +481,9 @@ msgstr "x позиция"
 msgid "y position"
 msgstr "y позиция"
 
-# 89%
-# 100%
-msgid "set motor direction %m.motorDirection"
-msgstr "посока на мотора %m.motorDirection"
-
-# 77%
-# 100%
-msgid "set motor power %n"
-msgstr "избери мощност на мотора %n"
-
-msgid "turn motor off"
-msgstr "изключи мотора"
-
-msgid "turn motor on"
-msgstr "включи мотора"
-
-# 80%
-# 100%
-msgid "turn motor on for %n secs"
-msgstr "включи мотора за %n сек"
-
-msgid "when distance < %n"
-msgstr "когато разстояние < %n"
-
-msgid "when tilt = %n"
-msgstr "когато наклон = %n"
+#: commands-online.txt:7 commands-offline.txt:7
+msgid "%m.list contains %s?"
+msgstr "%m.list съдържа %s?"
 
 msgid "10 ^"
 msgstr ""
@@ -544,17 +511,8 @@ msgstr "Има нова версия на Scratch"
 msgid "About"
 msgstr "За Scratch"
 
-msgid "About LEGO WeDo extension..."
-msgstr "За LEGO WeDo приставка..."
-
-msgid "About PicoBoard extension..."
-msgstr "За приставка PicoBoard..."
-
 msgid "abs"
 msgstr "абсолютна стойност"
-
-msgid "Account settings"
-msgstr "Настройки"
 
 msgid "acos"
 msgstr ""
@@ -571,9 +529,6 @@ msgstr "Добавяне логически вход:"
 
 msgid "add comment"
 msgstr "добавяне на коментар"
-
-msgid "add comment here..."
-msgstr "добави коментар тук..."
 
 msgid "Add label text:"
 msgstr "Добавяне на етикет с текст:"
@@ -594,9 +549,6 @@ msgstr "Всички"
 
 msgid "all around"
 msgstr "във всички посоки"
-
-msgid "all motors"
-msgstr "всички мотори"
 
 msgid "Animal"
 msgstr "Животни"
@@ -778,14 +730,8 @@ msgstr "Затвори"
 msgid "Closed Hi-Hat"
 msgstr "Затворен педален чинел"
 
-msgid "Cloud"
-msgstr "Облачна"
-
 msgid "Cloud data"
 msgstr "Облачни данни"
-
-msgid "Cloud variable (stored on server)"
-msgstr "Облачна променлива (съхранявана на сървър)"
 
 msgid "color"
 msgstr "цвят"
@@ -839,9 +785,6 @@ msgstr "Костюми"
 
 msgid "Costumes > 1"
 msgstr "Костюми > 1"
-
-msgid "Costumes:"
-msgstr "Костюми:"
 
 msgid "Could not retrieve new application from server."
 msgstr "Не се получава ново приложение от сървъра."
@@ -902,9 +845,6 @@ msgstr "Сваляне"
 msgid "Download to your computer"
 msgstr "Сваляне на вашия компютър"
 
-msgid "Downloading new version"
-msgstr "Изтегляне на новата версия"
-
 msgid "duplicate"
 msgstr "копиране"
 
@@ -957,17 +897,8 @@ msgstr "Широчина на гумата"
 msgid "Error!"
 msgstr "Грешка!"
 
-msgid "everything"
-msgstr "всичко"
-
 msgid "export"
 msgstr "експорт"
-
-msgid "Extension Library"
-msgstr "Библиотека с приставки"
-
-msgid "Extension Problem"
-msgstr "Проблем с приставка"
 
 msgid "fade in"
 msgstr "засилване"
@@ -1023,9 +954,6 @@ msgstr "Напред с един слой"
 msgid "ghost"
 msgstr "призрак"
 
-msgid "Go to My Stuff"
-msgstr "Отиди при Моите неща"
-
 msgid "Group"
 msgstr "Групиране"
 
@@ -1046,15 +974,6 @@ msgstr "Хардуер"
 
 msgid "help"
 msgstr "помощ"
-
-msgid "Hello!"
-msgstr "Здравей!"
-
-msgid "Hmm..."
-msgstr "Хмм..."
-
-msgid "hello"
-msgstr "здравей"
 
 msgid "High C"
 msgstr "Горно До"
@@ -1118,9 +1037,6 @@ msgstr "осветеност"
 #, fuzzy
 msgid "lights"
 msgstr "осветеност"
-
-msgid "limit reached"
-msgstr "достигнат е лимита"
 
 msgid "Line"
 msgstr "Линия"
@@ -1197,15 +1113,6 @@ msgstr "мозайка"
 msgid "motion"
 msgstr "движение"
 
-msgid "motor"
-msgstr "мотор"
-
-msgid "motor A"
-msgstr "мотор А"
-
-msgid "motor B"
-msgstr "мотор Б"
-
 msgid "mouse-pointer"
 msgstr "показалец на мишката"
 
@@ -1220,9 +1127,6 @@ msgstr "Музикална кутия"
 
 msgid "Music Loops"
 msgstr "Музикални лупове"
-
-msgid "My Stuff"
-msgstr "Моите неща"
 
 msgid "myself"
 msgstr "себе си"
@@ -1280,9 +1184,6 @@ msgstr "Няма блокове за движение"
 
 msgid "normal readout"
 msgstr "нормално изписване"
-
-msgid "not ="
-msgstr "не ="
 
 msgid "Not saved; network or server problem."
 msgstr "Не е записано; мрежов или сървърен проблем."
@@ -1385,9 +1286,6 @@ msgstr "пук"
 msgid "previous backdrop"
 msgstr "предишен декор"
 
-msgid "Profile"
-msgstr "Профил"
-
 msgid "Project did not load."
 msgstr "Проектът не се зареди."
 
@@ -1431,9 +1329,6 @@ msgstr "Ремиксиране"
 msgid "Remixing..."
 msgstr "Ремиксиране..."
 
-msgid "Remove extension blocks"
-msgstr "Премахни блоковета на приставката"
-
 msgid "Rename"
 msgstr "Преименуване"
 
@@ -1442,9 +1337,6 @@ msgstr "преименуване на променливата"
 
 msgid "Replace existing project"
 msgstr ""
-
-msgid "requires sign in"
-msgstr "трябва да сте влезли"
 
 msgid "Reshape"
 msgstr "Оформяне"
@@ -1491,9 +1383,6 @@ msgstr ""
 msgid "Save as"
 msgstr "Записване като"
 
-msgid "Save as a copy"
-msgstr "Записване като копие"
-
 msgid "Save now"
 msgstr "Записване сега"
 
@@ -1528,22 +1417,11 @@ msgstr "Сценарий"
 msgid "Scripts"
 msgstr "Сценарии"
 
-# 87%
-msgid "Scripts:"
-msgstr "Сценарии:"
-
 msgid "second"
 msgstr "секунда"
 
 msgid "See project page"
 msgstr "Към страницата на проекта"
-
-msgid ""
-"See the Tips window (on the right) to install the plug-in and get the "
-"extension working."
-msgstr ""
-"Вижте прозореца със съветите (от дясно) за да инсталирате \"plug-in\" и да "
-"заработи приставката."
 
 msgid "Select"
 msgstr "Маркиране"
@@ -1573,9 +1451,6 @@ msgstr "Споделяне"
 msgid "Share to website"
 msgstr "Споделяне на уебсайта"
 
-msgid "Share to Scratch website"
-msgstr "Споделяне на Scratch уебсайта"
-
 msgid "shared"
 msgstr "споделен"
 
@@ -1602,9 +1477,6 @@ msgstr "Влизане"
 
 msgid "Sign in to save"
 msgstr "Влезте за да запишете"
-
-msgid "Sign out"
-msgstr "Излизане"
 
 msgid "silence"
 msgstr "тишина"
@@ -1678,9 +1550,6 @@ msgstr "Избрана е сцената:"
 
 msgid "Steel Drum"
 msgstr "Стоманен барабан"
-
-msgid "stored on server"
-msgstr "съхранявана на сървър"
 
 msgid "Synth Lead"
 msgstr ""
@@ -1878,9 +1747,6 @@ msgstr "Искате ли да запишете? Щракнете ремикси
 msgid "Which column do you want to import"
 msgstr "Коя колона искате на внесете"
 
-msgid "What's your name?"
-msgstr "Как се казваш?"
-
 msgid "whirl"
 msgstr "завихряне"
 
@@ -1908,25 +1774,6 @@ msgstr "Вашето Scratch име"
 
 msgid "Your Scratch name is required"
 msgstr "Изисква се вашето Scratch име"
-
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Информация за Облачни променливи</b><br>&nbsp;<br>Към момента се "
-"поддържат само числa<br>Чат стаи не са разрешени и ще бъдат премахвани<br>За "
-"повече информация, <a href= target=>вижте често задавани въпроси (FAQ) за "
-"облачни променливи</a>"
-
-msgid "Click  to try again or  to save"
-msgstr "Кликнете  за повторен опит или  за запис"
-
-msgid "Eraser width:"
-msgstr "Широчина на гумата:"
-
-msgid "Line width:"
-msgstr "Широчина на линията:"
 
 # Offline editor only
 msgid "All Tips"
@@ -2034,6 +1881,43 @@ msgstr ""
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "Български"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list съдържа %s"
+
+#~ msgid "when Stage clicked"
+#~ msgstr "когато Сцената е щракната"
+
+# 89%
+# 100%
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "посока на мотора %m.motorDirection"
+
+# 77%
+# 100%
+#~ msgid "set motor power %n"
+#~ msgstr "избери мощност на мотора %n"
+
+#~ msgid "turn motor off"
+#~ msgstr "изключи мотора"
+
+#~ msgid "turn motor on"
+#~ msgstr "включи мотора"
+
+# 80%
+# 100%
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "включи мотора за %n сек"
+
+#~ msgid "when distance < %n"
+#~ msgstr "когато разстояние < %n"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "когато наклон = %n"
+
 # 89%
 # 100%
 # 86%
@@ -2066,6 +1950,126 @@ msgstr ""
 
 #~ msgid "play note %n for %n beats"
 #~ msgstr "свири нота %d.note %n такта"
+
+#~ msgid "About LEGO WeDo extension..."
+#~ msgstr "За LEGO WeDo приставка..."
+
+#~ msgid "About PicoBoard extension..."
+#~ msgstr "За приставка PicoBoard..."
+
+#~ msgid "Account settings"
+#~ msgstr "Настройки"
+
+#~ msgid "add comment here..."
+#~ msgstr "добави коментар тук..."
+
+#~ msgid "all motors"
+#~ msgstr "всички мотори"
+
+#~ msgid "Cloud"
+#~ msgstr "Облачна"
+
+#~ msgid "Cloud variable (stored on server)"
+#~ msgstr "Облачна променлива (съхранявана на сървър)"
+
+#~ msgid "Costumes:"
+#~ msgstr "Костюми:"
+
+#~ msgid "Downloading new version"
+#~ msgstr "Изтегляне на новата версия"
+
+#~ msgid "everything"
+#~ msgstr "всичко"
+
+#~ msgid "Extension Library"
+#~ msgstr "Библиотека с приставки"
+
+#~ msgid "Extension Problem"
+#~ msgstr "Проблем с приставка"
+
+#~ msgid "Go to My Stuff"
+#~ msgstr "Отиди при Моите неща"
+
+#~ msgid "Hello!"
+#~ msgstr "Здравей!"
+
+#~ msgid "Hmm..."
+#~ msgstr "Хмм..."
+
+#~ msgid "hello"
+#~ msgstr "здравей"
+
+#~ msgid "limit reached"
+#~ msgstr "достигнат е лимита"
+
+#~ msgid "motor"
+#~ msgstr "мотор"
+
+#~ msgid "motor A"
+#~ msgstr "мотор А"
+
+#~ msgid "motor B"
+#~ msgstr "мотор Б"
+
+#~ msgid "My Stuff"
+#~ msgstr "Моите неща"
+
+#~ msgid "not ="
+#~ msgstr "не ="
+
+#~ msgid "Profile"
+#~ msgstr "Профил"
+
+#~ msgid "Remove extension blocks"
+#~ msgstr "Премахни блоковета на приставката"
+
+#~ msgid "requires sign in"
+#~ msgstr "трябва да сте влезли"
+
+#~ msgid "Save as a copy"
+#~ msgstr "Записване като копие"
+
+# 87%
+#~ msgid "Scripts:"
+#~ msgstr "Сценарии:"
+
+#~ msgid ""
+#~ "See the Tips window (on the right) to install the plug-in and get the "
+#~ "extension working."
+#~ msgstr ""
+#~ "Вижте прозореца със съветите (от дясно) за да инсталирате \"plug-in\" и "
+#~ "да заработи приставката."
+
+#~ msgid "Share to Scratch website"
+#~ msgstr "Споделяне на Scratch уебсайта"
+
+#~ msgid "Sign out"
+#~ msgstr "Излизане"
+
+#~ msgid "stored on server"
+#~ msgstr "съхранявана на сървър"
+
+#~ msgid "What's your name?"
+#~ msgstr "Как се казваш?"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Информация за Облачни променливи</b><br>&nbsp;<br>Към момента се "
+#~ "поддържат само числa<br>Чат стаи не са разрешени и ще бъдат "
+#~ "премахвани<br>За повече информация, <a href= target=>вижте често задавани "
+#~ "въпроси (FAQ) за облачни променливи</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Кликнете  за повторен опит или  за запис"
+
+#~ msgid "Eraser width:"
+#~ msgstr "Широчина на гумата:"
+
+#~ msgid "Line width:"
+#~ msgstr "Широчина на линията:"
 
 #~ msgid "cleanup"
 #~ msgstr "разчисти"

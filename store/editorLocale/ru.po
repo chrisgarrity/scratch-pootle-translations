@@ -15,10 +15,6 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1413125838.000000\n"
 
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Русский"
-
 msgid "%b and %b"
 msgstr "%b и %b"
 
@@ -27,9 +23,6 @@ msgstr "%b или %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.атрибут от %m.spriteOrStage"
-
-msgid "%m.list contains %s"
-msgstr "%m.list содержит %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp от %n"
@@ -471,9 +464,6 @@ msgstr "когда я получу %m.broadcast"
 msgid "when I start as a clone"
 msgstr "когда я начинаю как клон"
 
-msgid "when Stage clicked"
-msgstr "при нажатии на Этап"
-
 msgid "when this sprite clicked"
 msgstr "когда спрайт нажат"
 
@@ -486,29 +476,10 @@ msgstr "положение x"
 msgid "y position"
 msgstr "положение y"
 
-# 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "задать направление мотора %m.motorDirection"
-
-# 77%
-msgid "set motor power %n"
-msgstr "задать мощность мотора %n"
-
-msgid "turn motor off"
-msgstr "выключить мотор"
-
-msgid "turn motor on"
-msgstr "включить мотор"
-
-# 80%
-msgid "turn motor on for %n secs"
-msgstr "включить мотор на %n секунд"
-
-msgid "when distance < %n"
-msgstr "когда расстояние < %n"
-
-msgid "when tilt = %n"
-msgstr "когда наклон = %n"
+#: commands-online.txt:7 commands-offline.txt:7
+#, fuzzy
+msgid "%m.list contains %s?"
+msgstr "%m.list содержит %s"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -537,17 +508,8 @@ msgstr ""
 msgid "About"
 msgstr "О программе"
 
-msgid "About LEGO WeDo extension..."
-msgstr "О дополнении LEGO WeDo..."
-
-msgid "About PicoBoard extension..."
-msgstr "О дополнении PicoBoard..."
-
 msgid "abs"
 msgstr "модуль"
-
-msgid "Account settings"
-msgstr "Настройки аккаунта"
 
 msgid "acos"
 msgstr "acos"
@@ -587,9 +549,6 @@ msgstr "Все"
 
 msgid "all around"
 msgstr "кругом"
-
-msgid "all motors"
-msgstr "все двигатели"
 
 msgid "Animal"
 msgstr "Животное"
@@ -775,9 +734,6 @@ msgstr "Закрыть"
 msgid "Closed Hi-Hat"
 msgstr "Закрытый хай-хэт"
 
-msgid "Cloud"
-msgstr "Облако"
-
 msgid "Cloud data"
 msgstr "Облако данных"
 
@@ -837,9 +793,6 @@ msgstr "Костюмы"
 
 msgid "Costumes > 1"
 msgstr "Костюмов > 1"
-
-msgid "Costumes:"
-msgstr "Костюмы:"
 
 msgid "Could not retrieve new application from server."
 msgstr ""
@@ -955,17 +908,8 @@ msgstr "Ширина ластика"
 msgid "Error!"
 msgstr "Ошибка!"
 
-msgid "everything"
-msgstr "всё"
-
 msgid "export"
 msgstr "экспорт"
-
-msgid "Extension Library"
-msgstr "Библиотека дополнения"
-
-msgid "Extension Problem"
-msgstr "Проблема с дополнением"
 
 msgid "fade in"
 msgstr "увеличивать"
@@ -1020,9 +964,6 @@ msgstr "Вперед на слой"
 
 msgid "ghost"
 msgstr "призрак"
-
-msgid "Go to My Stuff"
-msgstr "Перейти к моим проектам"
 
 msgid "Group"
 msgstr "Группировать"
@@ -1113,13 +1054,6 @@ msgstr "Библиотека"
 msgid "light"
 msgstr "свет"
 
-# 83%
-msgid "lights"
-msgstr "свет"
-
-msgid "limit reached"
-msgstr "достигнут предел"
-
 msgid "Line"
 msgstr "Линия"
 
@@ -1195,15 +1129,6 @@ msgstr "мозаика"
 msgid "motion"
 msgstr "движение"
 
-msgid "motor"
-msgstr "двигатель"
-
-msgid "motor A"
-msgstr "двигатель A"
-
-msgid "motor B"
-msgstr "двигатель B"
-
 msgid "mouse-pointer"
 msgstr "указатель мышки"
 
@@ -1218,9 +1143,6 @@ msgstr "Музыкальная шкатулка"
 
 msgid "Music Loops"
 msgstr "Музыкальная петля"
-
-msgid "My Stuff"
-msgstr "Мои работы"
 
 msgid "myself"
 msgstr "себя самого"
@@ -1278,9 +1200,6 @@ msgstr "Нет блоков движения"
 
 msgid "normal readout"
 msgstr "стандартный вид"
-
-msgid "not ="
-msgstr "не ="
 
 msgid "Not saved; network or server problem."
 msgstr "Не сохранено; проблема с сетью или сервером."
@@ -1383,9 +1302,6 @@ msgstr "поп"
 msgid "previous backdrop"
 msgstr ""
 
-msgid "Profile"
-msgstr "Профиль"
-
 msgid "Project did not load."
 msgstr "Проект не загружен."
 
@@ -1429,9 +1345,6 @@ msgstr "Ремикс"
 msgid "Remixing..."
 msgstr "Создание ремикса..."
 
-msgid "Remove extension blocks"
-msgstr "Удалить блоки дополнений"
-
 msgid "Rename"
 msgstr "Переименовать"
 
@@ -1440,9 +1353,6 @@ msgstr "переименовать переменную"
 
 msgid "Replace existing project"
 msgstr ""
-
-msgid "requires sign in"
-msgstr "требует входа"
 
 msgid "Reshape"
 msgstr "Изменение формы"
@@ -1489,9 +1399,6 @@ msgstr ""
 msgid "Save as"
 msgstr ""
 
-msgid "Save as a copy"
-msgstr "Сохранить как копию"
-
 msgid "Save now"
 msgstr "Сохранить сейчас"
 
@@ -1526,22 +1433,11 @@ msgstr "Скрипт"
 msgid "Scripts"
 msgstr "Скрипты"
 
-# 87%
-msgid "Scripts:"
-msgstr "Скрипты:"
-
 msgid "second"
 msgstr "секунда"
 
 msgid "See project page"
 msgstr "Посмотреть страницу проекта"
-
-msgid ""
-"See the Tips window (on the right) to install the plug-in and get the "
-"extension working."
-msgstr ""
-"Смотрите в окне Подсказок (справа), как установить модуль и получить "
-"работающее дополнение."
 
 msgid "Select"
 msgstr "Выбрать"
@@ -1600,9 +1496,6 @@ msgstr "Войти"
 
 msgid "Sign in to save"
 msgstr "Войдите, чтобы сохранить"
-
-msgid "Sign out"
-msgstr "Выйти"
 
 msgid "silence"
 msgstr "тишина"
@@ -1676,9 +1569,6 @@ msgstr "Выбрана сцена:"
 
 msgid "Steel Drum"
 msgstr "Стальной барабан"
-
-msgid "stored on server"
-msgstr "сохранён на сервере"
 
 msgid "Synth Lead"
 msgstr "Ведущий синтезатор"
@@ -1909,25 +1799,6 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Информация об облачных переменных</b><br>&nbsp;<br>В настоящий момент "
-"поддерживаются только численные переменные<br>Чат-комнаты не разрешены и "
-"будут удаляться<br>Для дополнительной информации <a href= target=>смотрите "
-"ЧАВО об облачных данных</a>"
-
-msgid "Click  to try again or  to save"
-msgstr "Нажмите   для повтора или  для сохранения"
-
-msgid "Eraser width:"
-msgstr "Ширина ластика:"
-
-msgid "Line width:"
-msgstr "Ширина линии:"
-
 # Offline editor only
 msgid "All Tips"
 msgstr ""
@@ -2030,6 +1901,40 @@ msgstr ""
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "Русский"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list содержит %s"
+
+#~ msgid "when Stage clicked"
+#~ msgstr "при нажатии на Этап"
+
+# 89%
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "задать направление мотора %m.motorDirection"
+
+# 77%
+#~ msgid "set motor power %n"
+#~ msgstr "задать мощность мотора %n"
+
+#~ msgid "turn motor off"
+#~ msgstr "выключить мотор"
+
+#~ msgid "turn motor on"
+#~ msgstr "включить мотор"
+
+# 80%
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "включить мотор на %n секунд"
+
+#~ msgid "when distance < %n"
+#~ msgstr "когда расстояние < %n"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "когда наклон = %n"
+
 # 89%
 # 86%
 #, fuzzy
@@ -2080,6 +1985,106 @@ msgstr ""
 
 #~ msgid "when I am clicked"
 #~ msgstr "когда я щелкну "
+
+#~ msgid "About LEGO WeDo extension..."
+#~ msgstr "О дополнении LEGO WeDo..."
+
+#~ msgid "About PicoBoard extension..."
+#~ msgstr "О дополнении PicoBoard..."
+
+#~ msgid "Account settings"
+#~ msgstr "Настройки аккаунта"
+
+#~ msgid "all motors"
+#~ msgstr "все двигатели"
+
+#~ msgid "Cloud"
+#~ msgstr "Облако"
+
+#~ msgid "Costumes:"
+#~ msgstr "Костюмы:"
+
+#~ msgid "everything"
+#~ msgstr "всё"
+
+#~ msgid "Extension Library"
+#~ msgstr "Библиотека дополнения"
+
+#~ msgid "Extension Problem"
+#~ msgstr "Проблема с дополнением"
+
+#~ msgid "Go to My Stuff"
+#~ msgstr "Перейти к моим проектам"
+
+# 83%
+#~ msgid "lights"
+#~ msgstr "свет"
+
+#~ msgid "limit reached"
+#~ msgstr "достигнут предел"
+
+#~ msgid "motor"
+#~ msgstr "двигатель"
+
+#~ msgid "motor A"
+#~ msgstr "двигатель A"
+
+#~ msgid "motor B"
+#~ msgstr "двигатель B"
+
+#~ msgid "My Stuff"
+#~ msgstr "Мои работы"
+
+#~ msgid "not ="
+#~ msgstr "не ="
+
+#~ msgid "Profile"
+#~ msgstr "Профиль"
+
+#~ msgid "Remove extension blocks"
+#~ msgstr "Удалить блоки дополнений"
+
+#~ msgid "requires sign in"
+#~ msgstr "требует входа"
+
+#~ msgid "Save as a copy"
+#~ msgstr "Сохранить как копию"
+
+# 87%
+#~ msgid "Scripts:"
+#~ msgstr "Скрипты:"
+
+#~ msgid ""
+#~ "See the Tips window (on the right) to install the plug-in and get the "
+#~ "extension working."
+#~ msgstr ""
+#~ "Смотрите в окне Подсказок (справа), как установить модуль и получить "
+#~ "работающее дополнение."
+
+#~ msgid "Sign out"
+#~ msgstr "Выйти"
+
+#~ msgid "stored on server"
+#~ msgstr "сохранён на сервере"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Информация об облачных переменных</b><br>&nbsp;<br>В настоящий момент "
+#~ "поддерживаются только численные переменные<br>Чат-комнаты не разрешены и "
+#~ "будут удаляться<br>Для дополнительной информации <a href= "
+#~ "target=>смотрите ЧАВО об облачных данных</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Нажмите   для повтора или  для сохранения"
+
+#~ msgid "Eraser width:"
+#~ msgstr "Ширина ластика:"
+
+#~ msgid "Line width:"
+#~ msgstr "Ширина линии:"
 
 #~ msgid "cleanup"
 #~ msgstr "упорядочить"

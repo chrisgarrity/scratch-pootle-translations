@@ -3,19 +3,16 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-12-19 14:13+0000\n"
-"Last-Translator: aabuchba <aabuchba@mail.ru>\n"
+"PO-Revision-Date: 2015-04-15 13:50+0000\n"
+"Last-Translator: Natalie <nrusk@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ab\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1418998414.000000\n"
-
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Аҧсшәа"
+"X-POOTLE-MTIME: 1429105854.000000\n"
 
 msgid "%b and %b"
 msgstr "%b и %b"
@@ -25,9 +22,6 @@ msgstr "%b ма %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.атрибут %m.spriteOrStage аҟынтә"
-
-msgid "%m.list contains %s"
-msgstr "%m.list иаҵанакуеит %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp %n аҟынтә"
@@ -458,9 +452,6 @@ msgstr "сара %m.broadcast ансоуа"
 msgid "when I start as a clone"
 msgstr "аиҧш еиҧш саналаго"
 
-msgid "when Stage clicked"
-msgstr "Асцена ианақәыӷәӷәуалакь"
-
 msgid "when this sprite clicked"
 msgstr "анагӡаҩ ианақәыӷәӷәуалакь"
 
@@ -473,26 +464,9 @@ msgstr "x аҭыҧ"
 msgid "y position"
 msgstr "y аҭыҧ"
 
-msgid "set motor direction %m.motorDirection"
-msgstr "амотор ахырхарҭа %m.motorDirection"
-
-msgid "set motor power %n"
-msgstr "аматор амчра %n"
-
-msgid "turn motor off"
-msgstr "аматор арцәара"
-
-msgid "turn motor on"
-msgstr "аматор аркра"
-
-msgid "turn motor on for %n secs"
-msgstr "иарктәуп аматор %n секундк"
-
-msgid "when distance < %n"
-msgstr "ирыбжьоу < %n аасҭа"
-
-msgid "when tilt = %n"
-msgstr "анаара = %n ианаҟароу"
+#: commands-online.txt:7 commands-offline.txt:7
+msgid "%m.list contains %s?"
+msgstr "%m.list иаҵанакуеит %s?"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -520,17 +494,8 @@ msgstr "Scratch аверсиа ҿыц ыҟоуп"
 msgid "About"
 msgstr "Апрограмма иазкны"
 
-msgid "About LEGO WeDo extension..."
-msgstr "LEGO WeDo Ахарҭәаара иазкны..."
-
-msgid "About PicoBoard extension..."
-msgstr "PicoBoard Ахарҭәаара иазкны..."
-
 msgid "abs"
 msgstr "амодуль"
-
-msgid "Account settings"
-msgstr "Аккаунт архиарақәа"
 
 msgid "acos"
 msgstr "acos"
@@ -546,9 +511,6 @@ msgstr "Иҭагалатәуп алогикатә ҵакы:"
 
 msgid "add comment"
 msgstr "акоментари ацҵатәуп"
-
-msgid "add comment here..."
-msgstr "Акоментари ацҵатәуп абрахь..."
 
 msgid "Add label text:"
 msgstr "Иацҵатәуп атеқст аҵаҩымҭа:"
@@ -567,9 +529,6 @@ msgstr "Зегьы"
 
 msgid "all around"
 msgstr "зегьы рыкәша-мыкәша"
-
-msgid "all motors"
-msgstr "аматорқәа зегьы"
 
 msgid "Animal"
 msgstr "Аҧстәы"
@@ -679,9 +638,6 @@ msgstr "арҳәага ашҟа ииажәгар шәылшоит:"
 msgid "Cancel"
 msgstr "Аҟәыхра"
 
-msgid "Cannot Add"
-msgstr "Ацҵара ауам"
-
 msgid "Cannot Delete"
 msgstr "Аныхра ауӡом"
 
@@ -730,9 +686,6 @@ msgstr "Акларнет"
 msgid "Claves"
 msgstr "Аклавесин"
 
-msgid "clean up"
-msgstr "арыцқьара"
-
 msgid "Clear"
 msgstr "Ирыцқьатәуп"
 
@@ -748,14 +701,8 @@ msgstr "Иарктәуп"
 msgid "Closed Hi-Hat"
 msgstr "Иаркыу хай-хэт"
 
-msgid "Cloud"
-msgstr "Аҧсҭҳәа"
-
 msgid "Cloud data"
 msgstr "Адыррақәа аҧсҭҳәа аҟынтә"
-
-msgid "Cloud variable (stored on server)"
-msgstr "Аҽеҭак аҧсҭҳәа аҿы (асервер иҭагалоу)"
 
 msgid "color"
 msgstr "аҧштәы"
@@ -807,9 +754,6 @@ msgstr "Акостиумқәа"
 
 msgid "Costumes > 1"
 msgstr "Акостиумқәа > 1"
-
-msgid "Costumes:"
-msgstr "Акостиумқәа:"
 
 msgid "Could not retrieve new application from server."
 msgstr "Иаузом асервер аҟынтәи."
@@ -868,9 +812,6 @@ msgstr "Иҭыгатәуп"
 msgid "Download to your computer"
 msgstr "Иҭыгатәуп шәара шәкомпиутер ахь"
 
-msgid "Downloading new version"
-msgstr "Аверсиа ҿыц ҭагалатәуп"
-
 msgid "duplicate"
 msgstr "адубликат"
 
@@ -907,14 +848,8 @@ msgstr "Аелектроника"
 msgid "Ellipse"
 msgstr "Аеллипс"
 
-msgid "empty"
-msgstr "Иҭацәуп"
-
 msgid "Erase"
 msgstr "Аныхга"
-
-msgid "Erase all"
-msgstr "Ианыхтәуп зегьы"
 
 msgid "Eraser width"
 msgstr "Аныхга аҭбаара"
@@ -922,26 +857,14 @@ msgstr "Аныхга аҭбаара"
 msgid "Error!"
 msgstr "Агха!"
 
-msgid "everything"
-msgstr "зегьы"
-
 msgid "export"
 msgstr "аекспорт"
-
-msgid "Extension Library"
-msgstr "Ахарҭәаарақәа рбиблиотека"
-
-msgid "Extension Problem"
-msgstr "Ахарҭәаарақәа апроблема рымоуп"
 
 msgid "fade in"
 msgstr "иазырҳалатәуп"
 
 msgid "fade out"
 msgstr "ақәӡаара"
-
-msgid "false"
-msgstr "амц"
 
 msgid "Fantasy"
 msgstr "Афантастика"
@@ -988,9 +911,6 @@ msgstr "Ҧхьаҟа ҿыгҳарак ала"
 msgid "ghost"
 msgstr "алаҧшҵашәара"
 
-msgid "Go to My Stuff"
-msgstr "Ииастәуп сара спроеқтқәа рахь"
-
 msgid "Group"
 msgstr "Гәыҧ-гәыҧла"
 
@@ -1011,15 +931,6 @@ msgstr "Амыругақәа"
 
 msgid "help"
 msgstr "Ацхыраагӡа"
-
-msgid "Hello!"
-msgstr "Абзиара умаз!"
-
-msgid "Hmm..."
-msgstr "Ҳымм..."
-
-msgid "hello"
-msgstr "абзиара умаз"
 
 msgid "High C"
 msgstr "Иҳаракыу До"
@@ -1077,12 +988,6 @@ msgstr "Абиблиотека"
 
 msgid "light"
 msgstr "алашара"
-
-msgid "lights"
-msgstr "алашара"
-
-msgid "limit reached"
-msgstr "аҳәааҿ инаӡоуп"
 
 msgid "Line"
 msgstr "Ацәаҳәа"
@@ -1156,15 +1061,6 @@ msgstr "амозаика"
 msgid "motion"
 msgstr "аиҭаҵра"
 
-msgid "motor"
-msgstr "аматор"
-
-msgid "motor A"
-msgstr "аматор A"
-
-msgid "motor B"
-msgstr "аматор B"
-
 msgid "mouse-pointer"
 msgstr "ахәына арбага"
 
@@ -1179,9 +1075,6 @@ msgstr "Амузыкатә шкатулка"
 
 msgid "Music Loops"
 msgstr "Амузыкатә ҟəараҟəантə"
-
-msgid "My Stuff"
-msgstr "Сара суысумҭақәа"
 
 msgid "myself"
 msgstr "сара схала"
@@ -1236,9 +1129,6 @@ msgstr "Аиҭаҵратә блокқәа ыҟаӡам"
 
 msgid "normal readout"
 msgstr "аҧхьара маншәалоуп"
-
-msgid "not ="
-msgstr "акәӡам ="
 
 msgid "Not saved; network or server problem."
 msgstr "Иеиқәырхаӡам; апроблема рымоуп асет ма асервер"
@@ -1339,9 +1229,6 @@ msgstr "апоп"
 msgid "previous backdrop"
 msgstr "уаанӡатәи аҿаҧшыра"
 
-msgid "Profile"
-msgstr "Апрофиль"
-
 msgid "Project did not load."
 msgstr "Апроеқт ҭагалаӡам."
 
@@ -1384,20 +1271,11 @@ msgstr "Аремикс"
 msgid "Remixing..."
 msgstr "Аремикс аҧҵара..."
 
-msgid "Remove extension blocks"
-msgstr "Ианыхтәуп ахарҭәааратә блокқәа"
-
 msgid "Rename"
 msgstr "Ахьӡ ҧсахтәуп"
 
 msgid "rename variable"
 msgstr "аҽеиҭак ахьӡ ҧсахтәуп"
-
-msgid "Replace existing project"
-msgstr "Иҧсахтәуп иҟоу апроеқт "
-
-msgid "requires sign in"
-msgstr "иаҭахыуп абрахь аҭалара"
 
 msgid "Reshape"
 msgstr "Аформа аҧсахра"
@@ -1444,9 +1322,6 @@ msgstr "Иеқәшәырха абри апроеқт акопиа,  нас иа�
 msgid "Save as"
 msgstr "Иеиқәырхатәуп иаба (ишҧа)"
 
-msgid "Save as a copy"
-msgstr "Иеиқәырхатәуп акопиа ҳасабла"
-
 msgid "Save now"
 msgstr "Иеиқәырхатәуп абыржәы"
 
@@ -1471,30 +1346,17 @@ msgstr "Асаксафон"
 msgid "Scratch Updater"
 msgstr "Scratch Арҿыцра"
 
-msgid "Scratch 2.0 Offline Editor"
-msgstr "Scratch 2.0 Оффлаин Аредақтор"
-
 msgid "Script"
 msgstr "Апрограмма"
 
 msgid "Scripts"
 msgstr "Апрограммақәа"
 
-msgid "Scripts:"
-msgstr "Апрограммақәа:"
-
 msgid "second"
 msgstr "секундк"
 
 msgid "See project page"
 msgstr "Иахәаҧштәуп апроеқт адаҟьа"
-
-msgid ""
-"See the Tips window (on the right) to install the plug-in and get the "
-"extension working."
-msgstr ""
-"Шәаахәаҧш (аргьрахь) аҵаҳәарақәа рҧенџыр, ишықәыргылатәу амодуль ишәоурцаз "
-"аус зуа ахарҭәаара."
 
 msgid "Select"
 msgstr "Иалхтәуп"
@@ -1523,9 +1385,6 @@ msgstr "Акциа"
 msgid "Share to website"
 msgstr "Акциа web - саит аҟны"
 
-msgid "Share to Scratch website"
-msgstr "Акциа Scratch - асаит аҟны"
-
 msgid "shared"
 msgstr "азеиҧш"
 
@@ -1552,9 +1411,6 @@ msgstr "Аҭалара"
 
 msgid "Sign in to save"
 msgstr "Иҭалатәуп, аиқәырхара азы"
-
-msgid "Sign out"
-msgstr "Иҭыҵтәуп"
 
 msgid "silence"
 msgstr "аҭынчра"
@@ -1625,9 +1481,6 @@ msgstr "Асцена алхыуп:"
 msgid "Steel Drum"
 msgstr "Аџыртә даул"
 
-msgid "stored on server"
-msgstr "иеиқәырхоуп асервер аҟны"
-
 msgid "Synth Lead"
 msgstr "Ихадоу асинтезатор"
 
@@ -1649,24 +1502,11 @@ msgstr "Атеқст"
 msgid "that way"
 msgstr "анахь"
 
-msgid "The name is already in use."
-msgstr "Ахьӡ ахархәара амоуп"
-
-msgid ""
-"The project failed to load and Scratch Team has been notified. Press OK to "
-"leave this page."
-msgstr ""
-"Апроеқт аҭагалара ауам, ирзыцҳауп Scratch Агәҧ. Шәақәыӷәӷәа ОК ари адаҟьа "
-"аҭыҵраз."
-
 msgid "Theme"
 msgstr "Атема"
 
 msgid "Things"
 msgstr "Амаҭәарқәа"
-
-msgid "thing"
-msgstr "амаҭәар"
 
 msgid "This is the current version."
 msgstr "Ари уажәтәи аверсиа ауп"
@@ -1711,9 +1551,6 @@ msgstr "Ахкәакь"
 
 msgid "Trombone"
 msgstr "Атромбон"
-
-msgid "true"
-msgstr "Аиаша"
 
 msgid "Turbo mode"
 msgstr "Турбо арежим"
@@ -1823,9 +1660,6 @@ msgstr "Ишәҭахыума иеиқәшәырхарц? Шәақәыгәгәа 
 msgid "Which column do you want to import"
 msgstr "Иарбан еиҵаргылоу аимпорт ахь ишәышьҭуа"
 
-msgid "What's your name?"
-msgstr "Шәара ишәыхьӡузеи?"
-
 msgid "whirl"
 msgstr "акьаҳәхара"
 
@@ -1834,9 +1668,6 @@ msgstr "Амҿтәы шәындыҟәра хәҷы"
 
 msgid "Wooden Flute"
 msgstr "Амҿтәы флеита"
-
-msgid "world"
-msgstr "аҭынчра"
 
 msgid "year"
 msgstr "ашықәс"
@@ -1854,25 +1685,6 @@ msgstr "Шәара шәыхьӡ Scratch аҟны"
 
 msgid "Your Scratch name is required"
 msgstr "иаҭахәуп шәара шәыхьӡ Scratch аҟны"
-
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Аинформациа аҧсҭҳәатә ҽеиҭакқәа ирызкны</b><br>&nbsp;<br>Уажәтәи аамҭазы "
-"ахархәара зуа ихыҧхьаӡаратәу аҽеиҭакқәа роуп<br>Чат-ауадақәа ауӡом, "
-"ианыххоит<br>Ахарҭәаагатә информациа азы<a href= target=>шәахәаҧш АЦХЫРААРА "
-"аҧсҭҳәатә дыррақәа ирызкыу</a>"
-
-msgid "Click  to try again or  to save"
-msgstr "Шәақәыгәгәа аиҭаҟаҵаразы ма аиқәырхараз"
-
-msgid "Eraser width:"
-msgstr "Аныхга аҭбаара:"
-
-msgid "Line width:"
-msgstr "Ацәаҳәа аҭбаара:"
 
 # Offline editor only
 msgid "All Tips"
@@ -1981,6 +1793,199 @@ msgstr ""
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
+
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "Аҧсшәа"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list иаҵанакуеит %s"
+
+#~ msgid "when Stage clicked"
+#~ msgstr "Асцена ианақәыӷәӷәуалакь"
+
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "амотор ахырхарҭа %m.motorDirection"
+
+#~ msgid "set motor power %n"
+#~ msgstr "аматор амчра %n"
+
+#~ msgid "turn motor off"
+#~ msgstr "аматор арцәара"
+
+#~ msgid "turn motor on"
+#~ msgstr "аматор аркра"
+
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "иарктәуп аматор %n секундк"
+
+#~ msgid "when distance < %n"
+#~ msgstr "ирыбжьоу < %n аасҭа"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "анаара = %n ианаҟароу"
+
+#~ msgid "About LEGO WeDo extension..."
+#~ msgstr "LEGO WeDo Ахарҭәаара иазкны..."
+
+#~ msgid "About PicoBoard extension..."
+#~ msgstr "PicoBoard Ахарҭәаара иазкны..."
+
+#~ msgid "Account settings"
+#~ msgstr "Аккаунт архиарақәа"
+
+#~ msgid "add comment here..."
+#~ msgstr "Акоментари ацҵатәуп абрахь..."
+
+#~ msgid "all motors"
+#~ msgstr "аматорқәа зегьы"
+
+#~ msgid "Cannot Add"
+#~ msgstr "Ацҵара ауам"
+
+#~ msgid "clean up"
+#~ msgstr "арыцқьара"
+
+#~ msgid "Cloud"
+#~ msgstr "Аҧсҭҳәа"
+
+#~ msgid "Cloud variable (stored on server)"
+#~ msgstr "Аҽеҭак аҧсҭҳәа аҿы (асервер иҭагалоу)"
+
+#~ msgid "Costumes:"
+#~ msgstr "Акостиумқәа:"
+
+#~ msgid "Downloading new version"
+#~ msgstr "Аверсиа ҿыц ҭагалатәуп"
+
+#~ msgid "empty"
+#~ msgstr "Иҭацәуп"
+
+#~ msgid "Erase all"
+#~ msgstr "Ианыхтәуп зегьы"
+
+#~ msgid "everything"
+#~ msgstr "зегьы"
+
+#~ msgid "Extension Library"
+#~ msgstr "Ахарҭәаарақәа рбиблиотека"
+
+#~ msgid "Extension Problem"
+#~ msgstr "Ахарҭәаарақәа апроблема рымоуп"
+
+#~ msgid "false"
+#~ msgstr "амц"
+
+#~ msgid "Go to My Stuff"
+#~ msgstr "Ииастәуп сара спроеқтқәа рахь"
+
+#~ msgid "Hello!"
+#~ msgstr "Абзиара умаз!"
+
+#~ msgid "Hmm..."
+#~ msgstr "Ҳымм..."
+
+#~ msgid "hello"
+#~ msgstr "абзиара умаз"
+
+#~ msgid "lights"
+#~ msgstr "алашара"
+
+#~ msgid "limit reached"
+#~ msgstr "аҳәааҿ инаӡоуп"
+
+#~ msgid "motor"
+#~ msgstr "аматор"
+
+#~ msgid "motor A"
+#~ msgstr "аматор A"
+
+#~ msgid "motor B"
+#~ msgstr "аматор B"
+
+#~ msgid "My Stuff"
+#~ msgstr "Сара суысумҭақәа"
+
+#~ msgid "not ="
+#~ msgstr "акәӡам ="
+
+#~ msgid "Profile"
+#~ msgstr "Апрофиль"
+
+#~ msgid "Remove extension blocks"
+#~ msgstr "Ианыхтәуп ахарҭәааратә блокқәа"
+
+#~ msgid "Replace existing project"
+#~ msgstr "Иҧсахтәуп иҟоу апроеқт "
+
+#~ msgid "requires sign in"
+#~ msgstr "иаҭахыуп абрахь аҭалара"
+
+#~ msgid "Save as a copy"
+#~ msgstr "Иеиқәырхатәуп акопиа ҳасабла"
+
+#~ msgid "Scratch 2.0 Offline Editor"
+#~ msgstr "Scratch 2.0 Оффлаин Аредақтор"
+
+#~ msgid "Scripts:"
+#~ msgstr "Апрограммақәа:"
+
+#~ msgid ""
+#~ "See the Tips window (on the right) to install the plug-in and get the "
+#~ "extension working."
+#~ msgstr ""
+#~ "Шәаахәаҧш (аргьрахь) аҵаҳәарақәа рҧенџыр, ишықәыргылатәу амодуль "
+#~ "ишәоурцаз аус зуа ахарҭәаара."
+
+#~ msgid "Share to Scratch website"
+#~ msgstr "Акциа Scratch - асаит аҟны"
+
+#~ msgid "Sign out"
+#~ msgstr "Иҭыҵтәуп"
+
+#~ msgid "stored on server"
+#~ msgstr "иеиқәырхоуп асервер аҟны"
+
+#~ msgid "The name is already in use."
+#~ msgstr "Ахьӡ ахархәара амоуп"
+
+#~ msgid ""
+#~ "The project failed to load and Scratch Team has been notified. Press OK "
+#~ "to leave this page."
+#~ msgstr ""
+#~ "Апроеқт аҭагалара ауам, ирзыцҳауп Scratch Агәҧ. Шәақәыӷәӷәа ОК ари адаҟьа "
+#~ "аҭыҵраз."
+
+#~ msgid "thing"
+#~ msgstr "амаҭәар"
+
+#~ msgid "true"
+#~ msgstr "Аиаша"
+
+#~ msgid "What's your name?"
+#~ msgstr "Шәара ишәыхьӡузеи?"
+
+#~ msgid "world"
+#~ msgstr "аҭынчра"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Аинформациа аҧсҭҳәатә ҽеиҭакқәа ирызкны</b><br>&nbsp;<br>Уажәтәи "
+#~ "аамҭазы ахархәара зуа ихыҧхьаӡаратәу аҽеиҭакқәа роуп<br>Чат-ауадақәа "
+#~ "ауӡом, ианыххоит<br>Ахарҭәаагатә информациа азы<a href= target=>шәахәаҧш "
+#~ "АЦХЫРААРА аҧсҭҳәатә дыррақәа ирызкыу</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Шәақәыгәгәа аиҭаҟаҵаразы ма аиқәырхараз"
+
+#~ msgid "Eraser width:"
+#~ msgstr "Аныхга аҭбаара:"
+
+#~ msgid "Line width:"
+#~ msgstr "Ацәаҳәа аҭбаара:"
 
 #~ msgid "cleanup"
 #~ msgstr "арыцқьара"

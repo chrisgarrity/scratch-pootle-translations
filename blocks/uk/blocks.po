@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-12-29 14:13+0000\n"
-"Last-Translator: Григорій <ggromko@mail.ru>\n"
+"PO-Revision-Date: 2015-04-15 15:23+0000\n"
+"Last-Translator: Natalie <nrusk@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
@@ -13,11 +13,11 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1419862394.000000\n"
+"X-POOTLE-MTIME: 1429111406.000000\n"
 
 # The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Українська"
+#~ msgid "Language-Name"
+#~ msgstr "Українська"
 
 msgid "%b and %b"
 msgstr "%b і %b"
@@ -28,8 +28,8 @@ msgstr "%b або %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute з %m.spriteOrStage"
 
-msgid "%m.list contains %s"
-msgstr "%m.list міститься у %s"
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list міститься у %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp з %n"
@@ -472,8 +472,8 @@ msgstr "коли я отримаю %m.broadcast"
 msgid "when I start as a clone"
 msgstr "коли я починаю як клон"
 
-msgid "when Stage clicked"
-msgstr "коли Сцену натиснуто"
+#~ msgid "when Stage clicked"
+#~ msgstr "коли Сцену натиснуто"
 
 msgid "when this sprite clicked"
 msgstr "коли спрайт натиснуто"
@@ -488,28 +488,28 @@ msgid "y position"
 msgstr "значення y"
 
 # 100%
-msgid "set motor direction %m.motorDirection"
-msgstr "напрям двигуна %m.motorDirection"
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "напрям двигуна %m.motorDirection"
 
 # 77%
-msgid "set motor power %n"
-msgstr "потужність двигуна %n"
+#~ msgid "set motor power %n"
+#~ msgstr "потужність двигуна %n"
 
-msgid "turn motor off"
-msgstr "вимкнути двигун"
+#~ msgid "turn motor off"
+#~ msgstr "вимкнути двигун"
 
-msgid "turn motor on"
-msgstr "увімкнути двигун"
+#~ msgid "turn motor on"
+#~ msgstr "увімкнути двигун"
 
 # 100%
-msgid "turn motor on for %n secs"
-msgstr "двигун увімкнути на %n сек"
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "двигун увімкнути на %n сек"
 
-msgid "when distance < %n"
-msgstr "коли відстань < %n"
+#~ msgid "when distance < %n"
+#~ msgstr "коли відстань < %n"
 
-msgid "when tilt = %n"
-msgstr "коли нахил = %n"
+#~ msgid "when tilt = %n"
+#~ msgstr "коли нахил = %n"
 
 # 100%
 # 86%
@@ -563,3 +563,8 @@ msgstr "коли нахил = %n"
 
 #~ msgid "when I am clicked"
 #~ msgstr "коли я клацну"
+
+#: commands-online.txt:7
+#: commands-offline.txt:7
+msgid "%m.list contains %s?"
+msgstr "%m.list міститься у %s?"

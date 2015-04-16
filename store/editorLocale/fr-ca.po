@@ -13,10 +13,6 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1354837017.000000\n"
 
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Français (Canada)"
-
 msgid "%b and %b"
 msgstr "%b et %b"
 
@@ -25,9 +21,6 @@ msgstr "%b ou %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "valeur %m.attribute de %m.spriteOrStage"
-
-msgid "%m.list contains %s"
-msgstr "%m.list contient %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp de %n"
@@ -519,6 +512,11 @@ msgstr ""
 
 msgid "when tilt = %n"
 msgstr ""
+
+#: commands-online.txt:7 commands-offline.txt:7
+#, fuzzy
+msgid "%m.list contains %s?"
+msgstr "%m.list contient %s"
 
 msgid "10 ^"
 msgstr ""
@@ -2001,6 +1999,13 @@ msgstr ""
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
+
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "Français (Canada)"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list contient %s"
 
 # 89%
 # 86%

@@ -14,10 +14,6 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1394104438.000000\n"
 
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "ಭಾಷೆ-ಹೆಸರು"
-
 msgid "%b and %b"
 msgstr "%b ಮತ್ತು %b"
 
@@ -26,9 +22,6 @@ msgstr "%b ಅಥವಾ %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m ಲಕ್ಷಣಗಳು %m.ಮೋಹಿನಿ ಅಥವಾ ವೇದಿಕೆ"
-
-msgid "%m.list contains %s"
-msgstr "%m.ಪಟ್ಟಿ %s ಅನ್ನು ಹೊಂದಿದೆ"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp ರ %n"
@@ -487,26 +480,10 @@ msgstr "x ಸ್ಥಾನ"
 msgid "y position"
 msgstr "y ಸ್ಥಾನ"
 
-msgid "set motor direction %m.motorDirection"
-msgstr "ವಾಹನದ ದಿಕ್ಕನ್ನು %mಗೆ ಹೊಂದಿಸು.ವಾಹನದದಿಕ್ಕು"
-
-msgid "set motor power %n"
-msgstr "ವಾಹನದ ವಿದ್ಯುತ್ತನ್ನು %nಗೆ ಹೊಂದಿಸು"
-
-msgid "turn motor off"
-msgstr "ವಾಹನವನ್ನು ನಿಲ್ಲಿಸು"
-
-msgid "turn motor on"
-msgstr "ವಾಹನವನ್ನು ಚಾಲನೆ ಮಾಡು"
-
-msgid "turn motor on for %n secs"
-msgstr "ವಾಹನವನ್ನು %n ಸೆಕೆಂಡಿನಷ್ಟು ಚಲಾನೆ ಮಾಡು"
-
-msgid "when distance < %n"
-msgstr "ದೂರವು ಯಾವಾಗ < %n"
-
-msgid "when tilt = %n"
-msgstr "ಯಾವಗವೆಂದರೆ ಓರೆಮಾಡು = %n"
+#: commands-online.txt:7 commands-offline.txt:7
+#, fuzzy
+msgid "%m.list contains %s?"
+msgstr "%m.ಪಟ್ಟಿ %s ಅನ್ನು ಹೊಂದಿದೆ"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -541,9 +518,6 @@ msgstr ""
 
 msgid "abs"
 msgstr "ಪೂರ್ಣಾಂಕ"
-
-msgid "Account settings"
-msgstr "ಖಾತೆಯ ಅಳವಡಿಕೆಗಳು"
 
 msgid "acos"
 msgstr "acos"
@@ -1877,15 +1851,6 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>ಮೋಡದ ಪರಿವರ್ತನೆಗಳ ಮಾಹಿತಿ</b><br>&nbsp;<br>ಈವಾಗ ಅಂಕಿಗಳಿಗೆ ಮಾತ್ರ ಬೆಂಬಲ "
-"ನೀಡುತ್ತದೆ<br>ಸಂಬಾಷಣೆ ಕೋಣಗಳಿಗೆ ಅವಕಾಶವಿಲ್ಲ,ಮತ್ತು ಇದನ್ನು ತಗೆದುಹಾಕಲಾಗುತ್ತದೆ<br>ಹೆಚ್ಚಿನ "
-"ಮಾಹಿತಿಗಾಗಿ,<a href=target=>ಮೋಡದ ದತ್ತಾ೦ಸಗಳನ್ನು ನೋಡಿ FAQ!</a>"
-
 msgid "Click  to try again or  to save"
 msgstr ""
 
@@ -1997,6 +1962,34 @@ msgstr ""
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "ಭಾಷೆ-ಹೆಸರು"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.ಪಟ್ಟಿ %s ಅನ್ನು ಹೊಂದಿದೆ"
+
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "ವಾಹನದ ದಿಕ್ಕನ್ನು %mಗೆ ಹೊಂದಿಸು.ವಾಹನದದಿಕ್ಕು"
+
+#~ msgid "set motor power %n"
+#~ msgstr "ವಾಹನದ ವಿದ್ಯುತ್ತನ್ನು %nಗೆ ಹೊಂದಿಸು"
+
+#~ msgid "turn motor off"
+#~ msgstr "ವಾಹನವನ್ನು ನಿಲ್ಲಿಸು"
+
+#~ msgid "turn motor on"
+#~ msgstr "ವಾಹನವನ್ನು ಚಾಲನೆ ಮಾಡು"
+
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "ವಾಹನವನ್ನು %n ಸೆಕೆಂಡಿನಷ್ಟು ಚಲಾನೆ ಮಾಡು"
+
+#~ msgid "when distance < %n"
+#~ msgstr "ದೂರವು ಯಾವಾಗ < %n"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "ಯಾವಗವೆಂದರೆ ಓರೆಮಾಡು = %n"
+
 # 86%
 #, fuzzy
 #~ msgid "set %m.motor direction to %m.motorDirection"
@@ -2010,6 +2003,19 @@ msgstr ""
 
 #~ msgid "play note %n for %n beats"
 #~ msgstr "%d.note ಲಯದಲ್ಲಿ %n ಸಂಗಿತದಸ್ವರ ಕೇಳಿಸು"
+
+#~ msgid "Account settings"
+#~ msgstr "ಖಾತೆಯ ಅಳವಡಿಕೆಗಳು"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>ಮೋಡದ ಪರಿವರ್ತನೆಗಳ ಮಾಹಿತಿ</b><br>&nbsp;<br>ಈವಾಗ ಅಂಕಿಗಳಿಗೆ ಮಾತ್ರ ಬೆಂಬಲ "
+#~ "ನೀಡುತ್ತದೆ<br>ಸಂಬಾಷಣೆ ಕೋಣಗಳಿಗೆ ಅವಕಾಶವಿಲ್ಲ,ಮತ್ತು ಇದನ್ನು "
+#~ "ತಗೆದುಹಾಕಲಾಗುತ್ತದೆ<br>ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ,<a href=target=>ಮೋಡದ ದತ್ತಾ೦ಸಗಳನ್ನು "
+#~ "ನೋಡಿ FAQ!</a>"
 
 #~ msgid "Paint"
 #~ msgstr "ಚಿತ್ರ ಬರೆ"

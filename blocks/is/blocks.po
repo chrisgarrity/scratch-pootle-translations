@@ -15,8 +15,8 @@ msgstr ""
 "X-POOTLE-MTIME: 1367868698.000000\n"
 
 # The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Íslenska"
+#~ msgid "Language-Name"
+#~ msgstr "Íslenska"
 
 msgid "%b and %b"
 msgstr "%b og %b"
@@ -27,8 +27,8 @@ msgstr "%b eða %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute af %m.spriteOrStage"
 
-msgid "%m.list contains %s"
-msgstr "%m.list inniheldur %s"
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list inniheldur %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp af %n"
@@ -492,28 +492,28 @@ msgid "y position"
 msgstr "y hnit"
 
 # 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "hreyfill stefnir %m.motorDirection"
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "hreyfill stefnir %m.motorDirection"
 
 # 77%
-msgid "set motor power %n"
-msgstr "afl hreyfils verður %n"
+#~ msgid "set motor power %n"
+#~ msgstr "afl hreyfils verður %n"
 
-msgid "turn motor off"
-msgstr "slökkva á hreyfil"
+#~ msgid "turn motor off"
+#~ msgstr "slökkva á hreyfil"
 
-msgid "turn motor on"
-msgstr "kveikja á hreyfli"
+#~ msgid "turn motor on"
+#~ msgstr "kveikja á hreyfli"
 
 # 80%
-msgid "turn motor on for %n secs"
-msgstr "hreyfill gengur í %n sek"
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "hreyfill gengur í %n sek"
 
-msgid "when distance < %n"
-msgstr "þegar fjarlægð < %n"
+#~ msgid "when distance < %n"
+#~ msgstr "þegar fjarlægð < %n"
 
-msgid "when tilt = %n"
-msgstr "þegar halli = %n"
+#~ msgid "when tilt = %n"
+#~ msgstr "þegar halli = %n"
 
 # 89%
 # 86%
@@ -568,3 +568,9 @@ msgstr "þegar halli = %n"
 
 #~ msgid "when I am clicked"
 #~ msgstr "þegar smellt er á mig"
+
+#: commands-online.txt:7
+#: commands-offline.txt:7
+#, fuzzy
+msgid "%m.list contains %s?"
+msgstr "%m.list inniheldur %s"

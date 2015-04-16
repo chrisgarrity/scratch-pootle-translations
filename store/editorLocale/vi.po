@@ -14,10 +14,6 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1401546369.000000\n"
 
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Tiếng Việt"
-
 msgid "%b and %b"
 msgstr "%b và %b"
 
@@ -26,9 +22,6 @@ msgstr "%b hoặc %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute của %m.spriteOrStage"
-
-msgid "%m.list contains %s"
-msgstr "%m.list chứa %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp của %n"
@@ -483,29 +476,10 @@ msgstr "vị trí x"
 msgid "y position"
 msgstr "vị trí y"
 
-# 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "chỉnh chiều quay động cơ thành %m.motorDirection"
-
-# 77%
-msgid "set motor power %n"
-msgstr "chỉnh sức mạnh động cơ thứ %n"
-
-msgid "turn motor off"
-msgstr "tắt động cơ"
-
-msgid "turn motor on"
-msgstr "bật động cơ"
-
-# 80%
-msgid "turn motor on for %n secs"
-msgstr "bật động cơ trong %n giây"
-
-msgid "when distance < %n"
-msgstr "khi khoảng cách < %n"
-
-msgid "when tilt = %n"
-msgstr "khi độ nghiêng = %n"
+#: commands-online.txt:7 commands-offline.txt:7
+#, fuzzy
+msgid "%m.list contains %s?"
+msgstr "%m.list chứa %s"
 
 msgid "10 ^"
 msgstr ""
@@ -1988,6 +1962,37 @@ msgstr ""
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
+
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "Tiếng Việt"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list chứa %s"
+
+# 89%
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "chỉnh chiều quay động cơ thành %m.motorDirection"
+
+# 77%
+#~ msgid "set motor power %n"
+#~ msgstr "chỉnh sức mạnh động cơ thứ %n"
+
+#~ msgid "turn motor off"
+#~ msgstr "tắt động cơ"
+
+#~ msgid "turn motor on"
+#~ msgstr "bật động cơ"
+
+# 80%
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "bật động cơ trong %n giây"
+
+#~ msgid "when distance < %n"
+#~ msgstr "khi khoảng cách < %n"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "khi độ nghiêng = %n"
 
 # 89%
 # 86%

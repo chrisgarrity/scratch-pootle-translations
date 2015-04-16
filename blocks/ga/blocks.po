@@ -22,8 +22,8 @@ msgstr ""
 # FORMATTING
 # Language name as you'd like it to appear in the Languages menu
 # (Required)
-msgid "Language-Name"
-msgstr "Gaeilge"
+#~ msgid "Language-Name"
+#~ msgstr "Gaeilge"
 
 msgid "%b and %b"
 msgstr "%b agus %b"
@@ -34,8 +34,8 @@ msgstr "%b nó %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.aitreabúid de %m.spriteOrStage"
 
-msgid "%m.list contains %s"
-msgstr "%m.list: tá %s ann"
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list: tá %s ann"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp de %n"
@@ -492,28 +492,34 @@ msgstr "ionad x"
 msgid "y position"
 msgstr "ionad y"
 
-msgid "set motor direction %m.motorDirection"
-msgstr "socraigh treo an mhótair: %m.motorDirection"
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "socraigh treo an mhótair: %m.motorDirection"
 
-msgid "set motor power %n"
-msgstr "socraigh cumhacht an mhótair: %n"
+#~ msgid "set motor power %n"
+#~ msgstr "socraigh cumhacht an mhótair: %n"
 
-msgid "turn motor off"
-msgstr "stop an mótar"
+#~ msgid "turn motor off"
+#~ msgstr "stop an mótar"
 
-msgid "turn motor on"
-msgstr "cuir an mótar ar siúl"
+#~ msgid "turn motor on"
+#~ msgstr "cuir an mótar ar siúl"
 
-msgid "turn motor on for %n secs"
-msgstr "cuir an mótar ar siúl ar feadh %n soicind"
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "cuir an mótar ar siúl ar feadh %n soicind"
 
-msgid "when distance < %n"
-msgstr "nuair a bhíonn fad < %n"
+#~ msgid "when distance < %n"
+#~ msgstr "nuair a bhíonn fad < %n"
 
-msgid "when tilt = %n"
-msgstr "nuair atá claon = %n"
+#~ msgid "when tilt = %n"
+#~ msgstr "nuair atá claon = %n"
 
 # 86%
 #, fuzzy
 #~ msgid "set %m.motor direction to %m.motorDirection"
 #~ msgstr "socraigh treo an mhótair: %m.motorDirection"
+
+#: commands-online.txt:7
+#: commands-offline.txt:7
+#, fuzzy
+msgid "%m.list contains %s?"
+msgstr "%m.list: tá %s ann"

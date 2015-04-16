@@ -14,10 +14,6 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1379110593.000000\n"
 
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Հայերեն"
-
 msgid "%b and %b"
 msgstr "%b և %b"
 
@@ -26,9 +22,6 @@ msgstr "%b կամ %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.spriteOrStage ից %m.attribute"
-
-msgid "%m.list contains %s"
-msgstr "%m.list ը պարունակում է %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%n ից %m.mathOp"
@@ -490,29 +483,10 @@ msgstr "Դիրքն x ի վրա"
 msgid "y position"
 msgstr "Դիրքն y ի վրա"
 
-# 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "Սահմանել շարժիչի ուղղությունը %m.motorDirection"
-
-# 77%
-msgid "set motor power %n"
-msgstr "Սահմանել շարժիչի հզորությունը %n"
-
-msgid "turn motor off"
-msgstr "Անջատել շարժիչը"
-
-msgid "turn motor on"
-msgstr "Միացնել շարժիչը"
-
-# 80%
-msgid "turn motor on for %n secs"
-msgstr "Միացնել շարժիչը %n վայրկյանով"
-
-msgid "when distance < %n"
-msgstr "Երբ տարածությունը < %n ից"
-
-msgid "when tilt = %n"
-msgstr "Երբ թեքությունը = %n"
+#: commands-online.txt:7 commands-offline.txt:7
+#, fuzzy
+msgid "%m.list contains %s?"
+msgstr "%m.list ը պարունակում է %s"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -548,9 +522,6 @@ msgstr ""
 
 msgid "abs"
 msgstr "abs (մոդուլ)"
-
-msgid "Account settings"
-msgstr "Հաշվի սահմանումները"
 
 msgid "acos"
 msgstr "acos"
@@ -770,9 +741,6 @@ msgstr "Փակել"
 msgid "Closed Hi-Hat"
 msgstr "Փակված ծնծղա"
 
-msgid "Cloud"
-msgstr "Cloud"
-
 msgid "Cloud data"
 msgstr "Cloud -ի տվյալները"
 
@@ -829,9 +797,6 @@ msgstr "Դիրքեր"
 
 msgid "Costumes > 1"
 msgstr "Դիրքեր > 1"
-
-msgid "Costumes:"
-msgstr "Դիրքեր."
 
 msgid "Could not retrieve new application from server."
 msgstr ""
@@ -1011,9 +976,6 @@ msgstr "Մեկ շերտ առաջ"
 msgid "ghost"
 msgstr "ուրվական"
 
-msgid "Go to My Stuff"
-msgstr "Գնալ դեպի իմ նյութերը"
-
 msgid "Group"
 msgstr "Խումբ"
 
@@ -1107,9 +1069,6 @@ msgstr "լույս"
 #, fuzzy
 msgid "lights"
 msgstr "լույս"
-
-msgid "limit reached"
-msgstr "հասել է վերջնակետին"
 
 msgid "Line"
 msgstr "Գիծ"
@@ -1208,9 +1167,6 @@ msgstr "Երաժշտական արկղիկ"
 
 msgid "Music Loops"
 msgstr "Երաժշտական հանգույցներ"
-
-msgid "My Stuff"
-msgstr "Իմ ունեցածը"
 
 msgid "myself"
 msgstr "Ես ինքս"
@@ -1371,9 +1327,6 @@ msgstr "փոփ"
 msgid "previous backdrop"
 msgstr ""
 
-msgid "Profile"
-msgstr "Անձնական էջ"
-
 msgid "Project did not load."
 msgstr "Նախագիծը չբեռնվեց"
 
@@ -1429,9 +1382,6 @@ msgstr "Անվանափոխել փոփոխականը"
 msgid "Replace existing project"
 msgstr ""
 
-msgid "requires sign in"
-msgstr "Պահանջում է գրանցվել"
-
 msgid "Reshape"
 msgstr "Ձևափոխել"
 
@@ -1477,9 +1427,6 @@ msgstr ""
 msgid "Save as"
 msgstr ""
 
-msgid "Save as a copy"
-msgstr "Պահել, որպես պատճեն"
-
 msgid "Save now"
 msgstr "Պահել հիմա"
 
@@ -1512,9 +1459,6 @@ msgstr "Սցենար"
 
 msgid "Scripts"
 msgstr "Սցենարներ"
-
-msgid "Scripts:"
-msgstr "Սցենարներ."
 
 msgid "second"
 msgstr "երկրորդ"
@@ -1583,9 +1527,6 @@ msgstr "Գրանցվել"
 
 msgid "Sign in to save"
 msgstr "Գրանցվել` պահպանելու համար"
-
-msgid "Sign out"
-msgstr "Դուրս գրվել"
 
 msgid "silence"
 msgstr "Լռություն"
@@ -1658,9 +1599,6 @@ msgstr "Բեմն ընտրված է"
 
 msgid "Steel Drum"
 msgstr "Պողպատե թմբուկ"
-
-msgid "stored on server"
-msgstr "Պահված է սերվերում"
 
 msgid "Synth Lead"
 msgstr ""
@@ -1895,25 +1833,6 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
-# FAQ - Frequently Asked Questions- Հաճախակի տրվող հարցեր
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Տեղեկություն Cloud-ի փոփոխականների վերաբերյալ</b><br>&nbsp;<br>Ներկայումս "
-"միայն թվերն են սատարվում<br>Զրուցասրահներ չեն թույլատրվում և "
-"կվերացվեն<br>մանրամասների համար. <a href= target=>տես Cloud data FAQ!</a>"
-
-msgid "Click  to try again or  to save"
-msgstr "Սեղմել կոճակը նորից փորձելու կամ պահպանելու համար:"
-
-msgid "Eraser width:"
-msgstr "Ռետինի լայնքը."
-
-msgid "Line width:"
-msgstr "Գծի հաստությունը."
-
 # Offline editor only
 msgid "All Tips"
 msgstr ""
@@ -2016,6 +1935,37 @@ msgstr ""
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "Հայերեն"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list ը պարունակում է %s"
+
+# 89%
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "Սահմանել շարժիչի ուղղությունը %m.motorDirection"
+
+# 77%
+#~ msgid "set motor power %n"
+#~ msgstr "Սահմանել շարժիչի հզորությունը %n"
+
+#~ msgid "turn motor off"
+#~ msgstr "Անջատել շարժիչը"
+
+#~ msgid "turn motor on"
+#~ msgstr "Միացնել շարժիչը"
+
+# 80%
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "Միացնել շարժիչը %n վայրկյանով"
+
+#~ msgid "when distance < %n"
+#~ msgstr "Երբ տարածությունը < %n ից"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "Երբ թեքությունը = %n"
+
 # 89%
 # 86%
 #, fuzzy
@@ -2045,6 +1995,62 @@ msgstr ""
 
 #~ msgid "play note %n for %n beats"
 #~ msgstr "նվագել %d.note նոտան %n տակտ"
+
+#~ msgid "Account settings"
+#~ msgstr "Հաշվի սահմանումները"
+
+#~ msgid "Cloud"
+#~ msgstr "Cloud"
+
+#~ msgid "Costumes:"
+#~ msgstr "Դիրքեր."
+
+#~ msgid "Go to My Stuff"
+#~ msgstr "Գնալ դեպի իմ նյութերը"
+
+#~ msgid "limit reached"
+#~ msgstr "հասել է վերջնակետին"
+
+#~ msgid "My Stuff"
+#~ msgstr "Իմ ունեցածը"
+
+#~ msgid "Profile"
+#~ msgstr "Անձնական էջ"
+
+#~ msgid "requires sign in"
+#~ msgstr "Պահանջում է գրանցվել"
+
+#~ msgid "Save as a copy"
+#~ msgstr "Պահել, որպես պատճեն"
+
+#~ msgid "Scripts:"
+#~ msgstr "Սցենարներ."
+
+#~ msgid "Sign out"
+#~ msgstr "Դուրս գրվել"
+
+#~ msgid "stored on server"
+#~ msgstr "Պահված է սերվերում"
+
+# FAQ - Frequently Asked Questions- Հաճախակի տրվող հարցեր
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Տեղեկություն Cloud-ի փոփոխականների վերաբերյալ</b><br>&nbsp;"
+#~ "<br>Ներկայումս միայն թվերն են սատարվում<br>Զրուցասրահներ չեն թույլատրվում "
+#~ "և կվերացվեն<br>մանրամասների համար. <a href= target=>տես Cloud data FAQ!</"
+#~ "a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Սեղմել կոճակը նորից փորձելու կամ պահպանելու համար:"
+
+#~ msgid "Eraser width:"
+#~ msgstr "Ռետինի լայնքը."
+
+#~ msgid "Line width:"
+#~ msgstr "Գծի հաստությունը."
 
 #~ msgid "cleanup"
 #~ msgstr "մաքրում"

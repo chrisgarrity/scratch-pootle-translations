@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-08-19 10:18+0000\n"
-"Last-Translator: Kirsten <kirstendampedersen@gmail.com>\n"
+"PO-Revision-Date: 2015-04-15 13:56+0000\n"
+"Last-Translator: Natalie <nrusk@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
@@ -12,11 +12,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1408443484.000000\n"
+"X-POOTLE-MTIME: 1429106219.000000\n"
 
 # The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Dansk"
+#~ msgid "Language-Name"
+#~ msgstr "Dansk"
 
 msgid "%b and %b"
 msgstr "%b og %b"
@@ -27,8 +27,8 @@ msgstr "%b eller %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute af %m.spriteOrStage"
 
-msgid "%m.list contains %s"
-msgstr "%m.list indeholder %s"
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list indeholder %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp af %n"
@@ -476,8 +476,8 @@ msgstr "når jeg modtager %m.broadcast"
 msgid "when I start as a clone"
 msgstr "når jeg starter som klon"
 
-msgid "when Stage clicked"
-msgstr "når Scene er valgt"
+#~ msgid "when Stage clicked"
+#~ msgstr "når Scene er valgt"
 
 msgid "when this sprite clicked"
 msgstr "når denne sprite klikkes"
@@ -493,30 +493,30 @@ msgstr "y-position"
 
 # 89%
 # 100%
-msgid "set motor direction %m.motorDirection"
-msgstr "sæt motorretning til %m.motorDirection"
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "sæt motorretning til %m.motorDirection"
 
 # 77%
 # 100%
-msgid "set motor power %n"
-msgstr "sæt motorkraft til %n"
+#~ msgid "set motor power %n"
+#~ msgstr "sæt motorkraft til %n"
 
-msgid "turn motor off"
-msgstr "sluk motoren"
+#~ msgid "turn motor off"
+#~ msgstr "sluk motoren"
 
-msgid "turn motor on"
-msgstr "start motoren"
+#~ msgid "turn motor on"
+#~ msgstr "start motoren"
 
 # 80%
 # 100%
-msgid "turn motor on for %n secs"
-msgstr "kør motoren i %n sekunder"
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "kør motoren i %n sekunder"
 
-msgid "when distance < %n"
-msgstr "når afstanden < %n"
+#~ msgid "when distance < %n"
+#~ msgstr "når afstanden < %n"
 
-msgid "when tilt = %n"
-msgstr "når hældningen = %n"
+#~ msgid "when tilt = %n"
+#~ msgstr "når hældningen = %n"
 
 # 89%
 # 100%
@@ -551,3 +551,8 @@ msgstr "når hældningen = %n"
 
 #~ msgid "play note %n for %n beats"
 #~ msgstr "spil tone %d.note i %n slag"
+
+#: commands-online.txt:7
+#: commands-offline.txt:7
+msgid "%m.list contains %s?"
+msgstr "%m.list indeholder %s?"

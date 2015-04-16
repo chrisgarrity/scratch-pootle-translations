@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-02-11 05:51+0000\n"
+"PO-Revision-Date: 2015-04-16 16:08+0000\n"
 "Last-Translator: Claudia <CALLA@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1423633893.000000\n"
+"X-POOTLE-MTIME: 1429200519.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -682,9 +682,8 @@ msgstr "mensaje1"
 msgid "Microphone volume:"
 msgstr "Volumen del micrófono:"
 
-#, fuzzy
 msgid "Middle C"
-msgstr "Do Central"
+msgstr "C Media"
 
 msgid "Min"
 msgstr "Mínimo"
@@ -728,9 +727,8 @@ msgstr "Bucles de música"
 #~ msgid "My Stuff"
 #~ msgstr "Mis Cosas"
 
-#, fuzzy
 msgid "myself"
-msgstr "yo"
+msgstr "mí mismo"
 
 msgid "Nature"
 msgstr "Naturaleza"
@@ -1080,9 +1078,8 @@ msgstr "Compartir al sitio web"
 msgid "shared"
 msgstr "compartido"
 
-#, fuzzy
 msgid "Shift:"
-msgstr "Alternar:"
+msgstr "Mayúsculas"
 
 msgid "show"
 msgstr "mostrar"
@@ -1456,111 +1453,107 @@ msgstr "Tu nombre de Scratch es necesario"
 
 # Offline editor only
 msgid "All Tips"
-msgstr ""
+msgstr "Todos los Consejos"
 
 # Offline editor only
 msgid ""
 "An updated version of the Scratch offline editor is available on the Scratch "
 "website."
 msgstr ""
+"Una versión actualizada del editor de Scratch fuera de línea está disponible "
+"en el sitio Web de Scratch."
 
 # Offline editor only
-#, fuzzy
 msgid "Could not retrieve update location from server."
-msgstr "No se pudo recuperar nueva aplicación de servidor."
+msgstr "No se pudo recuperar localización de actualización del servidor."
 
 # Offline editor only
-#, fuzzy
 msgid "Could not retrieve version information from server."
-msgstr "No se pudo recuperar nueva aplicación de servidor."
+msgstr "No se pudo recuperar información de la versión del servidor."
 
 # Offline editor only
 msgid "Could not write file:"
-msgstr ""
+msgstr "No pudo escribir el archivo:"
 
 # Offline editor only
-#, fuzzy
 msgid "Downloading new version..."
-msgstr "Descargando nueva versión"
+msgstr "Descargando nueva versión..."
 
 # Offline editor only
 msgid "Error saving project"
-msgstr ""
+msgstr "Error al guardar el proyecto"
 
 # Offline editor only
 msgid "Force help file update"
-msgstr ""
+msgstr "Forzar actualización del archivo de ayuda"
 
 # Offline editor only
 msgid "Import experimental HTTP extension"
-msgstr ""
+msgstr "Importar la versión experimental de la extensión HTTP"
 
 # Offline editor only
 msgid "Loading help files..."
-msgstr ""
+msgstr "Cargando archivos de ayuda…"
 
 # Offline editor only
 msgid "Manual Update Available"
-msgstr ""
+msgstr "Actualización Manual Disponible"
 
 # Offline editor only
 msgid "Open Project"
-msgstr ""
+msgstr "Abrir proyecto"
 
 # Offline editor only
 msgid "Please visit the download page to install it."
-msgstr ""
+msgstr "Por favor, visite la página de descarga para instalarlo."
 
 # Offline editor only
 msgid "Quit"
-msgstr ""
+msgstr "Salir"
 
 # Offline editor only
-#, fuzzy
 msgid "Replace existing project?"
-msgstr "Reemplazar proyecto existente"
+msgstr "Reemplazar proyecto actual?"
 
 # Offline editor only
 msgid "Running pre-release"
-msgstr ""
+msgstr "Ejecutando prelanzamiento"
 
 # Offline editor only
-#, fuzzy
 msgid "Save Project"
 msgstr "¿Guardar proyecto?"
 
 # Offline editor only
 msgid "Server error:"
-msgstr ""
+msgstr "Error en el servidor:"
 
 # Offline editor only
-#, fuzzy
 msgid "Share to Scratch Website"
 msgstr "Compartir al sitio web de Scratch"
 
 # Offline editor only
 msgid "Success"
-msgstr ""
+msgstr "Éxito"
 
 # Offline editor only
 msgid "This version is newer than the current release version."
-msgstr ""
+msgstr "Esta versión es más reciente que la versión actual."
 
 # Offline editor only
 msgid "Update check failed"
-msgstr ""
+msgstr "Chequeo de actualización falló"
 
 # Offline editor only
 msgid "Upload failed"
-msgstr ""
+msgstr "Falló el envío"
 
 # Offline editor only
 msgid "Visit download page"
-msgstr ""
+msgstr "Visitar página de descarga"
 
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
-msgstr ""
+msgstr "Su proyecto se ha cargado en scratch.mit.edu"
 
 #~ msgid "cleanup"
 #~ msgstr "limpiar"

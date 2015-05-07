@@ -495,7 +495,7 @@ msgid "a copy of the project file on your computer."
 msgstr "kopija projektne datoteke na tvojem računalniku."
 
 msgid "A newer version of Scratch is available"
-msgstr "Na voljo je novejša različica  Scratcha"
+msgstr "Na voljo je novejša različica Scratcha"
 
 msgid "About"
 msgstr "O Scratchu"
@@ -765,7 +765,7 @@ msgid "Costumes > 1"
 msgstr "Videzov > 1"
 
 msgid "Could not retrieve new application from server."
-msgstr ""
+msgstr "ne morem pridobiti nove aplikacije iz serverja."
 
 msgid "Cowbell"
 msgstr "Kravji zvonec"
@@ -1212,7 +1212,7 @@ msgid "Pencil"
 msgstr "Svinčnik"
 
 msgid "People"
-msgstr "Osebe"
+msgstr "Stiki"
 
 msgid "Percussion"
 msgstr "Tolkala"
@@ -1227,7 +1227,7 @@ msgid "Pick up color"
 msgstr "Izberi barvo"
 
 msgid "pixelate"
-msgstr "pikseliraj"
+msgstr "Pretvori v točke"
 
 msgid "Pizzicato"
 msgstr "Godalo Pizzicato"
@@ -1236,7 +1236,7 @@ msgid "pop"
 msgstr "poberi"
 
 msgid "previous backdrop"
-msgstr ""
+msgstr "Prejšnje Ozadje"
 
 msgid "Project did not load."
 msgstr "Projekt se ni naložil."
@@ -1260,7 +1260,7 @@ msgid "Record new sound"
 msgstr "Posnemi nov zvok"
 
 msgid "record..."
-msgstr "snemam..."
+msgstr "posnami..."
 
 msgid "recording1"
 msgstr "posnetek1"
@@ -1302,7 +1302,7 @@ msgid "resistance-D"
 msgstr "resistance-D"
 
 msgid "reverse"
-msgstr "obrni"
+msgstr "obratno"
 
 msgid "Revert"
 msgstr "Obnovi"
@@ -1320,13 +1320,13 @@ msgid "rotation style:"
 msgstr "način vrtenja:"
 
 msgid "Run without screen refresh"
-msgstr "Izvajaj brez osveževanja zaslona"
+msgstr "Izvajaj brez osveževanja"
 
 msgid "Save"
 msgstr "Shrani"
 
 msgid "Save a copy of this project and add your own ideas."
-msgstr ""
+msgstr "Shrani projekt in dodaj svoje ideje."
 
 msgid "Save as"
 msgstr "Shrani kot"
@@ -1524,8 +1524,8 @@ msgid ""
 "This project can detect who is using it, through the “username” block. To "
 "hide your identity, sign out before using the project."
 msgstr ""
-"Ta projekt lahko s pomočjo bloka \"uporabniško ime\" zazna, kdo ga "
-"uporablja. Če želiš skriti svojo identiteto, se pred uporabo projekta odjavi."
+"Ta projekt lahko s pomočjo bloka “uporabniško ime” zazna, kdo ga uporablja. "
+"Če želiš skriti svojo identiteto, se pred uporabo projekta odjavi."
 
 msgid ""
 "This project uses Cloud data ‒ a feature that is available only to signed in "
@@ -1698,109 +1698,106 @@ msgstr "Potrebno je tvoje ime v Scratchu"
 
 # Offline editor only
 msgid "All Tips"
-msgstr ""
+msgstr "Vsi Namigi"
 
 # Offline editor only
 msgid ""
 "An updated version of the Scratch offline editor is available on the Scratch "
 "website."
 msgstr ""
+"Novejša verzija Scratch urejevalnika je na voljo na Scratch spletni strani."
 
 # Offline editor only
 msgid "Could not retrieve update location from server."
-msgstr ""
+msgstr "Ne morem pridobiti lokacije iz serverja."
 
 # Offline editor only
 msgid "Could not retrieve version information from server."
-msgstr ""
+msgstr "Ne morem pridobiti informacije o verziji iz serverja."
 
 # Offline editor only
 msgid "Could not write file:"
-msgstr ""
+msgstr "Ni mogoče zapisati datoteke:"
 
 # Offline editor only
-#, fuzzy
 msgid "Downloading new version..."
-msgstr "Prenašanje nove različice"
+msgstr "Prenašanje nove različice..."
 
 # Offline editor only
 msgid "Error saving project"
-msgstr ""
+msgstr "Napaka pri shranjevanju projekta"
 
 # Offline editor only
 msgid "Force help file update"
-msgstr ""
+msgstr "Prisili posodobitev"
 
 # Offline editor only
 msgid "Import experimental HTTP extension"
-msgstr ""
+msgstr "Uvozi eksperimentalno HTTP razširitev"
 
 # Offline editor only
 msgid "Loading help files..."
-msgstr ""
+msgstr "Nalaganje pomoči..."
 
 # Offline editor only
 msgid "Manual Update Available"
-msgstr ""
+msgstr "Nova verzija priročnika je na voljo"
 
 # Offline editor only
 msgid "Open Project"
-msgstr ""
+msgstr "Odpri projekt"
 
 # Offline editor only
 msgid "Please visit the download page to install it."
-msgstr ""
+msgstr "Prosim obiščite spletno stran za prenos če želite naložiti."
 
 # Offline editor only
 msgid "Quit"
-msgstr ""
+msgstr "Izhod"
 
 # Offline editor only
-#, fuzzy
 msgid "Replace existing project?"
-msgstr "Nadomesti obstoječ projekt"
+msgstr "Nadomesti obstoječ projekt?"
 
 # Offline editor only
 msgid "Running pre-release"
-msgstr ""
+msgstr "Uporabljate pre-release"
 
 # Offline editor only
-#, fuzzy
 msgid "Save Project"
-msgstr "Naj shranim projekt?"
+msgstr "Shrani projekt"
 
 # Offline editor only
 msgid "Server error:"
-msgstr ""
+msgstr "Napaka strežnika:"
 
 # Offline editor only
-#, fuzzy
 msgid "Share to Scratch Website"
 msgstr "Deli na spletni strani Scratcha"
 
 # Offline editor only
 msgid "Success"
-msgstr ""
+msgstr "Uspeh"
 
 # Offline editor only
 msgid "This version is newer than the current release version."
-msgstr ""
+msgstr "Ta verzija je novejša od uradne verzije."
 
 # Offline editor only
 msgid "Update check failed"
-msgstr ""
+msgstr "Iskanje posodobitev ni uspelo"
 
 # Offline editor only
 msgid "Upload failed"
-msgstr ""
+msgstr "Nalaganje ni uspelo"
 
 # Offline editor only
 msgid "Visit download page"
-msgstr ""
+msgstr "Obišči stran za prenos"
 
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
-msgstr ""
+msgstr "Vaš projekt je bil naložen na spletno stran scratch.mit.edu"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"

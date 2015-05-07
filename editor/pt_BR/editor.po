@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-04-09 12:42+0000\n"
-"Last-Translator: jlmmorais <wannoby@gmail.com>\n"
+"PO-Revision-Date: 2015-04-30 20:07+0000\n"
+"Last-Translator: Mariana <mcasetto@ig.com.br>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1428583365.000000\n"
+"X-POOTLE-MTIME: 1430424479.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -829,7 +829,7 @@ msgid "Other"
 msgstr "Outro"
 
 msgid "other scripts in sprite"
-msgstr "outros roteiros do ator"
+msgstr "outros scripts do ator"
 
 msgid "other scripts in stage"
 msgstr "outros scripts em uso"
@@ -1024,10 +1024,10 @@ msgstr "Atualizador do Scratch"
 
 # 85%
 msgid "Script"
-msgstr "Roteiros"
+msgstr "Scripts"
 
 msgid "Scripts"
-msgstr "Roteiros"
+msgstr "Scripts"
 
 # 87%
 #~ msgid "Scripts:"
@@ -1251,7 +1251,7 @@ msgstr ""
 "usuários autenticados."
 
 msgid "this script"
-msgstr "este roteiro"
+msgstr "este script"
 
 msgid "this sprite"
 msgstr "este ator"

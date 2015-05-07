@@ -48,10 +48,8 @@ msgstr "సమాధానం"
 msgid "ask %s and wait"
 msgstr "%s అడిగి, వేచియుండు"
 
-# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop #"
-msgstr "వెనుకస్థలం/పరస్థలం/వెనుకతెర #"
+msgstr "వెనుక తెర"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
@@ -567,9 +565,8 @@ msgstr "అన్ని చుట్టూ"
 msgid "all motors"
 msgstr ""
 
-#, fuzzy
 msgid "Animal"
-msgstr "జంతువులు"
+msgstr "జంతువు"
 
 msgid "Animals"
 msgstr "జంతువులు"
@@ -585,31 +582,32 @@ msgstr ""
 
 #, fuzzy
 msgid "B connected"
-msgstr "అనుసంధానమైంది"
+msgstr "B అనుసంధానమైంది"
 
 msgid "Back a layer"
 msgstr ""
 
 msgid "backdrop"
-msgstr ""
+msgstr "వెనుక తెర"
 
+#, fuzzy
 msgid "Backdrop"
-msgstr ""
+msgstr "వెనుకతెర లైబ్రరి"
 
 msgid "Backdrop Library"
-msgstr ""
+msgstr "వెనుకతెర లైబ్రరి"
 
 msgid "backdrop1"
-msgstr ""
+msgstr "వెనుక తెర1"
 
 msgid "backdrops"
-msgstr ""
+msgstr "వెనుక తెరలు"
 
 msgid "Backdrops"
-msgstr ""
+msgstr "వెనుక తెరలు"
 
 msgid "Backpack"
-msgstr ""
+msgstr "వెనుక తగిలించుకునే బ్యాగు"
 
 msgid "Bass"
 msgstr ""
@@ -627,10 +625,10 @@ msgid ""
 msgstr ""
 
 msgid "Bitmap"
-msgstr ""
+msgstr "బిట్ మాప్"
 
 msgid "Bitmap Mode"
-msgstr ""
+msgstr "బిట్ మాప్ విధానము"
 
 msgid "Block help"
 msgstr ""

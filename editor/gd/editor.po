@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-04-04 20:29+0000\n"
+"PO-Revision-Date: 2015-05-06 14:43+0000\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: gd\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
 "(n > 2 && n < 20) ? 2 : 3;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1428179364.000000\n"
+"X-POOTLE-MTIME: 1430923392.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -27,7 +27,8 @@ msgstr ""
 "<b>Fiosrachadh a thaobh caochladairean neòil</b><br>&nbsp;<br>Chan eil ach "
 "àireamhan ceadaichte aig an àm seo<br>Chan eil seòmraichean cabadaich "
 "ceadaichte 's thèid an toirt air falbh<br>Airson barrachd fiosrachaidh, <a "
-"href= target=>faic na CÀBHA air dàta neòil!</a>"
+"href=\"/help/faq/#clouddata\" target=\"_blank\">faic na CÀBHA air dàta "
+"neòil!</a>"
 
 msgid "A connected"
 msgstr "A ceangailte"
@@ -1451,111 +1452,109 @@ msgstr "Tha feum air d' ainm Scratch"
 
 # Offline editor only
 msgid "All Tips"
-msgstr ""
+msgstr "A h-uile oidheam"
 
 # Offline editor only
 msgid ""
 "An updated version of the Scratch offline editor is available on the Scratch "
 "website."
 msgstr ""
+"Tha ùrachadh dhen dheasaiche Scratch far loidhne ri fhaighinn air làrach-lìn "
+"Scratch."
 
 # Offline editor only
-#, fuzzy
 msgid "Could not retrieve update location from server."
-msgstr "Cha b' urrainn dhuinn an aplacaid ùr fhaighinn on fhrithealaiche."
+msgstr ""
+"Cha b' urrainn dhuinn ionad na h-aplacaid ùr fhaighinn on fhrithealaiche."
 
 # Offline editor only
-#, fuzzy
 msgid "Could not retrieve version information from server."
-msgstr "Cha b' urrainn dhuinn an aplacaid ùr fhaighinn on fhrithealaiche."
+msgstr ""
+"Cha b' urrainn dhuinn tionndadh na h-aplacaid ùr fhaighinn on fhrithealaiche."
 
 # Offline editor only
 msgid "Could not write file:"
-msgstr ""
+msgstr "Cha b' urrainn dhuinn sgrìobhadh san fhaidhle:"
 
 # Offline editor only
-#, fuzzy
 msgid "Downloading new version..."
-msgstr "A' luchdadh a-nuas tionndadh ùr"
+msgstr "A' luchdadh a-nuas an tionndaidh ùir..."
 
 # Offline editor only
 msgid "Error saving project"
-msgstr ""
+msgstr "Mearachd le sàbhaladh na pròiseict"
 
 # Offline editor only
 msgid "Force help file update"
-msgstr ""
+msgstr "Sparr air gun tèid faidhle na cobharach ùrachadh"
 
 # Offline editor only
 msgid "Import experimental HTTP extension"
-msgstr ""
+msgstr "Ion-phortaich leudachan HTTP deuchainneach"
 
 # Offline editor only
 msgid "Loading help files..."
-msgstr ""
+msgstr "A' luchdadh faidhlichean na cobharach..."
 
 # Offline editor only
 msgid "Manual Update Available"
-msgstr ""
+msgstr "Tha ùrachadh a làimh ri fhaighinn"
 
 # Offline editor only
 msgid "Open Project"
-msgstr ""
+msgstr "Fosgail pròiseact"
 
 # Offline editor only
 msgid "Please visit the download page to install it."
-msgstr ""
+msgstr "Tadhail air duilleag nan luchdaidhean a-nuas gus a stàladh."
 
 # Offline editor only
 msgid "Quit"
-msgstr ""
+msgstr "Fàg an-seo"
 
 # Offline editor only
-#, fuzzy
 msgid "Replace existing project?"
-msgstr "Cuir an àite pròiseict eile"
+msgstr "A bheil thu airson seo a chur an àite pròiseict eile?"
 
 # Offline editor only
 msgid "Running pre-release"
-msgstr ""
+msgstr "A' ruith tionndadh ro-sgaoilidh"
 
 # Offline editor only
-#, fuzzy
 msgid "Save Project"
-msgstr "A bheil thu airson am pròiseact a shàbhaladh?"
+msgstr "Sàbhail am pròiseact"
 
 # Offline editor only
 msgid "Server error:"
-msgstr ""
+msgstr "Mearachd an fhrithealaiche:"
 
 # Offline editor only
-#, fuzzy
 msgid "Share to Scratch Website"
 msgstr "Co-roinn air làrach-lìn Scratch"
 
 # Offline editor only
 msgid "Success"
-msgstr ""
+msgstr "Shoirbhich leis"
 
 # Offline editor only
 msgid "This version is newer than the current release version."
-msgstr ""
+msgstr "Tha an tionndadh seo nas ùire na an tionndadh sgaoilidh làithreach."
 
 # Offline editor only
 msgid "Update check failed"
-msgstr ""
+msgstr "Dh'fhàillig le dearbhadh an ùrachaidh"
 
 # Offline editor only
 msgid "Upload failed"
-msgstr ""
+msgstr "Dh'fhàillig leis an luchdadh suas"
 
 # Offline editor only
 msgid "Visit download page"
-msgstr ""
+msgstr "Tadhail air duilleag nan luchdaidhean a-nuas"
 
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
-msgstr ""
+msgstr "Chaidh am pròiseact agad a luchdadh suas gu scratch.mit.edu"
 
 #~ msgid "cleanup"
 #~ msgstr "sgioblachadh"

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-04-15 15:21+0000\n"
-"Last-Translator: Natalie <nrusk@media.mit.edu>\n"
+"PO-Revision-Date: 2015-04-30 20:03+0000\n"
+"Last-Translator: Mariana <mcasetto@ig.com.br>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1429111307.000000\n"
+"X-POOTLE-MTIME: 1430424191.000000\n"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
@@ -72,7 +72,7 @@ msgid "change pen color by %n"
 msgstr "adicione %n à cor da caneta"
 
 msgid "change pen shade by %n"
-msgstr "adicione %n à intensidade da caneta"
+msgstr "adicione %n à tonalidade da caneta"
 
 msgid "change pen size by %n"
 msgstr "adicione %n ao tamanho da caneta"
@@ -147,7 +147,7 @@ msgid "forever"
 msgstr "sempre"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr "deslize por %n segundos até x:%n y:%n"
+msgstr "deslize por %n seg até x:%n y:%n"
 
 msgid "go back %n layers"
 msgstr "vá %n camadas para trás"
@@ -322,7 +322,7 @@ msgid "set pen color to %n"
 msgstr "mude a cor da caneta para %n"
 
 msgid "set pen shade to %n"
-msgstr "mude a intensidade da caneta para %n"
+msgstr "mude a tonalidade da caneta para %n"
 
 msgid "set pen size to %n"
 msgstr "mude o tamanho da caneta para %n"
@@ -422,7 +422,7 @@ msgstr "ligue o %m.motor"
 # 80%
 # 89%
 msgid "turn %m.motor on for %n secs"
-msgstr "ligue o %m.motor por %n segundos"
+msgstr "ligue o %m.motor por %n seg"
 
 msgid "turn video %m.videoState"
 msgstr "vídeo %m.videoState"
@@ -438,7 +438,7 @@ msgid "volume"
 msgstr "volume"
 
 msgid "wait %n secs"
-msgstr "espere %n segundos"
+msgstr "espere %n seg"
 
 msgid "wait until %b"
 msgstr "espere até %b"

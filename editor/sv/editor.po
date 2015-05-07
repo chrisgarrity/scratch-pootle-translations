@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-02-13 09:35+0000\n"
-"Last-Translator: Anders <anders.berggren@smedjebacken.se>\n"
+"PO-Revision-Date: 2015-04-22 18:14+0000\n"
+"Last-Translator: devadatta <joacimj@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1423820116.000000\n"
+"X-POOTLE-MTIME: 1429726464.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -352,9 +352,8 @@ msgstr "Klädslar > 1"
 #~ msgid "Costumes:"
 #~ msgstr "Klädslar:"
 
-#, fuzzy
 msgid "Could not retrieve new application from server."
-msgstr "Det gick inte att hämta ny applikation från servern."
+msgstr "Det gick inte att hämta nytt tilläggsprogram från servern."
 
 msgid "Cowbell"
 msgstr "Koskälla"
@@ -621,7 +620,6 @@ msgstr "vänster-höger"
 msgid "length"
 msgstr "längd"
 
-#, fuzzy
 msgid "Letters"
 msgstr "Bokstäver"
 
@@ -1476,111 +1474,107 @@ msgstr "Ditt Scratchnamn krävs"
 
 # Offline editor only
 msgid "All Tips"
-msgstr ""
+msgstr "Alla tips"
 
 # Offline editor only
 msgid ""
 "An updated version of the Scratch offline editor is available on the Scratch "
 "website."
 msgstr ""
+"En uppdaterad version av Scratch offline-redigeraren är tillgänglig på "
+"Scratchhemsidan."
 
 # Offline editor only
-#, fuzzy
 msgid "Could not retrieve update location from server."
-msgstr "Det gick inte att hämta ny applikation från servern."
+msgstr "Det gick inte att hämta uppdateringsplatsen från servern."
 
 # Offline editor only
-#, fuzzy
 msgid "Could not retrieve version information from server."
-msgstr "Det gick inte att hämta ny applikation från servern."
+msgstr "Det gick inte att hämta versionsinformation från servern."
 
 # Offline editor only
 msgid "Could not write file:"
-msgstr ""
+msgstr "Kunde inte skriva filen:"
 
 # Offline editor only
-#, fuzzy
 msgid "Downloading new version..."
-msgstr "Hämta den senaste versionen"
+msgstr "Hämtar senaste versionen..."
 
 # Offline editor only
 msgid "Error saving project"
-msgstr ""
+msgstr "Det gick inte att spara projektet"
 
 # Offline editor only
 msgid "Force help file update"
-msgstr ""
+msgstr "Tvinga uppdatering av hjälpfilen"
 
 # Offline editor only
 msgid "Import experimental HTTP extension"
-msgstr ""
+msgstr "Importera experimentellt HTTP-tillägg"
 
 # Offline editor only
 msgid "Loading help files..."
-msgstr ""
+msgstr "Laddar hjälpfiler..."
 
 # Offline editor only
 msgid "Manual Update Available"
-msgstr ""
+msgstr "Manuell uppdatering tillgänglig"
 
 # Offline editor only
 msgid "Open Project"
-msgstr ""
+msgstr "Öppna projekt"
 
 # Offline editor only
 msgid "Please visit the download page to install it."
-msgstr ""
+msgstr "Besök nerladdningssidan för att installera den."
 
 # Offline editor only
 msgid "Quit"
-msgstr ""
+msgstr "Avsluta"
 
 # Offline editor only
-#, fuzzy
 msgid "Replace existing project?"
-msgstr "Ersätt befintligt projekt"
+msgstr "Ersätt befintligt projekt?"
 
 # Offline editor only
 msgid "Running pre-release"
-msgstr ""
+msgstr "Kör testversion"
 
 # Offline editor only
-#, fuzzy
 msgid "Save Project"
-msgstr "Spara projektet?"
+msgstr "Spara projekt"
 
 # Offline editor only
 msgid "Server error:"
-msgstr ""
+msgstr "Serverfel:"
 
 # Offline editor only
-#, fuzzy
 msgid "Share to Scratch Website"
 msgstr "Dela på Scratchwebbsajt"
 
 # Offline editor only
 msgid "Success"
-msgstr ""
+msgstr "Klar"
 
 # Offline editor only
 msgid "This version is newer than the current release version."
-msgstr ""
+msgstr "Denna version är nyare än den nuvarande standardversionen."
 
 # Offline editor only
 msgid "Update check failed"
-msgstr ""
+msgstr "Uppdateringskontroll misslyckades"
 
 # Offline editor only
 msgid "Upload failed"
-msgstr ""
+msgstr "Uppladdning misslyckades"
 
 # Offline editor only
 msgid "Visit download page"
-msgstr ""
+msgstr "Gå till nerladdningssidan"
 
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
-msgstr ""
+msgstr "Ditt projekt har laddats upp till scratch.mit.edu"
 
 #~ msgid "cleanup"
 #~ msgstr "ordna block"

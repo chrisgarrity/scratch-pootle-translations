@@ -1711,111 +1711,105 @@ msgstr "Scratch名が必要です"
 
 # Offline editor only
 msgid "All Tips"
-msgstr ""
+msgstr "すべてのTips"
 
 # Offline editor only
 msgid ""
 "An updated version of the Scratch offline editor is available on the Scratch "
 "website."
-msgstr ""
+msgstr "ScratchのWebサイトに更新されたScratchオフラインエディターがあります。"
 
 # Offline editor only
-#, fuzzy
 msgid "Could not retrieve update location from server."
-msgstr "サーバーから新しいアプリケーションを取り出せません。"
+msgstr "サーバーから更新版を取り出せません。"
 
 # Offline editor only
-#, fuzzy
 msgid "Could not retrieve version information from server."
-msgstr "サーバーから新しいアプリケーションを取り出せません。"
+msgstr "サーバーからバージョン情報を取り出せません。"
 
 # Offline editor only
 msgid "Could not write file:"
-msgstr ""
+msgstr "ファイルに書き込めません:"
 
 # Offline editor only
-#, fuzzy
 msgid "Downloading new version..."
-msgstr "新しいバージョンをダウンロード中"
+msgstr "新しいバージョンをダウンロード中..."
 
 # Offline editor only
 msgid "Error saving project"
-msgstr ""
+msgstr "プロジェクトの保存エラー"
 
 # Offline editor only
 msgid "Force help file update"
-msgstr ""
+msgstr "ヘルプファイルを強制的に更新"
 
 # Offline editor only
 msgid "Import experimental HTTP extension"
-msgstr ""
+msgstr "実験的なHTTP拡張を読み込み"
 
 # Offline editor only
 msgid "Loading help files..."
-msgstr ""
+msgstr "ヘルプファイルの読み込み中..."
 
 # Offline editor only
 msgid "Manual Update Available"
-msgstr ""
+msgstr "手動更新が可能です"
 
 # Offline editor only
 msgid "Open Project"
-msgstr ""
+msgstr "プロジェクトを開く"
 
 # Offline editor only
 msgid "Please visit the download page to install it."
-msgstr ""
+msgstr "インストールするにはダウンロードページを開いてください。"
 
 # Offline editor only
 msgid "Quit"
-msgstr ""
+msgstr "終了"
 
 # Offline editor only
-#, fuzzy
 msgid "Replace existing project?"
-msgstr "既存のプロジェクトを置換"
+msgstr "既存のプロジェクトを置換しますか?"
 
 # Offline editor only
 msgid "Running pre-release"
-msgstr ""
+msgstr "リリース前のものを実行"
 
 # Offline editor only
-#, fuzzy
 msgid "Save Project"
-msgstr "プロジェクトを保存?"
+msgstr "プロジェクトを保存"
 
 # Offline editor only
 msgid "Server error:"
-msgstr ""
+msgstr "サーバーエラー:"
 
 # Offline editor only
-#, fuzzy
 msgid "Share to Scratch Website"
 msgstr "ScratchのWebサイトで共有する"
 
 # Offline editor only
 msgid "Success"
-msgstr ""
+msgstr "成功"
 
 # Offline editor only
 msgid "This version is newer than the current release version."
-msgstr ""
+msgstr "このバージョンは現在リリースされているものより新しいです。"
 
 # Offline editor only
 msgid "Update check failed"
-msgstr ""
+msgstr "アップデートの確認に失敗しました"
 
 # Offline editor only
 msgid "Upload failed"
-msgstr ""
+msgstr "アップロード失敗"
 
 # Offline editor only
 msgid "Visit download page"
-msgstr ""
+msgstr "ダウンロードページへ行く"
 
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
-msgstr ""
+msgstr "あなたのプロジェクトはscratch.mit.eduへアップロードされました"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"

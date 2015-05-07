@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-02-12 10:17+0000\n"
+"PO-Revision-Date: 2015-04-18 15:12+0000\n"
 "Last-Translator: Rajeshwar <rrgujjari@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: te\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1423736250.000000\n"
+"X-POOTLE-MTIME: 1429369931.000000\n"
 
 msgid "10 ^"
 msgstr ""
@@ -87,9 +87,8 @@ msgstr "అన్ని చుట్టూ"
 msgid "all motors"
 msgstr ""
 
-#, fuzzy
 msgid "Animal"
-msgstr "జంతువులు"
+msgstr "జంతువు"
 
 msgid "Animals"
 msgstr "జంతువులు"
@@ -105,37 +104,38 @@ msgstr ""
 
 #, fuzzy
 msgid "B connected"
-msgstr "అనుసంధానమైంది"
+msgstr "B అనుసంధానమైంది"
 
 msgid "Back a layer"
 msgstr ""
 
 msgid "backdrop"
-msgstr ""
+msgstr "వెనుక తెర"
 
+#, fuzzy
 msgid "Backdrop"
-msgstr ""
+msgstr "వెనుకతెర లైబ్రరి"
 
 msgid "backdrop #"
-msgstr ""
+msgstr "వెనుక తెర"
 
 msgid "Backdrop Library"
-msgstr ""
+msgstr "వెనుకతెర లైబ్రరి"
 
 msgid "backdrop name"
 msgstr ""
 
 msgid "backdrop1"
-msgstr ""
+msgstr "వెనుక తెర1"
 
 msgid "backdrops"
-msgstr ""
+msgstr "వెనుక తెరలు"
 
 msgid "Backdrops"
-msgstr ""
+msgstr "వెనుక తెరలు"
 
 msgid "Backpack"
-msgstr ""
+msgstr "వెనుక తగిలించుకునే బ్యాగు"
 
 msgid "Bass"
 msgstr ""
@@ -153,10 +153,10 @@ msgid ""
 msgstr ""
 
 msgid "Bitmap"
-msgstr ""
+msgstr "బిట్ మాప్"
 
 msgid "Bitmap Mode"
-msgstr ""
+msgstr "బిట్ మాప్ విధానము"
 
 msgid "Block help"
 msgstr ""

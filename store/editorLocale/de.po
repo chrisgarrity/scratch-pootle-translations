@@ -787,7 +787,7 @@ msgid "Costumes > 1"
 msgstr "Kostüme > 1"
 
 msgid "Could not retrieve new application from server."
-msgstr "Neue Anwendung konnte nicht vom Server abgerufen werden."
+msgstr "Die neue Anwendung konnte nicht vom Server abgerufen werden."
 
 msgid "Cowbell"
 msgstr "Kuhglocke"
@@ -1813,7 +1813,7 @@ msgstr "Projekt öffnen"
 
 # Offline editor only
 msgid "Please visit the download page to install it."
-msgstr "Bitte besuche die Download-Seite um es zu installieren."
+msgstr "Besuche bitte die Download-Seite, um es zu installieren."
 
 # Offline editor only
 msgid "Quit"

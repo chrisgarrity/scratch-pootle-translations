@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-02-09 15:10+0000\n"
+"PO-Revision-Date: 2015-05-11 11:15+0000\n"
 "Last-Translator: Michal <mpraznovsky@zsvycapy.edu.sk>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sk\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1423494658.000000\n"
+"X-POOTLE-MTIME: 1431342907.000000\n"
 
 msgid "%b and %b"
 msgstr "%b a %b"
@@ -479,9 +479,8 @@ msgid "y position"
 msgstr "pozícia y"
 
 #: commands-online.txt:7 commands-offline.txt:7
-#, fuzzy
 msgid "%m.list contains %s?"
-msgstr "%m.list obsahuje %s"
+msgstr "%m.list obsahuje %s?"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -774,7 +773,7 @@ msgid "Costumes > 1"
 msgstr "Kostýmov > 1"
 
 msgid "Could not retrieve new application from server."
-msgstr ""
+msgstr "Nemôžem získať novú aplikáciu zo servera."
 
 msgid "Cowbell"
 msgstr "Kravský zvon"
@@ -950,7 +949,7 @@ msgid "Hardware"
 msgstr "Hardvér"
 
 msgid "help"
-msgstr ""
+msgstr "pomocník"
 
 msgid "Hello!"
 msgstr ""
@@ -966,7 +965,7 @@ msgid "High C"
 msgstr "Vysoké C (c''')"
 
 msgid "Holiday"
-msgstr ""
+msgstr "Prázdniny"
 
 msgid "hour"
 msgstr "hodín"
@@ -1170,7 +1169,7 @@ msgid "Not saved; network or server problem."
 msgstr "Neuložené; problém so sieťou, alebo serverom."
 
 msgid "Not saved; project did not load."
-msgstr ""
+msgstr "Neuložené; projekt sa nenačíta."
 
 msgid "of"
 msgstr "z"
@@ -1191,7 +1190,7 @@ msgid "on-flipped"
 msgstr "prevrátený"
 
 msgid "Open"
-msgstr ""
+msgstr "Otvoriť"
 
 msgid "Open Cuica"
 msgstr "Netlmená cuica"
@@ -1228,10 +1227,10 @@ msgid "Paint new sprite"
 msgstr "Nakresliť novú postavu"
 
 msgid "Password"
-msgstr ""
+msgstr "Heslo"
 
 msgid "Password is required"
-msgstr ""
+msgstr "Je vyžadované heslo"
 
 msgid "paste"
 msgstr "prilepiť"
@@ -1264,16 +1263,16 @@ msgid "pop"
 msgstr "pop"
 
 msgid "previous backdrop"
-msgstr ""
+msgstr "predchádzajúce pozadie"
 
 msgid "Project did not load."
-msgstr ""
+msgstr "Projekt sa nenačíta."
 
 msgid "Project not saved!"
 msgstr "Projekt nie je uložený!"
 
 msgid "Project name"
-msgstr ""
+msgstr "Názov projektu"
 
 msgid "Project name is required"
 msgstr ""
@@ -1288,7 +1287,7 @@ msgid "Record new sound"
 msgstr "Nahrať nový zvuk"
 
 msgid "record..."
-msgstr ""
+msgstr "nahrávam ..."
 
 msgid "recording1"
 msgstr "záznam1"
@@ -1364,13 +1363,13 @@ msgid "Save a copy of this project and add your own ideas."
 msgstr ""
 
 msgid "Save as"
-msgstr ""
+msgstr "Uložiť ako"
 
 msgid "Save now"
 msgstr "Uložiť teraz"
 
 msgid "Save project?"
-msgstr ""
+msgstr "Uložiť projekt?"
 
 msgid "save to local file"
 msgstr "uložiť do lokálneho súboru"
@@ -1551,9 +1550,8 @@ msgstr "Tamburína"
 msgid "tan"
 msgstr "tg"
 
-#, fuzzy
 msgid "text"
-msgstr "Text"
+msgstr "text"
 
 msgid "Text"
 msgstr "Text"
@@ -1664,13 +1662,13 @@ msgid "up arrow"
 msgstr "šípka hore"
 
 msgid "Update failed"
-msgstr ""
+msgstr "Aktualizácia zlyhala"
 
 msgid "Update not needed"
-msgstr ""
+msgstr "Aktualizácia nie je nutná"
 
 msgid "Update now"
-msgstr ""
+msgstr "Aktualizovať teraz"
 
 msgid "Upload backdrop from file"
 msgstr "Nahrať pozadie zo súboru"
@@ -1774,7 +1772,7 @@ msgstr ""
 msgid ""
 "An updated version of the Scratch offline editor is available on the Scratch "
 "website."
-msgstr ""
+msgstr "Je dostupná aktualizovaná verzia offline editora na www stránke."
 
 # Offline editor only
 msgid "Could not retrieve update location from server."
@@ -1789,17 +1787,16 @@ msgid "Could not write file:"
 msgstr ""
 
 # Offline editor only
-#, fuzzy
 msgid "Downloading new version..."
-msgstr "Sťahujem novú verziu"
+msgstr "Sťahujem novú verziu ..."
 
 # Offline editor only
 msgid "Error saving project"
-msgstr ""
+msgstr "Chyba pri ukladaní projektu"
 
 # Offline editor only
 msgid "Force help file update"
-msgstr ""
+msgstr "Vynútená aktualizácia súborov pomocníka"
 
 # Offline editor only
 msgid "Import experimental HTTP extension"
@@ -1807,15 +1804,15 @@ msgstr ""
 
 # Offline editor only
 msgid "Loading help files..."
-msgstr ""
+msgstr "Nahrávam súbory pomocníka ..."
 
 # Offline editor only
 msgid "Manual Update Available"
-msgstr ""
+msgstr "Dostupná ručná aktualizácia"
 
 # Offline editor only
 msgid "Open Project"
-msgstr ""
+msgstr "Otvoriť projekt"
 
 # Offline editor only
 msgid "Please visit the download page to install it."
@@ -1823,11 +1820,11 @@ msgstr ""
 
 # Offline editor only
 msgid "Quit"
-msgstr ""
+msgstr "Ukončiť"
 
 # Offline editor only
 msgid "Replace existing project?"
-msgstr ""
+msgstr "Nahradiť existujúci projekt?"
 
 # Offline editor only
 msgid "Running pre-release"
@@ -1835,11 +1832,11 @@ msgstr ""
 
 # Offline editor only
 msgid "Save Project"
-msgstr ""
+msgstr "Uložiť projekt"
 
 # Offline editor only
 msgid "Server error:"
-msgstr ""
+msgstr "Chyba servera:"
 
 # Offline editor only
 msgid "Share to Scratch Website"
@@ -1847,7 +1844,7 @@ msgstr ""
 
 # Offline editor only
 msgid "Success"
-msgstr ""
+msgstr "Úspech"
 
 # Offline editor only
 msgid "This version is newer than the current release version."
@@ -1859,7 +1856,7 @@ msgstr ""
 
 # Offline editor only
 msgid "Upload failed"
-msgstr ""
+msgstr "Odoslanie zlyhalo"
 
 # Offline editor only
 msgid "Visit download page"

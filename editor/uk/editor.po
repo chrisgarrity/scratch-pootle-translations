@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2014-12-29 14:15+0000\n"
+"PO-Revision-Date: 2015-05-28 08:37+0000\n"
 "Last-Translator: Григорій <ggromko@mail.ru>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: uk\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1419862505.000000\n"
+"X-POOTLE-MTIME: 1432802220.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -1284,7 +1284,7 @@ msgid "timer"
 msgstr "таймер"
 
 msgid "Tips"
-msgstr "Нотатки"
+msgstr "Поради"
 
 msgid "To delete a block definition, first remove all uses of the block."
 msgstr "Щоб видалити блок спочатку видаліть всі, що посилаються на нього"
@@ -1473,111 +1473,105 @@ msgstr "Необхідно ваше псевдо на Скретчі"
 
 # Offline editor only
 msgid "All Tips"
-msgstr ""
+msgstr "Всі поради"
 
 # Offline editor only
 msgid ""
 "An updated version of the Scratch offline editor is available on the Scratch "
 "website."
-msgstr ""
+msgstr "На сайті Скретчу доступна оновлена версія офлайнового редактора Скретч."
 
 # Offline editor only
-#, fuzzy
 msgid "Could not retrieve update location from server."
-msgstr "Неможливо отримати програму з серверу"
+msgstr "Неможливо отримати розташування оновлення з сервера."
 
 # Offline editor only
-#, fuzzy
 msgid "Could not retrieve version information from server."
-msgstr "Неможливо отримати програму з серверу"
+msgstr "Неможливо отримати з сервера дані про версію."
 
 # Offline editor only
 msgid "Could not write file:"
-msgstr ""
+msgstr "Не вдалось записати файл:"
 
 # Offline editor only
-#, fuzzy
 msgid "Downloading new version..."
-msgstr "Завантаження нової версії"
+msgstr "Завантаження нової версії..."
 
 # Offline editor only
 msgid "Error saving project"
-msgstr ""
+msgstr "Помилка збереження проекту"
 
 # Offline editor only
 msgid "Force help file update"
-msgstr ""
+msgstr "Примусове оновлення файлу довідки"
 
 # Offline editor only
 msgid "Import experimental HTTP extension"
-msgstr ""
+msgstr "Імпортувати експериментальні розширення HTTP"
 
 # Offline editor only
 msgid "Loading help files..."
-msgstr ""
+msgstr "Звантаження файлів довідки..."
 
 # Offline editor only
 msgid "Manual Update Available"
-msgstr ""
+msgstr "Доступне оновлення посібника"
 
 # Offline editor only
 msgid "Open Project"
-msgstr ""
+msgstr "Відкрити проект"
 
 # Offline editor only
 msgid "Please visit the download page to install it."
-msgstr ""
+msgstr "Відвідайте сторінку звантажень, щоб встановити його."
 
 # Offline editor only
 msgid "Quit"
-msgstr ""
+msgstr "Вийти"
 
 # Offline editor only
-#, fuzzy
 msgid "Replace existing project?"
-msgstr "Замінити існуючий проект"
+msgstr "Замінити наявний проект?"
 
 # Offline editor only
 msgid "Running pre-release"
-msgstr ""
+msgstr "Запустити пре-реліз"
 
 # Offline editor only
-#, fuzzy
 msgid "Save Project"
-msgstr "Зберегти проект?"
+msgstr "Зберегти проект"
 
 # Offline editor only
 msgid "Server error:"
-msgstr ""
+msgstr "Помилка сервера:"
 
 # Offline editor only
-#, fuzzy
 msgid "Share to Scratch Website"
-msgstr "Відправити на сайт Скретчу"
+msgstr "Опублікувати на сайті Скретчу"
 
 # Offline editor only
 msgid "Success"
-msgstr ""
+msgstr "Успішно"
 
 # Offline editor only
 msgid "This version is newer than the current release version."
-msgstr ""
+msgstr "Ця версія новіша, ніж поточна стабільна версія."
 
 # Offline editor only
 msgid "Update check failed"
-msgstr ""
+msgstr "Спроба пошуку оновлення не вдалася"
 
 # Offline editor only
 msgid "Upload failed"
-msgstr ""
+msgstr "Невдала спроба вивантаження"
 
 # Offline editor only
 msgid "Visit download page"
-msgstr ""
+msgstr "Відвідати сторінку звантаження"
 
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
-msgstr ""
+msgstr "Ваш проект вивантажено на scratch.mit.edu"
 
 #~ msgid "cleanup"
 #~ msgstr "впорядкувати"

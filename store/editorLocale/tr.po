@@ -744,13 +744,11 @@ msgstr "Noktasala dönüştür"
 msgid "Convert to vector"
 msgstr "Çizgisele dönüştür"
 
-#, fuzzy
 msgid "Converting mp3..."
 msgstr "Mp3'ü okuyorum..."
 
-#, fuzzy
 msgid "copy"
-msgstr "kopya"
+msgstr "kopyası"
 
 msgid "Copying..."
 msgstr "Kopyalıyorum..."
@@ -799,7 +797,6 @@ msgstr "Şimdilik, Bulut değişkenlerinde sadece sayılar saklanabiliyor."
 msgid "cut"
 msgstr "kes"
 
-#, fuzzy
 msgid "D connected"
 msgstr "D bağlandı"
 
@@ -1073,7 +1070,6 @@ msgstr "Haberin Adı"
 msgid "message1"
 msgstr "haber1"
 
-#, fuzzy
 msgid "Microphone volume:"
 msgstr "Mikrofon sesi şiddeti:"
 
@@ -1737,111 +1733,107 @@ msgstr "Scratch'daki adın gerekli"
 
 # Offline editor only
 msgid "All Tips"
-msgstr ""
+msgstr "Tüm İpuçları"
 
 # Offline editor only
 msgid ""
 "An updated version of the Scratch offline editor is available on the Scratch "
 "website."
 msgstr ""
+"Scratch ağ-dışı (offline) editörünün güncel bir sürümü Scratch'ın internet "
+"sayfasında bulunmaktadır"
 
 # Offline editor only
-#, fuzzy
 msgid "Could not retrieve update location from server."
-msgstr "Sunucudan yeni uygulama alamadım."
+msgstr "Sunucudan güncelleme yerini alamadım."
 
 # Offline editor only
-#, fuzzy
 msgid "Could not retrieve version information from server."
-msgstr "Sunucudan yeni uygulama alamadım."
+msgstr "Sunucudan sürüm bilgisini alamadım."
 
 # Offline editor only
 msgid "Could not write file:"
-msgstr ""
+msgstr "Dosyayı yazamadım:"
 
 # Offline editor only
-#, fuzzy
 msgid "Downloading new version..."
-msgstr "Yeni sürümü indiriyorum"
+msgstr "Yeni sürümü indiriyorum..."
 
 # Offline editor only
 msgid "Error saving project"
-msgstr ""
+msgstr "Projeyi kaydederken bir hata oluştu"
 
 # Offline editor only
 msgid "Force help file update"
-msgstr ""
+msgstr "Yardım dosyasını güncellemeye zorla"
 
 # Offline editor only
 msgid "Import experimental HTTP extension"
-msgstr ""
+msgstr "Deneme amaçlı, HTTP uzantısını al"
 
 # Offline editor only
 msgid "Loading help files..."
-msgstr ""
+msgstr "Yardım dosyalarını yüklüyorum..."
 
 # Offline editor only
 msgid "Manual Update Available"
-msgstr ""
+msgstr "Manuel Güncelleme Var"
 
 # Offline editor only
 msgid "Open Project"
-msgstr ""
+msgstr "Projeyi Aç"
 
 # Offline editor only
 msgid "Please visit the download page to install it."
-msgstr ""
+msgstr "Yüklemek için indirme sayfasına git."
 
 # Offline editor only
 msgid "Quit"
-msgstr ""
+msgstr "Çık"
 
 # Offline editor only
-#, fuzzy
 msgid "Replace existing project?"
-msgstr "Mevcut projenin üstüne yaz"
+msgstr "Mevcut projenin üstüne yazayım mı?"
 
 # Offline editor only
 msgid "Running pre-release"
-msgstr ""
+msgstr "Deneme sürümü çalışıyor"
 
 # Offline editor only
-#, fuzzy
 msgid "Save Project"
-msgstr "Projeyi kaydedeyim mi?"
+msgstr "Projeyi Kaydet"
 
 # Offline editor only
 msgid "Server error:"
-msgstr ""
+msgstr "Sunucu hatası:"
 
 # Offline editor only
-#, fuzzy
 msgid "Share to Scratch Website"
-msgstr "Scratch web sitesinde paylaş"
+msgstr "Scratch Web Sitesinde Paylaş"
 
 # Offline editor only
 msgid "Success"
-msgstr ""
+msgstr "İşlem tamam"
 
 # Offline editor only
 msgid "This version is newer than the current release version."
-msgstr ""
+msgstr "Bu sürüm, mevcut sürümden daha yeni."
 
 # Offline editor only
 msgid "Update check failed"
-msgstr ""
+msgstr "Güncelleme kontrolü başarısız"
 
 # Offline editor only
 msgid "Upload failed"
-msgstr ""
+msgstr "Güncelleme başarısız"
 
 # Offline editor only
 msgid "Visit download page"
-msgstr ""
+msgstr "İndirme sayfasına git"
 
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
-msgstr ""
+msgstr "Projen scratch.mit.edu sitesine atıldı"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"

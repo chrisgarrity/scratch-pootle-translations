@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-04-18 11:42+0000\n"
+"PO-Revision-Date: 2015-05-18 13:18+0000\n"
 "Last-Translator: Eli <sarwannet@hotmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ug\n"
@@ -12,13 +12,13 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1429357329.000000\n"
+"X-POOTLE-MTIME: 1431955134.000000\n"
 
 msgid "%b and %b"
 msgstr "%b ۋە %b"
 
 msgid "%b or %b"
-msgstr ""
+msgstr "%b ياكى %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr ""
@@ -30,10 +30,10 @@ msgid "%m.sensor sensor value"
 msgstr "سەزگۈچىنىڭ قىممىتى %m.sensor"
 
 msgid "%n mod %n"
-msgstr ""
+msgstr "%n نى %n گە بۆلگەندىكى قالدۇق"
 
 msgid "add %s to %m.list"
-msgstr ""
+msgstr "%s نى %m.list گە قوشۇش"
 
 msgid "answer"
 msgstr "جاۋاب"
@@ -41,17 +41,14 @@ msgstr "جاۋاب"
 msgid "ask %s and wait"
 msgstr ""
 
-# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop #"
-msgstr "ئارقا كۆرۈنۈش #"
+msgstr "تەگلىك نۇمۇرۇى"
 
-# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr ""
+msgstr "تەگلىك ئىسمى"
 
 msgid "broadcast %m.broadcast"
-msgstr ""
+msgstr "رادىئو %m.broadcast"
 
 msgid "broadcast %m.broadcast and wait"
 msgstr ""
@@ -463,10 +460,10 @@ msgid "when tilt %m.eNe %n"
 msgstr ""
 
 msgid "x position"
-msgstr ""
+msgstr "X ئورنى"
 
 msgid "y position"
-msgstr ""
+msgstr "Y ئورنى"
 
 msgid "set motor direction %m.motorDirection"
 msgstr ""
@@ -505,16 +502,16 @@ msgid ""
 msgstr ""
 
 msgid "A connected"
-msgstr ""
+msgstr "A ئۇلاندى"
 
 msgid "a copy of the project file on your computer."
-msgstr ""
+msgstr "تۈر ھۆججىتى كومپىيۇتېرىڭىزغا كۆچۈرۈلدى."
 
 msgid "A newer version of Scratch is available"
-msgstr ""
+msgstr "Scratch نىڭ يېڭى نەشرى بار"
 
 msgid "About"
-msgstr ""
+msgstr "ھەققىدە"
 
 msgid "About LEGO WeDo extension..."
 msgstr ""
@@ -523,7 +520,7 @@ msgid "About PicoBoard extension..."
 msgstr ""
 
 msgid "abs"
-msgstr "مۇتلەق"
+msgstr "مۇتلەق قىممەت"
 
 msgid "Account settings"
 msgstr ""
@@ -532,10 +529,10 @@ msgid "acos"
 msgstr ""
 
 msgid "Add"
-msgstr ""
+msgstr "قوشۇش"
 
 msgid "Add an Extension"
-msgstr ""
+msgstr "قوشۇلما قوشۇش"
 
 msgid "Add boolean input:"
 msgstr ""
@@ -586,7 +583,7 @@ msgid "B connected"
 msgstr ""
 
 msgid "Back a layer"
-msgstr ""
+msgstr "تۆۋەنكى قەۋەتكە يۆتكەش"
 
 msgid "backdrop"
 msgstr ""
@@ -595,28 +592,28 @@ msgid "Backdrop"
 msgstr ""
 
 msgid "Backdrop Library"
-msgstr ""
+msgstr "تەگلىك ئامبىرى"
 
 msgid "backdrop1"
-msgstr ""
+msgstr "تەگلىك1"
 
 msgid "backdrops"
-msgstr ""
+msgstr "تەگلىك"
 
 msgid "Backdrops"
 msgstr ""
 
 msgid "Backpack"
-msgstr ""
+msgstr "سومكا"
 
 msgid "Bass"
-msgstr ""
+msgstr "تۆۋەن ئاۋاز"
 
 msgid "Bass Drum"
-msgstr ""
+msgstr "تۆۋەن ئاۋازلىق دۇمباق"
 
 msgid "Bassoon"
-msgstr ""
+msgstr "باسون نېيى"
 
 msgid ""
 "Because you have a new Scratch account, any changes to cloud data won't be "
@@ -625,7 +622,7 @@ msgid ""
 msgstr ""
 
 msgid "Bitmap"
-msgstr ""
+msgstr "بىتلىق تەسۋىر"
 
 msgid "Bitmap Mode"
 msgstr ""
@@ -640,13 +637,13 @@ msgid "brightness"
 msgstr "يورۇقلۇقى"
 
 msgid "Bring to front"
-msgstr ""
+msgstr "بىرىنجى قەۋەتكە يوللاش"
 
 msgid "Broadcast"
-msgstr ""
+msgstr "ئاڭلىتىش"
 
 msgid "Brush"
-msgstr ""
+msgstr "چوتكا"
 
 msgid "button pressed"
 msgstr "كونۇپكا بىسلدى"

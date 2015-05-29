@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-04-14 18:17+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
+"PO-Revision-Date: 2015-05-22 09:36+0000\n"
+"Last-Translator: Adil <adilaliev@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: az\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1429035446.000000\n"
+"X-POOTLE-MTIME: 1432287385.000000\n"
 
 msgid "10 ^"
 msgstr ""
@@ -34,7 +34,7 @@ msgid "A newer version of Scratch is available"
 msgstr ""
 
 msgid "About"
-msgstr ""
+msgstr "Haqqında"
 
 msgid "About LEGO WeDo extension..."
 msgstr ""
@@ -43,16 +43,16 @@ msgid "About PicoBoard extension..."
 msgstr ""
 
 msgid "abs"
-msgstr ""
+msgstr "mütləq qiymət"
 
 msgid "Account settings"
 msgstr ""
 
 msgid "acos"
-msgstr ""
+msgstr "acos"
 
 msgid "Add"
-msgstr ""
+msgstr "Əlavə et"
 
 msgid "Add an Extension"
 msgstr ""
@@ -61,7 +61,7 @@ msgid "Add boolean input:"
 msgstr ""
 
 msgid "add comment"
-msgstr ""
+msgstr "şərh əlavə et"
 
 msgid "add comment here..."
 msgstr ""
@@ -76,19 +76,20 @@ msgid "Add string input:"
 msgstr ""
 
 msgid "all"
-msgstr ""
+msgstr "hamısı"
 
 msgid "All"
-msgstr ""
+msgstr "Hamısı"
 
+#, fuzzy
 msgid "all around"
-msgstr ""
+msgstr "hər tərəfə"
 
 msgid "all motors"
 msgstr ""
 
 msgid "Animal"
-msgstr ""
+msgstr "Heyvan"
 
 msgid "Animals"
 msgstr ""

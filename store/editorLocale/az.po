@@ -519,7 +519,7 @@ msgid "A newer version of Scratch is available"
 msgstr ""
 
 msgid "About"
-msgstr ""
+msgstr "Haqqında"
 
 msgid "About LEGO WeDo extension..."
 msgstr ""
@@ -528,16 +528,16 @@ msgid "About PicoBoard extension..."
 msgstr ""
 
 msgid "abs"
-msgstr ""
+msgstr "mütləq qiymət"
 
 msgid "Account settings"
 msgstr ""
 
 msgid "acos"
-msgstr ""
+msgstr "acos"
 
 msgid "Add"
-msgstr ""
+msgstr "Əlavə et"
 
 msgid "Add an Extension"
 msgstr ""
@@ -546,7 +546,7 @@ msgid "Add boolean input:"
 msgstr ""
 
 msgid "add comment"
-msgstr ""
+msgstr "şərh əlavə et"
 
 msgid "add comment here..."
 msgstr ""
@@ -561,19 +561,20 @@ msgid "Add string input:"
 msgstr ""
 
 msgid "all"
-msgstr ""
+msgstr "hamısı"
 
 msgid "All"
-msgstr ""
+msgstr "Hamısı"
 
+#, fuzzy
 msgid "all around"
-msgstr ""
+msgstr "hər tərəfə"
 
 msgid "all motors"
 msgstr ""
 
 msgid "Animal"
-msgstr ""
+msgstr "Heyvan"
 
 msgid "Animals"
 msgstr ""

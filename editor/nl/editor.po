@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2014-07-12 12:37+0000\n"
+"PO-Revision-Date: 2015-05-13 07:27+0000\n"
 "Last-Translator: S.D. <internet@meijer-online.nl>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nl\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1405168629.000000\n"
+"X-POOTLE-MTIME: 1431502068.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -24,8 +24,9 @@ msgid ""
 "\">see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Informatie over cloud-variabelen</b><br>&nbsp;<br>Op dit moment worden "
-"alleen nummers ondersteund.<br>Chatruimtes zijn niet toegestaan en worden "
-"verwijderd.<br>Voor meer info, <a href= target=>zie cloud-data FAQ!</a>"
+"alleen getallen ondersteund.<br>Chatruimtes zijn niet toegestaan en worden "
+"verwijderd.<br>Voor meer informatie, <a href=\"/help/faq/#clouddata\" target="
+"\"_blank\">bekijk de cloud-data FAQ!</a>"
 
 msgid "A connected"
 msgstr "A verbonden"
@@ -34,7 +35,7 @@ msgid "a copy of the project file on your computer."
 msgstr "een kopie van het projectbestand op je computer."
 
 msgid "A newer version of Scratch is available"
-msgstr ""
+msgstr "Er is een nieuwere versie van Scratch beschikbaar"
 
 msgid "About"
 msgstr "Over"
@@ -55,7 +56,7 @@ msgid "acos"
 msgstr "acos"
 
 msgid "Add"
-msgstr ""
+msgstr "Toevoegen"
 
 msgid "Add an Extension"
 msgstr "Voeg een uitbreiding toe"
@@ -64,13 +65,13 @@ msgid "Add boolean input:"
 msgstr "Voeg ja/nee-veld toe:"
 
 msgid "add comment"
-msgstr "nieuw commentaar"
+msgstr "commentaar toevoegen"
 
 msgid "add comment here..."
 msgstr ""
 
 msgid "Add label text:"
-msgstr "Voeg label toe:"
+msgstr "Voeg een tekstlabel toe:"
 
 msgid "Add number input:"
 msgstr "Voeg getalveld toe:"
@@ -228,7 +229,7 @@ msgid "Cello"
 msgstr "Cello"
 
 msgid "Check for updates"
-msgstr ""
+msgstr "Kijk of er updates zijn"
 
 msgid "Choir"
 msgstr "Koor"
@@ -268,7 +269,8 @@ msgid "clear senders/receivers"
 msgstr "wis zenders/ontvangers"
 
 msgid "Click \"Save now\" to try again or \"Download\" to save"
-msgstr "Klik  om opnieuw te proberen of  bewaar"
+msgstr ""
+"Klik op \"Save now\" om het opnieuw te proberen of \"Download\" om te bewaren"
 
 msgid "Close"
 msgstr "Sluiten"
@@ -345,7 +347,7 @@ msgstr "Uiterlijken > 1"
 #~ msgstr "Uiterlijken:"
 
 msgid "Could not retrieve new application from server."
-msgstr ""
+msgstr "Kan nieuwe applicatie niet ophalen van server."
 
 msgid "Cowbell"
 msgstr "Koebel"
@@ -391,7 +393,7 @@ msgid "don't rotate"
 msgstr "niet draaien"
 
 msgid "Don't save"
-msgstr ""
+msgstr "Niet opslaan"
 
 msgid "down"
 msgstr "omlaag"
@@ -548,7 +550,7 @@ msgid "Hardware"
 msgstr "Hardware"
 
 msgid "help"
-msgstr ""
+msgstr "help"
 
 msgid "Hello!"
 msgstr ""
@@ -569,7 +571,7 @@ msgid "High C"
 msgstr "Hoge C"
 
 msgid "Holiday"
-msgstr ""
+msgstr "Kerstmis"
 
 msgid "hour"
 msgstr "uur"
@@ -615,7 +617,7 @@ msgid "length"
 msgstr "lengte"
 
 msgid "Letters"
-msgstr ""
+msgstr "Letters"
 
 msgid "Library"
 msgstr "Bibliotheek"
@@ -685,7 +687,6 @@ msgstr "Berichtnaam"
 msgid "message1"
 msgstr "bericht1"
 
-#, fuzzy
 msgid "Microphone volume:"
 msgstr "Microfoonvolume:"
 
@@ -750,7 +751,7 @@ msgid "New backdrop:"
 msgstr "Nieuwe achtergrond:"
 
 msgid "New Block"
-msgstr ""
+msgstr "Nieuw blok"
 
 msgid "New costume from camera"
 msgstr "Nieuw uiterlijk van camera"
@@ -763,7 +764,7 @@ msgid "New List"
 msgstr "Nieuwe lijst"
 
 msgid "New Message"
-msgstr ""
+msgstr "Nieuw bericht"
 
 msgid "new message..."
 msgstr "nieuw bericht..."
@@ -784,7 +785,7 @@ msgid "New Variable"
 msgstr "Nieuwe variabele"
 
 msgid "next backdrop"
-msgstr ""
+msgstr "volgende achtergrond"
 
 msgid "No motion blocks"
 msgstr "Geen beweegblokken"
@@ -820,7 +821,7 @@ msgid "on-flipped"
 msgstr "aan-gespiegeld"
 
 msgid "Open"
-msgstr ""
+msgstr "Openen"
 
 msgid "Open Cuica"
 msgstr "Cuíca"
@@ -840,9 +841,8 @@ msgstr "Andere"
 msgid "other scripts in sprite"
 msgstr "andere scripts in sprite"
 
-#, fuzzy
 msgid "other scripts in stage"
-msgstr "andere scripts in sprite"
+msgstr "andere scripts op het speelveld"
 
 msgid "Outdoors"
 msgstr "Buiten"
@@ -857,10 +857,10 @@ msgid "Paint new sprite"
 msgstr "Teken nieuwe sprite"
 
 msgid "Password"
-msgstr ""
+msgstr "Wachtwoord"
 
 msgid "Password is required"
-msgstr ""
+msgstr "Wachtwoord is verplicht"
 
 msgid "paste"
 msgstr "plakken"
@@ -893,7 +893,7 @@ msgid "pop"
 msgstr "plop"
 
 msgid "previous backdrop"
-msgstr ""
+msgstr "vorige achtergrond"
 
 #~ msgid "Profile"
 #~ msgstr "Profiel"
@@ -905,10 +905,10 @@ msgid "Project not saved!"
 msgstr "Project niet opgeslagen!"
 
 msgid "Project name"
-msgstr ""
+msgstr "Projectnaam"
 
 msgid "Project name is required"
-msgstr ""
+msgstr "Projectnaam is verplicht"
 
 msgid "random"
 msgstr "willekeurig"
@@ -920,7 +920,7 @@ msgid "Record new sound"
 msgstr "Neem nieuw geluid op"
 
 msgid "record..."
-msgstr ""
+msgstr "opnemen..."
 
 msgid "recording1"
 msgstr "opname1"
@@ -995,10 +995,10 @@ msgid "Save"
 msgstr "Opslaan"
 
 msgid "Save a copy of this project and add your own ideas."
-msgstr ""
+msgstr "Sla een kopie van dit project op en voeg je eigen ideeën toe."
 
 msgid "Save as"
-msgstr ""
+msgstr "Opslaan als"
 
 #~ msgid "Save as a copy"
 #~ msgstr "Opslaan als"
@@ -1007,7 +1007,7 @@ msgid "Save now"
 msgstr "Nu opslaan"
 
 msgid "Save project?"
-msgstr ""
+msgstr "Project opslaan?"
 
 msgid "save to local file"
 msgstr "opslaan naar lokaal bestand"
@@ -1025,7 +1025,7 @@ msgid "Saxophone"
 msgstr "Saxofoon"
 
 msgid "Scratch Updater"
-msgstr ""
+msgstr "Scratch Updater"
 
 msgid "Scratch 2.0 Offline Editor"
 msgstr ""
@@ -1078,7 +1078,7 @@ msgid "Share"
 msgstr "Delen"
 
 msgid "Share to website"
-msgstr ""
+msgstr "Delen op website"
 
 msgid "Share to Scratch website"
 msgstr ""
@@ -1210,9 +1210,8 @@ msgstr "Tamboerijn"
 msgid "tan"
 msgstr "tan"
 
-#, fuzzy
 msgid "text"
-msgstr "Tekst"
+msgstr "tekst"
 
 msgid "Text"
 msgstr "Tekst"
@@ -1238,7 +1237,7 @@ msgid "thing"
 msgstr ""
 
 msgid "This is the current version."
-msgstr ""
+msgstr "Dit is de nieuwste versie."
 
 msgid ""
 "This project can detect who is using it, through the “username” block. To "
@@ -1328,13 +1327,13 @@ msgid "up arrow"
 msgstr "pijltje omhoog"
 
 msgid "Update failed"
-msgstr ""
+msgstr "Het bijwerken is mislukt"
 
 msgid "Update not needed"
-msgstr ""
+msgstr "Bijwerken is niet nodig"
 
 msgid "Update now"
-msgstr ""
+msgstr "Nu bijwerken"
 
 msgid "Upload backdrop from file"
 msgstr "Upload achtergrond"
@@ -1379,7 +1378,7 @@ msgid "Vibraslap"
 msgstr "Vibraslap"
 
 msgid "video direction"
-msgstr ""
+msgstr "videorichting"
 
 msgid "video motion"
 msgstr "videobeweging"
@@ -1434,10 +1433,10 @@ msgstr ""
 "die je maakt is tijdelijk en wordt niet bewaard."
 
 msgid "Your Scratch name"
-msgstr ""
+msgstr "Jouw Scratchnaam"
 
 msgid "Your Scratch name is required"
-msgstr ""
+msgstr "Jouw Scratchnaam is vereist"
 
 #~ msgid ""
 #~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
@@ -1459,105 +1458,106 @@ msgstr ""
 
 # Offline editor only
 msgid "All Tips"
-msgstr ""
+msgstr "Alle tips"
 
 # Offline editor only
 msgid ""
 "An updated version of the Scratch offline editor is available on the Scratch "
 "website."
 msgstr ""
+"Een nieuwere versie van Scratch offline is beschikbaar op de Scratch-website."
 
 # Offline editor only
 msgid "Could not retrieve update location from server."
-msgstr ""
+msgstr "Kan de updatelocatie niet ophalen van de server."
 
 # Offline editor only
 msgid "Could not retrieve version information from server."
-msgstr ""
+msgstr "Kan de versie-informatie niet ophalen van de server."
 
 # Offline editor only
 msgid "Could not write file:"
-msgstr ""
+msgstr "Kan niet schrijven naar bestand:"
 
 # Offline editor only
 msgid "Downloading new version..."
-msgstr ""
+msgstr "Nieuwe versie downloaden..."
 
 # Offline editor only
 msgid "Error saving project"
-msgstr ""
+msgstr "Fout tijdens bewaren project"
 
 # Offline editor only
 msgid "Force help file update"
-msgstr ""
+msgstr "Bijwerken van helpbestand afdwingen"
 
 # Offline editor only
 msgid "Import experimental HTTP extension"
-msgstr ""
+msgstr "Importeer experimentele HTTP-uitbreiding"
 
 # Offline editor only
 msgid "Loading help files..."
-msgstr ""
+msgstr "Helpbestanden laden..."
 
 # Offline editor only
 msgid "Manual Update Available"
-msgstr ""
+msgstr "Handmatige update beschikbaar"
 
 # Offline editor only
 msgid "Open Project"
-msgstr ""
+msgstr "Project openen"
 
 # Offline editor only
 msgid "Please visit the download page to install it."
-msgstr ""
+msgstr "Ga naar de downloadpagina om het te installeren."
 
 # Offline editor only
 msgid "Quit"
-msgstr ""
+msgstr "Afsluiten"
 
 # Offline editor only
 msgid "Replace existing project?"
-msgstr ""
+msgstr "Bestaand project vervangen?"
 
 # Offline editor only
 msgid "Running pre-release"
-msgstr ""
+msgstr "Pre-release uitvoeren"
 
 # Offline editor only
 msgid "Save Project"
-msgstr ""
+msgstr "Project opslaan"
 
 # Offline editor only
 msgid "Server error:"
-msgstr ""
+msgstr "Serverfout:"
 
 # Offline editor only
 msgid "Share to Scratch Website"
-msgstr ""
+msgstr "Delen op Scratch-website"
 
 # Offline editor only
 msgid "Success"
-msgstr ""
+msgstr "Gelukt"
 
 # Offline editor only
 msgid "This version is newer than the current release version."
-msgstr ""
+msgstr "Deze versie is nieuwer dan de officiële nieuwste versie."
 
 # Offline editor only
 msgid "Update check failed"
-msgstr ""
+msgstr "Controle op nieuwe versie mislukt"
 
 # Offline editor only
 msgid "Upload failed"
-msgstr ""
+msgstr "Uploaden is mislukt"
 
 # Offline editor only
 msgid "Visit download page"
-msgstr ""
+msgstr "Bezoek de downloadpagina"
 
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
-msgstr ""
+msgstr "Jouw project is geplaatst op scratch.mit.edu"
 
 #~ msgid "cleanup"
 #~ msgstr "opruimen"

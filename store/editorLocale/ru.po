@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-10-12 14:57+0000\n"
-"Last-Translator: parukhin <parukhin@gmail.com>\n"
+"POT-Creation-Date: 2015-05-29 13:54+0000\n"
+"PO-Revision-Date: 2015-05-11 20:12+0000\n"
+"Last-Translator: GeorgeBgk <g@bougakov.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -13,473 +13,620 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1413125838.000000\n"
+"X-POOTLE-MTIME: 1431375158.000000\n"
 
+#: commands-online.txt:1 commands-offline.txt:1
 msgid "%b and %b"
 msgstr "%b и %b"
 
+#: commands-online.txt:3 commands-offline.txt:3
 msgid "%b or %b"
 msgstr "%b или %b"
 
+#: commands-online.txt:5 commands-offline.txt:5
 msgid "%m.attribute of %m.spriteOrStage"
-msgstr "%m.атрибут от %m.spriteOrStage"
+msgstr "%m.attribute от %m.spriteOrStage"
 
+#: commands-online.txt:7 commands-offline.txt:7
+msgid "%m.list contains %s?"
+msgstr "%m.list содержит %s?"
+
+#: commands-online.txt:9 commands-offline.txt:9
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp от %n"
 
+#: commands-online.txt:11 commands-offline.txt:11
 msgid "%m.sensor sensor value"
 msgstr "%m.sensor значение датчика"
 
+#: commands-online.txt:13 commands-offline.txt:13
 msgid "%n mod %n"
-msgstr "%n mod %n"
+msgstr "остаток от деления %n на %n"
 
+#: commands-online.txt:15 commands-offline.txt:15
 msgid "add %s to %m.list"
 msgstr "добавить %s к %m.list"
 
+#: commands-online.txt:17 commands-offline.txt:17
 msgid "answer"
 msgstr "ответ"
 
+#: commands-online.txt:19 commands-offline.txt:19
 msgid "ask %s and wait"
 msgstr "спросить %s и ждать"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#: commands-online.txt:21 commands-offline.txt:21
 msgid "backdrop #"
 msgstr "фон #"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#: commands-online.txt:23 commands-offline.txt:23
 msgid "backdrop name"
 msgstr "имя фона"
 
+#: commands-online.txt:25 commands-offline.txt:25
 msgid "broadcast %m.broadcast"
 msgstr "передать %m.broadcast"
 
+#: commands-online.txt:27 commands-offline.txt:27
 msgid "broadcast %m.broadcast and wait"
 msgstr "передать %m.broadcast и ждать"
 
+#: commands-online.txt:29 commands-offline.txt:29
 msgid "change %m.effect effect by %n"
 msgstr "изменить %m.effect эффект на %n"
 
+#: commands-online.txt:31 commands-offline.txt:31
 msgid "change %m.var by %n"
 msgstr "изменить %m.var на %n"
 
+#: commands-online.txt:33 commands-offline.txt:33
 msgid "change pen color by %n"
 msgstr "изменить цвет пера на %n"
 
+#: commands-online.txt:35 commands-offline.txt:35
 msgid "change pen shade by %n"
 msgstr "изменить тень пера на %n"
 
+#: commands-online.txt:37 commands-offline.txt:37
 msgid "change pen size by %n"
 msgstr "изменить размер пера на %n"
 
+#: commands-online.txt:39 commands-offline.txt:39
 msgid "change size by %n"
 msgstr "изменить размер на %n"
 
+#: commands-online.txt:41 commands-offline.txt:41
 msgid "change tempo by %n"
 msgstr "изменить темп на %n"
 
+#: commands-online.txt:43 commands-offline.txt:43
 msgid "change volume by %n"
 msgstr "изменить громкость на %n"
 
+#: commands-online.txt:45 commands-offline.txt:45
 msgid "change x by %n"
 msgstr "изменить x на %n"
 
+#: commands-online.txt:47 commands-offline.txt:47
 msgid "change y by %n"
 msgstr "изменить y на %n"
 
+#: commands-online.txt:49 commands-offline.txt:49
 msgid "clear"
 msgstr "очистить"
 
+#: commands-online.txt:51 commands-offline.txt:51
 msgid "clear graphic effects"
 msgstr "убрать графические эффекты"
 
+#: commands-online.txt:53 commands-offline.txt:53
 msgid "color %c is touching %c?"
 msgstr "цвет %c касается %c?"
 
+#: commands-online.txt:55 commands-offline.txt:55
 msgid "Control"
 msgstr "Управление"
 
+#: commands-online.txt:57 commands-offline.txt:57
 msgid "costume #"
 msgstr "костюм #"
 
+#: commands-online.txt:59 commands-offline.txt:59
 msgid "create clone of %m.spriteOnly"
 msgstr "создать клон %m.spriteOnly"
 
+#: commands-online.txt:61 commands-offline.txt:61
 msgid "current %m.timeAndDate"
 msgstr "текущие %m.timeAndDate"
 
+#: commands-online.txt:63 commands-offline.txt:63
 msgid "Data"
 msgstr "Данные"
 
+#: commands-online.txt:65 commands-offline.txt:65
 msgid "days since 2000"
 msgstr "дней с 01.01.2000"
 
+#: commands-online.txt:67 commands-offline.txt:67
 msgid "define"
 msgstr "определить"
 
+#: commands-online.txt:69 commands-offline.txt:69
 msgid "delete %d.listDeleteItem of %m.list"
 msgstr "удалить %d.listDeleteItem из %m.list"
 
+#: commands-online.txt:71 commands-offline.txt:71
 msgid "delete this clone"
 msgstr "удалить клон"
 
+#: commands-online.txt:73 commands-offline.txt:73
 msgid "direction"
 msgstr "направление"
 
+#: commands-online.txt:75 commands-offline.txt:75
 msgid "distance"
 msgstr "расстояние"
 
+#: commands-online.txt:77 commands-offline.txt:77
 msgid "distance to %m.spriteOrMouse"
 msgstr "расстояние до %m.spriteOrMouse"
 
+#: commands-online.txt:79 commands-offline.txt:79
 msgid "else"
 msgstr "иначе"
 
+#: commands-online.txt:81 commands-offline.txt:81
 msgid "Events"
 msgstr "События"
 
+#: commands-online.txt:83 commands-offline.txt:83
 msgid "forever"
 msgstr "всегда"
 
+#: commands-online.txt:85 commands-offline.txt:85
 msgid "glide %n secs to x:%n y:%n"
 msgstr "плыть %n секунд в точку x:%n y:%n"
 
+#: commands-online.txt:87 commands-offline.txt:87
 msgid "go back %n layers"
 msgstr "перейти назад на %n слоев"
 
+#: commands-online.txt:89 commands-offline.txt:89
 msgid "go to %m.spriteOrMouse"
 msgstr "перейти в %m.spriteOrMouse"
 
+#: commands-online.txt:91 commands-offline.txt:91
 msgid "go to front"
 msgstr "перейти в верхний слой"
 
+#: commands-online.txt:93 commands-offline.txt:93
 msgid "go to x:%n y:%n"
 msgstr "перейти в x:%n y:%n"
 
+#: commands-online.txt:95 commands-offline.txt:95
 msgid "hide"
 msgstr "спрятаться"
 
+#: commands-online.txt:97 commands-offline.txt:97
 msgid "hide list %m.list"
 msgstr "скрыть список %m.list"
 
+#: commands-online.txt:99 commands-offline.txt:99
 msgid "hide variable %m.var"
 msgstr "скрыть переменную %m.var"
 
+#: commands-online.txt:101 commands-offline.txt:101
 msgid "if %b then"
 msgstr "если %b , то"
 
+#: commands-online.txt:103 commands-offline.txt:103
 msgid "if on edge, bounce"
 msgstr "если на краю, оттолкнуться"
 
+#: commands-online.txt:105 commands-offline.txt:105
 msgid "insert %s at %d.listItem of %m.list"
 msgstr "вставить %s в %d.listItem из %m.list"
 
+#: commands-online.txt:107 commands-offline.txt:107
 msgid "item %d.listItem of %m.list"
 msgstr "элемент %d.listItem из %m.list"
 
+#: commands-online.txt:109 commands-offline.txt:109
 msgid "join %s %s"
 msgstr "слить %s и %s"
 
+#: commands-online.txt:111 commands-offline.txt:111
 msgid "key %m.key pressed?"
 msgstr "клавиша %m.key нажата?"
 
+#: commands-online.txt:113 commands-offline.txt:113
 msgid "length of %m.list"
 msgstr "длина списка %m.list"
 
+#: commands-online.txt:115 commands-offline.txt:115
 msgid "length of %s"
 msgstr "длина %s"
 
+#: commands-online.txt:117 commands-offline.txt:117
 msgid "letter %n of %s"
 msgstr "буква %n в %s"
 
+#: commands-online.txt:119 commands-offline.txt:119
 msgid "Looks"
 msgstr "Внешность"
 
+#: commands-online.txt:121 commands-offline.txt:121
 msgid "loudness"
 msgstr "громкость"
 
+#: commands-online.txt:123 commands-offline.txt:123
 msgid "More Blocks"
 msgstr "Другие блоки"
 
+#: commands-online.txt:125 commands-offline.txt:125
 msgid "Motion"
 msgstr "Движение"
 
+#: commands-online.txt:127 commands-offline.txt:127
 msgid "mouse down?"
 msgstr "мышка нажата?"
 
+#: commands-online.txt:129 commands-offline.txt:129
 msgid "mouse x"
 msgstr "мышка по x"
 
+#: commands-online.txt:131 commands-offline.txt:131
 msgid "mouse y"
 msgstr "мышка по y"
 
+#: commands-online.txt:133 commands-offline.txt:133
 msgid "move %n steps"
 msgstr "идти %n шагов"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#: commands-online.txt:135 commands-offline.txt:135
 msgid "next backdrop"
 msgstr "следующий фон"
 
+#: commands-online.txt:137 commands-offline.txt:137
 msgid "next costume"
 msgstr "следующий костюм"
 
+#: commands-online.txt:139 commands-offline.txt:139
 msgid "not %b"
 msgstr "не %b"
 
+#: commands-online.txt:141 commands-offline.txt:141
 msgid "Operators"
 msgstr "Операторы"
 
+#: commands-online.txt:143 commands-offline.txt:143
 msgid "Pen"
 msgstr "Перо"
 
+#: commands-online.txt:145 commands-offline.txt:145
 msgid "pen down"
 msgstr "опустить перо"
 
+#: commands-online.txt:147 commands-offline.txt:147
 msgid "pen up"
 msgstr "поднять перо"
 
+#: commands-online.txt:149 commands-offline.txt:149
 msgid "pick random %n to %n"
 msgstr "выдать случайное от %n до %n"
 
+#: commands-online.txt:151 commands-offline.txt:151
 msgid "play drum %d.drum for %n beats"
 msgstr "барабану %d.drum играть %n тактов"
 
 # 83%
+#: commands-online.txt:153 commands-offline.txt:153
 msgid "play note %d.note for %n beats"
 msgstr "играть ноту %d.note %n тактов"
 
+#: commands-online.txt:155 commands-offline.txt:155
 msgid "play sound %m.sound"
 msgstr "играть звук %m.sound"
 
+#: commands-online.txt:157 commands-offline.txt:157
 msgid "play sound %m.sound until done"
-msgstr "играть звук %m.sound до завершения"
+msgstr "играть звук %m.sound до конца"
 
+#: commands-online.txt:159 commands-offline.txt:159
 msgid "point in direction %d.direction"
 msgstr "повернуть в направлении %d.direction"
 
+#: commands-online.txt:161 commands-offline.txt:161
 msgid "point towards %m.spriteOrMouse"
 msgstr "повернуться к %m.spriteOrMouse"
 
+#: commands-online.txt:163 commands-offline.txt:163
 msgid "repeat %n"
 msgstr "повторить %n"
 
+#: commands-online.txt:165 commands-offline.txt:165
 msgid "repeat until %b"
 msgstr "повторять пока не %b"
 
+#: commands-online.txt:167 commands-offline.txt:167
 msgid "replace item %d.listItem of %m.list with %s"
 msgstr "заменить элемент %d.listItem в %m.list на %s"
 
+#: commands-online.txt:169 commands-offline.txt:169
 msgid "reset timer"
 msgstr "перезапустить таймер"
 
+#: commands-online.txt:171 commands-offline.txt:171
 msgid "rest for %n beats"
 msgstr "подождать %n тактов"
 
+#: commands-online.txt:173 commands-offline.txt:173
 msgid "round %n"
 msgstr "округлить %n"
 
+#: commands-online.txt:175 commands-offline.txt:175
 msgid "say %s"
 msgstr "сказать %s"
 
+#: commands-online.txt:177 commands-offline.txt:177
 msgid "say %s for %n secs"
 msgstr "говорить %s в течение %n секунд"
 
+#: commands-online.txt:179 commands-offline.txt:179
 msgid "Sensing"
 msgstr "Сенсоры"
 
+#: commands-online.txt:181 commands-offline.txt:181
 msgid "sensor %m.booleanSensor?"
 msgstr "сенсор %m.booleanSensor?"
 
+#: commands-online.txt:183 commands-offline.txt:183
 msgid "set %m.effect effect to %n"
 msgstr "установить эффект %m.effect в значение %n"
 
-msgid "set %m.var to %s"
-msgstr "задать %m.var значение %s"
-
-msgid "set instrument to %d.instrument"
-msgstr "выбрать инструмент %d.instrument"
+# 77%
+# 75%
+#: commands-online.txt:185 commands-offline.txt:185
+msgid "set %m.motor power to %n"
+msgstr "задать мощность %m.motor значение %n"
 
 # 89%
 # 86%
 # 97%
+#: commands-online.txt:187 commands-offline.txt:187
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "установить направление для %m.motor2 в %m.motorDirection"
+msgstr "задать для %m.motor2 направление %m.motorDirection"
 
-# 77%
-# 75%
-msgid "set %m.motor power to %n"
-msgstr "задать мощность %m.motor значение %n"
+#: commands-online.txt:189 commands-offline.txt:189
+msgid "set %m.var to %s"
+msgstr "задать %m.var значение %s"
 
+#: commands-online.txt:191 commands-offline.txt:191
+msgid "set instrument to %d.instrument"
+msgstr "выбрать инструмент %d.instrument"
+
+#: commands-online.txt:193 commands-offline.txt:193
 msgid "set pen color to %c"
-msgstr "установить цвет пера %c"
+msgstr "установить цвет %c для пера "
 
+#: commands-online.txt:195 commands-offline.txt:195
 msgid "set pen color to %n"
 msgstr "установить цвет пера %n"
 
+#: commands-online.txt:197 commands-offline.txt:197
 msgid "set pen shade to %n"
 msgstr "установить тень пера %n"
 
+#: commands-online.txt:199 commands-offline.txt:199
 msgid "set pen size to %n"
 msgstr "установить размер пера %n"
 
+#: commands-online.txt:201 commands-offline.txt:201
 msgid "set rotation style %m.rotationStyle"
 msgstr "стиль вращения %m.rotationStyle"
 
+#: commands-online.txt:203 commands-offline.txt:203
 msgid "set size to %n%"
 msgstr "установить размер %n%"
 
+#: commands-online.txt:205 commands-offline.txt:205
 msgid "set tempo to %n bpm"
 msgstr "установить темп %n bpm"
 
+#: commands-online.txt:207 commands-offline.txt:207
 msgid "set video transparency to %n%"
 msgstr "установить прозрачность видео %n%"
 
+#: commands-online.txt:209 commands-offline.txt:209
 msgid "set volume to %n%"
 msgstr "установить громкость %n%"
 
+#: commands-online.txt:211 commands-offline.txt:211
 msgid "set x to %n"
 msgstr "установить x в %n"
 
+#: commands-online.txt:213 commands-offline.txt:213
 msgid "set y to %n"
 msgstr "установить y в %n"
 
+#: commands-online.txt:215 commands-offline.txt:215
 msgid "show"
 msgstr "показаться"
 
+#: commands-online.txt:217 commands-offline.txt:217
 msgid "show list %m.list"
 msgstr "показать список %m.list"
 
+#: commands-online.txt:219 commands-offline.txt:219
 msgid "show variable %m.var"
 msgstr "показать переменную %m.var"
 
+#: commands-online.txt:221 commands-offline.txt:221
 msgid "size"
 msgstr "размер"
 
+#: commands-online.txt:223 commands-offline.txt:223
 msgid "Sound"
 msgstr "Звук"
 
+#: commands-online.txt:225 commands-offline.txt:225
 msgid "stamp"
 msgstr "печать"
 
+#: commands-online.txt:227 commands-offline.txt:227
 msgid "stop %m.stop"
 msgstr "стоп %m.stop"
 
+#: commands-online.txt:229 commands-offline.txt:229
 msgid "stop all sounds"
 msgstr "остановить все звуки"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#: commands-online.txt:231 commands-offline.txt:231
 msgid "switch backdrop to %m.backdrop"
 msgstr "сменить фон на %m.backdrop"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#: commands-online.txt:233 commands-offline.txt:233
 msgid "switch backdrop to %m.backdrop and wait"
 msgstr "сменить фон на %m.backdrop и ждать"
 
+#: commands-online.txt:235 commands-offline.txt:235
 msgid "switch costume to %m.costume"
 msgstr "сменить костюм на %m.costume"
 
+#: commands-online.txt:237 commands-offline.txt:237
 msgid "tempo"
 msgstr "темп"
 
+#: commands-online.txt:239 commands-offline.txt:239
 msgid "think %s"
 msgstr "думать %s"
 
+#: commands-online.txt:241 commands-offline.txt:241
 msgid "think %s for %n secs"
 msgstr "думать %s %n секунд"
 
+#: commands-online.txt:243 commands-offline.txt:243
 msgid "tilt"
 msgstr "наклон"
 
+#: commands-online.txt:245 commands-offline.txt:245
 msgid "timer"
 msgstr "таймер"
 
+#: commands-online.txt:247 commands-offline.txt:247
 msgid "touching %m.touching?"
 msgstr "касается %m.touching?"
 
+#: commands-online.txt:249 commands-offline.txt:249
 msgid "touching color %c?"
 msgstr "касается цвета %c?"
 
-msgid "turn @turnLeft %n degrees"
-msgstr "повернуть @turnLeft на %n градусов"
-
-msgid "turn @turnRight %n degrees"
-msgstr "повернуть @turnRight на %n градусов"
-
 # 82%
+#: commands-online.txt:251 commands-offline.txt:251
 msgid "turn %m.motor off"
 msgstr "выключить %m.motor"
 
 # 81%
+#: commands-online.txt:253 commands-offline.txt:253
 msgid "turn %m.motor on"
 msgstr "включить %m.motor"
 
 # 80%
 # 89%
+#: commands-online.txt:255 commands-offline.txt:255
 msgid "turn %m.motor on for %n secs"
 msgstr "включить %m.motor на %n секунд"
 
+#: commands-online.txt:257 commands-offline.txt:257
+msgid "turn @turnLeft %n degrees"
+msgstr "повернуть @turnLeft на %n градусов"
+
+#: commands-online.txt:259 commands-offline.txt:259
+msgid "turn @turnRight %n degrees"
+msgstr "повернуть @turnRight на %n градусов"
+
+#: commands-online.txt:261 commands-offline.txt:261
 msgid "turn video %m.videoState"
 msgstr "повернуть видео на %m.videoState"
 
+#: commands-online.txt:263 commands-offline.txt:263
 msgid "username"
 msgstr "имя участника"
 
+#: commands-online.txt:265 commands-offline.txt:265
 msgid "video %m.videoMotionType on %m.stageOrThis"
 msgstr "видео %m.videoMotionType на %m.stageOrThis"
 
+#: commands-online.txt:267 commands-offline.txt:267
 msgid "volume"
 msgstr "громкость"
 
+#: commands-online.txt:269 commands-offline.txt:269
 msgid "wait %n secs"
 msgstr "ждать %n секунд"
 
+#: commands-online.txt:271 commands-offline.txt:271
 msgid "wait until %b"
 msgstr "ждать до %b"
 
 # 75%
+#: commands-online.txt:273 commands-offline.txt:273
 msgid "when %m.booleanSensor"
 msgstr "сенсор %m.booleanSensor"
 
+#: commands-online.txt:275 commands-offline.txt:275
 msgid "when %m.key key pressed"
 msgstr "когда клавиша %m.key нажата"
 
+#: commands-online.txt:277 commands-offline.txt:277
 msgid "when %m.sensor %m.lessMore %n"
 msgstr "когда %m.sensor %m.lessMore %n"
 
+#: commands-online.txt:279 commands-offline.txt:279
 msgid "when %m.triggerSensor > %n"
 msgstr "когда %m.triggerSensor > %n"
 
+#: commands-online.txt:281 commands-offline.txt:281
 msgid "when @greenFlag clicked"
 msgstr "когда щелкнут по @greenFlag"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#: commands-online.txt:283 commands-offline.txt:283
 msgid "when backdrop switches to %m.backdrop"
 msgstr "когда фон меняется на %m.backdrop"
 
+#: commands-online.txt:285 commands-offline.txt:285
 msgid "when distance %m.lessMore %n"
 msgstr "когда расстояние %m.lessMore %n"
 
+#: commands-online.txt:287 commands-offline.txt:287
 msgid "when I receive %m.broadcast"
 msgstr "когда я получу %m.broadcast"
 
+#: commands-online.txt:289 commands-offline.txt:289
 msgid "when I start as a clone"
 msgstr "когда я начинаю как клон"
 
+#: commands-online.txt:291 commands-offline.txt:291
 msgid "when this sprite clicked"
 msgstr "когда спрайт нажат"
 
+#: commands-online.txt:293 commands-offline.txt:293
 msgid "when tilt %m.eNe %n"
 msgstr "когда наклон %m.eNe %n"
 
+#: commands-online.txt:295 commands-offline.txt:295
 msgid "x position"
 msgstr "положение x"
 
+#: commands-online.txt:297 commands-offline.txt:297
 msgid "y position"
 msgstr "положение y"
-
-#: commands-online.txt:7 commands-offline.txt:7
-#, fuzzy
-msgid "%m.list contains %s?"
-msgstr "%m.list содержит %s"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -497,13 +644,13 @@ msgstr ""
 
 # 90%
 msgid "A connected"
-msgstr "A соединен"
+msgstr "A соединён"
 
 msgid "a copy of the project file on your computer."
-msgstr "копия проекта на вашем компьютере."
+msgstr "копию проекта на вашем компьютере."
 
 msgid "A newer version of Scratch is available"
-msgstr ""
+msgstr "Доступна новая версия Скретч"
 
 msgid "About"
 msgstr "О программе"
@@ -515,7 +662,7 @@ msgid "acos"
 msgstr "acos"
 
 msgid "Add"
-msgstr ""
+msgstr "Добавить"
 
 msgid "Add an Extension"
 msgstr "Добавить дополнение"
@@ -616,7 +763,7 @@ msgstr ""
 "облачные данные!"
 
 msgid "Bitmap"
-msgstr "Битовая карта"
+msgstr "Растровый"
 
 msgid "Bitmap Mode"
 msgstr "Растровый режим"
@@ -631,7 +778,7 @@ msgid "brightness"
 msgstr "яркость"
 
 msgid "Bring to front"
-msgstr "Перенести в передний слой"
+msgstr "На передний план"
 
 msgid "Broadcast"
 msgstr "Передать"
@@ -685,7 +832,7 @@ msgid "Cello"
 msgstr "Виолончель"
 
 msgid "Check for updates"
-msgstr ""
+msgstr "Проверить наличие обновлений"
 
 msgid "Choir"
 msgstr "Хор"
@@ -724,9 +871,8 @@ msgstr "Очистить"
 msgid "clear senders/receivers"
 msgstr "очистить отправители/получатели"
 
-#, fuzzy
 msgid "Click \"Save now\" to try again or \"Download\" to save"
-msgstr "Нажмите   для повтора или  для сохранения"
+msgstr "Нажмите «Сохранить сейчас» для повтора или «Загрузить» для загрузки"
 
 msgid "Close"
 msgstr "Закрыть"
@@ -795,7 +941,7 @@ msgid "Costumes > 1"
 msgstr "Костюмов > 1"
 
 msgid "Could not retrieve new application from server."
-msgstr ""
+msgstr "Невозможно получить новую программу с сервера."
 
 msgid "Cowbell"
 msgstr "Колокольчик"
@@ -839,7 +985,7 @@ msgid "don't rotate"
 msgstr "не вращать"
 
 msgid "Don't save"
-msgstr ""
+msgstr "Не сохранять"
 
 msgid "down"
 msgstr "вниз"
@@ -984,7 +1130,7 @@ msgid "Hardware"
 msgstr "Оборудование"
 
 msgid "help"
-msgstr ""
+msgstr "справка"
 
 msgid "Hello!"
 msgstr ""
@@ -1000,7 +1146,7 @@ msgid "High C"
 msgstr "Высокая До"
 
 msgid "Holiday"
-msgstr ""
+msgstr "Выходные"
 
 msgid "hour"
 msgstr "час"
@@ -1046,7 +1192,7 @@ msgid "length"
 msgstr "длина"
 
 msgid "Letters"
-msgstr ""
+msgstr "Буквы"
 
 msgid "Library"
 msgstr "Библиотека"
@@ -1107,7 +1253,6 @@ msgstr "Имя сообщения"
 msgid "message1"
 msgstr "сообщение1"
 
-#, fuzzy
 msgid "Microphone volume:"
 msgstr "Громкость микрофона:"
 
@@ -1161,7 +1306,7 @@ msgid "New backdrop:"
 msgstr "Новый фон:"
 
 msgid "New Block"
-msgstr ""
+msgstr "Новый блок"
 
 msgid "New costume from camera"
 msgstr "Получить новый костюм с камеры"
@@ -1174,7 +1319,7 @@ msgid "New List"
 msgstr "Новый список"
 
 msgid "New Message"
-msgstr ""
+msgstr "Новое сообщение"
 
 msgid "new message..."
 msgstr "новое сообщение..."
@@ -1226,7 +1371,7 @@ msgid "on-flipped"
 msgstr "перевернутый"
 
 msgid "Open"
-msgstr ""
+msgstr "Открыть"
 
 msgid "Open Cuica"
 msgstr "Открытая Куика"
@@ -1246,9 +1391,8 @@ msgstr "Прочее"
 msgid "other scripts in sprite"
 msgstr "другие скрипты спрайта"
 
-#, fuzzy
 msgid "other scripts in stage"
-msgstr "другие скрипты спрайта"
+msgstr "другие скрипты сцены"
 
 msgid "Outdoors"
 msgstr "На открытом воздухе"
@@ -1263,10 +1407,10 @@ msgid "Paint new sprite"
 msgstr "Нарисовать новый спрайт"
 
 msgid "Password"
-msgstr ""
+msgstr "Пароль"
 
 msgid "Password is required"
-msgstr ""
+msgstr "Необходим пароль"
 
 msgid "paste"
 msgstr "вставить"
@@ -1300,7 +1444,7 @@ msgid "pop"
 msgstr "поп"
 
 msgid "previous backdrop"
-msgstr ""
+msgstr "предыдущий фон"
 
 msgid "Project did not load."
 msgstr "Проект не загружен."
@@ -1309,10 +1453,10 @@ msgid "Project not saved!"
 msgstr "Проект не сохранён!"
 
 msgid "Project name"
-msgstr ""
+msgstr "Название проекта"
 
 msgid "Project name is required"
-msgstr ""
+msgstr "Необходимо название проекта"
 
 msgid "random"
 msgstr "случайное"
@@ -1324,7 +1468,7 @@ msgid "Record new sound"
 msgstr "Записать новый звук"
 
 msgid "record..."
-msgstr ""
+msgstr "запись…"
 
 msgid "recording1"
 msgstr "запись1"
@@ -1394,16 +1538,16 @@ msgid "Save"
 msgstr "Сохранить"
 
 msgid "Save a copy of this project and add your own ideas."
-msgstr ""
+msgstr "Сохрани копию проекта и добавь что-то своё."
 
 msgid "Save as"
-msgstr ""
+msgstr "Сохранить как"
 
 msgid "Save now"
 msgstr "Сохранить сейчас"
 
 msgid "Save project?"
-msgstr ""
+msgstr "Сохранить проект?"
 
 msgid "save to local file"
 msgstr "сохранить локальный файл"
@@ -1421,7 +1565,7 @@ msgid "Saxophone"
 msgstr "Саксофон"
 
 msgid "Scratch Updater"
-msgstr ""
+msgstr "Программа обновления Скретч"
 
 msgid "Scratch 2.0 Offline Editor"
 msgstr ""
@@ -1465,7 +1609,7 @@ msgid "Share"
 msgstr "Поделиться"
 
 msgid "Share to website"
-msgstr ""
+msgstr "Опубликовать на сайте"
 
 msgid "Share to Scratch website"
 msgstr ""
@@ -1582,9 +1726,8 @@ msgstr "Тамбурин"
 msgid "tan"
 msgstr "tan"
 
-#, fuzzy
 msgid "text"
-msgstr "Текст"
+msgstr "текст"
 
 msgid "Text"
 msgstr "Текст"
@@ -1610,7 +1753,7 @@ msgid "thing"
 msgstr ""
 
 msgid "This is the current version."
-msgstr ""
+msgstr "Это последняя версия."
 
 msgid ""
 "This project can detect who is using it, through the “username” block. To "
@@ -1697,13 +1840,13 @@ msgid "up arrow"
 msgstr "стрелка вверх"
 
 msgid "Update failed"
-msgstr ""
+msgstr "Ошибка обновления"
 
 msgid "Update not needed"
-msgstr ""
+msgstr "Обновление не требуется"
 
 msgid "Update now"
-msgstr ""
+msgstr "Обновить сейчас"
 
 msgid "Upload backdrop from file"
 msgstr "Загрузить фон из файла"
@@ -1748,7 +1891,7 @@ msgid "Vibraslap"
 msgstr "Вибрирующий слэп"
 
 msgid "video direction"
-msgstr ""
+msgstr "направление видео"
 
 msgid "video motion"
 msgstr "движение видео"
@@ -1794,197 +1937,112 @@ msgstr ""
 "изменения, которые внесете в режиме редактирования будут временными."
 
 msgid "Your Scratch name"
-msgstr ""
+msgstr "Твоё имя в Скретч"
 
 msgid "Your Scratch name is required"
-msgstr ""
+msgstr "Необходимо твоё имя в Скретч"
 
 # Offline editor only
 msgid "All Tips"
-msgstr ""
+msgstr "Все подсказки"
 
 # Offline editor only
 msgid ""
 "An updated version of the Scratch offline editor is available on the Scratch "
 "website."
-msgstr ""
+msgstr "Обновлённая версия автономного редактора Скретч доступна на сайте."
 
 # Offline editor only
 msgid "Could not retrieve update location from server."
-msgstr ""
+msgstr "Невозможно получить расположение обновления с сервера."
 
 # Offline editor only
 msgid "Could not retrieve version information from server."
-msgstr ""
+msgstr "Не удалось получить информацию о версии с сервера."
 
 # Offline editor only
 msgid "Could not write file:"
-msgstr ""
+msgstr "Не удалось записать файл:"
 
 # Offline editor only
 msgid "Downloading new version..."
-msgstr ""
+msgstr "Загрузка новой версии…"
 
 # Offline editor only
 msgid "Error saving project"
-msgstr ""
+msgstr "Ошибка сохранения проекта"
 
 # Offline editor only
 msgid "Force help file update"
-msgstr ""
+msgstr "Принудительное обновление файла справки"
 
 # Offline editor only
 msgid "Import experimental HTTP extension"
-msgstr ""
+msgstr "Импортировать экспериментальное расширение HTTP"
 
 # Offline editor only
 msgid "Loading help files..."
-msgstr ""
+msgstr "Загрузка файлов справки…"
 
 # Offline editor only
 msgid "Manual Update Available"
-msgstr ""
+msgstr "Доступно обновление вручную"
 
 # Offline editor only
 msgid "Open Project"
-msgstr ""
+msgstr "Открыть проект"
 
 # Offline editor only
 msgid "Please visit the download page to install it."
-msgstr ""
+msgstr "Посетите страницу загрузки для его установки."
 
 # Offline editor only
 msgid "Quit"
-msgstr ""
+msgstr "Выход"
 
 # Offline editor only
 msgid "Replace existing project?"
-msgstr ""
+msgstr "Заменить существующий проект?"
 
 # Offline editor only
 msgid "Running pre-release"
-msgstr ""
+msgstr "Работает предрелизная версия"
 
 # Offline editor only
 msgid "Save Project"
-msgstr ""
+msgstr "Сохранить проект"
 
 # Offline editor only
 msgid "Server error:"
-msgstr ""
+msgstr "Ошибка сервера:"
 
 # Offline editor only
 msgid "Share to Scratch Website"
-msgstr ""
+msgstr "Опубликовать на сайте Скретч"
 
 # Offline editor only
 msgid "Success"
-msgstr ""
+msgstr "Успешно"
 
 # Offline editor only
 msgid "This version is newer than the current release version."
-msgstr ""
+msgstr "Эта версия новее, чем текущая выпущенная версия."
 
 # Offline editor only
 msgid "Update check failed"
-msgstr ""
+msgstr "Не удалось проверить обновления"
 
 # Offline editor only
 msgid "Upload failed"
-msgstr ""
+msgstr "Загрузка не удалась"
 
 # Offline editor only
 msgid "Visit download page"
-msgstr ""
+msgstr "Перейти на страницу загрузки"
 
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
-msgstr ""
-
-# The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "Русский"
-
-#~ msgid "%m.list contains %s"
-#~ msgstr "%m.list содержит %s"
-
-#~ msgid "when Stage clicked"
-#~ msgstr "при нажатии на Этап"
-
-# 89%
-#~ msgid "set motor direction %m.motorDirection"
-#~ msgstr "задать направление мотора %m.motorDirection"
-
-# 77%
-#~ msgid "set motor power %n"
-#~ msgstr "задать мощность мотора %n"
-
-#~ msgid "turn motor off"
-#~ msgstr "выключить мотор"
-
-#~ msgid "turn motor on"
-#~ msgstr "включить мотор"
-
-# 80%
-#~ msgid "turn motor on for %n secs"
-#~ msgstr "включить мотор на %n секунд"
-
-#~ msgid "when distance < %n"
-#~ msgstr "когда расстояние < %n"
-
-#~ msgid "when tilt = %n"
-#~ msgstr "когда наклон = %n"
-
-# 89%
-# 86%
-#, fuzzy
-#~ msgid "set %m.motor direction to %m.motorDirection"
-#~ msgstr "направление мотора %m.motorDirection"
-
-#~ msgid "user id"
-#~ msgstr "ID участника"
-
-#~ msgid "clone startup"
-#~ msgstr "клонировать старт"
-
-#~ msgid "forever if %b"
-#~ msgstr "всегда, если  %b"
-
-#~ msgid "hide all sprites"
-#~ msgstr "скрыть все спрайты"
-
-#~ msgid "if %b"
-#~ msgstr "если %b"
-
-#~ msgid "Scratch days"
-#~ msgstr "Дни Скретча"
-
-#~ msgid "hide monitor %m.varOrList"
-#~ msgstr "скрыть монитор %m.varOrList"
-
-#~ msgid "motor direction %m.motorDirection"
-#~ msgstr "мотор направлен %m.motorDirection"
-
-#~ msgid "motor off"
-#~ msgstr "мотор откл"
-
-#~ msgid "motor on"
-#~ msgstr "мотор вкл"
-
-#~ msgid "motor on for %n secs"
-#~ msgstr "включить мотор на %n сек"
-
-#~ msgid "motor power %n"
-#~ msgstr "мощность мотора %n"
-
-#~ msgid "play note %n for %n beats"
-#~ msgstr "ноту %d.note играть %n тактов"
-
-#~ msgid "show monitor %m.varOrList"
-#~ msgstr "показать монитор %m.varOrList"
-
-#~ msgid "when I am clicked"
-#~ msgstr "когда я щелкну "
+msgstr "Твой проект был загружен на сайт scratch.mit.edu"
 
 #~ msgid "About LEGO WeDo extension..."
 #~ msgstr "О дополнении LEGO WeDo..."

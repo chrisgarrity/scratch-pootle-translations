@@ -1731,111 +1731,107 @@ msgstr "Du må skrive ditt Scratch-navn"
 
 # Offline editor only
 msgid "All Tips"
-msgstr ""
+msgstr "Alle tips"
 
 # Offline editor only
 msgid ""
 "An updated version of the Scratch offline editor is available on the Scratch "
 "website."
 msgstr ""
+"En oppdatert versjon av Scratch er tilgjengelig for nedlasting fra Scratch-"
+"nettstedet."
 
 # Offline editor only
-#, fuzzy
 msgid "Could not retrieve update location from server."
 msgstr "Fikk ikke til å hente nytt program fra serveren."
 
 # Offline editor only
-#, fuzzy
 msgid "Could not retrieve version information from server."
-msgstr "Fikk ikke til å hente nytt program fra serveren."
+msgstr "Fikk ikke til å hente versjonsinformasjon fra serveren."
 
 # Offline editor only
 msgid "Could not write file:"
-msgstr ""
+msgstr "Kunne ikke skrive fil:"
 
 # Offline editor only
-#, fuzzy
 msgid "Downloading new version..."
-msgstr "Laster ned ny versjon"
+msgstr "Laster ned ny versjon..."
 
 # Offline editor only
 msgid "Error saving project"
-msgstr ""
+msgstr "Feil ved lagring av prosjektet"
 
 # Offline editor only
 msgid "Force help file update"
-msgstr ""
+msgstr "Tving oppdatering av hjelpefil"
 
 # Offline editor only
 msgid "Import experimental HTTP extension"
-msgstr ""
+msgstr "Importer eksperimentell HTTP-utvidelse"
 
 # Offline editor only
 msgid "Loading help files..."
-msgstr ""
+msgstr "Laster inn hjelpefiler..."
 
 # Offline editor only
 msgid "Manual Update Available"
-msgstr ""
+msgstr "En manuell oppdatering er tilgjengelig"
 
 # Offline editor only
 msgid "Open Project"
-msgstr ""
+msgstr "Åpne prosjekt"
 
 # Offline editor only
 msgid "Please visit the download page to install it."
-msgstr ""
+msgstr "Gå til nedlastingssiden for å installere."
 
 # Offline editor only
 msgid "Quit"
-msgstr ""
+msgstr "Avslutt"
 
 # Offline editor only
-#, fuzzy
 msgid "Replace existing project?"
-msgstr "Erstatt det nåværende prosjektet"
+msgstr "Erstatte nåværende prosjekt?"
 
 # Offline editor only
 msgid "Running pre-release"
-msgstr ""
+msgstr "Kjører testversjon"
 
 # Offline editor only
-#, fuzzy
 msgid "Save Project"
-msgstr "Lagre prosjektet?"
+msgstr "Lagre prosjektet"
 
 # Offline editor only
 msgid "Server error:"
-msgstr ""
+msgstr "Serverfeil:"
 
 # Offline editor only
-#, fuzzy
 msgid "Share to Scratch Website"
 msgstr "Legg ut på nettstedet til Scratch"
 
 # Offline editor only
 msgid "Success"
-msgstr ""
+msgstr "Fullført"
 
 # Offline editor only
 msgid "This version is newer than the current release version."
-msgstr ""
+msgstr "Denne versjonen er nyere enn siste offisielle versjon."
 
 # Offline editor only
 msgid "Update check failed"
-msgstr ""
+msgstr "Fikk ikke sjekket oppdateringer"
 
 # Offline editor only
 msgid "Upload failed"
-msgstr ""
+msgstr "Opplasting mislyktes"
 
 # Offline editor only
 msgid "Visit download page"
-msgstr ""
+msgstr "Besøk nedlastingssiden"
 
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
-msgstr ""
+msgstr "Prosjektet er lastet opp til scratch.mit.edu"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"

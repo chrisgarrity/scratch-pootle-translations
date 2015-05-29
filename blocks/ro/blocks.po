@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2013-10-20 13:01+0000\n"
-"Last-Translator: Anca-Diana <diacadan@gmail.com>\n"
+"PO-Revision-Date: 2015-05-14 06:02+0000\n"
+"Last-Translator: Cristian <amacara1@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
@@ -13,14 +13,14 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2);;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1382274078.000000\n"
+"X-POOTLE-MTIME: 1431583363.000000\n"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "Română"
 
 msgid "%b and %b"
-msgstr "%b si %b"
+msgstr "%b și %b"
 
 msgid "%b or %b"
 msgstr "%b sau %b"
@@ -41,13 +41,13 @@ msgid "%n mod %n"
 msgstr "%n rest %n"
 
 msgid "add %s to %m.list"
-msgstr "adauga %s la %m.list"
+msgstr "adaugă %s la %m.list"
 
 msgid "answer"
-msgstr "raspuns"
+msgstr "răspuns"
 
 msgid "ask %s and wait"
-msgstr "intreaba %s si asteapta"
+msgstr "întreabă %s și așteaptă"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
@@ -58,46 +58,46 @@ msgid "backdrop name"
 msgstr "denumire fundal"
 
 msgid "broadcast %m.broadcast"
-msgstr "expediere la toti %m.broadcast"
+msgstr "expediere la toți %m.broadcast"
 
 msgid "broadcast %m.broadcast and wait"
-msgstr "expediere la toti %m.broadcast si asteapta"
+msgstr "expediere la toți %m.broadcast și așteaptă"
 
 msgid "change %m.effect effect by %n"
-msgstr "modifica efectul %m.effect cu %n"
+msgstr "modifică efectul %m.effect cu %n"
 
 msgid "change %m.var by %n"
-msgstr "modifica %m.var cu %n"
+msgstr "modifică %m.var cu %n"
 
 msgid "change pen color by %n"
-msgstr "modifica culoarea stiloului cu %n"
+msgstr "modifică culoarea stiloului cu %n"
 
 msgid "change pen shade by %n"
-msgstr "modifica tonul stiloului cu %n"
+msgstr "modifică tonul stiloului cu %n"
 
 msgid "change pen size by %n"
-msgstr "modifica marimea stiloului cu %n"
+msgstr "modifică mărimea stiloului cu %n"
 
 msgid "change size by %n"
-msgstr "modifica marimea cu %n"
+msgstr "modifică mărimea cu %n"
 
 msgid "change tempo by %n"
-msgstr "modifica tempoul cu %n"
+msgstr "modifică tempoul cu %n"
 
 msgid "change volume by %n"
-msgstr "modifica volumul cu %n"
+msgstr "modifică volumul cu %n"
 
 msgid "change x by %n"
-msgstr "modifica x cu %n"
+msgstr "modifică x cu %n"
 
 msgid "change y by %n"
-msgstr "modifica y cu %n"
+msgstr "modifică y cu %n"
 
 msgid "clear"
-msgstr "sterge"
+msgstr "șterge"
 
 msgid "clear graphic effects"
-msgstr "sterge efectele grafice"
+msgstr "șterge efectele grafice"
 
 msgid "color %c is touching %c?"
 msgstr "culoarea %c atinge %c?"
@@ -109,10 +109,10 @@ msgid "costume #"
 msgstr "costumul #"
 
 msgid "create clone of %m.spriteOnly"
-msgstr "creaza clona pentru %m.spriteOnly"
+msgstr "crează clonă pentru %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
-msgstr "%m.timeAndDate curenta"
+msgstr "%m.timeAndDate curentă"
 
 msgid "Data"
 msgstr "Date"
@@ -121,22 +121,22 @@ msgid "days since 2000"
 msgstr "zile din 2000"
 
 msgid "define"
-msgstr "defineste"
+msgstr "definește"
 
 msgid "delete %d.listDeleteItem of %m.list"
-msgstr "sterge %d.listDeleteItem din %m.list"
+msgstr "șterge %d.listDeleteItem din %m.list"
 
 msgid "delete this clone"
-msgstr "sterge aceasta clona"
+msgstr "șterge aceasta clonă"
 
 msgid "direction"
-msgstr "directie"
+msgstr "direcție"
 
 msgid "distance"
-msgstr "distanta"
+msgstr "distanța"
 
 msgid "distance to %m.spriteOrMouse"
-msgstr "distanta pana la %m.spriteOrMouse"
+msgstr "distanța până la %m.spriteOrMouse"
 
 msgid "else"
 msgstr "altfel"
@@ -308,15 +308,13 @@ msgstr "seteaza instrumentul la %d.instrument"
 # 89%
 # 86%
 # 97%
-#, fuzzy
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "seteaza directia motorului la %m.motorDirection"
+msgstr "setează direcția %m.motor2 la %m.motorDirection"
 
 # 77%
 # 75%
-#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "seteaza puterea motorului la %n"
+msgstr "setează puterea %m.motor la %n"
 
 msgid "set pen color to %c"
 msgstr "seteaza culoarea stiloului la %c"
@@ -414,20 +412,17 @@ msgid "turn @turnRight %n degrees"
 msgstr "roteste @turnRight %n grade"
 
 # 82%
-#, fuzzy
 msgid "turn %m.motor off"
-msgstr "opreste motorul"
+msgstr "oprește %m.motorul"
 
 # 81%
-#, fuzzy
 msgid "turn %m.motor on"
-msgstr "porneste motorul"
+msgstr "pornește %m.motor"
 
 # 80%
 # 89%
-#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr "porneste motorul pentru %n sec"
+msgstr "pornește %m.motor pentru %n secunde"
 
 msgid "turn video %m.videoState"
 msgstr "comuta video la %m.videoState"
@@ -455,7 +450,7 @@ msgid "when %m.key key pressed"
 msgstr "cand tasta %m.key este apasata"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr ""
+msgstr "%m.lessMore %n când %m.sensor"
 
 msgid "when %m.triggerSensor > %n"
 msgstr "cand %m.triggerSensor > %n"
@@ -468,7 +463,7 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "cand se schimba fundalul la %m.fundal"
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
+msgstr "când distanța %m.lessMore %n"
 
 msgid "when I receive %m.broadcast"
 msgstr "cand primesc %m.broadcast"
@@ -483,7 +478,7 @@ msgid "when this sprite clicked"
 msgstr "cand se da clic pe acest sprite"
 
 msgid "when tilt %m.eNe %n"
-msgstr ""
+msgstr "când inclinația %m.eNe %n"
 
 msgid "x position"
 msgstr "pozitia x"
@@ -550,6 +545,5 @@ msgstr "pozitia y"
 
 #: commands-online.txt:7
 #: commands-offline.txt:7
-#, fuzzy
 msgid "%m.list contains %s?"
-msgstr "%m.list conține %s"
+msgstr "%m.list conține %s?"

@@ -1227,7 +1227,7 @@ msgid "Pick up color"
 msgstr "Izberi barvo"
 
 msgid "pixelate"
-msgstr "Pretvori v točke"
+msgstr "pretvori v točke"
 
 msgid "Pizzicato"
 msgstr "Godalo Pizzicato"
@@ -1236,7 +1236,7 @@ msgid "pop"
 msgstr "poberi"
 
 msgid "previous backdrop"
-msgstr "Prejšnje Ozadje"
+msgstr "prejšnje ozadje"
 
 msgid "Project did not load."
 msgstr "Projekt se ni naložil."

@@ -539,7 +539,7 @@ msgid "Animals"
 msgstr "Beathaichean"
 
 msgid "asin"
-msgstr "àrc-cho-shìneas"
+msgstr "àrc-shìneas"
 
 msgid "assets loaded"
 msgstr "eileamaidean air an luchdadh"
@@ -735,7 +735,7 @@ msgid "Copying..."
 msgstr "A' dèanamh lethbhreac dheth..."
 
 msgid "cos"
-msgstr "co-sìneas"
+msgstr "co-shìneas"
 
 msgid "Costume"
 msgstr "Aodach"
@@ -1215,7 +1215,7 @@ msgid "People"
 msgstr "Daoine"
 
 msgid "Percussion"
-msgstr ""
+msgstr "Beum-ionnsramaid"
 
 msgid "photo1"
 msgstr "dealbh1"
@@ -1493,10 +1493,10 @@ msgid "Steel Drum"
 msgstr "Druma-stàillinn"
 
 msgid "Synth Lead"
-msgstr ""
+msgstr "Ceann-siont"
 
 msgid "Synth Pad"
-msgstr ""
+msgstr "Siont-phada"
 
 msgid "Tambourine"
 msgstr "Tiompan"
@@ -1652,10 +1652,10 @@ msgid "Vector Mode"
 msgstr "Modh vector"
 
 msgid "Vibraphone"
-msgstr ""
+msgstr "Crith-fhòn"
 
 msgid "Vibraslap"
-msgstr ""
+msgstr "Crith-sgleog"
 
 msgid "video direction"
 msgstr "comhair a' video"

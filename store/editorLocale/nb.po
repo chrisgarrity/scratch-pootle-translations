@@ -491,7 +491,8 @@ msgid ""
 msgstr ""
 "<b>Informasjon om nettdata</b><br>&nbsp;<br>Inntil videre er det bare mulig "
 "å lagre tall<br>Chat-funksjoner er ikke tillatt og vil bli slettet<br>For "
-"mer informasjon, se <a href= target=>spørsmål og svar om nettdata!</a>"
+"mer informasjon, se <a href=\"/help/faq/#clouddata\" target=\"_blank"
+"\">spørsmål og svar om nettdata</a>!"
 
 msgid "A connected"
 msgstr "A tilkoblet"
@@ -711,7 +712,9 @@ msgid "clear senders/receivers"
 msgstr "tøm sendere/mottakere"
 
 msgid "Click \"Save now\" to try again or \"Download\" to save"
-msgstr "Klikk  for å prøve igjen eller  for å lagre"
+msgstr ""
+"Klikk \"Lagre nå\" for å prøve igjen eller \"Last ned til datamaskinen\" for "
+"å lagre"
 
 msgid "Close"
 msgstr "Lukk"
@@ -1029,7 +1032,7 @@ msgid "List name"
 msgstr "Listenavn"
 
 msgid "ln"
-msgstr "ln"
+msgstr "I"
 
 msgid "Loading project..."
 msgstr "Leser inn prosjekt..."
@@ -1350,7 +1353,7 @@ msgid "Save"
 msgstr "Lagre"
 
 msgid "Save a copy of this project and add your own ideas."
-msgstr "Lagre en kopi av dette prosjektet og legg inn ting du selv finner på"
+msgstr "Lagre en kopi av dette prosjektet og legg inn ting du selv finner på."
 
 msgid "Save as"
 msgstr "Lagre som"

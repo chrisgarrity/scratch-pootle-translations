@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-02-20 04:44+0000\n"
-"Last-Translator: adlogi <adlogi@media.mit.edu>\n"
+"PO-Revision-Date: 2015-06-02 09:46+0000\n"
+"Last-Translator: Rajeshwar <rrgujjari@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: te\n"
 "MIME-Version: 1.0\n"
@@ -12,14 +12,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1392871496.000000\n"
+"X-POOTLE-MTIME: 1433238409.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
 msgstr ""
 
 msgid "%b and %b"
-msgstr ""
+msgstr "%b మరియు %b"
 
 msgid "%b or %b"
 msgstr ""
@@ -34,7 +34,7 @@ msgid "%m.mathOp of %n"
 msgstr "%m.mathOp లో %n"
 
 msgid "%m.sensor sensor value"
-msgstr ""
+msgstr "%m సంవేదకం సంవేదకం విలువ"
 
 msgid "%n mod %n"
 msgstr ""
@@ -502,4 +502,4 @@ msgstr ""
 #: commands-online.txt:7
 #: commands-offline.txt:7
 msgid "%m.list contains %s?"
-msgstr ""
+msgstr "%m జాబితాలో %s కలిగి ఉండు"

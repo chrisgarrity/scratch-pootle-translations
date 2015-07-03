@@ -552,7 +552,7 @@ msgid "asin"
 msgstr "asin"
 
 msgid "assets loaded"
-msgstr "aanwinsten geladen"
+msgstr "elementen geladen"
 
 msgid "atan"
 msgstr "atan"
@@ -873,7 +873,7 @@ msgid "Electric Piano"
 msgstr "Elektrische piano"
 
 msgid "Electronic"
-msgstr "Electronisch"
+msgstr "Elektronisch"
 
 msgid "Ellipse"
 msgstr "Ovaal"
@@ -1391,7 +1391,7 @@ msgid "Saved"
 msgstr "Opgeslagen"
 
 msgid "Saving changes..."
-msgstr "Veranderingen opslaan..."
+msgstr "Wijzigingen opslaan..."
 
 msgid "Saving..."
 msgstr "Opslaan..."
@@ -1415,7 +1415,7 @@ msgid "second"
 msgstr "seconde"
 
 msgid "See project page"
-msgstr "Bekijk project pagina"
+msgstr "Bekijk projectpagina"
 
 msgid "Select"
 msgstr "Selecteer"

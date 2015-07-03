@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-05-13 19:52+0000\n"
-"Last-Translator: Markus <m.slg@gmx.de>\n"
+"PO-Revision-Date: 2015-06-10 14:20+0000\n"
+"Last-Translator: Frodewin <wilfried.elmenreich@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1431546722.000000\n"
+"X-POOTLE-MTIME: 1433946031.000000\n"
 
 msgid "%b and %b"
 msgstr "%b und %b"
@@ -108,7 +108,7 @@ msgstr "%m.timeAndDate im Moment"
 
 # Oberbegriff für Variablen und Listen
 msgid "Data"
-msgstr "Speicher"
+msgstr "Daten"
 
 msgid "days since 2000"
 msgstr "Tage seit 2000"
@@ -729,7 +729,7 @@ msgid "Close"
 msgstr "Schließen"
 
 msgid "Closed Hi-Hat"
-msgstr "Geschlossenes Hi-Hat"
+msgstr "Geschlossene Hi-Hat"
 
 msgid "Cloud data"
 msgstr "Cloud-Daten"
@@ -1211,7 +1211,7 @@ msgid "Open Cuica"
 msgstr "Offene Cuica"
 
 msgid "Open Hi-Hat"
-msgstr "Offenes Hi-Hat"
+msgstr "Offene Hi-Hat"
 
 msgid "Options"
 msgstr "Einstellungen"
@@ -1298,13 +1298,13 @@ msgid "random"
 msgstr "zufälliges"
 
 msgid "Record"
-msgstr "Aufnahme"
+msgstr "Aufzeichnen"
 
 msgid "Record new sound"
 msgstr "Neuen Klang aufzeichnen"
 
 msgid "record..."
-msgstr "Aufnahme..."
+msgstr "aufzeichnen..."
 
 msgid "recording1"
 msgstr "Aufnahme1"
@@ -1662,7 +1662,7 @@ msgid "up arrow"
 msgstr "Pfeil nach oben"
 
 msgid "Update failed"
-msgstr "Die Aktualisierung ist fehlgeschlagen"
+msgstr "Update fehlgeschlagen"
 
 msgid "Update not needed"
 msgstr "Es wird kein Update benötigt"
@@ -1769,7 +1769,7 @@ msgid ""
 "website."
 msgstr ""
 "Eine aktuelle Version des Scratch Offline Editors ist auf der Scratch "
-"Webseite verfügbar."
+"Webseite zu finden."
 
 # Offline editor only
 msgid "Could not retrieve update location from server."

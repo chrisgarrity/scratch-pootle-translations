@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2014-12-29 08:06+0000\n"
+"PO-Revision-Date: 2015-07-15 17:03+0000\n"
 "Last-Translator: YunJae <janggoons@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1419840390.000000\n"
+"X-POOTLE-MTIME: 1436979818.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -1448,111 +1448,105 @@ msgstr "당신의 스크래치 계정이 필요합니다."
 
 # Offline editor only
 msgid "All Tips"
-msgstr ""
+msgstr "모든 도움"
 
 # Offline editor only
 msgid ""
 "An updated version of the Scratch offline editor is available on the Scratch "
 "website."
-msgstr ""
+msgstr "업데이트 된 스크래치 오프라인 에디터를 웹사이트에서 다운로드 받을 수 있습니다."
 
 # Offline editor only
-#, fuzzy
 msgid "Could not retrieve update location from server."
-msgstr "서버에서 새로운 어플리케이션을 검색할 수 없습니다."
+msgstr "서버에서 업데이트 위치를 검색할 수 없습니다."
 
 # Offline editor only
-#, fuzzy
 msgid "Could not retrieve version information from server."
-msgstr "서버에서 새로운 어플리케이션을 검색할 수 없습니다."
+msgstr "서버에서 버전 정보를 검색할 수 없습니다."
 
 # Offline editor only
 msgid "Could not write file:"
-msgstr ""
+msgstr "파일을 덮어쓸 수 없습니다:"
 
 # Offline editor only
-#, fuzzy
 msgid "Downloading new version..."
-msgstr "새 버전 다운로드"
+msgstr "새 버전 다운로드 중..."
 
 # Offline editor only
 msgid "Error saving project"
-msgstr ""
+msgstr "프로젝트 저장 중 오류가 발생했습니다."
 
 # Offline editor only
 msgid "Force help file update"
-msgstr ""
+msgstr "도움말 업데이트"
 
 # Offline editor only
 msgid "Import experimental HTTP extension"
-msgstr ""
+msgstr "HTTP 확장 기능 불러오기"
 
 # Offline editor only
 msgid "Loading help files..."
-msgstr ""
+msgstr "도움말 파일 불러오는 중..."
 
 # Offline editor only
 msgid "Manual Update Available"
-msgstr ""
+msgstr "수동 업데이트 가능"
 
 # Offline editor only
 msgid "Open Project"
-msgstr ""
+msgstr "프로젝트 열기"
 
 # Offline editor only
 msgid "Please visit the download page to install it."
-msgstr ""
+msgstr "다운로드 페이지로 이동하세요."
 
 # Offline editor only
 msgid "Quit"
-msgstr ""
+msgstr "종료"
 
 # Offline editor only
-#, fuzzy
 msgid "Replace existing project?"
-msgstr "기존 프로젝트 대체하기"
+msgstr "기존 프로젝트에 덮어쓸까요?"
 
 # Offline editor only
 msgid "Running pre-release"
-msgstr ""
+msgstr "이전 버전 실행하기"
 
 # Offline editor only
-#, fuzzy
 msgid "Save Project"
-msgstr "프로젝트 저장?"
+msgstr "프로젝트 저장"
 
 # Offline editor only
 msgid "Server error:"
-msgstr ""
+msgstr "서버 오류:"
 
 # Offline editor only
-#, fuzzy
 msgid "Share to Scratch Website"
-msgstr "스크래치 웹사이트에 공유하기"
+msgstr "스크래치 웹사이트에서 공유하기"
 
 # Offline editor only
 msgid "Success"
-msgstr ""
+msgstr "성공!"
 
 # Offline editor only
 msgid "This version is newer than the current release version."
-msgstr ""
+msgstr "이 버전은 현재 공개된 버전보다 최신입니다."
 
 # Offline editor only
 msgid "Update check failed"
-msgstr ""
+msgstr "업데이트 확인 실패"
 
 # Offline editor only
 msgid "Upload failed"
-msgstr ""
+msgstr "업로드 실패"
 
 # Offline editor only
 msgid "Visit download page"
-msgstr ""
+msgstr "다운로드 페이지로 이동"
 
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
-msgstr ""
+msgstr "프로젝트가 스크래치 사이트에 업로드 되었습니다."
 
 #~ msgid "cleanup"
 #~ msgstr "블록 정리하기"

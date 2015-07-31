@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: 0.3.1\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2013-07-01 16:05+0000\n"
-"Last-Translator: Milan <milan.cajic@open.telekom.rs>\n"
+"PO-Revision-Date: 2015-07-21 18:45+0000\n"
+"Last-Translator: Milan <milan.cajic@mts.rs>\n"
 "Language-Team: српски <>\n"
 "Language: sr\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-Language: sr_RS\n"
 "X-Source-Language: C\n"
-"X-POOTLE-MTIME: 1372694740.000000\n"
+"X-POOTLE-MTIME: 1437504333.000000\n"
 
 msgid "%b and %b"
 msgstr "%b и %b"
@@ -303,14 +303,12 @@ msgstr "нека инструмент буде %d.instrument"
 
 # 86%
 # 97%
-#, fuzzy
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "нека смер мотора буде %m.motorDirection"
+msgstr "нека смер %m.motor2 буде %m.motorDirection"
 
 # 75%
-#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "нека снага мотора буде %n"
+msgstr "нека снага %m.motor буде %n"
 
 msgid "set pen color to %c"
 msgstr "нека боја оловке буде %c"
@@ -390,7 +388,7 @@ msgid "think %s for %n secs"
 msgstr "замисли %s током %n секунде"
 
 msgid "tilt"
-msgstr "накриви"
+msgstr "нагни"
 
 msgid "timer"
 msgstr "тајмер"
@@ -408,19 +406,16 @@ msgid "turn @turnRight %n degrees"
 msgstr "окрет @turnRight за %n степени"
 
 # 82%
-#, fuzzy
 msgid "turn %m.motor off"
-msgstr "искључи мотор"
+msgstr "искључи %m.motor"
 
 # 81%
-#, fuzzy
 msgid "turn %m.motor on"
-msgstr "укључи мотор"
+msgstr "укључи %m.motor"
 
 # 89%
-#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr "покрени мотор током %n секунди"
+msgstr "покрени %m.motor током %n секунди"
 
 msgid "turn video %m.videoState"
 msgstr "подеси стање видеа %m.videoState"
@@ -447,7 +442,7 @@ msgid "when %m.key key pressed"
 msgstr "када је дирка %m.key притиснута"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr ""
+msgstr " када је %m.sensor %m.lessMore %n"
 
 msgid "when %m.triggerSensor > %n"
 msgstr "када је %m.triggerSensor > %n"
@@ -460,7 +455,7 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "када се позадина промени у %m.backdrop"
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
+msgstr "када је растојање %m.lessMore %n"
 
 msgid "when I receive %m.broadcast"
 msgstr "када примим %m.broadcast"
@@ -469,13 +464,13 @@ msgid "when I start as a clone"
 msgstr "када се појавим као умножак"
 
 msgid "when Stage clicked"
-msgstr ""
+msgstr "када је кликнуто на позорницу"
 
 msgid "when this sprite clicked"
 msgstr "када је кликнуто на овај лик"
 
 msgid "when tilt %m.eNe %n"
-msgstr ""
+msgstr "када је нагиб %m.eNe %n"
 
 msgid "x position"
 msgstr "место x"
@@ -484,7 +479,6 @@ msgid "y position"
 msgstr "место y"
 
 #: commands-online.txt:7 commands-offline.txt:7
-#, fuzzy
 msgid "%m.list contains %s?"
 msgstr "%m.list садржи %s"
 
@@ -509,10 +503,10 @@ msgid "a copy of the project file on your computer."
 msgstr "умножак датотеке пројекта у твом компјутеру."
 
 msgid "A newer version of Scratch is available"
-msgstr ""
+msgstr "Доступна је нова верзија Скреча"
 
 msgid "About"
-msgstr ""
+msgstr "О програму"
 
 msgid "About LEGO WeDo extension..."
 msgstr ""
@@ -527,10 +521,10 @@ msgid "acos"
 msgstr "arccos"
 
 msgid "Add"
-msgstr ""
+msgstr "Додај"
 
 msgid "Add an Extension"
-msgstr ""
+msgstr "Додај проширење"
 
 # 90%
 msgid "Add boolean input:"
@@ -543,7 +537,7 @@ msgid "add comment here..."
 msgstr ""
 
 msgid "Add label text:"
-msgstr "Додај текст надписа:"
+msgstr "Додај текст натписа:"
 
 # 89%
 msgid "Add number input:"
@@ -700,7 +694,7 @@ msgid "Cello"
 msgstr "Виолончело"
 
 msgid "Check for updates"
-msgstr ""
+msgstr "Провери да ли постоје нова издања"
 
 msgid "Choir"
 msgstr "Хор"
@@ -808,7 +802,7 @@ msgid "Costumes > 1"
 msgstr "Број костима > 1"
 
 msgid "Could not retrieve new application from server."
-msgstr ""
+msgstr "Не може се добити нова апликација са сервера."
 
 msgid "Cowbell"
 msgstr "Звоно за краве"
@@ -854,7 +848,7 @@ msgid "don't rotate"
 msgstr "без окретања"
 
 msgid "Don't save"
-msgstr ""
+msgstr "Немој сачувати"
 
 msgid "down"
 msgstr "доле"
@@ -1004,10 +998,10 @@ msgid "Hand Clap"
 msgstr "Пљесак дланом"
 
 msgid "Hardware"
-msgstr ""
+msgstr "Хардвер"
 
 msgid "help"
-msgstr ""
+msgstr "помоћ"
 
 msgid "Hello!"
 msgstr ""
@@ -1023,7 +1017,7 @@ msgid "High C"
 msgstr "Високо це"
 
 msgid "Holiday"
-msgstr ""
+msgstr "Празник"
 
 msgid "hour"
 msgstr "час"
@@ -1068,7 +1062,7 @@ msgid "length"
 msgstr "дужина"
 
 msgid "Letters"
-msgstr ""
+msgstr "Слова"
 
 msgid "Library"
 msgstr "Библиотека"
@@ -1133,7 +1127,6 @@ msgstr "Име поруке"
 msgid "message1"
 msgstr "порука1"
 
-#, fuzzy
 msgid "Microphone volume:"
 msgstr "Осетљивост микрофона:"
 
@@ -1196,7 +1189,7 @@ msgid "New backdrop:"
 msgstr "Нова позадина:"
 
 msgid "New Block"
-msgstr ""
+msgstr "Нови блок"
 
 msgid "New costume from camera"
 msgstr "Нови костим сликан камером"
@@ -1209,7 +1202,7 @@ msgid "New List"
 msgstr "Нова листа"
 
 msgid "New Message"
-msgstr ""
+msgstr "Нова порука"
 
 msgid "new message..."
 msgstr "нова порука"
@@ -1264,7 +1257,7 @@ msgid "on-flipped"
 msgstr "укључено"
 
 msgid "Open"
-msgstr ""
+msgstr "Отвори"
 
 msgid "Open Cuica"
 msgstr "Отворена куика"
@@ -1300,10 +1293,10 @@ msgid "Paint new sprite"
 msgstr "Насликај нови лик"
 
 msgid "Password"
-msgstr ""
+msgstr "Лозинка"
 
 msgid "Password is required"
-msgstr ""
+msgstr "Потребна је лозинка"
 
 msgid "paste"
 msgstr "убаци"
@@ -1337,7 +1330,7 @@ msgid "pop"
 msgstr "поп"
 
 msgid "previous backdrop"
-msgstr ""
+msgstr "претходна позадина"
 
 msgid "Project did not load."
 msgstr "Пројекат се није учитао."
@@ -1346,10 +1339,10 @@ msgid "Project not saved!"
 msgstr "Пројекат није сачуван!"
 
 msgid "Project name"
-msgstr ""
+msgstr "Назив пројекта"
 
 msgid "Project name is required"
-msgstr ""
+msgstr "Потребан је назив пројекта"
 
 msgid "random"
 msgstr "насумичан"
@@ -1361,7 +1354,7 @@ msgid "Record new sound"
 msgstr "Сними нови звук"
 
 msgid "record..."
-msgstr ""
+msgstr "сними..."
 
 msgid "recording1"
 msgstr "снимак1"
@@ -1434,16 +1427,16 @@ msgid "Save"
 msgstr "Сачувај"
 
 msgid "Save a copy of this project and add your own ideas."
-msgstr ""
+msgstr "Сними копију овог пројекта и додај своје идеје."
 
 msgid "Save as"
-msgstr ""
+msgstr "Сачувај као"
 
 msgid "Save now"
 msgstr "Сачувај одмах"
 
 msgid "Save project?"
-msgstr ""
+msgstr "Сачувај пројекат?"
 
 msgid "save to local file"
 msgstr "сачувај у датотеци на свом рачунару"
@@ -1461,7 +1454,7 @@ msgid "Saxophone"
 msgstr "Саксофон"
 
 msgid "Scratch Updater"
-msgstr ""
+msgstr "Програм за ажурирање Скреча"
 
 msgid "Scratch 2.0 Offline Editor"
 msgstr ""
@@ -1510,7 +1503,7 @@ msgid "Share"
 msgstr "Објави (дели)"
 
 msgid "Share to website"
-msgstr ""
+msgstr "Објави на сајту"
 
 msgid "Share to Scratch website"
 msgstr ""
@@ -1629,9 +1622,8 @@ msgstr "Даире"
 msgid "tan"
 msgstr "tg"
 
-#, fuzzy
 msgid "text"
-msgstr "Текст"
+msgstr "текст"
 
 msgid "Text"
 msgstr "Текст"
@@ -1657,7 +1649,7 @@ msgid "thing"
 msgstr ""
 
 msgid "This is the current version."
-msgstr ""
+msgstr "Ово је садашња верзија."
 
 msgid ""
 "This project can detect who is using it, through the “username” block. To "
@@ -1680,7 +1672,7 @@ msgid "this sprite"
 msgstr "овај лик"
 
 msgid "this way"
-msgstr "негативан"
+msgstr "овај смер"
 
 msgid "Throw away all changes since opening this project?"
 msgstr "Да ли да одбацим све промене од тренутка отварања овог пројекта?"
@@ -1743,13 +1735,13 @@ msgid "up arrow"
 msgstr "стрелица горе"
 
 msgid "Update failed"
-msgstr ""
+msgstr "Ажурирање није успело"
 
 msgid "Update not needed"
-msgstr ""
+msgstr "Ажурирање је напотребно"
 
 msgid "Update now"
-msgstr ""
+msgstr "Изврши ажурирање"
 
 msgid "Upload backdrop from file"
 msgstr "Пошаљи позадину из датотеке"
@@ -1794,7 +1786,7 @@ msgid "Vibraslap"
 msgstr "Вибраслап"
 
 msgid "video direction"
-msgstr ""
+msgstr "правац видеа"
 
 msgid "video motion"
 msgstr "видео кретање"
@@ -1840,112 +1832,112 @@ msgstr ""
 "промена коју направиш у едитору биће привремена а не трајна."
 
 msgid "Your Scratch name"
-msgstr ""
+msgstr "Твоје Скрач име"
 
 msgid "Your Scratch name is required"
-msgstr ""
+msgstr "Неопходно је твоје Скрач име"
 
 # Offline editor only
 msgid "All Tips"
-msgstr ""
+msgstr "Сви предлози"
 
 # Offline editor only
 msgid ""
 "An updated version of the Scratch offline editor is available on the Scratch "
 "website."
-msgstr ""
+msgstr "Унапређена верзија Скрача је доступна на Скрач сајту."
 
 # Offline editor only
 msgid "Could not retrieve update location from server."
-msgstr ""
+msgstr "Не могу да добијем локацију ажурирања на серверу."
 
 # Offline editor only
 msgid "Could not retrieve version information from server."
-msgstr ""
+msgstr "Не могу да добијем информацију о верзији са сервера."
 
 # Offline editor only
 msgid "Could not write file:"
-msgstr ""
+msgstr "Не могу да сачувам датотеку:"
 
 # Offline editor only
 msgid "Downloading new version..."
-msgstr ""
+msgstr "Преузимам нову верзију..."
 
 # Offline editor only
 msgid "Error saving project"
-msgstr ""
+msgstr "Грешка при покушају чувања пројекта"
 
 # Offline editor only
 msgid "Force help file update"
-msgstr ""
+msgstr "Приморај ажурирање датотеке која садржи упутство"
 
 # Offline editor only
 msgid "Import experimental HTTP extension"
-msgstr ""
+msgstr "Увези пробно HTTP проширење"
 
 # Offline editor only
 msgid "Loading help files..."
-msgstr ""
+msgstr "Учитавам датотеку упутства..."
 
 # Offline editor only
 msgid "Manual Update Available"
-msgstr ""
+msgstr "Доступно је ажурирање на захтев"
 
 # Offline editor only
 msgid "Open Project"
-msgstr ""
+msgstr "Отвори пројекат"
 
 # Offline editor only
 msgid "Please visit the download page to install it."
-msgstr ""
+msgstr "Молим, посети страницу за преузимање да би извршио инсталацију."
 
 # Offline editor only
 msgid "Quit"
-msgstr ""
+msgstr "Изађи"
 
 # Offline editor only
 msgid "Replace existing project?"
-msgstr ""
+msgstr "Да ли да заменим већ постојећи пројекат?"
 
 # Offline editor only
 msgid "Running pre-release"
-msgstr ""
+msgstr "Користите предиздање"
 
 # Offline editor only
 msgid "Save Project"
-msgstr ""
+msgstr "Сачувај пројекат"
 
 # Offline editor only
 msgid "Server error:"
-msgstr ""
+msgstr "Грешка сервера:"
 
 # Offline editor only
 msgid "Share to Scratch Website"
-msgstr ""
+msgstr "Објави на Скрач сајту"
 
 # Offline editor only
 msgid "Success"
-msgstr ""
+msgstr "Успешно"
 
 # Offline editor only
 msgid "This version is newer than the current release version."
-msgstr ""
+msgstr "Ова верзија је новија од тренутно објављене верзије."
 
 # Offline editor only
 msgid "Update check failed"
-msgstr ""
+msgstr "Провера доступности ажурирања није успела"
 
 # Offline editor only
 msgid "Upload failed"
-msgstr ""
+msgstr "Отпремање није успело"
 
 # Offline editor only
 msgid "Visit download page"
-msgstr ""
+msgstr "Посети страну за преузимање"
 
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
-msgstr ""
+msgstr "Твој пројекат је отпремљен на scratch.mit.edu"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"

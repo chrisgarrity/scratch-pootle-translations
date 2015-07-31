@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-02-10 09:43+0000\n"
+"PO-Revision-Date: 2015-07-27 14:00+0000\n"
 "Last-Translator: Gruffudd <gruffudd@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: cy\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n==2) ? 1 : 0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1423561386.000000\n"
+"X-POOTLE-MTIME: 1438005646.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -1447,111 +1447,105 @@ msgstr "Mae eich enw Scratch yn ofynnol"
 
 # Offline editor only
 msgid "All Tips"
-msgstr ""
+msgstr "Holl Awgrymiadau"
 
 # Offline editor only
 msgid ""
 "An updated version of the Scratch offline editor is available on the Scratch "
 "website."
-msgstr ""
+msgstr "Mae fersiwn newydd o Scratch oddi-ar-lein ar gael ar wefan Scratch."
 
 # Offline editor only
-#, fuzzy
 msgid "Could not retrieve update location from server."
-msgstr "Methu â nôl rhaglen o'r gweinydd."
+msgstr "Methu â nôl lleoliad y diweddariad ô'r gweinydd."
 
 # Offline editor only
-#, fuzzy
 msgid "Could not retrieve version information from server."
-msgstr "Methu â nôl rhaglen o'r gweinydd."
+msgstr "Methu â nôl gwybodaeth fersiwn ô'r gweinydd."
 
 # Offline editor only
 msgid "Could not write file:"
-msgstr ""
+msgstr "Methwyd ysgrifennu'r ffeil:"
 
 # Offline editor only
-#, fuzzy
 msgid "Downloading new version..."
-msgstr "Lawrlwytho fersiwn newydd"
+msgstr "Lawrlwytho fersiwn newydd..."
 
 # Offline editor only
 msgid "Error saving project"
-msgstr ""
+msgstr "Gwall wrth gadw'r prosiect"
 
 # Offline editor only
 msgid "Force help file update"
-msgstr ""
+msgstr "Gorfodi diweddariad i'r ffeil gymorth"
 
 # Offline editor only
 msgid "Import experimental HTTP extension"
-msgstr ""
+msgstr "Mewnforio estyniad HTTP arbrofol"
 
 # Offline editor only
 msgid "Loading help files..."
-msgstr ""
+msgstr "Llwytho ffeiliau cymorth..."
 
 # Offline editor only
 msgid "Manual Update Available"
-msgstr ""
+msgstr "Diweddariad Ar Gael"
 
 # Offline editor only
 msgid "Open Project"
-msgstr ""
+msgstr "Agor Prosiect"
 
 # Offline editor only
 msgid "Please visit the download page to install it."
-msgstr ""
+msgstr "Ewch i'r dudalen lawrwytho er mwyn ei osod."
 
 # Offline editor only
 msgid "Quit"
-msgstr ""
+msgstr "Gadael"
 
 # Offline editor only
-#, fuzzy
 msgid "Replace existing project?"
-msgstr "Disodli'r prosiect presennol"
+msgstr "Disodli'r prosiect presennol?"
 
 # Offline editor only
 msgid "Running pre-release"
-msgstr ""
+msgstr "Rhedeg cyn-osodiad"
 
 # Offline editor only
-#, fuzzy
 msgid "Save Project"
-msgstr "Cadw'r prosiect?"
+msgstr "Cadw'r Prosiect"
 
 # Offline editor only
 msgid "Server error:"
-msgstr ""
+msgstr "Gwall ar y gweinydd:"
 
 # Offline editor only
-#, fuzzy
 msgid "Share to Scratch Website"
-msgstr "Rhannu i wefan Scratch"
+msgstr "Rhanwch i wefan Scratch"
 
 # Offline editor only
 msgid "Success"
-msgstr ""
+msgstr "Llwyddiant"
 
 # Offline editor only
 msgid "This version is newer than the current release version."
-msgstr ""
+msgstr "Mae'r fesiwn hwn yn fwy diweddar na'r fersiwn swyddogol diweddaraf."
 
 # Offline editor only
 msgid "Update check failed"
-msgstr ""
+msgstr "Methwyd y prawf diweddaru"
 
 # Offline editor only
 msgid "Upload failed"
-msgstr ""
+msgstr "Methwyd llwytho i fyny"
 
 # Offline editor only
 msgid "Visit download page"
-msgstr ""
+msgstr "Ewch i'r dudalen lawrlwytho"
 
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
-msgstr ""
+msgstr "Cafodd eich prosiect ei lwytho i fyny i scratch.mit.edu"
 
 # 90%
 #, fuzzy

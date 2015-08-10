@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-05-11 11:15+0000\n"
+"PO-Revision-Date: 2015-08-06 08:07+0000\n"
 "Last-Translator: Michal <mpraznovsky@zsvycapy.edu.sk>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sk\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1431342907.000000\n"
+"X-POOTLE-MTIME: 1438848427.000000\n"
 
 msgid "%b and %b"
 msgstr "%b a %b"
@@ -442,7 +442,7 @@ msgid "when %m.key key pressed"
 msgstr "po stlačení klávesu %m.key"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr ""
+msgstr "keď %m.sensor %m.lessMore %n"
 
 msgid "when %m.triggerSensor > %n"
 msgstr "ak %m.triggerSensor > %n"
@@ -493,7 +493,8 @@ msgid ""
 msgstr ""
 "<b>Informácie o cloudových premenných</b><br>&nbsp;<br>Zatiaľ sú podporované "
 "len čísla<br>Chatovacie miestnosti nie sú povolené a budú zmazané<br>Pre "
-"viac informácií <a href= target=>pozri cloud data FAQ!</a>"
+"viac informácií <a href=\"/help/faq/#clouddata\" target=\"_blank\">pozri "
+"cloud data FAQ!</a>"
 
 msgid "A connected"
 msgstr "Pripojené"
@@ -599,6 +600,9 @@ msgid ""
 "saved yet. Keep participating on the site you'll be able to use cloud data "
 "soon!"
 msgstr ""
+"Pretože je tvoj Scratch účet príliš nový, žiadne zmeny do cloud data sa ešte "
+"neuložia. Pokračuj v svojich projektorch na tejto stránke a táto možnosť sa "
+"ti čoskoro uvolní!"
 
 msgid "Bitmap"
 msgstr "Rástrový"
@@ -1210,9 +1214,8 @@ msgstr "Ostatné"
 msgid "other scripts in sprite"
 msgstr "zvyšné scenáre postavy"
 
-#, fuzzy
 msgid "other scripts in stage"
-msgstr "zvyšné scenáre postavy"
+msgstr "zvyšné scenáre na scéne"
 
 msgid "Outdoors"
 msgstr "Exteriér"
@@ -1275,7 +1278,7 @@ msgid "Project name"
 msgstr "Názov projektu"
 
 msgid "Project name is required"
-msgstr ""
+msgstr "Meno projektu je povinné"
 
 msgid "random"
 msgstr "náhodne"
@@ -1360,7 +1363,7 @@ msgid "Save"
 msgstr "Uložiť"
 
 msgid "Save a copy of this project and add your own ideas."
-msgstr ""
+msgstr "Ulož kópiu tohto projektu a pridaj svoje vlastné nápady."
 
 msgid "Save as"
 msgstr "Uložiť ako"
@@ -1387,7 +1390,7 @@ msgid "Saxophone"
 msgstr "Saxofón"
 
 msgid "Scratch Updater"
-msgstr ""
+msgstr "Scratch Updater"
 
 msgid "Scratch 2.0 Offline Editor"
 msgstr ""
@@ -1428,13 +1431,13 @@ msgid "Set costume center"
 msgstr "Nastaviť stred kostýmu"
 
 msgid "set slider min and max"
-msgstr ""
+msgstr "nastav minimum a maximum posuvníka"
 
 msgid "Share"
 msgstr "Zverejniť"
 
 msgid "Share to website"
-msgstr ""
+msgstr "Zdielaj na webovej stránke"
 
 msgid "Share to Scratch website"
 msgstr ""
@@ -1713,7 +1716,7 @@ msgid "Vibraslap"
 msgstr "Vibraslap"
 
 msgid "video direction"
-msgstr ""
+msgstr "smer videa"
 
 msgid "video motion"
 msgstr "pohyb videa"
@@ -1766,7 +1769,7 @@ msgstr ""
 
 # Offline editor only
 msgid "All Tips"
-msgstr ""
+msgstr "Všetky tipy"
 
 # Offline editor only
 msgid ""
@@ -1776,15 +1779,15 @@ msgstr "Je dostupná aktualizovaná verzia offline editora na www stránke."
 
 # Offline editor only
 msgid "Could not retrieve update location from server."
-msgstr ""
+msgstr "Nemôžem získať adresu aktualizácie zo servera."
 
 # Offline editor only
 msgid "Could not retrieve version information from server."
-msgstr ""
+msgstr "Nemôžem získať číslo verzie zo servera."
 
 # Offline editor only
 msgid "Could not write file:"
-msgstr ""
+msgstr "Nepodarilo sa zapísať súbor:"
 
 # Offline editor only
 msgid "Downloading new version..."

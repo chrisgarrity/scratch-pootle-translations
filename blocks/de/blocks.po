@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-07-08 19:29+0000\n"
+"PO-Revision-Date: 2015-08-15 20:46+0000\n"
 "Last-Translator: Frodewin <wilfried.elmenreich@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1436383751.000000\n"
+"X-POOTLE-MTIME: 1439671579.000000\n"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
@@ -314,10 +314,10 @@ msgstr "setze Instrument auf %d.instrument"
 
 # 97%
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "setze Drehung von %m.motor2 auf %m.motorDirection"
+msgstr "setze Drehrichtung von %m.motor2 auf %m.motorDirection"
 
 msgid "set %m.motor power to %n"
-msgstr "setze Leistung von %m.motor auf %n"
+msgstr "setze Stärke von %m.motor auf %n"
 
 msgid "set pen color to %c"
 msgstr "setze Stiftfarbe auf %c"

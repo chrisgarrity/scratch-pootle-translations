@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2014-11-23 20:57+0000\n"
+"PO-Revision-Date: 2015-08-21 07:49+0000\n"
 "Last-Translator: adlogi <adlogi@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ar\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1416776276.000000\n"
+"X-POOTLE-MTIME: 1440143393.000000\n"
 
 msgid "10 ^"
 msgstr "^ 10"
@@ -1480,13 +1480,13 @@ msgstr "اسمك على موقع سكراتش مطلوب"
 
 # Offline editor only
 msgid "All Tips"
-msgstr ""
+msgstr "جميع التلميحات"
 
 # Offline editor only
 msgid ""
 "An updated version of the Scratch offline editor is available on the Scratch "
 "website."
-msgstr ""
+msgstr "نسخة مُحَدثة من محرر سكراتش متوفرة الآن على موقع سكراتش."
 
 # Offline editor only
 #, fuzzy
@@ -1500,7 +1500,7 @@ msgstr "لم يكن بالإمكان الحصول على التطبيق الجد
 
 # Offline editor only
 msgid "Could not write file:"
-msgstr ""
+msgstr "تعذَّرت كتابة الملف:"
 
 # Offline editor only
 #, fuzzy
@@ -1509,39 +1509,39 @@ msgstr "جارٍ تنزيل الإصدار الجديد"
 
 # Offline editor only
 msgid "Error saving project"
-msgstr ""
+msgstr "خطأ أثناء حفظ المشروع"
 
 # Offline editor only
 msgid "Force help file update"
-msgstr ""
+msgstr "تحديث ملف المساعدة"
 
 # Offline editor only
 msgid "Import experimental HTTP extension"
-msgstr ""
+msgstr "استيراد إضافة HTTP تجريبية"
 
 # Offline editor only
 msgid "Loading help files..."
-msgstr ""
+msgstr "تحميل ملفات المساعدة..."
 
 # Offline editor only
 msgid "Manual Update Available"
-msgstr ""
+msgstr "التحديث اليدوي متوفر"
 
 # Offline editor only
 msgid "Open Project"
-msgstr ""
+msgstr "فتح مشروع"
 
 # Offline editor only
 msgid "Please visit the download page to install it."
-msgstr ""
+msgstr "زر رجاءً صفحة التنزيل لتثبيته."
 
 # Offline editor only
 msgid "Quit"
-msgstr ""
+msgstr "خروج"
 
 # Offline editor only
 msgid "Replace existing project?"
-msgstr ""
+msgstr "استبدال المشروع الحالي؟"
 
 # Offline editor only
 msgid "Running pre-release"
@@ -1554,7 +1554,7 @@ msgstr "حفظ المشروع؟"
 
 # Offline editor only
 msgid "Server error:"
-msgstr ""
+msgstr "خطأ المخدِّم:"
 
 # Offline editor only
 #, fuzzy
@@ -1575,15 +1575,15 @@ msgstr ""
 
 # Offline editor only
 msgid "Upload failed"
-msgstr ""
+msgstr "فشل الرفع"
 
 # Offline editor only
 msgid "Visit download page"
-msgstr ""
+msgstr "زر صفحة التنزيل"
 
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
-msgstr ""
+msgstr "تم رفع مشروعك إلى scratch.mit.edu"
 
 #~ msgid "The name is already is use."
 #~ msgstr "الاسم مستخدم حاليًا"

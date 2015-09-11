@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-10-29 13:37+0000\n"
-"Last-Translator: Péter <bernatp@hotmail.hu>\n"
+"PO-Revision-Date: 2015-08-26 20:16+0000\n"
+"Last-Translator: rudolfwg <rudolf.wg@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1414589851.000000\n"
+"X-POOTLE-MTIME: 1440620211.000000\n"
 
 msgid "%b and %b"
 msgstr "%b és %b"
@@ -33,7 +33,7 @@ msgid "%n mod %n"
 msgstr "%n mod %n"
 
 msgid "add %s to %m.list"
-msgstr "add %m.list listához: %s"
+msgstr "%s hozzáadása %m.list listához"
 
 msgid "answer"
 msgstr "válasz"
@@ -56,7 +56,7 @@ msgid "broadcast %m.broadcast and wait"
 msgstr "küldj üzenetet: %m.broadcast és várj"
 
 msgid "change %m.effect effect by %n"
-msgstr "%m.effect hatás változzon %n"
+msgstr "%m.effect hatás változzon %n egységgel"
 
 msgid "change %m.var by %n"
 msgstr "%m.var változzon %n"
@@ -80,16 +80,16 @@ msgid "change volume by %n"
 msgstr "hangerő változzon %n"
 
 msgid "change x by %n"
-msgstr "x változzon %n"
+msgstr "x változzon ennyivel: %n"
 
 msgid "change y by %n"
-msgstr "y változzon %n"
+msgstr "y változzon ennyivel: %n"
 
 msgid "clear"
 msgstr "töröld a rajzokat"
 
 msgid "clear graphic effects"
-msgstr "töröld a hatásokat"
+msgstr "töröld a grafikus hatásokat"
 
 msgid "color %c is touching %c?"
 msgstr "%c érint %c színt?"
@@ -128,7 +128,7 @@ msgid "distance"
 msgstr "távolság"
 
 msgid "distance to %m.spriteOrMouse"
-msgstr "távolság: %m.spriteOrMouse"
+msgstr "távolság ettől: %m.spriteOrMouse"
 
 msgid "else"
 msgstr "különben"
@@ -143,7 +143,7 @@ msgid "glide %n secs to x:%n y:%n"
 msgstr "csússz %n mp-ig x:%n y:%n"
 
 msgid "go back %n layers"
-msgstr "kerülj %n szinttel hátrébb"
+msgstr "kerülj %n réteggel hátrébb"
 
 msgid "go to %m.spriteOrMouse"
 msgstr "ugorj %m.spriteOrMouse helyére"
@@ -158,10 +158,10 @@ msgid "hide"
 msgstr "tűnj el"
 
 msgid "hide list %m.list"
-msgstr "%m.list tűnjön el"
+msgstr "%m.list lista tűnjön el"
 
 msgid "hide variable %m.var"
-msgstr "%m.var tűnjön el"
+msgstr "%m.var változó tűnjön el"
 
 msgid "if %b then"
 msgstr "ha %b akkor"
@@ -182,7 +182,7 @@ msgid "key %m.key pressed?"
 msgstr "%m.key lenyomva?"
 
 msgid "length of %m.list"
-msgstr "%m.list hossza"
+msgstr "%m.list lista hossza"
 
 msgid "length of %s"
 msgstr "%s hossza"
@@ -194,7 +194,7 @@ msgid "Looks"
 msgstr "Kinézet"
 
 msgid "loudness"
-msgstr "hangosság"
+msgstr "hangerő"
 
 msgid "More Blocks"
 msgstr "Továbbiak"
@@ -231,13 +231,13 @@ msgid "Pen"
 msgstr "Toll"
 
 msgid "pen down"
-msgstr "tollat tedd le"
+msgstr "érintsd oda a tollat"
 
 msgid "pen up"
-msgstr "tollat emeld fel"
+msgstr "emeld fel a tollat"
 
 msgid "pick random %n to %n"
-msgstr "véletlen %n és %n között"
+msgstr "véletlen szám %n és %n között"
 
 msgid "play drum %d.drum for %n beats"
 msgstr "dobolj %d.drum%n ütemig"
@@ -265,7 +265,7 @@ msgid "repeat until %b"
 msgstr "ismételd eddig: %b"
 
 msgid "replace item %d.listItem of %m.list with %s"
-msgstr "cseréld le %m.list %d.listItem elemét: %s"
+msgstr "cseréld le %m.list %d.listItem elemét erre: %s"
 
 msgid "reset timer"
 msgstr "nullázd az órát"
@@ -300,15 +300,13 @@ msgstr "hangszer legyen %d.instrument"
 # 89%
 # 86%
 # 97%
-#, fuzzy
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "set motor direction %m.motorDirection"
+msgstr "%m.motor2 iránya legyen %m.motorDirection"
 
 # 77%
 # 75%
-#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "set motor power %n"
+msgstr "%m.motor erőssége legyen %n"
 
 msgid "set pen color to %c"
 msgstr "tollszín legyen %c"
@@ -347,16 +345,16 @@ msgid "show"
 msgstr "jelenj meg"
 
 msgid "show list %m.list"
-msgstr "%m.list jelenjen meg"
+msgstr "%m.list lista jelenjen meg"
 
 msgid "show variable %m.var"
-msgstr "%m.var jelenjen meg"
+msgstr "%m.var változó jelenjen meg"
 
 msgid "size"
 msgstr "méret"
 
 msgid "Sound"
-msgstr "Sound"
+msgstr "Hang"
 
 msgid "stamp"
 msgstr "készíts lenyomatot"
@@ -391,7 +389,7 @@ msgid "tilt"
 msgstr "tilt"
 
 msgid "timer"
-msgstr "óra"
+msgstr "időzítő"
 
 msgid "touching %m.touching?"
 msgstr "érinted: %m.touching?"
@@ -406,20 +404,17 @@ msgid "turn @turnRight %n degrees"
 msgstr "fordulj @turnRight %n fokot"
 
 # 82%
-#, fuzzy
 msgid "turn %m.motor off"
-msgstr "turn motor off"
+msgstr "%m.motor leállítása"
 
 # 81%
-#, fuzzy
 msgid "turn %m.motor on"
-msgstr "turn motor on"
+msgstr "%m.motor indítása"
 
 # 80%
 # 89%
-#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr "turn motor on for %n secs"
+msgstr "%m.motor menjen %n másodpercig"
 
 msgid "turn video %m.videoState"
 msgstr "videót kapcsold %m.videoState"
@@ -441,13 +436,13 @@ msgstr "várj eddig: %b"
 
 # 75%
 msgid "when %m.booleanSensor"
-msgstr "when %m.booleanSensor"
+msgstr "amikor %m.booleanSensor"
 
 msgid "when %m.key key pressed"
 msgstr "%m.key lenyomásakor"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr ""
+msgstr "amikor %m.sensor %m.lessMore %n"
 
 msgid "when %m.triggerSensor > %n"
 msgstr "%m.triggerSensor > %n esetén"
@@ -460,7 +455,7 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "%m.backdrop háttér beállításakor"
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
+msgstr "amikor a távolság %m.lessMore %n"
 
 msgid "when I receive %m.broadcast"
 msgstr "%m.broadcast üzenet érkezésekor"
@@ -472,18 +467,17 @@ msgid "when this sprite clicked"
 msgstr "e szereplőre kattintáskor"
 
 msgid "when tilt %m.eNe %n"
-msgstr ""
+msgstr "amikor a dőlés %m.eNe %n"
 
 msgid "x position"
-msgstr "x hely"
+msgstr "x pozíció"
 
 msgid "y position"
-msgstr "y hely"
+msgstr "y pozíció"
 
 #: commands-online.txt:7 commands-offline.txt:7
-#, fuzzy
 msgid "%m.list contains %s?"
-msgstr "%m.list tartalmazza: %s"
+msgstr "%m.list tartalmazza: %s?"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -523,10 +517,10 @@ msgid "acos"
 msgstr "arccos"
 
 msgid "Add"
-msgstr ""
+msgstr "Hozzáadás"
 
 msgid "Add an Extension"
-msgstr ""
+msgstr "Kiterjesztés hozzáadása"
 
 msgid "Add boolean input:"
 msgstr "Logikai mező hozzáadása:"

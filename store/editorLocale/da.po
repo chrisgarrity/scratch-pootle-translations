@@ -530,7 +530,7 @@ msgid "add comment"
 msgstr "tilføj kommentar"
 
 msgid "add comment here..."
-msgstr ""
+msgstr "tilføj kommentar her..."
 
 msgid "Add label text:"
 msgstr "Tilføj mærkningstekst:"
@@ -660,7 +660,7 @@ msgid "Cancel"
 msgstr "Annuller"
 
 msgid "Cannot Add"
-msgstr ""
+msgstr "Kan ikke tilføje"
 
 msgid "Cannot Delete"
 msgstr "Kan ikke slette"
@@ -710,7 +710,6 @@ msgstr "Klarinet"
 msgid "Claves"
 msgstr "Claves"
 
-#, fuzzy
 msgid "clean up"
 msgstr "ryd op"
 
@@ -733,7 +732,7 @@ msgid "Cloud data"
 msgstr "Skydata"
 
 msgid "Cloud variable (stored on server)"
-msgstr ""
+msgstr "Sky variabler (gemt på server)"
 
 msgid "color"
 msgstr "farve"
@@ -846,7 +845,7 @@ msgid "Download to your computer"
 msgstr "Download til din computer"
 
 msgid "Downloading new version"
-msgstr ""
+msgstr "Hent ny version"
 
 msgid "duplicate"
 msgstr "kopier"
@@ -885,13 +884,13 @@ msgid "Ellipse"
 msgstr "Ellipse"
 
 msgid "empty"
-msgstr ""
+msgstr "tom"
 
 msgid "Erase"
 msgstr "Slet"
 
 msgid "Erase all"
-msgstr ""
+msgstr "Slet alt"
 
 # 92%
 msgid "Eraser width"
@@ -910,7 +909,7 @@ msgid "fade out"
 msgstr "fade ud"
 
 msgid "false"
-msgstr ""
+msgstr "forkert"
 
 msgid "Fantasy"
 msgstr "Fantasi"
@@ -979,12 +978,11 @@ msgid "help"
 msgstr "hjælp"
 
 msgid "Hello!"
-msgstr ""
+msgstr "Hej!"
 
 msgid "Hmm..."
-msgstr ""
+msgstr "Hmm..."
 
-#, fuzzy
 msgid "hello"
 msgstr "Cello"
 
@@ -1151,7 +1149,7 @@ msgid "New backdrop:"
 msgstr "Ny baggrund:"
 
 msgid "New Block"
-msgstr "Ny Klods"
+msgstr "Ny Brik"
 
 msgid "New costume from camera"
 msgstr "Nyt kostume fra kamera"
@@ -1163,10 +1161,10 @@ msgid "New List"
 msgstr "Ny liste"
 
 msgid "New Message"
-msgstr "Ny besked"
+msgstr "Ny meddelelse"
 
 msgid "new message..."
-msgstr "ny meddelese..."
+msgstr "ny meddelelse..."
 
 msgid "New name"
 msgstr "Nyt navn"
@@ -1338,7 +1336,7 @@ msgid "rename variable"
 msgstr "omdøb variabel"
 
 msgid "Replace existing project"
-msgstr ""
+msgstr "Erstat eksisterende projekt"
 
 msgid "Reshape"
 msgstr "Omform"
@@ -1410,7 +1408,7 @@ msgid "Scratch Updater"
 msgstr "Scratch Opdatering"
 
 msgid "Scratch 2.0 Offline Editor"
-msgstr ""
+msgstr "Scratch 2.0 Offline Editor"
 
 msgid "Script"
 msgstr "Script"
@@ -1452,7 +1450,7 @@ msgid "Share to website"
 msgstr "Del til hjemmeside"
 
 msgid "Share to Scratch website"
-msgstr ""
+msgstr "Del til Scratch hjemmeside"
 
 msgid "shared"
 msgstr "delt"
@@ -1577,12 +1575,14 @@ msgid "that way"
 msgstr "den måde"
 
 msgid "The name is already in use."
-msgstr ""
+msgstr "Navnet er allerede i brug."
 
 msgid ""
 "The project failed to load and Scratch Team has been notified. Press OK to "
 "leave this page."
 msgstr ""
+"Projektet kunne ikke hentes og Scratch Teamet har fået besked. Klik OK for "
+"at forlade denne side."
 
 msgid "Theme"
 msgstr "Tema"
@@ -1591,7 +1591,7 @@ msgid "Things"
 msgstr "Ting"
 
 msgid "thing"
-msgstr ""
+msgstr "ting"
 
 msgid "This is the current version."
 msgstr "Dette er den nuværende version."
@@ -1600,7 +1600,7 @@ msgid ""
 "This project can detect who is using it, through the “username” block. To "
 "hide your identity, sign out before using the project."
 msgstr ""
-"Dette project kan afsløre hvem som bruger det, gennem \"brugernavn\"-"
+"Dette projekt kan afsløre hvem som bruger det, gennem \"brugernavn\"-"
 "brikken.  For at skjule din identitet, log af inden du andvender projektet."
 
 msgid ""
@@ -1639,7 +1639,7 @@ msgid "Trombone"
 msgstr "Trækbasun"
 
 msgid "true"
-msgstr ""
+msgstr "sandt"
 
 msgid "Turbo mode"
 msgstr "Sæt turbo på"
@@ -1752,7 +1752,7 @@ msgid "Which column do you want to import"
 msgstr "Hvilken kolonne vil du importere"
 
 msgid "What's your name?"
-msgstr ""
+msgstr "Hvad er dit navn?"
 
 msgid "whirl"
 msgstr "vrid"
@@ -1764,7 +1764,7 @@ msgid "Wooden Flute"
 msgstr "Træfløjte"
 
 msgid "world"
-msgstr ""
+msgstr "Verden"
 
 msgid "year"
 msgstr "år"
@@ -1791,7 +1791,7 @@ msgid ""
 "An updated version of the Scratch offline editor is available on the Scratch "
 "website."
 msgstr ""
-"En odpateret version af Scratch Offline editoren er tilgængelig på Scratch "
+"En opdateret version af Scratch Offline editoren er tilgængelig på Scratch "
 "hjemmesiden."
 
 # Offline editor only

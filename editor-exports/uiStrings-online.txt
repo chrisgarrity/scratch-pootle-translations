@@ -12,8 +12,8 @@ add comment
 Add label text:
 Add number input:
 Add string input:
-All
 all
+All
 all around
 Animal
 Animals
@@ -98,8 +98,8 @@ cut
 D connected
 date
 day of week
-Delete
 delete
+Delete
 delete variable
 direction
 direction:
@@ -109,8 +109,8 @@ down
 down arrow
 Download
 Download to your computer
-Duplicate
 duplicate
+Duplicate
 e ^
 edge
 Edit
@@ -154,8 +154,8 @@ High C
 Holiday
 hour
 Human
-import
 Import
+import
 Importing sound...
 Indoors
 Installing...
@@ -261,6 +261,7 @@ redo
 Remix
 Remixing...
 Rename
+rename broadcast
 rename variable
 Reshape
 resistance-A
@@ -334,8 +335,8 @@ Synth Lead
 Synth Pad
 Tambourine
 tan
-Text
 text
+Text
 that way
 Theme
 Things
@@ -351,8 +352,8 @@ To delete a block definition, first remove all uses of the block.
 Transportation
 Triangle
 Trombone
-Turbo Mode
 Turbo mode
+Turbo Mode
 Type
 Undelete
 Underwater
@@ -384,6 +385,7 @@ Vocals
 volume
 Walking
 Want to save? Click remix
+when Stage clicked
 Which column do you want to import
 whirl
 Wood Block

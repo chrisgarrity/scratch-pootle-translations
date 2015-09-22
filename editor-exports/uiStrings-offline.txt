@@ -23,14 +23,14 @@ asin
 atan
 B connected
 Back a layer
-backdrop
 Backdrop
+backdrop
 backdrop #
 Backdrop Library
 backdrop name
 backdrop1
-Backdrops
 backdrops
+Backdrops
 Backpack
 Bass
 Bass Drum
@@ -95,8 +95,8 @@ cut
 D connected
 date
 day of week
-delete
 Delete
+delete
 delete variable
 direction
 direction:
@@ -259,9 +259,10 @@ Record new sound
 record...
 recording1
 Rectangle
-Redo
 redo
+Redo
 Rename
+rename broadcast
 rename variable
 Replace existing project?
 Reshape
@@ -294,8 +295,8 @@ select all
 Select and duplicate
 Send to back
 Server error:
-Set costume center
 Set Costume Center
+Set costume center
 set slider min and max
 Share to Scratch Website
 Share to website
@@ -360,8 +361,8 @@ Turbo mode
 Type
 Undelete
 Underwater
-undo
 Undo
+undo
 Undo Revert
 Ungroup
 unshared
@@ -392,6 +393,7 @@ Visit download page
 Vocals
 volume
 Walking
+when Stage clicked
 Which column do you want to import
 whirl
 Wood Block

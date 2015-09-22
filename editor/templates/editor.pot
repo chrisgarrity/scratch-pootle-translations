@@ -6,170 +6,168 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-13 13:04-0700\n"
-"PO-Revision-Date: 2013-05-02 00:48+0000\n"
-"Last-Translator: adlogi <adlogi@media.mit.edu>\n"
+"POT-Creation-Date: 2015-09-22 17:22+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: templates\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1367455729.000000\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
 
 #: uiStrings-online.txt:1 uiStrings-offline.txt:1
 msgid "10 ^"
 msgstr ""
 
-#: uiStrings-online.txt:3
+#: uiStrings-online.txt:3 uiStrings-offline.txt:3
+msgid "About"
+msgstr ""
+
+#: uiStrings-online.txt:5 uiStrings-offline.txt:5
+msgid "abs"
+msgstr ""
+
+#: uiStrings-online.txt:7 uiStrings-offline.txt:7
+msgid "A connected"
+msgstr ""
+
+#: uiStrings-online.txt:9 uiStrings-offline.txt:9
+msgid "a copy of the project file on your computer."
+msgstr ""
+
+#: uiStrings-online.txt:11 uiStrings-offline.txt:11
+msgid "acos"
+msgstr ""
+
+#: uiStrings-online.txt:13 uiStrings-offline.txt:13
+msgid "Add"
+msgstr ""
+
+#: uiStrings-online.txt:15 uiStrings-offline.txt:15
+msgid "Add an Extension"
+msgstr ""
+
+#: uiStrings-online.txt:17 uiStrings-offline.txt:17
+msgid "Add boolean input:"
+msgstr ""
+
+#: uiStrings-online.txt:19 uiStrings-offline.txt:19
+msgid "add comment"
+msgstr ""
+
+#: uiStrings-online.txt:21 uiStrings-offline.txt:21
+msgid "Add label text:"
+msgstr ""
+
+#: uiStrings-online.txt:23 uiStrings-offline.txt:23
+msgid "Add number input:"
+msgstr ""
+
+#: uiStrings-online.txt:25 uiStrings-offline.txt:25
+msgid "Add string input:"
+msgstr ""
+
+#: uiStrings-online.txt:27 uiStrings-offline.txt:27
+msgid "all"
+msgstr ""
+
+#: uiStrings-online.txt:29 uiStrings-offline.txt:29
+msgid "All"
+msgstr ""
+
+#: uiStrings-online.txt:31 uiStrings-offline.txt:31
+msgid "all around"
+msgstr ""
+
+#: uiStrings-online.txt:33 uiStrings-offline.txt:37
+msgid "Animal"
+msgstr ""
+
+#: uiStrings-online.txt:35 uiStrings-offline.txt:39
+msgid "Animals"
+msgstr ""
+
+#: uiStrings-online.txt:37 uiStrings-offline.txt:43
+msgid "asin"
+msgstr ""
+
+#: uiStrings-online.txt:39
+msgid "assets loaded"
+msgstr ""
+
+#: uiStrings-online.txt:41 uiStrings-offline.txt:45
+msgid "atan"
+msgstr ""
+
+#: uiStrings-online.txt:43 uiStrings-offline.txt:47
+msgid "Back a layer"
+msgstr ""
+
+#: uiStrings-online.txt:45 uiStrings-offline.txt:49
+msgid "backdrop"
+msgstr ""
+
+#: uiStrings-online.txt:47 uiStrings-offline.txt:51
+msgid "backdrop #"
+msgstr ""
+
+#: uiStrings-online.txt:49 uiStrings-offline.txt:53
+msgid "Backdrop"
+msgstr ""
+
+#: uiStrings-online.txt:51 uiStrings-offline.txt:55
+msgid "backdrop1"
+msgstr ""
+
+#: uiStrings-online.txt:53 uiStrings-offline.txt:57
+msgid "Backdrop Library"
+msgstr ""
+
+#: uiStrings-online.txt:55 uiStrings-offline.txt:59
+msgid "backdrop name"
+msgstr ""
+
+#: uiStrings-online.txt:57 uiStrings-offline.txt:61
+msgid "backdrops"
+msgstr ""
+
+#: uiStrings-online.txt:59 uiStrings-offline.txt:63
+msgid "Backdrops"
+msgstr ""
+
+#: uiStrings-online.txt:61 uiStrings-offline.txt:65
+msgid "Backpack"
+msgstr ""
+
+#: uiStrings-online.txt:63 uiStrings-offline.txt:67
+msgid "Bass"
+msgstr ""
+
+#: uiStrings-online.txt:65 uiStrings-offline.txt:69
+msgid "Bass Drum"
+msgstr ""
+
+#: uiStrings-online.txt:67 uiStrings-offline.txt:71
+msgid "Bassoon"
+msgstr ""
+
+#: uiStrings-online.txt:69 uiStrings-offline.txt:73
+msgid "B connected"
+msgstr ""
+
+#: uiStrings-online.txt:71
+msgid ""
+"Because you have a new Scratch account, any changes to cloud data won't be "
+"saved yet. Keep participating on the site you'll be able to use cloud data "
+"soon!"
+msgstr ""
+
+#: uiStrings-online.txt:73
 msgid ""
 "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
 "numbers are supported<br>Chat rooms are not allowed, and will be "
 "removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank"
 "\">see the cloud data FAQ!</a>"
-msgstr ""
-
-#: uiStrings-online.txt:5 uiStrings-offline.txt:3
-msgid "A connected"
-msgstr ""
-
-#: uiStrings-online.txt:7 uiStrings-offline.txt:5
-msgid "a copy of the project file on your computer."
-msgstr ""
-
-#: uiStrings-online.txt:9 uiStrings-offline.txt:9
-msgid "About"
-msgstr ""
-
-#: uiStrings-online.txt:11 uiStrings-offline.txt:11
-msgid "abs"
-msgstr ""
-
-#: uiStrings-online.txt:13 uiStrings-offline.txt:13
-msgid "acos"
-msgstr ""
-
-#: uiStrings-online.txt:15 uiStrings-offline.txt:15
-msgid "Add"
-msgstr ""
-
-#: uiStrings-online.txt:17 uiStrings-offline.txt:17
-msgid "Add an Extension"
-msgstr ""
-
-#: uiStrings-online.txt:19 uiStrings-offline.txt:19
-msgid "Add boolean input:"
-msgstr ""
-
-#: uiStrings-online.txt:21 uiStrings-offline.txt:21
-msgid "add comment"
-msgstr ""
-
-#: uiStrings-online.txt:23 uiStrings-offline.txt:23
-msgid "Add label text:"
-msgstr ""
-
-#: uiStrings-online.txt:25 uiStrings-offline.txt:25
-msgid "Add number input:"
-msgstr ""
-
-#: uiStrings-online.txt:27 uiStrings-offline.txt:27
-msgid "Add string input:"
-msgstr ""
-
-#: uiStrings-online.txt:29 uiStrings-offline.txt:31
-msgid "All"
-msgstr ""
-
-#: uiStrings-online.txt:31 uiStrings-offline.txt:29
-msgid "all"
-msgstr ""
-
-#: uiStrings-online.txt:33 uiStrings-offline.txt:33
-msgid "all around"
-msgstr ""
-
-#: uiStrings-online.txt:35 uiStrings-offline.txt:39
-msgid "Animal"
-msgstr ""
-
-#: uiStrings-online.txt:37 uiStrings-offline.txt:41
-msgid "Animals"
-msgstr ""
-
-#: uiStrings-online.txt:39 uiStrings-offline.txt:43
-msgid "asin"
-msgstr ""
-
-#: uiStrings-online.txt:41
-msgid "assets loaded"
-msgstr ""
-
-#: uiStrings-online.txt:43 uiStrings-offline.txt:45
-msgid "atan"
-msgstr ""
-
-#: uiStrings-online.txt:45 uiStrings-offline.txt:47
-msgid "B connected"
-msgstr ""
-
-#: uiStrings-online.txt:47 uiStrings-offline.txt:49
-msgid "Back a layer"
-msgstr ""
-
-#: uiStrings-online.txt:49 uiStrings-offline.txt:51
-msgid "backdrop"
-msgstr ""
-
-#: uiStrings-online.txt:51 uiStrings-offline.txt:53
-msgid "Backdrop"
-msgstr ""
-
-#: uiStrings-online.txt:53 uiStrings-offline.txt:55
-msgid "backdrop #"
-msgstr ""
-
-#: uiStrings-online.txt:55 uiStrings-offline.txt:57
-msgid "Backdrop Library"
-msgstr ""
-
-#: uiStrings-online.txt:57 uiStrings-offline.txt:59
-msgid "backdrop name"
-msgstr ""
-
-#: uiStrings-online.txt:59 uiStrings-offline.txt:61
-msgid "backdrop1"
-msgstr ""
-
-#: uiStrings-online.txt:61 uiStrings-offline.txt:63
-msgid "Backdrops"
-msgstr ""
-
-#: uiStrings-online.txt:63 uiStrings-offline.txt:65
-msgid "backdrops"
-msgstr ""
-
-#: uiStrings-online.txt:65 uiStrings-offline.txt:67
-msgid "Backpack"
-msgstr ""
-
-#: uiStrings-online.txt:67 uiStrings-offline.txt:69
-msgid "Bass"
-msgstr ""
-
-#: uiStrings-online.txt:69 uiStrings-offline.txt:71
-msgid "Bass Drum"
-msgstr ""
-
-#: uiStrings-online.txt:71 uiStrings-offline.txt:73
-msgid "Bassoon"
-msgstr ""
-
-#: uiStrings-online.txt:73
-msgid ""
-"Because you have a new Scratch account, any changes to cloud data won't be "
-"saved yet. Keep participating on the site you'll be able to use cloud data "
-"soon!"
 msgstr ""
 
 #: uiStrings-online.txt:75 uiStrings-offline.txt:75
@@ -217,15 +215,15 @@ msgid "bytes loaded"
 msgstr ""
 
 #: uiStrings-online.txt:97 uiStrings-offline.txt:95
-msgid "C connected"
-msgstr ""
-
-#: uiStrings-online.txt:99 uiStrings-offline.txt:97
 msgid "Cabasa"
 msgstr ""
 
-#: uiStrings-online.txt:101 uiStrings-offline.txt:99
+#: uiStrings-online.txt:99 uiStrings-offline.txt:97
 msgid "Camera"
+msgstr ""
+
+#: uiStrings-online.txt:101 uiStrings-offline.txt:99
+msgid "Cancel"
 msgstr ""
 
 #: uiStrings-online.txt:103 uiStrings-offline.txt:101
@@ -233,23 +231,23 @@ msgid "can drag in player:"
 msgstr ""
 
 #: uiStrings-online.txt:105 uiStrings-offline.txt:103
-msgid "Cancel"
-msgstr ""
-
-#: uiStrings-online.txt:107 uiStrings-offline.txt:105
 msgid "Cannot Delete"
 msgstr ""
 
-#: uiStrings-online.txt:109
+#: uiStrings-online.txt:107
 msgid "Can’t find network connection or reach server."
 msgstr ""
 
-#: uiStrings-online.txt:111 uiStrings-offline.txt:107
+#: uiStrings-online.txt:109 uiStrings-offline.txt:105
 msgid "Castle"
 msgstr ""
 
-#: uiStrings-online.txt:113 uiStrings-offline.txt:109
+#: uiStrings-online.txt:111 uiStrings-offline.txt:107
 msgid "Category"
+msgstr ""
+
+#: uiStrings-online.txt:113 uiStrings-offline.txt:109
+msgid "C connected"
 msgstr ""
 
 #: uiStrings-online.txt:115 uiStrings-offline.txt:111
@@ -337,15 +335,15 @@ msgid "Connecting to Cloud data server..."
 msgstr ""
 
 #: uiStrings-online.txt:157 uiStrings-offline.txt:149
-msgid "Convert to bitmap"
+msgid "Converting mp3..."
 msgstr ""
 
 #: uiStrings-online.txt:159 uiStrings-offline.txt:151
-msgid "Convert to vector"
+msgid "Convert to bitmap"
 msgstr ""
 
 #: uiStrings-online.txt:161 uiStrings-offline.txt:153
-msgid "Converting mp3..."
+msgid "Convert to vector"
 msgstr ""
 
 #: uiStrings-online.txt:163 uiStrings-offline.txt:155
@@ -361,27 +359,27 @@ msgid "cos"
 msgstr ""
 
 #: uiStrings-online.txt:169 uiStrings-offline.txt:159
-msgid "Costume"
-msgstr ""
-
-#: uiStrings-online.txt:171 uiStrings-offline.txt:161
 msgid "costume #"
 msgstr ""
 
+#: uiStrings-online.txt:171 uiStrings-offline.txt:161
+msgid "Costume"
+msgstr ""
+
 #: uiStrings-online.txt:173 uiStrings-offline.txt:163
-msgid "Costume Library"
-msgstr ""
-
-#: uiStrings-online.txt:175 uiStrings-offline.txt:165
-msgid "costume name"
-msgstr ""
-
-#: uiStrings-online.txt:177 uiStrings-offline.txt:167
 msgid "costume1"
 msgstr ""
 
-#: uiStrings-online.txt:179 uiStrings-offline.txt:169
+#: uiStrings-online.txt:175 uiStrings-offline.txt:165
 msgid "costume2"
+msgstr ""
+
+#: uiStrings-online.txt:177 uiStrings-offline.txt:167
+msgid "Costume Library"
+msgstr ""
+
+#: uiStrings-online.txt:179 uiStrings-offline.txt:169
+msgid "costume name"
 msgstr ""
 
 #: uiStrings-online.txt:181 uiStrings-offline.txt:171
@@ -413,23 +411,23 @@ msgid "cut"
 msgstr ""
 
 #: uiStrings-online.txt:195 uiStrings-offline.txt:189
-msgid "D connected"
-msgstr ""
-
-#: uiStrings-online.txt:197 uiStrings-offline.txt:191
 msgid "date"
 msgstr ""
 
-#: uiStrings-online.txt:199 uiStrings-offline.txt:193
+#: uiStrings-online.txt:197 uiStrings-offline.txt:191
 msgid "day of week"
 msgstr ""
 
-#: uiStrings-online.txt:201 uiStrings-offline.txt:197
-msgid "Delete"
+#: uiStrings-online.txt:199 uiStrings-offline.txt:193
+msgid "D connected"
 msgstr ""
 
-#: uiStrings-online.txt:203 uiStrings-offline.txt:195
+#: uiStrings-online.txt:201 uiStrings-offline.txt:195
 msgid "delete"
+msgstr ""
+
+#: uiStrings-online.txt:203 uiStrings-offline.txt:197
+msgid "Delete"
 msgstr ""
 
 #: uiStrings-online.txt:205 uiStrings-offline.txt:199
@@ -468,12 +466,12 @@ msgstr ""
 msgid "Download to your computer"
 msgstr ""
 
-#: uiStrings-online.txt:223 uiStrings-offline.txt:217
-msgid "Duplicate"
+#: uiStrings-online.txt:223 uiStrings-offline.txt:215
+msgid "duplicate"
 msgstr ""
 
-#: uiStrings-online.txt:225 uiStrings-offline.txt:215
-msgid "duplicate"
+#: uiStrings-online.txt:225 uiStrings-offline.txt:217
+msgid "Duplicate"
 msgstr ""
 
 #: uiStrings-online.txt:227 uiStrings-offline.txt:219
@@ -484,12 +482,12 @@ msgstr ""
 msgid "edge"
 msgstr ""
 
-#: uiStrings-online.txt:231 uiStrings-offline.txt:225
-msgid "Edit"
+#: uiStrings-online.txt:231 uiStrings-offline.txt:223
+msgid "edit"
 msgstr ""
 
-#: uiStrings-online.txt:233 uiStrings-offline.txt:223
-msgid "edit"
+#: uiStrings-online.txt:233 uiStrings-offline.txt:225
+msgid "Edit"
 msgstr ""
 
 #: uiStrings-online.txt:235 uiStrings-offline.txt:227
@@ -588,7 +586,7 @@ msgstr ""
 msgid "For all sprites"
 msgstr ""
 
-#: uiStrings-online.txt:283 uiStrings-offline.txt:275
+#: uiStrings-online.txt:283 uiStrings-offline.txt:277
 msgid "For this sprite only"
 msgstr ""
 
@@ -773,11 +771,11 @@ msgid "meow"
 msgstr ""
 
 #: uiStrings-online.txt:375 uiStrings-offline.txt:371
-msgid "Message Name"
+msgid "message1"
 msgstr ""
 
 #: uiStrings-online.txt:377 uiStrings-offline.txt:373
-msgid "message1"
+msgid "Message Name"
 msgstr ""
 
 #: uiStrings-online.txt:379 uiStrings-offline.txt:375
@@ -841,11 +839,11 @@ msgid "New"
 msgstr ""
 
 #: uiStrings-online.txt:409 uiStrings-offline.txt:405
-msgid "New backdrop from camera"
+msgid "New backdrop:"
 msgstr ""
 
 #: uiStrings-online.txt:411 uiStrings-offline.txt:407
-msgid "New backdrop:"
+msgid "New backdrop from camera"
 msgstr ""
 
 #: uiStrings-online.txt:413 uiStrings-offline.txt:409
@@ -853,11 +851,11 @@ msgid "New Block"
 msgstr ""
 
 #: uiStrings-online.txt:415 uiStrings-offline.txt:411
-msgid "New costume from camera"
+msgid "New costume:"
 msgstr ""
 
 #: uiStrings-online.txt:417 uiStrings-offline.txt:413
-msgid "New costume:"
+msgid "New costume from camera"
 msgstr ""
 
 #: uiStrings-online.txt:419 uiStrings-offline.txt:415
@@ -865,11 +863,11 @@ msgid "New List"
 msgstr ""
 
 #: uiStrings-online.txt:421 uiStrings-offline.txt:417
-msgid "New Message"
+msgid "new message..."
 msgstr ""
 
 #: uiStrings-online.txt:423 uiStrings-offline.txt:419
-msgid "new message..."
+msgid "New Message"
 msgstr ""
 
 #: uiStrings-online.txt:425 uiStrings-offline.txt:421
@@ -881,11 +879,11 @@ msgid "New sound:"
 msgstr ""
 
 #: uiStrings-online.txt:429 uiStrings-offline.txt:425
-msgid "New sprite from camera"
+msgid "New sprite:"
 msgstr ""
 
 #: uiStrings-online.txt:431 uiStrings-offline.txt:427
-msgid "New sprite:"
+msgid "New sprite from camera"
 msgstr ""
 
 #: uiStrings-online.txt:433 uiStrings-offline.txt:429
@@ -1037,19 +1035,19 @@ msgid "random"
 msgstr ""
 
 #: uiStrings-online.txt:507 uiStrings-offline.txt:513
-msgid "Record"
-msgstr ""
-
-#: uiStrings-online.txt:509 uiStrings-offline.txt:515
-msgid "Record new sound"
-msgstr ""
-
-#: uiStrings-online.txt:511 uiStrings-offline.txt:517
 msgid "record..."
 msgstr ""
 
-#: uiStrings-online.txt:513 uiStrings-offline.txt:519
+#: uiStrings-online.txt:509 uiStrings-offline.txt:515
+msgid "Record"
+msgstr ""
+
+#: uiStrings-online.txt:511 uiStrings-offline.txt:517
 msgid "recording1"
+msgstr ""
+
+#: uiStrings-online.txt:513 uiStrings-offline.txt:519
+msgid "Record new sound"
 msgstr ""
 
 #: uiStrings-online.txt:515 uiStrings-offline.txt:521
@@ -1057,11 +1055,11 @@ msgid "Rectangle"
 msgstr ""
 
 #: uiStrings-online.txt:517 uiStrings-offline.txt:523
-msgid "Redo"
+msgid "redo"
 msgstr ""
 
 #: uiStrings-online.txt:519 uiStrings-offline.txt:525
-msgid "redo"
+msgid "Redo"
 msgstr ""
 
 #: uiStrings-online.txt:521
@@ -1124,7 +1122,7 @@ msgstr ""
 msgid "rotation style:"
 msgstr ""
 
-#: uiStrings-online.txt:551 uiStrings-offline.txt:555
+#: uiStrings-online.txt:551 uiStrings-offline.txt:557
 msgid "Run without screen refresh"
 msgstr ""
 
@@ -1137,27 +1135,27 @@ msgid "Save a copy of this project and add your own ideas."
 msgstr ""
 
 #: uiStrings-online.txt:557 uiStrings-offline.txt:563
-msgid "Save now"
-msgstr ""
-
-#: uiStrings-online.txt:559 uiStrings-offline.txt:567
-msgid "Save project?"
-msgstr ""
-
-#: uiStrings-online.txt:561 uiStrings-offline.txt:569
-msgid "save to local file"
-msgstr ""
-
-#: uiStrings-online.txt:563 uiStrings-offline.txt:571
 msgid "Saved"
 msgstr ""
 
+#: uiStrings-online.txt:559 uiStrings-offline.txt:565
+msgid "Save now"
+msgstr ""
+
+#: uiStrings-online.txt:561 uiStrings-offline.txt:567
+msgid "Save project?"
+msgstr ""
+
+#: uiStrings-online.txt:563 uiStrings-offline.txt:571
+msgid "save to local file"
+msgstr ""
+
 #: uiStrings-online.txt:565
-msgid "Saving changes..."
+msgid "Saving..."
 msgstr ""
 
 #: uiStrings-online.txt:567
-msgid "Saving..."
+msgid "Saving changes..."
 msgstr ""
 
 #: uiStrings-online.txt:569 uiStrings-offline.txt:573
@@ -1196,12 +1194,12 @@ msgstr ""
 msgid "Send to back"
 msgstr ""
 
-#: uiStrings-online.txt:587 uiStrings-offline.txt:595
-msgid "Set Costume Center"
+#: uiStrings-online.txt:587 uiStrings-offline.txt:593
+msgid "Set costume center"
 msgstr ""
 
-#: uiStrings-online.txt:589 uiStrings-offline.txt:593
-msgid "Set costume center"
+#: uiStrings-online.txt:589 uiStrings-offline.txt:595
+msgid "Set Costume Center"
 msgstr ""
 
 #: uiStrings-online.txt:591 uiStrings-offline.txt:597
@@ -1212,7 +1210,7 @@ msgstr ""
 msgid "Share"
 msgstr ""
 
-#: uiStrings-online.txt:595 uiStrings-offline.txt:603
+#: uiStrings-online.txt:595 uiStrings-offline.txt:599
 msgid "shared"
 msgstr ""
 
@@ -1225,15 +1223,15 @@ msgid "show"
 msgstr ""
 
 #: uiStrings-online.txt:601 uiStrings-offline.txt:609
-msgid "show receivers"
+msgid "show:"
 msgstr ""
 
 #: uiStrings-online.txt:603 uiStrings-offline.txt:611
-msgid "show senders"
+msgid "show receivers"
 msgstr ""
 
 #: uiStrings-online.txt:605 uiStrings-offline.txt:613
-msgid "show:"
+msgid "show senders"
 msgstr ""
 
 #: uiStrings-online.txt:607 uiStrings-offline.txt:615
@@ -1305,11 +1303,11 @@ msgid "Sounds"
 msgstr ""
 
 #: uiStrings-online.txt:641 uiStrings-offline.txt:645
-msgid "Space"
+msgid "space"
 msgstr ""
 
 #: uiStrings-online.txt:643 uiStrings-offline.txt:647
-msgid "space"
+msgid "Space"
 msgstr ""
 
 #: uiStrings-online.txt:645 uiStrings-offline.txt:649
@@ -1321,11 +1319,11 @@ msgid "Sprite"
 msgstr ""
 
 #: uiStrings-online.txt:649 uiStrings-offline.txt:653
-msgid "Sprite Library"
+msgid "Sprite1"
 msgstr ""
 
 #: uiStrings-online.txt:651 uiStrings-offline.txt:655
-msgid "Sprite1"
+msgid "Sprite Library"
 msgstr ""
 
 #: uiStrings-online.txt:653 uiStrings-offline.txt:657
@@ -1368,12 +1366,12 @@ msgstr ""
 msgid "tan"
 msgstr ""
 
-#: uiStrings-online.txt:673 uiStrings-offline.txt:681
-msgid "Text"
+#: uiStrings-online.txt:673 uiStrings-offline.txt:679
+msgid "text"
 msgstr ""
 
-#: uiStrings-online.txt:675 uiStrings-offline.txt:679
-msgid "text"
+#: uiStrings-online.txt:675 uiStrings-offline.txt:681
+msgid "Text"
 msgstr ""
 
 #: uiStrings-online.txt:677 uiStrings-offline.txt:683
@@ -1441,11 +1439,11 @@ msgid "Trombone"
 msgstr ""
 
 #: uiStrings-online.txt:707 uiStrings-offline.txt:715
-msgid "Turbo Mode"
+msgid "Turbo mode"
 msgstr ""
 
 #: uiStrings-online.txt:709 uiStrings-offline.txt:717
-msgid "Turbo mode"
+msgid "Turbo Mode"
 msgstr ""
 
 #: uiStrings-online.txt:711 uiStrings-offline.txt:719
@@ -1501,23 +1499,23 @@ msgid "Upload from your computer"
 msgstr ""
 
 #: uiStrings-online.txt:737 uiStrings-offline.txt:753
-msgid "Upload sound from file"
-msgstr ""
-
-#: uiStrings-online.txt:739 uiStrings-offline.txt:755
-msgid "Upload sprite from file"
-msgstr ""
-
-#: uiStrings-online.txt:741 uiStrings-offline.txt:757
 msgid "Uploading image..."
 msgstr ""
 
-#: uiStrings-online.txt:743 uiStrings-offline.txt:759
+#: uiStrings-online.txt:739 uiStrings-offline.txt:755
 msgid "Uploading sound..."
 msgstr ""
 
-#: uiStrings-online.txt:745 uiStrings-offline.txt:761
+#: uiStrings-online.txt:741 uiStrings-offline.txt:757
 msgid "Uploading sprite..."
+msgstr ""
+
+#: uiStrings-online.txt:743 uiStrings-offline.txt:759
+msgid "Upload sound from file"
+msgstr ""
+
+#: uiStrings-online.txt:745 uiStrings-offline.txt:761
+msgid "Upload sprite from file"
 msgstr ""
 
 #: uiStrings-online.txt:747 uiStrings-offline.txt:763
@@ -1593,28 +1591,28 @@ msgid "x position"
 msgstr ""
 
 #: uiStrings-online.txt:783 uiStrings-offline.txt:799
-msgid "y position"
-msgstr ""
-
-#: uiStrings-online.txt:785 uiStrings-offline.txt:801
 msgid "year"
 msgstr ""
 
-#: uiStrings-online.txt:787
+#: uiStrings-online.txt:785
 msgid ""
 "You cannot edit cloud data in someone else's project.<br>Any change that you "
 "make in the editor will be temporary and not persistent."
 msgstr ""
 
-#: uiStrings-offline.txt:7
-msgid "A newer version of Scratch is available"
+#: uiStrings-online.txt:787 uiStrings-offline.txt:807
+msgid "y position"
 msgstr ""
 
-#: uiStrings-offline.txt:35
+#: uiStrings-offline.txt:33
 msgid "All Tips"
 msgstr ""
 
-#: uiStrings-offline.txt:37
+#: uiStrings-offline.txt:35
+msgid "A newer version of Scratch is available"
+msgstr ""
+
+#: uiStrings-offline.txt:41
 msgid ""
 "An updated version of the Scratch offline editor is available on the Scratch "
 "website."
@@ -1648,7 +1646,7 @@ msgstr ""
 msgid "Error saving project"
 msgstr ""
 
-#: uiStrings-offline.txt:277
+#: uiStrings-offline.txt:275
 msgid "Force help file update"
 msgstr ""
 
@@ -1700,7 +1698,7 @@ msgstr ""
 msgid "Replace existing project?"
 msgstr ""
 
-#: uiStrings-offline.txt:557
+#: uiStrings-offline.txt:555
 msgid "Running pre-release"
 msgstr ""
 
@@ -1708,7 +1706,7 @@ msgstr ""
 msgid "Save as"
 msgstr ""
 
-#: uiStrings-offline.txt:565
+#: uiStrings-offline.txt:569
 msgid "Save Project"
 msgstr ""
 
@@ -1720,11 +1718,11 @@ msgstr ""
 msgid "Server error:"
 msgstr ""
 
-#: uiStrings-offline.txt:599
+#: uiStrings-offline.txt:601
 msgid "Share to Scratch Website"
 msgstr ""
 
-#: uiStrings-offline.txt:601
+#: uiStrings-offline.txt:603
 msgid "Share to website"
 msgstr ""
 
@@ -1764,65 +1762,14 @@ msgstr ""
 msgid "Visit download page"
 msgstr ""
 
-#: uiStrings-offline.txt:803
+#: uiStrings-offline.txt:801
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
-#: uiStrings-offline.txt:805
+#: uiStrings-offline.txt:803
 msgid "Your Scratch name"
 msgstr ""
 
-#: uiStrings-offline.txt:807
+#: uiStrings-offline.txt:805
 msgid "Your Scratch name is required"
-msgstr ""
-
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-"For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-
-msgid "Account settings"
-msgstr ""
-
-msgid "Click  to try again or  to save"
-msgstr ""
-
-msgid "Cloud"
-msgstr ""
-
-msgid "Costumes:"
-msgstr ""
-
-msgid "Eraser width:"
-msgstr ""
-
-msgid "Go to My Stuff"
-msgstr ""
-
-msgid "limit reached"
-msgstr ""
-
-msgid "Line width:"
-msgstr ""
-
-msgid "My Stuff"
-msgstr ""
-
-msgid "Profile"
-msgstr ""
-
-msgid "requires sign in"
-msgstr ""
-
-msgid "Save as a copy"
-msgstr ""
-
-msgid "Scripts:"
-msgstr ""
-
-msgid "Sign out"
-msgstr ""
-
-msgid "stored on server"
 msgstr ""

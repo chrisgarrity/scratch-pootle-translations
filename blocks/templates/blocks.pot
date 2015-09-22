@@ -6,294 +6,289 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-04-13 13:04-0700\n"
-"PO-Revision-Date: 2013-05-02 00:42+0000\n"
-"Last-Translator: adlogi <adlogi@media.mit.edu>\n"
+"POT-Creation-Date: 2015-09-22 17:22+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: templates\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1367455321.000000\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
 
 #: commands-online.txt:1 commands-offline.txt:1
-msgid "%b and %b"
-msgstr ""
-
-#: commands-online.txt:3 commands-offline.txt:3
-msgid "%b or %b"
-msgstr ""
-
-#: commands-online.txt:5 commands-offline.txt:5
-msgid "%m.attribute of %m.spriteOrStage"
-msgstr ""
-
-#: commands-online.txt:7 commands-offline.txt:7
-msgid "%m.list contains %s?"
-msgstr ""
-
-#: commands-online.txt:9 commands-offline.txt:9
-msgid "%m.mathOp of %n"
-msgstr ""
-
-#: commands-online.txt:11 commands-offline.txt:11
-msgid "%m.sensor sensor value"
-msgstr ""
-
-#: commands-online.txt:13 commands-offline.txt:13
-msgid "%n mod %n"
-msgstr ""
-
-#: commands-online.txt:15 commands-offline.txt:15
 msgid "add %s to %m.list"
 msgstr ""
 
-#: commands-online.txt:17 commands-offline.txt:17
+#: commands-online.txt:3 commands-offline.txt:3
 msgid "answer"
 msgstr ""
 
-#: commands-online.txt:19 commands-offline.txt:19
+#: commands-online.txt:5 commands-offline.txt:5
 msgid "ask %s and wait"
 msgstr ""
 
-# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#: commands-online.txt:21 commands-offline.txt:21
+#: commands-online.txt:7 commands-offline.txt:7
 msgid "backdrop #"
 msgstr ""
 
-# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#: commands-online.txt:23 commands-offline.txt:23
+#: commands-online.txt:9 commands-offline.txt:9
 msgid "backdrop name"
 msgstr ""
 
-#: commands-online.txt:25 commands-offline.txt:25
+#: commands-online.txt:11 commands-offline.txt:11
+msgid "%b and %b"
+msgstr ""
+
+#: commands-online.txt:13 commands-offline.txt:13
+msgid "%b or %b"
+msgstr ""
+
+#: commands-online.txt:15 commands-offline.txt:15
 msgid "broadcast %m.broadcast"
 msgstr ""
 
-#: commands-online.txt:27 commands-offline.txt:27
+#: commands-online.txt:17 commands-offline.txt:17
 msgid "broadcast %m.broadcast and wait"
 msgstr ""
 
-#: commands-online.txt:29 commands-offline.txt:29
+#: commands-online.txt:19 commands-offline.txt:19
 msgid "change %m.effect effect by %n"
 msgstr ""
 
-#: commands-online.txt:31 commands-offline.txt:31
+#: commands-online.txt:21 commands-offline.txt:21
 msgid "change %m.var by %n"
 msgstr ""
 
-#: commands-online.txt:33 commands-offline.txt:33
+#: commands-online.txt:23 commands-offline.txt:23
 msgid "change pen color by %n"
 msgstr ""
 
-#: commands-online.txt:35 commands-offline.txt:35
+#: commands-online.txt:25 commands-offline.txt:25
 msgid "change pen shade by %n"
 msgstr ""
 
-#: commands-online.txt:37 commands-offline.txt:37
+#: commands-online.txt:27 commands-offline.txt:27
 msgid "change pen size by %n"
 msgstr ""
 
-#: commands-online.txt:39 commands-offline.txt:39
+#: commands-online.txt:29 commands-offline.txt:29
 msgid "change size by %n"
 msgstr ""
 
-#: commands-online.txt:41 commands-offline.txt:41
+#: commands-online.txt:31 commands-offline.txt:31
 msgid "change tempo by %n"
 msgstr ""
 
-#: commands-online.txt:43 commands-offline.txt:43
+#: commands-online.txt:33 commands-offline.txt:33
 msgid "change volume by %n"
 msgstr ""
 
-#: commands-online.txt:45 commands-offline.txt:45
+#: commands-online.txt:35 commands-offline.txt:35
 msgid "change x by %n"
 msgstr ""
 
-#: commands-online.txt:47 commands-offline.txt:47
+#: commands-online.txt:37 commands-offline.txt:37
 msgid "change y by %n"
 msgstr ""
 
-#: commands-online.txt:49 commands-offline.txt:49
+#: commands-online.txt:39 commands-offline.txt:39
 msgid "clear"
 msgstr ""
 
-#: commands-online.txt:51 commands-offline.txt:51
+#: commands-online.txt:41 commands-offline.txt:41
 msgid "clear graphic effects"
 msgstr ""
 
-#: commands-online.txt:53 commands-offline.txt:53
+#: commands-online.txt:43 commands-offline.txt:43
 msgid "color %c is touching %c?"
 msgstr ""
 
-#: commands-online.txt:55 commands-offline.txt:55
+#: commands-online.txt:45 commands-offline.txt:45
 msgid "Control"
 msgstr ""
 
-#: commands-online.txt:57 commands-offline.txt:57
+#: commands-online.txt:47 commands-offline.txt:47
 msgid "costume #"
 msgstr ""
 
-#: commands-online.txt:59 commands-offline.txt:59
+#: commands-online.txt:49 commands-offline.txt:49
 msgid "create clone of %m.spriteOnly"
 msgstr ""
 
-#: commands-online.txt:61 commands-offline.txt:61
+#: commands-online.txt:51 commands-offline.txt:51
 msgid "current %m.timeAndDate"
 msgstr ""
 
-#: commands-online.txt:63 commands-offline.txt:63
+#: commands-online.txt:53 commands-offline.txt:53
 msgid "Data"
 msgstr ""
 
-#: commands-online.txt:65 commands-offline.txt:65
+#: commands-online.txt:55 commands-offline.txt:55
 msgid "days since 2000"
 msgstr ""
 
-#: commands-online.txt:67 commands-offline.txt:67
+#: commands-online.txt:57 commands-offline.txt:57
 msgid "define"
 msgstr ""
 
-#: commands-online.txt:69 commands-offline.txt:69
+#: commands-online.txt:59 commands-offline.txt:59
 msgid "delete %d.listDeleteItem of %m.list"
 msgstr ""
 
-#: commands-online.txt:71 commands-offline.txt:71
+#: commands-online.txt:61 commands-offline.txt:61
 msgid "delete this clone"
 msgstr ""
 
-#: commands-online.txt:73 commands-offline.txt:73
+#: commands-online.txt:63 commands-offline.txt:63
 msgid "direction"
 msgstr ""
 
-#: commands-online.txt:75 commands-offline.txt:75
+#: commands-online.txt:65 commands-offline.txt:65
 msgid "distance"
 msgstr ""
 
-#: commands-online.txt:77 commands-offline.txt:77
+#: commands-online.txt:67 commands-offline.txt:67
 msgid "distance to %m.spriteOrMouse"
 msgstr ""
 
-#: commands-online.txt:79 commands-offline.txt:79
+#: commands-online.txt:69 commands-offline.txt:69
 msgid "else"
 msgstr ""
 
-#: commands-online.txt:81 commands-offline.txt:81
+#: commands-online.txt:71 commands-offline.txt:71
 msgid "Events"
 msgstr ""
 
-#: commands-online.txt:83 commands-offline.txt:83
+#: commands-online.txt:73 commands-offline.txt:73
 msgid "forever"
 msgstr ""
 
-#: commands-online.txt:85 commands-offline.txt:85
+#: commands-online.txt:75 commands-offline.txt:75
 msgid "glide %n secs to x:%n y:%n"
 msgstr ""
 
-#: commands-online.txt:87 commands-offline.txt:87
+#: commands-online.txt:77 commands-offline.txt:77
 msgid "go back %n layers"
 msgstr ""
 
-#: commands-online.txt:89 commands-offline.txt:89
-msgid "go to %m.spriteOrMouse"
-msgstr ""
-
-#: commands-online.txt:91 commands-offline.txt:91
+#: commands-online.txt:79 commands-offline.txt:79
 msgid "go to front"
 msgstr ""
 
-#: commands-online.txt:93 commands-offline.txt:93
+#: commands-online.txt:81 commands-offline.txt:81
+msgid "go to %m.spriteOrMouse"
+msgstr ""
+
+#: commands-online.txt:83 commands-offline.txt:83
 msgid "go to x:%n y:%n"
 msgstr ""
 
-#: commands-online.txt:95 commands-offline.txt:95
+#: commands-online.txt:85 commands-offline.txt:85
 msgid "hide"
 msgstr ""
 
-#: commands-online.txt:97 commands-offline.txt:97
+#: commands-online.txt:87 commands-offline.txt:87
 msgid "hide list %m.list"
 msgstr ""
 
-#: commands-online.txt:99 commands-offline.txt:99
+#: commands-online.txt:89 commands-offline.txt:89
 msgid "hide variable %m.var"
 msgstr ""
 
-#: commands-online.txt:101 commands-offline.txt:101
+#: commands-online.txt:91 commands-offline.txt:91
 msgid "if %b then"
 msgstr ""
 
-#: commands-online.txt:103 commands-offline.txt:103
+#: commands-online.txt:93 commands-offline.txt:93
 msgid "if on edge, bounce"
 msgstr ""
 
-#: commands-online.txt:105 commands-offline.txt:105
+#: commands-online.txt:95 commands-offline.txt:95
 msgid "insert %s at %d.listItem of %m.list"
 msgstr ""
 
-#: commands-online.txt:107 commands-offline.txt:107
+#: commands-online.txt:97 commands-offline.txt:97
 msgid "item %d.listItem of %m.list"
 msgstr ""
 
-#: commands-online.txt:109 commands-offline.txt:109
+#: commands-online.txt:99 commands-offline.txt:99
 msgid "join %s %s"
 msgstr ""
 
-#: commands-online.txt:111 commands-offline.txt:111
+#: commands-online.txt:101 commands-offline.txt:101
 msgid "key %m.key pressed?"
 msgstr ""
 
-#: commands-online.txt:113 commands-offline.txt:113
+#: commands-online.txt:103 commands-offline.txt:103
 msgid "length of %m.list"
 msgstr ""
 
-#: commands-online.txt:115 commands-offline.txt:115
+#: commands-online.txt:105 commands-offline.txt:105
 msgid "length of %s"
 msgstr ""
 
-#: commands-online.txt:117 commands-offline.txt:117
+#: commands-online.txt:107 commands-offline.txt:107
 msgid "letter %n of %s"
 msgstr ""
 
-#: commands-online.txt:119 commands-offline.txt:119
+#: commands-online.txt:109 commands-offline.txt:109
 msgid "Looks"
 msgstr ""
 
-#: commands-online.txt:121 commands-offline.txt:121
+#: commands-online.txt:111 commands-offline.txt:111
 msgid "loudness"
 msgstr ""
 
-#: commands-online.txt:123 commands-offline.txt:123
+#: commands-online.txt:113 commands-offline.txt:113
+msgid "%m.attribute of %m.spriteOrStage"
+msgstr ""
+
+#: commands-online.txt:115 commands-offline.txt:115
+msgid "%m.list contains %s?"
+msgstr ""
+
+#: commands-online.txt:117 commands-offline.txt:117
+msgid "%m.mathOp of %n"
+msgstr ""
+
+#: commands-online.txt:119 commands-offline.txt:119
 msgid "More Blocks"
 msgstr ""
 
-#: commands-online.txt:125 commands-offline.txt:125
+#: commands-online.txt:121 commands-offline.txt:121
 msgid "Motion"
 msgstr ""
 
-#: commands-online.txt:127 commands-offline.txt:127
+#: commands-online.txt:123 commands-offline.txt:123
 msgid "mouse down?"
 msgstr ""
 
-#: commands-online.txt:129 commands-offline.txt:129
+#: commands-online.txt:125 commands-offline.txt:125
 msgid "mouse x"
 msgstr ""
 
-#: commands-online.txt:131 commands-offline.txt:131
+#: commands-online.txt:127 commands-offline.txt:127
 msgid "mouse y"
 msgstr ""
 
-#: commands-online.txt:133 commands-offline.txt:133
+#: commands-online.txt:129 commands-offline.txt:129
 msgid "move %n steps"
 msgstr ""
 
-# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#: commands-online.txt:135 commands-offline.txt:135
+#: commands-online.txt:131 commands-offline.txt:131
+msgid "%m.sensor sensor value"
+msgstr ""
+
+#: commands-online.txt:133 commands-offline.txt:133
 msgid "next backdrop"
 msgstr ""
 
-#: commands-online.txt:137 commands-offline.txt:137
+#: commands-online.txt:135 commands-offline.txt:135
 msgid "next costume"
+msgstr ""
+
+#: commands-online.txt:137 commands-offline.txt:137
+msgid "%n mod %n"
 msgstr ""
 
 #: commands-online.txt:139 commands-offline.txt:139
@@ -385,11 +380,11 @@ msgid "sensor %m.booleanSensor?"
 msgstr ""
 
 #: commands-online.txt:183 commands-offline.txt:183
-msgid "set %m.effect effect to %n"
+msgid "set instrument to %d.instrument"
 msgstr ""
 
 #: commands-online.txt:185 commands-offline.txt:185
-msgid "set %m.motor power to %n"
+msgid "set %m.effect effect to %n"
 msgstr ""
 
 #: commands-online.txt:187 commands-offline.txt:187
@@ -397,11 +392,11 @@ msgid "set %m.motor2 direction to %m.motorDirection"
 msgstr ""
 
 #: commands-online.txt:189 commands-offline.txt:189
-msgid "set %m.var to %s"
+msgid "set %m.motor power to %n"
 msgstr ""
 
 #: commands-online.txt:191 commands-offline.txt:191
-msgid "set instrument to %d.instrument"
+msgid "set %m.var to %s"
 msgstr ""
 
 #: commands-online.txt:193 commands-offline.txt:193
@@ -473,19 +468,17 @@ msgid "stamp"
 msgstr ""
 
 #: commands-online.txt:227 commands-offline.txt:227
-msgid "stop %m.stop"
-msgstr ""
-
-#: commands-online.txt:229 commands-offline.txt:229
 msgid "stop all sounds"
 msgstr ""
 
-# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+#: commands-online.txt:229 commands-offline.txt:229
+msgid "stop %m.stop"
+msgstr ""
+
 #: commands-online.txt:231 commands-offline.txt:231
 msgid "switch backdrop to %m.backdrop"
 msgstr ""
 
-# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 #: commands-online.txt:233 commands-offline.txt:233
 msgid "switch backdrop to %m.backdrop and wait"
 msgstr ""
@@ -515,11 +508,11 @@ msgid "timer"
 msgstr ""
 
 #: commands-online.txt:247 commands-offline.txt:247
-msgid "touching %m.touching?"
+msgid "touching color %c?"
 msgstr ""
 
 #: commands-online.txt:249 commands-offline.txt:249
-msgid "touching color %c?"
+msgid "touching %m.touching?"
 msgstr ""
 
 #: commands-online.txt:251 commands-offline.txt:251
@@ -567,40 +560,39 @@ msgid "wait until %b"
 msgstr ""
 
 #: commands-online.txt:273 commands-offline.txt:273
-msgid "when %m.booleanSensor"
-msgstr ""
-
-#: commands-online.txt:275 commands-offline.txt:275
-msgid "when %m.key key pressed"
-msgstr ""
-
-#: commands-online.txt:277 commands-offline.txt:277
-msgid "when %m.sensor %m.lessMore %n"
-msgstr ""
-
-#: commands-online.txt:279 commands-offline.txt:279
-msgid "when %m.triggerSensor > %n"
-msgstr ""
-
-#: commands-online.txt:281 commands-offline.txt:281
-msgid "when @greenFlag clicked"
-msgstr ""
-
-# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#: commands-online.txt:283 commands-offline.txt:283
 msgid "when backdrop switches to %m.backdrop"
 msgstr ""
 
-#: commands-online.txt:285 commands-offline.txt:285
+#: commands-online.txt:275 commands-offline.txt:275
 msgid "when distance %m.lessMore %n"
 msgstr ""
 
-#: commands-online.txt:287 commands-offline.txt:287
+#: commands-online.txt:277 commands-offline.txt:277
+msgid "when @greenFlag clicked"
+msgstr ""
+
+#: commands-online.txt:279 commands-offline.txt:279
 msgid "when I receive %m.broadcast"
 msgstr ""
 
-#: commands-online.txt:289 commands-offline.txt:289
+#: commands-online.txt:281 commands-offline.txt:281
 msgid "when I start as a clone"
+msgstr ""
+
+#: commands-online.txt:283 commands-offline.txt:283
+msgid "when %m.booleanSensor"
+msgstr ""
+
+#: commands-online.txt:285 commands-offline.txt:285
+msgid "when %m.key key pressed"
+msgstr ""
+
+#: commands-online.txt:287 commands-offline.txt:287
+msgid "when %m.sensor %m.lessMore %n"
+msgstr ""
+
+#: commands-online.txt:289 commands-offline.txt:289
+msgid "when %m.triggerSensor > %n"
 msgstr ""
 
 #: commands-online.txt:291 commands-offline.txt:291
@@ -617,32 +609,4 @@ msgstr ""
 
 #: commands-online.txt:297 commands-offline.txt:297
 msgid "y position"
-msgstr ""
-
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr ""
-
-msgid "%m.list contains %s"
-msgstr ""
-
-msgid "set motor direction %m.motorDirection"
-msgstr ""
-
-msgid "set motor power %n"
-msgstr ""
-
-msgid "turn motor off"
-msgstr ""
-
-msgid "turn motor on"
-msgstr ""
-
-msgid "turn motor on for %n secs"
-msgstr ""
-
-msgid "when distance < %n"
-msgstr ""
-
-msgid "when tilt = %n"
 msgstr ""

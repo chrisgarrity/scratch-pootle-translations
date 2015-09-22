@@ -2,7 +2,7 @@
 set -e
 mkdir -p work
 for FILE in commands-online commands-offline uiStrings-online uiStrings-offline; do
-	sed '/^$/d;G' ${FILE}.txt > work/${FILE}.txt
+	sort -u < ${FILE}.txt | sed '/^$/d;G' > work/${FILE}.txt
 	(cd work && txt2po --pot -i ${FILE}.txt -o ${FILE}.pot)
 done
 msgcat work/commands-online.pot work/commands-offline.pot -o ../blocks/templates/blocks.pot

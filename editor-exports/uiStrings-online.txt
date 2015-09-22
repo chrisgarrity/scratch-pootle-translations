@@ -22,8 +22,8 @@ assets loaded
 atan
 B connected
 Back a layer
-backdrop
 Backdrop
+backdrop
 backdrop #
 Backdrop Library
 backdrop name
@@ -66,6 +66,7 @@ Circle
 City
 Clarinet
 Claves
+clean up
 Clear
 clear senders/receivers
 Click "Save now" to try again or "Download" to save
@@ -98,8 +99,8 @@ cut
 D connected
 date
 day of week
-delete
 Delete
+delete
 delete variable
 direction
 direction:
@@ -315,12 +316,12 @@ Small stage layout
 Smooth
 Snare Drum
 softer
-sound
 Sound
+sound
 Sound Library
 Sounds
-Space
 space
+Space
 Sports
 Sprite
 Sprite Library
@@ -335,8 +336,8 @@ Synth Lead
 Synth Pad
 Tambourine
 tan
-text
 Text
+text
 that way
 Theme
 Things
@@ -352,8 +353,8 @@ To delete a block definition, first remove all uses of the block.
 Transportation
 Triangle
 Trombone
-Turbo mode
 Turbo Mode
+Turbo mode
 Type
 Undelete
 Underwater

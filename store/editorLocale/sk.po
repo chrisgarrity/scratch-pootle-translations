@@ -506,7 +506,7 @@ msgid "A newer version of Scratch is available"
 msgstr "Je dostupná novšia verzia Scratch"
 
 msgid "About"
-msgstr "O"
+msgstr "O aplikácii"
 
 msgid "abs"
 msgstr "abs"
@@ -997,7 +997,7 @@ msgid "Instruments"
 msgstr "Nástroje"
 
 msgid "large readout"
-msgstr ""
+msgstr "väčšie zobrazenie"
 
 msgid "last"
 msgstr "posledný"
@@ -1580,7 +1580,7 @@ msgid "thing"
 msgstr ""
 
 msgid "This is the current version."
-msgstr ""
+msgstr "Toto je aktuálna verzia."
 
 msgid ""
 "This project can detect who is using it, through the “username” block. To "
@@ -1762,10 +1762,10 @@ msgstr ""
 "ktorú spravíš v editore bude len dočasná."
 
 msgid "Your Scratch name"
-msgstr ""
+msgstr "Tvoje Scratch meno"
 
 msgid "Your Scratch name is required"
-msgstr ""
+msgstr "Tvoje Scratch meno je povinné"
 
 # Offline editor only
 msgid "All Tips"
@@ -1803,7 +1803,7 @@ msgstr "Vynútená aktualizácia súborov pomocníka"
 
 # Offline editor only
 msgid "Import experimental HTTP extension"
-msgstr ""
+msgstr "Importuj experimentálne HTTP rozšírenie"
 
 # Offline editor only
 msgid "Loading help files..."
@@ -1819,7 +1819,7 @@ msgstr "Otvoriť projekt"
 
 # Offline editor only
 msgid "Please visit the download page to install it."
-msgstr ""
+msgstr "Navštív prosím stránku na stiahnutie pre inštaláciu."
 
 # Offline editor only
 msgid "Quit"
@@ -1831,7 +1831,7 @@ msgstr "Nahradiť existujúci projekt?"
 
 # Offline editor only
 msgid "Running pre-release"
-msgstr ""
+msgstr "Používaš pre-release"
 
 # Offline editor only
 msgid "Save Project"
@@ -1843,7 +1843,7 @@ msgstr "Chyba servera:"
 
 # Offline editor only
 msgid "Share to Scratch Website"
-msgstr ""
+msgstr "Zdieľaj na stránke Scratch"
 
 # Offline editor only
 msgid "Success"
@@ -1851,11 +1851,11 @@ msgstr "Úspech"
 
 # Offline editor only
 msgid "This version is newer than the current release version."
-msgstr ""
+msgstr "Táto verzia je novšia, ako momentálne oficiálne vydaná."
 
 # Offline editor only
 msgid "Update check failed"
-msgstr ""
+msgstr "Kontrola novej verzie zlyhala"
 
 # Offline editor only
 msgid "Upload failed"
@@ -1863,11 +1863,11 @@ msgstr "Odoslanie zlyhalo"
 
 # Offline editor only
 msgid "Visit download page"
-msgstr ""
+msgstr "Navštív stránku na stiahnutie"
 
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
-msgstr ""
+msgstr "Tvoj projekt bol nahraný na scratch.mit.edu"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"

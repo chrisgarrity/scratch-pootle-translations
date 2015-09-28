@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2014-06-11 19:25+0000\n"
+"PO-Revision-Date: 2015-09-24 07:20+0000\n"
 "Last-Translator: Eugeni <eugenicat@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ca\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1402514722.000000\n"
+"X-POOTLE-MTIME: 1443079245.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -35,7 +35,7 @@ msgid "a copy of the project file on your computer."
 msgstr "una còpia del teu projecte al teu ordinador."
 
 msgid "A newer version of Scratch is available"
-msgstr ""
+msgstr "Hi ha disponible una nova versió de Scratch"
 
 msgid "About"
 msgstr "Quant a"
@@ -56,7 +56,7 @@ msgid "acos"
 msgstr "acos"
 
 msgid "Add"
-msgstr ""
+msgstr "Afegeix"
 
 msgid "Add an Extension"
 msgstr "Afegeix una Extensió"
@@ -235,7 +235,7 @@ msgid "Cello"
 msgstr "Violoncel"
 
 msgid "Check for updates"
-msgstr ""
+msgstr "Comprova si hi ha actualitzacions"
 
 msgid "Choir"
 msgstr "Cor de veus"
@@ -353,7 +353,7 @@ msgstr "Vestits > 1"
 #~ msgstr "Vestits:"
 
 msgid "Could not retrieve new application from server."
-msgstr ""
+msgstr "No s'ha pogut recuperar la nova aplicació des del servidor."
 
 msgid "Cowbell"
 msgstr "Esquella"
@@ -400,7 +400,7 @@ msgid "don't rotate"
 msgstr "no giris"
 
 msgid "Don't save"
-msgstr ""
+msgstr "No ho desis"
 
 msgid "down"
 msgstr "avall"
@@ -557,7 +557,7 @@ msgid "Hardware"
 msgstr "Maquinari"
 
 msgid "help"
-msgstr ""
+msgstr "ajuda"
 
 msgid "Hello!"
 msgstr ""
@@ -576,7 +576,7 @@ msgid "High C"
 msgstr "DO Alt"
 
 msgid "Holiday"
-msgstr ""
+msgstr "Festivitat"
 
 msgid "hour"
 msgstr "hora"
@@ -622,7 +622,7 @@ msgid "length"
 msgstr "llargada"
 
 msgid "Letters"
-msgstr ""
+msgstr "Lletres"
 
 msgid "Library"
 msgstr "Biblioteca"
@@ -642,7 +642,7 @@ msgstr "Línia"
 
 # 90%
 msgid "Line width"
-msgstr "Ample de línia"
+msgstr "Amplada de línia"
 
 # 75%
 msgid "list"
@@ -655,7 +655,7 @@ msgid "ln"
 msgstr "ln"
 
 msgid "Loading project..."
-msgstr "Carregant projecte..."
+msgstr "Carregant el projecte..."
 
 msgid "log"
 msgstr "log"
@@ -734,7 +734,7 @@ msgid "Music and Dance"
 msgstr "Música i Dansa"
 
 msgid "Music Box"
-msgstr "Caixa xinesa"
+msgstr "Caixa de música"
 
 msgid "Music Loops"
 msgstr "Bucles Musicals"
@@ -759,7 +759,7 @@ msgid "New backdrop:"
 msgstr "Nou fons:"
 
 msgid "New Block"
-msgstr ""
+msgstr "Bloc Nou"
 
 msgid "New costume from camera"
 msgstr "Nou vestit des de la càmera"
@@ -772,13 +772,13 @@ msgid "New List"
 msgstr "Nova Llista"
 
 msgid "New Message"
-msgstr ""
+msgstr "Missatge nou"
 
 msgid "new message..."
 msgstr "nou missatge..."
 
 msgid "New name"
-msgstr "Nou nom"
+msgstr "Nom nou"
 
 # 90%
 msgid "New sound:"
@@ -794,7 +794,7 @@ msgid "New Variable"
 msgstr "Nova Variable"
 
 msgid "next backdrop"
-msgstr ""
+msgstr "següent fons"
 
 msgid "No motion blocks"
 msgstr "Sense blocs de moviment"
@@ -830,7 +830,7 @@ msgid "on-flipped"
 msgstr "voltejat actiu"
 
 msgid "Open"
-msgstr ""
+msgstr "Obre"
 
 msgid "Open Cuica"
 msgstr "Cuica sonora"
@@ -867,10 +867,10 @@ msgid "Paint new sprite"
 msgstr "Dibuixa un nou personatge"
 
 msgid "Password"
-msgstr ""
+msgstr "Contrasenya"
 
 msgid "Password is required"
-msgstr ""
+msgstr "Cal una contrasenya"
 
 msgid "paste"
 msgstr "enganxa"
@@ -904,7 +904,7 @@ msgid "pop"
 msgstr "pop"
 
 msgid "previous backdrop"
-msgstr ""
+msgstr "fons anterior"
 
 #~ msgid "Profile"
 #~ msgstr "Perfil"
@@ -916,10 +916,10 @@ msgid "Project not saved!"
 msgstr "El projecte no s'ha desat!"
 
 msgid "Project name"
-msgstr ""
+msgstr "Nom del projecte"
 
 msgid "Project name is required"
-msgstr ""
+msgstr "Es requereix el nom del projecte"
 
 msgid "random"
 msgstr "aleatori"
@@ -931,7 +931,7 @@ msgid "Record new sound"
 msgstr "Enregistra un nou so"
 
 msgid "record..."
-msgstr ""
+msgstr "enregistra..."
 
 msgid "recording1"
 msgstr "gravació1"
@@ -1007,10 +1007,10 @@ msgid "Save"
 msgstr "Desa"
 
 msgid "Save a copy of this project and add your own ideas."
-msgstr ""
+msgstr "Guarda una còpia d'aquest projecte i afegeix les teves idees."
 
 msgid "Save as"
-msgstr ""
+msgstr "Anomena i desa"
 
 #~ msgid "Save as a copy"
 #~ msgstr "Desa una còpia"
@@ -1019,7 +1019,7 @@ msgid "Save now"
 msgstr "Desa ara"
 
 msgid "Save project?"
-msgstr ""
+msgstr "Vols desar el projecte?"
 
 msgid "save to local file"
 msgstr "desa a un fitxer local"
@@ -1037,7 +1037,7 @@ msgid "Saxophone"
 msgstr "Saxòfon"
 
 msgid "Scratch Updater"
-msgstr ""
+msgstr "Actualitzador de Scratch"
 
 msgid "Scratch 2.0 Offline Editor"
 msgstr ""
@@ -1225,9 +1225,8 @@ msgstr "Pandereta"
 msgid "tan"
 msgstr "tan"
 
-#, fuzzy
 msgid "text"
-msgstr "Text"
+msgstr "text"
 
 msgid "Text"
 msgstr "Text"

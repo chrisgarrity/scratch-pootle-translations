@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-05-11 20:31+0000\n"
+"PO-Revision-Date: 2015-09-25 19:42+0000\n"
 "Last-Translator: parukhin <parukhin@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ru\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1431376319.000000\n"
+"X-POOTLE-MTIME: 1443210147.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -26,8 +26,8 @@ msgid ""
 msgstr ""
 "<b>Информация об облачных переменных</b><br>&nbsp;<br>В настоящий момент "
 "поддерживаются только численные переменные<br>Чат-комнаты не разрешены и "
-"будут удаляться<br>Для дополнительной информации <a href= target=>смотрите "
-"ЧАВО об облачных данных</a>"
+"будут удаляться<br>Для дополнительной информации <a href=\"/help/faq/#"
+"clouddata\" target=\"_blank\">смотрите ЧаВо об облачных данных</a>"
 
 # 90%
 msgid "A connected"
@@ -78,11 +78,11 @@ msgstr "Добавить текст подписи:"
 
 # 89%
 msgid "Add number input:"
-msgstr "Добавить поле ввода числа:"
+msgstr "Добавить числовое поле:"
 
 # 89%
 msgid "Add string input:"
-msgstr "Добавить поле ввода строк:"
+msgstr "Добавить строковое поле:"
 
 msgid "all"
 msgstr "все"

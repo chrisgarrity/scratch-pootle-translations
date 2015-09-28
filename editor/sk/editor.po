@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-08-07 09:09+0000\n"
+"PO-Revision-Date: 2015-09-24 10:10+0000\n"
 "Last-Translator: Michal <mpraznovsky@zsvycapy.edu.sk>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sk\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1438938573.000000\n"
+"X-POOTLE-MTIME: 1443089451.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -38,7 +38,7 @@ msgid "A newer version of Scratch is available"
 msgstr "Je dostupná novšia verzia Scratch"
 
 msgid "About"
-msgstr "O"
+msgstr "O aplikácii"
 
 #~ msgid "About LEGO WeDo extension..."
 #~ msgstr "O LEGO WeDo rozšírení..."
@@ -592,7 +592,7 @@ msgid "Instruments"
 msgstr "Nástroje"
 
 msgid "large readout"
-msgstr ""
+msgstr "väčšie zobrazenie"
 
 msgid "last"
 msgstr "posledný"
@@ -1227,7 +1227,7 @@ msgid "thing"
 msgstr ""
 
 msgid "This is the current version."
-msgstr ""
+msgstr "Toto je aktuálna verzia."
 
 msgid ""
 "This project can detect who is using it, through the “username” block. To "
@@ -1421,10 +1421,10 @@ msgstr ""
 "ktorú spravíš v editore bude len dočasná."
 
 msgid "Your Scratch name"
-msgstr ""
+msgstr "Tvoje Scratch meno"
 
 msgid "Your Scratch name is required"
-msgstr ""
+msgstr "Tvoje Scratch meno je povinné"
 
 #~ msgid ""
 #~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
@@ -1480,7 +1480,7 @@ msgstr "Vynútená aktualizácia súborov pomocníka"
 
 # Offline editor only
 msgid "Import experimental HTTP extension"
-msgstr ""
+msgstr "Importuj experimentálne HTTP rozšírenie"
 
 # Offline editor only
 msgid "Loading help files..."
@@ -1496,7 +1496,7 @@ msgstr "Otvoriť projekt"
 
 # Offline editor only
 msgid "Please visit the download page to install it."
-msgstr ""
+msgstr "Navštív prosím stránku na stiahnutie pre inštaláciu."
 
 # Offline editor only
 msgid "Quit"
@@ -1508,7 +1508,7 @@ msgstr "Nahradiť existujúci projekt?"
 
 # Offline editor only
 msgid "Running pre-release"
-msgstr ""
+msgstr "Používaš pre-release"
 
 # Offline editor only
 msgid "Save Project"
@@ -1520,7 +1520,7 @@ msgstr "Chyba servera:"
 
 # Offline editor only
 msgid "Share to Scratch Website"
-msgstr ""
+msgstr "Zdieľaj na stránke Scratch"
 
 # Offline editor only
 msgid "Success"
@@ -1528,11 +1528,11 @@ msgstr "Úspech"
 
 # Offline editor only
 msgid "This version is newer than the current release version."
-msgstr ""
+msgstr "Táto verzia je novšia, ako momentálne oficiálne vydaná."
 
 # Offline editor only
 msgid "Update check failed"
-msgstr ""
+msgstr "Kontrola novej verzie zlyhala"
 
 # Offline editor only
 msgid "Upload failed"
@@ -1540,11 +1540,11 @@ msgstr "Odoslanie zlyhalo"
 
 # Offline editor only
 msgid "Visit download page"
-msgstr ""
+msgstr "Navštív stránku na stiahnutie"
 
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
-msgstr ""
+msgstr "Tvoj projekt bol nahraný na scratch.mit.edu"
 
 #~ msgid "cleanup"
 #~ msgstr "vyčisti"

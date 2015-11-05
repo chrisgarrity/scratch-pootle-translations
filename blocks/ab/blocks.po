@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-04-17 11:13+0000\n"
+"PO-Revision-Date: 2015-10-04 17:47+0000\n"
 "Last-Translator: aabuchba <aabuchba@mail.ru>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ab\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1429269213.000000\n"
+"X-POOTLE-MTIME: 1443980848.000000\n"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
@@ -57,10 +57,10 @@ msgid "backdrop name"
 msgstr "аҿаҧшыра ахьӡ"
 
 msgid "broadcast %m.broadcast"
-msgstr "иҭатәуп %m.broadcast"
+msgstr "идәықәҵатәуп %m.broadcast"
 
 msgid "broadcast %m.broadcast and wait"
-msgstr "иҭатәуп %m.broadcast нас иҧштәуп"
+msgstr "идәықәҵатәуп %m.broadcast нас иҧштәуп"
 
 msgid "change %m.effect effect by %n"
 msgstr "иҧсахтәуп %m.effect аефеқт %n ала"
@@ -138,7 +138,7 @@ msgid "distance to %m.spriteOrMouse"
 msgstr "ирыбжьоу %m.spriteOrMouse аҟынӡа"
 
 msgid "else"
-msgstr "акәмзар"
+msgstr "акәымзар"
 
 msgid "Events"
 msgstr "Ахҭысқәа"
@@ -177,10 +177,10 @@ msgid "if on edge, bounce"
 msgstr "акьыҧшь акәзар, иадҧатәуп"
 
 msgid "insert %s at %d.listItem of %m.list"
-msgstr "иқәргылатәуп %s %d.listItem ахь %m.list аҟынтә"
+msgstr "ибжьаргылатәуп %s %d.listItem аҟны %m.list аҭыҧахь"
 
 msgid "item %d.listItem of %m.list"
-msgstr "аелемент %d.listItem %m.list аҟынтә"
+msgstr "аелемент %d.listItem %m.list аҟынтәи"
 
 msgid "join %s %s"
 msgstr "иеиҧшьтәуп %s%s"
@@ -247,10 +247,10 @@ msgid "pick random %n to %n"
 msgstr "иарбанзаалакь %n -и %n рыбжьара"
 
 msgid "play drum %d.drum for %n beats"
-msgstr "адаул %d.drum иастәуп %n тактк"
+msgstr "адаул %d.drum иастәуп %n тақтк"
 
 msgid "play note %d.note for %n beats"
-msgstr "анота %d.note ихәмартәуп %n тактк"
+msgstr "анота %d.note ихәмартәуп %n тақтк"
 
 msgid "play sound %m.sound"
 msgstr "иргатәуп абжьы %m.sound"
@@ -268,7 +268,7 @@ msgid "repeat %n"
 msgstr "инагӡалатәуп %n - нтә"
 
 msgid "repeat until %b"
-msgstr "инагӡалатәуп %b акәмзар"
+msgstr "инагӡалатәуп %b акәымзар"
 
 msgid "replace item %d.listItem of %m.list with %s"
 msgstr "иҧсахтәуп аелемент %d.listItem %m.list аҿы %s ала"
@@ -358,7 +358,7 @@ msgid "Sound"
 msgstr "Абжьы"
 
 msgid "stamp"
-msgstr "аштамп"
+msgstr "адубликат"
 
 msgid "stop %m.stop"
 msgstr "аанкылара %m.stop"
@@ -381,10 +381,10 @@ msgid "tempo"
 msgstr "атемп"
 
 msgid "think %s"
-msgstr "ахәцра %s"
+msgstr "ахәыцра %s"
 
 msgid "think %s for %n secs"
-msgstr "ахәцра %s %n секундк"
+msgstr "ахәыцра %s %n секундк"
 
 msgid "tilt"
 msgstr "анаара"
@@ -417,7 +417,7 @@ msgid "turn video %m.videoState"
 msgstr "иргьежьтәуп авидео %m.videoState ала"
 
 msgid "username"
-msgstr "алахәлаҩ ихьӡ"
+msgstr "алахәылаҩ ихьӡ"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
 msgstr "авидео %m.videoMotionType %m.stageOrThis ала"
@@ -454,7 +454,7 @@ msgid "when distance %m.lessMore %n"
 msgstr "ирыбжьоу %m.lessMore %n анакәу"
 
 msgid "when I receive %m.broadcast"
-msgstr "сара %m.broadcast ансоуа"
+msgstr "%m.broadcast адәықәҵара"
 
 msgid "when I start as a clone"
 msgstr "аиҧш еиҧш саналаго"
@@ -498,4 +498,4 @@ msgstr "y аҭыҧ"
 #: commands-online.txt:7
 #: commands-offline.txt:7
 msgid "%m.list contains %s?"
-msgstr "%m.list иаҵанакуама %s?"
+msgstr "%m.list иаҵанакуеит %s?"

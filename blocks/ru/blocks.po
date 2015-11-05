@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-29 13:54+0000\n"
-"PO-Revision-Date: 2015-05-11 20:12+0000\n"
-"Last-Translator: GeorgeBgk <g@bougakov.com>\n"
+"PO-Revision-Date: 2015-10-04 00:50+0000\n"
+"Last-Translator: parukhin <parukhin@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1431375158.000000\n"
+"X-POOTLE-MTIME: 1443919820.000000\n"
 
 #: commands-online.txt:1
 #: commands-offline.txt:1
@@ -507,7 +507,7 @@ msgstr "выбрать инструмент %d.instrument"
 #: commands-online.txt:193
 #: commands-offline.txt:193
 msgid "set pen color to %c"
-msgstr "установить цвет %c для пера "
+msgstr "установить цвет %c для пера"
 
 #: commands-online.txt:195
 #: commands-offline.txt:195

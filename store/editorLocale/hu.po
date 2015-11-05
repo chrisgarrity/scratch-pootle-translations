@@ -493,13 +493,13 @@ msgstr ""
 "információkért <a href= target=>lásd a felhőadat GYIK-et.</a>"
 
 msgid "A connected"
-msgstr ""
+msgstr "A kapcsolódva"
 
 msgid "a copy of the project file on your computer."
-msgstr ""
+msgstr "a projektfájl számítógépeden lévő másolata"
 
 msgid "A newer version of Scratch is available"
-msgstr ""
+msgstr "A Scratch újabb változata érhető el"
 
 msgid "About"
 msgstr "Névjegy"
@@ -562,16 +562,16 @@ msgid "asin"
 msgstr "arcsin"
 
 msgid "assets loaded"
-msgstr ""
+msgstr "eszközök betöltve"
 
 msgid "atan"
 msgstr "arctg"
 
 msgid "B connected"
-msgstr ""
+msgstr "B kapcsolódva"
 
 msgid "Back a layer"
-msgstr "Hátrébb küldés"
+msgstr "Eggyel hátrébb"
 
 # 88%
 msgid "backdrop"
@@ -623,7 +623,7 @@ msgid "Block help"
 msgstr "Parancssúgó"
 
 msgid "Bongo"
-msgstr ""
+msgstr "Bongo"
 
 msgid "brightness"
 msgstr "fényerő"
@@ -632,7 +632,7 @@ msgid "Bring to front"
 msgstr "Előrehozás"
 
 msgid "Broadcast"
-msgstr ""
+msgstr "Sugárzás"
 
 msgid "Brush"
 msgstr "Ecset"
@@ -644,10 +644,10 @@ msgid "by"
 msgstr "készítette:"
 
 msgid "bytes loaded"
-msgstr ""
+msgstr "byte-ok betöltve"
 
 msgid "C connected"
-msgstr ""
+msgstr "C kapcsolódva"
 
 msgid "Cabasa"
 msgstr "Cabasa"
@@ -665,7 +665,7 @@ msgid "Cannot Add"
 msgstr ""
 
 msgid "Cannot Delete"
-msgstr ""
+msgstr "Nem törölhető"
 
 msgid "Can’t find network connection or reach server."
 msgstr "A hálózat vagy a szerver nem elérhető."
@@ -683,7 +683,7 @@ msgid "Cello"
 msgstr "Cselló"
 
 msgid "Check for updates"
-msgstr ""
+msgstr "Frissítések keresése"
 
 msgid "Choir"
 msgstr "Kórus"
@@ -720,20 +720,21 @@ msgid "Clear"
 msgstr "Törlés"
 
 msgid "clear senders/receivers"
-msgstr ""
+msgstr "feladók/címzettek szétkapcsolása"
 
 msgid "Click \"Save now\" to try again or \"Download\" to save"
 msgstr ""
+"Kattints a \"Mentés most\"-ra az újrapróbáláshoz vagy a \"Letöltés\"-re a "
+"mentéshez"
 
 msgid "Close"
-msgstr ""
+msgstr "Bezár"
 
 msgid "Closed Hi-Hat"
 msgstr "Zárt cin"
 
-#, fuzzy
 msgid "Cloud data"
-msgstr "Felhő adat"
+msgstr "Felhő adatok"
 
 msgid "Cloud variable (stored on server)"
 msgstr ""
@@ -744,12 +745,11 @@ msgstr "szín"
 msgid "Color a shape"
 msgstr "Alakzat színezése"
 
-#, fuzzy
 msgid "Conga"
 msgstr "Konga"
 
 msgid "Connecting to Cloud data server..."
-msgstr ""
+msgstr "Csatlakozás a Felhő kiszolgálóhoz..."
 
 msgid "Convert to bitmap"
 msgstr "Pixeles képpé alakítás"
@@ -758,13 +758,13 @@ msgid "Convert to vector"
 msgstr "Vektoros képpé alakítás"
 
 msgid "Converting mp3..."
-msgstr ""
+msgstr "MP3 átalakítása..."
 
 msgid "copy"
 msgstr "másolás"
 
 msgid "Copying..."
-msgstr ""
+msgstr "Másolás..."
 
 # 75%
 msgid "cos"
@@ -799,16 +799,16 @@ msgid "Costumes:"
 msgstr "Jelmezek"
 
 msgid "Could not retrieve new application from server."
-msgstr ""
+msgstr "Nem lehet új alkalmazást letölteni a szerverről."
 
 msgid "Cowbell"
 msgstr "Kolomp"
 
 msgid "Crash Cymbal"
-msgstr ""
+msgstr "Cintányér ütés"
 
 msgid "Creating..."
-msgstr ""
+msgstr "Létrehozás..."
 
 msgid "Currently, only numbers can be stored in Cloud variables."
 msgstr "Jelenleg a felhőváltozók csak számokat tárolhatnak."
@@ -817,7 +817,7 @@ msgid "cut"
 msgstr "kivágás"
 
 msgid "D connected"
-msgstr ""
+msgstr "D kapcsolódva"
 
 msgid "date"
 msgstr "dátum"
@@ -842,7 +842,7 @@ msgid "don't rotate"
 msgstr "nem foroghat"
 
 msgid "Don't save"
-msgstr ""
+msgstr "Ne mentse"
 
 msgid "down"
 msgstr "le"
@@ -851,7 +851,7 @@ msgid "down arrow"
 msgstr "le gomb"
 
 msgid "Download"
-msgstr ""
+msgstr "Letöltés"
 
 msgid "Download to your computer"
 msgstr "Letöltés saját gépre"
@@ -878,7 +878,7 @@ msgid "edit"
 msgstr "módosítás"
 
 msgid "Edit Block"
-msgstr ""
+msgstr "Blokk szerkesztése"
 
 msgid "Effects"
 msgstr "Hatások"
@@ -887,7 +887,7 @@ msgid "Electric Guitar"
 msgstr "Elektromos gitár"
 
 msgid "Electric Piano"
-msgstr ""
+msgstr "Elektromos zongora"
 
 msgid "Electronic"
 msgstr "Elektromos"
@@ -905,18 +905,17 @@ msgid "Erase all"
 msgstr ""
 
 # 92%
-#, fuzzy
 msgid "Eraser width"
-msgstr "Radír vastagsága:"
+msgstr "Radír mérete"
 
 msgid "Error!"
-msgstr ""
+msgstr "Hiba!"
 
 msgid "everything"
 msgstr ""
 
 msgid "export"
-msgstr ""
+msgstr "exportálás"
 
 msgid "Extension Library"
 msgstr ""
@@ -937,7 +936,7 @@ msgid "Fantasy"
 msgstr "Fantázia"
 
 msgid "Features"
-msgstr ""
+msgstr "Funkciók"
 
 msgid "File"
 msgstr "Fájl"
@@ -964,7 +963,7 @@ msgid "Flying"
 msgstr "Repülés"
 
 msgid "Font:"
-msgstr ""
+msgstr "Betűtípus:"
 
 msgid "For all sprites"
 msgstr "Minden szereplőé"
@@ -985,7 +984,7 @@ msgid "Grow"
 msgstr "Nagyítás"
 
 msgid "Guiro"
-msgstr ""
+msgstr "Guiro"
 
 msgid "Guitar"
 msgstr "Gitár"
@@ -994,10 +993,10 @@ msgid "Hand Clap"
 msgstr "Taps"
 
 msgid "Hardware"
-msgstr ""
+msgstr "Hardver"
 
 msgid "help"
-msgstr ""
+msgstr "súgó"
 
 msgid "Hello!"
 msgstr ""
@@ -1010,10 +1009,10 @@ msgid "hello"
 msgstr "Cselló"
 
 msgid "High C"
-msgstr ""
+msgstr "Magas C"
 
 msgid "Holiday"
-msgstr ""
+msgstr "Szabadság"
 
 msgid "hour"
 msgstr "óra"
@@ -1022,7 +1021,6 @@ msgid "Human"
 msgstr "Emberek"
 
 # 83%
-#, fuzzy
 msgid "import"
 msgstr "betöltés"
 
@@ -1030,19 +1028,19 @@ msgid "Import"
 msgstr "Betöltés"
 
 msgid "Importing sound..."
-msgstr ""
+msgstr "Hangok betöltése..."
 
 msgid "Indoors"
 msgstr "Beltér"
 
 msgid "Installing..."
-msgstr ""
+msgstr "Telepítés…"
 
 msgid "Instruments"
 msgstr "Hangszerek"
 
 msgid "large readout"
-msgstr ""
+msgstr "nagy leolvasás"
 
 msgid "last"
 msgstr "utolsó"
@@ -1060,7 +1058,7 @@ msgid "length"
 msgstr "hossz"
 
 msgid "Letters"
-msgstr ""
+msgstr "Betűk"
 
 msgid "Library"
 msgstr "Könyvtár"
@@ -1080,14 +1078,12 @@ msgid "Line"
 msgstr "Vonal"
 
 # 90%
-#, fuzzy
 msgid "Line width"
 msgstr "Vonalvastagság:"
 
 # 75%
-#, fuzzy
 msgid "list"
-msgstr "utolsó"
+msgstr "lista"
 
 msgid "List name"
 msgstr "Lista neve"
@@ -1096,7 +1092,7 @@ msgid "ln"
 msgstr "ln"
 
 msgid "Loading project..."
-msgstr ""
+msgstr "Projekt betöltése..."
 
 msgid "log"
 msgstr "log"
@@ -1105,7 +1101,7 @@ msgid "louder"
 msgstr "hangosabb"
 
 msgid "Low C"
-msgstr ""
+msgstr "Alacsony C"
 
 msgid "Make a Block"
 msgstr "Parancs létrehozása"
@@ -1120,10 +1116,10 @@ msgid "Marimba"
 msgstr "Marimba"
 
 msgid "Max"
-msgstr ""
+msgstr "Maximum"
 
 msgid "meow"
-msgstr ""
+msgstr "miau"
 
 msgid "Message Name"
 msgstr "Üzenet"
@@ -1131,15 +1127,14 @@ msgstr "Üzenet"
 msgid "message1"
 msgstr "üzenet1"
 
-#, fuzzy
 msgid "Microphone volume:"
 msgstr "Mikrofon hangereje:"
 
 msgid "Middle C"
-msgstr ""
+msgstr "Középső C"
 
 msgid "Min"
-msgstr ""
+msgstr "Minimum"
 
 msgid "minute"
 msgstr "perc"
@@ -1175,7 +1170,7 @@ msgid "Music Box"
 msgstr "Zenedoboz"
 
 msgid "Music Loops"
-msgstr ""
+msgstr "Zenei taktusok"
 
 msgid "myself"
 msgstr "magadról"
@@ -1193,7 +1188,7 @@ msgid "New backdrop:"
 msgstr "Új háttér:"
 
 msgid "New Block"
-msgstr ""
+msgstr "Új blokk"
 
 msgid "New costume from camera"
 msgstr "Új jelmez a kameráról"
@@ -1205,7 +1200,7 @@ msgid "New List"
 msgstr "Új lista"
 
 msgid "New Message"
-msgstr ""
+msgstr "Új üzenet"
 
 msgid "new message..."
 msgstr "új üzenet..."
@@ -1235,19 +1230,19 @@ msgid "not ="
 msgstr ""
 
 msgid "Not saved; network or server problem."
-msgstr ""
+msgstr "Nincs elmentve; hálózati vagy kiszolgáló probléma."
 
 msgid "Not saved; project did not load."
-msgstr ""
+msgstr "Nincs elmentve; projekt betöltése sikertelen."
 
 msgid "of"
-msgstr ""
+msgstr "nak"
 
 msgid "off"
 msgstr "ki"
 
 msgid "Offline Editor"
-msgstr ""
+msgstr "Helyi Szerkesztő"
 
 msgid "OK"
 msgstr "OK"
@@ -1259,7 +1254,7 @@ msgid "on-flipped"
 msgstr "be, tükrözve"
 
 msgid "Open"
-msgstr ""
+msgstr "Megnyitás"
 
 msgid "Open Cuica"
 msgstr "Nyitott cuica"
@@ -1279,7 +1274,6 @@ msgstr "Egyéb"
 msgid "other scripts in sprite"
 msgstr "szereplő többi feladata"
 
-#, fuzzy
 msgid "other scripts in stage"
 msgstr "szereplő többi feladata"
 
@@ -1296,10 +1290,10 @@ msgid "Paint new sprite"
 msgstr "Új szereplő festése"
 
 msgid "Password"
-msgstr ""
+msgstr "Jelszó"
 
 msgid "Password is required"
-msgstr ""
+msgstr "A jelszó megadása kötelező"
 
 msgid "paste"
 msgstr "beillesztés"
@@ -1326,25 +1320,25 @@ msgid "pixelate"
 msgstr "képpont"
 
 msgid "Pizzicato"
-msgstr ""
+msgstr "Pizzicato"
 
 msgid "pop"
 msgstr "pukk"
 
 msgid "previous backdrop"
-msgstr ""
+msgstr "előző háttér"
 
 msgid "Project did not load."
-msgstr ""
+msgstr "Projekt betöltése sikertelen."
 
 msgid "Project not saved!"
-msgstr ""
+msgstr "Projekt nincs elmentve!"
 
 msgid "Project name"
-msgstr ""
+msgstr "Projekt neve"
 
 msgid "Project name is required"
-msgstr ""
+msgstr "Meg kell adni a projekt nevét"
 
 msgid "random"
 msgstr "véletlen"
@@ -1356,7 +1350,7 @@ msgid "Record new sound"
 msgstr "Új hang felvétele"
 
 msgid "record..."
-msgstr ""
+msgstr "felvétel..."
 
 msgid "recording1"
 msgstr "felvétel1"
@@ -1372,10 +1366,10 @@ msgid "redo"
 msgstr "mégis"
 
 msgid "Remix"
-msgstr ""
+msgstr "Újrakever"
 
 msgid "Remixing..."
-msgstr ""
+msgstr "Újrakeverés..."
 
 msgid "Remove extension blocks"
 msgstr ""
@@ -1396,16 +1390,16 @@ msgid "Reshape"
 msgstr "Átformálás"
 
 msgid "resistance-A"
-msgstr ""
+msgstr "A-ellenállása"
 
 msgid "resistance-B"
-msgstr ""
+msgstr "B-ellenállása"
 
 msgid "resistance-C"
-msgstr ""
+msgstr "C-ellenállása"
 
 msgid "resistance-D"
-msgstr ""
+msgstr "D-ellenállása"
 
 # This string is used in two separate places (motor and sound), and I'd rather give two separate translations! :(
 #
@@ -1435,19 +1429,19 @@ msgid "Save"
 msgstr "Mentés"
 
 msgid "Save a copy of this project and add your own ideas."
-msgstr ""
+msgstr "Projekt másolatának mentése saját ötletek hozzáadásához."
 
 msgid "Save as"
-msgstr ""
+msgstr "Mentés másként"
 
 msgid "Save now"
 msgstr "Mentés most"
 
 msgid "Save project?"
-msgstr ""
+msgstr "Projekt mentése?"
 
 msgid "save to local file"
-msgstr "mentés fájlként"
+msgstr "mentés állományba"
 
 msgid "Saved"
 msgstr "Mentve"
@@ -1462,7 +1456,7 @@ msgid "Saxophone"
 msgstr "Szakszofon"
 
 msgid "Scratch Updater"
-msgstr ""
+msgstr "Scratch Frissítő"
 
 msgid "Scratch 2.0 Offline Editor"
 msgstr ""
@@ -1510,7 +1504,7 @@ msgid "Share"
 msgstr "Megosztás"
 
 msgid "Share to website"
-msgstr ""
+msgstr "Megosztás webhelyen"
 
 msgid "Share to Scratch website"
 msgstr ""
@@ -1523,10 +1517,10 @@ msgid "Shift:"
 msgstr "Shift:"
 
 msgid "show receivers"
-msgstr ""
+msgstr "címzettek megjelenítése"
 
 msgid "show senders"
-msgstr ""
+msgstr "feladók megjelenítése"
 
 msgid "show:"
 msgstr "látható:"
@@ -1554,13 +1548,13 @@ msgid "slider"
 msgstr "csúszka"
 
 msgid "Slider Range"
-msgstr ""
+msgstr "Csúszka tartománya"
 
 msgid "Small stage layout"
 msgstr "Kis játékteres nézet"
 
 msgid "Smooth"
-msgstr ""
+msgstr "Simítás"
 
 msgid "Snare Drum"
 msgstr "Pergődob"
@@ -1614,23 +1608,22 @@ msgid "Stage selected:"
 msgstr "A játéktér van kiválasztva:"
 
 msgid "Steel Drum"
-msgstr ""
+msgstr "Stíldob"
 
 msgid "Synth Lead"
-msgstr ""
+msgstr "Szintetizátor"
 
 msgid "Synth Pad"
-msgstr ""
+msgstr "Kísérő szintetizátor"
 
 msgid "Tambourine"
-msgstr "Tamburin"
+msgstr "Csörgődob"
 
 msgid "tan"
 msgstr "tg"
 
-#, fuzzy
 msgid "text"
-msgstr "Szöveg"
+msgstr "szöveg"
 
 msgid "Text"
 msgstr "Szöveg"
@@ -1656,17 +1649,21 @@ msgid "thing"
 msgstr ""
 
 msgid "This is the current version."
-msgstr ""
+msgstr "Ez a jelenlegi verzió."
 
 msgid ""
 "This project can detect who is using it, through the “username” block. To "
 "hide your identity, sign out before using the project."
 msgstr ""
+"A projekt meg tudja állapítani ki használja a 'felhasználó' blokk alapján. A "
+"felhasználó elrejtéséhez ki kell lépned a projekt használata előtt."
 
 msgid ""
 "This project uses Cloud data ‒ a feature that is available only to signed in "
 "users."
 msgstr ""
+"Ez a projekt Felhő adatokat használ - a funkciót csak belépett felhasználók "
+"érhetik el."
 
 msgid "this script"
 msgstr "e feladat"
@@ -1678,13 +1675,13 @@ msgid "this way"
 msgstr "erre"
 
 msgid "Throw away all changes since opening this project?"
-msgstr ""
+msgstr "Minden módosítás visszavonása a projekt megnyitása óta?"
 
 msgid "Tips"
 msgstr "Tippek"
 
 msgid "To delete a block definition, first remove all uses of the block."
-msgstr ""
+msgstr "A blokkdefiníció törléséhez el kell távolítani minden használóját."
 
 msgid "Transportation"
 msgstr "Szállítás"
@@ -1737,37 +1734,37 @@ msgid "up arrow"
 msgstr "fel gomb"
 
 msgid "Update failed"
-msgstr ""
+msgstr "Frissítés sikertelen"
 
 msgid "Update not needed"
-msgstr ""
+msgstr "Frissítés nem szükséges"
 
 msgid "Update now"
-msgstr ""
+msgstr "Frissítés most"
 
 msgid "Upload backdrop from file"
-msgstr "Háttér feltöltése"
+msgstr "Háttér betöltése állományból"
 
 msgid "Upload costume from file"
-msgstr "Jelmez feltöltése"
+msgstr "Jelmez betöltése állományból"
 
 msgid "Upload from your computer"
-msgstr "Feltöltés saját gépről"
+msgstr "Betöltés saját gépről"
 
 msgid "Upload sound from file"
-msgstr "Hang feltöltése"
+msgstr "Hang betöltése állományból"
 
 msgid "Upload sprite from file"
-msgstr "Szereplő feltöltése"
+msgstr "Szereplő betöltése állományból"
 
 msgid "Uploading image..."
-msgstr "Kép feltöltése folyamatban..."
+msgstr "Kép betöltése folyamatban..."
 
 msgid "Uploading sound..."
-msgstr "Hang feltöltése folyamatban..."
+msgstr "Hang betöltése folyamatban..."
 
 msgid "Uploading sprite..."
-msgstr "Szereplő feltöltése folyamatban..."
+msgstr "Útvonal betöltése…"
 
 msgid "variable"
 msgstr "változó"
@@ -1788,25 +1785,25 @@ msgid "Vibraslap"
 msgstr "Vibraslap"
 
 msgid "video direction"
-msgstr ""
+msgstr "videó iránya"
 
 msgid "video motion"
-msgstr ""
+msgstr "videó mozgása"
 
 msgid "Video on:"
-msgstr ""
+msgstr "Videó:"
 
 msgid "Vocals"
-msgstr ""
+msgstr "Vokálok"
 
 msgid "Walking"
 msgstr "Gyaloglás"
 
 msgid "Want to save? Click remix"
-msgstr ""
+msgstr "Szeretnéd menteni? Kattints az újrakeverésre"
 
 msgid "Which column do you want to import"
-msgstr ""
+msgstr "Melyik oszlopot szeretnéd betölteni"
 
 msgid "What's your name?"
 msgstr ""
@@ -1815,10 +1812,10 @@ msgid "whirl"
 msgstr "örvény"
 
 msgid "Wood Block"
-msgstr ""
+msgstr "Fa blokk"
 
 msgid "Wooden Flute"
-msgstr ""
+msgstr "Fafurulya"
 
 msgid "world"
 msgstr ""
@@ -1830,117 +1827,120 @@ msgid ""
 "You cannot edit cloud data in someone else's project.<br>Any change that you "
 "make in the editor will be temporary and not persistent."
 msgstr ""
+"Nem szerkeszthetőek más projekt felhő adatai.<br>A szerkesztő módosításai "
+"ideiglenesek és nem lesznek elmentve."
 
 msgid "Your Scratch name"
-msgstr ""
+msgstr "A Scratch neved"
 
 msgid "Your Scratch name is required"
-msgstr ""
+msgstr "Scratch fióknév szükséges"
 
 msgid "Click  to try again or  to save"
 msgstr ""
 
 # Offline editor only
 msgid "All Tips"
-msgstr ""
+msgstr "Minden tipp"
 
 # Offline editor only
 msgid ""
 "An updated version of the Scratch offline editor is available on the Scratch "
 "website."
 msgstr ""
+"A Scratch szerkesztőből frissített verzió érhető el a Scratch weboldalán."
 
 # Offline editor only
 msgid "Could not retrieve update location from server."
-msgstr ""
+msgstr "Nem sikerült a frissítés helyének letöltése a szerverről."
 
 # Offline editor only
 msgid "Could not retrieve version information from server."
-msgstr ""
+msgstr "Nem sikerült a verzió információ letöltése a szerverről."
 
 # Offline editor only
 msgid "Could not write file:"
-msgstr ""
+msgstr "Nem írható a fájl:"
 
 # Offline editor only
 msgid "Downloading new version..."
-msgstr ""
+msgstr "Új verzió letöltése..."
 
 # Offline editor only
 msgid "Error saving project"
-msgstr ""
+msgstr "Hiba a projekt mentése közben"
 
 # Offline editor only
 msgid "Force help file update"
-msgstr ""
+msgstr "Súgó fájl frissítése"
 
 # Offline editor only
 msgid "Import experimental HTTP extension"
-msgstr ""
+msgstr "Kísérleti HTTP kiterjesztés betöltése"
 
 # Offline editor only
 msgid "Loading help files..."
-msgstr ""
+msgstr "Súgó fájlok betöltése..."
 
 # Offline editor only
 msgid "Manual Update Available"
-msgstr ""
+msgstr "Kézi frissítés elérhető"
 
 # Offline editor only
 msgid "Open Project"
-msgstr ""
+msgstr "Projekt megnyitása"
 
 # Offline editor only
 msgid "Please visit the download page to install it."
-msgstr ""
+msgstr "Keresd fel a letöltési oldalt a telepítéshez."
 
 # Offline editor only
 msgid "Quit"
-msgstr ""
+msgstr "Kilépés"
 
 # Offline editor only
 msgid "Replace existing project?"
-msgstr ""
+msgstr "Meglévő projekt felülírása?"
 
 # Offline editor only
 msgid "Running pre-release"
-msgstr ""
+msgstr "Előzetes kiadás futtatása"
 
 # Offline editor only
 msgid "Save Project"
-msgstr ""
+msgstr "Projekt mentése"
 
 # Offline editor only
 msgid "Server error:"
-msgstr ""
+msgstr "Hiba a kiszolgálón:"
 
 # Offline editor only
 msgid "Share to Scratch Website"
-msgstr ""
+msgstr "Megosztás a Scratch Webhelyen"
 
 # Offline editor only
 msgid "Success"
-msgstr ""
+msgstr "Sikerült"
 
 # Offline editor only
 msgid "This version is newer than the current release version."
-msgstr ""
+msgstr "Ez a verzó újabb mint a jelenleg kiadott verzió."
 
 # Offline editor only
 msgid "Update check failed"
-msgstr ""
+msgstr "A frissítés ellenőrzése sikertelen"
 
 # Offline editor only
 msgid "Upload failed"
-msgstr ""
+msgstr "Sikertelen betöltés."
 
 # Offline editor only
 msgid "Visit download page"
-msgstr ""
+msgstr "Letöltési oldal felkeresése"
 
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
-msgstr ""
+msgstr "A projekted feltöltöttük a scratch.mit.edu-ra"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"

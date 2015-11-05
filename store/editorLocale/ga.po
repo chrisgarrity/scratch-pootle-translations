@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Scratch 2.0 Block\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2013-05-09 07:16+0000\n"
+"PO-Revision-Date: 2015-10-16 00:06+0000\n"
 "Last-Translator: Kevin <kscanne@gmail.com>\n"
 "Language-Team: Irish\n"
 "Language: ga\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : (n>2 && n<7) ? 2 :"
 "(n>6 && n<11) ? 3 : 4;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1368083805.000000\n"
+"X-POOTLE-MTIME: 1444954009.000000\n"
 
 msgid "%b and %b"
 msgstr "%b agus %b"
@@ -301,14 +301,12 @@ msgstr "socraigh ionstraim: %d.instrument"
 
 # 86%
 # 97%
-#, fuzzy
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "socraigh treo an mhótair: %m.motorDirection"
+msgstr "socraigh treo an mhótair %m.motor2: %m.motorDirection"
 
 # 75%
-#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "socraigh cumhacht an mhótair: %n"
+msgstr "socraigh cumhacht mhótair %m.motor: %n"
 
 msgid "set pen color to %c"
 msgstr "socraigh dath an phinn: %c"
@@ -406,19 +404,16 @@ msgid "turn @turnRight %n degrees"
 msgstr "rothlaigh @turnRight %n céim"
 
 # 82%
-#, fuzzy
 msgid "turn %m.motor off"
-msgstr "stop an mótar"
+msgstr "stop mótar %m.motor"
 
 # 81%
-#, fuzzy
 msgid "turn %m.motor on"
-msgstr "cuir an mótar ar siúl"
+msgstr "cuir mótar %m.motor ar siúl"
 
 # 89%
-#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr "cuir an mótar ar siúl ar feadh %n soicind"
+msgstr "cuir mótar %m.motor ar siúl ar feadh %n soicind"
 
 msgid "turn video %m.videoState"
 msgstr "cuir an físeán %m.videoState"
@@ -445,7 +440,7 @@ msgid "when %m.key key pressed"
 msgstr "nuair a bhrúitear eochair %m.key"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr ""
+msgstr "agus %m.sensor %m.lessMore %n"
 
 msgid "when %m.triggerSensor > %n"
 msgstr "nuair a bhíonn %m.triggerSensor > %n"
@@ -458,7 +453,7 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "nuair a chuirtear %m.backdrop suas"
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
+msgstr "agus fad %m.lessMore %n"
 
 msgid "when I receive %m.broadcast"
 msgstr "nuair a fhaighim %m.broadcast"
@@ -473,7 +468,7 @@ msgid "when this sprite clicked"
 msgstr "nuair a chliceáiltear an sprid seo"
 
 msgid "when tilt %m.eNe %n"
-msgstr ""
+msgstr "agus claonadh %m.eNe %n"
 
 msgid "x position"
 msgstr "ionad x"
@@ -482,9 +477,8 @@ msgid "y position"
 msgstr "ionad y"
 
 #: commands-online.txt:7 commands-offline.txt:7
-#, fuzzy
 msgid "%m.list contains %s?"
-msgstr "%m.list: tá %s ann"
+msgstr "%m.list agus %s ann?"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -1198,9 +1192,8 @@ msgstr "Eile"
 msgid "other scripts in sprite"
 msgstr "scripteanna eile sa sprid"
 
-#, fuzzy
 msgid "other scripts in stage"
-msgstr "scripteanna eile sa sprid"
+msgstr "scripteanna eile ar an stáitse"
 
 msgid "Outdoors"
 msgstr "Amuigh Faoin Aer"
@@ -1344,13 +1337,13 @@ msgid "Save a copy of this project and add your own ideas."
 msgstr "Sábháil cóip den tionscadal seo agus cuir leis."
 
 msgid "Save as"
-msgstr ""
+msgstr "Sábháil mar"
 
 msgid "Save now"
 msgstr "Sábháil anois"
 
 msgid "Save project?"
-msgstr ""
+msgstr "Sábháil an tionscadal?"
 
 msgid "save to local file"
 msgstr "sábháil i gcomhad logánta"
@@ -1368,7 +1361,7 @@ msgid "Saxophone"
 msgstr "Sacsafón"
 
 msgid "Scratch Updater"
-msgstr ""
+msgstr "Nuashonraitheoir Scratch"
 
 msgid "Scratch 2.0 Offline Editor"
 msgstr ""
@@ -1409,13 +1402,13 @@ msgid "Set costume center"
 msgstr "Socraigh lár na culaithe"
 
 msgid "set slider min and max"
-msgstr ""
+msgstr "socraigh uasmhéid agus íosmhéid an tsleamhnáin"
 
 msgid "Share"
 msgstr "Comhroinn"
 
 msgid "Share to website"
-msgstr ""
+msgstr "Comhroinn ar an suíomh Gréasáin"
 
 msgid "Share to Scratch website"
 msgstr ""
@@ -1735,109 +1728,107 @@ msgstr ""
 
 # Offline editor only
 msgid "All Tips"
-msgstr ""
+msgstr "Gach Leid"
 
 # Offline editor only
 msgid ""
 "An updated version of the Scratch offline editor is available on the Scratch "
 "website."
 msgstr ""
+"Is féidir teacht ar leagan úrnua d'eagarthóir as líne Scratch ar shuíomh "
+"Gréasáin Scratch."
 
 # Offline editor only
-#, fuzzy
 msgid "Could not retrieve update location from server."
-msgstr "Níorbh fhéidir feidhmchlár nua a fháil ón bhfreastalaí."
+msgstr "Níorbh fhéidir suíomh na nuashonruithe a fháil ón bhfreastalaí."
 
 # Offline editor only
-#, fuzzy
 msgid "Could not retrieve version information from server."
-msgstr "Níorbh fhéidir feidhmchlár nua a fháil ón bhfreastalaí."
+msgstr "Níorbh fhéidir eolas faoin leagan a fháil ón bhfreastalaí."
 
 # Offline editor only
 msgid "Could not write file:"
-msgstr ""
+msgstr "Níorbh fhéidir scríobh sa chomhad:"
 
 # Offline editor only
-#, fuzzy
 msgid "Downloading new version..."
-msgstr "Leagan nua á íosluchtú"
+msgstr "Leagan nua á íosluchtú..."
 
 # Offline editor only
 msgid "Error saving project"
-msgstr ""
+msgstr "Earráid agus an tionscadal á shábháil"
 
 # Offline editor only
 msgid "Force help file update"
-msgstr ""
+msgstr "Nuashonraigh an comhad cabhrach le lámh láidir"
 
 # Offline editor only
 msgid "Import experimental HTTP extension"
-msgstr ""
+msgstr "Iompórtáil eisínteacht thurgnamhach HTTP"
 
 # Offline editor only
 msgid "Loading help files..."
-msgstr ""
+msgstr "Comhaid chabhrach á luchtú..."
 
 # Offline editor only
 msgid "Manual Update Available"
-msgstr ""
+msgstr "Nuashonrú de láimh ar fáil"
 
 # Offline editor only
 msgid "Open Project"
-msgstr ""
+msgstr "Oscail Tionscadal"
 
 # Offline editor only
 msgid "Please visit the download page to install it."
-msgstr ""
+msgstr "Tabhair cuairt ar an leathanach íosluchtaithe len é a shuiteáil."
 
 # Offline editor only
 msgid "Quit"
-msgstr ""
+msgstr "Scoir"
 
 # Offline editor only
-#, fuzzy
 msgid "Replace existing project?"
-msgstr "Forscríobh tionscadal atá ann"
+msgstr "Forscríobh tionscadal atá ann?"
 
 # Offline editor only
 msgid "Running pre-release"
-msgstr ""
+msgstr "Ag rith réamhleagain"
 
 # Offline editor only
 msgid "Save Project"
-msgstr ""
+msgstr "Sábháil an Tionscadal"
 
 # Offline editor only
 msgid "Server error:"
-msgstr ""
+msgstr "Earráid fhreastalaí:"
 
 # Offline editor only
 msgid "Share to Scratch Website"
-msgstr ""
+msgstr "Comhroinn ar Shuíomh Gréasáin Scratch"
 
 # Offline editor only
 msgid "Success"
-msgstr ""
+msgstr "D'éirigh leis"
 
 # Offline editor only
 msgid "This version is newer than the current release version."
-msgstr ""
+msgstr "Tá an leagan seo níos nuaí ná an leagan reatha."
 
 # Offline editor only
 msgid "Update check failed"
-msgstr ""
+msgstr "Níorbh fhéidir nuashonruithe a lorg"
 
 # Offline editor only
 msgid "Upload failed"
-msgstr ""
+msgstr "Theip ar uasluchtú"
 
 # Offline editor only
 msgid "Visit download page"
-msgstr ""
+msgstr "Tabhair cuairt ar an leathanach íosluchtaithe"
 
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
-msgstr ""
+msgstr "Uasluchtaíodh do thionscadal go scratch.mit.edu"
 
 # The language name as it will appear in the language menu
 # ###########################################

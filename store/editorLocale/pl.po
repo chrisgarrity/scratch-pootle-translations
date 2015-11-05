@@ -633,7 +633,7 @@ msgid "y position"
 msgstr "współrzędna y"
 
 msgid "10 ^"
-msgstr "10 ^"
+msgstr "10 do potęgi"
 
 msgid ""
 "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
@@ -642,12 +642,12 @@ msgid ""
 "\">see the cloud data FAQ!</a>"
 msgstr ""
 "<b>Informacje o zmiennych w Chmurze</b><br>&nbsp;<br>Aktualnie jedynie "
-"liczby są wspierane.<br>Pokoje czatu nie są dozwolone i zostaną "
-"usunięte<br>Aby uzyskać więcej informacji <a href= target=>sprawdź FAQ na "
-"temat danych w Chmurze !</a>"
+"liczby są akceptowane.<br>Czaty nie są dozwolone i zostaną usunięte.<br>Aby "
+"uzyskać więcej informacji <a href= target=>sprawdź FAQ na temat danych w "
+"Chmurze !</a>"
 
 msgid "A connected"
-msgstr "A podłączone"
+msgstr "Podłączone"
 
 msgid "a copy of the project file on your computer."
 msgstr "kopia projektu na twoim komputerze."
@@ -656,7 +656,7 @@ msgid "A newer version of Scratch is available"
 msgstr "Dostępna jest nowa wersja Scratch'a"
 
 msgid "About"
-msgstr "O Scratch"
+msgstr "O Scratchu"
 
 msgid "abs"
 msgstr "wartość bezwzględna"
@@ -1907,9 +1907,8 @@ msgstr "Wibrafon"
 msgid "Vibraslap"
 msgstr "Vibraslap (perkusja)"
 
-#, fuzzy
 msgid "video direction"
-msgstr "kierunek w kamerze"
+msgstr "kierunek kamery"
 
 msgid "video motion"
 msgstr "ruch w kamerze"

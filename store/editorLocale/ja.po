@@ -703,7 +703,7 @@ msgid "Clear"
 msgstr "消す"
 
 msgid "clear senders/receivers"
-msgstr "センダーとレシーバーを消す"
+msgstr "センダーとレシーバーのハイライトを消す"
 
 msgid "Click \"Save now\" to try again or \"Download\" to save"
 msgstr ""

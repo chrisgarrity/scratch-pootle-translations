@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-02-09 00:28+0000\n"
+"PO-Revision-Date: 2015-11-19 15:20+0000\n"
 "Last-Translator: Juan Pablo <juanpabl@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: an\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1423441724.000000\n"
+"X-POOTLE-MTIME: 1447946401.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -920,7 +920,7 @@ msgid "Record new sound"
 msgstr "Rechistra un nuevo son"
 
 msgid "record..."
-msgstr ""
+msgstr "gravar..."
 
 msgid "recording1"
 msgstr "gravación1"
@@ -1467,111 +1467,107 @@ msgstr "Ye menister o tuyo nombre de Scratch"
 
 # Offline editor only
 msgid "All Tips"
-msgstr ""
+msgstr "Totz os consellos"
 
 # Offline editor only
 msgid ""
 "An updated version of the Scratch offline editor is available on the Scratch "
 "website."
 msgstr ""
+"Una versión esviellada de l'editor de Scratch offline ye disponible en o "
+"puesto Web de Scratch."
 
 # Offline editor only
-#, fuzzy
 msgid "Could not retrieve update location from server."
-msgstr "No s'ha puesto recuperar a nueva aplicación de servidor."
+msgstr "No s'ha puesto recuperar a nueva localización d'o servidor."
 
 # Offline editor only
-#, fuzzy
 msgid "Could not retrieve version information from server."
-msgstr "No s'ha puesto recuperar a nueva aplicación de servidor."
+msgstr "No s'ha puesto recuperar a información d'a versión d'o servidor."
 
 # Offline editor only
 msgid "Could not write file:"
-msgstr ""
+msgstr "No s'ha puesto escribir o fichero:"
 
 # Offline editor only
-#, fuzzy
 msgid "Downloading new version..."
-msgstr "Descargando a nueva versión"
+msgstr "Se ye descargando a nueva versión..."
 
 # Offline editor only
 msgid "Error saving project"
-msgstr ""
+msgstr "Error en alzar o prochecto"
 
 # Offline editor only
 msgid "Force help file update"
-msgstr ""
+msgstr "Forzar l'actuazliación d'o fichero d'aduya"
 
 # Offline editor only
 msgid "Import experimental HTTP extension"
-msgstr ""
+msgstr "Importar a versión experimental d'a extensión HTTP"
 
 # Offline editor only
 msgid "Loading help files..."
-msgstr ""
+msgstr "Cargando os fichers d'aduya..."
 
 # Offline editor only
 msgid "Manual Update Available"
-msgstr ""
+msgstr "Actualización Manuel Disponible"
 
 # Offline editor only
 msgid "Open Project"
-msgstr ""
+msgstr "Ubrir un prochecto"
 
 # Offline editor only
 msgid "Please visit the download page to install it."
-msgstr ""
+msgstr "Por favor, visite a pachina de descarga pa instalar-lo."
 
 # Offline editor only
 msgid "Quit"
-msgstr ""
+msgstr "Salir"
 
 # Offline editor only
-#, fuzzy
 msgid "Replace existing project?"
-msgstr "Substituir un prochecto existent"
+msgstr "Substituir un prochecto existent?"
 
 # Offline editor only
 msgid "Running pre-release"
-msgstr ""
+msgstr "Executando un pre-lanzamiento"
 
 # Offline editor only
-#, fuzzy
 msgid "Save Project"
 msgstr "Alzar o prochecto?"
 
 # Offline editor only
 msgid "Server error:"
-msgstr ""
+msgstr "Error en o servidor:"
 
 # Offline editor only
-#, fuzzy
 msgid "Share to Scratch Website"
 msgstr "Compartir a o puesto web de Scratch"
 
 # Offline editor only
 msgid "Success"
-msgstr ""
+msgstr "Exito"
 
 # Offline editor only
 msgid "This version is newer than the current release version."
-msgstr ""
+msgstr "Ista versión ye mas nueva que a versión lanzada actual."
 
 # Offline editor only
 msgid "Update check failed"
-msgstr ""
+msgstr "Ha fallau a preba d'actualización"
 
 # Offline editor only
 msgid "Upload failed"
-msgstr ""
+msgstr "Ha fallau o ninvio"
 
 # Offline editor only
 msgid "Visit download page"
-msgstr ""
+msgstr "Vesitar a pachina de descarga"
 
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
-msgstr ""
+msgstr "O suyo prochecto s'ha cargau en scratch.mit.edu"
 
 #~ msgid "cleanup"
 #~ msgstr "escoscar"

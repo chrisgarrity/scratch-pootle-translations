@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-11-04 06:25+0000\n"
+"PO-Revision-Date: 2015-11-10 19:06+0000\n"
 "Last-Translator: Samat <samat@method.kz>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kk\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1446618325.000000\n"
+"X-POOTLE-MTIME: 1447182369.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -25,7 +25,7 @@ msgid ""
 msgstr ""
 
 msgid "A connected"
-msgstr "Aがつながれた"
+msgstr "А қосылған"
 
 msgid "a copy of the project file on your computer."
 msgstr "てもとのコンピューターにあるさくひんのコピー。"
@@ -44,7 +44,7 @@ msgid "About PicoBoard extension..."
 msgstr ""
 
 msgid "abs"
-msgstr "ぜったいち"
+msgstr "модуль"
 
 #~ msgid "Account settings"
 #~ msgstr "アカウントせってい"
@@ -62,7 +62,7 @@ msgid "Add boolean input:"
 msgstr "しんぎちのひきすうをついか:"
 
 msgid "add comment"
-msgstr "コメントをついか"
+msgstr "Түсініктемені қосу"
 
 msgid "add comment here..."
 msgstr ""
@@ -77,66 +77,71 @@ msgid "Add string input:"
 msgstr "もじれつのひきすうをついか:"
 
 msgid "all"
-msgstr "барлық"
+msgstr "Барлық"
 
 msgid "All"
 msgstr "すべて"
 
+#, fuzzy
 msgid "all around"
-msgstr "じゆうにかいてん"
+msgstr "Барлық айналасында"
 
 msgid "all motors"
 msgstr ""
 
 msgid "Animal"
-msgstr "どうぶつ"
+msgstr "Жануар"
 
 msgid "Animals"
-msgstr "どうぶつ"
+msgstr "Жануарлар"
 
 msgid "asin"
 msgstr "asin"
 
 msgid "assets loaded"
-msgstr "こよみこみ"
+msgstr "ауыспалылар жүктелді"
 
 msgid "atan"
 msgstr "atan"
 
 msgid "B connected"
-msgstr "Bがつながれた"
+msgstr "B байланысқан"
 
 msgid "Back a layer"
-msgstr "レイヤーをさげる"
+msgstr "Бір қабат төмен"
 
 # 88%
+#, fuzzy
 msgid "backdrop"
-msgstr "はいけい"
+msgstr "фон"
 
+#, fuzzy
 msgid "Backdrop"
-msgstr "はいけい"
+msgstr "Фон"
 
 msgid "backdrop #"
-msgstr "はいけい #"
+msgstr "фон #"
 
 msgid "Backdrop Library"
 msgstr "はいけいライブラリー"
 
+#, fuzzy
 msgid "backdrop name"
-msgstr "はいけいめい"
+msgstr "фон аты"
 
 msgid "backdrop1"
-msgstr "はいけい1"
+msgstr "фон 1"
 
 # 88%
 msgid "backdrops"
-msgstr "はいけい"
+msgstr "фондар"
 
 msgid "Backdrops"
-msgstr "はいけい"
+msgstr "фондар"
 
+#, fuzzy
 msgid "Backpack"
-msgstr "バックパック"
+msgstr "Дорба"
 
 msgid "Bass"
 msgstr "ベース"
@@ -145,7 +150,7 @@ msgid "Bass Drum"
 msgstr "バスドラム"
 
 msgid "Bassoon"
-msgstr "バスーン"
+msgstr "Фагот"
 
 msgid ""
 "Because you have a new Scratch account, any changes to cloud data won't be "
@@ -163,71 +168,75 @@ msgid "Block help"
 msgstr "ブロックのヘルプ"
 
 msgid "Bongo"
-msgstr "ボンゴ"
+msgstr "Бонго"
 
 msgid "brightness"
-msgstr "あかるさ"
+msgstr "жарықтық"
 
 msgid "Bring to front"
-msgstr "まえにだす"
+msgstr "Алдыңғы қатарға шығару"
 
+#, fuzzy
 msgid "Broadcast"
-msgstr "ブロードキャスト"
+msgstr "Хабарлау"
 
 msgid "Brush"
-msgstr "ふで"
+msgstr "Қылқалам"
 
+#, fuzzy
 msgid "button pressed"
-msgstr "ボタンがおされた"
+msgstr "түйме басылған"
 
 msgid "by"
 msgstr "さくしゃ"
 
 msgid "bytes loaded"
-msgstr "バイトよみこみ"
+msgstr "байт жүктелген"
 
 msgid "C connected"
-msgstr "Cがつながれた"
+msgstr "C байланысқан"
 
 msgid "Cabasa"
-msgstr "カバサ"
+msgstr "Кабаса"
 
 msgid "Camera"
-msgstr "カメラ"
+msgstr "Камера"
 
 msgid "can drag in player:"
-msgstr "プレイヤーでドラッグできるか:"
+msgstr "ойнатқышқа апара аласыз:"
 
+#, fuzzy
 msgid "Cancel"
-msgstr "とりけし"
+msgstr "Болдырмау"
 
 msgid "Cannot Add"
 msgstr ""
 
 msgid "Cannot Delete"
-msgstr "さくじょふか"
+msgstr "Жою мүмкін емес"
 
 msgid "Can’t find network connection or reach server."
 msgstr "ネットワークせつぞくがみつからないかとうたつできません。"
 
 msgid "Castle"
-msgstr "しろ"
+msgstr "Қорған"
 
 msgid "Category"
-msgstr "カテゴリー"
+msgstr "Санат"
 
+#, fuzzy
 msgid "ceiling"
-msgstr "きりあげ"
+msgstr "шектеу"
 
 msgid "Cello"
-msgstr "チェロ"
+msgstr "Виолончель"
 
 #, fuzzy
 msgid "Check for updates"
 msgstr "Жаңартуларды тексеру"
 
 msgid "Choir"
-msgstr "がっしょうだん"
+msgstr "Хор"
 
 msgid "Choose backdrop from library"
 msgstr "ライブラリーからはいけいをせんたく"
@@ -242,34 +251,34 @@ msgid "Choose sprite from library"
 msgstr "スプライトをライブラリーからせんたく"
 
 msgid "Circle"
-msgstr "えん"
+msgstr "Шеңбер"
 
 msgid "City"
-msgstr "まち"
+msgstr "Қала"
 
 msgid "Clarinet"
-msgstr "クラリネット"
+msgstr "Кларнет"
 
 msgid "Claves"
-msgstr "クラーベ"
+msgstr "Клавесин"
 
 msgid "clean up"
 msgstr ""
 
 msgid "Clear"
-msgstr "けす"
+msgstr "Тазарту"
 
 msgid "clear senders/receivers"
-msgstr "センダーとレシーバーをけす"
+msgstr "жіберушілерді / қабылдаушыларды тазарту"
 
 msgid "Click \"Save now\" to try again or \"Download\" to save"
 msgstr "「ただちにほぞん」をクリックしてさいしこうするか、「ダウンロード」でほぞんしてください"
 
 msgid "Close"
-msgstr "とじる"
+msgstr "Жабу"
 
 msgid "Closed Hi-Hat"
-msgstr "とじたハイハット"
+msgstr "Жабық хай-хэт"
 
 #~ msgid "Cloud"
 #~ msgstr "クラウド"
@@ -284,10 +293,10 @@ msgid "color"
 msgstr "түс"
 
 msgid "Color a shape"
-msgstr "ずけいのいろ"
+msgstr "Кескінді бояу"
 
 msgid "Conga"
-msgstr "コンガ"
+msgstr "Конга"
 
 msgid "Connecting to Cloud data server..."
 msgstr "クラウドデータサーバーにせつぞくしています..."
@@ -299,42 +308,42 @@ msgid "Convert to vector"
 msgstr "ベクターにへんかん"
 
 msgid "Converting mp3..."
-msgstr "MP3にへんかんしています..."
+msgstr "mp3 форматына аудару..."
 
 #, fuzzy
 msgid "copy"
 msgstr "көшіру"
 
 msgid "Copying..."
-msgstr "コピーちゅう..."
+msgstr "Көшіру..."
 
 msgid "cos"
 msgstr "cos"
 
 msgid "Costume"
-msgstr "コスチューム"
+msgstr "Костюм"
 
 msgid "costume #"
-msgstr "コスチューム #"
+msgstr "костюм #"
 
 msgid "Costume Library"
 msgstr "コスチュームライブラリー"
 
 msgid "costume name"
-msgstr "コスチュームめい"
+msgstr "костюм аты"
 
 msgid "costume1"
-msgstr "コスチューム1"
+msgstr "костюм1"
 
 # 87%
 msgid "costume2"
-msgstr "コスチューム2"
+msgstr "костюм2"
 
 msgid "Costumes"
-msgstr "コスチューム"
+msgstr "костюмдер"
 
 msgid "Costumes > 1"
-msgstr "костюмдер > 1"
+msgstr "Kостюмдер > 1"
 
 #~ msgid "Costumes:"
 #~ msgstr "コスチューム:"
@@ -349,22 +358,23 @@ msgid "Crash Cymbal"
 msgstr "クラッシュシンバル"
 
 msgid "Creating..."
-msgstr "さくせいちゅう..."
+msgstr "Жасалып жатыр..."
 
 msgid "Currently, only numbers can be stored in Cloud variables."
 msgstr "げんざい、クラウドへんすうにはすうちのみかくのうできます。"
 
 msgid "cut"
-msgstr "カット"
+msgstr "кесіп алу"
 
 msgid "D connected"
-msgstr "Dがつながれた"
+msgstr "D байланысқан"
 
+#, fuzzy
 msgid "date"
-msgstr "ひづけ"
+msgstr "күні"
 
 msgid "day of week"
-msgstr "ようび"
+msgstr "апта күні"
 
 #, fuzzy
 msgid "delete"
@@ -376,16 +386,16 @@ msgid "Delete"
 msgstr "Жою"
 
 msgid "delete variable"
-msgstr "へんすうをさくじょ"
+msgstr "айнымалыны өшіру"
 
 msgid "direction"
-msgstr "むき"
+msgstr "бағыт"
 
 msgid "direction:"
-msgstr "むかいき:"
+msgstr "бағыты:"
 
 msgid "don't rotate"
-msgstr "かいてんしない"
+msgstr "Айналдурмау"
 
 msgid "Don't save"
 msgstr "Сақтамау"
@@ -398,10 +408,10 @@ msgid "down arrow"
 msgstr "したむきやじるし"
 
 msgid "Download"
-msgstr "ダウンロード"
+msgstr "Жүктеп алу"
 
 msgid "Download to your computer"
-msgstr "てもとのコンピューターにダウンロード"
+msgstr "Компьютерге жүктеп алу"
 
 msgid "Downloading new version"
 msgstr ""
@@ -417,8 +427,9 @@ msgstr "Көшірмесін жасау"
 msgid "e ^"
 msgstr "e ^"
 
+#, fuzzy
 msgid "edge"
-msgstr "はし"
+msgstr "шет"
 
 #, fuzzy
 msgid "Edit"
@@ -429,28 +440,28 @@ msgid "edit"
 msgstr "өңдеу"
 
 msgid "Edit Block"
-msgstr "ブロックをへんしゅう"
+msgstr "Блокты өңдеу"
 
 msgid "Effects"
-msgstr "こうか"
+msgstr "Эффекттер"
 
 msgid "Electric Guitar"
-msgstr "エレキギター"
+msgstr "Электрикалық гитара"
 
 msgid "Electric Piano"
-msgstr "でんしピアノ"
+msgstr "Электрикалық пианино"
 
 msgid "Electronic"
-msgstr "でんしおん"
+msgstr "Электроника"
 
 msgid "Ellipse"
-msgstr "だえん"
+msgstr "Эллипс"
 
 msgid "empty"
 msgstr ""
 
 msgid "Erase"
-msgstr "けす"
+msgstr "Өшіргіш"
 
 msgid "Erase all"
 msgstr ""
@@ -485,22 +496,23 @@ msgid "false"
 msgstr ""
 
 msgid "Fantasy"
-msgstr "ファンタジー"
+msgstr "Қиял"
 
 msgid "Features"
-msgstr "きのう"
+msgstr "Мүміндіктер"
 
 msgid "File"
-msgstr "ファイル"
+msgstr "Файл"
 
 msgid "Fill with color"
-msgstr "ぬりつぶす"
+msgstr "Түспен толтыру"
 
 msgid "fisheye"
 msgstr "ぎょがんレンズ"
 
+#, fuzzy
 msgid "Flip left-right"
-msgstr "さゆうをはんてん"
+msgstr "Солдан оңға аудару"
 
 msgid "Flip up-down"
 msgstr "じょうげをはんてん"
@@ -509,7 +521,7 @@ msgid "floor"
 msgstr "きりさげ"
 
 msgid "Flute"
-msgstr "フルート"
+msgstr "Сыбызғы"
 
 msgid "Flying"
 msgstr "とぶ"
@@ -518,10 +530,10 @@ msgid "Font:"
 msgstr "Қаріп:"
 
 msgid "For all sprites"
-msgstr "すべてのスプライトよう"
+msgstr "Барлық спрайтар үшін"
 
 msgid "For this sprite only"
-msgstr "このスプライトのみ"
+msgstr "Тек осы спрайт үшін"
 
 msgid "Forward a layer"
 msgstr "レイヤーをあげる"
@@ -533,19 +545,19 @@ msgstr "ゆうれい"
 #~ msgstr "わたしのさくひんへいく"
 
 msgid "Group"
-msgstr "グループ"
+msgstr "Топтау"
 
 msgid "Grow"
-msgstr "かくだい"
+msgstr "Ұлғайту"
 
 msgid "Guiro"
-msgstr "ギロ"
+msgstr "Гуиро"
 
 msgid "Guitar"
-msgstr "ギター"
+msgstr "Гитара"
 
 msgid "Hand Clap"
-msgstr "はくしゅ"
+msgstr "Шапалақтау"
 
 msgid "Hardware"
 msgstr "Құрылғы"
@@ -564,7 +576,7 @@ msgid "hello"
 msgstr "チェロ"
 
 msgid "hide"
-msgstr "かくす"
+msgstr "жасыру"
 
 msgid "High C"
 msgstr "Жоғарғы C"
@@ -573,10 +585,10 @@ msgid "Holiday"
 msgstr "Демалыс"
 
 msgid "hour"
-msgstr "とき"
+msgstr "сағат"
 
 msgid "Human"
-msgstr "ひと"
+msgstr "Адам"
 
 # 83%
 #, fuzzy
@@ -584,34 +596,35 @@ msgid "import"
 msgstr "импорттау"
 
 msgid "Import"
-msgstr "よみこみ"
+msgstr "Импорттау"
 
 msgid "Importing sound..."
-msgstr "おとをよみこみちゅう..."
+msgstr "Дыбысты импорттау ..."
 
+#, fuzzy
 msgid "Indoors"
-msgstr "おくない"
+msgstr "Ғимарат ішінде"
 
 msgid "Installing..."
-msgstr "インストールちゅう..."
+msgstr "Орнату..."
 
 msgid "Instruments"
-msgstr "がっき"
+msgstr "Аспаптар"
 
 msgid "large readout"
 msgstr ""
 
 msgid "last"
-msgstr "さいご"
+msgstr "соңғы"
 
 msgid "left"
-msgstr "ひだり"
+msgstr "солға"
 
 msgid "left arrow"
 msgstr "ひだりむきやじるし"
 
 msgid "left-right"
-msgstr "さゆうのみ"
+msgstr "солға-оңға"
 
 msgid "length"
 msgstr "ұзындық"
@@ -619,11 +632,13 @@ msgstr "ұзындық"
 msgid "Letters"
 msgstr "Әріптер"
 
+#, fuzzy
 msgid "Library"
-msgstr "ライブラリ"
+msgstr "Жиын"
 
+#, fuzzy
 msgid "light"
-msgstr "あかるさ"
+msgstr "жарық"
 
 # 83%
 #, fuzzy
@@ -634,7 +649,7 @@ msgstr "あかるさ"
 #~ msgstr "げんかいにとうたつ"
 
 msgid "Line"
-msgstr "ちょくせん"
+msgstr "Сызық"
 
 # 90%
 #, fuzzy
@@ -642,16 +657,16 @@ msgid "Line width"
 msgstr "Сызықтың енi"
 
 msgid "list"
-msgstr "リスト"
+msgstr "тізім"
 
 msgid "List name"
-msgstr "リストめい"
+msgstr "Tiзiм аты"
 
 msgid "ln"
 msgstr "ln"
 
 msgid "Loading project..."
-msgstr "プロジェクトをよみこみちゅう..."
+msgstr "Жобаны жүктеу..."
 
 msgid "log"
 msgstr "log"
@@ -660,28 +675,29 @@ msgid "louder"
 msgstr "おおきく"
 
 msgid "loudness"
-msgstr "おんりょう"
+msgstr "дыбыс"
 
 msgid "Low C"
 msgstr "Төменгі C"
 
 msgid "Make a Block"
-msgstr "ブロックをつくる"
+msgstr "Блок жасау"
 
 msgid "Make a List"
-msgstr "リストをつくる"
+msgstr "Тізім жасау"
 
+#, fuzzy
 msgid "Make a Variable"
-msgstr "へんすうをつくる"
+msgstr "Айнымалы жасау"
 
 msgid "Marimba"
-msgstr "マリンバ"
+msgstr "Маримба"
 
 msgid "Max"
-msgstr "さいだいち"
+msgstr "Максимум"
 
 msgid "meow"
-msgstr "ニャー"
+msgstr "мияу"
 
 msgid "Message Name"
 msgstr "メッセージめい"
@@ -696,19 +712,20 @@ msgid "Middle C"
 msgstr "Ортаңғы C"
 
 msgid "Min"
-msgstr "さいしょうち"
+msgstr "Минимум"
 
 msgid "minute"
-msgstr "ぶん"
+msgstr "минут"
 
 msgid "month"
-msgstr "つき"
+msgstr "ай"
 
 msgid "mosaic"
 msgstr "モザイク"
 
+#, fuzzy
 msgid "motion"
-msgstr "モーション"
+msgstr "қимыл"
 
 msgid "motor"
 msgstr ""
@@ -723,10 +740,10 @@ msgid "mouse-pointer"
 msgstr "マウスのポインター"
 
 msgid "Multiple"
-msgstr "ふくすう"
+msgstr "Көбейту"
 
 msgid "Music and Dance"
-msgstr "おんがくとダンス"
+msgstr "Ән және би"
 
 msgid "Music Box"
 msgstr "ミュージックボックス"
@@ -738,10 +755,10 @@ msgstr "おんがくのループ"
 #~ msgstr "わたしのさくひん"
 
 msgid "myself"
-msgstr "じぶんじしん"
+msgstr "өзім"
 
 msgid "Nature"
-msgstr "しぜん"
+msgstr "Табиғат"
 
 #, fuzzy
 msgid "New"
@@ -751,7 +768,7 @@ msgid "New backdrop from camera"
 msgstr "カメラからあたらしいはいけいをつくる"
 
 msgid "New backdrop:"
-msgstr "あたらしいはいけい:"
+msgstr "Жаңа фон"
 
 msgid "New Block"
 msgstr "Жаңа Блок"
@@ -760,10 +777,10 @@ msgid "New costume from camera"
 msgstr "カメラからあたらしいコスチュームをつくる"
 
 msgid "New costume:"
-msgstr "あたらしいコスチューム:"
+msgstr "Жаңа костюм:"
 
 msgid "New List"
-msgstr "あたらしいリスト"
+msgstr "Жаңа тізім"
 
 msgid "New Message"
 msgstr "Жаңа Хабарлама"
@@ -772,22 +789,22 @@ msgid "new message..."
 msgstr "あたらしいメッセージ..."
 
 msgid "New name"
-msgstr "あたらしいなまえ"
+msgstr "Жаңа есім"
 
 msgid "New sound:"
-msgstr "あたらしいおと:"
+msgstr "Жаңа дыбыс:"
 
 msgid "New sprite from camera"
 msgstr "カメラからあたらしいスプライトをつくる"
 
 msgid "New sprite:"
-msgstr "あたらしいスプライト:"
+msgstr "Жаңа спрайт:"
 
 msgid "New Variable"
-msgstr "あたらしいへんすう"
+msgstr "Жаңа айнымалы"
 
 msgid "next backdrop"
-msgstr ""
+msgstr "келесі фон"
 
 msgid "No motion blocks"
 msgstr "うごきのブロックはありません"
@@ -815,10 +832,10 @@ msgid "Offline Editor"
 msgstr "Оффлайн редактор"
 
 msgid "OK"
-msgstr "OK"
+msgstr "Жақсы"
 
 msgid "on"
-msgstr "にゅう"
+msgstr "қосу"
 
 msgid "on-flipped"
 msgstr "さゆうはんてん"
@@ -827,10 +844,10 @@ msgid "Open"
 msgstr ""
 
 msgid "Open Cuica"
-msgstr "オープンクイーカ"
+msgstr "Ашық Куика"
 
 msgid "Open Hi-Hat"
-msgstr "オープンハイハット"
+msgstr "Ашық хай-хэт"
 
 msgid "Options"
 msgstr "オプション"
@@ -1521,7 +1538,7 @@ msgstr ""
 
 # Offline editor only
 msgid "Server error:"
-msgstr ""
+msgstr "Сервер қатесі:"
 
 # Offline editor only
 msgid "Share to Scratch Website"

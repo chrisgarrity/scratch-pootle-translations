@@ -1649,7 +1649,7 @@ msgid "thing"
 msgstr ""
 
 msgid "This is the current version."
-msgstr "Ez a jelenlegi verzió."
+msgstr "Ez a legfrissebb verzió"
 
 msgid ""
 "This project can detect who is using it, through the “username” block. To "

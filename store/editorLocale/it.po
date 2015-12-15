@@ -1383,7 +1383,7 @@ msgid "resistance-D"
 msgstr "resistenza-D"
 
 msgid "reverse"
-msgstr "inversa"
+msgstr "inversione"
 
 msgid "Revert"
 msgstr "Ripristina alla versione originale"

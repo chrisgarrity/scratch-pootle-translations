@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-10-04 17:47+0000\n"
+"PO-Revision-Date: 2015-12-15 07:34+0000\n"
 "Last-Translator: aabuchba <aabuchba@mail.ru>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ab\n"
@@ -12,14 +12,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1443980848.000000\n"
+"X-POOTLE-MTIME: 1450164872.000000\n"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "Аҧсшәа"
 
 msgid "%b and %b"
-msgstr "%b и %b"
+msgstr "%b и %b и"
 
 msgid "%b or %b"
 msgstr "%b ма %b"
@@ -50,7 +50,7 @@ msgstr "иазҵаатәуп %s нас иҧштәуп"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
-msgstr "аҿаҧшыра #"
+msgstr "аҿаҧшыра №"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
@@ -120,7 +120,7 @@ msgid "days since 2000"
 msgstr "амшқәа 01.01.2000 инаркны"
 
 msgid "define"
-msgstr "ишьақәыргылатәуп"
+msgstr "иқәыргылатәуп"
 
 msgid "delete %d.listDeleteItem of %m.list"
 msgstr "ианыхтәуп %d.listDeleteItem %m.list аҟынтә"
@@ -186,7 +186,7 @@ msgid "join %s %s"
 msgstr "иеиҧшьтәуп %s%s"
 
 msgid "key %m.key pressed?"
-msgstr "аклавиша %m.key иақәӷәӷәоума?"
+msgstr "аклавиша %m.key иақәыӷәӷәоума?"
 
 msgid "length of %m.list"
 msgstr "ахьӡынҵа аура %m.list"
@@ -210,13 +210,13 @@ msgid "Motion"
 msgstr "Аиҭаҵра"
 
 msgid "mouse down?"
-msgstr "ахәына иақәӷәӷәоума?"
+msgstr "аҳәынаҧ иақәыӷәӷәоума?"
 
 msgid "mouse x"
-msgstr "ахәына x ала"
+msgstr "аҳәынаҧ x ала"
 
 msgid "mouse y"
-msgstr "ахәына y ала"
+msgstr "аҳәынаҧ y ала"
 
 msgid "move %n steps"
 msgstr "ицатәуп %n шьаҿак"
@@ -295,52 +295,52 @@ msgid "sensor %m.booleanSensor?"
 msgstr "асенсор %m.booleanSensor?"
 
 msgid "set %m.effect effect to %n"
-msgstr "ишьақәргылатәуп аефеқт %m.effect %n аҿы"
+msgstr "иқәыргылатәуп аефеқт %m.effect %n аҟны"
 
 msgid "set %m.var to %s"
-msgstr "ишьақәргылатәуп %m.var %s аҿы"
+msgstr "иқәыргылатәуп %m.var %s аҟны"
 
 msgid "set instrument to %d.instrument"
 msgstr "иалхтәуп амыруга %d.instrument"
 
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "ишьақәыргылатәуп ахырхарҭа %m.motor2 азы %m.motorDirection аҟны"
+msgstr "иқәыргылатәуп ахырхарҭа %m.motor2 азы %m.motorDirection аҟны"
 
 msgid "set %m.motor power to %n"
-msgstr "ишьақәыргылатәуп амчра %m.motor азы %n аҟны"
+msgstr "иқәыргылатәуп амчра %m.motor азы %n аҟны"
 
 msgid "set pen color to %c"
-msgstr "ишьақәыргылатәуп акалам аҧштәы %c"
+msgstr "иқәыргылатәуп акалам аҧштәы %c"
 
 msgid "set pen color to %n"
-msgstr "ишьақәыргылатәуп акалам аҧштәы %n"
+msgstr "иқәыргылатәуп акалам аҧштәы %n"
 
 msgid "set pen shade to %n"
-msgstr "ишьақәыргылатәуп акалам агага %n"
+msgstr "иқәыргылатәуп акалам агага %n"
 
 msgid "set pen size to %n"
-msgstr "ишьақәыргылатәуп акалам ашәагаа %n"
+msgstr "иқәыргылатәуп акалам ашәагаа %n"
 
 msgid "set rotation style %m.rotationStyle"
 msgstr "аргежьра астиль %m.rotationStyle"
 
 msgid "set size to %n%"
-msgstr "ишьақәыргылатәуп ашәагаа %n%"
+msgstr "иқәыргылатәуп ашәагаа %n%"
 
 msgid "set tempo to %n bpm"
-msgstr "ишьақәыргылатәуп атемп %n bpm"
+msgstr "иқәыргылатәуп атемп %n bpm"
 
 msgid "set video transparency to %n%"
-msgstr "ишьақәыргылатәуп авидео аҵәцара %n%"
+msgstr "иқәыргылатәуп авидео аҵәцара %n%"
 
 msgid "set volume to %n%"
-msgstr "ишьақәыргылатәуп абжьы аҳаракыра %n%"
+msgstr "иқәыргылатәуп абжьы аҳаракыра %n%"
 
 msgid "set x to %n"
-msgstr "ишьақәыргылатәуп x %n аҿы"
+msgstr "иқәыргылатәуп x %n аҟны"
 
 msgid "set y to %n"
-msgstr "ишьақәыргылатәуп y %n аҿы"
+msgstr "иқәыргылатәуп y %n аҟны"
 
 msgid "show"
 msgstr "ацәырҵра"

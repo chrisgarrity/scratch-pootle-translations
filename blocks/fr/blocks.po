@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-04-15 15:06+0000\n"
+"PO-Revision-Date: 2015-12-21 02:33+0000\n"
 "Last-Translator: Natalie <nrusk@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1429110360.000000\n"
+"X-POOTLE-MTIME: 1450665183.000000\n"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
@@ -446,16 +446,16 @@ msgid "when %m.booleanSensor"
 msgstr "quand %m.booleanSensor"
 
 msgid "when %m.key key pressed"
-msgstr "quand %m.key est pressé"
+msgstr "quand %m.key est cliqué"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr "Quand %m.sensor %m.lessMore %n"
+msgstr "quand %m.sensor %m.lessMore %n"
 
 msgid "when %m.triggerSensor > %n"
 msgstr "quand %m.triggerSensor > %n"
 
 msgid "when @greenFlag clicked"
-msgstr "quand @greenFlag pressé"
+msgstr "quand @greenFlag cliqué"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"

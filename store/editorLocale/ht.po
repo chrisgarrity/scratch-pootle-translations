@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-12-09 23:23+0000\n"
+"PO-Revision-Date: 2015-12-28 18:55+0000\n"
 "Last-Translator: Natalie <nrusk@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ht\n"
@@ -12,7 +12,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1449703439.000000\n"
+"X-POOTLE-MTIME: 1451328912.000000\n"
+
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "Kreyòl"
 
 msgid "%b and %b"
 msgstr "%b ak %b"
@@ -24,13 +28,13 @@ msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute nan %m.spriteOrStage"
 
 msgid "%m.list contains %s"
-msgstr ""
+msgstr "%m.list sa gen %s ladan"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp sou %n"
 
 msgid "%m.sensor sensor value"
-msgstr ""
+msgstr "%m.sensor valè sennsò"
 
 msgid "%n mod %n"
 msgstr "%n mod %n"
@@ -39,19 +43,18 @@ msgid "add %s to %m.list"
 msgstr "mete %s sou %m.list"
 
 msgid "answer"
-msgstr ""
+msgstr "repons"
 
 msgid "ask %s and wait"
-msgstr ""
+msgstr "mande %s epi tann"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop #"
 msgstr "# fon ekran"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr ""
+msgstr "non fon an"
 
 msgid "broadcast %m.broadcast"
 msgstr "voye bay tout moun %m.broadcast"
@@ -105,31 +108,31 @@ msgid "costume #"
 msgstr "# kostim "
 
 msgid "create clone of %m.spriteOnly"
-msgstr ""
+msgstr "kreye marasa %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
-msgstr ""
+msgstr "kounye a %m.timeAndDate"
 
 msgid "Data"
-msgstr ""
+msgstr "Done"
 
 msgid "days since 2000"
-msgstr ""
+msgstr "jou depi 2000"
 
 msgid "define"
-msgstr ""
+msgstr "defini"
 
 msgid "delete %d.listDeleteItem of %m.list"
 msgstr "efase %d.listDeleteItem nan %m.list"
 
 msgid "delete this clone"
-msgstr ""
+msgstr "efase marasa"
 
 msgid "direction"
 msgstr "direksyon"
 
 msgid "distance"
-msgstr ""
+msgstr "distans"
 
 msgid "distance to %m.spriteOrMouse"
 msgstr "distans jiska %m.spriteOrMouse"
@@ -138,7 +141,7 @@ msgid "else"
 msgstr "sinon"
 
 msgid "Events"
-msgstr ""
+msgstr "Evènman"
 
 msgid "forever"
 msgstr "repete nèt ale"
@@ -162,13 +165,13 @@ msgid "hide"
 msgstr "kache"
 
 msgid "hide list %m.list"
-msgstr ""
+msgstr "kache lis %m.list"
 
 msgid "hide variable %m.var"
-msgstr ""
+msgstr "kache varyab %m.var"
 
 msgid "if %b then"
-msgstr ""
+msgstr "si %b enben"
 
 msgid "if on edge, bounce"
 msgstr "mate si li rive sou bo a "
@@ -180,34 +183,34 @@ msgid "item %d.listItem of %m.list"
 msgstr "eleman %d.listItem nan %m.list"
 
 msgid "join %s %s"
-msgstr ""
+msgstr "mete %s %s ansanm"
 
 msgid "key %m.key pressed?"
 msgstr "touch %m.key peze?"
 
 msgid "length of %m.list"
-msgstr "longè %m.list"
+msgstr "longè mo a %m.list"
 
 msgid "length of %s"
-msgstr ""
+msgstr "longè mo a %s"
 
 msgid "letter %n of %s"
-msgstr ""
+msgstr "lèt nimewo %n pami %s"
 
 msgid "Looks"
-msgstr "aparans"
+msgstr "Aparans"
 
 msgid "loudness"
 msgstr "volim son"
 
 msgid "More Blocks"
-msgstr ""
+msgstr "Lòt blok"
 
 msgid "Motion"
 msgstr "Mouvman"
 
 msgid "mouse down?"
-msgstr ""
+msgstr "sourit peze?"
 
 msgid "mouse x"
 msgstr "souri x"
@@ -219,7 +222,6 @@ msgid "move %n steps"
 msgstr "fè %n pa devan "
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "next backdrop"
 msgstr "pwochen fon ekran"
 
@@ -230,10 +232,10 @@ msgid "not %b"
 msgstr "non %b"
 
 msgid "Operators"
-msgstr ""
+msgstr "Operasyon"
 
 msgid "Pen"
-msgstr "plim"
+msgstr "Plim"
 
 msgid "pen down"
 msgstr "bese plim la"
@@ -245,10 +247,10 @@ msgid "pick random %n to %n"
 msgstr "chwazi yon chif pa aza ant %n ak %n"
 
 msgid "play drum %d.drum for %n beats"
-msgstr ""
+msgstr "bat tanbou%d.drum pou %n frap"
 
 msgid "play note %d.note for %n beats"
-msgstr ""
+msgstr "jwe nòt %d.note pou %n frap"
 
 msgid "play sound %m.sound"
 msgstr "Jwe son %m.sound la"
@@ -272,10 +274,10 @@ msgid "replace item %d.listItem of %m.list with %s"
 msgstr "Ranplase %d.listItem nan %m.list avek %s"
 
 msgid "reset timer"
-msgstr "rekòmanse Kronomèt la"
+msgstr "rekòmanse mont la"
 
 msgid "rest for %n beats"
-msgstr ""
+msgstr "poze pou %n frap"
 
 msgid "round %n"
 msgstr "awondi %n"
@@ -287,31 +289,31 @@ msgid "say %s for %n secs"
 msgstr "di %s pandan %n segond"
 
 msgid "Sensing"
-msgstr ""
+msgstr "Detektè"
 
 msgid "sensor %m.booleanSensor?"
-msgstr ""
+msgstr "sennsò %m.booleanSensor?"
 
 msgid "set %m.effect effect to %n"
 msgstr "mete efè %m.effect a sou %n"
 
 msgid "set %m.var to %s"
-msgstr "mete %m.var sou %n"
+msgstr "mete %m.var sou %s"
 
 msgid "set instrument to %d.instrument"
-msgstr ""
+msgstr "mete enstriman an sou %d.instrument"
 
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr ""
+msgstr "mete direksyon %m.motor2 a %m.motorDirection"
 
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "mete fòs %m.motor a sou"
 
 msgid "set pen color to %c"
 msgstr "mete koulè plim la sou %c"
 
 msgid "set pen color to %n"
-msgstr "mete koulè plim la sou %c"
+msgstr "mete koulè plim la sou %n"
 
 msgid "set pen shade to %n"
 msgstr "mete entansite plim nan sou %n"
@@ -320,7 +322,7 @@ msgid "set pen size to %n"
 msgstr "mete gwosè plim la sou %n"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr ""
+msgstr "mete estil wotasyon %m.rotationStyle"
 
 msgid "set size to %n%"
 msgstr "mete gwosè a sou %n%"
@@ -329,7 +331,7 @@ msgid "set tempo to %n bpm"
 msgstr "mete tempo a sou %n bpm"
 
 msgid "set video transparency to %n%"
-msgstr ""
+msgstr "mete transparans videyo sou %n%"
 
 msgid "set volume to %n%"
 msgstr "mete volim la sou %n%"
@@ -344,10 +346,10 @@ msgid "show"
 msgstr "montre"
 
 msgid "show list %m.list"
-msgstr ""
+msgstr "montre lis %m.list"
 
 msgid "show variable %m.var"
-msgstr ""
+msgstr "montre varyab %m.var"
 
 msgid "size"
 msgstr "gwosè"
@@ -359,24 +361,24 @@ msgid "stamp"
 msgstr "mete so"
 
 msgid "stop %m.stop"
-msgstr ""
+msgstr "kanpe %m.stop"
 
 msgid "stop all sounds"
 msgstr "koupe tout son"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr ""
+msgstr "chanje fon pou %m.backdrop"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr ""
+msgstr "chanje fon pou %m.backdrop epi tann"
 
 msgid "switch costume to %m.costume"
-msgstr ""
+msgstr "chanje kostim pou %m.costume"
 
 msgid "tempo"
-msgstr "tempo"
+msgstr "tèmpo"
 
 msgid "think %s"
 msgstr "panse ak %s"
@@ -385,7 +387,7 @@ msgid "think %s for %n secs"
 msgstr "panse ak %s pandan %n segond"
 
 msgid "tilt"
-msgstr ""
+msgstr "panche"
 
 msgid "timer"
 msgstr "kronomèt"
@@ -397,28 +399,28 @@ msgid "touching color %c?"
 msgstr "ap manyen koulè %c?"
 
 msgid "turn @turnLeft %n degrees"
-msgstr ""
+msgstr "vire @turnLeft %n degre"
 
 msgid "turn @turnRight %n degrees"
-msgstr ""
+msgstr "vire @turnRight %n degre"
 
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "etenn %m.motor"
 
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "estat %m.motor"
 
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "estat %m.motor pandan %n segonn"
 
 msgid "turn video %m.videoState"
-msgstr ""
+msgstr "vire video %m.videoState"
 
 msgid "username"
-msgstr ""
+msgstr "non itilizatè"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr ""
+msgstr "videyo %m.videoMotionType sou %m.stageOrThis"
 
 msgid "volume"
 msgstr "volim"
@@ -430,41 +432,41 @@ msgid "wait until %b"
 msgstr "tann jouk %b"
 
 msgid "when %m.booleanSensor"
-msgstr ""
+msgstr "lè %m.booleanSensor"
 
 msgid "when %m.key key pressed"
-msgstr "lè yo peze touch %m.key a"
+msgstr "lè yo peze touch %m.key"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr ""
+msgstr "lè %m.sensor %m.lessMore %n"
 
 msgid "when %m.triggerSensor > %n"
-msgstr ""
+msgstr "lè %m.triggerSensor > %n"
 
 msgid "when @greenFlag clicked"
 msgstr "lè yo klike @greenFlag"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr ""
+msgstr "lè fon an chanje %m.backdrop"
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
+msgstr "lè distans %m.lessMore %n"
 
 msgid "when I receive %m.broadcast"
-msgstr ""
+msgstr "lè m resevwa %m.broadcast"
 
 msgid "when I start as a clone"
-msgstr ""
+msgstr "lè m parèt kòm marasa"
 
 msgid "when Stage clicked"
 msgstr ""
 
 msgid "when this sprite clicked"
-msgstr ""
+msgstr "lè ti tonton an klike"
 
 msgid "when tilt %m.eNe %n"
-msgstr ""
+msgstr "lè panche %m.eNe %n"
 
 msgid "x position"
 msgstr "pozisyon x"
@@ -473,29 +475,29 @@ msgid "y position"
 msgstr "pozisyon y"
 
 msgid "set motor direction %m.motorDirection"
-msgstr ""
+msgstr "mete direksyon %m.motorDirection"
 
 msgid "set motor power %n"
-msgstr ""
+msgstr "mete fòs motè a sou %n"
 
 msgid "turn motor off"
-msgstr ""
+msgstr "etenn motè"
 
 msgid "turn motor on"
-msgstr ""
+msgstr "estat motè"
 
 msgid "turn motor on for %n secs"
-msgstr ""
+msgstr "estat motè pandan %n segonn"
 
 msgid "when distance < %n"
-msgstr ""
+msgstr "lè distans < %n"
 
 msgid "when tilt = %n"
-msgstr ""
+msgstr "lè panche = %n"
 
 #: commands-online.txt:7 commands-offline.txt:7
 msgid "%m.list contains %s?"
-msgstr ""
+msgstr "%m.list sa gen %s ladan?"
 
 msgid "10 ^"
 msgstr ""
@@ -508,7 +510,7 @@ msgid ""
 msgstr ""
 
 msgid "A connected"
-msgstr ""
+msgstr "konekte A"
 
 msgid "a copy of the project file on your computer."
 msgstr ""
@@ -517,7 +519,7 @@ msgid "A newer version of Scratch is available"
 msgstr ""
 
 msgid "About"
-msgstr ""
+msgstr "Osijè"
 
 msgid "About LEGO WeDo extension..."
 msgstr ""
@@ -535,10 +537,10 @@ msgid "acos"
 msgstr ""
 
 msgid "Add"
-msgstr ""
+msgstr "Ajoute"
 
 msgid "Add an Extension"
-msgstr ""
+msgstr "Ajoute lòt moso"
 
 msgid "Add boolean input:"
 msgstr ""
@@ -562,64 +564,64 @@ msgid "all"
 msgstr "tout"
 
 msgid "All"
-msgstr ""
+msgstr "Tout"
 
 msgid "all around"
-msgstr ""
+msgstr "laviwon"
 
 msgid "all motors"
-msgstr ""
+msgstr "tout motè"
 
 msgid "Animal"
-msgstr ""
+msgstr "Zannimo"
 
 msgid "Animals"
-msgstr ""
+msgstr "Zanimo"
 
 msgid "asin"
-msgstr ""
+msgstr "sinis envès"
 
 msgid "assets loaded"
 msgstr ""
 
 msgid "atan"
-msgstr ""
+msgstr "tanjant envès"
 
 msgid "B connected"
-msgstr ""
+msgstr "konekte B"
 
 msgid "Back a layer"
 msgstr ""
 
 msgid "backdrop"
-msgstr ""
+msgstr "fon"
 
 msgid "Backdrop"
-msgstr ""
+msgstr "Fon"
 
 msgid "Backdrop Library"
 msgstr ""
 
 msgid "backdrop1"
-msgstr ""
+msgstr "fon1"
 
 msgid "backdrops"
-msgstr ""
+msgstr "fon yo"
 
 msgid "Backdrops"
-msgstr ""
+msgstr "Fon yo"
 
 msgid "Backpack"
-msgstr ""
+msgstr "Malèt"
 
 msgid "Bass"
-msgstr ""
+msgstr "Bas"
 
 msgid "Bass Drum"
-msgstr ""
+msgstr "Bas Tanbou"
 
 msgid "Bassoon"
-msgstr ""
+msgstr "Bason"
 
 msgid ""
 "Because you have a new Scratch account, any changes to cloud data won't be "
@@ -628,70 +630,70 @@ msgid ""
 msgstr ""
 
 msgid "Bitmap"
-msgstr ""
+msgstr "Tipwen tipwen"
 
 msgid "Bitmap Mode"
-msgstr ""
+msgstr "Mòd Tipwen Tipwen"
 
 msgid "Block help"
-msgstr ""
+msgstr "Èd sou blok"
 
 msgid "Bongo"
-msgstr ""
+msgstr "Bongo"
 
 msgid "brightness"
 msgstr "nivo limyè"
 
 msgid "Bring to front"
-msgstr ""
+msgstr "Mete tout devan"
 
 msgid "Broadcast"
-msgstr ""
+msgstr "Pibliye"
 
 msgid "Brush"
-msgstr ""
+msgstr "Penso"
 
 msgid "button pressed"
 msgstr "bouton peze"
 
 msgid "by"
-msgstr ""
+msgstr "ekri pa"
 
 msgid "bytes loaded"
 msgstr ""
 
 msgid "C connected"
-msgstr ""
+msgstr "konekte C"
 
 msgid "Cabasa"
 msgstr ""
 
 msgid "Camera"
-msgstr ""
+msgstr "Kamera"
 
 msgid "can drag in player:"
 msgstr ""
 
 msgid "Cancel"
-msgstr ""
+msgstr "Anile"
 
 msgid "Cannot Add"
 msgstr ""
 
 msgid "Cannot Delete"
-msgstr ""
+msgstr "Pa ka anile"
 
 msgid "Can’t find network connection or reach server."
-msgstr ""
+msgstr "Pa gen koneksyon."
 
 msgid "Castle"
-msgstr ""
+msgstr "Chato"
 
 msgid "Category"
-msgstr ""
+msgstr "Kategori"
 
 msgid "ceiling"
-msgstr ""
+msgstr "plafon"
 
 msgid "Cello"
 msgstr "Vyolonsèl"
@@ -700,25 +702,25 @@ msgid "Check for updates"
 msgstr ""
 
 msgid "Choir"
-msgstr ""
+msgstr "Koral"
 
 msgid "Choose backdrop from library"
-msgstr ""
+msgstr "Chwazi fon nan koleksyon an"
 
 msgid "Choose costume from library"
-msgstr ""
+msgstr "Chwazi degizman nan koleksyon an"
 
 msgid "Choose sound from library"
-msgstr ""
+msgstr "Chwazi son nan koleksyon an"
 
 msgid "Choose sprite from library"
-msgstr ""
+msgstr "Chwazi ti tonton nan koleksyon an"
 
 msgid "Circle"
-msgstr ""
+msgstr "Sèk"
 
 msgid "City"
-msgstr ""
+msgstr "Vil"
 
 msgid "Clarinet"
 msgstr "Klarinèt"
@@ -730,10 +732,10 @@ msgid "clean up"
 msgstr ""
 
 msgid "Clear"
-msgstr ""
+msgstr "Efase tout"
 
 msgid "clear senders/receivers"
-msgstr ""
+msgstr "efase ekspeditè/resipyandè"
 
 msgid "Click \"Save now\" to try again or \"Download\" to save"
 msgstr ""
@@ -766,16 +768,16 @@ msgid "Connecting to Cloud data server..."
 msgstr ""
 
 msgid "Convert to bitmap"
-msgstr ""
+msgstr "Konvèti an ti pwen ti pwen"
 
 msgid "Convert to vector"
-msgstr ""
+msgstr "Konvèti an liy"
 
 msgid "Converting mp3..."
-msgstr ""
+msgstr "Konvèti mp3..."
 
 msgid "copy"
-msgstr "Kopye"
+msgstr "kopye"
 
 msgid "Copying..."
 msgstr ""
@@ -784,28 +786,28 @@ msgid "cos"
 msgstr ""
 
 msgid "Costume"
-msgstr ""
+msgstr "Degizman"
 
 msgid "Costume Library"
 msgstr ""
 
 msgid "costume name"
-msgstr ""
+msgstr "non degizman"
 
 msgid "costume1"
-msgstr ""
+msgstr "degizman1"
 
 msgid "costume2"
-msgstr ""
+msgstr "degizman2"
 
 msgid "Costumes"
-msgstr ""
+msgstr "Degizman"
 
 msgid "Costumes > 1"
-msgstr ""
+msgstr "Degizman > 1"
 
 msgid "Costumes:"
-msgstr ""
+msgstr "Degizman:"
 
 msgid "Could not retrieve new application from server."
 msgstr ""
@@ -814,7 +816,7 @@ msgid "Cowbell"
 msgstr "Kloch bèf"
 
 msgid "Crash Cymbal"
-msgstr ""
+msgstr "Senbal"
 
 msgid "Creating..."
 msgstr ""
@@ -823,13 +825,13 @@ msgid "Currently, only numbers can be stored in Cloud variables."
 msgstr ""
 
 msgid "cut"
-msgstr ""
+msgstr "koupe"
 
 msgid "D connected"
-msgstr ""
+msgstr "konekte D"
 
 msgid "date"
-msgstr ""
+msgstr "jou"
 
 msgid "day of week"
 msgstr ""
@@ -838,21 +840,20 @@ msgid "delete"
 msgstr "efase"
 
 # 83%
-#, fuzzy
 msgid "Delete"
-msgstr "efase"
+msgstr "Efase"
 
 msgid "delete variable"
-msgstr ""
+msgstr "efase varyab"
 
 msgid "direction:"
-msgstr ""
+msgstr "direksyon:"
 
 msgid "don't rotate"
-msgstr ""
+msgstr "pa vire"
 
 msgid "Don't save"
-msgstr ""
+msgstr "Pa sere"
 
 msgid "down"
 msgstr "anba"
@@ -861,10 +862,10 @@ msgid "down arrow"
 msgstr "flèch anba"
 
 msgid "Download"
-msgstr ""
+msgstr "Telechaje"
 
 msgid "Download to your computer"
-msgstr ""
+msgstr "Telechaje sou òdinatè ou"
 
 msgid "Downloading new version"
 msgstr ""
@@ -873,7 +874,7 @@ msgid "duplicate"
 msgstr "kopye"
 
 msgid "Duplicate"
-msgstr "kopye"
+msgstr "Kopye"
 
 msgid "e ^"
 msgstr ""
@@ -885,19 +886,19 @@ msgid "Edit"
 msgstr "Korije"
 
 msgid "edit"
-msgstr "Korije"
+msgstr "korije"
 
 msgid "Edit Block"
 msgstr ""
 
 msgid "Effects"
-msgstr ""
+msgstr "Varyasyon son"
 
 msgid "Electric Guitar"
-msgstr ""
+msgstr "Gita elektrik"
 
 msgid "Electric Piano"
-msgstr ""
+msgstr "Pyano Elektrik"
 
 msgid "Electronic"
 msgstr ""
@@ -921,7 +922,7 @@ msgid "Error!"
 msgstr ""
 
 msgid "everything"
-msgstr ""
+msgstr "tout bagay"
 
 msgid "export"
 msgstr ""
@@ -948,7 +949,7 @@ msgid "Features"
 msgstr ""
 
 msgid "File"
-msgstr ""
+msgstr "Fichye"
 
 msgid "Fill with color"
 msgstr ""
@@ -984,7 +985,7 @@ msgid "Forward a layer"
 msgstr ""
 
 msgid "ghost"
-msgstr "Fantom"
+msgstr "fantom"
 
 msgid "Go to My Stuff"
 msgstr ""
@@ -999,7 +1000,7 @@ msgid "Guiro"
 msgstr ""
 
 msgid "Guitar"
-msgstr ""
+msgstr "Gita"
 
 msgid "Hand Clap"
 msgstr "Bravo"
@@ -1016,7 +1017,6 @@ msgstr ""
 msgid "Hmm..."
 msgstr ""
 
-#, fuzzy
 msgid "hello"
 msgstr "Vyolonsèl"
 
@@ -1033,15 +1033,14 @@ msgid "Human"
 msgstr ""
 
 # 83%
-#, fuzzy
 msgid "import"
 msgstr "enpote"
 
 msgid "Import"
-msgstr "enpote"
+msgstr "Enpote"
 
 msgid "Importing sound..."
-msgstr ""
+msgstr "Tann..."
 
 msgid "Indoors"
 msgstr ""
@@ -1080,7 +1079,6 @@ msgid "light"
 msgstr "limyè"
 
 # 83%
-#, fuzzy
 msgid "lights"
 msgstr "limyè"
 
@@ -1094,9 +1092,8 @@ msgid "Line width"
 msgstr ""
 
 # 75%
-#, fuzzy
 msgid "list"
-msgstr "dènye"
+msgstr "lis"
 
 msgid "List name"
 msgstr ""
@@ -1120,28 +1117,28 @@ msgid "Make a Block"
 msgstr ""
 
 msgid "Make a List"
-msgstr ""
+msgstr "Fe w lis"
 
 msgid "Make a Variable"
-msgstr ""
+msgstr "Fe w varyab"
 
 msgid "Marimba"
-msgstr ""
+msgstr "Marimba"
 
 msgid "Max"
 msgstr ""
 
 msgid "meow"
-msgstr ""
+msgstr "myaw"
 
 msgid "Message Name"
-msgstr ""
+msgstr "Non Mesaj"
 
 msgid "message1"
-msgstr ""
+msgstr "mesaj1"
 
 msgid "Microphone volume:"
-msgstr ""
+msgstr "Volim mikro:"
 
 msgid "Middle C"
 msgstr ""
@@ -1156,19 +1153,19 @@ msgid "month"
 msgstr ""
 
 msgid "mosaic"
-msgstr "Mozayik"
+msgstr "mozayik"
 
 msgid "motion"
-msgstr ""
+msgstr "mouvman"
 
 msgid "motor"
-msgstr ""
+msgstr "motè"
 
 msgid "motor A"
-msgstr ""
+msgstr "motè A"
 
 msgid "motor B"
-msgstr ""
+msgstr "motè B"
 
 msgid "mouse-pointer"
 msgstr "flèch souri a"
@@ -1177,7 +1174,7 @@ msgid "Multiple"
 msgstr ""
 
 msgid "Music and Dance"
-msgstr ""
+msgstr "Mizik ak Dans"
 
 msgid "Music Box"
 msgstr "bwat mizik"
@@ -1194,48 +1191,47 @@ msgstr ""
 msgid "Nature"
 msgstr ""
 
-#, fuzzy
 msgid "New"
-msgstr "Nouveau"
+msgstr "Nouvo"
 
 msgid "New backdrop from camera"
-msgstr ""
+msgstr "Nouvo fon pami foto pa ou"
 
 msgid "New backdrop:"
-msgstr ""
+msgstr "Nouvo fon:"
 
 msgid "New Block"
 msgstr ""
 
 msgid "New costume from camera"
-msgstr ""
+msgstr "Nouvo degizman soti nan kamera"
 
 msgid "New costume:"
-msgstr ""
+msgstr "Nouvo degizman:"
 
 msgid "New List"
-msgstr ""
+msgstr "Nouvo Lis"
 
 msgid "New Message"
-msgstr ""
+msgstr "Nouvo Mesaj"
 
 msgid "new message..."
 msgstr ""
 
 msgid "New name"
-msgstr ""
+msgstr "Nouvo non"
 
 msgid "New sound:"
-msgstr ""
+msgstr "Nouvo son:"
 
 msgid "New sprite from camera"
-msgstr ""
+msgstr "Nouvo ti tonton nan kamera"
 
 msgid "New sprite:"
-msgstr ""
+msgstr "Yon lòt ti tonton:"
 
 msgid "New Variable"
-msgstr ""
+msgstr "Nouvo varyab"
 
 msgid "No motion blocks"
 msgstr ""
@@ -1256,7 +1252,7 @@ msgid "of"
 msgstr ""
 
 msgid "off"
-msgstr "Off"
+msgstr "fèmen"
 
 msgid "Offline Editor"
 msgstr ""
@@ -1265,7 +1261,7 @@ msgid "OK"
 msgstr ""
 
 msgid "on"
-msgstr "On"
+msgstr "limen"
 
 msgid "on-flipped"
 msgstr ""
@@ -1283,7 +1279,7 @@ msgid "Options"
 msgstr ""
 
 msgid "Organ"
-msgstr ""
+msgstr "Òg"
 
 msgid "Other"
 msgstr ""
@@ -1298,7 +1294,7 @@ msgid "Outdoors"
 msgstr ""
 
 msgid "Paint new backdrop"
-msgstr ""
+msgstr "Desinen nouvo fon"
 
 msgid "Paint new costume"
 msgstr ""
@@ -1328,7 +1324,7 @@ msgid "photo1"
 msgstr ""
 
 msgid "Piano"
-msgstr ""
+msgstr "Pyano"
 
 msgid "Pick up color"
 msgstr ""
@@ -1337,13 +1333,13 @@ msgid "pixelate"
 msgstr ""
 
 msgid "Pizzicato"
-msgstr ""
+msgstr "Pizikato"
 
 msgid "pop"
 msgstr "pop"
 
 msgid "previous backdrop"
-msgstr ""
+msgstr "fon anvan an"
 
 msgid "Profile"
 msgstr ""
@@ -1361,13 +1357,14 @@ msgid "Project name is required"
 msgstr ""
 
 msgid "random"
-msgstr ""
+msgstr "pa aza"
 
+# For recording a sound
 msgid "Record"
 msgstr "Anrejistre"
 
 msgid "Record new sound"
-msgstr ""
+msgstr "Anrejistre nouvo son"
 
 msgid "record..."
 msgstr ""
@@ -1379,12 +1376,11 @@ msgid "Rectangle"
 msgstr ""
 
 # 75%
-#, fuzzy
 msgid "Redo"
 msgstr "Refè"
 
 msgid "redo"
-msgstr "Refè"
+msgstr "refè"
 
 msgid "Remix"
 msgstr ""
@@ -1399,7 +1395,7 @@ msgid "Rename"
 msgstr ""
 
 msgid "rename variable"
-msgstr ""
+msgstr "chanje non varyab"
 
 msgid "Replace existing project"
 msgstr ""
@@ -1411,25 +1407,26 @@ msgid "Reshape"
 msgstr ""
 
 msgid "resistance-A"
-msgstr ""
+msgstr "rezistans-A"
 
 msgid "resistance-B"
-msgstr ""
+msgstr "rezistans-B"
 
 msgid "resistance-C"
-msgstr ""
+msgstr "rezistans-C"
 
+#, fuzzy
 msgid "resistance-D"
-msgstr ""
+msgstr "rezistans-D"
 
 msgid "reverse"
-msgstr ""
+msgstr "fè bak"
 
 msgid "Revert"
-msgstr ""
+msgstr "Retounen"
 
 msgid "Reverting..."
-msgstr ""
+msgstr "Tand..."
 
 msgid "right"
 msgstr "dwat"
@@ -1456,7 +1453,7 @@ msgid "Save as a copy"
 msgstr ""
 
 msgid "Save now"
-msgstr ""
+msgstr "Sere touswit"
 
 msgid "Save project?"
 msgstr ""
@@ -1474,7 +1471,7 @@ msgid "Saving..."
 msgstr ""
 
 msgid "Saxophone"
-msgstr ""
+msgstr "Saksofòn"
 
 msgid "Scratch Updater"
 msgstr ""
@@ -1483,13 +1480,14 @@ msgid "Scratch 2.0 Offline Editor"
 msgstr ""
 
 msgid "Script"
-msgstr ""
+msgstr "Eskriptaj"
 
 msgid "Scripts"
-msgstr ""
+msgstr "Eskriptaj"
 
+#, fuzzy
 msgid "Scripts:"
-msgstr ""
+msgstr "Eskriptaj"
 
 msgid "second"
 msgstr ""
@@ -1524,16 +1522,16 @@ msgid "set slider min and max"
 msgstr ""
 
 msgid "Share"
-msgstr ""
+msgstr "Pataje"
 
 msgid "Share to website"
-msgstr ""
+msgstr "Pataje ak sit"
 
 msgid "Share to Scratch website"
 msgstr ""
 
 msgid "shared"
-msgstr ""
+msgstr "pa pou tout moun"
 
 msgid "Shift:"
 msgstr ""
@@ -1545,7 +1543,7 @@ msgid "show senders"
 msgstr ""
 
 msgid "show:"
-msgstr ""
+msgstr "montre:"
 
 msgid "Shrink"
 msgstr ""
@@ -1554,10 +1552,10 @@ msgid "Side Stick"
 msgstr ""
 
 msgid "Sign in"
-msgstr ""
+msgstr "Enskripsyon"
 
 msgid "Sign in to save"
-msgstr ""
+msgstr "Enskri pou sere"
 
 msgid "Sign out"
 msgstr ""
@@ -1566,10 +1564,10 @@ msgid "silence"
 msgstr ""
 
 msgid "sin"
-msgstr ""
+msgstr "sinis envès"
 
 msgid "slider"
-msgstr ""
+msgstr "glisè"
 
 msgid "Slider Range"
 msgstr ""
@@ -1587,18 +1585,17 @@ msgid "softer"
 msgstr ""
 
 msgid "sound"
-msgstr ""
+msgstr "son"
 
 msgid "Sound Library"
 msgstr ""
 
 msgid "Sounds"
-msgstr ""
+msgstr "Son"
 
 # 80%
-#, fuzzy
 msgid "Space"
-msgstr "espas"
+msgstr "Espas"
 
 msgid "space"
 msgstr "espas"
@@ -1607,16 +1604,16 @@ msgid "Sports"
 msgstr ""
 
 msgid "Sprite"
-msgstr ""
+msgstr "Ti tonton yo"
 
 msgid "Sprite Library"
 msgstr ""
 
 msgid "Sprite1"
-msgstr ""
+msgstr "Ti tonton yo 1"
 
 msgid "Sprites"
-msgstr ""
+msgstr "Ti tonton yo"
 
 msgid "sqrt"
 msgstr "rasin"
@@ -1625,37 +1622,37 @@ msgid "Square"
 msgstr ""
 
 msgid "Stage"
-msgstr "sèn"
+msgstr "Sèn"
 
 msgid "Stage selected:"
-msgstr ""
+msgstr "Sèn ki chwazi:"
 
 msgid "Steel Drum"
-msgstr ""
+msgstr "Tanbou Dwoum"
 
 msgid "stored on server"
 msgstr ""
 
 msgid "Synth Lead"
-msgstr ""
+msgstr "Son Metal"
 
 msgid "Synth Pad"
-msgstr ""
+msgstr "Son Metal Dous"
 
 msgid "Tambourine"
-msgstr "tanbou"
+msgstr "Tanbou"
 
 msgid "tan"
-msgstr ""
+msgstr "tanjant envès"
 
 msgid "text"
-msgstr ""
+msgstr "tèks"
 
 msgid "Text"
-msgstr ""
+msgstr "Tèks"
 
 msgid "that way"
-msgstr ""
+msgstr "lòt bò a"
 
 msgid "The name is already in use."
 msgstr ""
@@ -1666,10 +1663,10 @@ msgid ""
 msgstr ""
 
 msgid "Theme"
-msgstr ""
+msgstr "Tèm"
 
 msgid "Things"
-msgstr ""
+msgstr "Bagay"
 
 msgid "thing"
 msgstr ""
@@ -1691,16 +1688,16 @@ msgid "this script"
 msgstr ""
 
 msgid "this sprite"
-msgstr ""
+msgstr "ti tonton sa a"
 
 msgid "this way"
-msgstr ""
+msgstr "lòt bò a"
 
 msgid "Throw away all changes since opening this project?"
 msgstr ""
 
 msgid "Tips"
-msgstr ""
+msgstr "Poul"
 
 msgid "To delete a block definition, first remove all uses of the block."
 msgstr ""
@@ -1712,7 +1709,7 @@ msgid "Triangle"
 msgstr ""
 
 msgid "Trombone"
-msgstr ""
+msgstr "Twonbòn"
 
 msgid "true"
 msgstr ""
@@ -1727,35 +1724,33 @@ msgid "Type"
 msgstr ""
 
 # 75%
-#, fuzzy
 msgid "Undelete"
-msgstr "efase"
+msgstr "Efase"
 
 msgid "Underwater"
 msgstr ""
 
 msgid "undo"
-msgstr "Defèt"
+msgstr "anile"
 
 # 75%
-#, fuzzy
 msgid "Undo"
-msgstr "Defèt"
+msgstr "Anile"
 
 msgid "Undo Revert"
-msgstr ""
+msgstr "Defèt"
 
 msgid "Ungroup"
 msgstr ""
 
 msgid "unshared"
-msgstr ""
+msgstr "pa pou tout moun"
 
 msgid "up"
 msgstr "anwo"
 
 msgid "up arrow"
-msgstr "Flèch anwo"
+msgstr "flèch anwo"
 
 msgid "Update failed"
 msgstr ""
@@ -1767,34 +1762,35 @@ msgid "Update now"
 msgstr ""
 
 msgid "Upload backdrop from file"
-msgstr ""
+msgstr "Ranmase fon nan koleksyon an"
 
+#, fuzzy
 msgid "Upload costume from file"
-msgstr ""
+msgstr "Telechaje son"
 
 msgid "Upload from your computer"
-msgstr ""
+msgstr "Telechaje"
 
 msgid "Upload sound from file"
-msgstr ""
+msgstr "Telechaje son"
 
 msgid "Upload sprite from file"
-msgstr ""
+msgstr "Telechaje ti titon"
 
 msgid "Uploading image..."
-msgstr ""
+msgstr "Tan..."
 
 msgid "Uploading sound..."
-msgstr ""
+msgstr "Tan..."
 
 msgid "Uploading sprite..."
-msgstr ""
+msgstr "Tan..."
 
 msgid "variable"
-msgstr ""
+msgstr "varyab"
 
 msgid "Variable name"
-msgstr ""
+msgstr "Non varyab"
 
 msgid "Vector"
 msgstr ""
@@ -1803,19 +1799,19 @@ msgid "Vector Mode"
 msgstr ""
 
 msgid "Vibraphone"
-msgstr ""
+msgstr "Vibrafòn"
 
 msgid "Vibraslap"
 msgstr ""
 
 msgid "video direction"
-msgstr ""
+msgstr "videyo direksyon"
 
 msgid "video motion"
-msgstr ""
+msgstr "videyo mouvman"
 
 msgid "Video on:"
-msgstr ""
+msgstr "Videyo:"
 
 msgid "Vocals"
 msgstr ""
@@ -1833,19 +1829,19 @@ msgid "What's your name?"
 msgstr ""
 
 msgid "whirl"
-msgstr "Toubiyon"
+msgstr "toubiyon"
 
 msgid "Wood Block"
 msgstr ""
 
 msgid "Wooden Flute"
-msgstr ""
+msgstr "Flit bwa"
 
 msgid "world"
 msgstr ""
 
 msgid "year"
-msgstr ""
+msgstr "ane"
 
 msgid ""
 "You cannot edit cloud data in someone else's project.<br>Any change that you "
@@ -1875,7 +1871,7 @@ msgstr ""
 
 # Offline editor only
 msgid "All Tips"
-msgstr ""
+msgstr "Tout poul"
 
 # Offline editor only
 msgid ""
@@ -1949,7 +1945,7 @@ msgstr ""
 
 # Offline editor only
 msgid "Share to Scratch Website"
-msgstr ""
+msgstr "Pataje ak sit Scratch"
 
 # Offline editor only
 msgid "Success"
@@ -1974,10 +1970,6 @@ msgstr ""
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
-
-# The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "Creole"
 
 #~ msgid "forever if %b"
 #~ msgstr "repete nèt ale si %b"

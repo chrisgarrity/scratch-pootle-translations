@@ -502,7 +502,7 @@ msgid "%m.list contains %s?"
 msgstr "%m జాబితాలో %s కలిగి ఉండు"
 
 msgid "10 ^"
-msgstr ""
+msgstr "10^"
 
 msgid ""
 "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
@@ -533,10 +533,10 @@ msgid "Add"
 msgstr "జతచేయు"
 
 msgid "Add an Extension"
-msgstr "కొత్త పొడిగింపును జతచేయుము"
+msgstr "కొత్త పొడిగింపును చేర్చు"
 
 msgid "Add boolean input:"
-msgstr ""
+msgstr "బూలియన్ ఉత్పాదకం కలుపు"
 
 msgid "add comment"
 msgstr "వ్యాఖ్య వ్రాయి"
@@ -545,13 +545,13 @@ msgid "add comment here..."
 msgstr ""
 
 msgid "Add label text:"
-msgstr ""
+msgstr "చీటి వాక్యము కలుపు"
 
 msgid "Add number input:"
-msgstr ""
+msgstr "సంఖ్య ఉత్పాదకం కలుపు"
 
 msgid "Add string input:"
-msgstr ""
+msgstr "వరుస ఉత్పాదకం కలుపు"
 
 msgid "all"
 msgstr "అన్ని"

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-11-12 02:53+0000\n"
-"Last-Translator: Tiebob <tiebob@gmail.com>\n"
+"PO-Revision-Date: 2015-12-27 09:40+0000\n"
+"Last-Translator: Chun-Nan <brian030218@outlook.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
@@ -12,26 +12,26 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1447296802.000000\n"
+"X-POOTLE-MTIME: 1451209216.000000\n"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "正體中文"
 
 msgid "%b and %b"
-msgstr "%b 且 %b"
+msgstr "%b 和 %b"
 
 msgid "%b or %b"
 msgstr "%b 或 %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
-msgstr "%m.角色或舞台的 %m.attribute"
+msgstr "%m.spriteOrStage 的 %m.attribute"
 
 #~ msgid "%m.list contains %s"
 #~ msgstr "%m.list 內包含 %s"
 
 msgid "%m.mathOp of %n"
-msgstr "%n 的 %m.mathOp值"
+msgstr "%n 的 %m.mathOp"
 
 msgid "%m.sensor sensor value"
 msgstr "%m.sensor 的偵測值"
@@ -66,16 +66,16 @@ msgid "change %m.effect effect by %n"
 msgstr "將 %m.effect 特效改變 %n"
 
 msgid "change %m.var by %n"
-msgstr "將變數 %m.var 的值改變 %n"
+msgstr "將變數 %m.var 改變 %n"
 
 msgid "change pen color by %n"
-msgstr "將畫筆的顏色值改變 %n"
+msgstr "將畫筆顏色改變 %n"
 
 msgid "change pen shade by %n"
-msgstr "將畫筆的亮度改變 %n"
+msgstr "將畫筆亮度改變 %n"
 
 msgid "change pen size by %n"
-msgstr "將畫筆的大小改變 %n"
+msgstr "將畫筆大小改變 %n"
 
 msgid "change size by %n"
 msgstr "將大小改變 %n "
@@ -87,10 +87,10 @@ msgid "change volume by %n"
 msgstr "將音量改變 %n"
 
 msgid "change x by %n"
-msgstr "將x座標改變 %n"
+msgstr "將 x 座標改變 %n"
 
 msgid "change y by %n"
-msgstr "將y座標改變 %n"
+msgstr "將 y 座標改變 %n"
 
 msgid "clear"
 msgstr "清除所有筆跡"
@@ -99,7 +99,7 @@ msgid "clear graphic effects"
 msgstr "清除所有圖形特效"
 
 msgid "color %c is touching %c?"
-msgstr "顏色 %c 碰到 顏色 %c ?"
+msgstr "顏色 %c 碰到 顏色 %c？"
 
 msgid "Control"
 msgstr "控制"
@@ -117,13 +117,13 @@ msgid "Data"
 msgstr "資料"
 
 msgid "days since 2000"
-msgstr "從2000年起算的天數"
+msgstr "從西元2000年起算的天數"
 
 msgid "define"
 msgstr "定義"
 
 msgid "delete %d.listDeleteItem of %m.list"
-msgstr "將第 %d.listDeleteItem 項從 %m.list 中移除"
+msgstr "刪除 %m.list 中的 %d.listDeleteItem"
 
 msgid "delete this clone"
 msgstr "刪除這個分身"
@@ -156,7 +156,7 @@ msgid "go to %m.spriteOrMouse"
 msgstr "移到 %m.spriteOrMouse"
 
 msgid "go to front"
-msgstr "移至最上層"
+msgstr "移到最上層"
 
 msgid "go to x:%n y:%n"
 msgstr "移到 x:%n y:%n"
@@ -177,10 +177,10 @@ msgid "if on edge, bounce"
 msgstr "碰到邊緣就反彈"
 
 msgid "insert %s at %d.listItem of %m.list"
-msgstr "將 %s 加到 %m.list 的第 %d.listItem 項"
+msgstr "加入 %s 到 %m.list 中的 %d.listItem"
 
 msgid "item %d.listItem of %m.list"
-msgstr "%m.list 中的 %d.listItem "
+msgstr "%m.list 中的項目 %d.listItem"
 
 msgid "join %s %s"
 msgstr "合併 %s 和 %s"
@@ -210,13 +210,13 @@ msgid "Motion"
 msgstr "動作"
 
 msgid "mouse down?"
-msgstr "滑鼠鍵被按下了嗎 ?"
+msgstr "滑鼠鍵被按下了嗎？"
 
 msgid "mouse x"
-msgstr "滑鼠的x座標"
+msgstr "滑鼠的 x 座標"
 
 msgid "mouse y"
-msgstr "滑鼠的y座標"
+msgstr "滑鼠的 y 座標"
 
 msgid "move %n steps"
 msgstr "移動 %n 步"
@@ -254,10 +254,10 @@ msgid "play note %d.note for %n beats"
 msgstr "彈奏音符 %d.note %n 拍"
 
 msgid "play sound %m.sound"
-msgstr "播放聲音 %m.sound"
+msgstr "播放音效 %m.sound"
 
 msgid "play sound %m.sound until done"
-msgstr "播放聲音 %m.sound 直到播放完畢"
+msgstr "播放音效 %m.sound 直到播放完畢"
 
 msgid "point in direction %d.direction"
 msgstr "面向 %d.direction 方向"
@@ -272,10 +272,10 @@ msgid "repeat until %b"
 msgstr "重複執行直到 %b"
 
 msgid "replace item %d.listItem of %m.list with %s"
-msgstr "將 %m.list 的第 %d.listItem 項替換為 %s"
+msgstr "替換 %m.list 中的項目 %d.listItem 為 %s"
 
 msgid "reset timer"
-msgstr "計時器歸零"
+msgstr "重設計時器"
 
 msgid "rest for %n beats"
 msgstr "休息 %n 拍"
@@ -293,13 +293,13 @@ msgid "Sensing"
 msgstr "偵測"
 
 msgid "sensor %m.booleanSensor?"
-msgstr "偵測器 %m.booleanSensor ?"
+msgstr "偵測器 %m.booleanSensor？"
 
 msgid "set %m.effect effect to %n"
-msgstr "將 %m.effect 特效設定為 %n"
+msgstr "設定 %m.effect 特效為 %n"
 
 msgid "set %m.var to %s"
-msgstr "將變數 %m.var 的值設為 %s"
+msgstr "設定變數 %m.var 為 %s"
 
 msgid "set instrument to %d.instrument"
 msgstr "設定樂器為 %d.instrument"
@@ -308,45 +308,45 @@ msgstr "設定樂器為 %d.instrument"
 # 86%
 # 97%
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "設定 %m.motor2運轉方向 %m.motor"
+msgstr "設定 %m.motor2 運轉方向為 %m.motor"
 
 # 77%
 # 75%
 msgid "set %m.motor power to %n"
-msgstr "設定 %m.motor 動力 %n"
+msgstr "設定 %m.motor 動力為 %n"
 
 msgid "set pen color to %c"
-msgstr "將畫筆顏色設定為 %c"
+msgstr "設定畫筆顏色為 %c"
 
 msgid "set pen color to %n"
-msgstr "將畫筆顏色設定為 %n"
+msgstr "設定畫筆顏色為 %n"
 
 msgid "set pen shade to %n"
-msgstr "將畫筆亮度設為 %n"
+msgstr "設定畫筆亮度為 %n"
 
 msgid "set pen size to %n"
-msgstr "將畫筆大小設為 %n"
+msgstr "設定畫筆大小為 %n"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr "將旋轉方式設為 %m.rotationStyle"
+msgstr "設定旋轉方式為 %m.rotationStyle"
 
 msgid "set size to %n%"
-msgstr "將大小設定為 %n ％"
+msgstr "設定大小為 %n％"
 
 msgid "set tempo to %n bpm"
-msgstr "將節奏設定為 %n 拍/分鐘"
+msgstr "設定節奏為 %n bpm"
 
 msgid "set video transparency to %n%"
-msgstr "將視訊的透明度設定為 %n%"
+msgstr "設定視訊透明度為 %n%"
 
 msgid "set volume to %n%"
-msgstr "將音量設定為 %n%"
+msgstr "設定音量為 %n%"
 
 msgid "set x to %n"
-msgstr "將x座標設定為 %n"
+msgstr "設定 x 座標為 %n"
 
 msgid "set y to %n"
-msgstr "將y座標設定為 %n"
+msgstr "設定 y 座標為 %n"
 
 msgid "show"
 msgstr "顯示"
@@ -361,7 +361,7 @@ msgid "size"
 msgstr "大小"
 
 msgid "Sound"
-msgstr "聲音"
+msgstr "音效"
 
 msgid "stamp"
 msgstr "蓋章"
@@ -370,18 +370,18 @@ msgid "stop %m.stop"
 msgstr "停止 %m.stop"
 
 msgid "stop all sounds"
-msgstr "停止所有聲音"
+msgstr "停止所有音效"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr "將背景設定為  %m.backdrop"
+msgstr "切換背景到  %m.backdrop"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr "將背景設定為 %m.backdrop 然後等待"
+msgstr "切換背景到 %m.backdrop 並等待"
 
 msgid "switch costume to %m.costume"
-msgstr "將造型設定為 %m.costume"
+msgstr "切換造型到 %m.costume"
 
 msgid "tempo"
 msgstr "節奏"
@@ -399,16 +399,16 @@ msgid "timer"
 msgstr "計時器"
 
 msgid "touching %m.touching?"
-msgstr "碰到 %m.touching ?"
+msgstr "碰到 %m.touching？"
 
 msgid "touching color %c?"
-msgstr "碰到顏色 %c ?"
+msgstr "碰到顏色 %c？"
 
 msgid "turn @turnLeft %n degrees"
-msgstr "將 @turnLeft 轉 %n 度"
+msgstr "向 @turnLeft 旋轉 %n 度"
 
 msgid "turn @turnRight %n degrees"
-msgstr "將 @turnRight 轉 %n 度"
+msgstr "向 @turnRight 旋轉 %n 度"
 
 # 82%
 msgid "turn %m.motor off"
@@ -421,7 +421,7 @@ msgstr "啟動 %m.motor"
 # 80%
 # 89%
 msgid "turn %m.motor on for %n secs"
-msgstr "啟動 %m.motor 運轉 %n 秒"
+msgstr "開啟 %m.motor 運轉 %n 秒"
 
 msgid "turn video %m.videoState"
 msgstr "將視訊設定為 %m.videoState "
@@ -443,13 +443,13 @@ msgstr "等待 %b "
 
 # 75%
 msgid "when %m.booleanSensor"
-msgstr "當偵測器 %m.booleanSensor"
+msgstr "當 %m.booleanSensor"
 
 msgid "when %m.key key pressed"
 msgstr "當按下 %m.key 鍵"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr "當%m.sensor %m.lessMore %n"
+msgstr "當 %m.sensor %m.lessMore %n"
 
 msgid "when %m.triggerSensor > %n"
 msgstr "當 %m.triggerSensor > %n"
@@ -459,25 +459,25 @@ msgstr "當 @greenFlag 被點一下"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr "當背景切換為 %m.backdrop"
+msgstr "當背景切換到 %m.backdrop"
 
 msgid "when distance %m.lessMore %n"
-msgstr "當距離%m.lessMore %n"
+msgstr "當距離 %m.lessMore %n"
 
 msgid "when I receive %m.broadcast"
 msgstr "當我接收到 %m.broadcast"
 
 msgid "when I start as a clone"
-msgstr "當分身產生時"
+msgstr "當分身產生"
 
 #~ msgid "when Stage clicked"
 #~ msgstr "當舞臺被點一下"
 
 msgid "when this sprite clicked"
-msgstr "當角色被點一下"
+msgstr "當角色被點擊"
 
 msgid "when tilt %m.eNe %n"
-msgstr "當傾斜%m.eNe %n"
+msgstr "當傾斜 %m.eNe %n"
 
 msgid "x position"
 msgstr "x 座標"
@@ -541,4 +541,4 @@ msgstr "y 座標"
 #: commands-online.txt:7
 #: commands-offline.txt:7
 msgid "%m.list contains %s?"
-msgstr "%m.list 內包含 %s ?"
+msgstr "%m.list 中包含 %s？"

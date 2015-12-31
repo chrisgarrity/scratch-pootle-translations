@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2013-05-06 19:31+0000\n"
-"Last-Translator: Stefan Einar <stefaneinar@gmail.com>\n"
+"PO-Revision-Date: 2015-12-31 03:44+0000\n"
+"Last-Translator: dadiss <dadiss@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: is\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1367868698.000000\n"
+"X-POOTLE-MTIME: 1451533487.000000\n"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
@@ -34,7 +34,7 @@ msgid "%m.mathOp of %n"
 msgstr "%m.mathOp af %n"
 
 msgid "%m.sensor sensor value"
-msgstr "%m.sensor mælist"
+msgstr "%m.sensor mæligildi"
 
 msgid "%n mod %n"
 msgstr "%n mod %n"
@@ -307,15 +307,13 @@ msgstr "hljóðfæri verður %d.instrument"
 # 89%
 # 86%
 # 97%
-#, fuzzy
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "hreyfill stefnir %m.motorDirection"
+msgstr "hreyfill %m.motor2 stefnir %m.motorDirection"
 
 # 77%
 # 75%
-#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "afl hreyfils verður %n"
+msgstr "afl hreyfilsins %m.motor verður %n"
 
 msgid "set pen color to %c"
 msgstr "litur penna verður %c"
@@ -413,20 +411,17 @@ msgid "turn @turnRight %n degrees"
 msgstr "snúa @turnRight um %n gráður"
 
 # 82%
-#, fuzzy
 msgid "turn %m.motor off"
-msgstr "slökkva á hreyfil"
+msgstr "slökkva á hreyfli %m.motor off"
 
 # 81%
-#, fuzzy
 msgid "turn %m.motor on"
-msgstr "kveikja á hreyfli"
+msgstr "kveikja á hreyflinum %m.motor"
 
 # 80%
 # 89%
-#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr "hreyfill gengur í %n sek"
+msgstr "hreyfill %m.motor gengur í %n sek"
 
 msgid "turn video %m.videoState"
 msgstr "snúa hreyfimynd %m.videoState"
@@ -455,7 +450,7 @@ msgid "when %m.key key pressed"
 msgstr "þegar ýtt er á %m.key"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr ""
+msgstr "þegar %m.sensor %m.lessMore %n"
 
 msgid "when %m.triggerSensor > %n"
 msgstr "þegar %m.triggerSensor > %n"
@@ -468,7 +463,7 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "þegar bakgrunnur verður %m.backdrop"
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
+msgstr "þegar fjarlægð %m.lessMore %n"
 
 msgid "when I receive %m.broadcast"
 msgstr "þegar ég tek á móti %m.broadcast"
@@ -483,7 +478,7 @@ msgid "when this sprite clicked"
 msgstr "þegar teikningin fær smell"
 
 msgid "when tilt %m.eNe %n"
-msgstr ""
+msgstr "when halli %m.eNe %n"
 
 msgid "x position"
 msgstr "x hnit"
@@ -571,6 +566,5 @@ msgstr "y hnit"
 
 #: commands-online.txt:7
 #: commands-offline.txt:7
-#, fuzzy
 msgid "%m.list contains %s?"
-msgstr "%m.list inniheldur %s"
+msgstr "%m.list inniheldur %s?"

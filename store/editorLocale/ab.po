@@ -1062,7 +1062,7 @@ msgid "motion"
 msgstr "аиҭаҵра"
 
 msgid "mouse-pointer"
-msgstr "ахәына арбага"
+msgstr "аҳәынаҧ арбага"
 
 msgid "Multiple"
 msgstr "Ишьҭыхтәуп"

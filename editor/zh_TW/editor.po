@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-12-13 02:52+0000\n"
-"Last-Translator: Natalie <nrusk@media.mit.edu>\n"
+"PO-Revision-Date: 2015-12-27 13:50+0000\n"
+"Last-Translator: Chun-Nan <brian030218@outlook.com>\n"
 "Language-Team: Chinese (traditional)  <zh-l10n@lists.linux.org.tw>\n"
 "Language: zh_TW\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1449975149.000000\n"
+"X-POOTLE-MTIME: 1451224228.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -24,17 +24,17 @@ msgid ""
 "removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank"
 "\">see the cloud data FAQ!</a>"
 msgstr ""
-"<b>關於雲端變數的資訊</b><br>&nbsp;<br>目前只支援使用數字<br>無法使用聊天室，並且會被刪除。<br>更多相關資訊，<a href="
-"\"/help/faq/#clouddata\" target=\"_blank\">請參考雲端資料FAQ!</a>"
+"<b>關於雲端變數的資訊</b><br>&nbsp;<br>目前只支援使用數字<br>無法使用聊天室，並且會被移除。<br>了解更多資訊，<a href="
+"\"/help/faq/#clouddata\" target=\"_blank\">請參考雲端資料FAQ！</a>"
 
 msgid "A connected"
 msgstr "A 已連接"
 
 msgid "a copy of the project file on your computer."
-msgstr "已經有專案的副本在你的電腦上"
+msgstr "有一個專案的副本存在您的電腦上。"
 
 msgid "A newer version of Scratch is available"
-msgstr "已經有更新版本的 Scratch"
+msgstr "已有新版本的 Scratch 可用"
 
 msgid "About"
 msgstr "關於"
@@ -46,7 +46,7 @@ msgstr "關於"
 #~ msgstr "關於 PicoBoard 擴充功能…"
 
 msgid "abs"
-msgstr "絕對值"
+msgstr "abs"
 
 #~ msgid "Account settings"
 #~ msgstr "用戶設定"
@@ -70,22 +70,22 @@ msgstr "新增註解"
 #~ msgstr "在這裡新增註解…"
 
 msgid "Add label text:"
-msgstr "新增文字標籤"
+msgstr "新增文字標籤："
 
 msgid "Add number input:"
-msgstr "新增數字輸入"
+msgstr "新增數字輸入："
 
 msgid "Add string input:"
-msgstr "新增字串輸入"
+msgstr "新增字串輸入："
 
 msgid "all"
-msgstr "所有的"
+msgstr "全部"
 
 msgid "All"
 msgstr "全部"
 
 msgid "all around"
-msgstr "各地"
+msgstr "不設限"
 
 #~ msgid "all motors"
 #~ msgstr "所有馬達"
@@ -100,7 +100,7 @@ msgid "asin"
 msgstr "asin"
 
 msgid "assets loaded"
-msgstr "已載入資源"
+msgstr "個資源已載入"
 
 msgid "atan"
 msgstr "atan"
@@ -151,16 +151,16 @@ msgid ""
 "Because you have a new Scratch account, any changes to cloud data won't be "
 "saved yet. Keep participating on the site you'll be able to use cloud data "
 "soon!"
-msgstr "因為您有了新的 Scratch 帳號，任何雲端資料的變更尚未儲存。請持續留在網站上，您很快就能夠使用雲端資料！"
+msgstr "由於您有了新的 Scratch 帳號，任何雲端資料的變更並未儲存。請繼續留在網站上，您很快就能夠使用雲端資料了！"
 
 msgid "Bitmap"
-msgstr "點矩陣圖"
+msgstr "點陣圖"
 
 msgid "Bitmap Mode"
-msgstr "點矩陣圖模式"
+msgstr "點陣圖模式"
 
 msgid "Block help"
-msgstr "指令積木說明"
+msgstr "積木說明"
 
 msgid "Bongo"
 msgstr "邦加鼓"
@@ -169,22 +169,22 @@ msgid "brightness"
 msgstr "亮度"
 
 msgid "Bring to front"
-msgstr "帶到前面"
+msgstr "移到最上層"
 
 msgid "Broadcast"
 msgstr "廣播"
 
 msgid "Brush"
-msgstr "刷"
+msgstr "畫筆"
 
 msgid "button pressed"
-msgstr "按鈕按下"
+msgstr "按鈕已按下"
 
 msgid "by"
 msgstr "由"
 
 msgid "bytes loaded"
-msgstr "已載入位元組"
+msgstr "位元組已載入"
 
 msgid "C connected"
 msgstr "C 已連接"
@@ -193,10 +193,10 @@ msgid "Cabasa"
 msgstr "抓筒"
 
 msgid "Camera"
-msgstr "照相機"
+msgstr "相機"
 
 msgid "can drag in player:"
-msgstr "在播放器中拖移"
+msgstr "可在播放器中拖移："
 
 msgid "Cancel"
 msgstr "取消"
@@ -208,7 +208,7 @@ msgid "Cannot Delete"
 msgstr "無法刪除"
 
 msgid "Can’t find network connection or reach server."
-msgstr "無法連上網路或無法連上伺服器"
+msgstr "無法連線到網路或伺服器。"
 
 msgid "Castle"
 msgstr "城堡"
@@ -217,7 +217,7 @@ msgid "Category"
 msgstr "分類"
 
 msgid "ceiling"
-msgstr "天花板"
+msgstr "ceiling"
 
 msgid "Cello"
 msgstr "大提琴 "
@@ -229,19 +229,19 @@ msgid "Choir"
 msgstr "合唱"
 
 msgid "Choose backdrop from library"
-msgstr "選擇背景"
+msgstr "從範例庫中選擇背景"
 
 msgid "Choose costume from library"
-msgstr "從造型庫中選擇裝扮"
+msgstr "從範例庫中選擇造型"
 
 msgid "Choose sound from library"
-msgstr "選擇聲音"
+msgstr "從範例庫中選擇音效"
 
 msgid "Choose sprite from library"
-msgstr "從角色倉庫中選擇裝扮"
+msgstr "從範例庫中選擇角色"
 
 msgid "Circle"
-msgstr "圓"
+msgstr "圓圈"
 
 msgid "City"
 msgstr "城市"
@@ -262,7 +262,7 @@ msgid "clear senders/receivers"
 msgstr "清除發送者/接收者"
 
 msgid "Click \"Save now\" to try again or \"Download\" to save"
-msgstr "點選\"立即儲存\"以重試或\"下載\"以儲存"
+msgstr "點擊「立即儲存」以重試或點擊「下載」以儲存"
 
 msgid "Close"
 msgstr "結束"
@@ -289,7 +289,7 @@ msgid "Conga"
 msgstr "康加鼓"
 
 msgid "Connecting to Cloud data server..."
-msgstr "連接雲端資料伺服器之中...."
+msgstr "正在連線到伺服器…"
 
 msgid "Convert to bitmap"
 msgstr "轉換成點陣圖"
@@ -298,13 +298,13 @@ msgid "Convert to vector"
 msgstr "轉換成向量圖"
 
 msgid "Converting mp3..."
-msgstr "正在轉mp3檔..."
+msgstr "正在轉換mp3檔…"
 
 msgid "copy"
 msgstr "複製"
 
 msgid "Copying..."
-msgstr "複製中..."
+msgstr "正在複製…"
 
 msgid "cos"
 msgstr "cos"
@@ -316,7 +316,7 @@ msgid "costume #"
 msgstr "造型編號"
 
 msgid "Costume Library"
-msgstr "造型庫"
+msgstr "造型範例庫"
 
 msgid "costume name"
 msgstr "造型名稱"
@@ -337,7 +337,7 @@ msgstr "造型 > 1"
 #~ msgstr "造型："
 
 msgid "Could not retrieve new application from server."
-msgstr "無法從伺服器接收新應用程式。"
+msgstr "無法從伺服器取得新應用程式。"
 
 msgid "Cowbell"
 msgstr "牛鈴"
@@ -346,7 +346,7 @@ msgid "Crash Cymbal"
 msgstr "碎音鈸"
 
 msgid "Creating..."
-msgstr "創建中..."
+msgstr "正在建立…"
 
 msgid "Currently, only numbers can be stored in Cloud variables."
 msgstr "目前，雲端變數只能儲存數字"
@@ -361,7 +361,7 @@ msgid "date"
 msgstr "日期"
 
 msgid "day of week"
-msgstr "星期幾"
+msgstr "星期"
 
 msgid "delete"
 msgstr "刪除"
@@ -377,10 +377,10 @@ msgid "direction"
 msgstr "方向"
 
 msgid "direction:"
-msgstr "方向"
+msgstr "方向："
 
 msgid "don't rotate"
-msgstr "不要旋轉"
+msgstr "不旋轉"
 
 msgid "Don't save"
 msgstr "不要儲存"
@@ -389,13 +389,13 @@ msgid "down"
 msgstr "下"
 
 msgid "down arrow"
-msgstr "下移鍵"
+msgstr "向下鍵"
 
 msgid "Download"
 msgstr "下載"
 
 msgid "Download to your computer"
-msgstr "下載到你的電腦"
+msgstr "下載到您的電腦"
 
 #~ msgid "Downloading new version"
 #~ msgstr "正在下載更新版本"
@@ -419,7 +419,7 @@ msgid "edit"
 msgstr "編輯"
 
 msgid "Edit Block"
-msgstr "編輯區塊"
+msgstr "編輯積木"
 
 msgid "Effects"
 msgstr "效果"
@@ -434,7 +434,7 @@ msgid "Electronic"
 msgstr "電子"
 
 msgid "Ellipse"
-msgstr "橢圓"
+msgstr "橢圓形"
 
 #~ msgid "empty"
 #~ msgstr "空白"
@@ -483,7 +483,7 @@ msgid "File"
 msgstr "檔案"
 
 msgid "Fill with color"
-msgstr "以顏色填滿"
+msgstr "填滿顏色"
 
 msgid "fisheye"
 msgstr "魚眼"
@@ -495,7 +495,7 @@ msgid "Flip up-down"
 msgstr "上下翻動"
 
 msgid "floor"
-msgstr "地板"
+msgstr "floor"
 
 msgid "Flute"
 msgstr "長笛"
@@ -510,10 +510,10 @@ msgid "For all sprites"
 msgstr "適用所有的角色"
 
 msgid "For this sprite only"
-msgstr "僅適用本角色"
+msgstr "僅適用這個角色"
 
 msgid "Forward a layer"
-msgstr "往前一層"
+msgstr "上移一層"
 
 msgid "ghost"
 msgstr "鬼"
@@ -564,7 +564,7 @@ msgid "hour"
 msgstr "小時"
 
 msgid "Human"
-msgstr "人"
+msgstr "人類"
 
 # 83%
 msgid "import"
@@ -574,13 +574,13 @@ msgid "Import"
 msgstr "匯入"
 
 msgid "Importing sound..."
-msgstr "匯入聲音..."
+msgstr "正在匯入音效…"
 
 msgid "Indoors"
 msgstr "室內"
 
 msgid "Installing..."
-msgstr "安裝中..."
+msgstr "正在安裝…"
 
 msgid "Instruments"
 msgstr "樂器"
@@ -595,7 +595,7 @@ msgid "left"
 msgstr "左"
 
 msgid "left arrow"
-msgstr "左移鍵"
+msgstr "向左鍵"
 
 msgid "left-right"
 msgstr "左-右"
@@ -607,7 +607,7 @@ msgid "Letters"
 msgstr "字母"
 
 msgid "Library"
-msgstr "庫"
+msgstr "範例庫"
 
 msgid "light"
 msgstr "光線"
@@ -620,7 +620,7 @@ msgstr "光線"
 #~ msgstr "抵達限制"
 
 msgid "Line"
-msgstr "線"
+msgstr "線條"
 
 # 90%
 msgid "Line width"
@@ -634,10 +634,10 @@ msgid "List name"
 msgstr "列表名稱"
 
 msgid "ln"
-msgstr "在"
+msgstr "ln"
 
 msgid "Loading project..."
-msgstr "專案載入中..."
+msgstr "正在載入專案…"
 
 msgid "log"
 msgstr "log"
@@ -652,13 +652,13 @@ msgid "Low C"
 msgstr "低音 C"
 
 msgid "Make a Block"
-msgstr "做一個區塊"
+msgstr "製做一個積木"
 
 msgid "Make a List"
-msgstr "做一個清單"
+msgstr "製做一個清單"
 
 msgid "Make a Variable"
-msgstr "做一個變數"
+msgstr "製做一個變數"
 
 msgid "Marimba"
 msgstr "立奏木琴"
@@ -667,7 +667,7 @@ msgid "Max"
 msgstr "最大值"
 
 msgid "meow"
-msgstr "喵"
+msgstr "meow"
 
 msgid "Message Name"
 msgstr "訊息名稱"
@@ -688,7 +688,7 @@ msgid "minute"
 msgstr "分鐘"
 
 msgid "month"
-msgstr "月"
+msgstr "月份"
 
 msgid "mosaic"
 msgstr "馬賽克"
@@ -709,7 +709,7 @@ msgid "mouse-pointer"
 msgstr "滑鼠游標"
 
 msgid "Multiple"
-msgstr "多重的"
+msgstr "多重"
 
 msgid "Music and Dance"
 msgstr "音樂和舞蹈"
@@ -730,19 +730,19 @@ msgid "Nature"
 msgstr "自然"
 
 msgid "New"
-msgstr "新"
+msgstr "新建"
 
 msgid "New backdrop from camera"
-msgstr "從相機擷取新背景"
+msgstr "從相機拍攝新背景"
 
 msgid "New backdrop:"
 msgstr "新背景："
 
 msgid "New Block"
-msgstr "新區塊"
+msgstr "新積木"
 
 msgid "New costume from camera"
-msgstr "從相機擷取新造型"
+msgstr "從相機拍攝新造型"
 
 msgid "New costume:"
 msgstr "新造型："
@@ -754,7 +754,7 @@ msgid "New Message"
 msgstr "新訊息"
 
 msgid "new message..."
-msgstr "新訊息..."
+msgstr "新訊息…"
 
 msgid "New name"
 msgstr "新名字："
@@ -763,7 +763,7 @@ msgid "New sound:"
 msgstr "新增音效"
 
 msgid "New sprite from camera"
-msgstr "從相機擷取新角色"
+msgstr "從相機拍攝新角色"
 
 msgid "New sprite:"
 msgstr "新增角色："
@@ -775,25 +775,25 @@ msgid "next backdrop"
 msgstr "下一個背景"
 
 msgid "No motion blocks"
-msgstr "無動作積木"
+msgstr "沒有「動作」積木"
 
 msgid "normal readout"
-msgstr "一般顯示"
+msgstr "正常顯示"
 
 #~ msgid "not ="
 #~ msgstr "不等於"
 
 msgid "Not saved; network or server problem."
-msgstr "無法儲存，網路或伺服器出現問題。"
+msgstr "尚未儲存，網路或伺服器發生問題。"
 
 msgid "Not saved; project did not load."
 msgstr "尚未儲存；專案尚未載入。"
 
 msgid "of"
-msgstr "的"
+msgstr "之"
 
 msgid "off"
-msgstr "關"
+msgstr "關閉"
 
 msgid "Offline Editor"
 msgstr "離線編輯器"
@@ -802,7 +802,7 @@ msgid "OK"
 msgstr "確定"
 
 msgid "on"
-msgstr "開"
+msgstr "開啟"
 
 msgid "on-flipped"
 msgstr "翻轉"
@@ -877,10 +877,10 @@ msgid "Pizzicato"
 msgstr "撥奏"
 
 msgid "pop"
-msgstr "Pop聲"
+msgstr "pop"
 
 msgid "previous backdrop"
-msgstr "切換到前一個背景"
+msgstr "上一個背景"
 
 #~ msgid "Profile"
 #~ msgstr "基本資料"
@@ -889,7 +889,7 @@ msgid "Project did not load."
 msgstr "專案並未載入。"
 
 msgid "Project not saved!"
-msgstr "專案未儲存"
+msgstr "專案尚未儲存！"
 
 msgid "Project name"
 msgstr "專案名稱"
@@ -923,10 +923,10 @@ msgid "redo"
 msgstr "重做"
 
 msgid "Remix"
-msgstr "改編"
+msgstr "融合"
 
 msgid "Remixing..."
-msgstr "改編中..."
+msgstr "正在融合…"
 
 #~ msgid "Remove extension blocks"
 #~ msgstr "移除擴充功能積木"
@@ -947,31 +947,31 @@ msgid "Reshape"
 msgstr "重新塑形"
 
 msgid "resistance-A"
-msgstr "電阻-A"
+msgstr "電阻 A"
 
 msgid "resistance-B"
-msgstr "電阻-B"
+msgstr "電阻 B"
 
 msgid "resistance-C"
-msgstr "電阻-C"
+msgstr "電阻 C"
 
 msgid "resistance-D"
-msgstr "電阻-D"
+msgstr "電阻 D"
 
 msgid "reverse"
 msgstr "反轉"
 
 msgid "Revert"
-msgstr "回到上一步"
+msgstr "復原"
 
 msgid "Reverting..."
-msgstr "回到上一步..."
+msgstr "正在復原…"
 
 msgid "right"
 msgstr "右"
 
 msgid "right arrow"
-msgstr "右移鍵"
+msgstr "向右鍵"
 
 msgid "rotation style:"
 msgstr "旋轉方式："
@@ -983,10 +983,10 @@ msgid "Save"
 msgstr "儲存"
 
 msgid "Save a copy of this project and add your own ideas."
-msgstr "儲存成這份專案的副本且加入你的主意"
+msgstr "儲存此專案的副本並加入您的點子。"
 
 msgid "Save as"
-msgstr "另存為…"
+msgstr "另存新檔"
 
 #~ msgid "Save as a copy"
 #~ msgstr "儲存成副本"
@@ -995,25 +995,25 @@ msgid "Save now"
 msgstr "儲存"
 
 msgid "Save project?"
-msgstr "要儲存專案嗎？"
+msgstr "是否儲存專案？"
 
 msgid "save to local file"
-msgstr "存檔到電腦"
+msgstr "儲存到電腦"
 
 msgid "Saved"
 msgstr "已儲存"
 
 msgid "Saving changes..."
-msgstr "正在儲存變更..."
+msgstr "正在儲存變更…"
 
 msgid "Saving..."
-msgstr "儲存中..."
+msgstr "正在儲存…"
 
 msgid "Saxophone"
 msgstr "薩克斯風"
 
 msgid "Scratch Updater"
-msgstr "Scratch 更新程式"
+msgstr "Scratch 更新管理器"
 
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "Scratch 2.0 離線編輯器"
@@ -1048,7 +1048,7 @@ msgid "Select and duplicate"
 msgstr "選擇並複製"
 
 msgid "Send to back"
-msgstr "移至最下層。"
+msgstr "移到最下層"
 
 msgid "Set Costume Center"
 msgstr "設定造型中心"
@@ -1084,7 +1084,7 @@ msgid "show senders"
 msgstr "顯示傳送者"
 
 msgid "show:"
-msgstr "顯示"
+msgstr "顯示："
 
 msgid "Shrink"
 msgstr "縮小"
@@ -1117,7 +1117,7 @@ msgid "Slider Range"
 msgstr "滑桿數值區域"
 
 msgid "Small stage layout"
-msgstr "小舞臺佈置"
+msgstr "小舞臺版面"
 
 msgid "Smooth"
 msgstr "平滑的"
@@ -1129,20 +1129,20 @@ msgid "softer"
 msgstr "柔和"
 
 msgid "sound"
-msgstr "聲音"
+msgstr "音效"
 
 msgid "Sound"
-msgstr "聲音"
+msgstr "音效"
 
 msgid "Sound Library"
-msgstr "音效庫"
+msgstr "音效範例庫"
 
 msgid "Sounds"
 msgstr "音效"
 
 # 80%
 msgid "Space"
-msgstr "空白鍵"
+msgstr "空間"
 
 msgid "space"
 msgstr "空白鍵"
@@ -1155,7 +1155,7 @@ msgid "Sprite"
 msgstr "角色"
 
 msgid "Sprite Library"
-msgstr "角色庫"
+msgstr "角色範例庫"
 
 # 85%
 msgid "Sprite1"
@@ -1165,7 +1165,7 @@ msgid "Sprites"
 msgstr "角色"
 
 msgid "sqrt"
-msgstr "平方根"
+msgstr "sqrt"
 
 msgid "Square"
 msgstr "正方形"
@@ -1174,7 +1174,7 @@ msgid "Stage"
 msgstr "舞台"
 
 msgid "Stage selected:"
-msgstr "已選擇舞台"
+msgstr "已選擇的舞台："
 
 msgid "Steel Drum"
 msgstr "鋼鼓"
@@ -1201,7 +1201,7 @@ msgid "Text"
 msgstr "文字"
 
 msgid "that way"
-msgstr "方向"
+msgstr "向左轉"
 
 #~ msgid "The name is already in use."
 #~ msgstr "這個名稱已被使用。"
@@ -1221,17 +1221,17 @@ msgstr "物品"
 #~ msgstr "物品"
 
 msgid "This is the current version."
-msgstr "已經是最新版本。"
+msgstr "這是最新的版本。"
 
 msgid ""
 "This project can detect who is using it, through the “username” block. To "
 "hide your identity, sign out before using the project."
-msgstr "這個專案使用了「帳戶名稱」積木，可以偵測誰正在使用此專案。想要隱藏你的身份的話，先登出再使用即可。"
+msgstr "此專案包含「帳戶名稱」積木，可以偵測出誰正在使用此專案。想要隱藏您的身份的話，先登出再使用即可。"
 
 msgid ""
 "This project uses Cloud data ‒ a feature that is available only to signed in "
 "users."
-msgstr "這個專案使用「雲端資料」 --  只有已登入使用者才可以使用此功能。 "
+msgstr "這個專案使用「雲端資料」- 只有已登入使用者才能使用此功能。 "
 
 msgid "this script"
 msgstr "這個程式"
@@ -1240,16 +1240,16 @@ msgid "this sprite"
 msgstr "這個角色"
 
 msgid "this way"
-msgstr "這個方向"
+msgstr "向右轉"
 
 msgid "Throw away all changes since opening this project?"
-msgstr "確定要放棄儲存所有改變嗎？"
+msgstr "確定要放棄對這個專案的任何變更嗎？"
 
 msgid "timer"
 msgstr "計時器"
 
 msgid "Tips"
-msgstr "秘訣"
+msgstr "技巧"
 
 msgid "To delete a block definition, first remove all uses of the block."
 msgstr "刪除某個積木的定義之前，要先移除所有使用中的那個積木。"
@@ -1280,17 +1280,17 @@ msgid "Undelete"
 msgstr "取消刪除"
 
 msgid "Underwater"
-msgstr "水下"
+msgstr "水底"
 
 msgid "undo"
-msgstr "復原"
+msgstr "取消"
 
 # 75%
 msgid "Undo"
-msgstr "復原"
+msgstr "取消"
 
 msgid "Undo Revert"
-msgstr "解除「復原到上一步」"
+msgstr "取消復原"
 
 msgid "Ungroup"
 msgstr "解散群組"
@@ -1302,13 +1302,13 @@ msgid "up"
 msgstr "上"
 
 msgid "up arrow"
-msgstr "上移鍵"
+msgstr "向上鍵"
 
 msgid "Update failed"
 msgstr "更新失敗"
 
 msgid "Update not needed"
-msgstr "不需更新"
+msgstr "不需要更新"
 
 msgid "Update now"
 msgstr "立即更新"
@@ -1329,13 +1329,13 @@ msgid "Upload sprite from file"
 msgstr "上傳角色檔案"
 
 msgid "Uploading image..."
-msgstr "正在上傳圖檔..."
+msgstr "正在上傳圖檔…"
 
 msgid "Uploading sound..."
-msgstr "正在上傳音效檔..."
+msgstr "正在上傳音效檔…"
 
 msgid "Uploading sprite..."
-msgstr "正在上傳角色檔..."
+msgstr "正在上傳角色檔…"
 
 msgid "variable"
 msgstr "變數"
@@ -1344,7 +1344,7 @@ msgid "Variable name"
 msgstr "變數名稱"
 
 msgid "Vector"
-msgstr "向量"
+msgstr "向量圖"
 
 msgid "Vector Mode"
 msgstr "向量模式"
@@ -1374,10 +1374,10 @@ msgid "Walking"
 msgstr "步行"
 
 msgid "Want to save? Click remix"
-msgstr "要儲存嗎？點選改編"
+msgstr "要儲存嗎？請點擊「融合」"
 
 msgid "Which column do you want to import"
-msgstr "你想匯入哪個欄位？"
+msgstr "您想匯入到哪個欄位"
 
 #~ msgid "What's your name?"
 #~ msgstr "你的名字是什麼？"
@@ -1395,10 +1395,10 @@ msgstr "木笛"
 #~ msgstr "世界"
 
 msgid "x position"
-msgstr "x座標"
+msgstr "x 座標"
 
 msgid "y position"
-msgstr "y座標"
+msgstr "y 座標"
 
 msgid "year"
 msgstr "年"
@@ -1406,13 +1406,13 @@ msgstr "年"
 msgid ""
 "You cannot edit cloud data in someone else's project.<br>Any change that you "
 "make in the editor will be temporary and not persistent."
-msgstr "你不能編輯別人專案的雲端資料。<br>你改的任何東西，都只是暫時的，不會被儲存。"
+msgstr "您不能編輯別人專案的雲端資料。<br>您所做的一切，都只是暫時的，並不會被儲存。"
 
 msgid "Your Scratch name"
-msgstr "您的 Scratch 姓名"
+msgstr "您的 Scratch 名稱"
 
 msgid "Your Scratch name is required"
-msgstr "需要填寫您的 Scratch 姓名"
+msgstr "需要填寫您的 Scratch 名稱"
 
 #~ msgid ""
 #~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
@@ -1433,21 +1433,21 @@ msgstr "需要填寫您的 Scratch 姓名"
 
 # Offline editor only
 msgid "All Tips"
-msgstr "所有密訣"
+msgstr "所有技巧"
 
 # Offline editor only
 msgid ""
 "An updated version of the Scratch offline editor is available on the Scratch "
 "website."
-msgstr "在 Scratch 網站有 Scratch 離線編輯器的更新版本可用。"
+msgstr "在 Scratch 官網上有 Scratch 離線編輯器的更新版本可用。"
 
 # Offline editor only
 msgid "Could not retrieve update location from server."
-msgstr "無法從伺服器取回更新位置。"
+msgstr "無法從伺服器取得更新位置。"
 
 # Offline editor only
 msgid "Could not retrieve version information from server."
-msgstr "無法從伺服器取回更新資訊。"
+msgstr "無法從伺服器取得版本資訊。"
 
 # Offline editor only
 msgid "Could not write file:"
@@ -1459,7 +1459,7 @@ msgstr "正在下載新版本…"
 
 # Offline editor only
 msgid "Error saving project"
-msgstr "儲存計畫時發生錯誤"
+msgstr "儲存專案時發生錯誤"
 
 # Offline editor only
 msgid "Force help file update"
@@ -1475,15 +1475,15 @@ msgstr "正在載入說明檔案…"
 
 # Offline editor only
 msgid "Manual Update Available"
-msgstr "有手動更新可用"
+msgstr "手動更新可用"
 
 # Offline editor only
 msgid "Open Project"
-msgstr "開啟計畫"
+msgstr "開啟專案"
 
 # Offline editor only
 msgid "Please visit the download page to install it."
-msgstr "請參訪下載頁面以下載它。"
+msgstr "請造訪下載頁面以安裝。"
 
 # Offline editor only
 msgid "Quit"
@@ -1491,15 +1491,15 @@ msgstr "結束"
 
 # Offline editor only
 msgid "Replace existing project?"
-msgstr "取代現有的計畫？"
+msgstr "是否取代現有專案？"
 
 # Offline editor only
 msgid "Running pre-release"
-msgstr "執行預先釋出版"
+msgstr "執行預先發行版"
 
 # Offline editor only
 msgid "Save Project"
-msgstr "儲存計畫"
+msgstr "儲存專案"
 
 # Offline editor only
 msgid "Server error:"
@@ -1515,7 +1515,7 @@ msgstr "成功"
 
 # Offline editor only
 msgid "This version is newer than the current release version."
-msgstr "這個版本比目前的釋出版本還新。"
+msgstr "這個版本比目前釋出的版本還新。"
 
 # Offline editor only
 msgid "Update check failed"
@@ -1527,11 +1527,11 @@ msgstr "上傳失敗"
 
 # Offline editor only
 msgid "Visit download page"
-msgstr "參訪下載頁面"
+msgstr "造訪下載頁面"
 
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
-msgstr "您的專案已經更新到 scratch.mit.edu"
+msgstr "您的專案已經上傳到 scratch.mit.edu"
 
 #~ msgid "cleanup"
 #~ msgstr "清除"

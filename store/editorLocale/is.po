@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2013-05-06 19:31+0000\n"
-"Last-Translator: Stefan Einar <stefaneinar@gmail.com>\n"
+"PO-Revision-Date: 2015-12-31 03:44+0000\n"
+"Last-Translator: dadiss <dadiss@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: is\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1367868698.000000\n"
+"X-POOTLE-MTIME: 1451533487.000000\n"
 
 msgid "%b and %b"
 msgstr "%b og %b"
@@ -27,7 +27,7 @@ msgid "%m.mathOp of %n"
 msgstr "%m.mathOp af %n"
 
 msgid "%m.sensor sensor value"
-msgstr "%m.sensor mælist"
+msgstr "%m.sensor mæligildi"
 
 msgid "%n mod %n"
 msgstr "%n mod %n"
@@ -300,15 +300,13 @@ msgstr "hljóðfæri verður %d.instrument"
 # 89%
 # 86%
 # 97%
-#, fuzzy
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "hreyfill stefnir %m.motorDirection"
+msgstr "hreyfill %m.motor2 stefnir %m.motorDirection"
 
 # 77%
 # 75%
-#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "afl hreyfils verður %n"
+msgstr "afl hreyfilsins %m.motor verður %n"
 
 msgid "set pen color to %c"
 msgstr "litur penna verður %c"
@@ -406,20 +404,17 @@ msgid "turn @turnRight %n degrees"
 msgstr "snúa @turnRight um %n gráður"
 
 # 82%
-#, fuzzy
 msgid "turn %m.motor off"
-msgstr "slökkva á hreyfil"
+msgstr "slökkva á hreyfli %m.motor off"
 
 # 81%
-#, fuzzy
 msgid "turn %m.motor on"
-msgstr "kveikja á hreyfli"
+msgstr "kveikja á hreyflinum %m.motor"
 
 # 80%
 # 89%
-#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr "hreyfill gengur í %n sek"
+msgstr "hreyfill %m.motor gengur í %n sek"
 
 msgid "turn video %m.videoState"
 msgstr "snúa hreyfimynd %m.videoState"
@@ -448,7 +443,7 @@ msgid "when %m.key key pressed"
 msgstr "þegar ýtt er á %m.key"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr ""
+msgstr "þegar %m.sensor %m.lessMore %n"
 
 msgid "when %m.triggerSensor > %n"
 msgstr "þegar %m.triggerSensor > %n"
@@ -461,7 +456,7 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "þegar bakgrunnur verður %m.backdrop"
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
+msgstr "þegar fjarlægð %m.lessMore %n"
 
 msgid "when I receive %m.broadcast"
 msgstr "þegar ég tek á móti %m.broadcast"
@@ -476,7 +471,7 @@ msgid "when this sprite clicked"
 msgstr "þegar teikningin fær smell"
 
 msgid "when tilt %m.eNe %n"
-msgstr ""
+msgstr "when halli %m.eNe %n"
 
 msgid "x position"
 msgstr "x hnit"
@@ -485,9 +480,8 @@ msgid "y position"
 msgstr "y hnit"
 
 #: commands-online.txt:7 commands-offline.txt:7
-#, fuzzy
 msgid "%m.list contains %s?"
-msgstr "%m.list inniheldur %s"
+msgstr "%m.list inniheldur %s?"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -500,7 +494,8 @@ msgid ""
 msgstr ""
 "<b>Upplýsingar um breytur í Skýinu</b><br>&nbsp;<br>Eins og er þá má aðeins "
 "nota tölur<br>Spjallherbergi eru ekki leyfileg og verða fjarlægð<br>Frekari "
-"upplýsingar er að finna á, <a href= target=>sjáið gögn í skýinu SOS!</a>"
+"upplýsingar er að finna á, <a href=\"/help/faq/#clouddata\" target=\"_blank"
+"\">sjáið gögn í skýinu SOS!</a>"
 
 msgid "A connected"
 msgstr "A tengt"
@@ -783,7 +778,7 @@ msgid "Costumes > 1"
 msgstr "Búningar > 1"
 
 msgid "Could not retrieve new application from server."
-msgstr ""
+msgstr "Get ekki sótt nýtt forrit frá vefþjóni."
 
 msgid "Cowbell"
 msgstr "Kúabjalla"
@@ -826,7 +821,7 @@ msgid "don't rotate"
 msgstr "ekki snúa"
 
 msgid "Don't save"
-msgstr ""
+msgstr "Ekki vista"
 
 msgid "down"
 msgstr "niður"
@@ -977,10 +972,10 @@ msgid "Hand Clap"
 msgstr "Klapp"
 
 msgid "Hardware"
-msgstr ""
+msgstr "Vélbúnaður"
 
 msgid "help"
-msgstr ""
+msgstr "hjálp"
 
 msgid "Hello!"
 msgstr ""
@@ -996,7 +991,7 @@ msgid "High C"
 msgstr "Háa C"
 
 msgid "Holiday"
-msgstr ""
+msgstr "Hátíðardagur"
 
 msgid "hour"
 msgstr "klst"
@@ -1042,7 +1037,7 @@ msgid "length"
 msgstr "lengd"
 
 msgid "Letters"
-msgstr ""
+msgstr "Bókstafir"
 
 msgid "Library"
 msgstr "Safn"
@@ -1108,7 +1103,6 @@ msgstr "Heiti skilaboða"
 msgid "message1"
 msgstr "skilaboð1"
 
-#, fuzzy
 msgid "Microphone volume:"
 msgstr "Hljóðstyrkur hljóðnema:"
 
@@ -1170,7 +1164,7 @@ msgid "New backdrop:"
 msgstr "Nýr bakgrunnur"
 
 msgid "New Block"
-msgstr ""
+msgstr "Ný blokk"
 
 msgid "New costume from camera"
 msgstr "Nýr búningur frá myndavél"
@@ -1182,7 +1176,7 @@ msgid "New List"
 msgstr "Nýr listi"
 
 msgid "New Message"
-msgstr ""
+msgstr "Ný skilaboð"
 
 msgid "new message..."
 msgstr "ný skilaboð..."
@@ -1236,7 +1230,7 @@ msgid "on-flipped"
 msgstr "á-flippa"
 
 msgid "Open"
-msgstr ""
+msgstr "Opna"
 
 msgid "Open Cuica"
 msgstr "Opin cuica"
@@ -1256,7 +1250,6 @@ msgstr "Annað"
 msgid "other scripts in sprite"
 msgstr "aðrar stefjur í teikningu"
 
-#, fuzzy
 msgid "other scripts in stage"
 msgstr "aðrar stefjur í teikningu"
 
@@ -1273,10 +1266,10 @@ msgid "Paint new sprite"
 msgstr "Mála nýja teikningu"
 
 msgid "Password"
-msgstr ""
+msgstr "Lykilorð"
 
 msgid "Password is required"
-msgstr ""
+msgstr "Lykilorð nauðsynlegt"
 
 msgid "paste"
 msgstr "líma"
@@ -1309,7 +1302,7 @@ msgid "pop"
 msgstr "popp"
 
 msgid "previous backdrop"
-msgstr ""
+msgstr "fyrri bakgrunnur"
 
 msgid "Project did not load."
 msgstr "Verkefni hlóðst ekki inn."
@@ -1318,10 +1311,10 @@ msgid "Project not saved!"
 msgstr "Verkefni ekki vistað!"
 
 msgid "Project name"
-msgstr ""
+msgstr "Heiti verkefnis"
 
 msgid "Project name is required"
-msgstr ""
+msgstr "Nafn verkefnis er nauðsynlegt"
 
 msgid "random"
 msgstr "slembi"
@@ -1333,7 +1326,7 @@ msgid "Record new sound"
 msgstr "Taka upp hljóð"
 
 msgid "record..."
-msgstr ""
+msgstr "taka upp..."
 
 msgid "recording1"
 msgstr "upptaka1"
@@ -1406,16 +1399,16 @@ msgid "Save"
 msgstr "Vista"
 
 msgid "Save a copy of this project and add your own ideas."
-msgstr ""
+msgstr "Vista afrit af þessu verkefni og bæta við eigin hugmyndum."
 
 msgid "Save as"
-msgstr ""
+msgstr "Vista sem"
 
 msgid "Save now"
 msgstr "Vista núna"
 
 msgid "Save project?"
-msgstr ""
+msgstr "Vista verkefni?"
 
 msgid "save to local file"
 msgstr "vista í staðbundna skrá"
@@ -1433,7 +1426,7 @@ msgid "Saxophone"
 msgstr "Saxófón"
 
 msgid "Scratch Updater"
-msgstr ""
+msgstr "Scratch uppfærslustjóri"
 
 msgid "Scratch 2.0 Offline Editor"
 msgstr ""
@@ -1480,7 +1473,7 @@ msgid "Share"
 msgstr "Deila"
 
 msgid "Share to website"
-msgstr ""
+msgstr "Deila á vefsíðu"
 
 msgid "Share to Scratch website"
 msgstr ""
@@ -1597,9 +1590,8 @@ msgstr "Tambúrína"
 msgid "tan"
 msgstr "tan"
 
-#, fuzzy
 msgid "text"
-msgstr "Texti"
+msgstr "texti"
 
 msgid "Text"
 msgstr "Texti"
@@ -1625,7 +1617,7 @@ msgid "thing"
 msgstr ""
 
 msgid "This is the current version."
-msgstr ""
+msgstr "Þetta er nýjasta útgáfan."
 
 msgid ""
 "This project can detect who is using it, through the “username” block. To "
@@ -1713,13 +1705,13 @@ msgid "up arrow"
 msgstr "ör upp"
 
 msgid "Update failed"
-msgstr ""
+msgstr "Uppfærsla mistókst"
 
 msgid "Update not needed"
-msgstr ""
+msgstr "Uppfærsla óþörf"
 
 msgid "Update now"
-msgstr ""
+msgstr "Uppfæra núna"
 
 msgid "Upload backdrop from file"
 msgstr "Sækja bakgrunn úr skrá"
@@ -1764,7 +1756,7 @@ msgid "Vibraslap"
 msgstr "Víbrastrengur"
 
 msgid "video direction"
-msgstr ""
+msgstr "stefna myndbands"
 
 msgid "video motion"
 msgstr "hreyfimynd"
@@ -1810,112 +1802,112 @@ msgstr ""
 "<br>Breytingar sem þú gerir verða aðeins tímabundnar."
 
 msgid "Your Scratch name"
-msgstr ""
+msgstr "Scratch nafnið þitt"
 
 msgid "Your Scratch name is required"
-msgstr ""
+msgstr "Scratch nafnið þitt er nauðsynlegt"
 
 # Offline editor only
 msgid "All Tips"
-msgstr ""
+msgstr "Allar ábendingar"
 
 # Offline editor only
 msgid ""
 "An updated version of the Scratch offline editor is available on the Scratch "
 "website."
-msgstr ""
+msgstr "Uppfærða útgáfu Scratch forritsins má finna á Scratch vefsíðunni."
 
 # Offline editor only
 msgid "Could not retrieve update location from server."
-msgstr ""
+msgstr "Ekki tókst að sækja staðsetningu uppfærslu frá vefþjóni."
 
 # Offline editor only
 msgid "Could not retrieve version information from server."
-msgstr ""
+msgstr "Gat ekki sótt útgáfu upplýsingar frá vefþjóni."
 
 # Offline editor only
 msgid "Could not write file:"
-msgstr ""
+msgstr "Gat ekki skrifað skrá:"
 
 # Offline editor only
 msgid "Downloading new version..."
-msgstr ""
+msgstr "Sæki nýja útgáfu..."
 
 # Offline editor only
 msgid "Error saving project"
-msgstr ""
+msgstr "Ekki tókst að vista verkefni"
 
 # Offline editor only
 msgid "Force help file update"
-msgstr ""
+msgstr "Þvinga uppfærslu á hjálparskjali"
 
 # Offline editor only
 msgid "Import experimental HTTP extension"
-msgstr ""
+msgstr "Setja upp tilraunaútgáfu af HTTP viðbót"
 
 # Offline editor only
 msgid "Loading help files..."
-msgstr ""
+msgstr "Sæki hjálparskrár..."
 
 # Offline editor only
 msgid "Manual Update Available"
-msgstr ""
+msgstr "Uppfærsla stendur til boða"
 
 # Offline editor only
 msgid "Open Project"
-msgstr ""
+msgstr "Opna verkefni"
 
 # Offline editor only
 msgid "Please visit the download page to install it."
-msgstr ""
+msgstr "Vinsamlegast farið á niðurhalssíðuna til að setja það upp."
 
 # Offline editor only
 msgid "Quit"
-msgstr ""
+msgstr "Hætta"
 
 # Offline editor only
 msgid "Replace existing project?"
-msgstr ""
+msgstr "Yfirskrifa núverandi verkefni?"
 
 # Offline editor only
 msgid "Running pre-release"
-msgstr ""
+msgstr "Prufuútgáfa er keyrandi"
 
 # Offline editor only
 msgid "Save Project"
-msgstr ""
+msgstr "Vista verkefni"
 
 # Offline editor only
 msgid "Server error:"
-msgstr ""
+msgstr "Villa frá vefþjóni:"
 
 # Offline editor only
 msgid "Share to Scratch Website"
-msgstr ""
+msgstr "Deila á Scratch vefsíðu"
 
 # Offline editor only
 msgid "Success"
-msgstr ""
+msgstr "Tókst"
 
 # Offline editor only
 msgid "This version is newer than the current release version."
-msgstr ""
+msgstr "Þessi útgáfa er nýrri en núverandi útgáfa."
 
 # Offline editor only
 msgid "Update check failed"
-msgstr ""
+msgstr "Athugun á uppfærslu mistókst"
 
 # Offline editor only
 msgid "Upload failed"
-msgstr ""
+msgstr "Ekki tókst að hlaða upp"
 
 # Offline editor only
 msgid "Visit download page"
-msgstr ""
+msgstr "Heimsækja niðurhalssíðu"
 
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
-msgstr ""
+msgstr "Verkefni þínu hefur verið hlaðið upp á scratch.mit.edu"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"

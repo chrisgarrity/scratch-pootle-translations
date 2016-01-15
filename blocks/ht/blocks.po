@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-12-28 18:55+0000\n"
+"PO-Revision-Date: 2016-01-04 20:49+0000\n"
 "Last-Translator: Natalie <nrusk@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ht\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1451328912.000000\n"
+"X-POOTLE-MTIME: 1451940570.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -105,7 +105,7 @@ msgid "Control"
 msgstr "Kontwòl"
 
 msgid "costume #"
-msgstr "# kostim "
+msgstr "degizman #"
 
 msgid "create clone of %m.spriteOnly"
 msgstr "kreye marasa %m.spriteOnly"
@@ -177,7 +177,7 @@ msgid "if on edge, bounce"
 msgstr "mate si li rive sou bo a "
 
 msgid "insert %s at %d.listItem of %m.list"
-msgstr "Mete %s nan pozisyon %d.listItem nan %m.list"
+msgstr "mete %s nan pozisyon %d.listItem nan %m.list"
 
 msgid "item %d.listItem of %m.list"
 msgstr "eleman %d.listItem nan %m.list"
@@ -226,7 +226,7 @@ msgid "next backdrop"
 msgstr "pwochen fon ekran"
 
 msgid "next costume"
-msgstr "pwochenn kostim"
+msgstr "pwochenn degizman"
 
 msgid "not %b"
 msgstr "non %b"
@@ -271,7 +271,7 @@ msgid "repeat until %b"
 msgstr "repete jiska %b"
 
 msgid "replace item %d.listItem of %m.list with %s"
-msgstr "Ranplase %d.listItem nan %m.list avek %s"
+msgstr "ranplase %d.listItem nan %m.list avek %s"
 
 msgid "reset timer"
 msgstr "rekòmanse mont la"
@@ -307,7 +307,7 @@ msgid "set %m.motor2 direction to %m.motorDirection"
 msgstr "mete direksyon %m.motor2 a %m.motorDirection"
 
 msgid "set %m.motor power to %n"
-msgstr "mete fòs %m.motor a sou"
+msgstr "mete fòs %m.motor a sou %n"
 
 msgid "set pen color to %c"
 msgstr "mete koulè plim la sou %c"
@@ -375,7 +375,7 @@ msgid "switch backdrop to %m.backdrop and wait"
 msgstr "chanje fon pou %m.backdrop epi tann"
 
 msgid "switch costume to %m.costume"
-msgstr "chanje kostim pou %m.costume"
+msgstr "chanje degizman pou %m.costume"
 
 msgid "tempo"
 msgstr "tèmpo"

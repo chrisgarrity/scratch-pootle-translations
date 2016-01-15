@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-12-30 22:16+0000\n"
+"PO-Revision-Date: 2016-01-05 16:43+0000\n"
 "Last-Translator: Natalie <nrusk@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ht\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1451513760.000000\n"
+"X-POOTLE-MTIME: 1452012192.000000\n"
 
 msgid "10 ^"
 msgstr ""
@@ -292,7 +292,7 @@ msgid "Convert to bitmap"
 msgstr "Konvèti an ti pwen ti pwen"
 
 msgid "Convert to vector"
-msgstr "Konvèti an liy"
+msgstr "Konvèti an vektè"
 
 msgid "Converting mp3..."
 msgstr "Konvèti mp3..."
@@ -467,10 +467,10 @@ msgid "fade out"
 msgstr ""
 
 msgid "false"
-msgstr ""
+msgstr "fo"
 
 msgid "Fantasy"
-msgstr ""
+msgstr "Imajinè"
 
 msgid "Features"
 msgstr ""
@@ -497,7 +497,7 @@ msgid "Flute"
 msgstr "Flit"
 
 msgid "Flying"
-msgstr ""
+msgstr "Vole"
 
 msgid "Font:"
 msgstr ""
@@ -505,8 +505,9 @@ msgstr ""
 msgid "For all sprites"
 msgstr ""
 
+#, fuzzy
 msgid "For this sprite only"
-msgstr ""
+msgstr "Pou sa a ti tonton sèlman"
 
 msgid "Forward a layer"
 msgstr ""
@@ -554,7 +555,7 @@ msgid "High C"
 msgstr ""
 
 msgid "Holiday"
-msgstr ""
+msgstr "Fèt"
 
 msgid "hour"
 msgstr ""
@@ -594,7 +595,7 @@ msgid "left arrow"
 msgstr "flèch goch"
 
 msgid "left-right"
-msgstr ""
+msgstr "goch-dwat"
 
 msgid "length"
 msgstr ""
@@ -647,13 +648,13 @@ msgid "Low C"
 msgstr ""
 
 msgid "Make a Block"
-msgstr ""
+msgstr "Fè yon Blòk "
 
 msgid "Make a List"
-msgstr "Fe w lis"
+msgstr "Fè w lis"
 
 msgid "Make a Variable"
-msgstr "Fe w varyab"
+msgstr "Fè w varyab"
 
 msgid "Marimba"
 msgstr "Marimba"
@@ -713,7 +714,7 @@ msgid "Music Box"
 msgstr "bwat mizik"
 
 msgid "Music Loops"
-msgstr ""
+msgstr "Repetisyon Mizik"
 
 msgid "My Stuff"
 msgstr ""
@@ -833,25 +834,25 @@ msgid "Paint new backdrop"
 msgstr "Desinen nouvo fon"
 
 msgid "Paint new costume"
-msgstr ""
+msgstr "Pentire yon nouvo degizman"
 
 msgid "Paint new sprite"
-msgstr ""
+msgstr "Pentire yon nouvo ti tonton"
 
 msgid "Password"
-msgstr ""
+msgstr "Modpas"
 
 msgid "Password is required"
-msgstr ""
+msgstr "Modpas obligatwa"
 
 msgid "paste"
-msgstr ""
+msgstr "kole"
 
 msgid "Pencil"
-msgstr ""
+msgstr "Kreyon"
 
 msgid "People"
-msgstr ""
+msgstr "Moun"
 
 msgid "Percussion"
 msgstr ""
@@ -903,13 +904,13 @@ msgid "Record new sound"
 msgstr "Anrejistre nouvo son"
 
 msgid "record..."
-msgstr ""
+msgstr "anrejistre..."
 
 msgid "recording1"
-msgstr ""
+msgstr "anrejistreman1"
 
 msgid "Rectangle"
-msgstr ""
+msgstr "Rektang"
 
 # 75%
 msgid "Redo"
@@ -922,7 +923,7 @@ msgid "Remix"
 msgstr ""
 
 msgid "Remixing..."
-msgstr ""
+msgstr "Tann..."
 
 msgid "Remove extension blocks"
 msgstr ""
@@ -977,31 +978,31 @@ msgid "Run without screen refresh"
 msgstr ""
 
 msgid "Save"
-msgstr ""
+msgstr "Sere"
 
 msgid "Save a copy of this project and add your own ideas."
 msgstr ""
 
 msgid "Save as"
-msgstr ""
+msgstr "Sere kòm"
 
 msgid "Save as a copy"
-msgstr ""
+msgstr "Sere an kopi"
 
 msgid "Save now"
 msgstr "Sere touswit"
 
 msgid "Save project?"
-msgstr ""
+msgstr "Sere pwojè a?"
 
 msgid "save to local file"
-msgstr ""
+msgstr "sere nan òdinatè a"
 
 msgid "Saved"
 msgstr ""
 
 msgid "Saving changes..."
-msgstr ""
+msgstr "Tann..."
 
 msgid "Saving..."
 msgstr ""
@@ -1097,7 +1098,7 @@ msgid "Sign in to save"
 msgstr "Enskri pou sere"
 
 msgid "Sign out"
-msgstr ""
+msgstr "Dekonekte"
 
 msgid "silence"
 msgstr ""
@@ -1147,7 +1148,7 @@ msgid "space"
 msgstr "espas"
 
 msgid "Sports"
-msgstr ""
+msgstr "Espò"
 
 msgid "Sprite"
 msgstr "Ti tonton yo"
@@ -1243,7 +1244,7 @@ msgid "Throw away all changes since opening this project?"
 msgstr ""
 
 msgid "timer"
-msgstr ""
+msgstr "kronomèt"
 
 msgid "Tips"
 msgstr "Poul"
@@ -1252,16 +1253,16 @@ msgid "To delete a block definition, first remove all uses of the block."
 msgstr ""
 
 msgid "Transportation"
-msgstr ""
+msgstr "Transpò"
 
 msgid "Triangle"
-msgstr ""
+msgstr "Triyang"
 
 msgid "Trombone"
 msgstr "Twonbòn"
 
 msgid "true"
-msgstr ""
+msgstr "vre"
 
 msgid "Turbo mode"
 msgstr ""
@@ -1270,14 +1271,14 @@ msgid "Turbo Mode"
 msgstr ""
 
 msgid "Type"
-msgstr ""
+msgstr "Tipe"
 
 # 75%
 msgid "Undelete"
 msgstr "Efase"
 
 msgid "Underwater"
-msgstr ""
+msgstr "Anba Dlo"
 
 msgid "undo"
 msgstr "anile"
@@ -1342,10 +1343,10 @@ msgid "Variable name"
 msgstr "Non varyab"
 
 msgid "Vector"
-msgstr ""
+msgstr "Vektè"
 
 msgid "Vector Mode"
-msgstr ""
+msgstr "Mod Vektè"
 
 msgid "Vibraphone"
 msgstr "Vibrafòn"
@@ -1369,10 +1370,10 @@ msgid "volume"
 msgstr "volim"
 
 msgid "Walking"
-msgstr ""
+msgstr "Mache"
 
 msgid "Want to save? Click remix"
-msgstr ""
+msgstr "Vle sove? Klike sou Remix"
 
 msgid "Which column do you want to import"
 msgstr ""
@@ -1495,7 +1496,7 @@ msgstr ""
 
 # Offline editor only
 msgid "Save Project"
-msgstr ""
+msgstr "Sere Pwojè"
 
 # Offline editor only
 msgid "Server error:"

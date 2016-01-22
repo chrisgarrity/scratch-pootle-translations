@@ -12,13 +12,14 @@ add comment
 Add label text:
 Add number input:
 Add string input:
-all
 All
+all
 all around
 All Tips
 An updated version of the Scratch offline editor is available on the Scratch website.
 Animal
 Animals
+any
 asin
 atan
 B connected
@@ -96,8 +97,8 @@ cut
 D connected
 date
 day of week
-delete
 Delete
+delete
 delete variable
 direction
 direction:
@@ -106,12 +107,12 @@ Don't save
 down
 down arrow
 Downloading new version...
-duplicate
 Duplicate
+duplicate
 e ^
 edge
-Edit
 edit
+Edit
 Edit Block
 Effects
 Electric Guitar
@@ -152,8 +153,8 @@ High C
 Holiday
 hour
 Human
-import
 Import
+import
 Import experimental HTTP extension
 Importing sound...
 Indoors
@@ -257,13 +258,14 @@ Quit
 random
 Record
 Record new sound
+Record Project Video
 record...
 recording1
 Rectangle
 Redo
 redo
+Remove Background
 Rename
-rename broadcast
 rename variable
 Replace existing project?
 Reshape
@@ -296,16 +298,14 @@ select all
 Select and duplicate
 Send to back
 Server error:
-Set Costume Center
 Set costume center
+Set Costume Center
 set slider min and max
 Share to Scratch Website
 Share to website
 shared
 Shift:
 show
-show receivers
-show senders
 show:
 Shrink
 Side Stick
@@ -322,8 +322,8 @@ sound
 Sound
 Sound Library
 Sounds
-space
 Space
+space
 Sports
 Sprite
 Sprite Library
@@ -357,8 +357,8 @@ To delete a block definition, first remove all uses of the block.
 Transportation
 Triangle
 Trombone
-Turbo Mode
 Turbo mode
+Turbo Mode
 Type
 Undelete
 Underwater

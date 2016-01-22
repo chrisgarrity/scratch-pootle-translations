@@ -12,11 +12,12 @@ add comment
 Add label text:
 Add number input:
 Add string input:
-all
 All
+all
 all around
 Animal
 Animals
+any
 asin
 assets loaded
 atan
@@ -114,8 +115,8 @@ duplicate
 Duplicate
 e ^
 edge
-Edit
 edit
+Edit
 Edit Block
 Effects
 Electric Guitar
@@ -261,8 +262,8 @@ Redo
 redo
 Remix
 Remixing...
+Remove Background
 Rename
-rename broadcast
 rename variable
 Reshape
 resistance-A
@@ -300,8 +301,6 @@ Share
 shared
 Shift:
 show
-show receivers
-show senders
 show:
 Shrink
 Side Stick

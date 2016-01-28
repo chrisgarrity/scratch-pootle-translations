@@ -484,8 +484,8 @@ msgid ""
 "removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank"
 "\">see the cloud data FAQ!</a>"
 msgstr ""
-"<b>Informācija par mākoņu mainīgajiem</b><br>&nbsp;<br>Šobrīd atļāuti tikai "
-"skaitļi<br>Čata istabas nav atļautas, un tās tiks dzēstas.<br>Papildus "
+"<b>Informācija par mākoņu mainīgajiem</b><br>&nbsp;<br>Šobrīd atļauti tikai "
+"skaitļi<br>Čata istabas nav atļautas, un tās tiks dzēstas.<br>Papildu "
 "informācija <a href=\"/help/faq/#clouddata\" target=\"_blank\">mākoņu "
 "mainīgo BUJ!</a>"
 
@@ -1322,10 +1322,10 @@ msgid "reverse"
 msgstr "apgriezt pretējā virzienā"
 
 msgid "Revert"
-msgstr "Atgriezt"
+msgstr "Atjaunot"
 
 msgid "Reverting..."
-msgstr "Atgriež..."
+msgstr "Atjauno..."
 
 msgid "right"
 msgstr "pa labi"
@@ -1373,10 +1373,10 @@ msgid "Scratch Updater"
 msgstr "Scratch atjauninātājs"
 
 msgid "Script"
-msgstr "Programma"
+msgstr "Skripts"
 
 msgid "Scripts"
-msgstr "Programmas"
+msgstr "Skripti"
 
 msgid "second"
 msgstr "sekunde"

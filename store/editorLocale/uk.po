@@ -1038,7 +1038,7 @@ msgid "Loading project..."
 msgstr "Завантаження проекту..."
 
 msgid "log"
-msgstr "журнал"
+msgstr "log"
 
 msgid "louder"
 msgstr "голосніше"

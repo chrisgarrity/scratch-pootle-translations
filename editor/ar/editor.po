@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-08-21 07:49+0000\n"
+"PO-Revision-Date: 2016-02-06 12:39+0000\n"
 "Last-Translator: adlogi <adlogi@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ar\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1440143393.000000\n"
+"X-POOTLE-MTIME: 1454762385.000000\n"
 
 msgid "10 ^"
 msgstr "^ 10"
@@ -154,7 +154,7 @@ msgid "Bass Drum"
 msgstr "Bass Drum"
 
 msgid "Bassoon"
-msgstr "Bassoon"
+msgstr "الباسون"
 
 msgid ""
 "Because you have a new Scratch account, any changes to cloud data won't be "
@@ -300,7 +300,7 @@ msgid "Color a shape"
 msgstr "تلوين شكل"
 
 msgid "Conga"
-msgstr "Conga"
+msgstr "كونغا"
 
 msgid "Connecting to Cloud data server..."
 msgstr "الاتصال بمخدّم البيانات السحابيّة..."
@@ -428,7 +428,7 @@ msgid "Duplicate"
 msgstr "مضاعفة"
 
 msgid "e ^"
-msgstr "^ e"
+msgstr "هـ^"
 
 msgid "edge"
 msgstr "الحافة"
@@ -519,7 +519,7 @@ msgid "floor"
 msgstr "الجزء الصحيح"
 
 msgid "Flute"
-msgstr "فلوت"
+msgstr "الناي"
 
 msgid "Flying"
 msgstr "الطيران"
@@ -682,10 +682,10 @@ msgid "Make a Variable"
 msgstr "إنشاء متغير"
 
 msgid "Marimba"
-msgstr "Marimba"
+msgstr "ماريمبا"
 
 msgid "Max"
-msgstr "الأعلى"
+msgstr "الأقصى"
 
 msgid "meow"
 msgstr "مياو"
@@ -1214,7 +1214,7 @@ msgid "Stage selected:"
 msgstr "المنصة محددة:"
 
 msgid "Steel Drum"
-msgstr "Steel Drum"
+msgstr "طبل فولاذي"
 
 #~ msgid "stored on server"
 #~ msgstr "مخزَّن على المخدِّم"
@@ -1226,7 +1226,7 @@ msgid "Synth Pad"
 msgstr "Synth Pad"
 
 msgid "Tambourine"
-msgstr "Tambourine"
+msgstr "الدف"
 
 msgid "tan"
 msgstr "الظل"
@@ -1267,13 +1267,13 @@ msgid ""
 "hide your identity, sign out before using the project."
 msgstr ""
 "يمكن لهذا المشروع معرفة من يستخدمه من خلال لبنة ”اسم المستخدم“. لإخفاء هويتك "
-"قم بتسجيل الخروج قبل استخدام المشروع."
+"قم بتسجيل الخروج قبل استخدام هذا المشروع."
 
 msgid ""
 "This project uses Cloud data ‒ a feature that is available only to signed in "
 "users."
 msgstr ""
-"يستخدم هذا المشروع بيانات سحابية - وهي ميزة متوفرة فقط بعد تسجيل الدخول."
+"يستخدم هذا المشروع بيانات سحابية — وهي ميزة متوفرة فقط بعد تسجيل الدخول."
 
 msgid "this script"
 msgstr "المقطع البرمجي الحالي"
@@ -1393,10 +1393,10 @@ msgid "Vector Mode"
 msgstr "وضعية الصور الشعاعية"
 
 msgid "Vibraphone"
-msgstr "Vibraphone"
+msgstr "الفيبرافون"
 
 msgid "Vibraslap"
-msgstr "Vibraslap"
+msgstr "فيبراسلاب"
 
 msgid "video direction"
 msgstr "اتجاه الفيديو"
@@ -1433,7 +1433,7 @@ msgid "Wood Block"
 msgstr "Wood Block"
 
 msgid "Wooden Flute"
-msgstr "Wooden Flute"
+msgstr "ناي خشبي"
 
 #~ msgid "world"
 #~ msgstr "بالعالم"
@@ -1489,23 +1489,20 @@ msgid ""
 msgstr "نسخة مُحَدثة من محرر سكراتش متوفرة الآن على موقع سكراتش."
 
 # Offline editor only
-#, fuzzy
 msgid "Could not retrieve update location from server."
-msgstr "لم يكن بالإمكان الحصول على التطبيق الجديد من المخدّم."
+msgstr "لم يكن بالإمكان جلب موقع التحديثات من المخدّم."
 
 # Offline editor only
-#, fuzzy
 msgid "Could not retrieve version information from server."
-msgstr "لم يكن بالإمكان الحصول على التطبيق الجديد من المخدّم."
+msgstr "لم يكن بالإمكان الحصول على معلومات الإصدار من المخدّم."
 
 # Offline editor only
 msgid "Could not write file:"
 msgstr "تعذَّرت كتابة الملف:"
 
 # Offline editor only
-#, fuzzy
 msgid "Downloading new version..."
-msgstr "جارٍ تنزيل الإصدار الجديد"
+msgstr "جارٍ تنزيل الإصدار الجديد..."
 
 # Offline editor only
 msgid "Error saving project"
@@ -1548,30 +1545,28 @@ msgid "Running pre-release"
 msgstr ""
 
 # Offline editor only
-#, fuzzy
 msgid "Save Project"
-msgstr "حفظ المشروع؟"
+msgstr "حفظ المشروع"
 
 # Offline editor only
 msgid "Server error:"
 msgstr "خطأ المخدِّم:"
 
 # Offline editor only
-#, fuzzy
 msgid "Share to Scratch Website"
 msgstr "المشاركة على موقع سكراتش"
 
 # Offline editor only
 msgid "Success"
-msgstr ""
+msgstr "نجح الأمر"
 
 # Offline editor only
 msgid "This version is newer than the current release version."
-msgstr ""
+msgstr "هذا الإصدار أحدث من الإصدار الحالي."
 
 # Offline editor only
 msgid "Update check failed"
-msgstr ""
+msgstr "إخفاق التحقق من التحديثات"
 
 # Offline editor only
 msgid "Upload failed"

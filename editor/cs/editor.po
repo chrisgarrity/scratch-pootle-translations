@@ -48,8 +48,8 @@ msgstr "O aplikaci"
 msgid "abs"
 msgstr "abs"
 
-#~ msgid "Account settings"
-#~ msgstr "Nastavení účtu"
+msgid "Account settings"
+msgstr "Nastavení účtu"
 
 msgid "acos"
 msgstr "arccos"
@@ -282,8 +282,8 @@ msgstr "Zavřít"
 msgid "Closed Hi-Hat"
 msgstr "Zavřená Hi-hat"
 
-#~ msgid "Cloud"
-#~ msgstr "Cloud"
+msgid "Cloud"
+msgstr "Cloud"
 
 msgid "Cloud data"
 msgstr "Cloud data"
@@ -348,8 +348,8 @@ msgstr "Kostýmy"
 msgid "Costumes > 1"
 msgstr "Kostýmů > 1"
 
-#~ msgid "Costumes:"
-#~ msgstr "Kostýmy:"
+msgid "Costumes:"
+msgstr "Kostýmy:"
 
 msgid "Could not retrieve new application from server."
 msgstr "Nelze získat novou aplikaci ze serveru"
@@ -534,8 +534,8 @@ msgstr "Navrch o vrstvu"
 msgid "ghost"
 msgstr "průhlednost"
 
-#~ msgid "Go to My Stuff"
-#~ msgstr "Přejít na moje věci"
+msgid "Go to My Stuff"
+msgstr "Přejít na moje věci"
 
 msgid "Group"
 msgstr "Skupina"
@@ -632,8 +632,8 @@ msgstr "světlo"
 #~ msgid "lights"
 #~ msgstr "světla"
 
-#~ msgid "limit reached"
-#~ msgstr "dosáhlo limitu"
+msgid "limit reached"
+msgstr "dosáhlo limitu"
 
 msgid "Line"
 msgstr "Úsečka"
@@ -736,8 +736,8 @@ msgstr "Hrací skříňka"
 msgid "Music Loops"
 msgstr "Hudební smyčky"
 
-#~ msgid "My Stuff"
-#~ msgstr "Moje věci"
+msgid "My Stuff"
+msgstr "Moje věci"
 
 # parametr prikazu clone
 msgid "myself"
@@ -904,8 +904,8 @@ msgstr "pop"
 msgid "previous backdrop"
 msgstr "předchozí pozadí"
 
-#~ msgid "Profile"
-#~ msgstr "Profil"
+msgid "Profile"
+msgstr "Profil"
 
 msgid "Project did not load."
 msgstr "Projekt nebyl stažen."
@@ -962,8 +962,8 @@ msgstr "přejmenovat proměnnou"
 #~ msgid "Replace existing project"
 #~ msgstr "Nahraď existující projekt"
 
-#~ msgid "requires sign in"
-#~ msgstr "vyžaduje přihlášení"
+msgid "requires sign in"
+msgstr "vyžaduje přihlášení"
 
 msgid "Reshape"
 msgstr "Změna tvaru"
@@ -1010,8 +1010,8 @@ msgstr "Ulož kopii tohoto projektu a přidej své vlastní nápady."
 msgid "Save as"
 msgstr "Ulož jako"
 
-#~ msgid "Save as a copy"
-#~ msgstr "Uložit jako kopii"
+msgid "Save as a copy"
+msgstr "Uložit jako kopii"
 
 # J.Vaníček
 msgid "Save now"
@@ -1049,8 +1049,8 @@ msgid "Scripts"
 msgstr "Scénáře"
 
 # 87%
-#~ msgid "Scripts:"
-#~ msgstr "Scénáře:"
+msgid "Scripts:"
+msgstr "Scénáře:"
 
 msgid "second"
 msgstr "sekunda"
@@ -1127,8 +1127,8 @@ msgstr "Přihlásit se"
 msgid "Sign in to save"
 msgstr "Přihlásit se pro uložení"
 
-#~ msgid "Sign out"
-#~ msgstr "Odhlásit se"
+msgid "Sign out"
+msgstr "Odhlásit se"
 
 msgid "silence"
 msgstr "ticho"
@@ -1210,8 +1210,8 @@ msgstr "Vybraná scéna:"
 msgid "Steel Drum"
 msgstr "Kovový kotel"
 
-#~ msgid "stored on server"
-#~ msgstr "uloženo na serveru"
+msgid "stored on server"
+msgstr "uloženo na serveru"
 
 msgid "Synth Lead"
 msgstr "Syntezátor sólo"
@@ -1454,23 +1454,23 @@ msgstr "Tvoje Scratch jméno"
 msgid "Your Scratch name is required"
 msgstr "Je vyžadováno Tvé Scratch jméno"
 
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
-#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Informace o cloudových proměnných</b><br>&nbsp;<br>Prozatím jsou "
-#~ "podorována pouze čísla<br>Chat místnosti nejsou povoleny a budou smazány<br>"
-#~ "Pro více informací <a href= target=>viz cloud data FAQ!</a>"
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Informace o cloudových proměnných</b><br>&nbsp;<br>Prozatím jsou "
+"podorována pouze čísla<br>Chat místnosti nejsou povoleny a budou smazány<br>"
+"Pro více informací <a href= target=>viz cloud data FAQ!</a>"
 
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "Klikni  pro další pokus nebo  pro uložení"
+msgid "Click  to try again or  to save"
+msgstr "Klikni  pro další pokus nebo  pro uložení"
 
-#~ msgid "Eraser width:"
-#~ msgstr "Šířka gumy:"
+msgid "Eraser width:"
+msgstr "Šířka gumy:"
 
-#~ msgid "Line width:"
-#~ msgstr "Šířka úsečky: "
+msgid "Line width:"
+msgstr "Šířka úsečky: "
 
 # Offline editor only
 msgid "All Tips"
@@ -1675,8 +1675,8 @@ msgstr ""
 #~ msgid "whisper"
 #~ msgstr "šeptej"
 
-#~ msgid "any"
-#~ msgstr "nějaký"
+msgid "any"
+msgstr "nějaký"
 
 #~ msgid "Floor Tom"
 #~ msgstr "hluboký tom"
@@ -1737,3 +1737,12 @@ msgstr ""
 
 #~ msgid "Short Guiro"
 #~ msgstr "Krátké guiro"
+
+msgid "Record Project Video"
+msgstr ""
+
+msgid "Remove Background"
+msgstr ""
+
+msgid "when Stage clicked"
+msgstr ""

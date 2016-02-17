@@ -49,8 +49,8 @@ msgstr "Info"
 msgid "abs"
 msgstr "Betrag"
 
-#~ msgid "Account settings"
-#~ msgstr "Kontoeinstellungen"
+msgid "Account settings"
+msgstr "Kontoeinstellungen"
 
 msgid "acos"
 msgstr "acos"
@@ -272,8 +272,8 @@ msgstr "Klarinette"
 msgid "Claves"
 msgstr "Claves"
 
-#~ msgid "clean up"
-#~ msgstr "Aufräumen"
+msgid "clean up"
+msgstr "Aufräumen"
 
 # Paint-Tool
 msgid "Clear"
@@ -291,8 +291,8 @@ msgstr "Schließen"
 msgid "Closed Hi-Hat"
 msgstr "Geschlossene Hi-Hat"
 
-#~ msgid "Cloud"
-#~ msgstr "Cloud"
+msgid "Cloud"
+msgstr "Cloud"
 
 msgid "Cloud data"
 msgstr "Cloud-Daten"
@@ -355,8 +355,8 @@ msgstr "Kostüme"
 msgid "Costumes > 1"
 msgstr "Kostüme > 1"
 
-#~ msgid "Costumes:"
-#~ msgstr "Kostüme:"
+msgid "Costumes:"
+msgstr "Kostüme:"
 
 msgid "Could not retrieve new application from server."
 msgstr "Die neue Anwendung konnte nicht vom Server abgerufen werden."
@@ -543,8 +543,8 @@ msgstr "Eine Ebene nach vorne"
 msgid "ghost"
 msgstr "Durchsichtigkeit"
 
-#~ msgid "Go to My Stuff"
-#~ msgstr "Meine Sachen"
+msgid "Go to My Stuff"
+msgstr "Meine Sachen"
 
 msgid "Group"
 msgstr "Gruppieren"
@@ -644,8 +644,8 @@ msgstr "Helligkeit"
 #~ msgid "lights"
 #~ msgstr "Leuchten"
 
-#~ msgid "limit reached"
-#~ msgstr "Grenze erreicht"
+msgid "limit reached"
+msgstr "Grenze erreicht"
 
 msgid "Line"
 msgstr "Linie"
@@ -750,8 +750,8 @@ msgstr "Musikbox"
 msgid "Music Loops"
 msgstr "Musikschleifen"
 
-#~ msgid "My Stuff"
-#~ msgstr "Meine Sachen"
+msgid "My Stuff"
+msgstr "Meine Sachen"
 
 # "erzeuge Klon von _mir selbst_"
 msgid "myself"
@@ -921,8 +921,8 @@ msgstr "Plopp"
 msgid "previous backdrop"
 msgstr "vorheriges Bühnenbild"
 
-#~ msgid "Profile"
-#~ msgstr "Profil"
+msgid "Profile"
+msgstr "Profil"
 
 msgid "Project did not load."
 msgstr "Das Projekt wurde nicht geladen."
@@ -980,8 +980,8 @@ msgstr "Variable umbenennen"
 #~ msgid "Replace existing project"
 #~ msgstr "Existierendes Projekt ersetzen"
 
-#~ msgid "requires sign in"
-#~ msgstr "Hierzu musst du angemeldet sein."
+msgid "requires sign in"
+msgstr "Hierzu musst du angemeldet sein."
 
 msgid "Reshape"
 msgstr "Verformen"
@@ -1029,8 +1029,8 @@ msgstr ""
 msgid "Save as"
 msgstr "Speichern unter"
 
-#~ msgid "Save as a copy"
-#~ msgstr "Eine Kopie speichern"
+msgid "Save as a copy"
+msgstr "Eine Kopie speichern"
 
 msgid "Save now"
 msgstr "Jetzt speichern"
@@ -1067,8 +1067,8 @@ msgid "Scripts"
 msgstr "Skripte"
 
 # 87%
-#~ msgid "Scripts:"
-#~ msgstr "Skripte:"
+msgid "Scripts:"
+msgstr "Skripte:"
 
 msgid "second"
 msgstr "Sekunde"
@@ -1145,8 +1145,8 @@ msgstr "Anmelden"
 msgid "Sign in to save"
 msgstr "Melde dich zum Speichern an"
 
-#~ msgid "Sign out"
-#~ msgstr "Abmelden"
+msgid "Sign out"
+msgstr "Abmelden"
 
 # sounds->effects
 msgid "silence"
@@ -1230,8 +1230,8 @@ msgstr "Bühne ausgewählt:"
 msgid "Steel Drum"
 msgstr "Steel-Drum"
 
-#~ msgid "stored on server"
-#~ msgstr "auf dem Server gespeichert"
+msgid "stored on server"
+msgstr "auf dem Server gespeichert"
 
 msgid "Synth Lead"
 msgstr "Lead-Synthesizer"
@@ -1482,23 +1482,23 @@ msgstr "Dein Scratch-Name"
 msgid "Your Scratch name is required"
 msgstr "Dein Scratch-Name ist erforderlich"
 
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
-#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Information zu den Cloud-Variablen</b><br>&nbsp;<br>Zur Zeit werden nur "
-#~ "Zahlen unterstützt<br>Chat-Rooms sind nicht erlaubt und werden gelöscht!<br>"
-#~ "Für weitere Infos, <a href= target=>siehe Cloud-Daten FAQ!</a>"
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Information zu den Cloud-Variablen</b><br>&nbsp;<br>Zur Zeit werden nur "
+"Zahlen unterstützt<br>Chat-Rooms sind nicht erlaubt und werden gelöscht!<br>"
+"Für weitere Infos, <a href= target=>siehe Cloud-Daten FAQ!</a>"
 
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "Klicke  für einen neuen Versuch oder  zum Speichern"
+msgid "Click  to try again or  to save"
+msgstr "Klicke  für einen neuen Versuch oder  zum Speichern"
 
-#~ msgid "Eraser width:"
-#~ msgstr "Radierbreite:"
+msgid "Eraser width:"
+msgstr "Radierbreite:"
 
-#~ msgid "Line width:"
-#~ msgstr "Linienbreite"
+msgid "Line width:"
+msgstr "Linienbreite"
 
 # Offline editor only
 msgid "All Tips"
@@ -1705,8 +1705,8 @@ msgstr "Dein Projekt wurde auf scratch.mit.edu hochgeladen"
 #~ msgid "whisper"
 #~ msgstr "flüstern"
 
-#~ msgid "any"
-#~ msgstr "beliebiges"
+msgid "any"
+msgstr "beliebiges"
 
 #~ msgid "Floor Tom"
 #~ msgstr "Standtom"
@@ -1768,3 +1768,12 @@ msgstr "Dein Projekt wurde auf scratch.mit.edu hochgeladen"
 
 #~ msgid "Short Guiro"
 #~ msgstr "Güiro (kurz)"
+
+msgid "Record Project Video"
+msgstr ""
+
+msgid "Remove Background"
+msgstr ""
+
+msgid "when Stage clicked"
+msgstr ""

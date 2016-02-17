@@ -14,6 +14,10 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1423417966.000000\n"
 
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "فارسی"
+
 msgid "%b and %b"
 msgstr "%b و %b"
 
@@ -22,6 +26,9 @@ msgstr "%b یا %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute از %m.spriteOrStage"
+
+msgid "%m.list contains %s"
+msgstr "%m.لیست حاوی %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp از %n"
@@ -473,6 +480,30 @@ msgstr "موقعیت x"
 msgid "y position"
 msgstr "موقعیت y"
 
+# 89%
+msgid "set motor direction %m.motorDirection"
+msgstr "راستای حرکت موتور را %m.motorDirection قرار بده"
+
+# 77%
+msgid "set motor power %n"
+msgstr "قدرت موتور را %n قرار بده"
+
+msgid "turn motor off"
+msgstr "موتور را خاموش کن"
+
+msgid "turn motor on"
+msgstr "موتور را روشن کن"
+
+# 80%
+msgid "turn motor on for %n secs"
+msgstr "موتور را برای %n ثانیه روشن کن"
+
+msgid "when distance < %n"
+msgstr "تا زمانی که فاصله < %n شود"
+
+msgid "when tilt = %n"
+msgstr "تا زمانی که مقدار کج شوندگی = %n شود"
+
 #: commands-online.txt:7 commands-offline.txt:7
 #, fuzzy
 msgid "%m.list contains %s?"
@@ -506,6 +537,9 @@ msgstr "درباره"
 
 msgid "abs"
 msgstr "قدرمطلق"
+
+msgid "Account settings"
+msgstr "تنظیمات کاربری"
 
 msgid "acos"
 msgstr "acos"
@@ -699,6 +733,9 @@ msgstr "کلارینت"
 msgid "Claves"
 msgstr "Claves"
 
+msgid "clean up"
+msgstr "پاک سازی"
+
 msgid "Clear"
 msgstr "پاک کردن"
 
@@ -715,6 +752,9 @@ msgstr "بستن"
 
 msgid "Closed Hi-Hat"
 msgstr "Closed Hi-Hat"
+
+msgid "Cloud"
+msgstr "ابر"
 
 msgid "Cloud data"
 msgstr "داده ابری"
@@ -771,6 +811,11 @@ msgstr "لباس ها"
 
 msgid "Costumes > 1"
 msgstr "لباس ها > ۱"
+
+# 75%
+# 88%
+msgid "Costumes:"
+msgstr "لباس ها:"
 
 msgid "Could not retrieve new application from server."
 msgstr "نتوانستم از سرور برنامه جدید را بگیرم."
@@ -930,6 +975,9 @@ msgstr "ارسال یک لایه"
 msgid "ghost"
 msgstr "روح"
 
+msgid "Go to My Stuff"
+msgstr "برو به کارهای من"
+
 msgid "Group"
 msgstr "گروه"
 
@@ -1008,6 +1056,9 @@ msgstr "کتابخانه"
 
 msgid "light"
 msgstr "نور"
+
+msgid "limit reached"
+msgstr "به حدش رسید"
 
 msgid "Line"
 msgstr "خط"
@@ -1096,6 +1147,9 @@ msgstr "جعبه موسیقی"
 
 msgid "Music Loops"
 msgstr "حلقه های موسیقی"
+
+msgid "My Stuff"
+msgstr "کارهای من"
 
 msgid "myself"
 msgstr "خودم"
@@ -1252,6 +1306,9 @@ msgstr "pop"
 msgid "previous backdrop"
 msgstr "پشت صحنه قبلی"
 
+msgid "Profile"
+msgstr "پروفایل"
+
 msgid "Project did not load."
 msgstr "پروژه بارگذاری نشد."
 
@@ -1301,6 +1358,9 @@ msgstr "تغییرنام"
 msgid "rename variable"
 msgstr "تغییر نام متغیر"
 
+msgid "requires sign in"
+msgstr "باید وارد شوید"
+
 msgid "Reshape"
 msgstr "تغییر شکل"
 
@@ -1346,6 +1406,9 @@ msgstr "یک نسخه از این پروژه را ذخیره کن و به اید
 msgid "Save as"
 msgstr "ذخیره با نام دیگر"
 
+msgid "Save as a copy"
+msgstr "ذخیره به عنوان یک کپی"
+
 msgid "Save now"
 msgstr "الان ذخیره کن"
 
@@ -1375,6 +1438,9 @@ msgstr "اسکریپت"
 
 msgid "Scripts"
 msgstr "اسکریپت ها"
+
+msgid "Scripts:"
+msgstr "اسکریپت ها:"
 
 msgid "second"
 msgstr "دومی"
@@ -1435,6 +1501,9 @@ msgstr "ورود"
 
 msgid "Sign in to save"
 msgstr "وارد شوید برای ذخیره سازی"
+
+msgid "Sign out"
+msgstr "خروج"
 
 msgid "silence"
 msgstr "سکوت"
@@ -1507,6 +1576,9 @@ msgstr "صحنه نمایش انتخاب شده:"
 
 msgid "Steel Drum"
 msgstr "Steel Drum"
+
+msgid "stored on server"
+msgstr "ذخیره شده بر روی سرور"
 
 msgid "Synth Lead"
 msgstr "Synth Lead"
@@ -1714,6 +1786,24 @@ msgstr "نام Scratch شما"
 msgid "Your Scratch name is required"
 msgstr "نام Scratch لازم است"
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>اطلاعات درباره متغیر های ابری</b><br>&nbsp;<br>در حال حاضر، فقط اعداد "
+"پشتیبانی می شوند<br>پیام رسان ها اجازه فعالیت ندارند، و پاک می شوند<br>برای "
+"اطلاعات بیشتر<a href= target=>پرسش و پاسخ داده های ابری را ببینید</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "   را کلیک کنید برای سعی مجدد یا  برای ذخیره سازی"
+
+msgid "Eraser width:"
+msgstr "عرض پاک کن:"
+
+msgid "Line width:"
+msgstr "عرض خط:"
+
 # Offline editor only
 msgid "All Tips"
 msgstr ""
@@ -1822,39 +1912,17 @@ msgstr ""
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
-# The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "فارسی"
+msgid "Record Project Video"
+msgstr ""
 
-#~ msgid "%m.list contains %s"
-#~ msgstr "%m.لیست حاوی %s"
+msgid "Remove Background"
+msgstr ""
+
+msgid "any"
+msgstr ""
 
 #~ msgid "when Stage clicked"
 #~ msgstr "وقتی صحنه کلیک شد"
-
-# 89%
-#~ msgid "set motor direction %m.motorDirection"
-#~ msgstr "راستای حرکت موتور را %m.motorDirection قرار بده"
-
-# 77%
-#~ msgid "set motor power %n"
-#~ msgstr "قدرت موتور را %n قرار بده"
-
-#~ msgid "turn motor off"
-#~ msgstr "موتور را خاموش کن"
-
-#~ msgid "turn motor on"
-#~ msgstr "موتور را روشن کن"
-
-# 80%
-#~ msgid "turn motor on for %n secs"
-#~ msgstr "موتور را برای %n ثانیه روشن کن"
-
-#~ msgid "when distance < %n"
-#~ msgstr "تا زمانی که فاصله < %n شود"
-
-#~ msgid "when tilt = %n"
-#~ msgstr "تا زمانی که مقدار کج شوندگی = %n شود"
 
 # 89%
 # 86%
@@ -1892,9 +1960,6 @@ msgstr ""
 #~ msgid "About PicoBoard extension..."
 #~ msgstr "درباره افزونه PicoBoard "
 
-#~ msgid "Account settings"
-#~ msgstr "تنظیمات کاربری"
-
 #~ msgid "add comment here..."
 #~ msgstr "افزودن نظر به اینجا"
 
@@ -1904,19 +1969,8 @@ msgstr ""
 #~ msgid "Cannot Add"
 #~ msgstr "نمی توان اضافه کرد"
 
-#~ msgid "clean up"
-#~ msgstr "پاک سازی"
-
-#~ msgid "Cloud"
-#~ msgstr "ابر"
-
 #~ msgid "Cloud variable (stored on server)"
 #~ msgstr "متغیر ابری (ذخیره شده در سرور)"
-
-# 75%
-# 88%
-#~ msgid "Costumes:"
-#~ msgstr "لباس ها:"
 
 #~ msgid "Downloading new version"
 #~ msgstr "بارگیری ورژن جدید"
@@ -1939,9 +1993,6 @@ msgstr ""
 #~ msgid "false"
 #~ msgstr "غلط"
 
-#~ msgid "Go to My Stuff"
-#~ msgstr "برو به کارهای من"
-
 #~ msgid "Hello!"
 #~ msgstr "سلام!"
 
@@ -1955,9 +2006,6 @@ msgstr ""
 #~ msgid "lights"
 #~ msgstr "نورها"
 
-#~ msgid "limit reached"
-#~ msgstr "به حدش رسید"
-
 #~ msgid "motor"
 #~ msgstr "موتور"
 
@@ -1967,14 +2015,8 @@ msgstr ""
 #~ msgid "motor B"
 #~ msgstr "موتور B"
 
-#~ msgid "My Stuff"
-#~ msgstr "کارهای من"
-
 #~ msgid "not ="
 #~ msgstr "منفی ="
-
-#~ msgid "Profile"
-#~ msgstr "پروفایل"
 
 #~ msgid "Remove extension blocks"
 #~ msgstr "حذف بلاک های افزونه "
@@ -1982,17 +2024,8 @@ msgstr ""
 #~ msgid "Replace existing project"
 #~ msgstr "جایگزینی روی پروژه ای که هست"
 
-#~ msgid "requires sign in"
-#~ msgstr "باید وارد شوید"
-
-#~ msgid "Save as a copy"
-#~ msgstr "ذخیره به عنوان یک کپی"
-
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "ویرایشگر آفلاین Scratch 2.0"
-
-#~ msgid "Scripts:"
-#~ msgstr "اسکریپت ها:"
 
 #~ msgid ""
 #~ "See the Tips window (on the right) to install the plug-in and get the "
@@ -2002,12 +2035,6 @@ msgstr ""
 
 #~ msgid "Share to Scratch website"
 #~ msgstr "اشتراک گذاری روی وبسایت Scratch"
-
-#~ msgid "Sign out"
-#~ msgstr "خروج"
-
-#~ msgid "stored on server"
-#~ msgstr "ذخیره شده بر روی سرور"
 
 #~ msgid "The name is already in use."
 #~ msgstr "این نام قبلا استفاده شده است."
@@ -2030,25 +2057,6 @@ msgstr ""
 
 #~ msgid "world"
 #~ msgstr "جهان"
-
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
-#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>اطلاعات درباره متغیر های ابری</b><br>&nbsp;<br>در حال حاضر، فقط اعداد "
-#~ "پشتیبانی می شوند<br>پیام رسان ها اجازه فعالیت ندارند، و پاک می "
-#~ "شوند<br>برای اطلاعات بیشتر<a href= target=>پرسش و پاسخ داده های ابری را "
-#~ "ببینید</a>"
-
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "   را کلیک کنید برای سعی مجدد یا  برای ذخیره سازی"
-
-#~ msgid "Eraser width:"
-#~ msgstr "عرض پاک کن:"
-
-#~ msgid "Line width:"
-#~ msgstr "عرض خط:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "یک ورودی بولین (صفر یا یک) اضافه کنید:"

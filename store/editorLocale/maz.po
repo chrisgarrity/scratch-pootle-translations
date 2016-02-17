@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-04-14 18:21+0000\n"
+"PO-Revision-Date: 2016-02-17 18:00+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: maz\n"
@@ -11,7 +11,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1429035709.000000\n"
+"X-POOTLE-MTIME: 1455732008.000000\n"
+
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "Mazahua"
 
 msgid "%b and %b"
 msgstr "%b i %b"
@@ -21,6 +25,9 @@ msgstr "%b o %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute kjo %m.spriteOrStage"
+
+msgid "%m.list contains %s"
+msgstr "%m.list kii %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp kjo %n"
@@ -1991,12 +1998,14 @@ msgstr ""
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
-# The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "Mazahua"
+msgid "any"
+msgstr "k'Š ri ngeje"
 
-#~ msgid "%m.list contains %s"
-#~ msgstr "%m.list kii %s"
+msgid "Record Project Video"
+msgstr ""
+
+msgid "Remove Background"
+msgstr ""
 
 # 89%
 # 86%
@@ -2032,9 +2041,6 @@ msgstr ""
 
 #~ msgid "Paint"
 #~ msgstr "tsos'Š tsiji"
-
-#~ msgid "any"
-#~ msgstr "k'Š ri ngeje"
 
 #~ msgid "High Tom"
 #~ msgstr "xŠrtambo"

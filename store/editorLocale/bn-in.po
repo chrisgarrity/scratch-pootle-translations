@@ -14,6 +14,10 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1425189419.000000\n"
 
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "বাংলা (ভারত)"
+
 msgid "%b and %b"
 msgstr "%b এবং %b"
 
@@ -22,6 +26,9 @@ msgstr "%b অথবা %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute -এর %m.spriteOrStage"
+
+msgid "%m.list contains %s"
+msgstr "%m.list -এর মধ্যে %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp -এর %n"
@@ -1956,9 +1963,11 @@ msgstr ""
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
-# The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "বাংলা (ভারত)"
+msgid "Record Project Video"
+msgstr ""
 
-#~ msgid "%m.list contains %s"
-#~ msgstr "%m.list -এর মধ্যে %s"
+msgid "Remove Background"
+msgstr ""
+
+msgid "any"
+msgstr ""

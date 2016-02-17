@@ -14,6 +14,10 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1451533487.000000\n"
 
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "Íslenska"
+
 msgid "%b and %b"
 msgstr "%b og %b"
 
@@ -22,6 +26,9 @@ msgstr "%b eða %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute af %m.spriteOrStage"
+
+msgid "%m.list contains %s"
+msgstr "%m.list inniheldur %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp af %n"
@@ -479,6 +486,30 @@ msgstr "x hnit"
 msgid "y position"
 msgstr "y hnit"
 
+# 89%
+msgid "set motor direction %m.motorDirection"
+msgstr "hreyfill stefnir %m.motorDirection"
+
+# 77%
+msgid "set motor power %n"
+msgstr "afl hreyfils verður %n"
+
+msgid "turn motor off"
+msgstr "slökkva á hreyfil"
+
+msgid "turn motor on"
+msgstr "kveikja á hreyfli"
+
+# 80%
+msgid "turn motor on for %n secs"
+msgstr "hreyfill gengur í %n sek"
+
+msgid "when distance < %n"
+msgstr "þegar fjarlægð < %n"
+
+msgid "when tilt = %n"
+msgstr "þegar halli = %n"
+
 #: commands-online.txt:7 commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list inniheldur %s?"
@@ -511,6 +542,9 @@ msgstr "Um"
 
 msgid "abs"
 msgstr "abs"
+
+msgid "Account settings"
+msgstr "Stillingar reiknings"
 
 msgid "acos"
 msgstr "acos"
@@ -720,6 +754,9 @@ msgstr "Loka"
 msgid "Closed Hi-Hat"
 msgstr "Lokað Hi-Hat"
 
+msgid "Cloud"
+msgstr "Ský"
+
 msgid "Cloud data"
 msgstr "Gögn í Skýi"
 
@@ -776,6 +813,9 @@ msgstr "Búningar"
 
 msgid "Costumes > 1"
 msgstr "Búningar > 1"
+
+msgid "Costumes:"
+msgstr "Búningar:"
 
 msgid "Could not retrieve new application from server."
 msgstr "Get ekki sótt nýtt forrit frá vefþjóni."
@@ -956,6 +996,9 @@ msgstr "Fram um lag"
 msgid "ghost"
 msgstr "draugur"
 
+msgid "Go to My Stuff"
+msgstr "Dótið mitt"
+
 msgid "Group"
 msgstr "Hópur"
 
@@ -1049,6 +1092,9 @@ msgstr "ljós"
 #, fuzzy
 msgid "lights"
 msgstr "ljós"
+
+msgid "limit reached"
+msgstr "marki náð"
 
 msgid "Line"
 msgstr "Lína"
@@ -1147,6 +1193,9 @@ msgstr "Spiladós"
 
 msgid "Music Loops"
 msgstr "Tónlistarlykkjur"
+
+msgid "My Stuff"
+msgstr "Dótið mitt"
 
 msgid "myself"
 msgstr "ég sjálfur"
@@ -1304,6 +1353,9 @@ msgstr "popp"
 msgid "previous backdrop"
 msgstr "fyrri bakgrunnur"
 
+msgid "Profile"
+msgstr "Yfirlit"
+
 msgid "Project did not load."
 msgstr "Verkefni hlóðst ekki inn."
 
@@ -1359,6 +1411,9 @@ msgstr "Endurskýra breytu"
 msgid "Replace existing project"
 msgstr ""
 
+msgid "requires sign in"
+msgstr "þarfnast innskráningar"
+
 msgid "Reshape"
 msgstr "Ummynda"
 
@@ -1404,6 +1459,9 @@ msgstr "Vista afrit af þessu verkefni og bæta við eigin hugmyndum."
 msgid "Save as"
 msgstr "Vista sem"
 
+msgid "Save as a copy"
+msgstr "Vista sem afrit"
+
 msgid "Save now"
 msgstr "Vista núna"
 
@@ -1436,6 +1494,9 @@ msgstr "Stefja"
 
 msgid "Scripts"
 msgstr "Stefjur"
+
+msgid "Scripts:"
+msgstr "Stefjur:"
 
 msgid "second"
 msgstr "sekúnda"
@@ -1504,6 +1565,9 @@ msgstr "Innskrá"
 
 msgid "Sign in to save"
 msgstr "Innskrá og vista"
+
+msgid "Sign out"
+msgstr "Útskrá"
 
 msgid "silence"
 msgstr "þögn"
@@ -1576,6 +1640,9 @@ msgstr "Leiksvið valið:"
 
 msgid "Steel Drum"
 msgstr "Stáltromma"
+
+msgid "stored on server"
+msgstr "vistað á miðlara"
 
 msgid "Synth Lead"
 msgstr "Hljóðgervill aðal"
@@ -1807,6 +1874,24 @@ msgstr "Scratch nafnið þitt"
 msgid "Your Scratch name is required"
 msgstr "Scratch nafnið þitt er nauðsynlegt"
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Upplýsingar um breytur í Skýinu</b><br>&nbsp;<br>Eins og er þá má aðeins "
+"nota tölur<br>Spjallherbergi eru ekki leyfileg og verða fjarlægð<br>Frekari "
+"upplýsingar er að finna á, <a href= target=>sjáið gögn í skýinu SOS!</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "Smelltu til að reyna aftur eða til að vista"
+
+msgid "Eraser width:"
+msgstr "Þvermál strokleðurs:"
+
+msgid "Line width:"
+msgstr "Linubreidd:"
+
 # Offline editor only
 msgid "All Tips"
 msgstr "Allar ábendingar"
@@ -1909,36 +1994,14 @@ msgstr "Heimsækja niðurhalssíðu"
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr "Verkefni þínu hefur verið hlaðið upp á scratch.mit.edu"
 
-# The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "Íslenska"
+msgid "any"
+msgstr "eitthvert"
 
-#~ msgid "%m.list contains %s"
-#~ msgstr "%m.list inniheldur %s"
+msgid "Record Project Video"
+msgstr ""
 
-# 89%
-#~ msgid "set motor direction %m.motorDirection"
-#~ msgstr "hreyfill stefnir %m.motorDirection"
-
-# 77%
-#~ msgid "set motor power %n"
-#~ msgstr "afl hreyfils verður %n"
-
-#~ msgid "turn motor off"
-#~ msgstr "slökkva á hreyfil"
-
-#~ msgid "turn motor on"
-#~ msgstr "kveikja á hreyfli"
-
-# 80%
-#~ msgid "turn motor on for %n secs"
-#~ msgstr "hreyfill gengur í %n sek"
-
-#~ msgid "when distance < %n"
-#~ msgstr "þegar fjarlægð < %n"
-
-#~ msgid "when tilt = %n"
-#~ msgstr "þegar halli = %n"
+msgid "Remove Background"
+msgstr ""
 
 # 89%
 # 86%
@@ -2000,9 +2063,6 @@ msgstr "Verkefni þínu hefur verið hlaðið upp á scratch.mit.edu"
 #~ msgid "About PicoBoard extension..."
 #~ msgstr "Um PicoBoard viðbætur..."
 
-#~ msgid "Account settings"
-#~ msgstr "Stillingar reiknings"
-
 #~ msgid "add comment here..."
 #~ msgstr "skrifa athugasemd hér..."
 
@@ -2011,58 +2071,6 @@ msgstr "Verkefni þínu hefur verið hlaðið upp á scratch.mit.edu"
 
 #~ msgid "Cannot Add"
 #~ msgstr "Get ekki bætt við"
-
-#~ msgid "Cloud"
-#~ msgstr "Ský"
-
-#~ msgid "Costumes:"
-#~ msgstr "Búningar:"
-
-#~ msgid "Go to My Stuff"
-#~ msgstr "Dótið mitt"
-
-#~ msgid "limit reached"
-#~ msgstr "marki náð"
-
-#~ msgid "My Stuff"
-#~ msgstr "Dótið mitt"
-
-#~ msgid "Profile"
-#~ msgstr "Yfirlit"
-
-#~ msgid "requires sign in"
-#~ msgstr "þarfnast innskráningar"
-
-#~ msgid "Save as a copy"
-#~ msgstr "Vista sem afrit"
-
-#~ msgid "Scripts:"
-#~ msgstr "Stefjur:"
-
-#~ msgid "Sign out"
-#~ msgstr "Útskrá"
-
-#~ msgid "stored on server"
-#~ msgstr "vistað á miðlara"
-
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
-#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Upplýsingar um breytur í Skýinu</b><br>&nbsp;<br>Eins og er þá má "
-#~ "aðeins nota tölur<br>Spjallherbergi eru ekki leyfileg og verða "
-#~ "fjarlægð<br>Frekari upplýsingar er að finna á, <a href= target=>sjáið "
-#~ "gögn í skýinu SOS!</a>"
-
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "Smelltu til að reyna aftur eða til að vista"
-
-#~ msgid "Eraser width:"
-#~ msgstr "Þvermál strokleðurs:"
-
-#~ msgid "Line width:"
-#~ msgstr "Linubreidd:"
 
 #~ msgid "cleanup"
 #~ msgstr "hreinsa til"
@@ -2077,9 +2085,6 @@ msgstr "Verkefni þínu hefur verið hlaðið upp á scratch.mit.edu"
 
 #~ msgid "Paint"
 #~ msgstr "Mála"
-
-#~ msgid "any"
-#~ msgstr "eitthvert"
 
 #~ msgid "High Tom"
 #~ msgstr "Há trumba"

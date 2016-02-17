@@ -15,6 +15,10 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1450979274.000000\n"
 
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "Українська"
+
 msgid "%b and %b"
 msgstr "%b і %b"
 
@@ -23,6 +27,9 @@ msgstr "%b або %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute з %m.spriteOrStage"
+
+msgid "%m.list contains %s"
+msgstr "%m.list міститься у %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp з %n"
@@ -477,6 +484,30 @@ msgstr "значення x"
 msgid "y position"
 msgstr "значення y"
 
+# 100%
+msgid "set motor direction %m.motorDirection"
+msgstr "напрям двигуна %m.motorDirection"
+
+# 77%
+msgid "set motor power %n"
+msgstr "потужність двигуна %n"
+
+msgid "turn motor off"
+msgstr "вимкнути двигун"
+
+msgid "turn motor on"
+msgstr "увімкнути двигун"
+
+# 100%
+msgid "turn motor on for %n secs"
+msgstr "двигун увімкнути на %n сек"
+
+msgid "when distance < %n"
+msgstr "коли відстань < %n"
+
+msgid "when tilt = %n"
+msgstr "коли нахил = %n"
+
 #: commands-online.txt:7 commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list містить %s?"
@@ -509,6 +540,9 @@ msgstr "Про програму"
 
 msgid "abs"
 msgstr "модуль"
+
+msgid "Account settings"
+msgstr "Налаштування облікового запису"
 
 msgid "acos"
 msgstr "acos"
@@ -707,6 +741,9 @@ msgstr "Кларнет"
 msgid "Claves"
 msgstr "Клавесин"
 
+msgid "clean up"
+msgstr "впорядкувати"
+
 msgid "Clear"
 msgstr "Очистити"
 
@@ -721,6 +758,9 @@ msgstr "Закрити"
 
 msgid "Closed Hi-Hat"
 msgstr "Закритий хет"
+
+msgid "Cloud"
+msgstr "Хмарна"
 
 msgid "Cloud data"
 msgstr "Хмарні дані"
@@ -778,6 +818,9 @@ msgstr "Образи"
 
 msgid "Costumes > 1"
 msgstr "Образи > 1"
+
+msgid "Costumes:"
+msgstr "Образи:"
 
 msgid "Could not retrieve new application from server."
 msgstr "Неможливо отримати програму з серверу"
@@ -938,6 +981,9 @@ msgstr "Шар наперед"
 msgid "ghost"
 msgstr "привид"
 
+msgid "Go to My Stuff"
+msgstr "До моїх доробок"
+
 msgid "Group"
 msgstr "Група"
 
@@ -1016,6 +1062,9 @@ msgstr "Бібліотека"
 
 msgid "light"
 msgstr "світло"
+
+msgid "limit reached"
+msgstr "досягнуто межі"
 
 msgid "Line"
 msgstr "Лінія"
@@ -1105,6 +1154,9 @@ msgstr "Музична скринька"
 
 msgid "Music Loops"
 msgstr "Музичні фрагменти"
+
+msgid "My Stuff"
+msgstr "Мій доробок"
 
 msgid "myself"
 msgstr "сам"
@@ -1264,6 +1316,9 @@ msgstr "поп"
 msgid "previous backdrop"
 msgstr "попереднє тло"
 
+msgid "Profile"
+msgstr "Профіль"
+
 msgid "Project did not load."
 msgstr "Проект не завантажено."
 
@@ -1313,6 +1368,9 @@ msgstr "Перейменувати"
 msgid "rename variable"
 msgstr "перейменувати змінну"
 
+msgid "requires sign in"
+msgstr "потрібно ввійти"
+
 msgid "Reshape"
 msgstr "Реформувати"
 
@@ -1358,6 +1416,9 @@ msgstr "Зберегти копію цього проекту та додати 
 msgid "Save as"
 msgstr "Зберегти як"
 
+msgid "Save as a copy"
+msgstr "Зберегти як копію"
+
 msgid "Save now"
 msgstr "Зберегти негайно"
 
@@ -1388,6 +1449,10 @@ msgstr "Скрипт"
 
 msgid "Scripts"
 msgstr "Скрипти"
+
+# 87%
+msgid "Scripts:"
+msgstr "Скрипти:"
 
 msgid "second"
 msgstr "секунда"
@@ -1449,6 +1514,9 @@ msgstr "Вхід"
 
 msgid "Sign in to save"
 msgstr "Вхід для збереження"
+
+msgid "Sign out"
+msgstr "Вихід"
 
 msgid "silence"
 msgstr "тихо"
@@ -1522,6 +1590,9 @@ msgstr "Сцену обрано:"
 
 msgid "Steel Drum"
 msgstr "Стальний барабан"
+
+msgid "stored on server"
+msgstr "збережено на сервері"
 
 msgid "Synth Lead"
 msgstr "Ведучий синтезатор"
@@ -1730,6 +1801,25 @@ msgstr "Ваше псевдо на Скретчі"
 msgid "Your Scratch name is required"
 msgstr "Необхідно ваше псевдо на Скретчі"
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Інформація про \"хмарні\" змінні</b>&nbsp;<br>В даний час підтримуються "
+"тільки числові змінні<br>Чати не допускаються, і будуть видалятись<br>Для "
+"отримання додаткової інформації <a href= target=>див. Запитання по хмарним "
+"змінним!</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "Натисніть  , щоб спробувати ще раз, або   щоб зберегти"
+
+msgid "Eraser width:"
+msgstr "Розмір гумки:"
+
+msgid "Line width:"
+msgstr "Ширина лінії:"
+
 # Offline editor only
 msgid "All Tips"
 msgstr "Всі поради"
@@ -1833,39 +1923,17 @@ msgstr "Відвідати сторінку звантаження"
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr "Ваш проект вивантажено на scratch.mit.edu"
 
-# The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "Українська"
+msgid "any"
+msgstr "будь-яке"
 
-#~ msgid "%m.list contains %s"
-#~ msgstr "%m.list міститься у %s"
+msgid "Record Project Video"
+msgstr ""
+
+msgid "Remove Background"
+msgstr ""
 
 #~ msgid "when Stage clicked"
 #~ msgstr "коли Сцену натиснуто"
-
-# 100%
-#~ msgid "set motor direction %m.motorDirection"
-#~ msgstr "напрям двигуна %m.motorDirection"
-
-# 77%
-#~ msgid "set motor power %n"
-#~ msgstr "потужність двигуна %n"
-
-#~ msgid "turn motor off"
-#~ msgstr "вимкнути двигун"
-
-#~ msgid "turn motor on"
-#~ msgstr "увімкнути двигун"
-
-# 100%
-#~ msgid "turn motor on for %n secs"
-#~ msgstr "двигун увімкнути на %n сек"
-
-#~ msgid "when distance < %n"
-#~ msgstr "коли відстань < %n"
-
-#~ msgid "when tilt = %n"
-#~ msgstr "коли нахил = %n"
 
 # 100%
 # 86%
@@ -1926,9 +1994,6 @@ msgstr "Ваш проект вивантажено на scratch.mit.edu"
 #~ msgid "About PicoBoard extension..."
 #~ msgstr "Про розширення для PicoBoard..."
 
-#~ msgid "Account settings"
-#~ msgstr "Налаштування облікового запису"
-
 #~ msgid "add comment here..."
 #~ msgstr "додати коментар сюди..."
 
@@ -1938,17 +2003,8 @@ msgstr "Ваш проект вивантажено на scratch.mit.edu"
 #~ msgid "Cannot Add"
 #~ msgstr "Додавання неможливе"
 
-#~ msgid "clean up"
-#~ msgstr "впорядкувати"
-
-#~ msgid "Cloud"
-#~ msgstr "Хмарна"
-
 #~ msgid "Cloud variable (stored on server)"
 #~ msgstr "\"Хмарна\" змінна (зберігається на сервері)"
-
-#~ msgid "Costumes:"
-#~ msgstr "Образи:"
 
 #~ msgid "Downloading new version"
 #~ msgstr "Завантаження нової версії"
@@ -1971,9 +2027,6 @@ msgstr "Ваш проект вивантажено на scratch.mit.edu"
 #~ msgid "false"
 #~ msgstr "false"
 
-#~ msgid "Go to My Stuff"
-#~ msgstr "До моїх доробок"
-
 #~ msgid "Hello!"
 #~ msgstr "Привіт!"
 
@@ -1987,9 +2040,6 @@ msgstr "Ваш проект вивантажено на scratch.mit.edu"
 #~ msgid "lights"
 #~ msgstr "вогні"
 
-#~ msgid "limit reached"
-#~ msgstr "досягнуто межі"
-
 #~ msgid "motor"
 #~ msgstr "двигун"
 
@@ -1999,14 +2049,8 @@ msgstr "Ваш проект вивантажено на scratch.mit.edu"
 #~ msgid "motor B"
 #~ msgstr "двигун В"
 
-#~ msgid "My Stuff"
-#~ msgstr "Мій доробок"
-
 #~ msgid "not ="
 #~ msgstr "не ="
-
-#~ msgid "Profile"
-#~ msgstr "Профіль"
 
 #~ msgid "Remove extension blocks"
 #~ msgstr "Видалити блоки розширення"
@@ -2014,18 +2058,8 @@ msgstr "Ваш проект вивантажено на scratch.mit.edu"
 #~ msgid "Replace existing project"
 #~ msgstr "Замінити існуючий проект"
 
-#~ msgid "requires sign in"
-#~ msgstr "потрібно ввійти"
-
-#~ msgid "Save as a copy"
-#~ msgstr "Зберегти як копію"
-
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "Автономний Скретч 2.0"
-
-# 87%
-#~ msgid "Scripts:"
-#~ msgstr "Скрипти:"
 
 #~ msgid ""
 #~ "See the Tips window (on the right) to install the plug-in and get the "
@@ -2036,12 +2070,6 @@ msgstr "Ваш проект вивантажено на scratch.mit.edu"
 
 #~ msgid "Share to Scratch website"
 #~ msgstr "Відправити на сайт Скретчу"
-
-#~ msgid "Sign out"
-#~ msgstr "Вихід"
-
-#~ msgid "stored on server"
-#~ msgstr "збережено на сервері"
 
 #~ msgid "The name is already in use."
 #~ msgstr "Ця назва вже використовується"
@@ -2064,25 +2092,6 @@ msgstr "Ваш проект вивантажено на scratch.mit.edu"
 
 #~ msgid "world"
 #~ msgstr "світ"
-
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
-#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Інформація про \"хмарні\" змінні</b>&nbsp;<br>В даний час "
-#~ "підтримуються тільки числові змінні<br>Чати не допускаються, і будуть "
-#~ "видалятись<br>Для отримання додаткової інформації <a href= target=>див. "
-#~ "Запитання по хмарним змінним!</a>"
-
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "Натисніть  , щоб спробувати ще раз, або   щоб зберегти"
-
-#~ msgid "Eraser width:"
-#~ msgstr "Розмір гумки:"
-
-#~ msgid "Line width:"
-#~ msgstr "Ширина лінії:"
 
 #~ msgid "cleanup"
 #~ msgstr "впорядкувати"
@@ -2181,9 +2190,6 @@ msgstr "Ваш проект вивантажено на scratch.mit.edu"
 
 #~ msgid "whisper"
 #~ msgstr "шепіт"
-
-#~ msgid "any"
-#~ msgstr "будь-яке"
 
 #~ msgid "Floor Tom"
 #~ msgstr "Floor Tom"

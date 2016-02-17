@@ -91,8 +91,9 @@ msgstr ""
 msgid "Animal"
 msgstr "Heyvan"
 
+#, fuzzy
 msgid "Animals"
-msgstr ""
+msgstr "Heyvan"
 
 msgid "asin"
 msgstr ""
@@ -304,8 +305,9 @@ msgstr ""
 msgid "Copying..."
 msgstr ""
 
+#, fuzzy
 msgid "cos"
-msgstr ""
+msgstr "acos"
 
 msgid "Costume"
 msgstr ""
@@ -1515,4 +1517,16 @@ msgstr ""
 
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
+msgstr ""
+
+msgid "Record Project Video"
+msgstr ""
+
+msgid "Remove Background"
+msgstr ""
+
+msgid "any"
+msgstr ""
+
+msgid "when Stage clicked"
 msgstr ""

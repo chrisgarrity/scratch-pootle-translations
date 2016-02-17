@@ -14,6 +14,10 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1423415016.000000\n"
 
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "ไทย"
+
 msgid "%b and %b"
 msgstr "%b และ %b"
 
@@ -22,6 +26,9 @@ msgstr "%b หรือ %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute ของ %m.spriteOrStage"
+
+msgid "%m.list contains %s"
+msgstr "%m.list บรรจุ %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp ของ %n"
@@ -488,6 +495,27 @@ msgstr "ตำแหน่ง x "
 msgid "y position"
 msgstr "ตำแหน่ง y"
 
+# 89%
+msgid "set motor direction %m.motorDirection"
+msgstr "ทิศทางของมอเตอร์ %m.motorDirection"
+
+# 77%
+msgid "set motor power %n"
+msgstr "พลังงานมอเตอร์ %n"
+
+msgid "turn motor off"
+msgstr "ปิดมอเตอร์"
+
+msgid "turn motor on"
+msgstr "เืปิดมอเตอร์"
+
+# 80%
+msgid "turn motor on for %n secs"
+msgstr "เปิดมอเตอร์เป็นเวลา %n วินาที"
+
+msgid "when distance < %n"
+msgstr "เมื่อระยะห่าง < %n"
+
 msgid "when tilt = %n"
 msgstr ""
 
@@ -526,6 +554,9 @@ msgstr ""
 
 msgid "abs"
 msgstr "ค่าสัมบูรณ์"
+
+msgid "Account settings"
+msgstr "ตั้งค่าบัญชี"
 
 msgid "acos"
 msgstr ""
@@ -738,6 +769,9 @@ msgstr "ปิด"
 
 msgid "Closed Hi-Hat"
 msgstr "โคลสไฮแฮท"
+
+msgid "Cloud"
+msgstr "คลาวด์"
 
 msgid "Cloud data"
 msgstr "ข้อมูลคลาวด์"
@@ -1067,6 +1101,9 @@ msgstr "แสง"
 msgid "lights"
 msgstr "แสง"
 
+msgid "limit reached"
+msgstr "ถึงค่าสุดแล้ว"
+
 msgid "Line"
 msgstr "เส้น"
 
@@ -1375,6 +1412,9 @@ msgstr "เปลี่ยนชื่อตัวแปร"
 msgid "Replace existing project"
 msgstr ""
 
+msgid "requires sign in"
+msgstr "ต้องเข้าระบบก่อน"
+
 msgid "Reshape"
 msgstr ""
 
@@ -1420,6 +1460,9 @@ msgstr ""
 msgid "Save as"
 msgstr ""
 
+msgid "Save as a copy"
+msgstr "จัดเก็บแบบสำเนา"
+
 msgid "Save now"
 msgstr "จัดเก็บทันที"
 
@@ -1452,6 +1495,9 @@ msgstr "สคริปต์"
 
 msgid "Scripts"
 msgstr "สคริปต์"
+
+msgid "Scripts:"
+msgstr "สคริปต์:"
 
 msgid "second"
 msgstr "วินาที"
@@ -1520,6 +1566,9 @@ msgstr "ลงชื่อเข้าใช้"
 
 msgid "Sign in to save"
 msgstr "ลงชื่อเพื่อจัดเก็บ"
+
+msgid "Sign out"
+msgstr "ลงชื่อออก"
 
 msgid "silence"
 msgstr "เงียบ"
@@ -1595,6 +1644,9 @@ msgstr "ฉากที่เลือก:"
 
 msgid "Steel Drum"
 msgstr ""
+
+msgid "stored on server"
+msgstr "เก็บไว้บนเซิร์ฟเวอร์"
 
 msgid "Synth Lead"
 msgstr ""
@@ -1828,6 +1880,12 @@ msgstr ""
 msgid "Click  to try again or  to save"
 msgstr ""
 
+msgid "Eraser width:"
+msgstr "ความกว้างยางลบ:"
+
+msgid "Line width:"
+msgstr "ความกว้างเส้น:"
+
 # Offline editor only
 msgid "All Tips"
 msgstr ""
@@ -1930,33 +1988,14 @@ msgstr ""
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
-# The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "ไทย"
+msgid "any"
+msgstr "อะไรก็ได้"
 
-#~ msgid "%m.list contains %s"
-#~ msgstr "%m.list บรรจุ %s"
+msgid "Record Project Video"
+msgstr ""
 
-# 89%
-#~ msgid "set motor direction %m.motorDirection"
-#~ msgstr "ทิศทางของมอเตอร์ %m.motorDirection"
-
-# 77%
-#~ msgid "set motor power %n"
-#~ msgstr "พลังงานมอเตอร์ %n"
-
-#~ msgid "turn motor off"
-#~ msgstr "ปิดมอเตอร์"
-
-#~ msgid "turn motor on"
-#~ msgstr "เืปิดมอเตอร์"
-
-# 80%
-#~ msgid "turn motor on for %n secs"
-#~ msgstr "เปิดมอเตอร์เป็นเวลา %n วินาที"
-
-#~ msgid "when distance < %n"
-#~ msgstr "เมื่อระยะห่าง < %n"
+msgid "Remove Background"
+msgstr ""
 
 # 89%
 # 86%
@@ -1988,14 +2027,8 @@ msgstr ""
 #~ msgid "play note %n for %n beats"
 #~ msgstr "เล่น โน้ต %d.note เป็น %n จังหวะ"
 
-#~ msgid "Account settings"
-#~ msgstr "ตั้งค่าบัญชี"
-
 #~ msgid "all motors"
 #~ msgstr "มอเตอร์ทั้งหมด"
-
-#~ msgid "Cloud"
-#~ msgstr "คลาวด์"
 
 #~ msgid "everything"
 #~ msgstr "ทุกสิ่ง"
@@ -2006,9 +2039,6 @@ msgstr ""
 #~ msgid "Extension Problem"
 #~ msgstr "ปัญหาส่วนขยาย"
 
-#~ msgid "limit reached"
-#~ msgstr "ถึงค่าสุดแล้ว"
-
 #~ msgid "motor"
 #~ msgstr "มอเตอร์"
 
@@ -2017,27 +2047,6 @@ msgstr ""
 
 #~ msgid "motor B"
 #~ msgstr "มอเตอร์ B"
-
-#~ msgid "requires sign in"
-#~ msgstr "ต้องเข้าระบบก่อน"
-
-#~ msgid "Save as a copy"
-#~ msgstr "จัดเก็บแบบสำเนา"
-
-#~ msgid "Scripts:"
-#~ msgstr "สคริปต์:"
-
-#~ msgid "Sign out"
-#~ msgstr "ลงชื่อออก"
-
-#~ msgid "stored on server"
-#~ msgstr "เก็บไว้บนเซิร์ฟเวอร์"
-
-#~ msgid "Eraser width:"
-#~ msgstr "ความกว้างยางลบ:"
-
-#~ msgid "Line width:"
-#~ msgstr "ความกว้างเส้น:"
 
 #~ msgid "Microphone Volume:"
 #~ msgstr "ความดังไมโครโฟน:"
@@ -2049,9 +2058,6 @@ msgstr ""
 
 #~ msgid "Paint"
 #~ msgstr "วาดภาพ"
-
-#~ msgid "any"
-#~ msgstr "อะไรก็ได้"
 
 #~ msgid "High Tom"
 #~ msgstr "ไฮ ทอม"

@@ -14,6 +14,10 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1429105936.000000\n"
 
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "Aragonés"
+
 msgid "%b and %b"
 msgstr "%b y %b"
 
@@ -22,6 +26,9 @@ msgstr "%b u %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute de %m.spriteOrStage"
+
+msgid "%m.list contains %s"
+msgstr "%m.list contién %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp de %n"
@@ -472,6 +479,27 @@ msgstr "posición en x"
 msgid "y position"
 msgstr "posición en y"
 
+msgid "set motor direction %m.motorDirection"
+msgstr "fixar a dirección d'o motor %m.motorDirection"
+
+msgid "set motor power %n"
+msgstr "fixar a potencia d'o motor a %n"
+
+msgid "turn motor off"
+msgstr "amortar o motor"
+
+msgid "turn motor on"
+msgstr "enchegar o motor"
+
+msgid "turn motor on for %n secs"
+msgstr "enchegar o motor por %n segundos"
+
+msgid "when distance < %n"
+msgstr "quan a distancia < %n"
+
+msgid "when tilt = %n"
+msgstr "quan a inclinación = %n"
+
 #: commands-online.txt:7 commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list contién %s?"
@@ -503,6 +531,9 @@ msgstr "Arredol de"
 
 msgid "abs"
 msgstr "abs"
+
+msgid "Account settings"
+msgstr "Achustes d'a cuenta"
 
 msgid "acos"
 msgstr "acos"
@@ -698,6 +729,9 @@ msgstr "Clarinet"
 msgid "Claves"
 msgstr "Claus"
 
+msgid "clean up"
+msgstr "escoscar"
+
 msgid "Clear"
 msgstr "Limpiar"
 
@@ -712,6 +746,9 @@ msgstr "Zarrar"
 
 msgid "Closed Hi-Hat"
 msgstr "Charles zarrau"
+
+msgid "Cloud"
+msgstr "Boira"
 
 msgid "Cloud data"
 msgstr "Datos en a boira"
@@ -767,6 +804,9 @@ msgstr "Vestius"
 
 msgid "Costumes > 1"
 msgstr "Vestius > 1"
+
+msgid "Costumes:"
+msgstr "Vestius:"
 
 msgid "Could not retrieve new application from server."
 msgstr "No s'ha puesto recuperar a nueva aplicación de servidor."
@@ -926,6 +966,9 @@ msgstr "Una capa enta debant"
 msgid "ghost"
 msgstr "transparent"
 
+msgid "Go to My Stuff"
+msgstr "Ves ta las Mías Cosas."
+
 msgid "Group"
 msgstr "Grupo"
 
@@ -1004,6 +1047,9 @@ msgstr "Biblioteca"
 
 msgid "light"
 msgstr "luz"
+
+msgid "limit reached"
+msgstr "limite alcanzau"
 
 msgid "Line"
 msgstr "Linia"
@@ -1093,6 +1139,9 @@ msgstr "Caixa musical"
 
 msgid "Music Loops"
 msgstr "Bucles musicals"
+
+msgid "My Stuff"
+msgstr "As Mías Cosetas"
 
 msgid "myself"
 msgstr "yo mesmo"
@@ -1251,6 +1300,9 @@ msgstr "pop"
 msgid "previous backdrop"
 msgstr "fondo anterior"
 
+msgid "Profile"
+msgstr "Perfil"
+
 msgid "Project did not load."
 msgstr "O prochecto no s'ha cargau."
 
@@ -1300,6 +1352,9 @@ msgstr "Cambiar o nombre"
 msgid "rename variable"
 msgstr "cambiar o nombre d'a variable"
 
+msgid "requires sign in"
+msgstr "requiere iniciar a sesión"
+
 msgid "Reshape"
 msgstr "Redibuixar"
 
@@ -1345,6 +1400,9 @@ msgstr "Alzar una copia d'iste prochecto y adhibir as tuyas propias ideyas."
 msgid "Save as"
 msgstr "Alzar como"
 
+msgid "Save as a copy"
+msgstr "Alzar un acopia"
+
 msgid "Save now"
 msgstr "Alzar agora"
 
@@ -1375,6 +1433,10 @@ msgstr "Programa"
 
 msgid "Scripts"
 msgstr "Programas"
+
+# 87%
+msgid "Scripts:"
+msgstr "Programas:"
 
 msgid "second"
 msgstr "segundo"
@@ -1436,6 +1498,9 @@ msgstr "Encetar a sesión"
 
 msgid "Sign in to save"
 msgstr "Encetar a sesión ta poder alzar"
+
+msgid "Sign out"
+msgstr "Zarrar a sesión"
 
 msgid "silence"
 msgstr "silencio"
@@ -1508,6 +1573,9 @@ msgstr "Scenario trigau:"
 
 msgid "Steel Drum"
 msgstr "Tambor d'acero"
+
+msgid "stored on server"
+msgstr "alzau en o servidor"
 
 msgid "Synth Lead"
 msgstr "Sintetizador solista"
@@ -1722,6 +1790,24 @@ msgstr "O tuyo nombre de Scratch"
 msgid "Your Scratch name is required"
 msgstr "Ye menister o tuyo nombre de Scratch"
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Información sobre variables en a boira</b><br>&nbsp;<br>Por agora, nomás "
+"s'acceptan numers<br>Os chats no se permiten, y se'n eliminarán<br>Ta saber-"
+"ne mas, <a href= target=>puetz leyer a FAQ sobre datos en a boira</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "Fer clic  ta tornar a prebar-lo u  ta alzar-lo"
+
+msgid "Eraser width:"
+msgstr "Amplaria d'o borrador:"
+
+msgid "Line width:"
+msgstr "Amplaria de linia:"
+
 # Offline editor only
 msgid "All Tips"
 msgstr "Totz os consellos"
@@ -1826,36 +1912,17 @@ msgstr "Vesitar a pachina de descarga"
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr "O suyo prochecto s'ha cargau en scratch.mit.edu"
 
-# The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "Aragonés"
+msgid "Record Project Video"
+msgstr ""
 
-#~ msgid "%m.list contains %s"
-#~ msgstr "%m.list contién %s"
+msgid "Remove Background"
+msgstr ""
+
+msgid "any"
+msgstr ""
 
 #~ msgid "when Stage clicked"
 #~ msgstr "quan se faiga clic en o scenario"
-
-#~ msgid "set motor direction %m.motorDirection"
-#~ msgstr "fixar a dirección d'o motor %m.motorDirection"
-
-#~ msgid "set motor power %n"
-#~ msgstr "fixar a potencia d'o motor a %n"
-
-#~ msgid "turn motor off"
-#~ msgstr "amortar o motor"
-
-#~ msgid "turn motor on"
-#~ msgstr "enchegar o motor"
-
-#~ msgid "turn motor on for %n secs"
-#~ msgstr "enchegar o motor por %n segundos"
-
-#~ msgid "when distance < %n"
-#~ msgstr "quan a distancia < %n"
-
-#~ msgid "when tilt = %n"
-#~ msgstr "quan a inclinación = %n"
 
 # 86%
 #, fuzzy
@@ -1889,9 +1956,6 @@ msgstr "O suyo prochecto s'ha cargau en scratch.mit.edu"
 #~ msgid "About PicoBoard extension..."
 #~ msgstr "Arredol d'a extensión PicoBoard..."
 
-#~ msgid "Account settings"
-#~ msgstr "Achustes d'a cuenta"
-
 #~ msgid "add comment here..."
 #~ msgstr "anyader un comentario aquí..."
 
@@ -1901,17 +1965,8 @@ msgstr "O suyo prochecto s'ha cargau en scratch.mit.edu"
 #~ msgid "Cannot Add"
 #~ msgstr "No se puet anyader"
 
-#~ msgid "clean up"
-#~ msgstr "escoscar"
-
-#~ msgid "Cloud"
-#~ msgstr "Boira"
-
 #~ msgid "Cloud variable (stored on server)"
 #~ msgstr "Variable en a boira (alzada en o servidor)"
-
-#~ msgid "Costumes:"
-#~ msgstr "Vestius:"
 
 #~ msgid "Downloading new version"
 #~ msgstr "Descargando a nueva versión"
@@ -1934,9 +1989,6 @@ msgstr "O suyo prochecto s'ha cargau en scratch.mit.edu"
 #~ msgid "false"
 #~ msgstr "falso"
 
-#~ msgid "Go to My Stuff"
-#~ msgstr "Ves ta las Mías Cosas."
-
 #~ msgid "Hello!"
 #~ msgstr "Ola!"
 
@@ -1950,9 +2002,6 @@ msgstr "O suyo prochecto s'ha cargau en scratch.mit.edu"
 #~ msgid "lights"
 #~ msgstr "luces"
 
-#~ msgid "limit reached"
-#~ msgstr "limite alcanzau"
-
 #~ msgid "motor"
 #~ msgstr "motor"
 
@@ -1962,14 +2011,8 @@ msgstr "O suyo prochecto s'ha cargau en scratch.mit.edu"
 #~ msgid "motor B"
 #~ msgstr "motor B"
 
-#~ msgid "My Stuff"
-#~ msgstr "As Mías Cosetas"
-
 #~ msgid "not ="
 #~ msgstr "no ="
-
-#~ msgid "Profile"
-#~ msgstr "Perfil"
 
 #~ msgid "Remove extension blocks"
 #~ msgstr "Sacar os bloques d'extensión"
@@ -1977,18 +2020,8 @@ msgstr "O suyo prochecto s'ha cargau en scratch.mit.edu"
 #~ msgid "Replace existing project"
 #~ msgstr "Substituir un prochecto existent"
 
-#~ msgid "requires sign in"
-#~ msgstr "requiere iniciar a sesión"
-
-#~ msgid "Save as a copy"
-#~ msgstr "Alzar un acopia"
-
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "Scratch 2.0 Sin Connexión"
-
-# 87%
-#~ msgid "Scripts:"
-#~ msgstr "Programas:"
 
 #~ msgid ""
 #~ "See the Tips window (on the right) to install the plug-in and get the "
@@ -1999,12 +2032,6 @@ msgstr "O suyo prochecto s'ha cargau en scratch.mit.edu"
 
 #~ msgid "Share to Scratch website"
 #~ msgstr "Compartir a o puesto web de Scratch"
-
-#~ msgid "Sign out"
-#~ msgstr "Zarrar a sesión"
-
-#~ msgid "stored on server"
-#~ msgstr "alzau en o servidor"
 
 #~ msgid "The name is already in use."
 #~ msgstr "Iste nombre ya ye en uso"
@@ -2027,25 +2054,6 @@ msgstr "O suyo prochecto s'ha cargau en scratch.mit.edu"
 
 #~ msgid "world"
 #~ msgstr "mundo"
-
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
-#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Información sobre variables en a boira</b><br>&nbsp;<br>Por agora, "
-#~ "nomás s'acceptan numers<br>Os chats no se permiten, y se'n "
-#~ "eliminarán<br>Ta saber-ne mas, <a href= target=>puetz leyer a FAQ sobre "
-#~ "datos en a boira</a>"
-
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "Fer clic  ta tornar a prebar-lo u  ta alzar-lo"
-
-#~ msgid "Eraser width:"
-#~ msgstr "Amplaria d'o borrador:"
-
-#~ msgid "Line width:"
-#~ msgstr "Amplaria de linia:"
 
 #~ msgid "cleanup"
 #~ msgstr "escoscar"

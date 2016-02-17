@@ -14,6 +14,10 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1429111134.000000\n"
 
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "Македонски"
+
 msgid "%b and %b"
 msgstr "%b и %b"
 
@@ -22,6 +26,9 @@ msgstr "%b или %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute на %m.spriteOrStage"
+
+msgid "%m.list contains %s"
+msgstr "%m.list содржи %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp од %n"
@@ -475,6 +482,30 @@ msgstr "х позиција"
 msgid "y position"
 msgstr "у позиција"
 
+# 89%
+msgid "set motor direction %m.motorDirection"
+msgstr "намести насока на моторот %m.motorDirection"
+
+# 77%
+msgid "set motor power %n"
+msgstr "намести снага на мотор %n"
+
+msgid "turn motor off"
+msgstr "исклучи го моторот"
+
+msgid "turn motor on"
+msgstr "вклучи го моторот"
+
+# 80%
+msgid "turn motor on for %n secs"
+msgstr "вклучи го моторот за %n секунди"
+
+msgid "when distance < %n"
+msgstr "кога растојанието < %n"
+
+msgid "when tilt = %n"
+msgstr "кога наклонот = %n"
+
 #: commands-online.txt:7 commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list содржи %s?"
@@ -507,6 +538,9 @@ msgstr "За"
 
 msgid "abs"
 msgstr "апс"
+
+msgid "Account settings"
+msgstr "Подесувања на профил"
 
 msgid "acos"
 msgstr "а косинус"
@@ -697,6 +731,9 @@ msgstr "Кларинет-72"
 msgid "Claves"
 msgstr "Клавесин-75п"
 
+msgid "clean up"
+msgstr "исчисти"
+
 msgid "Clear"
 msgstr "Исчисти"
 
@@ -711,6 +748,9 @@ msgstr "Затвори"
 
 msgid "Closed Hi-Hat"
 msgstr "Затворен хај-хет чинел-42п"
+
+msgid "Cloud"
+msgstr "Облак"
 
 msgid "Cloud data"
 msgstr "Мноштво податоци"
@@ -765,6 +805,9 @@ msgstr "Маски"
 
 msgid "Costumes > 1"
 msgstr "Маски > 1"
+
+msgid "Costumes:"
+msgstr "Маски:"
 
 msgid "Could not retrieve new application from server."
 msgstr "Не може да се добие нова апликација од серверот."
@@ -923,6 +966,9 @@ msgstr "Слој нанапред"
 msgid "ghost"
 msgstr "дух"
 
+msgid "Go to My Stuff"
+msgstr "Оди до Мои Работи"
+
 msgid "Group"
 msgstr "Група"
 
@@ -1001,6 +1047,9 @@ msgstr "Библиотека"
 
 msgid "light"
 msgstr "светло"
+
+msgid "limit reached"
+msgstr "достигнат лимит"
 
 msgid "Line"
 msgstr "Линија"
@@ -1089,6 +1138,9 @@ msgstr "Музичка кутија-11"
 
 msgid "Music Loops"
 msgstr "Музички циклуси"
+
+msgid "My Stuff"
+msgstr "Мои работи"
 
 msgid "myself"
 msgstr "мене"
@@ -1243,6 +1295,9 @@ msgstr "поп (музика)"
 msgid "previous backdrop"
 msgstr "предходна позадина"
 
+msgid "Profile"
+msgstr "Профил"
+
 msgid "Project did not load."
 msgstr "Проектот не се вчита."
 
@@ -1292,6 +1347,9 @@ msgstr "Преименувај"
 msgid "rename variable"
 msgstr "преименувај променлива"
 
+msgid "requires sign in"
+msgstr "потребна е најава"
+
 msgid "Reshape"
 msgstr "Преобликувај"
 
@@ -1337,6 +1395,9 @@ msgstr "Зачувај копија од овој проект и додај с�
 msgid "Save as"
 msgstr "Зачувај како"
 
+msgid "Save as a copy"
+msgstr "Зачувај го како копија"
+
 msgid "Save now"
 msgstr "Зачувај сега"
 
@@ -1366,6 +1427,9 @@ msgstr "Запис"
 
 msgid "Scripts"
 msgstr "Записи"
+
+msgid "Scripts:"
+msgstr "Записи:"
 
 msgid "second"
 msgstr "втора"
@@ -1426,6 +1490,9 @@ msgstr "Најави се"
 
 msgid "Sign in to save"
 msgstr "Најави се за да зачуваш"
+
+msgid "Sign out"
+msgstr "Одјави се"
 
 msgid "silence"
 msgstr "тишина"
@@ -1496,6 +1563,9 @@ msgstr "Етапата е избрана:"
 
 msgid "Steel Drum"
 msgstr "Чинели"
+
+msgid "stored on server"
+msgstr "Зачувано на серверот"
 
 msgid "Synth Lead"
 msgstr "Водечки синтизајзер"
@@ -1704,6 +1774,25 @@ msgstr "Твоето Скреч име"
 msgid "Your Scratch name is required"
 msgstr "Потребно е твоето Скреч име"
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Информациите за мноштвото променливи</b><br>&nbsp;<br>Моментално само "
+"броеви се подржани<br>Собите за разгвор не се дозволени и ќе бидат "
+"одстранети<br>За повеќе информации, <a href= target=>погледнете ги мноштвото "
+"на податоци FAQ!</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "Кликни на обиди се повторно или зачувај на"
+
+msgid "Eraser width:"
+msgstr "Дебелина на бришач:"
+
+msgid "Line width:"
+msgstr "Дебелина на линија:"
+
 # Offline editor only
 msgid "All Tips"
 msgstr ""
@@ -1812,39 +1901,17 @@ msgstr ""
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
-# The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "Македонски"
+msgid "any"
+msgstr "било кој/а"
 
-#~ msgid "%m.list contains %s"
-#~ msgstr "%m.list содржи %s"
+msgid "Record Project Video"
+msgstr ""
+
+msgid "Remove Background"
+msgstr ""
 
 #~ msgid "when Stage clicked"
 #~ msgstr "кога е кликнато на позадината"
-
-# 89%
-#~ msgid "set motor direction %m.motorDirection"
-#~ msgstr "намести насока на моторот %m.motorDirection"
-
-# 77%
-#~ msgid "set motor power %n"
-#~ msgstr "намести снага на мотор %n"
-
-#~ msgid "turn motor off"
-#~ msgstr "исклучи го моторот"
-
-#~ msgid "turn motor on"
-#~ msgstr "вклучи го моторот"
-
-# 80%
-#~ msgid "turn motor on for %n secs"
-#~ msgstr "вклучи го моторот за %n секунди"
-
-#~ msgid "when distance < %n"
-#~ msgstr "кога растојанието < %n"
-
-#~ msgid "when tilt = %n"
-#~ msgstr "кога наклонот = %n"
 
 # 89%
 # 86%
@@ -1881,9 +1948,6 @@ msgstr ""
 #~ msgid "About PicoBoard extension..."
 #~ msgstr "За PicoBoard екстензија..."
 
-#~ msgid "Account settings"
-#~ msgstr "Подесувања на профил"
-
 #~ msgid "add comment here..."
 #~ msgstr "додај коментар тука..."
 
@@ -1893,17 +1957,8 @@ msgstr ""
 #~ msgid "Cannot Add"
 #~ msgstr "Не може да се додаде"
 
-#~ msgid "clean up"
-#~ msgstr "исчисти"
-
-#~ msgid "Cloud"
-#~ msgstr "Облак"
-
 #~ msgid "Cloud variable (stored on server)"
 #~ msgstr "Променлива (зачувана на сервер)"
-
-#~ msgid "Costumes:"
-#~ msgstr "Маски:"
 
 #~ msgid "Downloading new version"
 #~ msgstr "Се снима нова верзија"
@@ -1926,9 +1981,6 @@ msgstr ""
 #~ msgid "false"
 #~ msgstr "Неточно"
 
-#~ msgid "Go to My Stuff"
-#~ msgstr "Оди до Мои Работи"
-
 #~ msgid "Hello!"
 #~ msgstr "Здраво"
 
@@ -1942,9 +1994,6 @@ msgstr ""
 #~ msgid "lights"
 #~ msgstr "светлa"
 
-#~ msgid "limit reached"
-#~ msgstr "достигнат лимит"
-
 #~ msgid "motor"
 #~ msgstr "мотор"
 
@@ -1954,14 +2003,8 @@ msgstr ""
 #~ msgid "motor B"
 #~ msgstr "мотор Б"
 
-#~ msgid "My Stuff"
-#~ msgstr "Мои работи"
-
 #~ msgid "not ="
 #~ msgstr "не ="
-
-#~ msgid "Profile"
-#~ msgstr "Профил"
 
 #~ msgid "Remove extension blocks"
 #~ msgstr "Одстрани ги блоковите за екстензии"
@@ -1969,17 +2012,8 @@ msgstr ""
 #~ msgid "Replace existing project"
 #~ msgstr "Замени го постоечкиот проект"
 
-#~ msgid "requires sign in"
-#~ msgstr "потребна е најава"
-
-#~ msgid "Save as a copy"
-#~ msgstr "Зачувај го како копија"
-
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "Скреч 2.0 Офлајн Едитор"
-
-#~ msgid "Scripts:"
-#~ msgstr "Записи:"
 
 #~ msgid ""
 #~ "See the Tips window (on the right) to install the plug-in and get the "
@@ -1990,12 +2024,6 @@ msgstr ""
 
 #~ msgid "Share to Scratch website"
 #~ msgstr "Сподели на Скреч веб страната"
-
-#~ msgid "Sign out"
-#~ msgstr "Одјави се"
-
-#~ msgid "stored on server"
-#~ msgstr "Зачувано на серверот"
 
 #~ msgid "The name is already in use."
 #~ msgstr "Името е веќе во употреба."
@@ -2019,25 +2047,6 @@ msgstr ""
 #~ msgid "world"
 #~ msgstr "Свет"
 
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
-#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Информациите за мноштвото променливи</b><br>&nbsp;<br>Моментално само "
-#~ "броеви се подржани<br>Собите за разгвор не се дозволени и ќе бидат "
-#~ "одстранети<br>За повеќе информации, <a href= target=>погледнете ги "
-#~ "мноштвото на податоци FAQ!</a>"
-
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "Кликни на обиди се повторно или зачувај на"
-
-#~ msgid "Eraser width:"
-#~ msgstr "Дебелина на бришач:"
-
-#~ msgid "Line width:"
-#~ msgstr "Дебелина на линија:"
-
 #~ msgid "The name is already is use."
 #~ msgstr "Името е веќе во употреба."
 
@@ -2052,9 +2061,6 @@ msgstr ""
 
 #~ msgid "Paint"
 #~ msgstr "Боење"
-
-#~ msgid "any"
-#~ msgstr "било кој/а"
 
 #~ msgid "High Tom"
 #~ msgstr "Висок том-50п"

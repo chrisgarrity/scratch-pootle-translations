@@ -48,8 +48,8 @@ msgstr "Om"
 msgid "abs"
 msgstr "abs"
 
-#~ msgid "Account settings"
-#~ msgstr "Kontoinställningar"
+msgid "Account settings"
+msgstr "Kontoinställningar"
 
 msgid "acos"
 msgstr "acos"
@@ -263,8 +263,8 @@ msgstr "Klarinett"
 msgid "Claves"
 msgstr "Claves"
 
-#~ msgid "clean up"
-#~ msgstr "ordna block"
+msgid "clean up"
+msgstr "ordna block"
 
 msgid "Clear"
 msgstr "Rensa"
@@ -281,8 +281,8 @@ msgstr "Stäng"
 msgid "Closed Hi-Hat"
 msgstr "Stängd Hi-Hat"
 
-#~ msgid "Cloud"
-#~ msgstr "Moln"
+msgid "Cloud"
+msgstr "Moln"
 
 msgid "Cloud data"
 msgstr "Molndata"
@@ -349,8 +349,8 @@ msgstr "Klädslar > 1"
 
 # 75%
 # 88%
-#~ msgid "Costumes:"
-#~ msgstr "Klädslar:"
+msgid "Costumes:"
+msgstr "Klädslar:"
 
 msgid "Could not retrieve new application from server."
 msgstr "Det gick inte att hämta nytt tilläggsprogram från servern."
@@ -535,8 +535,8 @@ msgstr "Upp ett lager"
 msgid "ghost"
 msgstr "genomskinlighet"
 
-#~ msgid "Go to My Stuff"
-#~ msgstr "Gå till Mina grejer"
+msgid "Go to My Stuff"
+msgstr "Gå till Mina grejer"
 
 msgid "Group"
 msgstr "Grupp"
@@ -633,8 +633,8 @@ msgstr "ljus"
 #~ msgid "lights"
 #~ msgstr "ljus"
 
-#~ msgid "limit reached"
-#~ msgstr "gränsen är nådd"
+msgid "limit reached"
+msgstr "gränsen är nådd"
 
 msgid "Line"
 msgstr "Linje"
@@ -737,8 +737,8 @@ msgstr "Speldosa"
 msgid "Music Loops"
 msgstr "Musikloopar"
 
-#~ msgid "My Stuff"
-#~ msgstr "Mina grejer"
+msgid "My Stuff"
+msgstr "Mina grejer"
 
 msgid "myself"
 msgstr "mig själv"
@@ -904,8 +904,8 @@ msgstr "pop"
 msgid "previous backdrop"
 msgstr "föregående bakgrund"
 
-#~ msgid "Profile"
-#~ msgstr "Profil"
+msgid "Profile"
+msgstr "Profil"
 
 msgid "Project did not load."
 msgstr "Projektet laddades inte."
@@ -962,8 +962,8 @@ msgstr "ändra variabelnamn"
 #~ msgid "Replace existing project"
 #~ msgstr "Ersätt befintligt projekt"
 
-#~ msgid "requires sign in"
-#~ msgstr "kräver inloggning"
+msgid "requires sign in"
+msgstr "kräver inloggning"
 
 msgid "Reshape"
 msgstr "Omforma"
@@ -1010,8 +1010,8 @@ msgstr "Spara en kopia av projektet och lägg till dina egna idéer."
 msgid "Save as"
 msgstr "Spara som"
 
-#~ msgid "Save as a copy"
-#~ msgstr "Spara som kopia"
+msgid "Save as a copy"
+msgstr "Spara som kopia"
 
 msgid "Save now"
 msgstr "Spara nu"
@@ -1048,8 +1048,8 @@ msgid "Scripts"
 msgstr "Skript"
 
 # 87%
-#~ msgid "Scripts:"
-#~ msgstr "Skript:"
+msgid "Scripts:"
+msgstr "Skript:"
 
 msgid "second"
 msgstr "sekund"
@@ -1124,8 +1124,8 @@ msgstr "Logga in"
 msgid "Sign in to save"
 msgstr "Logga in för att spara"
 
-#~ msgid "Sign out"
-#~ msgstr "Logga ut"
+msgid "Sign out"
+msgstr "Logga ut"
 
 msgid "silence"
 msgstr "tystnad"
@@ -1209,8 +1209,8 @@ msgstr "Scen vald:"
 msgid "Steel Drum"
 msgstr "Steel Drum"
 
-#~ msgid "stored on server"
-#~ msgstr "lagrad på servern"
+msgid "stored on server"
+msgstr "lagrad på servern"
 
 msgid "Synth Lead"
 msgstr "Synth Lead"
@@ -1454,23 +1454,23 @@ msgstr "Ditt Scratchnamn"
 msgid "Your Scratch name is required"
 msgstr "Ditt Scratchnamn krävs"
 
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
-#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Information om Molnvariabler</b><br>&nbsp;<br>För närvarande stöds enbart "
-#~ "siffror<br>Chattrum är inte tillåtna, och kommer att tas bort<br>för mer "
-#~ "information, <a href= target=>se Molndata - FAQ!</a>"
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Information om Molnvariabler</b><br>&nbsp;<br>För närvarande stöds enbart "
+"siffror<br>Chattrum är inte tillåtna, och kommer att tas bort<br>för mer "
+"information, <a href= target=>se Molndata - FAQ!</a>"
 
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "Klicka  för att försöka igen eller  för att spara"
+msgid "Click  to try again or  to save"
+msgstr "Klicka  för att försöka igen eller  för att spara"
 
-#~ msgid "Eraser width:"
-#~ msgstr "Suddgummibredd:"
+msgid "Eraser width:"
+msgstr "Suddgummibredd:"
 
-#~ msgid "Line width:"
-#~ msgstr "Linjebredd:"
+msgid "Line width:"
+msgstr "Linjebredd:"
 
 # Offline editor only
 msgid "All Tips"
@@ -1674,8 +1674,8 @@ msgstr "Ditt projekt har laddats upp till scratch.mit.edu"
 #~ msgid "whisper"
 #~ msgstr "viska"
 
-#~ msgid "any"
-#~ msgstr "någon"
+msgid "any"
+msgstr "någon"
 
 #~ msgid "Floor Tom"
 #~ msgstr "Golv Puka"
@@ -1736,3 +1736,12 @@ msgstr "Ditt projekt har laddats upp till scratch.mit.edu"
 
 #~ msgid "Short Guiro"
 #~ msgstr "Kort Guiro"
+
+msgid "Record Project Video"
+msgstr ""
+
+msgid "Remove Background"
+msgstr ""
+
+msgid "when Stage clicked"
+msgstr ""

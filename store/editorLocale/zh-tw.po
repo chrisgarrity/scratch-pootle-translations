@@ -14,6 +14,10 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1451209216.000000\n"
 
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "正體中文"
+
 msgid "%b and %b"
 msgstr "%b 和 %b"
 
@@ -22,6 +26,9 @@ msgstr "%b 或 %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.spriteOrStage 的 %m.attribute"
+
+msgid "%m.list contains %s"
+msgstr "%m.list 內包含 %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%n 的 %m.mathOp"
@@ -475,6 +482,30 @@ msgstr "x 座標"
 msgid "y position"
 msgstr "y 座標"
 
+# 89%
+msgid "set motor direction %m.motorDirection"
+msgstr "設定馬達運轉方向 %m.motorDirection"
+
+# 77%
+msgid "set motor power %n"
+msgstr "設定馬達動力 %n"
+
+msgid "turn motor off"
+msgstr "關閉馬達"
+
+msgid "turn motor on"
+msgstr "啟動馬達"
+
+# 80%
+msgid "turn motor on for %n secs"
+msgstr "啟動馬達運轉 %n 秒"
+
+msgid "when distance < %n"
+msgstr "當距離 < %n"
+
+msgid "when tilt = %n"
+msgstr "當傾斜度 = %n"
+
 #: commands-online.txt:7 commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list 中包含 %s？"
@@ -506,6 +537,9 @@ msgstr "關於"
 
 msgid "abs"
 msgstr "abs"
+
+msgid "Account settings"
+msgstr "用戶設定"
 
 msgid "acos"
 msgstr "acos"
@@ -695,6 +729,9 @@ msgstr "單簧管"
 msgid "Claves"
 msgstr "古鋼琴"
 
+msgid "clean up"
+msgstr "整理程式區"
+
 msgid "Clear"
 msgstr "清除"
 
@@ -709,6 +746,9 @@ msgstr "結束"
 
 msgid "Closed Hi-Hat"
 msgstr "閉合雙面拔"
+
+msgid "Cloud"
+msgstr "雲端"
 
 msgid "Cloud data"
 msgstr "雲端資料"
@@ -763,6 +803,9 @@ msgstr "造型"
 
 msgid "Costumes > 1"
 msgstr "造型 > 1"
+
+msgid "Costumes:"
+msgstr "造型："
 
 msgid "Could not retrieve new application from server."
 msgstr "無法從伺服器取得新應用程式。"
@@ -922,6 +965,9 @@ msgstr "上移一層"
 msgid "ghost"
 msgstr "鬼"
 
+msgid "Go to My Stuff"
+msgstr "去我的房間"
+
 msgid "Group"
 msgstr "群組"
 
@@ -1000,6 +1046,9 @@ msgstr "範例庫"
 
 msgid "light"
 msgstr "光線"
+
+msgid "limit reached"
+msgstr "抵達限制"
 
 msgid "Line"
 msgstr "線條"
@@ -1089,6 +1138,9 @@ msgstr "音樂盒"
 
 msgid "Music Loops"
 msgstr "音樂循環"
+
+msgid "My Stuff"
+msgstr "我的東西"
 
 msgid "myself"
 msgstr "自己"
@@ -1243,6 +1295,9 @@ msgstr "pop"
 msgid "previous backdrop"
 msgstr "上一個背景"
 
+msgid "Profile"
+msgstr "基本資料"
+
 msgid "Project did not load."
 msgstr "專案並未載入。"
 
@@ -1292,6 +1347,9 @@ msgstr "重新命名"
 msgid "rename variable"
 msgstr "重新命名變數"
 
+msgid "requires sign in"
+msgstr "需要登入"
+
 msgid "Reshape"
 msgstr "重新塑形"
 
@@ -1337,6 +1395,9 @@ msgstr "儲存此專案的副本並加入您的點子。"
 msgid "Save as"
 msgstr "另存新檔"
 
+msgid "Save as a copy"
+msgstr "儲存成副本"
+
 msgid "Save now"
 msgstr "儲存"
 
@@ -1366,6 +1427,9 @@ msgstr "程式"
 
 msgid "Scripts"
 msgstr "程式"
+
+msgid "Scripts:"
+msgstr "程式："
 
 msgid "second"
 msgstr "秒"
@@ -1426,6 +1490,9 @@ msgstr "登入"
 
 msgid "Sign in to save"
 msgstr "請先登入才能儲存"
+
+msgid "Sign out"
+msgstr "登出"
 
 msgid "silence"
 msgstr "靜音"
@@ -1498,6 +1565,9 @@ msgstr "已選擇的舞台："
 
 msgid "Steel Drum"
 msgstr "鋼鼓"
+
+msgid "stored on server"
+msgstr "已儲存至伺服器"
 
 msgid "Synth Lead"
 msgstr "合成主音"
@@ -1702,6 +1772,24 @@ msgstr "您的 Scratch 名稱"
 msgid "Your Scratch name is required"
 msgstr "需要填寫您的 Scratch 名稱"
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>雲端變數的</b><br>&nbsp;<br>目前只能用數字<br>不能用聊天室，會被刪除。<br>"
+"更多相關資訊<a href=\"/help/faq/#clouddata\" target=\"_blank\">請看雲端資料"
+"FAQ!</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "點選\"立即儲存\"以重試或\"下載\"以儲存"
+
+msgid "Eraser width:"
+msgstr "橡皮擦寬度"
+
+msgid "Line width:"
+msgstr "線條寬度"
+
 # Offline editor only
 msgid "All Tips"
 msgstr "所有技巧"
@@ -1804,39 +1892,17 @@ msgstr "造訪下載頁面"
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr "您的專案已經上傳到 scratch.mit.edu"
 
-# The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "正體中文"
+msgid "any"
+msgstr "任何的"
 
-#~ msgid "%m.list contains %s"
-#~ msgstr "%m.list 內包含 %s"
+msgid "Record Project Video"
+msgstr ""
+
+msgid "Remove Background"
+msgstr ""
 
 #~ msgid "when Stage clicked"
 #~ msgstr "當舞臺被點一下"
-
-# 89%
-#~ msgid "set motor direction %m.motorDirection"
-#~ msgstr "設定馬達運轉方向 %m.motorDirection"
-
-# 77%
-#~ msgid "set motor power %n"
-#~ msgstr "設定馬達動力 %n"
-
-#~ msgid "turn motor off"
-#~ msgstr "關閉馬達"
-
-#~ msgid "turn motor on"
-#~ msgstr "啟動馬達"
-
-# 80%
-#~ msgid "turn motor on for %n secs"
-#~ msgstr "啟動馬達運轉 %n 秒"
-
-#~ msgid "when distance < %n"
-#~ msgstr "當距離 < %n"
-
-#~ msgid "when tilt = %n"
-#~ msgstr "當傾斜度 = %n"
 
 # 89%
 # 86%
@@ -1873,9 +1939,6 @@ msgstr "您的專案已經上傳到 scratch.mit.edu"
 #~ msgid "About PicoBoard extension..."
 #~ msgstr "關於 PicoBoard 擴充功能…"
 
-#~ msgid "Account settings"
-#~ msgstr "用戶設定"
-
 #~ msgid "add comment here..."
 #~ msgstr "在這裡新增註解…"
 
@@ -1885,17 +1948,8 @@ msgstr "您的專案已經上傳到 scratch.mit.edu"
 #~ msgid "Cannot Add"
 #~ msgstr "無法加入"
 
-#~ msgid "clean up"
-#~ msgstr "整理程式區"
-
-#~ msgid "Cloud"
-#~ msgstr "雲端"
-
 #~ msgid "Cloud variable (stored on server)"
 #~ msgstr "雲端變數 (資料將會儲存在伺服器)"
-
-#~ msgid "Costumes:"
-#~ msgstr "造型："
 
 #~ msgid "Downloading new version"
 #~ msgstr "正在下載更新版本"
@@ -1918,9 +1972,6 @@ msgstr "您的專案已經上傳到 scratch.mit.edu"
 #~ msgid "false"
 #~ msgstr "假"
 
-#~ msgid "Go to My Stuff"
-#~ msgstr "去我的房間"
-
 #~ msgid "Hello!"
 #~ msgstr "你好！"
 
@@ -1934,9 +1985,6 @@ msgstr "您的專案已經上傳到 scratch.mit.edu"
 #~ msgid "lights"
 #~ msgstr "光線"
 
-#~ msgid "limit reached"
-#~ msgstr "抵達限制"
-
 #~ msgid "motor"
 #~ msgstr "馬達"
 
@@ -1946,14 +1994,8 @@ msgstr "您的專案已經上傳到 scratch.mit.edu"
 #~ msgid "motor B"
 #~ msgstr "馬達 B"
 
-#~ msgid "My Stuff"
-#~ msgstr "我的東西"
-
 #~ msgid "not ="
 #~ msgstr "不等於"
-
-#~ msgid "Profile"
-#~ msgstr "基本資料"
 
 #~ msgid "Remove extension blocks"
 #~ msgstr "移除擴充功能積木"
@@ -1961,17 +2003,8 @@ msgstr "您的專案已經上傳到 scratch.mit.edu"
 #~ msgid "Replace existing project"
 #~ msgstr "取代現有專案"
 
-#~ msgid "requires sign in"
-#~ msgstr "需要登入"
-
-#~ msgid "Save as a copy"
-#~ msgstr "儲存成副本"
-
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "Scratch 2.0 離線編輯器"
-
-#~ msgid "Scripts:"
-#~ msgstr "程式："
 
 #~ msgid ""
 #~ "See the Tips window (on the right) to install the plug-in and get the "
@@ -1980,12 +2013,6 @@ msgstr "您的專案已經上傳到 scratch.mit.edu"
 
 #~ msgid "Share to Scratch website"
 #~ msgstr "分享到 Scratch 網站"
-
-#~ msgid "Sign out"
-#~ msgstr "登出"
-
-#~ msgid "stored on server"
-#~ msgstr "已儲存至伺服器"
 
 #~ msgid "The name is already in use."
 #~ msgstr "這個名稱已被使用。"
@@ -2007,24 +2034,6 @@ msgstr "您的專案已經上傳到 scratch.mit.edu"
 #~ msgid "world"
 #~ msgstr "世界"
 
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
-#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>雲端變數的</b><br>&nbsp;<br>目前只能用數字<br>不能用聊天室，會被刪除。"
-#~ "<br>更多相關資訊<a href=\"/help/faq/#clouddata\" target=\"_blank\">請看雲"
-#~ "端資料FAQ!</a>"
-
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "點選\"立即儲存\"以重試或\"下載\"以儲存"
-
-#~ msgid "Eraser width:"
-#~ msgstr "橡皮擦寬度"
-
-#~ msgid "Line width:"
-#~ msgstr "線條寬度"
-
 #~ msgid "cleanup"
 #~ msgstr "清除"
 
@@ -2041,9 +2050,6 @@ msgstr "您的專案已經上傳到 scratch.mit.edu"
 
 #~ msgid "Paint"
 #~ msgstr "繪製"
-
-#~ msgid "any"
-#~ msgstr "任何的"
 
 #~ msgid "High Tom"
 #~ msgstr "高音鼓"

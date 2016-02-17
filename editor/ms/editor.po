@@ -1546,8 +1546,8 @@ msgstr ""
 #~ msgid "Paint"
 #~ msgstr "Cat"
 
-#~ msgid "any"
-#~ msgstr "mana-mana"
+msgid "any"
+msgstr "mana-mana"
 
 #~ msgid "High Tom"
 #~ msgstr "Tom Tinggi"
@@ -1584,3 +1584,12 @@ msgstr ""
 
 #~ msgid "Short Guiro"
 #~ msgstr "Guiro Pendek"
+
+msgid "Record Project Video"
+msgstr ""
+
+msgid "Remove Background"
+msgstr ""
+
+msgid "when Stage clicked"
+msgstr ""

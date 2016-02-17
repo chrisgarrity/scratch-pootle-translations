@@ -15,8 +15,8 @@ msgstr ""
 "X-POOTLE-MTIME: 1429692413.000000\n"
 
 # The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "Türkçe"
+msgid "Language-Name"
+msgstr "Türkçe"
 
 msgid "%b and %b"
 msgstr "%b ve %b"
@@ -27,8 +27,8 @@ msgstr "%b veya %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute değeri %m.spriteOrStage 'in"
 
-#~ msgid "%m.list contains %s"
-#~ msgstr "%m.list listesinde %s var (mı?)"
+msgid "%m.list contains %s"
+msgstr "%m.list listesinde %s var (mı?)"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp %n"
@@ -487,28 +487,28 @@ msgid "y position"
 msgstr "y konumu"
 
 # 89%
-#~ msgid "set motor direction %m.motorDirection"
-#~ msgstr "motor yönünü %m.motorDirection yap"
+msgid "set motor direction %m.motorDirection"
+msgstr "motor yönünü %m.motorDirection yap"
 
 # 77%
-#~ msgid "set motor power %n"
-#~ msgstr "motor gücünü %n yap"
+msgid "set motor power %n"
+msgstr "motor gücünü %n yap"
 
-#~ msgid "turn motor off"
-#~ msgstr "motoru kapat"
+msgid "turn motor off"
+msgstr "motoru kapat"
 
-#~ msgid "turn motor on"
-#~ msgstr "motorun işlevini başlat"
+msgid "turn motor on"
+msgstr "motorun işlevini başlat"
 
 # 80%
-#~ msgid "turn motor on for %n secs"
-#~ msgstr "motorun işlevini %n saniye boyunca başlat"
+msgid "turn motor on for %n secs"
+msgstr "motorun işlevini %n saniye boyunca başlat"
 
-#~ msgid "when distance < %n"
-#~ msgstr "mesafe %n'den küçük olduğunda"
+msgid "when distance < %n"
+msgstr "mesafe %n'den küçük olduğunda"
 
-#~ msgid "when tilt = %n"
-#~ msgstr "eğiklik %n olunca"
+msgid "when tilt = %n"
+msgstr "eğiklik %n olunca"
 
 # 89%
 # 86%

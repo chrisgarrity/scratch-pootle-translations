@@ -1519,5 +1519,14 @@ msgstr ""
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
-#~ msgid "any"
-#~ msgstr "ullus"
+msgid "any"
+msgstr "ullus"
+
+msgid "Record Project Video"
+msgstr ""
+
+msgid "Remove Background"
+msgstr ""
+
+msgid "when Stage clicked"
+msgstr ""

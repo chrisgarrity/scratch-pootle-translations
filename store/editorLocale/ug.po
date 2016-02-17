@@ -14,6 +14,10 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1431955134.000000\n"
 
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "Uyghur"
+
 msgid "%b and %b"
 msgstr "%b ۋە %b"
 
@@ -22,6 +26,9 @@ msgstr "%b ياكى %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr ""
+
+msgid "%m.list contains %s"
+msgstr "%m.listبولسا %s نى ئۆز ئىچىگە ئالىدۇ"
 
 msgid "%m.mathOp of %n"
 msgstr ""
@@ -579,17 +586,20 @@ msgstr ""
 msgid "atan"
 msgstr ""
 
+#, fuzzy
 msgid "B connected"
-msgstr ""
+msgstr "A ئۇلاندى"
 
 msgid "Back a layer"
 msgstr "تۆۋەنكى قەۋەتكە يۆتكەش"
 
+#, fuzzy
 msgid "backdrop"
-msgstr ""
+msgstr "تەگلىك1"
 
+#, fuzzy
 msgid "Backdrop"
-msgstr ""
+msgstr "تەگلىك1"
 
 msgid "Backdrop Library"
 msgstr "تەگلىك ئامبىرى"
@@ -600,8 +610,9 @@ msgstr "تەگلىك1"
 msgid "backdrops"
 msgstr "تەگلىك"
 
+#, fuzzy
 msgid "Backdrops"
-msgstr ""
+msgstr "تەگلىك"
 
 msgid "Backpack"
 msgstr "سومكا"
@@ -654,8 +665,9 @@ msgstr ""
 msgid "bytes loaded"
 msgstr ""
 
+#, fuzzy
 msgid "C connected"
-msgstr ""
+msgstr "A ئۇلاندى"
 
 msgid "Cabasa"
 msgstr ""
@@ -819,8 +831,9 @@ msgstr ""
 msgid "cut"
 msgstr ""
 
+#, fuzzy
 msgid "D connected"
-msgstr ""
+msgstr "A ئۇلاندى"
 
 msgid "date"
 msgstr ""
@@ -1960,12 +1973,14 @@ msgstr ""
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
-# The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "Uyghur"
+msgid "any"
+msgstr "خالىغان"
 
-#~ msgid "%m.list contains %s"
-#~ msgstr "%m.listبولسا %s نى ئۆز ئىچىگە ئالىدۇ"
+msgid "Record Project Video"
+msgstr ""
+
+msgid "Remove Background"
+msgstr ""
 
 #~ msgid "if %b"
 #~ msgstr "ئەگەر %b"
@@ -1975,6 +1990,3 @@ msgstr ""
 
 #~ msgid "motor on"
 #~ msgstr "موتورنى قوزغىتىش"
-
-#~ msgid "any"
-#~ msgstr "خالىغان"

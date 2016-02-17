@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-08-06 08:07+0000\n"
+"PO-Revision-Date: 2015-08-07 08:29+0000\n"
 "Last-Translator: Michal <mpraznovsky@zsvycapy.edu.sk>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sk\n"
@@ -12,7 +12,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1438848427.000000\n"
+"X-POOTLE-MTIME: 1438936149.000000\n"
+
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "Slovenčina"
 
 msgid "%b and %b"
 msgstr "%b a %b"
@@ -22,6 +26,9 @@ msgstr "%b alebo %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute z %m.spriteOrStage"
+
+msgid "%m.list contains %s"
+msgstr "%m.list obsahuje %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp z %n"
@@ -478,6 +485,30 @@ msgstr "pozícia x"
 msgid "y position"
 msgstr "pozícia y"
 
+# 89%
+msgid "set motor direction %m.motorDirection"
+msgstr "nastav smer motora na %m.motorDirection"
+
+# 77%
+msgid "set motor power %n"
+msgstr "nastav silu motora na %n"
+
+msgid "turn motor off"
+msgstr "vypni motor"
+
+msgid "turn motor on"
+msgstr "zapni motor"
+
+# 80%
+msgid "turn motor on for %n secs"
+msgstr "zapni motor na %n sekúnd"
+
+msgid "when distance < %n"
+msgstr "ak je vzdialenosť < %n"
+
+msgid "when tilt = %n"
+msgstr "ak sa sklon = %n"
+
 #: commands-online.txt:7 commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list obsahuje %s?"
@@ -510,6 +541,9 @@ msgstr "O aplikácii"
 
 msgid "abs"
 msgstr "abs"
+
+msgid "Account settings"
+msgstr "Nastavenia účtu"
 
 msgid "acos"
 msgstr "arccos"
@@ -719,6 +753,9 @@ msgstr "Zavrieť"
 msgid "Closed Hi-Hat"
 msgstr "Zatvorená hajtka"
 
+msgid "Cloud"
+msgstr "Cloud"
+
 msgid "Cloud data"
 msgstr "Cloud data"
 
@@ -775,6 +812,9 @@ msgstr "Kostýmy"
 
 msgid "Costumes > 1"
 msgstr "Kostýmov > 1"
+
+msgid "Costumes:"
+msgstr "Kostýmy:"
 
 msgid "Could not retrieve new application from server."
 msgstr "Nemôžem získať novú aplikáciu zo servera."
@@ -934,6 +974,9 @@ msgstr "Vpred o vrstvu"
 msgid "ghost"
 msgstr "duch"
 
+msgid "Go to My Stuff"
+msgstr "Prejsť na moje veci"
+
 msgid "Group"
 msgstr "Skupina"
 
@@ -1023,6 +1066,9 @@ msgstr "Knižnica"
 msgid "light"
 msgstr "svetlo"
 
+msgid "limit reached"
+msgstr "limit dosiahnutý"
+
 msgid "Line"
 msgstr "Úsečka"
 
@@ -1111,6 +1157,9 @@ msgstr "Hracia skrinka"
 
 msgid "Music Loops"
 msgstr "Hudobné stopy"
+
+msgid "My Stuff"
+msgstr "Moje veci"
 
 msgid "myself"
 msgstr "seba"
@@ -1268,6 +1317,9 @@ msgstr "pop"
 msgid "previous backdrop"
 msgstr "predchádzajúce pozadie"
 
+msgid "Profile"
+msgstr "Profil"
+
 msgid "Project did not load."
 msgstr "Projekt sa nenačíta."
 
@@ -1323,6 +1375,9 @@ msgstr "premenuj premennú"
 msgid "Replace existing project"
 msgstr ""
 
+msgid "requires sign in"
+msgstr "vyžaduje prihlásenie"
+
 msgid "Reshape"
 msgstr "Zmena tvaru"
 
@@ -1368,6 +1423,9 @@ msgstr "Ulož kópiu tohto projektu a pridaj svoje vlastné nápady."
 msgid "Save as"
 msgstr "Uložiť ako"
 
+msgid "Save as a copy"
+msgstr "Uložiť kópiu"
+
 msgid "Save now"
 msgstr "Uložiť teraz"
 
@@ -1400,6 +1458,9 @@ msgstr "Scenár"
 
 msgid "Scripts"
 msgstr "Scenáre"
+
+msgid "Scripts:"
+msgstr "Scenáre:"
 
 msgid "second"
 msgstr "sekunda"
@@ -1468,6 +1529,9 @@ msgstr "Prihlásenie"
 
 msgid "Sign in to save"
 msgstr "Prihlásiť sa pre uloženie"
+
+msgid "Sign out"
+msgstr "Odhlásenie"
 
 msgid "silence"
 msgstr "ticho"
@@ -1540,6 +1604,9 @@ msgstr "Vybraná scéna:"
 
 msgid "Steel Drum"
 msgstr "Plechový bubon"
+
+msgid "stored on server"
+msgstr "uložené na serveri"
 
 msgid "Synth Lead"
 msgstr "Syntetizátor sólo"
@@ -1767,6 +1834,24 @@ msgstr "Tvoje Scratch meno"
 msgid "Your Scratch name is required"
 msgstr "Tvoje Scratch meno je povinné"
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Informácie o cloudových premenných</b><br>&nbsp;<br>Zatiaľ sú podporované "
+"len čísla<br>Chatovacie miestnosti nie sú povolené a budú zmazané<br>Pre "
+"viac informácií <a href= target=>pozri cloud data FAQ!</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "Klikni  pre ďalší pokus alebo  pre uloženie"
+
+msgid "Eraser width:"
+msgstr "Šírka gumy:"
+
+msgid "Line width:"
+msgstr "Šírka úsečky:"
+
 # Offline editor only
 msgid "All Tips"
 msgstr "Všetky tipy"
@@ -1869,36 +1954,14 @@ msgstr "Navštív stránku na stiahnutie"
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr "Tvoj projekt bol nahraný na scratch.mit.edu"
 
-# The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "Slovenčina"
+msgid "any"
+msgstr "hociktorý"
 
-#~ msgid "%m.list contains %s"
-#~ msgstr "%m.list obsahuje %s"
+msgid "Record Project Video"
+msgstr ""
 
-# 89%
-#~ msgid "set motor direction %m.motorDirection"
-#~ msgstr "nastav smer motora na %m.motorDirection"
-
-# 77%
-#~ msgid "set motor power %n"
-#~ msgstr "nastav silu motora na %n"
-
-#~ msgid "turn motor off"
-#~ msgstr "vypni motor"
-
-#~ msgid "turn motor on"
-#~ msgstr "zapni motor"
-
-# 80%
-#~ msgid "turn motor on for %n secs"
-#~ msgstr "zapni motor na %n sekúnd"
-
-#~ msgid "when distance < %n"
-#~ msgstr "ak je vzdialenosť < %n"
-
-#~ msgid "when tilt = %n"
-#~ msgstr "ak sa sklon = %n"
+msgid "Remove Background"
+msgstr ""
 
 # 89%
 # 86%
@@ -1935,9 +1998,6 @@ msgstr "Tvoj projekt bol nahraný na scratch.mit.edu"
 #~ msgid "About PicoBoard extension..."
 #~ msgstr "O PicoBoard rozšírení..."
 
-#~ msgid "Account settings"
-#~ msgstr "Nastavenia účtu"
-
 #~ msgid "add comment here..."
 #~ msgstr "pridaj komentár ..."
 
@@ -1946,12 +2006,6 @@ msgstr "Tvoj projekt bol nahraný na scratch.mit.edu"
 
 #~ msgid "Cannot Add"
 #~ msgstr "Namôžem pridať"
-
-#~ msgid "Cloud"
-#~ msgstr "Cloud"
-
-#~ msgid "Costumes:"
-#~ msgstr "Kostýmy:"
 
 #~ msgid "Downloading new version"
 #~ msgstr "Sťahujem novú verziu"
@@ -1974,15 +2028,9 @@ msgstr "Tvoj projekt bol nahraný na scratch.mit.edu"
 #~ msgid "false"
 #~ msgstr "nepravda"
 
-#~ msgid "Go to My Stuff"
-#~ msgstr "Prejsť na moje veci"
-
 # 83%
 #~ msgid "lights"
 #~ msgstr "svetlá"
-
-#~ msgid "limit reached"
-#~ msgstr "limit dosiahnutý"
 
 #~ msgid "motor"
 #~ msgstr "motor"
@@ -1992,45 +2040,6 @@ msgstr "Tvoj projekt bol nahraný na scratch.mit.edu"
 
 #~ msgid "motor B"
 #~ msgstr "motor B"
-
-#~ msgid "My Stuff"
-#~ msgstr "Moje veci"
-
-#~ msgid "Profile"
-#~ msgstr "Profil"
-
-#~ msgid "requires sign in"
-#~ msgstr "vyžaduje prihlásenie"
-
-#~ msgid "Save as a copy"
-#~ msgstr "Uložiť kópiu"
-
-#~ msgid "Scripts:"
-#~ msgstr "Scenáre:"
-
-#~ msgid "Sign out"
-#~ msgstr "Odhlásenie"
-
-#~ msgid "stored on server"
-#~ msgstr "uložené na serveri"
-
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
-#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Informácie o cloudových premenných</b><br>&nbsp;<br>Zatiaľ sú "
-#~ "podporované len čísla<br>Chatovacie miestnosti nie sú povolené a budú "
-#~ "zmazané<br>Pre viac informácií <a href= target=>pozri cloud data FAQ!</a>"
-
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "Klikni  pre ďalší pokus alebo  pre uloženie"
-
-#~ msgid "Eraser width:"
-#~ msgstr "Šírka gumy:"
-
-#~ msgid "Line width:"
-#~ msgstr "Šírka úsečky:"
 
 #~ msgid "cleanup"
 #~ msgstr "vyčisti"
@@ -2048,9 +2057,6 @@ msgstr "Tvoj projekt bol nahraný na scratch.mit.edu"
 
 #~ msgid "Paint"
 #~ msgstr "Kresli"
-
-#~ msgid "any"
-#~ msgstr "hociktorý"
 
 #~ msgid "High Tom"
 #~ msgstr "Vysoký tom"

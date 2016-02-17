@@ -15,8 +15,8 @@ msgstr ""
 "X-POOTLE-MTIME: 1429110685.000000\n"
 
 # The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "Ελληνικά"
+msgid "Language-Name"
+msgstr "Ελληνικά"
 
 msgid "%b and %b"
 msgstr "%b και %b"
@@ -27,8 +27,8 @@ msgstr "%b ή %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute από %m.spriteOrStage"
 
-#~ msgid "%m.list contains %s"
-#~ msgstr "Η λίστα %m.list περιέχει %s"
+msgid "%m.list contains %s"
+msgstr "Η λίστα %m.list περιέχει %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp από %n"
@@ -486,28 +486,28 @@ msgid "y position"
 msgstr "θέση του y"
 
 # 89%
-#~ msgid "set motor direction %m.motorDirection"
-#~ msgstr "όρισε την κατεύθυνση κίνησης του κινητήρα σε %m.motorDirection"
+msgid "set motor direction %m.motorDirection"
+msgstr "όρισε την κατεύθυνση κίνησης του κινητήρα σε %m.motorDirection"
 
 # 77%
-#~ msgid "set motor power %n"
-#~ msgstr "όρισε την ισχύ κινητήρα σε %n"
+msgid "set motor power %n"
+msgstr "όρισε την ισχύ κινητήρα σε %n"
 
-#~ msgid "turn motor off"
-#~ msgstr "απενεργοποίησε τον κινητήρα"
+msgid "turn motor off"
+msgstr "απενεργοποίησε τον κινητήρα"
 
-#~ msgid "turn motor on"
-#~ msgstr "ενεργοποίησε τον κινητήρα"
+msgid "turn motor on"
+msgstr "ενεργοποίησε τον κινητήρα"
 
 # 80%
-#~ msgid "turn motor on for %n secs"
-#~ msgstr "ενεργοποίησε τον κινητήρα για %n δευτερόλεπτα"
+msgid "turn motor on for %n secs"
+msgstr "ενεργοποίησε τον κινητήρα για %n δευτερόλεπτα"
 
-#~ msgid "when distance < %n"
-#~ msgstr "Όταν η απόσταση < %n"
+msgid "when distance < %n"
+msgstr "Όταν η απόσταση < %n"
 
-#~ msgid "when tilt = %n"
-#~ msgstr "Όταν η κλίση = %n"
+msgid "when tilt = %n"
+msgstr "Όταν η κλίση = %n"
 
 # 89%
 # 86%

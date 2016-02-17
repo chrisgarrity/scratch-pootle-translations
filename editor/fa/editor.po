@@ -49,8 +49,8 @@ msgstr "درباره"
 msgid "abs"
 msgstr "قدرمطلق"
 
-#~ msgid "Account settings"
-#~ msgstr "تنظیمات کاربری"
+msgid "Account settings"
+msgstr "تنظیمات کاربری"
 
 msgid "acos"
 msgstr "acos"
@@ -259,8 +259,8 @@ msgstr "کلارینت"
 msgid "Claves"
 msgstr "Claves"
 
-#~ msgid "clean up"
-#~ msgstr "پاک سازی"
+msgid "clean up"
+msgstr "پاک سازی"
 
 msgid "Clear"
 msgstr "پاک کردن"
@@ -279,8 +279,8 @@ msgstr "بستن"
 msgid "Closed Hi-Hat"
 msgstr "Closed Hi-Hat"
 
-#~ msgid "Cloud"
-#~ msgstr "ابر"
+msgid "Cloud"
+msgstr "ابر"
 
 msgid "Cloud data"
 msgstr "داده ابری"
@@ -346,8 +346,8 @@ msgstr "لباس ها > ۱"
 
 # 75%
 # 88%
-#~ msgid "Costumes:"
-#~ msgstr "لباس ها:"
+msgid "Costumes:"
+msgstr "لباس ها:"
 
 msgid "Could not retrieve new application from server."
 msgstr "نتوانستم از سرور برنامه جدید را بگیرم."
@@ -531,8 +531,8 @@ msgstr "ارسال یک لایه"
 msgid "ghost"
 msgstr "روح"
 
-#~ msgid "Go to My Stuff"
-#~ msgstr "برو به کارهای من"
+msgid "Go to My Stuff"
+msgstr "برو به کارهای من"
 
 msgid "Group"
 msgstr "گروه"
@@ -629,8 +629,8 @@ msgstr "نور"
 #~ msgid "lights"
 #~ msgstr "نورها"
 
-#~ msgid "limit reached"
-#~ msgstr "به حدش رسید"
+msgid "limit reached"
+msgstr "به حدش رسید"
 
 msgid "Line"
 msgstr "خط"
@@ -732,8 +732,8 @@ msgstr "جعبه موسیقی"
 msgid "Music Loops"
 msgstr "حلقه های موسیقی"
 
-#~ msgid "My Stuff"
-#~ msgstr "کارهای من"
+msgid "My Stuff"
+msgstr "کارهای من"
 
 msgid "myself"
 msgstr "خودم"
@@ -896,8 +896,8 @@ msgstr "pop"
 msgid "previous backdrop"
 msgstr "پشت صحنه قبلی"
 
-#~ msgid "Profile"
-#~ msgstr "پروفایل"
+msgid "Profile"
+msgstr "پروفایل"
 
 msgid "Project did not load."
 msgstr "پروژه بارگذاری نشد."
@@ -954,8 +954,8 @@ msgstr "تغییر نام متغیر"
 #~ msgid "Replace existing project"
 #~ msgstr "جایگزینی روی پروژه ای که هست"
 
-#~ msgid "requires sign in"
-#~ msgstr "باید وارد شوید"
+msgid "requires sign in"
+msgstr "باید وارد شوید"
 
 msgid "Reshape"
 msgstr "تغییر شکل"
@@ -1002,8 +1002,8 @@ msgstr "یک نسخه از این پروژه را ذخیره کن و به اید
 msgid "Save as"
 msgstr "ذخیره با نام دیگر"
 
-#~ msgid "Save as a copy"
-#~ msgstr "ذخیره به عنوان یک کپی"
+msgid "Save as a copy"
+msgstr "ذخیره به عنوان یک کپی"
 
 msgid "Save now"
 msgstr "الان ذخیره کن"
@@ -1038,8 +1038,8 @@ msgstr "اسکریپت"
 msgid "Scripts"
 msgstr "اسکریپت ها"
 
-#~ msgid "Scripts:"
-#~ msgstr "اسکریپت ها:"
+msgid "Scripts:"
+msgstr "اسکریپت ها:"
 
 msgid "second"
 msgstr "دومی"
@@ -1113,8 +1113,8 @@ msgstr "ورود"
 msgid "Sign in to save"
 msgstr "وارد شوید برای ذخیره سازی"
 
-#~ msgid "Sign out"
-#~ msgstr "خروج"
+msgid "Sign out"
+msgstr "خروج"
 
 msgid "silence"
 msgstr "سکوت"
@@ -1195,8 +1195,8 @@ msgstr "صحنه نمایش انتخاب شده:"
 msgid "Steel Drum"
 msgstr "Steel Drum"
 
-#~ msgid "stored on server"
-#~ msgstr "ذخیره شده بر روی سرور"
+msgid "stored on server"
+msgstr "ذخیره شده بر روی سرور"
 
 msgid "Synth Lead"
 msgstr "Synth Lead"
@@ -1438,23 +1438,23 @@ msgstr "نام Scratch شما"
 msgid "Your Scratch name is required"
 msgstr "نام Scratch لازم است"
 
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
-#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>اطلاعات درباره متغیر های ابری</b><br>&nbsp;<br>در حال حاضر، فقط اعداد "
-#~ "پشتیبانی می شوند<br>پیام رسان ها اجازه فعالیت ندارند، و پاک می شوند<br>برای "
-#~ "اطلاعات بیشتر<a href= target=>پرسش و پاسخ داده های ابری را ببینید</a>"
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>اطلاعات درباره متغیر های ابری</b><br>&nbsp;<br>در حال حاضر، فقط اعداد "
+"پشتیبانی می شوند<br>پیام رسان ها اجازه فعالیت ندارند، و پاک می شوند<br>برای "
+"اطلاعات بیشتر<a href= target=>پرسش و پاسخ داده های ابری را ببینید</a>"
 
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "   را کلیک کنید برای سعی مجدد یا  برای ذخیره سازی"
+msgid "Click  to try again or  to save"
+msgstr "   را کلیک کنید برای سعی مجدد یا  برای ذخیره سازی"
 
-#~ msgid "Eraser width:"
-#~ msgstr "عرض پاک کن:"
+msgid "Eraser width:"
+msgstr "عرض پاک کن:"
 
-#~ msgid "Line width:"
-#~ msgstr "عرض خط:"
+msgid "Line width:"
+msgstr "عرض خط:"
 
 # Offline editor only
 msgid "All Tips"
@@ -1658,3 +1658,15 @@ msgstr ""
 
 #~ msgid "Short Guiro"
 #~ msgstr "Short Guiro"
+
+msgid "Record Project Video"
+msgstr ""
+
+msgid "Remove Background"
+msgstr ""
+
+msgid "any"
+msgstr ""
+
+msgid "when Stage clicked"
+msgstr ""

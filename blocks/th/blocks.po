@@ -15,8 +15,8 @@ msgstr ""
 "X-POOTLE-MTIME: 1423415016.000000\n"
 
 # The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "ไทย"
+msgid "Language-Name"
+msgstr "ไทย"
 
 msgid "%b and %b"
 msgstr "%b และ %b"
@@ -27,8 +27,8 @@ msgstr "%b หรือ %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute ของ %m.spriteOrStage"
 
-#~ msgid "%m.list contains %s"
-#~ msgstr "%m.list บรรจุ %s"
+msgid "%m.list contains %s"
+msgstr "%m.list บรรจุ %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp ของ %n"
@@ -496,25 +496,25 @@ msgid "y position"
 msgstr "ตำแหน่ง y"
 
 # 89%
-#~ msgid "set motor direction %m.motorDirection"
-#~ msgstr "ทิศทางของมอเตอร์ %m.motorDirection"
+msgid "set motor direction %m.motorDirection"
+msgstr "ทิศทางของมอเตอร์ %m.motorDirection"
 
 # 77%
-#~ msgid "set motor power %n"
-#~ msgstr "พลังงานมอเตอร์ %n"
+msgid "set motor power %n"
+msgstr "พลังงานมอเตอร์ %n"
 
-#~ msgid "turn motor off"
-#~ msgstr "ปิดมอเตอร์"
+msgid "turn motor off"
+msgstr "ปิดมอเตอร์"
 
-#~ msgid "turn motor on"
-#~ msgstr "เืปิดมอเตอร์"
+msgid "turn motor on"
+msgstr "เืปิดมอเตอร์"
 
 # 80%
-#~ msgid "turn motor on for %n secs"
-#~ msgstr "เปิดมอเตอร์เป็นเวลา %n วินาที"
+msgid "turn motor on for %n secs"
+msgstr "เปิดมอเตอร์เป็นเวลา %n วินาที"
 
-#~ msgid "when distance < %n"
-#~ msgstr "เมื่อระยะห่าง < %n"
+msgid "when distance < %n"
+msgstr "เมื่อระยะห่าง < %n"
 
 msgid "when tilt = %n"
 msgstr ""

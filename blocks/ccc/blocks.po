@@ -14,8 +14,8 @@ msgstr ""
 "X-POOTLE-MTIME: 1396032262.000000\n"
 
 # The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "Meow!"
+msgid "Language-Name"
+msgstr "Meow!"
 
 msgid "%b and %b"
 msgstr "%b meow %b"
@@ -26,8 +26,8 @@ msgstr "%b meow %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr ""
 
-#~ msgid "%m.list contains %s"
-#~ msgstr "%m.list meows %s"
+msgid "%m.list contains %s"
+msgstr "%m.list meows %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp meow %n"
@@ -490,11 +490,11 @@ msgstr ""
 msgid "turn motor on for %n secs"
 msgstr ""
 
-#~ msgid "when distance < %n"
-#~ msgstr "when meow < %n"
+msgid "when distance < %n"
+msgstr "when meow < %n"
 
-#~ msgid "when tilt = %n"
-#~ msgstr "when meow = %n"
+msgid "when tilt = %n"
+msgstr "when meow = %n"
 
 #: commands-online.txt:7
 #: commands-offline.txt:7

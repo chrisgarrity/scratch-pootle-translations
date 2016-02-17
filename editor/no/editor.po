@@ -1679,8 +1679,8 @@ msgstr ""
 #~ msgid "whisper"
 #~ msgstr "hvisk"
 
-#~ msgid "any"
-#~ msgstr "hvilken som helst"
+msgid "any"
+msgstr "hvilken som helst"
 
 #~ msgid "Floor Tom"
 #~ msgstr "Gulv-Tom"
@@ -1741,3 +1741,12 @@ msgstr ""
 
 #~ msgid "Short Guiro"
 #~ msgstr "Kort Guiro"
+
+msgid "Record Project Video"
+msgstr ""
+
+msgid "Remove Background"
+msgstr ""
+
+msgid "when Stage clicked"
+msgstr ""

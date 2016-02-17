@@ -45,8 +45,8 @@ msgstr "Тухай"
 msgid "abs"
 msgstr "abs"
 
-#~ msgid "Account settings"
-#~ msgstr "Хэрэглэгчийн тохиргоо"
+msgid "Account settings"
+msgstr "Хэрэглэгчийн тохиргоо"
 
 msgid "acos"
 msgstr ""
@@ -1550,8 +1550,8 @@ msgstr ""
 #~ msgid "Paint"
 #~ msgstr "Будах"
 
-#~ msgid "any"
-#~ msgstr "аливаа"
+msgid "any"
+msgstr "аливаа"
 
 #~ msgid "High Tom"
 #~ msgstr "Өндөр Том"
@@ -1588,3 +1588,12 @@ msgstr ""
 
 #~ msgid "Short Guiro"
 #~ msgstr "Богино гуиро"
+
+msgid "Record Project Video"
+msgstr ""
+
+msgid "Remove Background"
+msgstr ""
+
+msgid "when Stage clicked"
+msgstr ""

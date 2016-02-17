@@ -15,8 +15,8 @@ msgstr ""
 "X-POOTLE-MTIME: 1429106219.000000\n"
 
 # The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "Dansk"
+msgid "Language-Name"
+msgstr "Dansk"
 
 msgid "%b and %b"
 msgstr "%b og %b"
@@ -27,8 +27,8 @@ msgstr "%b eller %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute af %m.spriteOrStage"
 
-#~ msgid "%m.list contains %s"
-#~ msgstr "%m.list indeholder %s"
+msgid "%m.list contains %s"
+msgstr "%m.list indeholder %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp af %n"
@@ -493,30 +493,30 @@ msgstr "y-position"
 
 # 89%
 # 100%
-#~ msgid "set motor direction %m.motorDirection"
-#~ msgstr "sæt motorretning til %m.motorDirection"
+msgid "set motor direction %m.motorDirection"
+msgstr "sæt motorretning til %m.motorDirection"
 
 # 77%
 # 100%
-#~ msgid "set motor power %n"
-#~ msgstr "sæt motorkraft til %n"
+msgid "set motor power %n"
+msgstr "sæt motorkraft til %n"
 
-#~ msgid "turn motor off"
-#~ msgstr "sluk motoren"
+msgid "turn motor off"
+msgstr "sluk motoren"
 
-#~ msgid "turn motor on"
-#~ msgstr "start motoren"
+msgid "turn motor on"
+msgstr "start motoren"
 
 # 80%
 # 100%
-#~ msgid "turn motor on for %n secs"
-#~ msgstr "kør motoren i %n sekunder"
+msgid "turn motor on for %n secs"
+msgstr "kør motoren i %n sekunder"
 
-#~ msgid "when distance < %n"
-#~ msgstr "når afstanden < %n"
+msgid "when distance < %n"
+msgstr "når afstanden < %n"
 
-#~ msgid "when tilt = %n"
-#~ msgstr "når hældningen = %n"
+msgid "when tilt = %n"
+msgstr "når hældningen = %n"
 
 # 89%
 # 100%

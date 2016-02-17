@@ -14,9 +14,10 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1431366871.000000\n"
 
+# The language name as it will appear in the language menu
 # Note: This should be translated as 简体中文 because it's the name of the current language (not 语言名称).
-#~ msgid "Language-Name"
-#~ msgstr "简体中文"
+msgid "Language-Name"
+msgstr "简体中文"
 
 msgid "%b and %b"
 msgstr "%b 且 %b"
@@ -27,8 +28,8 @@ msgstr "%b 或 %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.spriteOrStage 的 %m.attribute"
 
-#~ msgid "%m.list contains %s"
-#~ msgstr "%m.list 包含 %s ?"
+msgid "%m.list contains %s"
+msgstr "%m.list 包含 %s ?"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp %n"
@@ -487,28 +488,28 @@ msgid "y position"
 msgstr "y座标"
 
 # 89%
-#~ msgid "set motor direction %m.motorDirection"
-#~ msgstr "马达转动方向设定为 %m.motorDirection"
+msgid "set motor direction %m.motorDirection"
+msgstr "马达转动方向设定为 %m.motorDirection"
 
 # 77%
-#~ msgid "set motor power %n"
-#~ msgstr "将马达功率设定为 %n"
+msgid "set motor power %n"
+msgstr "将马达功率设定为 %n"
 
-#~ msgid "turn motor off"
-#~ msgstr "关闭马达"
+msgid "turn motor off"
+msgstr "关闭马达"
 
-#~ msgid "turn motor on"
-#~ msgstr "开启马达"
+msgid "turn motor on"
+msgstr "开启马达"
 
 # 80%
-#~ msgid "turn motor on for %n secs"
-#~ msgstr "启动马达 %n 秒"
+msgid "turn motor on for %n secs"
+msgstr "启动马达 %n 秒"
 
-#~ msgid "when distance < %n"
-#~ msgstr "当距离 < %n"
+msgid "when distance < %n"
+msgstr "当距离 < %n"
 
-#~ msgid "when tilt = %n"
-#~ msgstr "当倾角 = %n"
+msgid "when tilt = %n"
+msgstr "当倾角 = %n"
 
 # 89%
 # 86%

@@ -14,6 +14,10 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1429111431.000000\n"
 
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "Cymraeg"
+
 msgid "%b and %b"
 msgstr "%b a %b"
 
@@ -22,6 +26,9 @@ msgstr "%b neu %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute o %m.spriteOrStage"
+
+msgid "%m.list contains %s"
+msgstr "%m.list yn cynnwys %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp o %n"
@@ -480,6 +487,33 @@ msgstr "safle x"
 msgid "y position"
 msgstr "safle y"
 
+# 89%
+# 100%
+msgid "set motor direction %m.motorDirection"
+msgstr "gosod cyfeiriad modur %m.motorDirection"
+
+# 77%
+# 100%
+msgid "set motor power %n"
+msgstr "gosod pŵer modur %n"
+
+msgid "turn motor off"
+msgstr "troi modur i ffwrdd"
+
+msgid "turn motor on"
+msgstr "troi modur ymlaen"
+
+# 80%
+# 100%
+msgid "turn motor on for %n secs"
+msgstr "troi modur ymlaen am %n eiliad"
+
+msgid "when distance < %n"
+msgstr "pan mae pellter yn < %n"
+
+msgid "when tilt = %n"
+msgstr "pan mae gwyriad = %n"
+
 #: commands-online.txt:7 commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list yn cynnwys %s?"
@@ -512,6 +546,9 @@ msgstr "Gwybodaeth"
 
 msgid "abs"
 msgstr "abs"
+
+msgid "Account settings"
+msgstr "Gosodiadau cyfrif"
 
 msgid "acos"
 msgstr "acos"
@@ -702,6 +739,9 @@ msgstr "Clarinét"
 msgid "Claves"
 msgstr "Clafiau"
 
+msgid "clean up"
+msgstr "glanhau"
+
 msgid "Clear"
 msgstr "Clirio"
 
@@ -716,6 +756,9 @@ msgstr "Cau"
 
 msgid "Closed Hi-Hat"
 msgstr "Hi-Hat Caeedig"
+
+msgid "Cloud"
+msgstr "Cwmwl"
 
 msgid "Cloud data"
 msgstr "Data cwmwl"
@@ -770,6 +813,9 @@ msgstr "Gwisgoedd"
 
 msgid "Costumes > 1"
 msgstr "Gwisgoedd > 1"
+
+msgid "Costumes:"
+msgstr "Gwisgoedd:"
 
 msgid "Could not retrieve new application from server."
 msgstr "Methu â nôl rhaglen o'r gweinydd."
@@ -928,6 +974,9 @@ msgstr "Ymlaen haen"
 msgid "ghost"
 msgstr "ysbryd"
 
+msgid "Go to My Stuff"
+msgstr "Mynd i Fy Stwff"
+
 msgid "Group"
 msgstr "Grŵp"
 
@@ -1006,6 +1055,9 @@ msgstr "Rhestr"
 
 msgid "light"
 msgstr "golau"
+
+msgid "limit reached"
+msgstr "terfyn eithaf wedi ei gyrraedd"
 
 msgid "Line"
 msgstr "Llinell"
@@ -1094,6 +1146,9 @@ msgstr "Blwch Cerddoriaeth"
 
 msgid "Music Loops"
 msgstr "Cylchoedd Sain"
+
+msgid "My Stuff"
+msgstr "Fy Stwff"
 
 msgid "myself"
 msgstr "fi fy hun"
@@ -1248,6 +1303,9 @@ msgstr "pop"
 msgid "previous backdrop"
 msgstr "cefndir blaenorol"
 
+msgid "Profile"
+msgstr "Proffil"
+
 msgid "Project did not load."
 msgstr "Ni lwythwyd y prosiect."
 
@@ -1297,6 +1355,9 @@ msgstr "Ailenwi"
 msgid "rename variable"
 msgstr "ailenwi newidyn"
 
+msgid "requires sign in"
+msgstr "angen mewngofnodi"
+
 msgid "Reshape"
 msgstr "Ail siapio"
 
@@ -1342,6 +1403,9 @@ msgstr "Cadw copi o'r prosiect ac ychwanegu eich syniadau eich hunan."
 msgid "Save as"
 msgstr "Cadw fel"
 
+msgid "Save as a copy"
+msgstr "Cadw fel copi"
+
 msgid "Save now"
 msgstr "Cadw rwan"
 
@@ -1371,6 +1435,9 @@ msgstr "Sgript"
 
 msgid "Scripts"
 msgstr "Sgriptiau"
+
+msgid "Scripts:"
+msgstr "Sgriptiau:"
 
 msgid "second"
 msgstr "eiliad"
@@ -1431,6 +1498,9 @@ msgstr "Mewngofnodi"
 
 msgid "Sign in to save"
 msgstr "Mewngofnodwch cyn cadw"
+
+msgid "Sign out"
+msgstr "Allgofnodi"
 
 msgid "silence"
 msgstr "distawrwydd"
@@ -1503,6 +1573,9 @@ msgstr "Llwyfan a ddewiswyd:"
 
 msgid "Steel Drum"
 msgstr "Drwm Dûr"
+
+msgid "stored on server"
+msgstr "cedwir ar y gweinydd"
 
 msgid "Synth Lead"
 msgstr "Synth Blaen"
@@ -1710,6 +1783,25 @@ msgstr "Eich enw Scratch"
 msgid "Your Scratch name is required"
 msgstr "Mae eich enw Scratch yn ofynnol"
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Gwybodaeth am newidiynnau Cwmwl</b><br>&nbsp;<br>Dim ond rhifau sy'n "
+"gweithio ar hyn o bryd<br>Ni chaniateir ystafelloedd sgwrsio, a byddent yn "
+"cael ei dileu<br>Am fwy o wybodaeth, <a href= target=>gweler y FAQ data "
+"cwmwl!</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "Cliciwch  i drio eto neu  i gadw"
+
+msgid "Eraser width:"
+msgstr "Lled rwber:"
+
+msgid "Line width:"
+msgstr "Lled llinell:"
+
 # Offline editor only
 msgid "All Tips"
 msgstr "Holl Awgrymiadau"
@@ -1812,42 +1904,17 @@ msgstr "Ewch i'r dudalen lawrlwytho"
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr "Cafodd eich prosiect ei lwytho i fyny i scratch.mit.edu"
 
-# The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "Cymraeg"
+msgid "any"
+msgstr "unrhyw"
 
-#~ msgid "%m.list contains %s"
-#~ msgstr "%m.list yn cynnwys %s"
+msgid "Record Project Video"
+msgstr ""
+
+msgid "Remove Background"
+msgstr ""
 
 #~ msgid "when Stage clicked"
 #~ msgstr "pan cliciwch ar Llwyfan"
-
-# 89%
-# 100%
-#~ msgid "set motor direction %m.motorDirection"
-#~ msgstr "gosod cyfeiriad modur %m.motorDirection"
-
-# 77%
-# 100%
-#~ msgid "set motor power %n"
-#~ msgstr "gosod pŵer modur %n"
-
-#~ msgid "turn motor off"
-#~ msgstr "troi modur i ffwrdd"
-
-#~ msgid "turn motor on"
-#~ msgstr "troi modur ymlaen"
-
-# 80%
-# 100%
-#~ msgid "turn motor on for %n secs"
-#~ msgstr "troi modur ymlaen am %n eiliad"
-
-#~ msgid "when distance < %n"
-#~ msgstr "pan mae pellter yn < %n"
-
-#~ msgid "when tilt = %n"
-#~ msgstr "pan mae gwyriad = %n"
 
 # 89%
 # 100%
@@ -1886,9 +1953,6 @@ msgstr "Cafodd eich prosiect ei lwytho i fyny i scratch.mit.edu"
 #~ msgid "About PicoBoard extension..."
 #~ msgstr "Gwybodaeth ynghylch ag estyniad PicoBoard..."
 
-#~ msgid "Account settings"
-#~ msgstr "Gosodiadau cyfrif"
-
 #~ msgid "add comment here..."
 #~ msgstr "ychwanegu sylwad yma..."
 
@@ -1898,17 +1962,8 @@ msgstr "Cafodd eich prosiect ei lwytho i fyny i scratch.mit.edu"
 #~ msgid "Cannot Add"
 #~ msgstr "Methu Ychwanegu"
 
-#~ msgid "clean up"
-#~ msgstr "glanhau"
-
-#~ msgid "Cloud"
-#~ msgstr "Cwmwl"
-
 #~ msgid "Cloud variable (stored on server)"
 #~ msgstr "Newidyn cwmwl (cedwir ar y gweinydd)"
-
-#~ msgid "Costumes:"
-#~ msgstr "Gwisgoedd:"
 
 #~ msgid "Downloading new version"
 #~ msgstr "Lawrlwytho fersiwn newydd"
@@ -1931,9 +1986,6 @@ msgstr "Cafodd eich prosiect ei lwytho i fyny i scratch.mit.edu"
 #~ msgid "false"
 #~ msgstr "anwir"
 
-#~ msgid "Go to My Stuff"
-#~ msgstr "Mynd i Fy Stwff"
-
 #~ msgid "Hello!"
 #~ msgstr "Helo!"
 
@@ -1947,9 +1999,6 @@ msgstr "Cafodd eich prosiect ei lwytho i fyny i scratch.mit.edu"
 #~ msgid "lights"
 #~ msgstr "goleuadau"
 
-#~ msgid "limit reached"
-#~ msgstr "terfyn eithaf wedi ei gyrraedd"
-
 #~ msgid "motor"
 #~ msgstr "modur"
 
@@ -1959,14 +2008,8 @@ msgstr "Cafodd eich prosiect ei lwytho i fyny i scratch.mit.edu"
 #~ msgid "motor B"
 #~ msgstr "modur B"
 
-#~ msgid "My Stuff"
-#~ msgstr "Fy Stwff"
-
 #~ msgid "not ="
 #~ msgstr "dim ="
-
-#~ msgid "Profile"
-#~ msgstr "Proffil"
 
 #~ msgid "Remove extension blocks"
 #~ msgstr "Diddymu blociau estyniad"
@@ -1974,17 +2017,8 @@ msgstr "Cafodd eich prosiect ei lwytho i fyny i scratch.mit.edu"
 #~ msgid "Replace existing project"
 #~ msgstr "Disodli'r prosiect presennol"
 
-#~ msgid "requires sign in"
-#~ msgstr "angen mewngofnodi"
-
-#~ msgid "Save as a copy"
-#~ msgstr "Cadw fel copi"
-
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "Golygydd Scratch 2.0 Oddi-ar-lein"
-
-#~ msgid "Scripts:"
-#~ msgstr "Sgriptiau:"
 
 #~ msgid ""
 #~ "See the Tips window (on the right) to install the plug-in and get the "
@@ -1995,12 +2029,6 @@ msgstr "Cafodd eich prosiect ei lwytho i fyny i scratch.mit.edu"
 
 #~ msgid "Share to Scratch website"
 #~ msgstr "Rhannu i wefan Scratch"
-
-#~ msgid "Sign out"
-#~ msgstr "Allgofnodi"
-
-#~ msgid "stored on server"
-#~ msgstr "cedwir ar y gweinydd"
 
 #~ msgid "The name is already in use."
 #~ msgstr "Mae'r enw'n cael ei ddefnyddio eisoes."
@@ -2024,25 +2052,6 @@ msgstr "Cafodd eich prosiect ei lwytho i fyny i scratch.mit.edu"
 #~ msgid "world"
 #~ msgstr "y byd"
 
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
-#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Gwybodaeth am newidiynnau Cwmwl</b><br>&nbsp;<br>Dim ond rhifau sy'n "
-#~ "gweithio ar hyn o bryd<br>Ni chaniateir ystafelloedd sgwrsio, a byddent "
-#~ "yn cael ei dileu<br>Am fwy o wybodaeth, <a href= target=>gweler y FAQ "
-#~ "data cwmwl!</a>"
-
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "Cliciwch  i drio eto neu  i gadw"
-
-#~ msgid "Eraser width:"
-#~ msgstr "Lled rwber:"
-
-#~ msgid "Line width:"
-#~ msgstr "Lled llinell:"
-
 # 90%
 #, fuzzy
 #~ msgid "New sprite"
@@ -2050,9 +2059,6 @@ msgstr "Cafodd eich prosiect ei lwytho i fyny i scratch.mit.edu"
 
 #~ msgid "Paint"
 #~ msgstr "Peintio"
-
-#~ msgid "any"
-#~ msgstr "unrhyw"
 
 #~ msgid "High Tom"
 #~ msgstr "High Tom"

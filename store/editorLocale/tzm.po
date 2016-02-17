@@ -13,6 +13,10 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1381340698.000000\n"
 
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "ⵜⴰⵎⴰⵣⵉⵖⵜ"
+
 msgid "%b and %b"
 msgstr ""
 
@@ -1954,6 +1958,11 @@ msgstr ""
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
-# The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "ⵜⴰⵎⴰⵣⵉⵖⵜ"
+msgid "Record Project Video"
+msgstr ""
+
+msgid "Remove Background"
+msgstr ""
+
+msgid "any"
+msgstr ""

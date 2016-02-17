@@ -14,6 +14,10 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1391652125.000000\n"
 
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "Esperanto"
+
 msgid "%b and %b"
 msgstr "%b kaj %b"
 
@@ -22,6 +26,9 @@ msgstr "%b aŭ %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute de %m.spriteOrStage"
+
+msgid "%m.list contains %s"
+msgstr "%m.list enhavas %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp de %n"
@@ -483,6 +490,30 @@ msgstr "x-pozicio"
 msgid "y position"
 msgstr "y-pozicio"
 
+# 89%
+msgid "set motor direction %m.motorDirection"
+msgstr "valorigi motordirekton al %m.motorDirection"
+
+# 77%
+msgid "set motor power %n"
+msgstr "valorigi motorforton al %n"
+
+msgid "turn motor off"
+msgstr "malŝalti motoron"
+
+msgid "turn motor on"
+msgstr "ŝalti motoron"
+
+# 80%
+msgid "turn motor on for %n secs"
+msgstr "ŝalti motoron dum %n sekundoj"
+
+msgid "when distance < %n"
+msgstr "kiam distanco < %n"
+
+msgid "when tilt = %n"
+msgstr "kiam klino = %n"
+
 #: commands-online.txt:7 commands-offline.txt:7
 #, fuzzy
 msgid "%m.list contains %s?"
@@ -522,6 +553,9 @@ msgstr ""
 
 msgid "abs"
 msgstr "abs"
+
+msgid "Account settings"
+msgstr "Agordaĵoj de via konto"
 
 msgid "acos"
 msgstr "acos"
@@ -740,6 +774,9 @@ msgstr "Fermi"
 msgid "Closed Hi-Hat"
 msgstr "Ĉarlestono kunigata"
 
+msgid "Cloud"
+msgstr "Nubo"
+
 msgid "Cloud data"
 msgstr "Ennubaj datumoj"
 
@@ -796,6 +833,9 @@ msgstr "Kostumoj"
 
 msgid "Costumes > 1"
 msgstr "Kostumoj > 1"
+
+msgid "Costumes:"
+msgstr "Kostumoj:"
 
 msgid "Could not retrieve new application from server."
 msgstr ""
@@ -976,6 +1016,9 @@ msgstr "Iri antaŭen je unu tavolo"
 msgid "ghost"
 msgstr "diafaneca"
 
+msgid "Go to My Stuff"
+msgstr "Iri al Miaj Aferoj"
+
 msgid "Group"
 msgstr "Grupo"
 
@@ -1069,6 +1112,9 @@ msgstr "lumo"
 #, fuzzy
 msgid "lights"
 msgstr "lumo"
+
+msgid "limit reached"
+msgstr "limo atingita"
 
 msgid "Line"
 msgstr "Linio"
@@ -1168,6 +1214,9 @@ msgstr "Gramofonaŭtomato"
 
 msgid "Music Loops"
 msgstr "Muzika buklo"
+
+msgid "My Stuff"
+msgstr "Miaj Aferoj"
 
 msgid "myself"
 msgstr "mi mem"
@@ -1326,6 +1375,9 @@ msgstr "pop"
 msgid "previous backdrop"
 msgstr ""
 
+msgid "Profile"
+msgstr "Profilo"
+
 msgid "Project did not load."
 msgstr "Projekto ne ŝangiĝis."
 
@@ -1381,6 +1433,9 @@ msgstr "ŝanĝi la variablonomon"
 msgid "Replace existing project"
 msgstr ""
 
+msgid "requires sign in"
+msgstr "ensaluto bezonata"
+
 msgid "Reshape"
 msgstr "Ŝanĝi formon"
 
@@ -1426,6 +1481,9 @@ msgstr ""
 msgid "Save as"
 msgstr ""
 
+msgid "Save as a copy"
+msgstr "Konservi kiel kopion"
+
 msgid "Save now"
 msgstr "Konservi nun"
 
@@ -1458,6 +1516,9 @@ msgstr "Skripto"
 
 msgid "Scripts"
 msgstr "Skriptoj"
+
+msgid "Scripts:"
+msgstr "Skriptoj:"
 
 msgid "second"
 msgstr "sekundo"
@@ -1526,6 +1587,9 @@ msgstr "Ensaluti"
 
 msgid "Sign in to save"
 msgstr "Ensaluti por konservi"
+
+msgid "Sign out"
+msgstr "Elsaluti"
 
 msgid "silence"
 msgstr "silento"
@@ -1598,6 +1662,9 @@ msgstr "Scenejo elektita:"
 
 msgid "Steel Drum"
 msgstr "Ŝtala Tamburo"
+
+msgid "stored on server"
+msgstr "konservita ĉe servilo"
 
 msgid "Synth Lead"
 msgstr "Ĉefa Sintezilo"
@@ -1827,6 +1894,25 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Informoj pri Ennubaj Variabloj</b><br>&nbsp;<br>Aktuale, nur numberoj "
+"estas akceptitaj<br>Tujmesaĝejoj ne estas akceptitaj, kaj estos forigitaj."
+"<br>Por pli da informoj, <a href= target=>vidu la demandaro pri Ennubaj "
+"Datumoj.</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "Musklaku  por provi denove, aŭ  por konservi"
+
+msgid "Eraser width:"
+msgstr "Larĝo de forviŝilo:"
+
+msgid "Line width:"
+msgstr "Larĝo de linio:"
+
 # Offline editor only
 msgid "All Tips"
 msgstr ""
@@ -1929,36 +2015,14 @@ msgstr ""
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
-# The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "Esperanto"
+msgid "any"
+msgstr "iu"
 
-#~ msgid "%m.list contains %s"
-#~ msgstr "%m.list enhavas %s"
+msgid "Record Project Video"
+msgstr ""
 
-# 89%
-#~ msgid "set motor direction %m.motorDirection"
-#~ msgstr "valorigi motordirekton al %m.motorDirection"
-
-# 77%
-#~ msgid "set motor power %n"
-#~ msgstr "valorigi motorforton al %n"
-
-#~ msgid "turn motor off"
-#~ msgstr "malŝalti motoron"
-
-#~ msgid "turn motor on"
-#~ msgstr "ŝalti motoron"
-
-# 80%
-#~ msgid "turn motor on for %n secs"
-#~ msgstr "ŝalti motoron dum %n sekundoj"
-
-#~ msgid "when distance < %n"
-#~ msgstr "kiam distanco < %n"
-
-#~ msgid "when tilt = %n"
-#~ msgstr "kiam klino = %n"
+msgid "Remove Background"
+msgstr ""
 
 # 89%
 # 86%
@@ -1990,61 +2054,6 @@ msgstr ""
 #~ msgid "play note %n for %n beats"
 #~ msgstr "aŭdigu noton %d.note dum %n taktoj"
 
-#~ msgid "Account settings"
-#~ msgstr "Agordaĵoj de via konto"
-
-#~ msgid "Cloud"
-#~ msgstr "Nubo"
-
-#~ msgid "Costumes:"
-#~ msgstr "Kostumoj:"
-
-#~ msgid "Go to My Stuff"
-#~ msgstr "Iri al Miaj Aferoj"
-
-#~ msgid "limit reached"
-#~ msgstr "limo atingita"
-
-#~ msgid "My Stuff"
-#~ msgstr "Miaj Aferoj"
-
-#~ msgid "Profile"
-#~ msgstr "Profilo"
-
-#~ msgid "requires sign in"
-#~ msgstr "ensaluto bezonata"
-
-#~ msgid "Save as a copy"
-#~ msgstr "Konservi kiel kopion"
-
-#~ msgid "Scripts:"
-#~ msgstr "Skriptoj:"
-
-#~ msgid "Sign out"
-#~ msgstr "Elsaluti"
-
-#~ msgid "stored on server"
-#~ msgstr "konservita ĉe servilo"
-
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
-#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Informoj pri Ennubaj Variabloj</b><br>&nbsp;<br>Aktuale, nur numberoj "
-#~ "estas akceptitaj<br>Tujmesaĝejoj ne estas akceptitaj, kaj estos forigitaj."
-#~ "<br>Por pli da informoj, <a href= target=>vidu la demandaro pri Ennubaj "
-#~ "Datumoj.</a>"
-
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "Musklaku  por provi denove, aŭ  por konservi"
-
-#~ msgid "Eraser width:"
-#~ msgstr "Larĝo de forviŝilo:"
-
-#~ msgid "Line width:"
-#~ msgstr "Larĝo de linio:"
-
 #~ msgid "cleanup"
 #~ msgstr "purigo"
 
@@ -2058,9 +2067,6 @@ msgstr ""
 
 #~ msgid "Paint"
 #~ msgstr "Pentri"
-
-#~ msgid "any"
-#~ msgstr "iu"
 
 #~ msgid "High Tom"
 #~ msgstr "Alta tamo"

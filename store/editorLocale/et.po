@@ -14,6 +14,10 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1429110282.000000\n"
 
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "Eesti"
+
 msgid "%b and %b"
 msgstr "%b ja %b"
 
@@ -22,6 +26,10 @@ msgstr "%b või %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "objekti %m.spriteOrStage %m.attribute"
+
+# lühem variant on parem; kui, siis väärtust
+msgid "%m.list contains %s"
+msgstr "%m.list sisaldab %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp %n"
@@ -500,6 +508,30 @@ msgstr "x"
 msgid "y position"
 msgstr "y"
 
+# 89%
+msgid "set motor direction %m.motorDirection"
+msgstr "mootori suund %m.motorDirection"
+
+# 77%
+msgid "set motor power %n"
+msgstr "mootori võimsus %n"
+
+msgid "turn motor off"
+msgstr "lülita mootor välja"
+
+msgid "turn motor on"
+msgstr "lülita mootor sisse"
+
+# 80%
+msgid "turn motor on for %n secs"
+msgstr "lülita mootor %n sekundiks sisse"
+
+msgid "when distance < %n"
+msgstr "kui kaugus < %n"
+
+msgid "when tilt = %n"
+msgstr "kui kalle = %n"
+
 # lühem variant on parem; kui, siis väärtust
 #: commands-online.txt:7 commands-offline.txt:7
 msgid "%m.list contains %s?"
@@ -532,6 +564,9 @@ msgstr "Info"
 
 msgid "abs"
 msgstr "abs"
+
+msgid "Account settings"
+msgstr "Konto seaded"
 
 msgid "acos"
 msgstr "acos"
@@ -758,6 +793,9 @@ msgstr "Sulge"
 msgid "Closed Hi-Hat"
 msgstr "Kinnine Hi-Hat"
 
+msgid "Cloud"
+msgstr "Pilv"
+
 msgid "Cloud data"
 msgstr "Pilveandmed"
 
@@ -818,6 +856,9 @@ msgstr "Kostüümid"
 
 msgid "Costumes > 1"
 msgstr "Kostüüm > 1"
+
+msgid "Costumes:"
+msgstr "Kostüümid:"
 
 msgid "Could not retrieve new application from server."
 msgstr ""
@@ -995,6 +1036,9 @@ msgstr "Üks kiht ettepoole"
 msgid "ghost"
 msgstr "kummitus"
 
+msgid "Go to My Stuff"
+msgstr "Mine minu asjade juurde"
+
 msgid "Group"
 msgstr "Grupp"
 
@@ -1089,6 +1133,9 @@ msgstr "valgus"
 msgid "lights"
 msgstr "heledus"
 
+msgid "limit reached"
+msgstr "limiit ületatud"
+
 msgid "Line"
 msgstr "Joon"
 
@@ -1178,6 +1225,9 @@ msgstr "Mängutoos"
 
 msgid "Music Loops"
 msgstr "Muusika"
+
+msgid "My Stuff"
+msgstr "Minu Asjad"
 
 msgid "myself"
 msgstr "endast"
@@ -1337,6 +1387,9 @@ msgstr "pop"
 msgid "previous backdrop"
 msgstr ""
 
+msgid "Profile"
+msgstr "Profiil"
+
 msgid "Project did not load."
 msgstr "Projekt ei ole laaditud."
 
@@ -1389,6 +1442,9 @@ msgstr "muuda muutuja nime"
 msgid "Replace existing project"
 msgstr ""
 
+msgid "requires sign in"
+msgstr "nõuab sisselogimist"
+
 msgid "Reshape"
 msgstr "Kuju muutmine"
 
@@ -1436,6 +1492,9 @@ msgstr ""
 msgid "Save as"
 msgstr ""
 
+msgid "Save as a copy"
+msgstr "Salvesta koopiana"
+
 msgid "Save now"
 msgstr "Salvesta nüüd"
 
@@ -1469,6 +1528,10 @@ msgstr "Skript"
 
 msgid "Scripts"
 msgstr "Skriptid"
+
+# 87%
+msgid "Scripts:"
+msgstr "Skriptid:"
 
 msgid "second"
 msgstr "sekundid"
@@ -1534,6 +1597,9 @@ msgstr "Logi sisse"
 
 msgid "Sign in to save"
 msgstr "Salvestamiseks logi sisse"
+
+msgid "Sign out"
+msgstr "Välja logimine"
 
 msgid "silence"
 msgstr "vaikus"
@@ -1607,6 +1673,9 @@ msgstr "Valitud on Lava:"
 
 msgid "Steel Drum"
 msgstr "Terastrumm"
+
+msgid "stored on server"
+msgstr "salvestatud serverisse"
 
 msgid "Synth Lead"
 msgstr "Süntesaatori soolo"
@@ -1836,6 +1905,25 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Info pilvemuutujate kohta</b><br>&nbsp;<br>Praegu on võimalik kasutada "
+"ainult arve<br>Jututoad ei ole lubatud ja eemaldatakse<br>Täiendav info <a "
+"href= target=>vaata pilveandmete KKK!</a>"
+
+# kus selline tekst asub?
+msgid "Click  to try again or  to save"
+msgstr "Klõpsa uueks katseks või salvestamiseks"
+
+msgid "Eraser width:"
+msgstr "Kustutaja laius:"
+
+msgid "Line width:"
+msgstr "Joone paksus:"
+
 # Offline editor only
 msgid "All Tips"
 msgstr ""
@@ -1938,40 +2026,17 @@ msgstr ""
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
-# The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "Eesti"
+msgid "any"
+msgstr "mõni"
 
-# lühem variant on parem; kui, siis väärtust
-#~ msgid "%m.list contains %s"
-#~ msgstr "%m.list sisaldab %s"
+msgid "Record Project Video"
+msgstr ""
+
+msgid "Remove Background"
+msgstr ""
 
 #~ msgid "when Stage clicked"
 #~ msgstr "kui Lava klõpsatakse"
-
-# 89%
-#~ msgid "set motor direction %m.motorDirection"
-#~ msgstr "mootori suund %m.motorDirection"
-
-# 77%
-#~ msgid "set motor power %n"
-#~ msgstr "mootori võimsus %n"
-
-#~ msgid "turn motor off"
-#~ msgstr "lülita mootor välja"
-
-#~ msgid "turn motor on"
-#~ msgstr "lülita mootor sisse"
-
-# 80%
-#~ msgid "turn motor on for %n secs"
-#~ msgstr "lülita mootor %n sekundiks sisse"
-
-#~ msgid "when distance < %n"
-#~ msgstr "kui kaugus < %n"
-
-#~ msgid "when tilt = %n"
-#~ msgstr "kui kalle = %n"
 
 # 89%
 # 86%
@@ -2033,29 +2098,14 @@ msgstr ""
 #~ msgid "About PicoBoard extension..."
 #~ msgstr "PicoBoard laiendusest"
 
-#~ msgid "Account settings"
-#~ msgstr "Konto seaded"
-
 #~ msgid "all motors"
 #~ msgstr "kõik mootorid"
-
-#~ msgid "Cloud"
-#~ msgstr "Pilv"
-
-#~ msgid "Costumes:"
-#~ msgstr "Kostüümid:"
 
 #~ msgid "Extension Library"
 #~ msgstr "Laienduste teek"
 
 #~ msgid "Extension Problem"
 #~ msgstr "Probleem laiendusega"
-
-#~ msgid "Go to My Stuff"
-#~ msgstr "Mine minu asjade juurde"
-
-#~ msgid "limit reached"
-#~ msgstr "limiit ületatud"
 
 #~ msgid "motor"
 #~ msgstr "mootor"
@@ -2066,27 +2116,11 @@ msgstr ""
 #~ msgid "motor B"
 #~ msgstr "mootor B"
 
-#~ msgid "My Stuff"
-#~ msgstr "Minu Asjad"
-
 #~ msgid "not ="
 #~ msgstr "pole ="
 
-#~ msgid "Profile"
-#~ msgstr "Profiil"
-
 #~ msgid "Remove extension blocks"
 #~ msgstr "Eemalda laienduse plokid"
-
-#~ msgid "requires sign in"
-#~ msgstr "nõuab sisselogimist"
-
-#~ msgid "Save as a copy"
-#~ msgstr "Salvesta koopiana"
-
-# 87%
-#~ msgid "Scripts:"
-#~ msgstr "Skriptid:"
 
 #~ msgid ""
 #~ "See the Tips window (on the right) to install the plug-in and get the "
@@ -2094,31 +2128,6 @@ msgstr ""
 #~ msgstr ""
 #~ "Vaata vihjete aknast (paremal), kuidas installeerida plug-in ja panna "
 #~ "laiendus tööle."
-
-#~ msgid "Sign out"
-#~ msgstr "Välja logimine"
-
-#~ msgid "stored on server"
-#~ msgstr "salvestatud serverisse"
-
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
-#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Info pilvemuutujate kohta</b><br>&nbsp;<br>Praegu on võimalik kasutada "
-#~ "ainult arve<br>Jututoad ei ole lubatud ja eemaldatakse<br>Täiendav info "
-#~ "<a href= target=>vaata pilveandmete KKK!</a>"
-
-# kus selline tekst asub?
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "Klõpsa uueks katseks või salvestamiseks"
-
-#~ msgid "Eraser width:"
-#~ msgstr "Kustutaja laius:"
-
-#~ msgid "Line width:"
-#~ msgstr "Joone paksus:"
 
 #~ msgid "cleanup"
 #~ msgstr "puhastamine"
@@ -2190,9 +2199,6 @@ msgstr ""
 
 #~ msgid "whisper"
 #~ msgstr "sosin"
-
-#~ msgid "any"
-#~ msgstr "mõni"
 
 #~ msgid "Floor Tom"
 #~ msgstr "Floor Tom"

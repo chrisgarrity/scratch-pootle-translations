@@ -15,8 +15,8 @@ msgstr ""
 "X-POOTLE-MTIME: 1423409878.000000\n"
 
 # The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "Sardu"
+msgid "Language-Name"
+msgstr "Sardu"
 
 msgid "%b and %b"
 msgstr "%b e %b"
@@ -27,8 +27,8 @@ msgstr "%b o %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.atribute de %m.spriteOrStage"
 
-#~ msgid "%m.list contains %s"
-#~ msgstr "%m.list cuntenet %s"
+msgid "%m.list contains %s"
+msgstr "%m.list cuntenet %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp de %n"
@@ -480,26 +480,26 @@ msgstr "positzione x"
 msgid "y position"
 msgstr "positzione y"
 
-#~ msgid "set motor direction %m.motorDirection"
-#~ msgstr "diretzione de su motore a %m.motorDirection"
+msgid "set motor direction %m.motorDirection"
+msgstr "diretzione de su motore a %m.motorDirection"
 
-#~ msgid "set motor power %n"
-#~ msgstr "potèntzia de su motore a %n"
+msgid "set motor power %n"
+msgstr "potèntzia de su motore a %n"
 
-#~ msgid "turn motor off"
-#~ msgstr "istuda su motore"
+msgid "turn motor off"
+msgstr "istuda su motore"
 
-#~ msgid "turn motor on"
-#~ msgstr "pone in motu"
+msgid "turn motor on"
+msgstr "pone in motu"
 
-#~ msgid "turn motor on for %n secs"
-#~ msgstr "mantene in motu pro %n segundos"
+msgid "turn motor on for %n secs"
+msgstr "mantene in motu pro %n segundos"
 
-#~ msgid "when distance < %n"
-#~ msgstr "cando su tretu < %n"
+msgid "when distance < %n"
+msgstr "cando su tretu < %n"
 
-#~ msgid "when tilt = %n"
-#~ msgstr "cando s'incurvadura = %n"
+msgid "when tilt = %n"
+msgstr "cando s'incurvadura = %n"
 
 # 86%
 #~ msgid "set %m.motor direction to %m.motorDirection"

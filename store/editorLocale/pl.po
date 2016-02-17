@@ -632,6 +632,10 @@ msgstr "współrzędna x"
 msgid "y position"
 msgstr "współrzędna y"
 
+#, fuzzy
+msgid "%m.list contains %s"
+msgstr "%m.list zawiera %s?"
+
 msgid "10 ^"
 msgstr "10 do potęgi"
 
@@ -660,6 +664,9 @@ msgstr "O Scratchu"
 
 msgid "abs"
 msgstr "wartość bezwzględna"
+
+msgid "Account settings"
+msgstr "Ustawienia konta"
 
 msgid "acos"
 msgstr "arccos"
@@ -888,6 +895,9 @@ msgstr "Zamknij"
 msgid "Closed Hi-Hat"
 msgstr "Hi-Hat zamknięty (perkusja)"
 
+msgid "Cloud"
+msgstr "Chmura"
+
 msgid "Cloud data"
 msgstr "Dane w Chmurze"
 
@@ -947,6 +957,9 @@ msgstr "Kostiumy"
 
 msgid "Costumes > 1"
 msgstr "Kostiumów > 1"
+
+msgid "Costumes:"
+msgstr "Kostiumy:"
 
 msgid "Could not retrieve new application from server."
 msgstr "Nie udało się pobrać nowej aplikacji z serwera."
@@ -1119,6 +1132,9 @@ msgstr "Warstwa do przodu"
 msgid "ghost"
 msgstr "duch"
 
+msgid "Go to My Stuff"
+msgstr "Przejdź do Moich rzeczy"
+
 msgid "Group"
 msgstr "Grupuj"
 
@@ -1208,6 +1224,9 @@ msgstr "Biblioteka"
 msgid "light"
 msgstr "światło"
 
+msgid "limit reached"
+msgstr "limit osiągnięty"
+
 msgid "Line"
 msgstr "Linia"
 
@@ -1296,6 +1315,9 @@ msgstr "Pozytywka"
 
 msgid "Music Loops"
 msgstr "Sample muzyczne"
+
+msgid "My Stuff"
+msgstr "Moje rzeczy"
 
 msgid "myself"
 msgstr "siebie"
@@ -1455,6 +1477,9 @@ msgstr "pop"
 msgid "previous backdrop"
 msgstr "poprzednie tło"
 
+msgid "Profile"
+msgstr "Profil"
+
 msgid "Project did not load."
 msgstr "Projekt nie wczytany."
 
@@ -1510,6 +1535,9 @@ msgstr "zmień nazwę zmiennej"
 msgid "Replace existing project"
 msgstr ""
 
+msgid "requires sign in"
+msgstr "wymaga zalogowania"
+
 msgid "Reshape"
 msgstr "Przekształć"
 
@@ -1555,6 +1583,9 @@ msgstr "Zapisz kopię tego projektu i dodaj własne pomysły."
 msgid "Save as"
 msgstr "Zapisz jako"
 
+msgid "Save as a copy"
+msgstr "Zapisz jako kopię"
+
 msgid "Save now"
 msgstr "Zapisz teraz"
 
@@ -1588,6 +1619,10 @@ msgstr "Skrypt"
 
 msgid "Scripts"
 msgstr "Skrypty"
+
+# 87%
+msgid "Scripts:"
+msgstr "Skrypty:"
 
 msgid "second"
 msgstr "sekunda"
@@ -1657,6 +1692,9 @@ msgstr "Zaloguj się"
 
 msgid "Sign in to save"
 msgstr "Zaloguj się aby zapisać"
+
+msgid "Sign out"
+msgstr "Wyloguj się"
 
 msgid "silence"
 msgstr "cisza"
@@ -1730,6 +1768,9 @@ msgstr "Wybrana scena:"
 
 msgid "Steel Drum"
 msgstr "Blaszany bęben"
+
+msgid "stored on server"
+msgstr "przechowywane na serwerze"
 
 msgid "Synth Lead"
 msgstr "Synth Lead"
@@ -1959,6 +2000,25 @@ msgstr "Twoja nazwa użytkownika Scratch"
 msgid "Your Scratch name is required"
 msgstr "Twoja nazwa użytkownika Scratch jest wymagana"
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Informacje o zmiennych w Chmurze</b><br>&nbsp;<br>Aktualnie jedynie "
+"liczby są wspierane.<br>Pokoje czatu nie są dozwolone i zostaną "
+"usunięte<br>Aby uzyskać więcej informacji <a href= target=>sprawdź FAQ na "
+"temat danych w Chmurze !</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "Naciśnij    aby spróbować ponownie lub    aby zapisać"
+
+msgid "Eraser width:"
+msgstr "Szerokość gumki:"
+
+msgid "Line width:"
+msgstr "Szerokość linii:"
+
 # Offline editor only
 msgid "All Tips"
 msgstr "Wszystkie wskazówki"
@@ -2063,20 +2123,23 @@ msgstr "Przejdź do strony pobierania"
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr "Twój projekt został przesłany na scratch.mit.edu"
 
+msgid "any"
+msgstr "dowolny"
+
+msgid "Record Project Video"
+msgstr ""
+
+msgid "Remove Background"
+msgstr ""
+
+msgid "when Stage clicked"
+msgstr ""
+
 #~ msgid "About LEGO WeDo extension..."
 #~ msgstr "O rozszerzeniu LEGO WeDo..."
 
 #~ msgid "About PicoBoard extension..."
 #~ msgstr "O rozszerzeniu PicoBoard..."
-
-#~ msgid "Account settings"
-#~ msgstr "Ustawienia konta"
-
-#~ msgid "Cloud"
-#~ msgstr "Chmura"
-
-#~ msgid "Costumes:"
-#~ msgstr "Kostiumy:"
 
 #~ msgid "everything"
 #~ msgstr "Wszystkie"
@@ -2087,15 +2150,9 @@ msgstr "Twój projekt został przesłany na scratch.mit.edu"
 #~ msgid "Extension Problem"
 #~ msgstr "Problem z rozszerzeniem"
 
-#~ msgid "Go to My Stuff"
-#~ msgstr "Przejdź do Moich rzeczy"
-
 # 83%
 #~ msgid "lights"
 #~ msgstr "światła"
-
-#~ msgid "limit reached"
-#~ msgstr "limit osiągnięty"
 
 #~ msgid "motor"
 #~ msgstr "silnik"
@@ -2106,49 +2163,8 @@ msgstr "Twój projekt został przesłany na scratch.mit.edu"
 #~ msgid "motor B"
 #~ msgstr "silnik B"
 
-#~ msgid "My Stuff"
-#~ msgstr "Moje rzeczy"
-
 #~ msgid "not ="
 #~ msgstr "nie ="
-
-#~ msgid "Profile"
-#~ msgstr "Profil"
-
-#~ msgid "requires sign in"
-#~ msgstr "wymaga zalogowania"
-
-#~ msgid "Save as a copy"
-#~ msgstr "Zapisz jako kopię"
-
-# 87%
-#~ msgid "Scripts:"
-#~ msgstr "Skrypty:"
-
-#~ msgid "Sign out"
-#~ msgstr "Wyloguj się"
-
-#~ msgid "stored on server"
-#~ msgstr "przechowywane na serwerze"
-
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
-#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Informacje o zmiennych w Chmurze</b><br>&nbsp;<br>Aktualnie jedynie "
-#~ "liczby są wspierane.<br>Pokoje czatu nie są dozwolone i zostaną "
-#~ "usunięte<br>Aby uzyskać więcej informacji <a href= target=>sprawdź FAQ na "
-#~ "temat danych w Chmurze !</a>"
-
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "Naciśnij    aby spróbować ponownie lub    aby zapisać"
-
-#~ msgid "Eraser width:"
-#~ msgstr "Szerokość gumki:"
-
-#~ msgid "Line width:"
-#~ msgstr "Szerokość linii:"
 
 #~ msgid "cleanup"
 #~ msgstr "sprzątanie"
@@ -2247,9 +2263,6 @@ msgstr "Twój projekt został przesłany na scratch.mit.edu"
 
 #~ msgid "whisper"
 #~ msgstr "szept"
-
-#~ msgid "any"
-#~ msgstr "dowolny"
 
 #~ msgid "Floor Tom"
 #~ msgstr "Kocioł"

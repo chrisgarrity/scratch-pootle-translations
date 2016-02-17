@@ -15,8 +15,8 @@ msgstr ""
 "X-POOTLE-MTIME: 1446324156.000000\n"
 
 # The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "Português Brasileiro"
+msgid "Language-Name"
+msgstr "Português Brasileiro"
 
 msgid "%b and %b"
 msgstr "%b e %b"
@@ -27,8 +27,8 @@ msgstr "%b ou %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute de %m.spriteOrStage"
 
-#~ msgid "%m.list contains %s"
-#~ msgstr "%m.list contém %s"
+msgid "%m.list contains %s"
+msgstr "%m.list contém %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp de %n"
@@ -488,28 +488,28 @@ msgid "y position"
 msgstr "posição y"
 
 # 89%
-#~ msgid "set motor direction %m.motorDirection"
-#~ msgstr "use a direção do motor %m.motorDirection"
+msgid "set motor direction %m.motorDirection"
+msgstr "use a direção do motor %m.motorDirection"
 
 # 77%
-#~ msgid "set motor power %n"
-#~ msgstr "mude a potência do motor para %n"
+msgid "set motor power %n"
+msgstr "mude a potência do motor para %n"
 
-#~ msgid "turn motor off"
-#~ msgstr "desligue o motor"
+msgid "turn motor off"
+msgstr "desligue o motor"
 
-#~ msgid "turn motor on"
-#~ msgstr "ligue o motor"
+msgid "turn motor on"
+msgstr "ligue o motor"
 
 # 80%
-#~ msgid "turn motor on for %n secs"
-#~ msgstr "ligue o motor por %n segundos"
+msgid "turn motor on for %n secs"
+msgstr "ligue o motor por %n segundos"
 
-#~ msgid "when distance < %n"
-#~ msgstr "quando a distância for < %n"
+msgid "when distance < %n"
+msgstr "quando a distância for < %n"
 
-#~ msgid "when tilt = %n"
-#~ msgstr "quando a inclinação for = %n"
+msgid "when tilt = %n"
+msgstr "quando a inclinação for = %n"
 
 # 89%
 # 86%

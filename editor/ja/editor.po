@@ -47,8 +47,8 @@ msgstr "説明"
 msgid "abs"
 msgstr "絶対値"
 
-#~ msgid "Account settings"
-#~ msgstr "アカウント設定"
+msgid "Account settings"
+msgstr "アカウント設定"
 
 msgid "acos"
 msgstr "acos"
@@ -255,8 +255,8 @@ msgstr "クラリネット"
 msgid "Claves"
 msgstr "クラーベ"
 
-#~ msgid "clean up"
-#~ msgstr "きれいにする"
+msgid "clean up"
+msgstr "きれいにする"
 
 msgid "Clear"
 msgstr "消す"
@@ -273,8 +273,8 @@ msgstr "閉じる"
 msgid "Closed Hi-Hat"
 msgstr "閉じたハイハット"
 
-#~ msgid "Cloud"
-#~ msgstr "クラウド"
+msgid "Cloud"
+msgstr "クラウド"
 
 msgid "Cloud data"
 msgstr "クラウドデータ"
@@ -337,8 +337,8 @@ msgstr "コスチューム"
 msgid "Costumes > 1"
 msgstr "コスチューム > 1"
 
-#~ msgid "Costumes:"
-#~ msgstr "コスチューム:"
+msgid "Costumes:"
+msgstr "コスチューム:"
 
 msgid "Could not retrieve new application from server."
 msgstr "サーバーから新しいアプリケーションを取り出せません。"
@@ -521,8 +521,8 @@ msgstr "レイヤーを上げる"
 msgid "ghost"
 msgstr "幽霊"
 
-#~ msgid "Go to My Stuff"
-#~ msgstr "私の作品へ行く"
+msgid "Go to My Stuff"
+msgstr "私の作品へ行く"
 
 msgid "Group"
 msgstr "グループ"
@@ -619,8 +619,8 @@ msgstr "明るさ"
 #~ msgid "lights"
 #~ msgstr "明るさ"
 
-#~ msgid "limit reached"
-#~ msgstr "限界に到達"
+msgid "limit reached"
+msgstr "限界に到達"
 
 msgid "Line"
 msgstr "直線"
@@ -722,8 +722,8 @@ msgstr "ミュージックボックス"
 msgid "Music Loops"
 msgstr "音楽のループ"
 
-#~ msgid "My Stuff"
-#~ msgstr "私の作品"
+msgid "My Stuff"
+msgstr "私の作品"
 
 msgid "myself"
 msgstr "自分自身"
@@ -886,8 +886,8 @@ msgstr "ポップ"
 msgid "previous backdrop"
 msgstr "前の背景"
 
-#~ msgid "Profile"
-#~ msgstr "プロフィール"
+msgid "Profile"
+msgstr "プロフィール"
 
 msgid "Project did not load."
 msgstr "プロジェクトが読み込まれていません。"
@@ -943,8 +943,8 @@ msgstr "変数名を変更"
 #~ msgid "Replace existing project"
 #~ msgstr "既存のプロジェクトを置換"
 
-#~ msgid "requires sign in"
-#~ msgstr "サインインが必要です"
+msgid "requires sign in"
+msgstr "サインインが必要です"
 
 msgid "Reshape"
 msgstr "形を変える"
@@ -991,8 +991,8 @@ msgstr "このプロジェクトのコピーを保存して、あなた自身の
 msgid "Save as"
 msgstr "名前をつけて保存"
 
-#~ msgid "Save as a copy"
-#~ msgstr "コピーを保存"
+msgid "Save as a copy"
+msgstr "コピーを保存"
 
 msgid "Save now"
 msgstr "直ちに保存"
@@ -1027,8 +1027,8 @@ msgstr "スクリプト"
 msgid "Scripts"
 msgstr "スクリプト"
 
-#~ msgid "Scripts:"
-#~ msgstr "スクリプト:"
+msgid "Scripts:"
+msgstr "スクリプト:"
 
 msgid "second"
 msgstr "秒"
@@ -1101,8 +1101,8 @@ msgstr "サインイン"
 msgid "Sign in to save"
 msgstr "保存するためにサインイン"
 
-#~ msgid "Sign out"
-#~ msgstr "サインアウト"
+msgid "Sign out"
+msgstr "サインアウト"
 
 msgid "silence"
 msgstr "サイレンス"
@@ -1180,8 +1180,8 @@ msgstr "選択されたステージ:"
 msgid "Steel Drum"
 msgstr "スチールドラム"
 
-#~ msgid "stored on server"
-#~ msgstr "サーバーへ格納"
+msgid "stored on server"
+msgstr "サーバーへ格納"
 
 msgid "Synth Lead"
 msgstr "シンセリード"
@@ -1414,22 +1414,22 @@ msgstr "あなたのScratch名"
 msgid "Your Scratch name is required"
 msgstr "Scratch名が必要です"
 
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
-#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>クラウド変数について</b><br>&nbsp;<br>現在、数値のみがサポートされています<br>チャットルームの作成は許可されていないため、削除"
-#~ "されます<br>詳細な情報は <a href= target=>クラウドデータに関するFAQを読んでください！</a>"
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>クラウド変数について</b><br>&nbsp;<br>現在、数値のみがサポートされています<br>チャットルームの作成は許可されていないため、削除"
+"されます<br>詳細な情報は <a href= target=>クラウドデータに関するFAQを読んでください！</a>"
 
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "「直ちに保存」をクリックして再試行するか、「ダウンロード」で保存してください"
+msgid "Click  to try again or  to save"
+msgstr "「直ちに保存」をクリックして再試行するか、「ダウンロード」で保存してください"
 
-#~ msgid "Eraser width:"
-#~ msgstr "消しゴムの幅:"
+msgid "Eraser width:"
+msgstr "消しゴムの幅:"
 
-#~ msgid "Line width:"
-#~ msgstr "線の幅:"
+msgid "Line width:"
+msgstr "線の幅:"
 
 # Offline editor only
 msgid "All Tips"
@@ -1577,3 +1577,15 @@ msgstr "あなたのプロジェクトはscratch.mit.eduへアップロードさ
 
 #~ msgid "New sound"
 #~ msgstr "新しい音"
+
+msgid "Record Project Video"
+msgstr ""
+
+msgid "Remove Background"
+msgstr ""
+
+msgid "any"
+msgstr ""
+
+msgid "when Stage clicked"
+msgstr ""

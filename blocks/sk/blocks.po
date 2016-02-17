@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-08-06 08:07+0000\n"
+"PO-Revision-Date: 2015-08-07 08:29+0000\n"
 "Last-Translator: Michal <mpraznovsky@zsvycapy.edu.sk>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sk\n"
@@ -12,11 +12,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1438848427.000000\n"
+"X-POOTLE-MTIME: 1438936149.000000\n"
 
 # The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "Slovenčina"
+msgid "Language-Name"
+msgstr "Slovenčina"
 
 msgid "%b and %b"
 msgstr "%b a %b"
@@ -27,8 +27,8 @@ msgstr "%b alebo %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute z %m.spriteOrStage"
 
-#~ msgid "%m.list contains %s"
-#~ msgstr "%m.list obsahuje %s"
+msgid "%m.list contains %s"
+msgstr "%m.list obsahuje %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp z %n"
@@ -486,28 +486,28 @@ msgid "y position"
 msgstr "pozícia y"
 
 # 89%
-#~ msgid "set motor direction %m.motorDirection"
-#~ msgstr "nastav smer motora na %m.motorDirection"
+msgid "set motor direction %m.motorDirection"
+msgstr "nastav smer motora na %m.motorDirection"
 
 # 77%
-#~ msgid "set motor power %n"
-#~ msgstr "nastav silu motora na %n"
+msgid "set motor power %n"
+msgstr "nastav silu motora na %n"
 
-#~ msgid "turn motor off"
-#~ msgstr "vypni motor"
+msgid "turn motor off"
+msgstr "vypni motor"
 
-#~ msgid "turn motor on"
-#~ msgstr "zapni motor"
+msgid "turn motor on"
+msgstr "zapni motor"
 
 # 80%
-#~ msgid "turn motor on for %n secs"
-#~ msgstr "zapni motor na %n sekúnd"
+msgid "turn motor on for %n secs"
+msgstr "zapni motor na %n sekúnd"
 
-#~ msgid "when distance < %n"
-#~ msgstr "ak je vzdialenosť < %n"
+msgid "when distance < %n"
+msgstr "ak je vzdialenosť < %n"
 
-#~ msgid "when tilt = %n"
-#~ msgstr "ak sa sklon = %n"
+msgid "when tilt = %n"
+msgstr "ak sa sklon = %n"
 
 # 89%
 # 86%

@@ -15,8 +15,8 @@ msgstr ""
 "X-POOTLE-MTIME: 1422060507.000000\n"
 
 # The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "Idoma-Nòmber"
+msgid "Language-Name"
+msgstr "Idoma-Nòmber"
 
 msgid "%b and %b"
 msgstr "%m.attribute o %m.spriteOrMouse"
@@ -27,8 +27,8 @@ msgstr "%b i %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.list ta kontené %s"
 
-#~ msgid "%m.list contains %s"
-#~ msgstr "%m.sensor balor di sensor "
+msgid "%m.list contains %s"
+msgstr "%m.sensor balor di sensor "
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp o %n"
@@ -485,28 +485,28 @@ msgid "y position"
 msgstr "posishon y"
 
 # 89%
-#~ msgid "set motor direction %m.motorDirection"
-#~ msgstr "direkshon di motor %m.motorDirection"
+msgid "set motor direction %m.motorDirection"
+msgstr "direkshon di motor %m.motorDirection"
 
 # 77%
-#~ msgid "set motor power %n"
-#~ msgstr "figa pòwer di motor na %n"
+msgid "set motor power %n"
+msgstr "figa pòwer di motor na %n"
 
-#~ msgid "turn motor off"
-#~ msgstr "paga motor"
+msgid "turn motor off"
+msgstr "paga motor"
 
-#~ msgid "turn motor on"
-#~ msgstr "sende motor"
+msgid "turn motor on"
+msgstr "sende motor"
 
 # 80%
-#~ msgid "turn motor on for %n secs"
-#~ msgstr "sende motor pa %n segundo"
+msgid "turn motor on for %n secs"
+msgstr "sende motor pa %n segundo"
 
-#~ msgid "when distance < %n"
-#~ msgstr "ora distansia < %m"
+msgid "when distance < %n"
+msgstr "ora distansia < %m"
 
-#~ msgid "when tilt = %n"
-#~ msgstr "ora inklinshon = %n"
+msgid "when tilt = %n"
+msgstr "ora inklinshon = %n"
 
 # 89%
 # 86%

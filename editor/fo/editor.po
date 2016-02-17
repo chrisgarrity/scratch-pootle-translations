@@ -1527,3 +1527,15 @@ msgstr ""
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
+
+msgid "Record Project Video"
+msgstr ""
+
+msgid "Remove Background"
+msgstr ""
+
+msgid "any"
+msgstr ""
+
+msgid "when Stage clicked"
+msgstr ""

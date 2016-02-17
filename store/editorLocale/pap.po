@@ -14,6 +14,10 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1422060507.000000\n"
 
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "Idoma-Nòmber"
+
 msgid "%b and %b"
 msgstr "%m.attribute o %m.spriteOrMouse"
 
@@ -22,6 +26,9 @@ msgstr "%b i %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.list ta kontené %s"
+
+msgid "%m.list contains %s"
+msgstr "%m.sensor balor di sensor "
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp o %n"
@@ -474,6 +481,30 @@ msgstr "posishon x"
 msgid "y position"
 msgstr "posishon y"
 
+# 89%
+msgid "set motor direction %m.motorDirection"
+msgstr "direkshon di motor %m.motorDirection"
+
+# 77%
+msgid "set motor power %n"
+msgstr "figa pòwer di motor na %n"
+
+msgid "turn motor off"
+msgstr "paga motor"
+
+msgid "turn motor on"
+msgstr "sende motor"
+
+# 80%
+msgid "turn motor on for %n secs"
+msgstr "sende motor pa %n segundo"
+
+msgid "when distance < %n"
+msgstr "ora distansia < %m"
+
+msgid "when tilt = %n"
+msgstr "ora inklinshon = %n"
+
 #: commands-online.txt:7 commands-offline.txt:7
 #, fuzzy
 msgid "%m.list contains %s?"
@@ -506,6 +537,9 @@ msgstr "Tokante"
 
 msgid "abs"
 msgstr "abs"
+
+msgid "Account settings"
+msgstr "Account settings"
 
 msgid "acos"
 msgstr "acos"
@@ -696,6 +730,9 @@ msgstr "Klarinèt"
 msgid "Claves"
 msgstr "Klavenan"
 
+msgid "clean up"
+msgstr "limpia"
+
 msgid "Clear"
 msgstr "Limpia"
 
@@ -710,6 +747,9 @@ msgstr "Sera"
 
 msgid "Closed Hi-Hat"
 msgstr "Sera Hi-Hat"
+
+msgid "Cloud"
+msgstr "Cloud"
 
 msgid "Cloud data"
 msgstr "Data di cloud"
@@ -764,6 +804,9 @@ msgstr "Tragenan"
 
 msgid "Costumes > 1"
 msgstr "Tragenan > 1"
+
+msgid "Costumes:"
+msgstr "Tragenan:"
 
 msgid "Could not retrieve new application from server."
 msgstr "No por a resibí aplikashon nobo for di server."
@@ -927,6 +970,9 @@ msgstr "Avansá un kapa"
 msgid "ghost"
 msgstr "fantasma"
 
+msgid "Go to My Stuff"
+msgstr "Bai na Mi Kosnan"
+
 msgid "Group"
 msgstr "Grupo"
 
@@ -1015,6 +1061,9 @@ msgstr "derechi"
 msgid "lights"
 msgstr "derechi"
 
+msgid "limit reached"
+msgstr "limite a wordu alkansá"
+
 msgid "Line"
 msgstr "Linea"
 
@@ -1101,6 +1150,9 @@ msgstr "Kaha di musika"
 
 msgid "Music Loops"
 msgstr "Laso di musika"
+
+msgid "My Stuff"
+msgstr "Mi kos"
 
 msgid "myself"
 msgstr "mi mes"
@@ -1258,6 +1310,9 @@ msgstr "pòp"
 msgid "previous backdrop"
 msgstr "bèkground anterior"
 
+msgid "Profile"
+msgstr "Perfil"
+
 msgid "Project did not load."
 msgstr "Proyekto no a karga."
 
@@ -1306,6 +1361,9 @@ msgstr "Renombrá"
 msgid "rename variable"
 msgstr "renombrá variabel"
 
+msgid "requires sign in"
+msgstr "registrashon ta rekerí"
+
 msgid "Reshape"
 msgstr "Reformá"
 
@@ -1351,6 +1409,9 @@ msgstr "Warda un kopia di e proyekto aki i añadi bo mes ideanan."
 msgid "Save as"
 msgstr "Wara komo"
 
+msgid "Save as a copy"
+msgstr "Warda komo kopia"
+
 msgid "Save now"
 msgstr "Warda aworaki"
 
@@ -1380,6 +1441,9 @@ msgstr "Script"
 
 msgid "Scripts"
 msgstr "Scriptnan"
+
+msgid "Scripts:"
+msgstr "Scriptnan:"
 
 msgid "second"
 msgstr "sèkonde"
@@ -1440,6 +1504,9 @@ msgstr "Log in"
 
 msgid "Sign in to save"
 msgstr "Login pa warda"
+
+msgid "Sign out"
+msgstr "Log out"
 
 msgid "silence"
 msgstr "silensio"
@@ -1509,6 +1576,9 @@ msgstr "Stage seletktá:"
 
 msgid "Steel Drum"
 msgstr "Steel Drum"
+
+msgid "stored on server"
+msgstr "wardá riba server"
 
 msgid "Synth Lead"
 msgstr ""
@@ -1720,6 +1790,18 @@ msgstr "Bo nomber di Scratch"
 msgid "Your Scratch name is required"
 msgstr "Bo nomber di Scratch ta rekerí"
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Informashon over di variabelnan di Cloud</b><br>&nbsp;<br>Aktualmente, "
+"solamente numbernan ta wordu sostené<br>Chat roomnan no ta permití, i lo "
+"wordu kitá<br>Pa mas info, <a href= target=>mira e FAQ di data di Cloud!</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "Klek pa purba atrone of  pa warda"
+
 msgid "Eraser width:"
 msgstr ""
 
@@ -1835,39 +1917,17 @@ msgstr ""
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
-# The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "Idoma-Nòmber"
+msgid "any"
+msgstr "kwalke"
 
-#~ msgid "%m.list contains %s"
-#~ msgstr "%m.sensor balor di sensor "
+msgid "Record Project Video"
+msgstr ""
+
+msgid "Remove Background"
+msgstr ""
 
 #~ msgid "when Stage clicked"
 #~ msgstr "ora Stage wordu primí"
-
-# 89%
-#~ msgid "set motor direction %m.motorDirection"
-#~ msgstr "direkshon di motor %m.motorDirection"
-
-# 77%
-#~ msgid "set motor power %n"
-#~ msgstr "figa pòwer di motor na %n"
-
-#~ msgid "turn motor off"
-#~ msgstr "paga motor"
-
-#~ msgid "turn motor on"
-#~ msgstr "sende motor"
-
-# 80%
-#~ msgid "turn motor on for %n secs"
-#~ msgstr "sende motor pa %n segundo"
-
-#~ msgid "when distance < %n"
-#~ msgstr "ora distansia < %m"
-
-#~ msgid "when tilt = %n"
-#~ msgstr "ora inklinshon = %n"
 
 # 89%
 # 86%
@@ -1905,9 +1965,6 @@ msgstr ""
 #~ msgid "About PicoBoard extension..."
 #~ msgstr "Tokante extenshon di PicoBoard..."
 
-#~ msgid "Account settings"
-#~ msgstr "Account settings"
-
 #~ msgid "add comment here..."
 #~ msgstr "anyadí komentario akinan..."
 
@@ -1917,17 +1974,8 @@ msgstr ""
 #~ msgid "Cannot Add"
 #~ msgstr "No por anyadí"
 
-#~ msgid "clean up"
-#~ msgstr "limpia"
-
-#~ msgid "Cloud"
-#~ msgstr "Cloud"
-
 #~ msgid "Cloud variable (stored on server)"
 #~ msgstr "Variabel di cloud (wardá riba server)"
-
-#~ msgid "Costumes:"
-#~ msgstr "Tragenan:"
 
 #~ msgid "Downloading new version"
 #~ msgstr "Deskargando vershon nobo"
@@ -1947,9 +1995,6 @@ msgstr ""
 #~ msgid "false"
 #~ msgstr "falsu"
 
-#~ msgid "Go to My Stuff"
-#~ msgstr "Bai na Mi Kosnan"
-
 #~ msgid "Hello!"
 #~ msgstr "Hello!"
 
@@ -1958,9 +2003,6 @@ msgstr ""
 
 #~ msgid "hello"
 #~ msgstr "hello"
-
-#~ msgid "limit reached"
-#~ msgstr "limite a wordu alkansá"
 
 #~ msgid "motor"
 #~ msgstr "motor"
@@ -1971,29 +2013,14 @@ msgstr ""
 #~ msgid "motor B"
 #~ msgstr "motor B"
 
-#~ msgid "My Stuff"
-#~ msgstr "Mi kos"
-
-#~ msgid "Profile"
-#~ msgstr "Perfil"
-
 #~ msgid "Remove extension blocks"
 #~ msgstr "Kita blòkinan di extenshon"
 
 #~ msgid "Replace existing project"
 #~ msgstr "Reemplasá proyekto eksistente"
 
-#~ msgid "requires sign in"
-#~ msgstr "registrashon ta rekerí"
-
-#~ msgid "Save as a copy"
-#~ msgstr "Warda komo kopia"
-
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "Scratch 2.0 Editor Offline"
-
-#~ msgid "Scripts:"
-#~ msgstr "Scriptnan:"
 
 #~ msgid ""
 #~ "See the Tips window (on the right) to install the plug-in and get the "
@@ -2004,12 +2031,6 @@ msgstr ""
 
 #~ msgid "Share to Scratch website"
 #~ msgstr "Kompart na websait di Scratch"
-
-#~ msgid "Sign out"
-#~ msgstr "Log out"
-
-#~ msgid "stored on server"
-#~ msgstr "wardá riba server"
 
 #~ msgid "The name is already in use."
 #~ msgstr "E nomber ta den uso kaba."
@@ -2032,19 +2053,3 @@ msgstr ""
 
 #~ msgid "world"
 #~ msgstr "mundu"
-
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
-#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Informashon over di variabelnan di Cloud</b><br>&nbsp;<br>Aktualmente, "
-#~ "solamente numbernan ta wordu sostené<br>Chat roomnan no ta permití, i lo "
-#~ "wordu kitá<br>Pa mas info, <a href= target=>mira e FAQ di data di Cloud!</"
-#~ "a>"
-
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "Klek pa purba atrone of  pa warda"
-
-#~ msgid "any"
-#~ msgstr "kwalke"

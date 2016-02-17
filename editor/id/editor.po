@@ -50,8 +50,8 @@ msgstr "Tentang"
 msgid "abs"
 msgstr "abs"
 
-#~ msgid "Account settings"
-#~ msgstr "Pengaturan akun"
+msgid "Account settings"
+msgstr "Pengaturan akun"
 
 msgid "acos"
 msgstr "acos"
@@ -263,8 +263,8 @@ msgid "Claves"
 msgstr "Claves"
 
 # "cleanup" adalah fitur editor yang dapat kau gunakan untuk merapikan scripts. (blocks)
-#~ msgid "clean up"
-#~ msgstr "rapikan"
+msgid "clean up"
+msgstr "rapikan"
 
 msgid "Clear"
 msgstr "Hapus semua"
@@ -284,8 +284,8 @@ msgid "Closed Hi-Hat"
 msgstr "Tutup hi-hat"
 
 # Sepertinya "cloud" disini ada hubungannya dengan cloud data, jadi kupikir sebaiknya tidak diterjemahkan :) ~R
-#~ msgid "Cloud"
-#~ msgstr "Cloud"
+msgid "Cloud"
+msgstr "Cloud"
 
 msgid "Cloud data"
 msgstr "Cloud data"
@@ -350,8 +350,8 @@ msgstr "Kostum"
 msgid "Costumes > 1"
 msgstr "Jumlah kostum > 1"
 
-#~ msgid "Costumes:"
-#~ msgstr "Kostum:"
+msgid "Costumes:"
+msgstr "Kostum:"
 
 msgid "Could not retrieve new application from server."
 msgstr "Tidak dapat menerima aplikasi baru dari server."
@@ -537,8 +537,8 @@ msgid "ghost"
 msgstr "transparan"
 
 # Cukup sederhana untuk dimengerti segala usia ~R
-#~ msgid "Go to My Stuff"
-#~ msgstr "Pergi ke Karyaku"
+msgid "Go to My Stuff"
+msgstr "Pergi ke Karyaku"
 
 msgid "Group"
 msgstr "Kelompok"
@@ -637,8 +637,8 @@ msgstr "cahaya"
 #~ msgid "lights"
 #~ msgstr "cahaya"
 
-#~ msgid "limit reached"
-#~ msgstr "batas telah tercapai"
+msgid "limit reached"
+msgstr "batas telah tercapai"
 
 msgid "Line"
 msgstr "Garis"
@@ -742,8 +742,8 @@ msgid "Music Loops"
 msgstr "Loop Musik"
 
 # Aku memutuskan untuk menyebutnya "karyaku" karena mudah dimengerti, serhana, dan masuk akal ;) ~R
-#~ msgid "My Stuff"
-#~ msgstr "Karyaku"
+msgid "My Stuff"
+msgstr "Karyaku"
 
 msgid "myself"
 msgstr "diriku"
@@ -905,8 +905,8 @@ msgstr "pop"
 msgid "previous backdrop"
 msgstr "Latar sebelumnya"
 
-#~ msgid "Profile"
-#~ msgstr "Profil"
+msgid "Profile"
+msgstr "Profil"
 
 msgid "Project did not load."
 msgstr "Projek tidak termuat."
@@ -963,8 +963,8 @@ msgstr "namai ulang variabel"
 #~ msgid "Replace existing project"
 #~ msgstr "Ganti karya yang ada"
 
-#~ msgid "requires sign in"
-#~ msgstr "mengharuskan untuk masuk"
+msgid "requires sign in"
+msgstr "mengharuskan untuk masuk"
 
 msgid "Reshape"
 msgstr "Bentuk ulang"
@@ -1012,8 +1012,8 @@ msgstr "Simpan salinan karya ini dan tambahkan dengan idemu sendiri"
 msgid "Save as"
 msgstr "Simpan sebagai"
 
-#~ msgid "Save as a copy"
-#~ msgstr "Simpan sebagai salinan"
+msgid "Save as a copy"
+msgstr "Simpan sebagai salinan"
 
 msgid "Save now"
 msgstr "Simpan sekarang"
@@ -1048,8 +1048,8 @@ msgstr "Skrip"
 msgid "Scripts"
 msgstr "Skrip"
 
-#~ msgid "Scripts:"
-#~ msgstr "Skrip:"
+msgid "Scripts:"
+msgstr "Skrip:"
 
 msgid "second"
 msgstr "detik"
@@ -1122,8 +1122,8 @@ msgstr "Masuk"
 msgid "Sign in to save"
 msgstr "Masuk untuk simpan"
 
-#~ msgid "Sign out"
-#~ msgstr "Keluar"
+msgid "Sign out"
+msgstr "Keluar"
 
 msgid "silence"
 msgstr "sunyi"
@@ -1206,8 +1206,8 @@ msgstr "Stage terpilih:"
 msgid "Steel Drum"
 msgstr "Drum Besi"
 
-#~ msgid "stored on server"
-#~ msgstr "tersimpan di server"
+msgid "stored on server"
+msgstr "tersimpan di server"
 
 msgid "Synth Lead"
 msgstr "Synth Lead"
@@ -1453,23 +1453,23 @@ msgstr "Nama Scratch kamu"
 msgid "Your Scratch name is required"
 msgstr "Nama Scratch kamu dibutuhkan"
 
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
-#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Informasi tentang variabel Cloud</b><br>&nbsp;<br>Sekarang, hanya angka "
-#~ "yang didukung<br>Chat room tidak diperbolehkan, dan akan dihapus<br>Untuk "
-#~ "info lebih lanjut, <a href= target=>lihat Data Cloud FAQ!</a>"
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Informasi tentang variabel Cloud</b><br>&nbsp;<br>Sekarang, hanya angka "
+"yang didukung<br>Chat room tidak diperbolehkan, dan akan dihapus<br>Untuk "
+"info lebih lanjut, <a href= target=>lihat Data Cloud FAQ!</a>"
 
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "Klik  untuk mencoba lagi atau  untuk menyimpan"
+msgid "Click  to try again or  to save"
+msgstr "Klik  untuk mencoba lagi atau  untuk menyimpan"
 
-#~ msgid "Eraser width:"
-#~ msgstr "Lebar penghapus:"
+msgid "Eraser width:"
+msgstr "Lebar penghapus:"
 
-#~ msgid "Line width:"
-#~ msgstr "Lebar garis:"
+msgid "Line width:"
+msgstr "Lebar garis:"
 
 # Offline editor only
 msgid "All Tips"
@@ -1484,8 +1484,9 @@ msgstr ""
 "situs Scratch."
 
 # Offline editor only
+#, fuzzy
 msgid "Could not retrieve update location from server."
-msgstr ""
+msgstr "Tidak dapat menerima aplikasi baru dari server."
 
 # Offline editor only
 msgid "Could not retrieve version information from server."
@@ -1594,8 +1595,8 @@ msgstr "Karyamu telah diunggah ke scratch.mit.edu"
 #~ msgid "Paint"
 #~ msgstr "Lukis"
 
-#~ msgid "any"
-#~ msgstr "sembarang"
+msgid "any"
+msgstr "sembarang"
 
 #~ msgid "High Tom"
 #~ msgstr "Tom Tinggi"
@@ -1632,3 +1633,12 @@ msgstr "Karyamu telah diunggah ke scratch.mit.edu"
 
 #~ msgid "Short Guiro"
 #~ msgstr "Guiro Pendek"
+
+msgid "Record Project Video"
+msgstr ""
+
+msgid "Remove Background"
+msgstr ""
+
+msgid "when Stage clicked"
+msgstr ""

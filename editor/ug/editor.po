@@ -102,17 +102,20 @@ msgstr ""
 msgid "atan"
 msgstr ""
 
+#, fuzzy
 msgid "B connected"
-msgstr ""
+msgstr "A ئۇلاندى"
 
 msgid "Back a layer"
 msgstr "تۆۋەنكى قەۋەتكە يۆتكەش"
 
+#, fuzzy
 msgid "backdrop"
-msgstr ""
+msgstr "تەگلىك1"
 
+#, fuzzy
 msgid "Backdrop"
-msgstr ""
+msgstr "تەگلىك1"
 
 msgid "backdrop #"
 msgstr "تەگلىك نۇمۇرۇى"
@@ -129,8 +132,9 @@ msgstr "تەگلىك1"
 msgid "backdrops"
 msgstr "تەگلىك"
 
+#, fuzzy
 msgid "Backdrops"
-msgstr ""
+msgstr "تەگلىك"
 
 msgid "Backpack"
 msgstr "سومكا"
@@ -183,8 +187,9 @@ msgstr ""
 msgid "bytes loaded"
 msgstr ""
 
+#, fuzzy
 msgid "C connected"
-msgstr ""
+msgstr "A ئۇلاندى"
 
 msgid "Cabasa"
 msgstr ""
@@ -351,8 +356,9 @@ msgstr ""
 msgid "cut"
 msgstr ""
 
+#, fuzzy
 msgid "D connected"
-msgstr ""
+msgstr "A ئۇلاندى"
 
 msgid "date"
 msgstr ""
@@ -1525,5 +1531,14 @@ msgstr ""
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
-#~ msgid "any"
-#~ msgstr "خالىغان"
+msgid "any"
+msgstr "خالىغان"
+
+msgid "Record Project Video"
+msgstr ""
+
+msgid "Remove Background"
+msgstr ""
+
+msgid "when Stage clicked"
+msgstr ""

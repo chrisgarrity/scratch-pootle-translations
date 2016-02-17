@@ -1545,3 +1545,15 @@ msgstr ""
 
 #~ msgid "Back a layer (Shift: Send to back)"
 #~ msgstr "Иу фӕлтӕр фӕстӕмӕ (Shift: фӕстаг фӕлтӕрмӕ)"
+
+msgid "Record Project Video"
+msgstr ""
+
+msgid "Remove Background"
+msgstr ""
+
+msgid "any"
+msgstr ""
+
+msgid "when Stage clicked"
+msgstr ""

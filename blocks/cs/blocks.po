@@ -16,8 +16,8 @@ msgstr ""
 
 # The language name as it will appear in the language menu
 # The language name as it will appear in the language menu. "Č" v 1.4 je na konci abecedy!
-#~ msgid "Language-Name"
-#~ msgstr "Česky"
+msgid "Language-Name"
+msgstr "Česky"
 
 msgid "%b and %b"
 msgstr "%b a %b"
@@ -28,8 +28,8 @@ msgstr "%b nebo %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute z %m.spriteOrStage"
 
-#~ msgid "%m.list contains %s"
-#~ msgstr "%m.list obsahuje %s"
+msgid "%m.list contains %s"
+msgstr "%m.list obsahuje %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp z %n"
@@ -499,30 +499,30 @@ msgstr "pozice y"
 
 # 89%
 # 100%
-#~ msgid "set motor direction %m.motorDirection"
-#~ msgstr "nastav směr motoru %m.motorDirection"
+msgid "set motor direction %m.motorDirection"
+msgstr "nastav směr motoru %m.motorDirection"
 
 # 77%
 # 100%
-#~ msgid "set motor power %n"
-#~ msgstr "nastav sílu motoru %n"
+msgid "set motor power %n"
+msgstr "nastav sílu motoru %n"
 
-#~ msgid "turn motor off"
-#~ msgstr "vypni motor"
+msgid "turn motor off"
+msgstr "vypni motor"
 
-#~ msgid "turn motor on"
-#~ msgstr "zapni motor"
+msgid "turn motor on"
+msgstr "zapni motor"
 
 # 80%
 # 100%
-#~ msgid "turn motor on for %n secs"
-#~ msgstr "zapni motor na %n s"
+msgid "turn motor on for %n secs"
+msgstr "zapni motor na %n s"
 
-#~ msgid "when distance < %n"
-#~ msgstr "když vzdálenost < %n"
+msgid "when distance < %n"
+msgstr "když vzdálenost < %n"
 
-#~ msgid "when tilt = %n"
-#~ msgstr "když sklon = %n"
+msgid "when tilt = %n"
+msgstr "když sklon = %n"
 
 # 89%
 # 100%

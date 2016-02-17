@@ -776,3 +776,7 @@ msgstr "положение x"
 #: commands-offline.txt:297
 msgid "y position"
 msgstr "положение y"
+
+#, fuzzy
+msgid "%m.list contains %s"
+msgstr "%m.list содержит %s?"

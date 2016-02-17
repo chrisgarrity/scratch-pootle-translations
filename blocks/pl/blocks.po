@@ -780,3 +780,7 @@ msgstr "współrzędna x"
 #: commands-offline.txt:297
 msgid "y position"
 msgstr "współrzędna y"
+
+#, fuzzy
+msgid "%m.list contains %s"
+msgstr "%m.list zawiera %s?"

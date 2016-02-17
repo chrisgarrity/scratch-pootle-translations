@@ -15,8 +15,8 @@ msgstr ""
 "X-POOTLE-MTIME: 1429110282.000000\n"
 
 # The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "Eesti"
+msgid "Language-Name"
+msgstr "Eesti"
 
 msgid "%b and %b"
 msgstr "%b ja %b"
@@ -28,8 +28,8 @@ msgid "%m.attribute of %m.spriteOrStage"
 msgstr "objekti %m.spriteOrStage %m.attribute"
 
 # lühem variant on parem; kui, siis väärtust
-#~ msgid "%m.list contains %s"
-#~ msgstr "%m.list sisaldab %s"
+msgid "%m.list contains %s"
+msgstr "%m.list sisaldab %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp %n"
@@ -512,28 +512,28 @@ msgid "y position"
 msgstr "y"
 
 # 89%
-#~ msgid "set motor direction %m.motorDirection"
-#~ msgstr "mootori suund %m.motorDirection"
+msgid "set motor direction %m.motorDirection"
+msgstr "mootori suund %m.motorDirection"
 
 # 77%
-#~ msgid "set motor power %n"
-#~ msgstr "mootori võimsus %n"
+msgid "set motor power %n"
+msgstr "mootori võimsus %n"
 
-#~ msgid "turn motor off"
-#~ msgstr "lülita mootor välja"
+msgid "turn motor off"
+msgstr "lülita mootor välja"
 
-#~ msgid "turn motor on"
-#~ msgstr "lülita mootor sisse"
+msgid "turn motor on"
+msgstr "lülita mootor sisse"
 
 # 80%
-#~ msgid "turn motor on for %n secs"
-#~ msgstr "lülita mootor %n sekundiks sisse"
+msgid "turn motor on for %n secs"
+msgstr "lülita mootor %n sekundiks sisse"
 
-#~ msgid "when distance < %n"
-#~ msgstr "kui kaugus < %n"
+msgid "when distance < %n"
+msgstr "kui kaugus < %n"
 
-#~ msgid "when tilt = %n"
-#~ msgstr "kui kalle = %n"
+msgid "when tilt = %n"
+msgstr "kui kalle = %n"
 
 # 89%
 # 86%

@@ -569,9 +569,6 @@ msgstr "Tout"
 msgid "all around"
 msgstr "laviwon"
 
-msgid "all motors"
-msgstr "tout motè"
-
 msgid "Animal"
 msgstr "Zannimo"
 
@@ -921,9 +918,6 @@ msgstr ""
 msgid "Error!"
 msgstr ""
 
-msgid "everything"
-msgstr "tout bagay"
-
 msgid "export"
 msgstr ""
 
@@ -938,9 +932,6 @@ msgstr ""
 
 msgid "fade out"
 msgstr ""
-
-msgid "false"
-msgstr "fo"
 
 msgid "Fantasy"
 msgstr "Imajinè"
@@ -1018,9 +1009,6 @@ msgstr ""
 msgid "Hmm..."
 msgstr ""
 
-msgid "hello"
-msgstr "Vyolonsèl"
-
 msgid "High C"
 msgstr ""
 
@@ -1077,10 +1065,6 @@ msgid "Library"
 msgstr ""
 
 msgid "light"
-msgstr "limyè"
-
-# 83%
-msgid "lights"
 msgstr "limyè"
 
 msgid "limit reached"
@@ -1158,15 +1142,6 @@ msgstr "mozayik"
 
 msgid "motion"
 msgstr "mouvman"
-
-msgid "motor"
-msgstr "motè"
-
-msgid "motor A"
-msgstr "motè A"
-
-msgid "motor B"
-msgstr "motè B"
 
 msgid "mouse-pointer"
 msgstr "flèch souri a"
@@ -1462,8 +1437,9 @@ msgstr "Sere pwojè a?"
 msgid "save to local file"
 msgstr "sere nan òdinatè a"
 
+#, fuzzy
 msgid "Saved"
-msgstr ""
+msgstr "Sere"
 
 msgid "Saving changes..."
 msgstr "Tann..."
@@ -1711,9 +1687,6 @@ msgstr "Triyang"
 
 msgid "Trombone"
 msgstr "Twonbòn"
-
-msgid "true"
-msgstr "vre"
 
 msgid "Turbo mode"
 msgstr ""
@@ -1972,17 +1945,51 @@ msgstr ""
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
+msgid "any"
+msgstr "nenpòt"
+
+msgid "Record Project Video"
+msgstr ""
+
+msgid "Remove Background"
+msgstr ""
+
 #~ msgid "forever if %b"
 #~ msgstr "repete nèt ale si %b"
 
 #~ msgid "if %b"
 #~ msgstr "si %b"
 
+#~ msgid "all motors"
+#~ msgstr "tout motè"
+
+#~ msgid "everything"
+#~ msgstr "tout bagay"
+
+#~ msgid "false"
+#~ msgstr "fo"
+
+#~ msgid "hello"
+#~ msgstr "Vyolonsèl"
+
+# 83%
+#~ msgid "lights"
+#~ msgstr "limyè"
+
+#~ msgid "motor"
+#~ msgstr "motè"
+
+#~ msgid "motor A"
+#~ msgstr "motè A"
+
+#~ msgid "motor B"
+#~ msgstr "motè B"
+
+#~ msgid "true"
+#~ msgstr "vre"
+
 #~ msgid "Paint"
 #~ msgstr "Desen"
-
-#~ msgid "any"
-#~ msgstr "nenpòt"
 
 #~ msgid "More"
 #~ msgstr "plis"

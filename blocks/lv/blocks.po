@@ -16,8 +16,8 @@ msgstr ""
 "X-POOTLE-MTIME: 1431493639.000000\n"
 
 # The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "Latviešu"
+msgid "Language-Name"
+msgstr "Latviešu"
 
 msgid "%b and %b"
 msgstr "%b un %b"
@@ -28,8 +28,8 @@ msgstr "%b vai %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute no %m.spriteOrStage"
 
-#~ msgid "%m.list contains %s"
-#~ msgstr "%m.list satur %s"
+msgid "%m.list contains %s"
+msgstr "%m.list satur %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp no %n"
@@ -481,26 +481,26 @@ msgstr "x pozīcija"
 msgid "y position"
 msgstr "y pozīcija"
 
-#~ msgid "set motor direction %m.motorDirection"
-#~ msgstr "iestatīt motora virzienu uz %m.motorDirection"
+msgid "set motor direction %m.motorDirection"
+msgstr "iestatīt motora virzienu uz %m.motorDirection"
 
-#~ msgid "set motor power %n"
-#~ msgstr "iestatīt motora jaudu %n"
+msgid "set motor power %n"
+msgstr "iestatīt motora jaudu %n"
 
-#~ msgid "turn motor off"
-#~ msgstr "izslēgt motoru"
+msgid "turn motor off"
+msgstr "izslēgt motoru"
 
-#~ msgid "turn motor on"
-#~ msgstr "ieslēgt motoru"
+msgid "turn motor on"
+msgstr "ieslēgt motoru"
 
-#~ msgid "turn motor on for %n secs"
-#~ msgstr "iezlēgt motoru uz %n sekundēm"
+msgid "turn motor on for %n secs"
+msgstr "iezlēgt motoru uz %n sekundēm"
 
-#~ msgid "when distance < %n"
-#~ msgstr "kad attālums < %n"
+msgid "when distance < %n"
+msgstr "kad attālums < %n"
 
-#~ msgid "when tilt = %n"
-#~ msgstr "kad noliekts = %n"
+msgid "when tilt = %n"
+msgstr "kad noliekts = %n"
 
 # 86%
 #, fuzzy

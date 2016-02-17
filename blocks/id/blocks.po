@@ -15,8 +15,8 @@ msgstr ""
 "X-POOTLE-MTIME: 1447949327.000000\n"
 
 # The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "Bahasa Indonesia"
+msgid "Language-Name"
+msgstr "Bahasa Indonesia"
 
 msgid "%b and %b"
 msgstr "%b dan %b"
@@ -27,8 +27,8 @@ msgstr "%b atau %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute dari %m.spriteOrStage"
 
-#~ msgid "%m.list contains %s"
-#~ msgstr "%m.list berisi %s"
+msgid "%m.list contains %s"
+msgstr "%m.list berisi %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp dari %n"
@@ -495,28 +495,28 @@ msgid "y position"
 msgstr "posisi y"
 
 # 89%
-#~ msgid "set motor direction %m.motorDirection"
-#~ msgstr "atur arah motor %m.motorDirection"
+msgid "set motor direction %m.motorDirection"
+msgstr "atur arah motor %m.motorDirection"
 
 # 77%
-#~ msgid "set motor power %n"
-#~ msgstr "atur daya motor %n"
+msgid "set motor power %n"
+msgstr "atur daya motor %n"
 
-#~ msgid "turn motor off"
-#~ msgstr "matikan motor"
+msgid "turn motor off"
+msgstr "matikan motor"
 
-#~ msgid "turn motor on"
-#~ msgstr "hidupkan motor"
+msgid "turn motor on"
+msgstr "hidupkan motor"
 
 # 80%
-#~ msgid "turn motor on for %n secs"
-#~ msgstr "hidupkan motor selama %n detik"
+msgid "turn motor on for %n secs"
+msgstr "hidupkan motor selama %n detik"
 
-#~ msgid "when distance < %n"
-#~ msgstr "ketika jarak < %n"
+msgid "when distance < %n"
+msgstr "ketika jarak < %n"
 
-#~ msgid "when tilt = %n"
-#~ msgstr "ketika miring = %n"
+msgid "when tilt = %n"
+msgstr "ketika miring = %n"
 
 # 89%
 # 86%

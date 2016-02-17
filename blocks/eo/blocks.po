@@ -15,8 +15,8 @@ msgstr ""
 "X-POOTLE-MTIME: 1391652125.000000\n"
 
 # The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "Esperanto"
+msgid "Language-Name"
+msgstr "Esperanto"
 
 msgid "%b and %b"
 msgstr "%b kaj %b"
@@ -27,8 +27,8 @@ msgstr "%b aŭ %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute de %m.spriteOrStage"
 
-#~ msgid "%m.list contains %s"
-#~ msgstr "%m.list enhavas %s"
+msgid "%m.list contains %s"
+msgstr "%m.list enhavas %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp de %n"
@@ -491,28 +491,28 @@ msgid "y position"
 msgstr "y-pozicio"
 
 # 89%
-#~ msgid "set motor direction %m.motorDirection"
-#~ msgstr "valorigi motordirekton al %m.motorDirection"
+msgid "set motor direction %m.motorDirection"
+msgstr "valorigi motordirekton al %m.motorDirection"
 
 # 77%
-#~ msgid "set motor power %n"
-#~ msgstr "valorigi motorforton al %n"
+msgid "set motor power %n"
+msgstr "valorigi motorforton al %n"
 
-#~ msgid "turn motor off"
-#~ msgstr "malŝalti motoron"
+msgid "turn motor off"
+msgstr "malŝalti motoron"
 
-#~ msgid "turn motor on"
-#~ msgstr "ŝalti motoron"
+msgid "turn motor on"
+msgstr "ŝalti motoron"
 
 # 80%
-#~ msgid "turn motor on for %n secs"
-#~ msgstr "ŝalti motoron dum %n sekundoj"
+msgid "turn motor on for %n secs"
+msgstr "ŝalti motoron dum %n sekundoj"
 
-#~ msgid "when distance < %n"
-#~ msgstr "kiam distanco < %n"
+msgid "when distance < %n"
+msgstr "kiam distanco < %n"
 
-#~ msgid "when tilt = %n"
-#~ msgstr "kiam klino = %n"
+msgid "when tilt = %n"
+msgstr "kiam klino = %n"
 
 # 89%
 # 86%

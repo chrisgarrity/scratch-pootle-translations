@@ -14,6 +14,10 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1395493795.000000\n"
 
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "اردو"
+
 msgid "%b and %b"
 msgstr "%b اور %b"
 
@@ -22,6 +26,9 @@ msgstr "%b یا %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute کا %m.spriteOrStage"
+
+msgid "%m.list contains %s"
+msgstr "%m.list پرمشتمل ھے %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp قیمت %n"
@@ -478,6 +485,27 @@ msgstr "س کی جگہ"
 
 msgid "y position"
 msgstr "ص کی جگہ"
+
+msgid "set motor direction %m.motorDirection"
+msgstr "مقررسمت موتر%m.motorDirection"
+
+msgid "set motor power %n"
+msgstr "مقرر موتر طاقت%n"
+
+msgid "turn motor off"
+msgstr "موٹربند"
+
+msgid "turn motor on"
+msgstr "موٹرچلاوٰ"
+
+msgid "turn motor on for %n secs"
+msgstr "موٹرچلاوٰبراےٰ%nسیکنڈ"
+
+msgid "when distance < %n"
+msgstr "جب فاصلہ  < %n"
+
+msgid "when tilt = %n"
+msgstr "جب جھکاوٰ= %n"
 
 #: commands-online.txt:7 commands-offline.txt:7
 #, fuzzy
@@ -1944,33 +1972,14 @@ msgstr ""
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
-# The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "اردو"
+msgid "Record Project Video"
+msgstr ""
 
-#~ msgid "%m.list contains %s"
-#~ msgstr "%m.list پرمشتمل ھے %s"
+msgid "Remove Background"
+msgstr ""
 
-#~ msgid "set motor direction %m.motorDirection"
-#~ msgstr "مقررسمت موتر%m.motorDirection"
-
-#~ msgid "set motor power %n"
-#~ msgstr "مقرر موتر طاقت%n"
-
-#~ msgid "turn motor off"
-#~ msgstr "موٹربند"
-
-#~ msgid "turn motor on"
-#~ msgstr "موٹرچلاوٰ"
-
-#~ msgid "turn motor on for %n secs"
-#~ msgstr "موٹرچلاوٰبراےٰ%nسیکنڈ"
-
-#~ msgid "when distance < %n"
-#~ msgstr "جب فاصلہ  < %n"
-
-#~ msgid "when tilt = %n"
-#~ msgstr "جب جھکاوٰ= %n"
+msgid "any"
+msgstr ""
 
 # 86%
 #, fuzzy

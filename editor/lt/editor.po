@@ -49,8 +49,8 @@ msgstr ""
 msgid "abs"
 msgstr "teigiama reikšmė"
 
-#~ msgid "Account settings"
-#~ msgstr "Naudotojo nustatymai"
+msgid "Account settings"
+msgstr "Naudotojo nustatymai"
 
 msgid "acos"
 msgstr "arccos"
@@ -286,8 +286,8 @@ msgstr "Uždaryti"
 msgid "Closed Hi-Hat"
 msgstr "Uždaras haihetas"
 
-#~ msgid "Cloud"
-#~ msgstr "\"Debesis\""
+msgid "Cloud"
+msgstr "\"Debesis\""
 
 msgid "Cloud data"
 msgstr "Duomenys \"debesyje\""
@@ -355,8 +355,8 @@ msgstr "Kaukės > 1"
 
 # 75%
 # 88%
-#~ msgid "Costumes:"
-#~ msgstr "Kaukės:"
+msgid "Costumes:"
+msgstr "Kaukės:"
 
 msgid "Could not retrieve new application from server."
 msgstr ""
@@ -546,8 +546,8 @@ msgstr "Vienu sluoksniu aukščiau"
 msgid "ghost"
 msgstr "permatomumas"
 
-#~ msgid "Go to My Stuff"
-#~ msgstr "Mano katalogas"
+msgid "Go to My Stuff"
+msgstr "Mano katalogas"
 
 msgid "Group"
 msgstr "Grupuoti"
@@ -758,8 +758,8 @@ msgstr "Muzikinė dėžutė"
 msgid "Music Loops"
 msgstr "Muzikos ciklai"
 
-#~ msgid "My Stuff"
-#~ msgstr "Mano katalogas"
+msgid "My Stuff"
+msgstr "Mano katalogas"
 
 msgid "myself"
 msgstr "save"
@@ -933,8 +933,8 @@ msgstr "paskutinis"
 msgid "previous backdrop"
 msgstr ""
 
-#~ msgid "Profile"
-#~ msgstr "Profilis"
+msgid "Profile"
+msgstr "Profilis"
 
 msgid "Project did not load."
 msgstr ""
@@ -1043,8 +1043,8 @@ msgstr ""
 msgid "Save as"
 msgstr ""
 
-#~ msgid "Save as a copy"
-#~ msgstr "Išsaugoti kopiją"
+msgid "Save as a copy"
+msgstr "Išsaugoti kopiją"
 
 msgid "Save now"
 msgstr "Išsaugoti dabar"
@@ -1083,8 +1083,8 @@ msgid "Scripts"
 msgstr "Scenarijai"
 
 # 87%
-#~ msgid "Scripts:"
-#~ msgstr "Scenarijai:"
+msgid "Scripts:"
+msgstr "Scenarijai:"
 
 msgid "second"
 msgstr "sekundė"
@@ -1161,8 +1161,8 @@ msgstr "Prisijungti"
 msgid "Sign in to save"
 msgstr "Norint išsaugoti, reikia prisijungti"
 
-#~ msgid "Sign out"
-#~ msgstr "Atsijungti"
+msgid "Sign out"
+msgstr "Atsijungti"
 
 msgid "silence"
 msgstr "tyla"
@@ -1246,8 +1246,8 @@ msgstr "Pažymėta scena:"
 msgid "Steel Drum"
 msgstr "Plieno būgnas"
 
-#~ msgid "stored on server"
-#~ msgstr "saugoma serveryje"
+msgid "stored on server"
+msgstr "saugoma serveryje"
 
 msgid "Synth Lead"
 msgstr "Solinis sintezatorius"
@@ -1497,23 +1497,23 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
-#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Informacija dėl \"Debesyje\" saugomų kintamųjų</b><br>&nbsp;<br>Dabar "
-#~ "saugomi tik skaičiai<br><br>Daugiau info: <a href= target=>\"Debesų\" "
-#~ "DUK!</a>"
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Informacija dėl \"Debesyje\" saugomų kintamųjų</b><br>&nbsp;<br>Dabar "
+"saugomi tik skaičiai<br><br>Daugiau info: <a href= target=>\"Debesų\" "
+"DUK!</a>"
 
 msgid "Click  to try again or  to save"
 msgstr ""
 
-#~ msgid "Eraser width:"
-#~ msgstr "Trintuko plotis:"
+msgid "Eraser width:"
+msgstr "Trintuko plotis:"
 
-#~ msgid "Line width:"
-#~ msgstr "Linijos plotis:"
+msgid "Line width:"
+msgstr "Linijos plotis:"
 
 # Offline editor only
 msgid "All Tips"
@@ -1671,8 +1671,8 @@ msgstr ""
 #~ msgid "Stage selected"
 #~ msgstr "Pažymėta scena"
 
-#~ msgid "any"
-#~ msgstr "bet kuris"
+msgid "any"
+msgstr "bet kuris"
 
 #~ msgid "High Tom"
 #~ msgstr "Aukštasis tomas"
@@ -1709,3 +1709,12 @@ msgstr ""
 
 #~ msgid "Short Guiro"
 #~ msgstr "Trumpas giras"
+
+msgid "Record Project Video"
+msgstr ""
+
+msgid "Remove Background"
+msgstr ""
+
+msgid "when Stage clicked"
+msgstr ""

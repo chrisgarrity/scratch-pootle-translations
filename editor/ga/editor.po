@@ -50,8 +50,8 @@ msgstr "Maidir leis"
 msgid "abs"
 msgstr "abs"
 
-#~ msgid "Account settings"
-#~ msgstr "Socruithe an chuntais"
+msgid "Account settings"
+msgstr "Socruithe an chuntais"
 
 msgid "acos"
 msgstr "acos"
@@ -256,8 +256,8 @@ msgstr "Cláirnéid"
 msgid "Claves"
 msgstr "Clabhaí"
 
-#~ msgid "clean up"
-#~ msgstr "glan"
+msgid "clean up"
+msgstr "glan"
 
 msgid "Clear"
 msgstr "Glan"
@@ -276,8 +276,8 @@ msgstr "Dún"
 msgid "Closed Hi-Hat"
 msgstr "Ard-hata dúnta"
 
-#~ msgid "Cloud"
-#~ msgstr "Scamall"
+msgid "Cloud"
+msgstr "Scamall"
 
 msgid "Cloud data"
 msgstr "Néalsonraí"
@@ -339,8 +339,8 @@ msgstr "Cultacha"
 msgid "Costumes > 1"
 msgstr "Cultacha > 1"
 
-#~ msgid "Costumes:"
-#~ msgstr "Cultacha:"
+msgid "Costumes:"
+msgstr "Cultacha:"
 
 msgid "Could not retrieve new application from server."
 msgstr "Níorbh fhéidir feidhmchlár nua a fháil ón bhfreastalaí."
@@ -522,8 +522,8 @@ msgstr "Sraith amháin chun tosaigh"
 msgid "ghost"
 msgstr "taibhse"
 
-#~ msgid "Go to My Stuff"
-#~ msgstr "Mo Chuid Stuif"
+msgid "Go to My Stuff"
+msgstr "Mo Chuid Stuif"
 
 msgid "Group"
 msgstr "Grúpa"
@@ -620,8 +620,8 @@ msgstr "éadrom"
 #~ msgid "lights"
 #~ msgstr "soilse"
 
-#~ msgid "limit reached"
-#~ msgstr "teorainn sroichte"
+msgid "limit reached"
+msgstr "teorainn sroichte"
 
 msgid "Line"
 msgstr "Líne"
@@ -722,8 +722,8 @@ msgstr "Ceolbhosca"
 msgid "Music Loops"
 msgstr "Lúba Ceoil"
 
-#~ msgid "My Stuff"
-#~ msgstr "Mo Chuid Stuif"
+msgid "My Stuff"
+msgstr "Mo Chuid Stuif"
 
 msgid "myself"
 msgstr "mise féin"
@@ -884,8 +884,8 @@ msgstr "pléasc"
 msgid "previous backdrop"
 msgstr "cúlra roimhe seo"
 
-#~ msgid "Profile"
-#~ msgstr "Próifíl"
+msgid "Profile"
+msgstr "Próifíl"
 
 msgid "Project did not load."
 msgstr "Ní raibh an tionscadal luchtaithe."
@@ -941,8 +941,8 @@ msgstr "cuir ainm nua ar athróg"
 #~ msgid "Replace existing project"
 #~ msgstr "Forscríobh tionscadal atá ann"
 
-#~ msgid "requires sign in"
-#~ msgstr "is gá logáil isteach"
+msgid "requires sign in"
+msgstr "is gá logáil isteach"
 
 msgid "Reshape"
 msgstr "Athdheilbhigh"
@@ -989,8 +989,8 @@ msgstr "Sábháil cóip den tionscadal seo agus cuir leis."
 msgid "Save as"
 msgstr "Sábháil mar"
 
-#~ msgid "Save as a copy"
-#~ msgstr "Sábháil mar chóip"
+msgid "Save as a copy"
+msgstr "Sábháil mar chóip"
 
 msgid "Save now"
 msgstr "Sábháil anois"
@@ -1025,8 +1025,8 @@ msgstr "Script"
 msgid "Scripts"
 msgstr "Scripteanna"
 
-#~ msgid "Scripts:"
-#~ msgstr "Scripteanna:"
+msgid "Scripts:"
+msgstr "Scripteanna:"
 
 msgid "second"
 msgstr "soicind"
@@ -1099,8 +1099,8 @@ msgstr "Logáil isteach"
 msgid "Sign in to save"
 msgstr "Logáil isteach chun sábháil"
 
-#~ msgid "Sign out"
-#~ msgstr "Logáil amach"
+msgid "Sign out"
+msgstr "Logáil amach"
 
 msgid "silence"
 msgstr "tost"
@@ -1177,8 +1177,8 @@ msgstr "Stáitse roghnaithe:"
 msgid "Steel Drum"
 msgstr "Druma Cruach"
 
-#~ msgid "stored on server"
-#~ msgstr "sábháilte ar an bhfreastalaí"
+msgid "stored on server"
+msgstr "sábháilte ar an bhfreastalaí"
 
 msgid "Synth Lead"
 msgstr "Príomhshintéiseoir"
@@ -1432,12 +1432,12 @@ msgid "Click  to try again or  to save"
 msgstr ""
 
 # 92%
-#~ msgid "Eraser width:"
-#~ msgstr "Leithead an léirscriosáin:"
+msgid "Eraser width:"
+msgstr "Leithead an léirscriosáin:"
 
 # 90%
-#~ msgid "Line width:"
-#~ msgstr "Leithead líne:"
+msgid "Line width:"
+msgstr "Leithead líne:"
 
 # Offline editor only
 msgid "All Tips"
@@ -1545,3 +1545,15 @@ msgstr "Uasluchtaíodh do thionscadal go scratch.mit.edu"
 
 #~ msgid "Microphone Volume:"
 #~ msgstr "Airde an mhicreafóin:"
+
+msgid "Record Project Video"
+msgstr ""
+
+msgid "Remove Background"
+msgstr ""
+
+msgid "any"
+msgstr ""
+
+msgid "when Stage clicked"
+msgstr ""

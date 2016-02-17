@@ -15,8 +15,8 @@ msgstr ""
 "X-POOTLE-MTIME: 1431955134.000000\n"
 
 # The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "Uyghur"
+msgid "Language-Name"
+msgstr "Uyghur"
 
 msgid "%b and %b"
 msgstr "%b ۋە %b"
@@ -27,8 +27,8 @@ msgstr "%b ياكى %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr ""
 
-#~ msgid "%m.list contains %s"
-#~ msgstr "%m.listبولسا %s نى ئۆز ئىچىگە ئالىدۇ"
+msgid "%m.list contains %s"
+msgstr "%m.listبولسا %s نى ئۆز ئىچىگە ئالىدۇ"
 
 msgid "%m.mathOp of %n"
 msgstr ""

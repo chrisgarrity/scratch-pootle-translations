@@ -46,8 +46,8 @@ msgstr ""
 msgid "abs"
 msgstr "модуль"
 
-#~ msgid "Account settings"
-#~ msgstr "アカウントせってい"
+msgid "Account settings"
+msgstr "アカウントせってい"
 
 msgid "acos"
 msgstr "acos"
@@ -280,8 +280,8 @@ msgstr "Жабу"
 msgid "Closed Hi-Hat"
 msgstr "Жабық хай-хэт"
 
-#~ msgid "Cloud"
-#~ msgstr "クラウド"
+msgid "Cloud"
+msgstr "クラウド"
 
 msgid "Cloud data"
 msgstr "クラウドデータ"
@@ -345,8 +345,8 @@ msgstr "костюмдер"
 msgid "Costumes > 1"
 msgstr "Kостюмдер > 1"
 
-#~ msgid "Costumes:"
-#~ msgstr "コスチューム:"
+msgid "Costumes:"
+msgstr "コスチューム:"
 
 msgid "Could not retrieve new application from server."
 msgstr ""
@@ -541,8 +541,8 @@ msgstr "レイヤーをあげる"
 msgid "ghost"
 msgstr "ゆうれい"
 
-#~ msgid "Go to My Stuff"
-#~ msgstr "わたしのさくひんへいく"
+msgid "Go to My Stuff"
+msgstr "わたしのさくひんへいく"
 
 msgid "Group"
 msgstr "Топтау"
@@ -645,8 +645,8 @@ msgstr "жарық"
 msgid "lights"
 msgstr "あかるさ"
 
-#~ msgid "limit reached"
-#~ msgstr "げんかいにとうたつ"
+msgid "limit reached"
+msgstr "げんかいにとうたつ"
 
 msgid "Line"
 msgstr "Сызық"
@@ -751,8 +751,8 @@ msgstr "ミュージックボックス"
 msgid "Music Loops"
 msgstr "おんがくのループ"
 
-#~ msgid "My Stuff"
-#~ msgstr "わたしのさくひん"
+msgid "My Stuff"
+msgstr "わたしのさくひん"
 
 msgid "myself"
 msgstr "өзім"
@@ -918,8 +918,8 @@ msgstr "ポップ"
 msgid "previous backdrop"
 msgstr ""
 
-#~ msgid "Profile"
-#~ msgstr "プロフィール"
+msgid "Profile"
+msgstr "プロフィール"
 
 msgid "Project did not load."
 msgstr "Жоба жүктелген жоқ"
@@ -975,8 +975,8 @@ msgstr "へんすうめいをへんこう"
 msgid "Replace existing project"
 msgstr ""
 
-#~ msgid "requires sign in"
-#~ msgstr "サインインがひつようです"
+msgid "requires sign in"
+msgstr "サインインがひつようです"
 
 msgid "Reshape"
 msgstr "かたちをかえる"
@@ -1024,8 +1024,8 @@ msgstr "Бұл жобаның көшірмесін сақта және өз ид
 msgid "Save as"
 msgstr ""
 
-#~ msgid "Save as a copy"
-#~ msgstr "コピーをほぞん"
+msgid "Save as a copy"
+msgstr "コピーをほぞん"
 
 msgid "Save now"
 msgstr "ただちにほぞん"
@@ -1060,8 +1060,8 @@ msgstr "スクリプト"
 msgid "Scripts"
 msgstr "スクリプト"
 
-#~ msgid "Scripts:"
-#~ msgstr "スクリプト:"
+msgid "Scripts:"
+msgstr "スクリプト:"
 
 msgid "second"
 msgstr "びょう"
@@ -1134,8 +1134,8 @@ msgstr "サインイン"
 msgid "Sign in to save"
 msgstr "ほぞんするためにサインイン"
 
-#~ msgid "Sign out"
-#~ msgstr "サインアウト"
+msgid "Sign out"
+msgstr "サインアウト"
 
 msgid "silence"
 msgstr "サイレンス"
@@ -1213,8 +1213,8 @@ msgstr "せんたくされたステージ:"
 msgid "Steel Drum"
 msgstr "スチールドラム"
 
-#~ msgid "stored on server"
-#~ msgstr "サーバーへかくのう"
+msgid "stored on server"
+msgstr "サーバーへかくのう"
 
 msgid "Synth Lead"
 msgstr "シンセリード"
@@ -1457,14 +1457,14 @@ msgid ""
 "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
 msgstr ""
 
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "「ただちにほぞん」をクリックしてさいしこうするか、「ダウンロード」でほぞんしてください"
+msgid "Click  to try again or  to save"
+msgstr "「ただちにほぞん」をクリックしてさいしこうするか、「ダウンロード」でほぞんしてください"
 
-#~ msgid "Eraser width:"
-#~ msgstr "けしゴムのはば:"
+msgid "Eraser width:"
+msgstr "けしゴムのはば:"
 
-#~ msgid "Line width:"
-#~ msgstr "せんのはば:"
+msgid "Line width:"
+msgstr "せんのはば:"
 
 # Offline editor only
 msgid "All Tips"
@@ -1533,8 +1533,9 @@ msgid "Running pre-release"
 msgstr ""
 
 # Offline editor only
+#, fuzzy
 msgid "Save Project"
-msgstr ""
+msgstr "Жобаны сақтау?"
 
 # Offline editor only
 msgid "Server error:"
@@ -1613,5 +1614,14 @@ msgstr ""
 #~ msgid "New sound"
 #~ msgstr "あたらしいおと"
 
-#~ msgid "any"
-#~ msgstr "кез келген"
+msgid "any"
+msgstr "кез келген"
+
+msgid "Record Project Video"
+msgstr ""
+
+msgid "Remove Background"
+msgstr ""
+
+msgid "when Stage clicked"
+msgstr ""

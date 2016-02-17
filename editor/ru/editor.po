@@ -51,8 +51,8 @@ msgstr "О программе"
 msgid "abs"
 msgstr "модуль"
 
-#~ msgid "Account settings"
-#~ msgstr "Настройки аккаунта"
+msgid "Account settings"
+msgstr "Настройки аккаунта"
 
 msgid "acos"
 msgstr "acos"
@@ -285,8 +285,8 @@ msgstr "Закрыть"
 msgid "Closed Hi-Hat"
 msgstr "Закрытый хай-хэт"
 
-#~ msgid "Cloud"
-#~ msgstr "Облако"
+msgid "Cloud"
+msgstr "Облако"
 
 msgid "Cloud data"
 msgstr "Облако данных"
@@ -351,8 +351,8 @@ msgstr "Костюмы"
 msgid "Costumes > 1"
 msgstr "Костюмов > 1"
 
-#~ msgid "Costumes:"
-#~ msgstr "Костюмы:"
+msgid "Costumes:"
+msgstr "Костюмы:"
 
 msgid "Could not retrieve new application from server."
 msgstr "Невозможно получить новую программу с сервера."
@@ -537,8 +537,8 @@ msgstr "Вперед на слой"
 msgid "ghost"
 msgstr "призрак"
 
-#~ msgid "Go to My Stuff"
-#~ msgstr "Перейти к моим проектам"
+msgid "Go to My Stuff"
+msgstr "Перейти к моим проектам"
 
 msgid "Group"
 msgstr "Группировать"
@@ -636,8 +636,8 @@ msgstr "свет"
 #~ msgid "lights"
 #~ msgstr "свет"
 
-#~ msgid "limit reached"
-#~ msgstr "достигнут предел"
+msgid "limit reached"
+msgstr "достигнут предел"
 
 msgid "Line"
 msgstr "Линия"
@@ -740,8 +740,8 @@ msgstr "Музыкальная шкатулка"
 msgid "Music Loops"
 msgstr "Музыкальная петля"
 
-#~ msgid "My Stuff"
-#~ msgstr "Мои работы"
+msgid "My Stuff"
+msgstr "Мои работы"
 
 msgid "myself"
 msgstr "себя самого"
@@ -906,8 +906,8 @@ msgstr "поп"
 msgid "previous backdrop"
 msgstr "предыдущий фон"
 
-#~ msgid "Profile"
-#~ msgstr "Профиль"
+msgid "Profile"
+msgstr "Профиль"
 
 msgid "Project did not load."
 msgstr "Проект не загружен."
@@ -964,8 +964,8 @@ msgstr "переименовать переменную"
 msgid "Replace existing project"
 msgstr ""
 
-#~ msgid "requires sign in"
-#~ msgstr "требует входа"
+msgid "requires sign in"
+msgstr "требует входа"
 
 msgid "Reshape"
 msgstr "Изменение формы"
@@ -1012,8 +1012,8 @@ msgstr "Сохрани копию проекта и добавь что-то с�
 msgid "Save as"
 msgstr "Сохранить как"
 
-#~ msgid "Save as a copy"
-#~ msgstr "Сохранить как копию"
+msgid "Save as a copy"
+msgstr "Сохранить как копию"
 
 msgid "Save now"
 msgstr "Сохранить сейчас"
@@ -1050,8 +1050,8 @@ msgid "Scripts"
 msgstr "Скрипты"
 
 # 87%
-#~ msgid "Scripts:"
-#~ msgstr "Скрипты:"
+msgid "Scripts:"
+msgstr "Скрипты:"
 
 msgid "second"
 msgstr "секунда"
@@ -1127,8 +1127,8 @@ msgstr "Войти"
 msgid "Sign in to save"
 msgstr "Войдите, чтобы сохранить"
 
-#~ msgid "Sign out"
-#~ msgstr "Выйти"
+msgid "Sign out"
+msgstr "Выйти"
 
 msgid "silence"
 msgstr "тишина"
@@ -1210,8 +1210,8 @@ msgstr "Выбрана сцена:"
 msgid "Steel Drum"
 msgstr "Стальной барабан"
 
-#~ msgid "stored on server"
-#~ msgstr "сохранён на сервере"
+msgid "stored on server"
+msgstr "сохранён на сервере"
 
 msgid "Synth Lead"
 msgstr "Ведущий синтезатор"
@@ -1453,24 +1453,24 @@ msgstr "Твоё имя в Скретч"
 msgid "Your Scratch name is required"
 msgstr "Необходимо твоё имя в Скретч"
 
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
-#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Информация об облачных переменных</b><br>&nbsp;<br>В настоящий момент "
-#~ "поддерживаются только численные переменные<br>Чат-комнаты не разрешены и "
-#~ "будут удаляться<br>Для дополнительной информации <a href= target=>смотрите "
-#~ "ЧАВО об облачных данных</a>"
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Информация об облачных переменных</b><br>&nbsp;<br>В настоящий момент "
+"поддерживаются только численные переменные<br>Чат-комнаты не разрешены и "
+"будут удаляться<br>Для дополнительной информации <a href= target=>смотрите "
+"ЧАВО об облачных данных</a>"
 
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "Нажмите   для повтора или  для сохранения"
+msgid "Click  to try again or  to save"
+msgstr "Нажмите   для повтора или  для сохранения"
 
-#~ msgid "Eraser width:"
-#~ msgstr "Ширина ластика:"
+msgid "Eraser width:"
+msgstr "Ширина ластика:"
 
-#~ msgid "Line width:"
-#~ msgstr "Ширина линии:"
+msgid "Line width:"
+msgstr "Ширина линии:"
 
 # Offline editor only
 msgid "All Tips"
@@ -1672,8 +1672,8 @@ msgstr "Твой проект был загружен на сайт scratch.mit.
 #~ msgid "whisper"
 #~ msgstr "шёпот"
 
-#~ msgid "any"
-#~ msgstr "любой из"
+msgid "any"
+msgstr "любой из"
 
 #~ msgid "High Tom"
 #~ msgstr "Высокий томтом"
@@ -1713,3 +1713,12 @@ msgstr "Твой проект был загружен на сайт scratch.mit.
 
 #~ msgid "Short Guiro"
 #~ msgstr "Короткое гуиро"
+
+msgid "Record Project Video"
+msgstr ""
+
+msgid "Remove Background"
+msgstr ""
+
+msgid "when Stage clicked"
+msgstr ""

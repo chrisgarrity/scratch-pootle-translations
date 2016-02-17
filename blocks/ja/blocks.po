@@ -15,8 +15,8 @@ msgstr ""
 "X-POOTLE-MTIME: 1453569935.000000\n"
 
 # The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "日本語"
+msgid "Language-Name"
+msgstr "日本語"
 
 msgid "%b and %b"
 msgstr "%b かつ %b"
@@ -27,8 +27,8 @@ msgstr "%b または %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute ( %m.spriteOrStage )"
 
-#~ msgid "%m.list contains %s"
-#~ msgstr "%m.list に %s が含まれる"
+msgid "%m.list contains %s"
+msgstr "%m.list に %s が含まれる"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp ( %n )"
@@ -487,28 +487,28 @@ msgid "y position"
 msgstr "y座標"
 
 # 89%
-#~ msgid "set motor direction %m.motorDirection"
-#~ msgstr "モーターの回転方向を %m.motorDirection にする"
+msgid "set motor direction %m.motorDirection"
+msgstr "モーターの回転方向を %m.motorDirection にする"
 
 # 77%
-#~ msgid "set motor power %n"
-#~ msgstr "モーターのパワーを %n にする"
+msgid "set motor power %n"
+msgstr "モーターのパワーを %n にする"
 
-#~ msgid "turn motor off"
-#~ msgstr "モーターをオフにする"
+msgid "turn motor off"
+msgstr "モーターをオフにする"
 
-#~ msgid "turn motor on"
-#~ msgstr "モーターをオンにする"
+msgid "turn motor on"
+msgstr "モーターをオンにする"
 
 # 80%
-#~ msgid "turn motor on for %n secs"
-#~ msgstr "モーターを %n 秒オンにする"
+msgid "turn motor on for %n secs"
+msgstr "モーターを %n 秒オンにする"
 
-#~ msgid "when distance < %n"
-#~ msgstr "距離 < %n のとき"
+msgid "when distance < %n"
+msgstr "距離 < %n のとき"
 
-#~ msgid "when tilt = %n"
-#~ msgstr "傾き = %n のとき"
+msgid "when tilt = %n"
+msgstr "傾き = %n のとき"
 
 # 89%
 # 86%

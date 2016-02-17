@@ -27,8 +27,9 @@ msgstr "%b లేక %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute లో %m.spriteOrStage"
 
+#, fuzzy
 msgid "%m.list contains %s"
-msgstr ""
+msgstr "%m జాబితాలో %s కలిగి ఉండు"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp లో %n"

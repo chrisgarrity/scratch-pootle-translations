@@ -15,6 +15,10 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1442481167.000000\n"
 
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "Gàidhlig"
+
 msgid "%b and %b"
 msgstr "%b agus %b"
 
@@ -23,6 +27,9 @@ msgstr "%b no %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute aig %m.spriteOrStage"
+
+msgid "%m.list contains %s"
+msgstr "%m.list ann agus %s na broinn"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp aig %n"
@@ -465,6 +472,27 @@ msgstr "ionad x"
 msgid "y position"
 msgstr "ionad y"
 
+msgid "set motor direction %m.motorDirection"
+msgstr "cuir comhair a' mhotair air %m.motorDirection"
+
+msgid "set motor power %n"
+msgstr "cuir cumhachd a' mhotair air %n"
+
+msgid "turn motor off"
+msgstr "cuir am motar dheth"
+
+msgid "turn motor on"
+msgstr "cuir am motar air"
+
+msgid "turn motor on for %n secs"
+msgstr "cuir am motar air fad %n diog"
+
+msgid "when distance < %n"
+msgstr "nuair a thèid an t-astar < %n"
+
+msgid "when tilt = %n"
+msgstr "nuair a thèid an claonadh = %n"
+
 #: commands-online.txt:7 commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list ann agus %s na broinn"
@@ -498,6 +526,9 @@ msgstr "Mu dhèidhinn"
 
 msgid "abs"
 msgstr "abs"
+
+msgid "Account settings"
+msgstr "Roghainnean a' chunntais"
 
 msgid "acos"
 msgstr "àrc-cho-shìneas"
@@ -689,6 +720,9 @@ msgstr "Clàirneid"
 msgid "Claves"
 msgstr "Claves"
 
+msgid "clean up"
+msgstr "sgioblaich"
+
 msgid "Clear"
 msgstr "Falamhaich"
 
@@ -703,6 +737,9 @@ msgstr "Dùin"
 
 msgid "Closed Hi-Hat"
 msgstr "Hi-hat dùinte"
+
+msgid "Cloud"
+msgstr "Neul"
 
 msgid "Cloud data"
 msgstr "Dàta san neul"
@@ -757,6 +794,9 @@ msgstr "Aodaich"
 
 msgid "Costumes > 1"
 msgstr "Aodaich > 1"
+
+msgid "Costumes:"
+msgstr "Aodaich:"
 
 msgid "Could not retrieve new application from server."
 msgstr "Cha b' urrainn dhuinn an aplacaid ùr fhaighinn on fhrithealaiche."
@@ -916,6 +956,9 @@ msgstr "Breath gun bheulaibh"
 msgid "ghost"
 msgstr "taibhse"
 
+msgid "Go to My Stuff"
+msgstr "Rach dhan stuth agam"
+
 msgid "Group"
 msgstr "Buidhnich"
 
@@ -996,6 +1039,9 @@ msgstr "Leabhar-lann"
 
 msgid "light"
 msgstr "an solas"
+
+msgid "limit reached"
+msgstr "crìoch air a ruigsinn"
 
 msgid "Line"
 msgstr "Loidhne"
@@ -1083,6 +1129,9 @@ msgstr "Bogsa ciùil"
 
 msgid "Music Loops"
 msgstr "Lùban ciùil"
+
+msgid "My Stuff"
+msgstr "An stuth agam"
 
 msgid "myself"
 msgstr "dhut fhèin"
@@ -1238,6 +1287,9 @@ msgstr "cnap"
 msgid "previous backdrop"
 msgstr "chùlaibh roimhe"
 
+msgid "Profile"
+msgstr "Pròifil"
+
 msgid "Project did not load."
 msgstr "Cha deach am pròiseact a luchdadh."
 
@@ -1286,6 +1338,9 @@ msgstr "Thoir ainm ùr air"
 msgid "rename variable"
 msgstr "thoir ainm ùr air caochladair"
 
+msgid "requires sign in"
+msgstr "tha e ag iarraidh clàradh a-steach"
+
 msgid "Reshape"
 msgstr "Atharraich cruth"
 
@@ -1332,6 +1387,9 @@ msgstr ""
 msgid "Save as"
 msgstr "Sàbhail mar"
 
+msgid "Save as a copy"
+msgstr "Sàbhail mar lethbhreac"
+
 msgid "Save now"
 msgstr "Sàbhail an-dràsta"
 
@@ -1361,6 +1419,9 @@ msgstr "Sgriobt"
 
 msgid "Scripts"
 msgstr "Sgriobtaichean"
+
+msgid "Scripts:"
+msgstr "Sgriobtaichean:"
 
 msgid "second"
 msgstr "diog"
@@ -1421,6 +1482,9 @@ msgstr "Clàraich a-steach"
 
 msgid "Sign in to save"
 msgstr "Clàraich a-steach gus a shàbhaladh"
+
+msgid "Sign out"
+msgstr "Clàraich a-mach"
 
 msgid "silence"
 msgstr "tost"
@@ -1491,6 +1555,9 @@ msgstr "Àrd-ùrlar air a thaghadh:"
 
 msgid "Steel Drum"
 msgstr "Druma-stàillinn"
+
+msgid "stored on server"
+msgstr "air a stòradh air an fhrithealaiche"
 
 msgid "Synth Lead"
 msgstr "Ceann-siont"
@@ -1703,6 +1770,25 @@ msgstr "D' ainm Scratch"
 msgid "Your Scratch name is required"
 msgstr "Tha feum air d' ainm Scratch"
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Fiosrachadh a thaobh caochladairean Cloud</b><br>&nbsp;<br>Chan eil ach "
+"àireamhan ceadaichte aig an àm seo<br>Chan eil seòmraichean cabadaich "
+"ceadaichte 's thèid an toirt air falbh<br>Airson barrachd fiosrachaidh, <a "
+"href= target=>faic na CÀBHA air dàta neòil!</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "Briog air  airson feuchainn ris a-rithist  no airson sàbhaladh"
+
+msgid "Eraser width:"
+msgstr "Leud an t-suathain:"
+
+msgid "Line width:"
+msgstr "Leud na loidhne:"
+
 # Offline editor only
 msgid "All Tips"
 msgstr "A h-uile oidheam"
@@ -1809,45 +1895,23 @@ msgstr "Tadhail air duilleag nan luchdaidhean a-nuas"
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr "Chaidh am pròiseact agad a luchdadh suas gu scratch.mit.edu"
 
-# The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "Gàidhlig"
+msgid "Record Project Video"
+msgstr ""
 
-#~ msgid "%m.list contains %s"
-#~ msgstr "%m.list ann agus %s na broinn"
+msgid "Remove Background"
+msgstr ""
+
+msgid "any"
+msgstr ""
 
 #~ msgid "when Stage clicked"
 #~ msgstr "le briogadh air an àrd-ùrlar"
-
-#~ msgid "set motor direction %m.motorDirection"
-#~ msgstr "cuir comhair a' mhotair air %m.motorDirection"
-
-#~ msgid "set motor power %n"
-#~ msgstr "cuir cumhachd a' mhotair air %n"
-
-#~ msgid "turn motor off"
-#~ msgstr "cuir am motar dheth"
-
-#~ msgid "turn motor on"
-#~ msgstr "cuir am motar air"
-
-#~ msgid "turn motor on for %n secs"
-#~ msgstr "cuir am motar air fad %n diog"
-
-#~ msgid "when distance < %n"
-#~ msgstr "nuair a thèid an t-astar < %n"
-
-#~ msgid "when tilt = %n"
-#~ msgstr "nuair a thèid an claonadh = %n"
 
 #~ msgid "About LEGO WeDo extension..."
 #~ msgstr "Mun leudachan LEGO WeDo..."
 
 #~ msgid "About PicoBoard extension..."
 #~ msgstr "Mun leudachan PicoBoard..."
-
-#~ msgid "Account settings"
-#~ msgstr "Roghainnean a' chunntais"
 
 #~ msgid "add comment here..."
 #~ msgstr "cuir beachd ris an-seo..."
@@ -1858,17 +1922,8 @@ msgstr "Chaidh am pròiseact agad a luchdadh suas gu scratch.mit.edu"
 #~ msgid "Cannot Add"
 #~ msgstr "Cha ghabh a chur ris"
 
-#~ msgid "clean up"
-#~ msgstr "sgioblaich"
-
-#~ msgid "Cloud"
-#~ msgstr "Neul"
-
 #~ msgid "Cloud variable (stored on server)"
 #~ msgstr "Caochladair san neul (ga stòradh air an fhrithealaiche)"
-
-#~ msgid "Costumes:"
-#~ msgstr "Aodaich:"
 
 #~ msgid "Downloading new version"
 #~ msgstr "A' luchdadh a-nuas tionndadh ùr"
@@ -1891,9 +1946,6 @@ msgstr "Chaidh am pròiseact agad a luchdadh suas gu scratch.mit.edu"
 #~ msgid "false"
 #~ msgstr "fallsa"
 
-#~ msgid "Go to My Stuff"
-#~ msgstr "Rach dhan stuth agam"
-
 #~ msgid "Hello!"
 #~ msgstr "Shin thu!"
 
@@ -1902,9 +1954,6 @@ msgstr "Chaidh am pròiseact agad a luchdadh suas gu scratch.mit.edu"
 
 #~ msgid "lights"
 #~ msgstr "na solasan"
-
-#~ msgid "limit reached"
-#~ msgstr "crìoch air a ruigsinn"
 
 #~ msgid "motor"
 #~ msgstr "motar"
@@ -1915,14 +1964,8 @@ msgstr "Chaidh am pròiseact agad a luchdadh suas gu scratch.mit.edu"
 #~ msgid "motor B"
 #~ msgstr "motar B"
 
-#~ msgid "My Stuff"
-#~ msgstr "An stuth agam"
-
 #~ msgid "not ="
 #~ msgstr "nach ionnann"
-
-#~ msgid "Profile"
-#~ msgstr "Pròifil"
 
 #~ msgid "Remove extension blocks"
 #~ msgstr "Thoir blocaichean an leudachain air falbh"
@@ -1930,17 +1973,8 @@ msgstr "Chaidh am pròiseact agad a luchdadh suas gu scratch.mit.edu"
 #~ msgid "Replace existing project"
 #~ msgstr "Cuir an àite pròiseict eile"
 
-#~ msgid "requires sign in"
-#~ msgstr "tha e ag iarraidh clàradh a-steach"
-
-#~ msgid "Save as a copy"
-#~ msgstr "Sàbhail mar lethbhreac"
-
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "Deasaiche far loidhne Scratch 2.0"
-
-#~ msgid "Scripts:"
-#~ msgstr "Sgriobtaichean:"
 
 #~ msgid ""
 #~ "See the Tips window (on the right) to install the plug-in and get the "
@@ -1951,12 +1985,6 @@ msgstr "Chaidh am pròiseact agad a luchdadh suas gu scratch.mit.edu"
 
 #~ msgid "Share to Scratch website"
 #~ msgstr "Co-roinn air làrach-lìn Scratch"
-
-#~ msgid "Sign out"
-#~ msgstr "Clàraich a-mach"
-
-#~ msgid "stored on server"
-#~ msgstr "air a stòradh air an fhrithealaiche"
 
 #~ msgid "The name is already in use."
 #~ msgstr "Tha an t-ainm seo ga chleachdadh mar-thà."
@@ -1979,25 +2007,6 @@ msgstr "Chaidh am pròiseact agad a luchdadh suas gu scratch.mit.edu"
 
 #~ msgid "world"
 #~ msgstr "a shaoghail"
-
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
-#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Fiosrachadh a thaobh caochladairean Cloud</b><br>&nbsp;<br>Chan eil "
-#~ "ach àireamhan ceadaichte aig an àm seo<br>Chan eil seòmraichean cabadaich "
-#~ "ceadaichte 's thèid an toirt air falbh<br>Airson barrachd fiosrachaidh, "
-#~ "<a href= target=>faic na CÀBHA air dàta neòil!</a>"
-
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "Briog air  airson feuchainn ris a-rithist  no airson sàbhaladh"
-
-#~ msgid "Eraser width:"
-#~ msgstr "Leud an t-suathain:"
-
-#~ msgid "Line width:"
-#~ msgstr "Leud na loidhne:"
 
 #~ msgid "cleanup"
 #~ msgstr "sgioblachadh"

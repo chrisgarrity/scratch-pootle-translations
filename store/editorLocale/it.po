@@ -740,6 +740,9 @@ msgstr "Clarinetto"
 msgid "Claves"
 msgstr "Legnetti"
 
+msgid "clean up"
+msgstr "riordina"
+
 msgid "Clear"
 msgstr "Pulisci"
 
@@ -1924,6 +1927,15 @@ msgstr "Visita la pagina del download"
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr "Il tuo progetto è stato caricato sul sito scratch.mit.edu"
 
+msgid "any"
+msgstr "qualunque"
+
+msgid "Record Project Video"
+msgstr ""
+
+msgid "Remove Background"
+msgstr ""
+
 #~ msgid "when Stage clicked"
 #~ msgstr "quando Stage cliccato"
 
@@ -1994,9 +2006,6 @@ msgstr "Il tuo progetto è stato caricato sul sito scratch.mit.edu"
 
 #~ msgid "Cannot Add"
 #~ msgstr "Impossibile Aggiungere"
-
-#~ msgid "clean up"
-#~ msgstr "riordina"
 
 #~ msgid "Cloud variable (stored on server)"
 #~ msgstr "Variabile cloud  (salvata sul server)"
@@ -2188,9 +2197,6 @@ msgstr "Il tuo progetto è stato caricato sul sito scratch.mit.edu"
 
 #~ msgid "whisper"
 #~ msgstr "sussurro"
-
-#~ msgid "any"
-#~ msgstr "qualunque"
 
 #~ msgid "High Tom"
 #~ msgstr "Tom Alto"

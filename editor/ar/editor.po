@@ -49,8 +49,8 @@ msgstr "عن سكراتش"
 msgid "abs"
 msgstr "القيمة المطلقة"
 
-#~ msgid "Account settings"
-#~ msgstr "إعدادات الحساب"
+msgid "Account settings"
+msgstr "إعدادات الحساب"
 
 msgid "acos"
 msgstr "جيب التمام العكسي"
@@ -266,8 +266,8 @@ msgstr "كلارينيت"
 msgid "Claves"
 msgstr "Claves"
 
-#~ msgid "clean up"
-#~ msgstr "ترتيب"
+msgid "clean up"
+msgstr "ترتيب"
 
 msgid "Clear"
 msgstr "مسح"
@@ -284,8 +284,8 @@ msgstr "إغلاق"
 msgid "Closed Hi-Hat"
 msgstr "Closed Hi-Hat"
 
-#~ msgid "Cloud"
-#~ msgstr "السحابة"
+msgid "Cloud"
+msgstr "السحابة"
 
 msgid "Cloud data"
 msgstr "البيانات السحابية"
@@ -352,8 +352,8 @@ msgstr "المظاهر > ١"
 
 # 75%
 # 88%
-#~ msgid "Costumes:"
-#~ msgstr "المظاهر:"
+msgid "Costumes:"
+msgstr "المظاهر:"
 
 msgid "Could not retrieve new application from server."
 msgstr "لم يكن بالإمكان الحصول على التطبيق الجديد من المخدّم."
@@ -539,8 +539,8 @@ msgstr "طبقة واحدة إلى الأمام"
 msgid "ghost"
 msgstr "الشبح"
 
-#~ msgid "Go to My Stuff"
-#~ msgstr "الذهاب إلى أغراضي"
+msgid "Go to My Stuff"
+msgstr "الذهاب إلى أغراضي"
 
 msgid "Group"
 msgstr "تجميع"
@@ -637,8 +637,8 @@ msgstr "الضوء"
 #~ msgid "lights"
 #~ msgstr "الضوء"
 
-#~ msgid "limit reached"
-#~ msgstr "وصلت الحد الأقصى"
+msgid "limit reached"
+msgstr "وصلت الحد الأقصى"
 
 msgid "Line"
 msgstr "خط مستقيم"
@@ -741,8 +741,8 @@ msgstr "صندوق الموسيقى"
 msgid "Music Loops"
 msgstr "حلقات موسيقية"
 
-#~ msgid "My Stuff"
-#~ msgstr "أغراضي"
+msgid "My Stuff"
+msgstr "أغراضي"
 
 msgid "myself"
 msgstr "نفسي"
@@ -907,8 +907,8 @@ msgstr "بُب"
 msgid "previous backdrop"
 msgstr "الخلفية السابقة"
 
-#~ msgid "Profile"
-#~ msgstr "الملف الشخصي"
+msgid "Profile"
+msgstr "الملف الشخصي"
 
 msgid "Project did not load."
 msgstr "لم يتم تحميل المشروع."
@@ -966,8 +966,8 @@ msgid "Replace existing project"
 msgstr ""
 
 # 75%
-#~ msgid "requires sign in"
-#~ msgstr "يتطلب تسجيل الدخول"
+msgid "requires sign in"
+msgstr "يتطلب تسجيل الدخول"
 
 msgid "Reshape"
 msgstr "إعادة تشكيل"
@@ -1015,8 +1015,8 @@ msgstr "احفظ نسخةً من هذا المشروع وأضف أفكارك ا�
 msgid "Save as"
 msgstr "حفظ باسم"
 
-#~ msgid "Save as a copy"
-#~ msgstr "حفظ كنسخة"
+msgid "Save as a copy"
+msgstr "حفظ كنسخة"
 
 msgid "Save now"
 msgstr "الحفظ الآن"
@@ -1054,8 +1054,8 @@ msgid "Scripts"
 msgstr "المقاطع البرمجية"
 
 # 87%
-#~ msgid "Scripts:"
-#~ msgstr "المقاطع البرمجية:"
+msgid "Scripts:"
+msgstr "المقاطع البرمجية:"
 
 msgid "second"
 msgstr "الثانية"
@@ -1133,8 +1133,8 @@ msgstr "تسجيل الدخول"
 msgid "Sign in to save"
 msgstr "سجّل الدخول للحفظ"
 
-#~ msgid "Sign out"
-#~ msgstr "تسجيل الخروج"
+msgid "Sign out"
+msgstr "تسجيل الخروج"
 
 msgid "silence"
 msgstr "صمت"
@@ -1216,8 +1216,8 @@ msgstr "المنصة محددة:"
 msgid "Steel Drum"
 msgstr "طبل فولاذي"
 
-#~ msgid "stored on server"
-#~ msgstr "مخزَّن على المخدِّم"
+msgid "stored on server"
+msgstr "مخزَّن على المخدِّم"
 
 msgid "Synth Lead"
 msgstr "Synth Lead"
@@ -1460,23 +1460,23 @@ msgstr "اسمك على موقع سكراتش"
 msgid "Your Scratch name is required"
 msgstr "اسمك على موقع سكراتش مطلوب"
 
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
-#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>معلومات عن المتغيرات السحابية</b><br>&nbsp;<br>الأعداد فقط مدعومة "
-#~ "حالياً.<br>غرف المحادثة غير مسموحة وسوف تزال<br>لمزيد من المعلومات <a href= "
-#~ "target=>زر الأسئلة متكررة الطرح عن المتغيرات السحابية</a>"
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>معلومات عن المتغيرات السحابية</b><br>&nbsp;<br>الأعداد فقط مدعومة "
+"حالياً.<br>غرف المحادثة غير مسموحة وسوف تزال<br>لمزيد من المعلومات <a href= "
+"target=>زر الأسئلة متكررة الطرح عن المتغيرات السحابية</a>"
 
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "انقر  للمحاولة ثانيةً أو  للحفظ"
+msgid "Click  to try again or  to save"
+msgstr "انقر  للمحاولة ثانيةً أو  للحفظ"
 
-#~ msgid "Eraser width:"
-#~ msgstr "عرض الممحاة:"
+msgid "Eraser width:"
+msgstr "عرض الممحاة:"
 
-#~ msgid "Line width:"
-#~ msgstr "عرض الخط:"
+msgid "Line width:"
+msgstr "عرض الخط:"
 
 # Offline editor only
 msgid "All Tips"
@@ -1696,8 +1696,8 @@ msgstr "تم رفع مشروعك إلى scratch.mit.edu"
 #~ msgid "name"
 #~ msgstr "الاسم"
 
-#~ msgid "any"
-#~ msgstr "(موقع ما)"
+msgid "any"
+msgstr "(موقع ما)"
 
 #~ msgid "High Tom"
 #~ msgstr "High Tom"
@@ -1734,3 +1734,12 @@ msgstr "تم رفع مشروعك إلى scratch.mit.edu"
 
 #~ msgid "Short Guiro"
 #~ msgstr "Short Guiro"
+
+msgid "Record Project Video"
+msgstr ""
+
+msgid "Remove Background"
+msgstr ""
+
+msgid "when Stage clicked"
+msgstr ""

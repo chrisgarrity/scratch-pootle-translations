@@ -14,6 +14,10 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1429692413.000000\n"
 
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "Türkçe"
+
 msgid "%b and %b"
 msgstr "%b ve %b"
 
@@ -22,6 +26,9 @@ msgstr "%b veya %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute değeri %m.spriteOrStage 'in"
+
+msgid "%m.list contains %s"
+msgstr "%m.list listesinde %s var (mı?)"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp %n"
@@ -476,6 +483,30 @@ msgstr "x konumu"
 msgid "y position"
 msgstr "y konumu"
 
+# 89%
+msgid "set motor direction %m.motorDirection"
+msgstr "motor yönünü %m.motorDirection yap"
+
+# 77%
+msgid "set motor power %n"
+msgstr "motor gücünü %n yap"
+
+msgid "turn motor off"
+msgstr "motoru kapat"
+
+msgid "turn motor on"
+msgstr "motorun işlevini başlat"
+
+# 80%
+msgid "turn motor on for %n secs"
+msgstr "motorun işlevini %n saniye boyunca başlat"
+
+msgid "when distance < %n"
+msgstr "mesafe %n'den küçük olduğunda"
+
+msgid "when tilt = %n"
+msgstr "eğiklik %n olunca"
+
 #: commands-online.txt:7 commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list listesinde %s var (mı?)"
@@ -508,6 +539,9 @@ msgstr "Hakkında"
 
 msgid "abs"
 msgstr "mutlak değer"
+
+msgid "Account settings"
+msgstr "Hesap ayarları"
 
 msgid "acos"
 msgstr "acos"
@@ -706,6 +740,9 @@ msgstr "Klarnet"
 msgid "Claves"
 msgstr "Tahta çubuk"
 
+msgid "clean up"
+msgstr "tertiple"
+
 msgid "Clear"
 msgstr "Temizle"
 
@@ -722,6 +759,9 @@ msgstr "Kapat"
 
 msgid "Closed Hi-Hat"
 msgstr "Kapalı Zil"
+
+msgid "Cloud"
+msgstr "Bulut"
 
 msgid "Cloud data"
 msgstr "Bulut veri"
@@ -778,6 +818,9 @@ msgstr "Kılıklar"
 
 msgid "Costumes > 1"
 msgstr "Kılıklar > 1"
+
+msgid "Costumes:"
+msgstr "Kılıklar:"
 
 msgid "Could not retrieve new application from server."
 msgstr "Sunucudan yeni uygulama alamadım."
@@ -938,6 +981,9 @@ msgstr "Bir katman üste çıkart"
 msgid "ghost"
 msgstr "hayalet"
 
+msgid "Go to My Stuff"
+msgstr "Projelerime git"
+
 msgid "Group"
 msgstr "Grup"
 
@@ -1016,6 +1062,9 @@ msgstr "Kütüphane"
 
 msgid "light"
 msgstr "ışık"
+
+msgid "limit reached"
+msgstr "limite ulaşıldı"
 
 msgid "Line"
 msgstr "Çizgi"
@@ -1105,6 +1154,9 @@ msgstr "Müzik Kutusu"
 
 msgid "Music Loops"
 msgstr "Müzik Döngüleri"
+
+msgid "My Stuff"
+msgstr "Benim İşlerim"
 
 msgid "myself"
 msgstr "kendim"
@@ -1263,6 +1315,9 @@ msgstr "pop"
 msgid "previous backdrop"
 msgstr "önceki dekor"
 
+msgid "Profile"
+msgstr "Profil"
+
 msgid "Project did not load."
 msgstr "Proje yüklenmedi."
 
@@ -1312,6 +1367,9 @@ msgstr "Yeniden adlandır"
 msgid "rename variable"
 msgstr "değişkeni yeniden adlandır"
 
+msgid "requires sign in"
+msgstr "giriş yapman gerek"
+
 msgid "Reshape"
 msgstr "Şekli değiştir"
 
@@ -1357,6 +1415,9 @@ msgstr "Bu projenin bir kopyasını kaydet ve kendi fikirlerini ekle."
 msgid "Save as"
 msgstr "Farklı kaydet"
 
+msgid "Save as a copy"
+msgstr "Kopyasını kaydet"
+
 msgid "Save now"
 msgstr "Şimdi kaydet"
 
@@ -1387,6 +1448,10 @@ msgstr "Komutlar"
 
 msgid "Scripts"
 msgstr "Diziler"
+
+# 87%
+msgid "Scripts:"
+msgstr "Komutlar:"
 
 msgid "second"
 msgstr "saniye"
@@ -1448,6 +1513,9 @@ msgstr "Giriş yap"
 
 msgid "Sign in to save"
 msgstr "Kaydetmek için giriş yap"
+
+msgid "Sign out"
+msgstr "Çıkış"
 
 msgid "silence"
 msgstr "sessizlik"
@@ -1521,6 +1589,9 @@ msgstr "Sahne seçildi:"
 
 msgid "Steel Drum"
 msgstr "Çelik Davul"
+
+msgid "stored on server"
+msgstr "sunucuda kayıtlı"
 
 msgid "Synth Lead"
 msgstr "Synth Lead"
@@ -1731,6 +1802,25 @@ msgstr "Scratch'daki adın"
 msgid "Your Scratch name is required"
 msgstr "Scratch'daki adın gerekli"
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Bulut değişkenleri hakkında</b><br>&nbsp;<br>Şimdilik, sadece sayısal "
+"değerler destekleniyor<br>Sohbet odalarına izin yok, ve "
+"kaldırılacaklar<br>Daha fazla bilgi için,<a href= target=>bulut veriler "
+"SSS'sine bakın!</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "Tekrar denemek için  'a tıkla veya kaydetmek için  ."
+
+msgid "Eraser width:"
+msgstr "Silgi genişliği:"
+
+msgid "Line width:"
+msgstr "Çizgi kalınlığı:"
+
 # Offline editor only
 msgid "All Tips"
 msgstr "Tüm İpuçları"
@@ -1835,39 +1925,17 @@ msgstr "İndirme sayfasına git"
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr "Projen scratch.mit.edu sitesine atıldı"
 
-# The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "Türkçe"
+msgid "any"
+msgstr "hiç"
 
-#~ msgid "%m.list contains %s"
-#~ msgstr "%m.list listesinde %s var (mı?)"
+msgid "Record Project Video"
+msgstr ""
+
+msgid "Remove Background"
+msgstr ""
 
 #~ msgid "when Stage clicked"
 #~ msgstr "Sahne tıklandığında"
-
-# 89%
-#~ msgid "set motor direction %m.motorDirection"
-#~ msgstr "motor yönünü %m.motorDirection yap"
-
-# 77%
-#~ msgid "set motor power %n"
-#~ msgstr "motor gücünü %n yap"
-
-#~ msgid "turn motor off"
-#~ msgstr "motoru kapat"
-
-#~ msgid "turn motor on"
-#~ msgstr "motorun işlevini başlat"
-
-# 80%
-#~ msgid "turn motor on for %n secs"
-#~ msgstr "motorun işlevini %n saniye boyunca başlat"
-
-#~ msgid "when distance < %n"
-#~ msgstr "mesafe %n'den küçük olduğunda"
-
-#~ msgid "when tilt = %n"
-#~ msgstr "eğiklik %n olunca"
 
 # 89%
 # 86%
@@ -1920,9 +1988,6 @@ msgstr "Projen scratch.mit.edu sitesine atıldı"
 #~ msgid "About PicoBoard extension..."
 #~ msgstr "PicoBoard uzantısı hakkında..."
 
-#~ msgid "Account settings"
-#~ msgstr "Hesap ayarları"
-
 #~ msgid "add comment here..."
 #~ msgstr "buraya yorum ekle..."
 
@@ -1932,17 +1997,8 @@ msgstr "Projen scratch.mit.edu sitesine atıldı"
 #~ msgid "Cannot Add"
 #~ msgstr "Ekleyemem"
 
-#~ msgid "clean up"
-#~ msgstr "tertiple"
-
-#~ msgid "Cloud"
-#~ msgstr "Bulut"
-
 #~ msgid "Cloud variable (stored on server)"
 #~ msgstr "Bulut değişkeni (sunucuda saklanır)"
-
-#~ msgid "Costumes:"
-#~ msgstr "Kılıklar:"
 
 #~ msgid "Downloading new version"
 #~ msgstr "Yeni sürümü indiriyorum"
@@ -1977,9 +2033,6 @@ msgstr "Projen scratch.mit.edu sitesine atıldı"
 #~ msgid "false"
 #~ msgstr "yanlış"
 
-#~ msgid "Go to My Stuff"
-#~ msgstr "Projelerime git"
-
 #~ msgid "Hello!"
 #~ msgstr "Merhaba!"
 
@@ -1993,9 +2046,6 @@ msgstr "Projen scratch.mit.edu sitesine atıldı"
 #~ msgid "lights"
 #~ msgstr "ışıkların"
 
-#~ msgid "limit reached"
-#~ msgstr "limite ulaşıldı"
-
 #~ msgid "motor"
 #~ msgstr "motorun"
 
@@ -2005,14 +2055,8 @@ msgstr "Projen scratch.mit.edu sitesine atıldı"
 #~ msgid "motor B"
 #~ msgstr "B motorunun"
 
-#~ msgid "My Stuff"
-#~ msgstr "Benim İşlerim"
-
 #~ msgid "not ="
 #~ msgstr "= değil"
-
-#~ msgid "Profile"
-#~ msgstr "Profil"
 
 #~ msgid "Remove extension blocks"
 #~ msgstr "Uzantı taşlarını kaldır"
@@ -2020,18 +2064,8 @@ msgstr "Projen scratch.mit.edu sitesine atıldı"
 #~ msgid "Replace existing project"
 #~ msgstr "Mevcut projenin üstüne yaz"
 
-#~ msgid "requires sign in"
-#~ msgstr "giriş yapman gerek"
-
-#~ msgid "Save as a copy"
-#~ msgstr "Kopyasını kaydet"
-
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "Scratch 2.0 Ağ-dışı Editörü"
-
-# 87%
-#~ msgid "Scripts:"
-#~ msgstr "Komutlar:"
 
 #~ msgid ""
 #~ "See the Tips window (on the right) to install the plug-in and get the "
@@ -2042,12 +2076,6 @@ msgstr "Projen scratch.mit.edu sitesine atıldı"
 
 #~ msgid "Share to Scratch website"
 #~ msgstr "Scratch web sitesinde paylaş"
-
-#~ msgid "Sign out"
-#~ msgstr "Çıkış"
-
-#~ msgid "stored on server"
-#~ msgstr "sunucuda kayıtlı"
 
 #~ msgid "The name is already in use."
 #~ msgstr "Bu isimde biri var."
@@ -2070,25 +2098,6 @@ msgstr "Projen scratch.mit.edu sitesine atıldı"
 
 #~ msgid "world"
 #~ msgstr "dünya"
-
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
-#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Bulut değişkenleri hakkında</b><br>&nbsp;<br>Şimdilik, sadece sayısal "
-#~ "değerler destekleniyor<br>Sohbet odalarına izin yok, ve "
-#~ "kaldırılacaklar<br>Daha fazla bilgi için,<a href= target=>bulut veriler "
-#~ "SSS'sine bakın!</a>"
-
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "Tekrar denemek için  'a tıkla veya kaydetmek için  ."
-
-#~ msgid "Eraser width:"
-#~ msgstr "Silgi genişliği:"
-
-#~ msgid "Line width:"
-#~ msgstr "Çizgi kalınlığı:"
 
 #~ msgid "cleanup"
 #~ msgstr "temizlik"
@@ -2187,9 +2196,6 @@ msgstr "Projen scratch.mit.edu sitesine atıldı"
 
 #~ msgid "whisper"
 #~ msgstr "fısılda"
-
-#~ msgid "any"
-#~ msgstr "hiç"
 
 #~ msgid "High Tom"
 #~ msgstr "Uzun Davul"

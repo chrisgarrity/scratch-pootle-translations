@@ -14,6 +14,10 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1440620211.000000\n"
 
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "Magyar"
+
 msgid "%b and %b"
 msgstr "%b és %b"
 
@@ -22,6 +26,9 @@ msgstr "%b vagy %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.spriteOrStage %m.attribute értéke"
+
+msgid "%m.list contains %s"
+msgstr "%m.list tartalmazza: %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp%n"
@@ -475,6 +482,30 @@ msgstr "x pozíció"
 msgid "y position"
 msgstr "y pozíció"
 
+# 89%
+msgid "set motor direction %m.motorDirection"
+msgstr "set motor direction %m.motorDirection"
+
+# 77%
+msgid "set motor power %n"
+msgstr "set motor power %n"
+
+msgid "turn motor off"
+msgstr "turn motor off"
+
+msgid "turn motor on"
+msgstr "turn motor on"
+
+# 80%
+msgid "turn motor on for %n secs"
+msgstr "turn motor on for %n secs"
+
+msgid "when distance < %n"
+msgstr "when distance < %n"
+
+msgid "when tilt = %n"
+msgstr "when tilt = %n"
+
 #: commands-online.txt:7 commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list tartalmazza: %s?"
@@ -512,6 +543,9 @@ msgstr ""
 
 msgid "abs"
 msgstr "abszolút érték"
+
+msgid "Account settings"
+msgstr "Fiókbeállítások"
 
 msgid "acos"
 msgstr "arccos"
@@ -732,6 +766,9 @@ msgstr "Bezár"
 
 msgid "Closed Hi-Hat"
 msgstr "Zárt cin"
+
+msgid "Cloud"
+msgstr "Felhő"
 
 msgid "Cloud data"
 msgstr "Felhő adatok"
@@ -977,6 +1014,9 @@ msgstr "Előbbre hozás"
 msgid "ghost"
 msgstr "szellem"
 
+msgid "Go to My Stuff"
+msgstr "Ugrás a dolgaimhoz"
+
 msgid "Group"
 msgstr "Csoportosítás"
 
@@ -1172,6 +1212,9 @@ msgstr "Zenedoboz"
 msgid "Music Loops"
 msgstr "Zenei taktusok"
 
+msgid "My Stuff"
+msgstr "Dolgaim"
+
 msgid "myself"
 msgstr "magadról"
 
@@ -1328,6 +1371,9 @@ msgstr "pukk"
 msgid "previous backdrop"
 msgstr "előző háttér"
 
+msgid "Profile"
+msgstr "Profil"
+
 msgid "Project did not load."
 msgstr "Projekt betöltése sikertelen."
 
@@ -1434,6 +1480,9 @@ msgstr "Projekt másolatának mentése saját ötletek hozzáadásához."
 msgid "Save as"
 msgstr "Mentés másként"
 
+msgid "Save as a copy"
+msgstr "Mentés másolatként"
+
 msgid "Save now"
 msgstr "Mentés most"
 
@@ -1466,6 +1515,9 @@ msgstr "Feladat"
 
 msgid "Scripts"
 msgstr "Feladatok"
+
+msgid "Scripts:"
+msgstr "Feladatok:"
 
 msgid "second"
 msgstr "másodperc"
@@ -1536,6 +1588,9 @@ msgstr "Bejelentkezés"
 
 msgid "Sign in to save"
 msgstr "Mentéshez jelentkezz be"
+
+msgid "Sign out"
+msgstr "Kijelentkezés"
 
 msgid "silence"
 msgstr "csend"
@@ -1609,6 +1664,9 @@ msgstr "A játéktér van kiválasztva:"
 
 msgid "Steel Drum"
 msgstr "Stíldob"
+
+msgid "stored on server"
+msgstr "szerveren tárolt"
 
 msgid "Synth Lead"
 msgstr "Szintetizátor"
@@ -1836,8 +1894,23 @@ msgstr "A Scratch neved"
 msgid "Your Scratch name is required"
 msgstr "Scratch fióknév szükséges"
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Felhőváltozókat illető információk</b><br>&nbsp;<br>Jelenleg csak számok "
+"vannak támogatva<br>Chat szobák létrehozása szigorúan tilos<br>További "
+"információkért <a href= target=>lásd a felhőadat GYIK-et.</a>"
+
 msgid "Click  to try again or  to save"
 msgstr ""
+
+msgid "Eraser width:"
+msgstr "Radír vastagsága:"
+
+msgid "Line width:"
+msgstr "Vonalvastagság:"
 
 # Offline editor only
 msgid "All Tips"
@@ -1942,39 +2015,17 @@ msgstr "Letöltési oldal felkeresése"
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr "A projekted feltöltöttük a scratch.mit.edu-ra"
 
-# The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "Magyar"
+msgid "any"
+msgstr "egyik"
 
-#~ msgid "%m.list contains %s"
-#~ msgstr "%m.list tartalmazza: %s"
+msgid "Record Project Video"
+msgstr ""
+
+msgid "Remove Background"
+msgstr ""
 
 #~ msgid "when Stage clicked"
 #~ msgstr "játéktérre kattintáskor"
-
-# 89%
-#~ msgid "set motor direction %m.motorDirection"
-#~ msgstr "set motor direction %m.motorDirection"
-
-# 77%
-#~ msgid "set motor power %n"
-#~ msgstr "set motor power %n"
-
-#~ msgid "turn motor off"
-#~ msgstr "turn motor off"
-
-#~ msgid "turn motor on"
-#~ msgstr "turn motor on"
-
-# 80%
-#~ msgid "turn motor on for %n secs"
-#~ msgstr "turn motor on for %n secs"
-
-#~ msgid "when distance < %n"
-#~ msgstr "when distance < %n"
-
-#~ msgid "when tilt = %n"
-#~ msgstr "when tilt = %n"
 
 # 89%
 # 86%
@@ -2006,49 +2057,6 @@ msgstr "A projekted feltöltöttük a scratch.mit.edu-ra"
 #~ msgid "play note %n for %n beats"
 #~ msgstr "szóljon %d.note%n ütemig"
 
-#~ msgid "Account settings"
-#~ msgstr "Fiókbeállítások"
-
-#~ msgid "Cloud"
-#~ msgstr "Felhő"
-
-#~ msgid "Go to My Stuff"
-#~ msgstr "Ugrás a dolgaimhoz"
-
-#~ msgid "My Stuff"
-#~ msgstr "Dolgaim"
-
-#~ msgid "Profile"
-#~ msgstr "Profil"
-
-#~ msgid "Save as a copy"
-#~ msgstr "Mentés másolatként"
-
-#~ msgid "Scripts:"
-#~ msgstr "Feladatok:"
-
-#~ msgid "Sign out"
-#~ msgstr "Kijelentkezés"
-
-#~ msgid "stored on server"
-#~ msgstr "szerveren tárolt"
-
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
-#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Felhőváltozókat illető információk</b><br>&nbsp;<br>Jelenleg csak "
-#~ "számok vannak támogatva<br>Chat szobák létrehozása szigorúan "
-#~ "tilos<br>További információkért <a href= target=>lásd a felhőadat GYIK-et."
-#~ "</a>"
-
-#~ msgid "Eraser width:"
-#~ msgstr "Radír vastagsága:"
-
-#~ msgid "Line width:"
-#~ msgstr "Vonalvastagság:"
-
 #~ msgid "cleanup"
 #~ msgstr "rendrakás"
 
@@ -2062,9 +2070,6 @@ msgstr "A projekted feltöltöttük a scratch.mit.edu-ra"
 
 #~ msgid "Paint"
 #~ msgstr "Festés"
-
-#~ msgid "any"
-#~ msgstr "egyik"
 
 #~ msgid "High Tom"
 #~ msgstr "Magas tom"

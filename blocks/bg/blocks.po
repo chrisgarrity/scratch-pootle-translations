@@ -15,8 +15,8 @@ msgstr ""
 "X-POOTLE-MTIME: 1429106061.000000\n"
 
 # The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "Български"
+msgid "Language-Name"
+msgstr "Български"
 
 msgid "%b and %b"
 msgstr "%b и %b"
@@ -27,8 +27,8 @@ msgstr "%b или %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute на %m.spriteOrStage"
 
-#~ msgid "%m.list contains %s"
-#~ msgstr "%m.list съдържа %s"
+msgid "%m.list contains %s"
+msgstr "%m.list съдържа %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp от/на %n"
@@ -493,30 +493,30 @@ msgstr "y позиция"
 
 # 89%
 # 100%
-#~ msgid "set motor direction %m.motorDirection"
-#~ msgstr "посока на мотора %m.motorDirection"
+msgid "set motor direction %m.motorDirection"
+msgstr "посока на мотора %m.motorDirection"
 
 # 77%
 # 100%
-#~ msgid "set motor power %n"
-#~ msgstr "избери мощност на мотора %n"
+msgid "set motor power %n"
+msgstr "избери мощност на мотора %n"
 
-#~ msgid "turn motor off"
-#~ msgstr "изключи мотора"
+msgid "turn motor off"
+msgstr "изключи мотора"
 
-#~ msgid "turn motor on"
-#~ msgstr "включи мотора"
+msgid "turn motor on"
+msgstr "включи мотора"
 
 # 80%
 # 100%
-#~ msgid "turn motor on for %n secs"
-#~ msgstr "включи мотора за %n сек"
+msgid "turn motor on for %n secs"
+msgstr "включи мотора за %n сек"
 
-#~ msgid "when distance < %n"
-#~ msgstr "когато разстояние < %n"
+msgid "when distance < %n"
+msgstr "когато разстояние < %n"
 
-#~ msgid "when tilt = %n"
-#~ msgstr "когато наклон = %n"
+msgid "when tilt = %n"
+msgstr "когато наклон = %n"
 
 # 89%
 # 100%

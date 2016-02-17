@@ -14,6 +14,11 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1429106191.000000\n"
 
+# The language name as it will appear in the language menu
+# The language name as it will appear in the language menu. "Č" v 1.4 je na konci abecedy!
+msgid "Language-Name"
+msgstr "Česky"
+
 msgid "%b and %b"
 msgstr "%b a %b"
 
@@ -22,6 +27,9 @@ msgstr "%b nebo %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute z %m.spriteOrStage"
+
+msgid "%m.list contains %s"
+msgstr "%m.list obsahuje %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp z %n"
@@ -486,6 +494,33 @@ msgstr "pozice x"
 msgid "y position"
 msgstr "pozice y"
 
+# 89%
+# 100%
+msgid "set motor direction %m.motorDirection"
+msgstr "nastav směr motoru %m.motorDirection"
+
+# 77%
+# 100%
+msgid "set motor power %n"
+msgstr "nastav sílu motoru %n"
+
+msgid "turn motor off"
+msgstr "vypni motor"
+
+msgid "turn motor on"
+msgstr "zapni motor"
+
+# 80%
+# 100%
+msgid "turn motor on for %n secs"
+msgstr "zapni motor na %n s"
+
+msgid "when distance < %n"
+msgstr "když vzdálenost < %n"
+
+msgid "when tilt = %n"
+msgstr "když sklon = %n"
+
 #: commands-online.txt:7 commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list obsahuje %s?"
@@ -517,6 +552,9 @@ msgstr "O aplikaci"
 
 msgid "abs"
 msgstr "abs"
+
+msgid "Account settings"
+msgstr "Nastavení účtu"
 
 msgid "acos"
 msgstr "arccos"
@@ -734,6 +772,9 @@ msgstr "Zavřít"
 msgid "Closed Hi-Hat"
 msgstr "Zavřená Hi-hat"
 
+msgid "Cloud"
+msgstr "Cloud"
+
 msgid "Cloud data"
 msgstr "Cloud data"
 
@@ -790,6 +831,9 @@ msgstr "Kostýmy"
 
 msgid "Costumes > 1"
 msgstr "Kostýmů > 1"
+
+msgid "Costumes:"
+msgstr "Kostýmy:"
 
 msgid "Could not retrieve new application from server."
 msgstr "Nelze získat novou aplikaci ze serveru"
@@ -950,6 +994,9 @@ msgstr "Navrch o vrstvu"
 msgid "ghost"
 msgstr "průhlednost"
 
+msgid "Go to My Stuff"
+msgstr "Přejít na moje věci"
+
 msgid "Group"
 msgstr "Skupina"
 
@@ -1028,6 +1075,9 @@ msgstr "Knihovna"
 
 msgid "light"
 msgstr "světlo"
+
+msgid "limit reached"
+msgstr "dosáhlo limitu"
 
 msgid "Line"
 msgstr "Úsečka"
@@ -1117,6 +1167,9 @@ msgstr "Hrací skříňka"
 
 msgid "Music Loops"
 msgstr "Hudební smyčky"
+
+msgid "My Stuff"
+msgstr "Moje věci"
 
 # parametr prikazu clone
 msgid "myself"
@@ -1277,6 +1330,9 @@ msgstr "pop"
 msgid "previous backdrop"
 msgstr "předchozí pozadí"
 
+msgid "Profile"
+msgstr "Profil"
+
 msgid "Project did not load."
 msgstr "Projekt nebyl stažen."
 
@@ -1326,6 +1382,9 @@ msgstr "Přejmenovat"
 msgid "rename variable"
 msgstr "přejmenovat proměnnou"
 
+msgid "requires sign in"
+msgstr "vyžaduje přihlášení"
+
 msgid "Reshape"
 msgstr "Změna tvaru"
 
@@ -1371,6 +1430,9 @@ msgstr "Ulož kopii tohoto projektu a přidej své vlastní nápady."
 msgid "Save as"
 msgstr "Ulož jako"
 
+msgid "Save as a copy"
+msgstr "Uložit jako kopii"
+
 # J.Vaníček
 msgid "Save now"
 msgstr "Uložit aktuální stav"
@@ -1402,6 +1464,10 @@ msgstr "Scénář"
 
 msgid "Scripts"
 msgstr "Scénáře"
+
+# 87%
+msgid "Scripts:"
+msgstr "Scénáře:"
 
 msgid "second"
 msgstr "sekunda"
@@ -1464,6 +1530,9 @@ msgstr "Přihlásit se"
 
 msgid "Sign in to save"
 msgstr "Přihlásit se pro uložení"
+
+msgid "Sign out"
+msgstr "Odhlásit se"
 
 msgid "silence"
 msgstr "ticho"
@@ -1537,6 +1606,9 @@ msgstr "Vybraná scéna:"
 
 msgid "Steel Drum"
 msgstr "Kovový kotel"
+
+msgid "stored on server"
+msgstr "uloženo na serveru"
 
 msgid "Synth Lead"
 msgstr "Syntezátor sólo"
@@ -1745,6 +1817,24 @@ msgstr "Tvoje Scratch jméno"
 msgid "Your Scratch name is required"
 msgstr "Je vyžadováno Tvé Scratch jméno"
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Informace o cloudových proměnných</b><br>&nbsp;<br>Prozatím jsou "
+"podorována pouze čísla<br>Chat místnosti nejsou povoleny a budou "
+"smazány<br>Pro více informací <a href= target=>viz cloud data FAQ!</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "Klikni  pro další pokus nebo  pro uložení"
+
+msgid "Eraser width:"
+msgstr "Šířka gumy:"
+
+msgid "Line width:"
+msgstr "Šířka úsečky: "
+
 # Offline editor only
 msgid "All Tips"
 msgstr ""
@@ -1853,43 +1943,17 @@ msgstr ""
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
-# The language name as it will appear in the language menu
-# The language name as it will appear in the language menu. "Č" v 1.4 je na konci abecedy!
-#~ msgid "Language-Name"
-#~ msgstr "Česky"
+msgid "any"
+msgstr "nějaký"
 
-#~ msgid "%m.list contains %s"
-#~ msgstr "%m.list obsahuje %s"
+msgid "Record Project Video"
+msgstr ""
+
+msgid "Remove Background"
+msgstr ""
 
 #~ msgid "when Stage clicked"
 #~ msgstr "po kliknutí na Scénu"
-
-# 89%
-# 100%
-#~ msgid "set motor direction %m.motorDirection"
-#~ msgstr "nastav směr motoru %m.motorDirection"
-
-# 77%
-# 100%
-#~ msgid "set motor power %n"
-#~ msgstr "nastav sílu motoru %n"
-
-#~ msgid "turn motor off"
-#~ msgstr "vypni motor"
-
-#~ msgid "turn motor on"
-#~ msgstr "zapni motor"
-
-# 80%
-# 100%
-#~ msgid "turn motor on for %n secs"
-#~ msgstr "zapni motor na %n s"
-
-#~ msgid "when distance < %n"
-#~ msgstr "když vzdálenost < %n"
-
-#~ msgid "when tilt = %n"
-#~ msgstr "když sklon = %n"
 
 # 89%
 # 100%
@@ -1952,9 +2016,6 @@ msgstr ""
 #~ msgid "About PicoBoard extension..."
 #~ msgstr "O rozšíření PicoBoard"
 
-#~ msgid "Account settings"
-#~ msgstr "Nastavení účtu"
-
 #~ msgid "add comment here..."
 #~ msgstr "přidej komentář ..."
 
@@ -1964,14 +2025,8 @@ msgstr ""
 #~ msgid "Cannot Add"
 #~ msgstr "Nelze přidat"
 
-#~ msgid "Cloud"
-#~ msgstr "Cloud"
-
 #~ msgid "Cloud variable (stored on server)"
 #~ msgstr "cloudová proměnná (uložená na serveru)"
-
-#~ msgid "Costumes:"
-#~ msgstr "Kostýmy:"
 
 #~ msgid "Downloading new version"
 #~ msgstr "Stahuji novou verzi"
@@ -1994,9 +2049,6 @@ msgstr ""
 #~ msgid "false"
 #~ msgstr "nepravdivý"
 
-#~ msgid "Go to My Stuff"
-#~ msgstr "Přejít na moje věci"
-
 #~ msgid "Hello!"
 #~ msgstr "Ahoj"
 
@@ -2010,9 +2062,6 @@ msgstr ""
 #~ msgid "lights"
 #~ msgstr "světla"
 
-#~ msgid "limit reached"
-#~ msgstr "dosáhlo limitu"
-
 #~ msgid "motor"
 #~ msgstr "motor"
 
@@ -2022,14 +2071,8 @@ msgstr ""
 #~ msgid "motor B"
 #~ msgstr "motor B"
 
-#~ msgid "My Stuff"
-#~ msgstr "Moje věci"
-
 #~ msgid "not ="
 #~ msgstr "nerovná se"
-
-#~ msgid "Profile"
-#~ msgstr "Profil"
 
 #~ msgid "Remove extension blocks"
 #~ msgstr "Odstraň bloky rozšíření"
@@ -2037,18 +2080,8 @@ msgstr ""
 #~ msgid "Replace existing project"
 #~ msgstr "Nahraď existující projekt"
 
-#~ msgid "requires sign in"
-#~ msgstr "vyžaduje přihlášení"
-
-#~ msgid "Save as a copy"
-#~ msgstr "Uložit jako kopii"
-
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "Scratch 2.0 offline editor"
-
-# 87%
-#~ msgid "Scripts:"
-#~ msgstr "Scénáře:"
 
 #~ msgid ""
 #~ "See the Tips window (on the right) to install the plug-in and get the "
@@ -2059,12 +2092,6 @@ msgstr ""
 
 #~ msgid "Share to Scratch website"
 #~ msgstr "Sdílej na webu Scratch"
-
-#~ msgid "Sign out"
-#~ msgstr "Odhlásit se"
-
-#~ msgid "stored on server"
-#~ msgstr "uloženo na serveru"
 
 #~ msgid "The name is already in use."
 #~ msgstr "Tento název se již používá."
@@ -2087,24 +2114,6 @@ msgstr ""
 
 #~ msgid "world"
 #~ msgstr "světe"
-
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
-#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Informace o cloudových proměnných</b><br>&nbsp;<br>Prozatím jsou "
-#~ "podorována pouze čísla<br>Chat místnosti nejsou povoleny a budou "
-#~ "smazány<br>Pro více informací <a href= target=>viz cloud data FAQ!</a>"
-
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "Klikni  pro další pokus nebo  pro uložení"
-
-#~ msgid "Eraser width:"
-#~ msgstr "Šířka gumy:"
-
-#~ msgid "Line width:"
-#~ msgstr "Šířka úsečky: "
 
 #~ msgid "cleanup"
 #~ msgstr "úklid"
@@ -2200,9 +2209,6 @@ msgstr ""
 
 #~ msgid "whisper"
 #~ msgstr "šeptej"
-
-#~ msgid "any"
-#~ msgstr "nějaký"
 
 #~ msgid "Floor Tom"
 #~ msgstr "hluboký tom"

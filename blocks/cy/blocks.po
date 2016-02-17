@@ -15,8 +15,8 @@ msgstr ""
 "X-POOTLE-MTIME: 1429111431.000000\n"
 
 # The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "Cymraeg"
+msgid "Language-Name"
+msgstr "Cymraeg"
 
 msgid "%b and %b"
 msgstr "%b a %b"
@@ -27,8 +27,8 @@ msgstr "%b neu %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute o %m.spriteOrStage"
 
-#~ msgid "%m.list contains %s"
-#~ msgstr "%m.list yn cynnwys %s"
+msgid "%m.list contains %s"
+msgstr "%m.list yn cynnwys %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp o %n"
@@ -492,30 +492,30 @@ msgstr "safle y"
 
 # 89%
 # 100%
-#~ msgid "set motor direction %m.motorDirection"
-#~ msgstr "gosod cyfeiriad modur %m.motorDirection"
+msgid "set motor direction %m.motorDirection"
+msgstr "gosod cyfeiriad modur %m.motorDirection"
 
 # 77%
 # 100%
-#~ msgid "set motor power %n"
-#~ msgstr "gosod pŵer modur %n"
+msgid "set motor power %n"
+msgstr "gosod pŵer modur %n"
 
-#~ msgid "turn motor off"
-#~ msgstr "troi modur i ffwrdd"
+msgid "turn motor off"
+msgstr "troi modur i ffwrdd"
 
-#~ msgid "turn motor on"
-#~ msgstr "troi modur ymlaen"
+msgid "turn motor on"
+msgstr "troi modur ymlaen"
 
 # 80%
 # 100%
-#~ msgid "turn motor on for %n secs"
-#~ msgstr "troi modur ymlaen am %n eiliad"
+msgid "turn motor on for %n secs"
+msgstr "troi modur ymlaen am %n eiliad"
 
-#~ msgid "when distance < %n"
-#~ msgstr "pan mae pellter yn < %n"
+msgid "when distance < %n"
+msgstr "pan mae pellter yn < %n"
 
-#~ msgid "when tilt = %n"
-#~ msgstr "pan mae gwyriad = %n"
+msgid "when tilt = %n"
+msgstr "pan mae gwyriad = %n"
 
 # 89%
 # 100%

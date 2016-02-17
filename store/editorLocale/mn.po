@@ -14,6 +14,10 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1421158164.000000\n"
 
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "Монгол хэл"
+
 msgid "%b and %b"
 msgstr "%b ба %b"
 
@@ -22,6 +26,9 @@ msgstr "%b буюу %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute -н %m.spriteOrStage"
+
+msgid "%m.list contains %s"
+msgstr "%s нь %m.list -г агуулдаг"
 
 msgid "%m.mathOp of %n"
 msgstr "%n-н %m.mathOp"
@@ -493,6 +500,12 @@ msgstr "%m.motorDirection хөдөлгүүрийн чиг"
 msgid "set motor power %n"
 msgstr "хөдөлгүүр %n чадалтай"
 
+msgid "turn motor off"
+msgstr "Хөдөлгүүрийг унтраа"
+
+msgid "turn motor on"
+msgstr "Хөдөлгүүрийг асаа"
+
 # 80%
 #, fuzzy
 msgid "turn motor on for %n secs"
@@ -533,6 +546,9 @@ msgstr "Тухай"
 
 msgid "abs"
 msgstr "abs"
+
+msgid "Account settings"
+msgstr "Хэрэглэгчийн тохиргоо"
 
 msgid "acos"
 msgstr ""
@@ -1983,18 +1999,14 @@ msgstr ""
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
-# The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "Монгол хэл"
+msgid "any"
+msgstr "аливаа"
 
-#~ msgid "%m.list contains %s"
-#~ msgstr "%s нь %m.list -г агуулдаг"
+msgid "Record Project Video"
+msgstr ""
 
-#~ msgid "turn motor off"
-#~ msgstr "Хөдөлгүүрийг унтраа"
-
-#~ msgid "turn motor on"
-#~ msgstr "Хөдөлгүүрийг асаа"
+msgid "Remove Background"
+msgstr ""
 
 # 89%
 # 86%
@@ -2032,9 +2044,6 @@ msgstr ""
 #~ msgid "About PicoBoard extension..."
 #~ msgstr "PicoBoard өргөтгөлийн тухай..."
 
-#~ msgid "Account settings"
-#~ msgstr "Хэрэглэгчийн тохиргоо"
-
 #~ msgid "add comment here..."
 #~ msgstr "Санал, сэтгэгдэл, тайлбараа энд бичих"
 
@@ -2045,9 +2054,6 @@ msgstr ""
 
 #~ msgid "Paint"
 #~ msgstr "Будах"
-
-#~ msgid "any"
-#~ msgstr "аливаа"
 
 #~ msgid "High Tom"
 #~ msgstr "Өндөр Том"

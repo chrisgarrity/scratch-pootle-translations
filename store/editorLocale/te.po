@@ -27,8 +27,9 @@ msgstr "%b లేక %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute లో %m.spriteOrStage"
 
+#, fuzzy
 msgid "%m.list contains %s"
-msgstr ""
+msgstr "%m జాబితాలో %s కలిగి ఉండు"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp లో %n"
@@ -525,6 +526,9 @@ msgstr "గురించి"
 
 msgid "abs"
 msgstr "ఎబిఎస్"
+
+msgid "Account settings"
+msgstr "ఖాతాల అమరికలు"
 
 msgid "acos"
 msgstr "ఎసిఒఎస్"
@@ -1957,11 +1961,17 @@ msgstr ""
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
+msgid "Record Project Video"
+msgstr ""
+
+msgid "Remove Background"
+msgstr ""
+
+msgid "any"
+msgstr ""
+
 #~ msgid "About LEGO WeDo extension..."
 #~ msgstr "LEGO డబ్ల్యుఇడిఒ పొడిగింపు గురించి ..."
 
 #~ msgid "About PicoBoard extension..."
 #~ msgstr "PicoBoard పొడిగింపు గురించి ..."
-
-#~ msgid "Account settings"
-#~ msgstr "ఖాతాల అమరికలు"

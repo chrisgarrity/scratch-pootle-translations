@@ -13,6 +13,10 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1396032262.000000\n"
 
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "Meow!"
+
 msgid "%b and %b"
 msgstr "%b meow %b"
 
@@ -21,6 +25,9 @@ msgstr "%b meow %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr ""
+
+msgid "%m.list contains %s"
+msgstr "%m.list meows %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp meow %n"
@@ -482,6 +489,12 @@ msgstr ""
 
 msgid "turn motor on for %n secs"
 msgstr ""
+
+msgid "when distance < %n"
+msgstr "when meow < %n"
+
+msgid "when tilt = %n"
+msgstr "when meow = %n"
 
 #: commands-online.txt:7 commands-offline.txt:7
 #, fuzzy
@@ -1948,15 +1961,11 @@ msgstr ""
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
-# The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "Meow!"
+msgid "Record Project Video"
+msgstr ""
 
-#~ msgid "%m.list contains %s"
-#~ msgstr "%m.list meows %s"
+msgid "Remove Background"
+msgstr ""
 
-#~ msgid "when distance < %n"
-#~ msgstr "when meow < %n"
-
-#~ msgid "when tilt = %n"
-#~ msgstr "when meow = %n"
+msgid "any"
+msgstr ""

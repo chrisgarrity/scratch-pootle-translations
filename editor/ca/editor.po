@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-11-14 16:11+0000\n"
+"PO-Revision-Date: 2015-11-14 16:12+0000\n"
 "Last-Translator: Carles <carles.ferrando@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ca\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1447517488.000000\n"
+"X-POOTLE-MTIME: 1447517527.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -49,8 +49,8 @@ msgstr "Quant a"
 msgid "abs"
 msgstr "abs"
 
-#~ msgid "Account settings"
-#~ msgstr "Configuració del compte"
+msgid "Account settings"
+msgstr "Configuració del compte"
 
 msgid "acos"
 msgstr "acos"
@@ -283,8 +283,8 @@ msgstr "Tanca"
 msgid "Closed Hi-Hat"
 msgstr "Xarles tancat"
 
-#~ msgid "Cloud"
-#~ msgstr "Núvol"
+msgid "Cloud"
+msgstr "Núvol"
 
 msgid "Cloud data"
 msgstr "Dades al núvol"
@@ -349,8 +349,8 @@ msgstr "Vestits"
 msgid "Costumes > 1"
 msgstr "Vestits > 1"
 
-#~ msgid "Costumes:"
-#~ msgstr "Vestits:"
+msgid "Costumes:"
+msgstr "Vestits:"
 
 msgid "Could not retrieve new application from server."
 msgstr "No s'ha pogut recuperar la nova aplicació des del servidor."
@@ -535,8 +535,8 @@ msgstr "Endavant una capa"
 msgid "ghost"
 msgstr "transparència"
 
-#~ msgid "Go to My Stuff"
-#~ msgstr "Vés a les Meves Coses"
+msgid "Go to My Stuff"
+msgstr "Vés a les Meves Coses"
 
 msgid "Group"
 msgstr "Agrupa"
@@ -634,8 +634,8 @@ msgstr "llum"
 #~ msgid "lights"
 #~ msgstr "llums"
 
-#~ msgid "limit reached"
-#~ msgstr "límit assolit"
+msgid "limit reached"
+msgstr "límit assolit"
 
 msgid "Line"
 msgstr "Línia"
@@ -739,8 +739,8 @@ msgstr "Caixa de música"
 msgid "Music Loops"
 msgstr "Bucles Musicals"
 
-#~ msgid "My Stuff"
-#~ msgstr "Les Meves Coses"
+msgid "My Stuff"
+msgstr "Les Meves Coses"
 
 msgid "myself"
 msgstr "jo mateix"
@@ -906,8 +906,8 @@ msgstr "pop"
 msgid "previous backdrop"
 msgstr "fons anterior"
 
-#~ msgid "Profile"
-#~ msgstr "Perfil"
+msgid "Profile"
+msgstr "Perfil"
 
 msgid "Project did not load."
 msgstr "El projecte no s'ha carregat."
@@ -964,8 +964,8 @@ msgstr "canvia el nom de la variable"
 msgid "Replace existing project"
 msgstr ""
 
-#~ msgid "requires sign in"
-#~ msgstr "requereix iniciar la sessió"
+msgid "requires sign in"
+msgstr "requereix iniciar la sessió"
 
 msgid "Reshape"
 msgstr "Redibuixa"
@@ -1012,8 +1012,8 @@ msgstr "Guarda una còpia d'aquest projecte i afegeix les teves idees."
 msgid "Save as"
 msgstr "Anomena i desa"
 
-#~ msgid "Save as a copy"
-#~ msgstr "Desa una còpia"
+msgid "Save as a copy"
+msgstr "Desa una còpia"
 
 msgid "Save now"
 msgstr "Desa ara"
@@ -1050,8 +1050,8 @@ msgid "Scripts"
 msgstr "Programes"
 
 # 87%
-#~ msgid "Scripts:"
-#~ msgstr "Programes:"
+msgid "Scripts:"
+msgstr "Programes:"
 
 msgid "second"
 msgstr "segon"
@@ -1127,8 +1127,8 @@ msgstr "Inicia la sessió"
 msgid "Sign in to save"
 msgstr "Inicia la sessió per poder desar"
 
-#~ msgid "Sign out"
-#~ msgstr "Tanca la sessió"
+msgid "Sign out"
+msgstr "Tanca la sessió"
 
 msgid "silence"
 msgstr "silenci"
@@ -1210,8 +1210,8 @@ msgstr "Escenari seleccionat:"
 msgid "Steel Drum"
 msgstr "Tambor d'acer"
 
-#~ msgid "stored on server"
-#~ msgstr "desat al servidor"
+msgid "stored on server"
+msgstr "desat al servidor"
 
 msgid "Synth Lead"
 msgstr "Sintetitzador solista"
@@ -1457,24 +1457,24 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
-#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>Informació sobre les variables al núvol</b><br>&nbsp;<br>Actualment només "
-#~ "s'accepten números<br>Els xats no estan permesos i s'eliminaran<br>Si voleu "
-#~ "més informació, <a href= target=>vegeu les Preguntes Més Freqüents sobre les "
-#~ "dades al núvol!</a>"
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Informació sobre les variables al núvol</b><br>&nbsp;<br>Actualment només "
+"s'accepten números<br>Els xats no estan permesos i s'eliminaran<br>Si voleu "
+"més informació, <a href= target=>vegeu les Preguntes Més Freqüents sobre les "
+"dades al núvol!</a>"
 
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "Fes clic a  per tornar-ho a intentar o bé  per desar"
+msgid "Click  to try again or  to save"
+msgstr "Fes clic a  per tornar-ho a intentar o bé  per desar"
 
-#~ msgid "Eraser width:"
-#~ msgstr "Ample de l'esborrador:"
+msgid "Eraser width:"
+msgstr "Ample de l'esborrador:"
 
-#~ msgid "Line width:"
-#~ msgstr "Ample de línia:"
+msgid "Line width:"
+msgstr "Ample de línia:"
 
 # Offline editor only
 msgid "All Tips"
@@ -1487,12 +1487,14 @@ msgid ""
 msgstr ""
 
 # Offline editor only
+#, fuzzy
 msgid "Could not retrieve update location from server."
-msgstr ""
+msgstr "No s'ha pogut recuperar la nova aplicació des del servidor."
 
 # Offline editor only
+#, fuzzy
 msgid "Could not retrieve version information from server."
-msgstr ""
+msgstr "No s'ha pogut recuperar la nova aplicació des del servidor."
 
 # Offline editor only
 msgid "Could not write file:"
@@ -1543,8 +1545,9 @@ msgid "Running pre-release"
 msgstr ""
 
 # Offline editor only
+#, fuzzy
 msgid "Save Project"
-msgstr ""
+msgstr "Vols desar el projecte?"
 
 # Offline editor only
 msgid "Server error:"
@@ -1676,8 +1679,8 @@ msgstr ""
 #~ msgid "whisper"
 #~ msgstr "xiuxiueja"
 
-#~ msgid "any"
-#~ msgstr "qualsevol"
+msgid "any"
+msgstr "qualsevol"
 
 #~ msgid "Floor Tom"
 #~ msgstr "Goliat"
@@ -1738,3 +1741,12 @@ msgstr ""
 
 #~ msgid "Short Guiro"
 #~ msgstr "Guiro curt"
+
+msgid "Record Project Video"
+msgstr ""
+
+msgid "Remove Background"
+msgstr ""
+
+msgid "when Stage clicked"
+msgstr ""

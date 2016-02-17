@@ -13,6 +13,10 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1363808424.000000\n"
 
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "Ирон"
+
 msgid "%b and %b"
 msgstr "%b ӕмӕ %b"
 
@@ -21,6 +25,9 @@ msgstr "%b кӕнӕ %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr ""
+
+msgid "%m.list contains %s"
+msgstr "%m.list-ы мидӕг ис %s"
 
 msgid "%m.mathOp of %n"
 msgstr ""
@@ -1975,12 +1982,14 @@ msgstr ""
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
-# The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "Ирон"
+msgid "Record Project Video"
+msgstr ""
 
-#~ msgid "%m.list contains %s"
-#~ msgstr "%m.list-ы мидӕг ис %s"
+msgid "Remove Background"
+msgstr ""
+
+msgid "any"
+msgstr ""
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Булон бафтауын:"

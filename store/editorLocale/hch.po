@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-04-14 18:21+0000\n"
+"PO-Revision-Date: 2016-02-17 17:59+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hch\n"
@@ -11,7 +11,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1429035691.000000\n"
+"X-POOTLE-MTIME: 1455731995.000000\n"
+
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "Wixarika"
 
 msgid "%b and %b"
 msgstr "%b yaî %b"
@@ -1978,9 +1982,14 @@ msgstr ""
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
-# The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "Wixarika"
+msgid "any"
+msgstr "kepaitsietü"
+
+msgid "Record Project Video"
+msgstr ""
+
+msgid "Remove Background"
+msgstr ""
 
 #~ msgid "forever if %b"
 #~ msgstr "hü Ya ânemekü %b"
@@ -1998,9 +2007,6 @@ msgstr ""
 
 #~ msgid "Paint"
 #~ msgstr "pitauximani"
-
-#~ msgid "any"
-#~ msgstr "kepaitsietü"
 
 #~ msgid "High Tom"
 #~ msgstr "Tom chiûyuatü"

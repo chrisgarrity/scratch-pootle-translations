@@ -15,8 +15,8 @@ msgstr ""
 "X-POOTLE-MTIME: 1450164872.000000\n"
 
 # The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "Аҧсшәа"
+msgid "Language-Name"
+msgstr "Аҧсшәа"
 
 msgid "%b and %b"
 msgstr "%b и %b и"
@@ -27,8 +27,8 @@ msgstr "%b ма %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.атрибут %m.spriteOrStage аҟынтә"
 
-#~ msgid "%m.list contains %s"
-#~ msgstr "%m.list иаҵанакуеит %s"
+msgid "%m.list contains %s"
+msgstr "%m.list иаҵанакуеит %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp %n аҟынтә"
@@ -474,26 +474,26 @@ msgstr "x аҭыҧ"
 msgid "y position"
 msgstr "y аҭыҧ"
 
-#~ msgid "set motor direction %m.motorDirection"
-#~ msgstr "амотор ахырхарҭа %m.motorDirection"
+msgid "set motor direction %m.motorDirection"
+msgstr "амотор ахырхарҭа %m.motorDirection"
 
-#~ msgid "set motor power %n"
-#~ msgstr "аматор амчра %n"
+msgid "set motor power %n"
+msgstr "аматор амчра %n"
 
-#~ msgid "turn motor off"
-#~ msgstr "аматор арцәара"
+msgid "turn motor off"
+msgstr "аматор арцәара"
 
-#~ msgid "turn motor on"
-#~ msgstr "аматор аркра"
+msgid "turn motor on"
+msgstr "аматор аркра"
 
-#~ msgid "turn motor on for %n secs"
-#~ msgstr "иарктәуп аматор %n секундк"
+msgid "turn motor on for %n secs"
+msgstr "иарктәуп аматор %n секундк"
 
-#~ msgid "when distance < %n"
-#~ msgstr "ирыбжьоу < %n аасҭа"
+msgid "when distance < %n"
+msgstr "ирыбжьоу < %n аасҭа"
 
-#~ msgid "when tilt = %n"
-#~ msgstr "анаара = %n ианаҟароу"
+msgid "when tilt = %n"
+msgstr "анаара = %n ианаҟароу"
 
 #: commands-online.txt:7
 #: commands-offline.txt:7

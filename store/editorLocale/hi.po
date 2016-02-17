@@ -14,6 +14,10 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1367925426.000000\n"
 
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "हिन्दी"
+
 msgid "%b and %b"
 msgstr "%b और %b"
 
@@ -22,6 +26,9 @@ msgstr "%b या %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.spriteOrStage का %m.attribute"
+
+msgid "%m.list contains %s"
+msgstr "%s में %m.list हैं।"
 
 msgid "%m.mathOp of %n"
 msgstr "%n का %m.mathOp"
@@ -485,6 +492,30 @@ msgstr "x स्थिति"
 msgid "y position"
 msgstr "y स्थिति"
 
+# 89%
+msgid "set motor direction %m.motorDirection"
+msgstr "मोटर की दिशा %m.motorDirection पर सेट करे"
+
+# 77%
+msgid "set motor power %n"
+msgstr "मोटर की शक्ति %n पर सेट करे"
+
+msgid "turn motor off"
+msgstr "मोटर बंद करें"
+
+msgid "turn motor on"
+msgstr "मोटर चालू करें"
+
+# 80%
+msgid "turn motor on for %n secs"
+msgstr "%n सेकंड के लिए मोटर चालू करें"
+
+msgid "when distance < %n"
+msgstr "जब दूरी< %n"
+
+msgid "when tilt = %n"
+msgstr "जब झुकाव = %n"
+
 #: commands-online.txt:7 commands-offline.txt:7
 #, fuzzy
 msgid "%m.list contains %s?"
@@ -523,6 +554,9 @@ msgstr ""
 
 msgid "abs"
 msgstr ""
+
+msgid "Account settings"
+msgstr "खाते की सेटिंग्स"
 
 msgid "acos"
 msgstr ""
@@ -1843,6 +1877,15 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>क्लाउड वेरिएबल के बारे में जानकारी</b><br>&nbsp;<br>वर्तमान में केवल संख्या का समर्थन "
+"किया जा रहा हैं<br>चैट रूम की अनुमति नहीं है, और वह निकाल दिया जाएगा<br>अधिक "
+"जानकारी के लिए, <a href= target=> क्लाउड डेटा के बारे में देखें !</a>"
+
 msgid "Click  to try again or  to save"
 msgstr ""
 
@@ -1954,36 +1997,14 @@ msgstr ""
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
-# The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "हिन्दी"
+msgid "any"
+msgstr "कोई"
 
-#~ msgid "%m.list contains %s"
-#~ msgstr "%s में %m.list हैं।"
+msgid "Record Project Video"
+msgstr ""
 
-# 89%
-#~ msgid "set motor direction %m.motorDirection"
-#~ msgstr "मोटर की दिशा %m.motorDirection पर सेट करे"
-
-# 77%
-#~ msgid "set motor power %n"
-#~ msgstr "मोटर की शक्ति %n पर सेट करे"
-
-#~ msgid "turn motor off"
-#~ msgstr "मोटर बंद करें"
-
-#~ msgid "turn motor on"
-#~ msgstr "मोटर चालू करें"
-
-# 80%
-#~ msgid "turn motor on for %n secs"
-#~ msgstr "%n सेकंड के लिए मोटर चालू करें"
-
-#~ msgid "when distance < %n"
-#~ msgstr "जब दूरी< %n"
-
-#~ msgid "when tilt = %n"
-#~ msgstr "जब झुकाव = %n"
+msgid "Remove Background"
+msgstr ""
 
 # 89%
 # 86%
@@ -2035,18 +2056,3 @@ msgstr ""
 
 #~ msgid "when I am clicked"
 #~ msgstr "जब मुझे क्लिक किया जाए"
-
-#~ msgid "Account settings"
-#~ msgstr "खाते की सेटिंग्स"
-
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
-#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>क्लाउड वेरिएबल के बारे में जानकारी</b><br>&nbsp;<br>वर्तमान में केवल संख्या का "
-#~ "समर्थन किया जा रहा हैं<br>चैट रूम की अनुमति नहीं है, और वह निकाल दिया "
-#~ "जाएगा<br>अधिक जानकारी के लिए, <a href= target=> क्लाउड डेटा के बारे में देखें !</a>"
-
-#~ msgid "any"
-#~ msgstr "कोई"

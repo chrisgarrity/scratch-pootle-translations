@@ -15,6 +15,10 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1429070628.000000\n"
 
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "العربية"
+
 msgid "%b and %b"
 msgstr "%b و %b"
 
@@ -23,6 +27,9 @@ msgstr "%b أو %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute للكائن %m.spriteOrStage"
+
+msgid "%m.list contains %s"
+msgstr "%m.list تحتوي %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp للقيمة %n"
@@ -481,6 +488,30 @@ msgstr "الموضع س"
 msgid "y position"
 msgstr "الموضع ص"
 
+# 89%
+msgid "set motor direction %m.motorDirection"
+msgstr "اجعل اتجاه المحرك %m.motorDirection"
+
+# 77%
+msgid "set motor power %n"
+msgstr "اجعل طاقة المحرك مساويةً %n"
+
+msgid "turn motor off"
+msgstr "أوقف المحرك"
+
+msgid "turn motor on"
+msgstr "شغّل المحرك"
+
+# 80%
+msgid "turn motor on for %n secs"
+msgstr "شغِّل المحرك لمدة %n ثانية"
+
+msgid "when distance < %n"
+msgstr "عندما المسافة > %n"
+
+msgid "when tilt = %n"
+msgstr "عندما الميل = %n"
+
 #: commands-online.txt:7 commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list تحتوي %s؟"
@@ -512,6 +543,9 @@ msgstr "عن سكراتش"
 
 msgid "abs"
 msgstr "القيمة المطلقة"
+
+msgid "Account settings"
+msgstr "إعدادات الحساب"
 
 msgid "acos"
 msgstr "جيب التمام العكسي"
@@ -711,6 +745,9 @@ msgstr "كلارينيت"
 msgid "Claves"
 msgstr "Claves"
 
+msgid "clean up"
+msgstr "ترتيب"
+
 msgid "Clear"
 msgstr "مسح"
 
@@ -725,6 +762,9 @@ msgstr "إغلاق"
 
 msgid "Closed Hi-Hat"
 msgstr "Closed Hi-Hat"
+
+msgid "Cloud"
+msgstr "السحابة"
 
 msgid "Cloud data"
 msgstr "البيانات السحابية"
@@ -782,6 +822,11 @@ msgstr "المظاهر"
 
 msgid "Costumes > 1"
 msgstr "المظاهر > ١"
+
+# 75%
+# 88%
+msgid "Costumes:"
+msgstr "المظاهر:"
 
 msgid "Could not retrieve new application from server."
 msgstr "لم يكن بالإمكان الحصول على التطبيق الجديد من المخدّم."
@@ -943,6 +988,9 @@ msgstr "طبقة واحدة إلى الأمام"
 msgid "ghost"
 msgstr "الشبح"
 
+msgid "Go to My Stuff"
+msgstr "الذهاب إلى أغراضي"
+
 msgid "Group"
 msgstr "تجميع"
 
@@ -1021,6 +1069,9 @@ msgstr "المكتبة"
 
 msgid "light"
 msgstr "الضوء"
+
+msgid "limit reached"
+msgstr "وصلت الحد الأقصى"
 
 msgid "Line"
 msgstr "خط مستقيم"
@@ -1110,6 +1161,9 @@ msgstr "صندوق الموسيقى"
 
 msgid "Music Loops"
 msgstr "حلقات موسيقية"
+
+msgid "My Stuff"
+msgstr "أغراضي"
 
 msgid "myself"
 msgstr "نفسي"
@@ -1268,6 +1322,9 @@ msgstr "بُب"
 msgid "previous backdrop"
 msgstr "الخلفية السابقة"
 
+msgid "Profile"
+msgstr "الملف الشخصي"
+
 msgid "Project did not load."
 msgstr "لم يتم تحميل المشروع."
 
@@ -1320,6 +1377,10 @@ msgstr "إعادة تسمية المتغير"
 msgid "Replace existing project"
 msgstr ""
 
+# 75%
+msgid "requires sign in"
+msgstr "يتطلب تسجيل الدخول"
+
 msgid "Reshape"
 msgstr "إعادة تشكيل"
 
@@ -1366,6 +1427,9 @@ msgstr "احفظ نسخةً من هذا المشروع وأضف أفكارك ا�
 msgid "Save as"
 msgstr "حفظ باسم"
 
+msgid "Save as a copy"
+msgstr "حفظ كنسخة"
+
 msgid "Save now"
 msgstr "الحفظ الآن"
 
@@ -1397,6 +1461,10 @@ msgstr "المقاطع البرمجية"
 
 msgid "Scripts"
 msgstr "المقاطع البرمجية"
+
+# 87%
+msgid "Scripts:"
+msgstr "المقاطع البرمجية:"
 
 msgid "second"
 msgstr "الثانية"
@@ -1460,6 +1528,9 @@ msgstr "تسجيل الدخول"
 
 msgid "Sign in to save"
 msgstr "سجّل الدخول للحفظ"
+
+msgid "Sign out"
+msgstr "تسجيل الخروج"
 
 msgid "silence"
 msgstr "صمت"
@@ -1533,6 +1604,9 @@ msgstr "المنصة محددة:"
 
 msgid "Steel Drum"
 msgstr "طبل فولاذي"
+
+msgid "stored on server"
+msgstr "مخزَّن على المخدِّم"
 
 msgid "Synth Lead"
 msgstr "Synth Lead"
@@ -1741,6 +1815,24 @@ msgstr "اسمك على موقع سكراتش"
 msgid "Your Scratch name is required"
 msgstr "اسمك على موقع سكراتش مطلوب"
 
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+"<b>معلومات عن المتغيرات السحابية</b><br>&nbsp;<br>الأعداد فقط مدعومة حالياً."
+"<br>غرف المحادثة غير مسموحة وسوف تزال<br>لمزيد من المعلومات <a href= "
+"target=>زر الأسئلة متكررة الطرح عن المتغيرات السحابية</a>"
+
+msgid "Click  to try again or  to save"
+msgstr "انقر  للمحاولة ثانيةً أو  للحفظ"
+
+msgid "Eraser width:"
+msgstr "عرض الممحاة:"
+
+msgid "Line width:"
+msgstr "عرض الخط:"
+
 # Offline editor only
 msgid "All Tips"
 msgstr "جميع التلميحات"
@@ -1843,39 +1935,17 @@ msgstr "زر صفحة التنزيل"
 msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr "تم رفع مشروعك إلى scratch.mit.edu"
 
-# The language name as it will appear in the language menu
-#~ msgid "Language-Name"
-#~ msgstr "العربية"
+msgid "any"
+msgstr "(موقع ما)"
 
-#~ msgid "%m.list contains %s"
-#~ msgstr "%m.list تحتوي %s"
+msgid "Record Project Video"
+msgstr ""
+
+msgid "Remove Background"
+msgstr ""
 
 #~ msgid "when Stage clicked"
 #~ msgstr "عند نقر المنصة"
-
-# 89%
-#~ msgid "set motor direction %m.motorDirection"
-#~ msgstr "اجعل اتجاه المحرك %m.motorDirection"
-
-# 77%
-#~ msgid "set motor power %n"
-#~ msgstr "اجعل طاقة المحرك مساويةً %n"
-
-#~ msgid "turn motor off"
-#~ msgstr "أوقف المحرك"
-
-#~ msgid "turn motor on"
-#~ msgstr "شغّل المحرك"
-
-# 80%
-#~ msgid "turn motor on for %n secs"
-#~ msgstr "شغِّل المحرك لمدة %n ثانية"
-
-#~ msgid "when distance < %n"
-#~ msgstr "عندما المسافة > %n"
-
-#~ msgid "when tilt = %n"
-#~ msgstr "عندما الميل = %n"
 
 # 89%
 # 86%
@@ -1945,9 +2015,6 @@ msgstr "تم رفع مشروعك إلى scratch.mit.edu"
 #~ msgid "About PicoBoard extension..."
 #~ msgstr "عن إضافة PicoBoard..."
 
-#~ msgid "Account settings"
-#~ msgstr "إعدادات الحساب"
-
 #~ msgid "add comment here..."
 #~ msgstr "أضف التعليق هنا..."
 
@@ -1957,19 +2024,8 @@ msgstr "تم رفع مشروعك إلى scratch.mit.edu"
 #~ msgid "Cannot Add"
 #~ msgstr "الإضافة غير ممكنة"
 
-#~ msgid "clean up"
-#~ msgstr "ترتيب"
-
-#~ msgid "Cloud"
-#~ msgstr "السحابة"
-
 #~ msgid "Cloud variable (stored on server)"
 #~ msgstr "متغير سحابي (مخزّن على المخدّم)"
-
-# 75%
-# 88%
-#~ msgid "Costumes:"
-#~ msgstr "المظاهر:"
 
 #~ msgid "Downloading new version"
 #~ msgstr "جارٍ تنزيل الإصدار الجديد"
@@ -1992,9 +2048,6 @@ msgstr "تم رفع مشروعك إلى scratch.mit.edu"
 #~ msgid "false"
 #~ msgstr "صحيح"
 
-#~ msgid "Go to My Stuff"
-#~ msgstr "الذهاب إلى أغراضي"
-
 #~ msgid "Hello!"
 #~ msgstr "السلام عليكم!"
 
@@ -2008,9 +2061,6 @@ msgstr "تم رفع مشروعك إلى scratch.mit.edu"
 #~ msgid "lights"
 #~ msgstr "الضوء"
 
-#~ msgid "limit reached"
-#~ msgstr "وصلت الحد الأقصى"
-
 #~ msgid "motor"
 #~ msgstr "المحرك"
 
@@ -2020,31 +2070,14 @@ msgstr "تم رفع مشروعك إلى scratch.mit.edu"
 #~ msgid "motor B"
 #~ msgstr "المحرك ٢"
 
-#~ msgid "My Stuff"
-#~ msgstr "أغراضي"
-
 #~ msgid "not ="
 #~ msgstr "لا يساوي"
-
-#~ msgid "Profile"
-#~ msgstr "الملف الشخصي"
 
 #~ msgid "Remove extension blocks"
 #~ msgstr "إزالة لبنات الإضافة"
 
-# 75%
-#~ msgid "requires sign in"
-#~ msgstr "يتطلب تسجيل الدخول"
-
-#~ msgid "Save as a copy"
-#~ msgstr "حفظ كنسخة"
-
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "سكراتش ٢,٠"
-
-# 87%
-#~ msgid "Scripts:"
-#~ msgstr "المقاطع البرمجية:"
 
 #~ msgid ""
 #~ "See the Tips window (on the right) to install the plug-in and get the "
@@ -2055,12 +2088,6 @@ msgstr "تم رفع مشروعك إلى scratch.mit.edu"
 
 #~ msgid "Share to Scratch website"
 #~ msgstr "المشاركة على موقع سكراتش"
-
-#~ msgid "Sign out"
-#~ msgstr "تسجيل الخروج"
-
-#~ msgid "stored on server"
-#~ msgstr "مخزَّن على المخدِّم"
 
 #~ msgid "The name is already in use."
 #~ msgstr "الاسم مستخدم حاليًا"
@@ -2083,24 +2110,6 @@ msgstr "تم رفع مشروعك إلى scratch.mit.edu"
 
 #~ msgid "world"
 #~ msgstr "بالعالم"
-
-#~ msgid ""
-#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
-#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-#~ msgstr ""
-#~ "<b>معلومات عن المتغيرات السحابية</b><br>&nbsp;<br>الأعداد فقط مدعومة "
-#~ "حالياً.<br>غرف المحادثة غير مسموحة وسوف تزال<br>لمزيد من المعلومات <a "
-#~ "href= target=>زر الأسئلة متكررة الطرح عن المتغيرات السحابية</a>"
-
-#~ msgid "Click  to try again or  to save"
-#~ msgstr "انقر  للمحاولة ثانيةً أو  للحفظ"
-
-#~ msgid "Eraser width:"
-#~ msgstr "عرض الممحاة:"
-
-#~ msgid "Line width:"
-#~ msgstr "عرض الخط:"
 
 #~ msgid "The name is already is use."
 #~ msgstr "الاسم مستخدم حاليًا"
@@ -2217,9 +2226,6 @@ msgstr "تم رفع مشروعك إلى scratch.mit.edu"
 
 #~ msgid "name"
 #~ msgstr "الاسم"
-
-#~ msgid "any"
-#~ msgstr "(موقع ما)"
 
 #~ msgid "High Tom"
 #~ msgstr "High Tom"

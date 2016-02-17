@@ -264,8 +264,8 @@ msgstr "Clarinetto"
 msgid "Claves"
 msgstr "Legnetti"
 
-#~ msgid "clean up"
-#~ msgstr "riordina"
+msgid "clean up"
+msgstr "riordina"
 
 msgid "Clear"
 msgstr "Pulisci"
@@ -1679,8 +1679,8 @@ msgstr "Il tuo progetto è stato caricato sul sito scratch.mit.edu"
 #~ msgid "whisper"
 #~ msgstr "sussurro"
 
-#~ msgid "any"
-#~ msgstr "qualunque"
+msgid "any"
+msgstr "qualunque"
 
 #~ msgid "High Tom"
 #~ msgstr "Tom Alto"
@@ -1717,3 +1717,12 @@ msgstr "Il tuo progetto è stato caricato sul sito scratch.mit.edu"
 
 #~ msgid "Short Guiro"
 #~ msgstr "Guiro corto"
+
+msgid "Record Project Video"
+msgstr ""
+
+msgid "Remove Background"
+msgstr ""
+
+msgid "when Stage clicked"
+msgstr ""

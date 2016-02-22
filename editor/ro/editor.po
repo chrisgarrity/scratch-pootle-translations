@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2016-01-20 09:04+0000\n"
+"PO-Revision-Date: 2016-02-19 22:45+0000\n"
 "Last-Translator: Mihai <mihai.agape@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ro\n"
@@ -13,10 +13,10 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2);;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1453280665.000000\n"
+"X-POOTLE-MTIME: 1455921905.000000\n"
 
 msgid "10 ^"
-msgstr "10^"
+msgstr "10 ^"
 
 msgid ""
 "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
@@ -33,10 +33,10 @@ msgid "A connected"
 msgstr "A conectat"
 
 msgid "a copy of the project file on your computer."
-msgstr "o copie a fisierului proiect pe calculatorul tau."
+msgstr "o copie a proiectului pe calculatorul tău."
 
 msgid "A newer version of Scratch is available"
-msgstr ""
+msgstr "Este disponibilă o nouă versiune Scratch"
 
 msgid "About"
 msgstr "Despre"
@@ -60,25 +60,25 @@ msgid "Add"
 msgstr "Adaugă"
 
 msgid "Add an Extension"
-msgstr "Adauga o Extensie"
+msgstr "Adaugă o Extensie"
 
 msgid "Add boolean input:"
-msgstr "Adauga intrare de tip boolean:"
+msgstr "Adaugă intrare de tip boolean:"
 
 msgid "add comment"
-msgstr "adauga comentariu"
+msgstr "adaugă un comentariu"
 
 msgid "add comment here..."
 msgstr ""
 
 msgid "Add label text:"
-msgstr "Adauga eticheta text:"
+msgstr "Adaugă text pentru etichetă:"
 
 msgid "Add number input:"
-msgstr "Adauga intrare de tip numeric:"
+msgstr "Adaugă intrare de tip numeric:"
 
 msgid "Add string input:"
-msgstr "Adauga intrare de tip sir de caractere:"
+msgstr "Adaugă intrare de tip șir de caractere:"
 
 msgid "all"
 msgstr "tot"
@@ -102,7 +102,7 @@ msgid "asin"
 msgstr "asin"
 
 msgid "assets loaded"
-msgstr "bunuri incarcate"
+msgstr "materiale încărcate"
 
 msgid "atan"
 msgstr "atan"
@@ -111,40 +111,40 @@ msgid "B connected"
 msgstr "B conectat"
 
 msgid "Back a layer"
-msgstr "Un strat in spate"
+msgstr "Un strat în spate"
 
 msgid "backdrop"
-msgstr "fundal"
+msgstr "decor"
 
 msgid "Backdrop"
-msgstr "Fundal"
+msgstr "Decor"
 
 msgid "backdrop #"
 msgstr "fundal #"
 
 msgid "Backdrop Library"
-msgstr "Biblioteca Fundal"
+msgstr "Bibliotecă de Decoruri"
 
 msgid "backdrop name"
-msgstr "numele fundalului"
+msgstr "denumirea decorului"
 
 msgid "backdrop1"
-msgstr "fundal1"
+msgstr "decor1"
 
 msgid "backdrops"
-msgstr "fundaluri"
+msgstr "decoruri"
 
 msgid "Backdrops"
-msgstr "Fundaluri"
+msgstr "Decoruri"
 
 msgid "Backpack"
 msgstr "Rucsac"
 
 msgid "Bass"
-msgstr "Bass"
+msgstr "Bas"
 
 msgid "Bass Drum"
-msgstr "Toba Bass"
+msgstr "Toba Bas"
 
 msgid "Bassoon"
 msgstr "Fagot"
@@ -154,42 +154,42 @@ msgid ""
 "saved yet. Keep participating on the site you'll be able to use cloud data "
 "soon!"
 msgstr ""
-"Deoarece ai un nou cont Scratch, modificarile la informatiile din cloud inca "
-"nu vor fi salvate. Continuand sa participi pe site vei putea curnad sa "
-"folosesti informatiile din cloud!"
+"Deoarece ai un cont Scratch nou, niciuna dintre modificările făcute la "
+"informațiile din cloud nu va fi salvată încă. Continuând să fii activ pe "
+"site vei putea în curând să folosești informațiile din cloud!"
 
 msgid "Bitmap"
 msgstr "Bitmap"
 
 msgid "Bitmap Mode"
-msgstr "Mod bitmap"
+msgstr "Mod Bitmap"
 
 msgid "Block help"
-msgstr "Blocul help"
+msgstr "Ajutor despre blocuri"
 
 msgid "Bongo"
 msgstr "Bongo"
 
 msgid "brightness"
-msgstr "stralucire"
+msgstr "strălucire"
 
 msgid "Bring to front"
-msgstr "Adu in fata"
+msgstr "Adu în față"
 
 msgid "Broadcast"
-msgstr "Distribuire"
+msgstr "Difuzare"
 
 msgid "Brush"
-msgstr "Pensula"
+msgstr "Pensulă"
 
 msgid "button pressed"
-msgstr "buton apasat"
+msgstr "buton apăsat"
 
 msgid "by"
 msgstr "de"
 
 msgid "bytes loaded"
-msgstr "octeti incarcati"
+msgstr "octeți încărcați"
 
 msgid "C connected"
 msgstr "C conectat"
@@ -201,55 +201,55 @@ msgid "Camera"
 msgstr "Camera"
 
 msgid "can drag in player:"
-msgstr "poti trage un jucator:"
+msgstr "poți trage un jucator:"
 
 msgid "Cancel"
-msgstr "Renuntare"
+msgstr "Renunță"
 
 msgid "Cannot Add"
 msgstr ""
 
 msgid "Cannot Delete"
-msgstr "Nu se poate sterge"
+msgstr "Nu se poate șterge"
 
 msgid "Can’t find network connection or reach server."
-msgstr "Nu se gaseste conexiune la retea sau la server."
+msgstr "Nu se găsește conexiunea la rețea sau la server."
 
 msgid "Castle"
-msgstr "Castle"
+msgstr "Castel"
 
 msgid "Category"
-msgstr "Categorie"
+msgstr "Categoria"
 
 msgid "ceiling"
-msgstr "rotunjire"
+msgstr "rotunjire prin adaos"
 
 msgid "Cello"
 msgstr "Violoncel"
 
 msgid "Check for updates"
-msgstr ""
+msgstr "Verifică existența actualizărilor"
 
 msgid "Choir"
 msgstr "Cor"
 
 msgid "Choose backdrop from library"
-msgstr "Alege fundal din biblioteca"
+msgstr "Alege decor din bibliotecă"
 
 msgid "Choose costume from library"
-msgstr "Alege costum din biblioteca"
+msgstr "Alege costum din bibliotecă"
 
 msgid "Choose sound from library"
-msgstr "Alege sunet din biblioteca"
+msgstr "Alege sunet din bibliotecă"
 
 msgid "Choose sprite from library"
-msgstr "Alege sprite din biblioteca"
+msgstr "Alege personaj din bibliotecă"
 
 msgid "Circle"
 msgstr "Cerc"
 
 msgid "City"
-msgstr "Oras"
+msgstr "Oraș"
 
 msgid "Clarinet"
 msgstr "Clarinet"
@@ -261,16 +261,18 @@ msgid "clean up"
 msgstr ""
 
 msgid "Clear"
-msgstr "Curata"
+msgstr "Șterge"
 
 msgid "clear senders/receivers"
-msgstr "curata expeditori/destinatari"
+msgstr "șterge expeditorii/destinatarii"
 
 msgid "Click \"Save now\" to try again or \"Download\" to save"
-msgstr "Clic pentru a incerca din nou sau  pentru a salva"
+msgstr ""
+"Clic pe \"Salvează acum\" pentru a încerca din nou sau \"Descarcă\" pentru a "
+"salva"
 
 msgid "Close"
-msgstr "Inchide"
+msgstr "Închide"
 
 msgid "Closed Hi-Hat"
 msgstr "Hi-Hat inchis"
@@ -279,7 +281,7 @@ msgid "Cloud"
 msgstr "Cloud"
 
 msgid "Cloud data"
-msgstr "Informatii din cloud"
+msgstr "Informații din cloud"
 
 msgid "Cloud variable (stored on server)"
 msgstr ""
@@ -288,28 +290,28 @@ msgid "color"
 msgstr "culoare"
 
 msgid "Color a shape"
-msgstr "Coloreaza o forma"
+msgstr "Colorează o formă"
 
 msgid "Conga"
 msgstr "Conga"
 
 msgid "Connecting to Cloud data server..."
-msgstr "Se conecteaza la serverul din Cloud..."
+msgstr "Se conectează la serverul din Cloud..."
 
 msgid "Convert to bitmap"
-msgstr "Converteste la bitmap"
+msgstr "Convertește la bitmap"
 
 msgid "Convert to vector"
-msgstr "Converteste la vector"
+msgstr "Convertește în format vectorial"
 
 msgid "Converting mp3..."
 msgstr "Se converteste mp3..."
 
 msgid "copy"
-msgstr "copiaza"
+msgstr "copiază"
 
 msgid "Copying..."
-msgstr "Se copiaza..."
+msgstr "Se copiază..."
 
 msgid "cos"
 msgstr "cos"
@@ -321,7 +323,7 @@ msgid "costume #"
 msgstr "costum #"
 
 msgid "Costume Library"
-msgstr "Biblioteca de costume"
+msgstr "Bibliotecă de costume"
 
 msgid "costume name"
 msgstr "denumirea costumului"
@@ -342,7 +344,7 @@ msgid "Costumes:"
 msgstr "Costume:"
 
 msgid "Could not retrieve new application from server."
-msgstr ""
+msgstr "Aplicația nouă nu poate fi adusă de pe server"
 
 msgid "Cowbell"
 msgstr "Cowbell"
@@ -351,13 +353,13 @@ msgid "Crash Cymbal"
 msgstr "Crash Cymbal"
 
 msgid "Creating..."
-msgstr "Se creeeaza..."
+msgstr "Se creează..."
 
 msgid "Currently, only numbers can be stored in Cloud variables."
-msgstr "In acest moment, numai numerele pot fi memorate in variabile Cloud."
+msgstr "În acest moment, numai numerele pot fi memorate în variabile Cloud."
 
 msgid "cut"
-msgstr "decupeaza"
+msgstr "decupează"
 
 msgid "D connected"
 msgstr "D conectat"
@@ -366,71 +368,71 @@ msgid "date"
 msgstr "data"
 
 msgid "day of week"
-msgstr "ziua saptamanii"
+msgstr "ziua săptămânii"
 
 msgid "delete"
-msgstr "sterge"
+msgstr "șterge"
 
 # 83%
 msgid "Delete"
-msgstr "Sterge"
+msgstr "Șterge"
 
 msgid "delete variable"
-msgstr "sterge variabila"
+msgstr "șterge variabila"
 
 msgid "direction"
-msgstr "directie"
+msgstr "direcția"
 
 msgid "direction:"
-msgstr "directie:"
+msgstr "direcția:"
 
 msgid "don't rotate"
 msgstr "nu roti"
 
 msgid "Don't save"
-msgstr ""
+msgstr "Nu salva"
 
 msgid "down"
 msgstr "jos"
 
 msgid "down arrow"
-msgstr "sageata jos"
+msgstr "săgeată jos"
 
 msgid "Download"
-msgstr "Descarca"
+msgstr "Descarcă"
 
 msgid "Download to your computer"
-msgstr "Descarca pe calculatorul tau"
+msgstr "Descarcă pe calculatorul tău"
 
 msgid "Downloading new version"
 msgstr ""
 
 msgid "duplicate"
-msgstr "duplica"
+msgstr "duplică"
 
 msgid "Duplicate"
-msgstr "Duplica"
+msgstr "Duplică"
 
 msgid "e ^"
 msgstr "e ^"
 
 msgid "edge"
-msgstr "margine"
+msgstr "marginea"
 
 msgid "Edit"
-msgstr "Editeaza"
+msgstr "Editează"
 
 msgid "edit"
-msgstr "editeaza"
+msgstr "editează"
 
 msgid "Edit Block"
-msgstr "Editeaza blocul"
+msgstr "Editează blocul"
 
 msgid "Effects"
 msgstr "Efecte"
 
 msgid "Electric Guitar"
-msgstr "Chitara electrica"
+msgstr "Chitară electrică"
 
 msgid "Electric Piano"
 msgstr "Pian electric"
@@ -439,13 +441,13 @@ msgid "Electronic"
 msgstr "Electronic"
 
 msgid "Ellipse"
-msgstr "Elipsa"
+msgstr "Elipsă"
 
 msgid "empty"
 msgstr ""
 
 msgid "Erase"
-msgstr "Curata"
+msgstr "Șterge"
 
 msgid "Erase all"
 msgstr ""
@@ -460,7 +462,7 @@ msgid "everything"
 msgstr ""
 
 msgid "export"
-msgstr ""
+msgstr "exportă"
 
 msgid "Extension Library"
 msgstr ""
@@ -484,19 +486,19 @@ msgid "Features"
 msgstr "Caracteristici"
 
 msgid "File"
-msgstr "Fisier"
+msgstr "Fișier"
 
 msgid "Fill with color"
 msgstr "Umple cu culoare"
 
 msgid "fisheye"
-msgstr "ochi de peste"
+msgstr "ochi de pește"
 
 msgid "Flip left-right"
-msgstr "Oglindeste orizontal"
+msgstr "Oglindește orizontal"
 
 msgid "Flip up-down"
-msgstr "Oglindeste vertical"
+msgstr "Oglindește vertical"
 
 msgid "floor"
 msgstr "partea intreaga"
@@ -508,43 +510,43 @@ msgid "Flying"
 msgstr "Zbor"
 
 msgid "Font:"
-msgstr ""
+msgstr "Font:"
 
 msgid "For all sprites"
-msgstr "Pentru toate sprite-urile"
+msgstr "Pentru toate personajele"
 
 msgid "For this sprite only"
-msgstr "Doar pentru acest sprite"
+msgstr "Doar pentru acest personaj"
 
 msgid "Forward a layer"
-msgstr "Inainteaza un strat"
+msgstr "Avansează un strat"
 
 msgid "ghost"
-msgstr "fantoma"
+msgstr "fantomă"
 
 msgid "Go to My Stuff"
 msgstr "Mergi la lucrurile mele"
 
 msgid "Group"
-msgstr "Grupeaza"
+msgstr "Grupează"
 
 msgid "Grow"
-msgstr "Mareste"
+msgstr "Mărește"
 
 msgid "Guiro"
 msgstr "Guiro"
 
 msgid "Guitar"
-msgstr "Chitara"
+msgstr "Chitară"
 
 msgid "Hand Clap"
-msgstr "Bataie din palme"
+msgstr "Bătaie din palme"
 
 msgid "Hardware"
-msgstr ""
+msgstr "Hardware"
 
 msgid "help"
-msgstr ""
+msgstr "ajutor"
 
 msgid "Hello!"
 msgstr ""
@@ -563,7 +565,7 @@ msgid "High C"
 msgstr "Do de sus"
 
 msgid "Holiday"
-msgstr ""
+msgstr "Vacanță"
 
 msgid "hour"
 msgstr "ora"
@@ -572,51 +574,50 @@ msgid "Human"
 msgstr "Uman"
 
 # 83%
-#, fuzzy
 msgid "import"
-msgstr "Importa"
+msgstr "importă"
 
 msgid "Import"
-msgstr "Importa"
+msgstr "Importă"
 
 msgid "Importing sound..."
-msgstr "Se importa sunet..."
+msgstr "Se importă sunet..."
 
 msgid "Indoors"
-msgstr "In interior"
+msgstr "Interioare"
 
 msgid "Installing..."
-msgstr "Se instaleaza..."
+msgstr "Se instalează..."
 
 msgid "Instruments"
 msgstr "Instrumente"
 
 msgid "large readout"
-msgstr ""
+msgstr "afișaj mare"
 
 msgid "last"
-msgstr "ultimul"
+msgstr "ultim"
 
 msgid "left"
-msgstr "stanga"
+msgstr "stânga"
 
 msgid "left arrow"
-msgstr "sageata stanga"
+msgstr "săgeată stânga"
 
 msgid "left-right"
-msgstr "de la stanga la dreapta"
+msgstr "stânga-dreapta"
 
 msgid "length"
-msgstr ""
+msgstr "lungime"
 
 msgid "Letters"
-msgstr ""
+msgstr "Litere"
 
 msgid "Library"
-msgstr "Biblioteca"
+msgstr "Bibliotecă"
 
 msgid "light"
-msgstr "lumina"
+msgstr "lumină"
 
 # 83%
 #, fuzzy
@@ -634,7 +635,7 @@ msgstr "Grosimea liniei"
 
 # 75%
 msgid "list"
-msgstr "lista"
+msgstr "listă"
 
 msgid "List name"
 msgstr "Denumirea listei"
@@ -643,7 +644,7 @@ msgid "ln"
 msgstr "ln"
 
 msgid "Loading project..."
-msgstr "Se incarca proiectul..."
+msgstr "Se încarcă proiectul..."
 
 msgid "log"
 msgstr "log"
@@ -652,19 +653,19 @@ msgid "louder"
 msgstr "mai tare"
 
 msgid "loudness"
-msgstr "putere"
+msgstr "intensitatea sunetului"
 
 msgid "Low C"
 msgstr "Do de jos"
 
 msgid "Make a Block"
-msgstr "Creeaza un bloc"
+msgstr "Creează un Bloc"
 
 msgid "Make a List"
-msgstr "Creeaza o lista"
+msgstr "Creează o Listă"
 
 msgid "Make a Variable"
-msgstr "Creeaza o variabila"
+msgstr "Creează o Variabilă"
 
 msgid "Marimba"
 msgstr "Marimba"
@@ -676,7 +677,7 @@ msgid "meow"
 msgstr "miau"
 
 msgid "Message Name"
-msgstr "Titlul mesajului"
+msgstr "Denumirea mesajului"
 
 msgid "message1"
 msgstr "mesaj1"
@@ -689,7 +690,7 @@ msgid "Middle C"
 msgstr "Do central"
 
 msgid "Min"
-msgstr "Min"
+msgstr "Minim"
 
 msgid "minute"
 msgstr "minut"
@@ -701,7 +702,7 @@ msgid "mosaic"
 msgstr "mozaic"
 
 msgid "motion"
-msgstr "miscare"
+msgstr "mișcare"
 
 msgid "motor"
 msgstr ""
@@ -719,13 +720,13 @@ msgid "Multiple"
 msgstr "Multiplu"
 
 msgid "Music and Dance"
-msgstr "Muzica si dans"
+msgstr "Muzică și Dans"
 
 msgid "Music Box"
-msgstr "Cutie muzicala"
+msgstr "Cutie muzicală"
 
 msgid "Music Loops"
-msgstr "Repetitii muzica"
+msgstr "Repetiții muzicale"
 
 msgid "My Stuff"
 msgstr "Lucrurile mele"
@@ -734,67 +735,67 @@ msgid "myself"
 msgstr "eu"
 
 msgid "Nature"
-msgstr "Natura"
+msgstr "Natură"
 
 msgid "New"
 msgstr "Nou"
 
 msgid "New backdrop from camera"
-msgstr "Fundal nou pentru camera"
+msgstr "Decor nou de la cameră"
 
 msgid "New backdrop:"
-msgstr "Fundal nou:"
+msgstr "Decor nou:"
 
 msgid "New Block"
-msgstr ""
+msgstr "Bloc Nou"
 
 msgid "New costume from camera"
-msgstr "Costum nou de la camera"
+msgstr "Costum nou de la cameră"
 
 msgid "New costume:"
 msgstr "Costum nou:"
 
 msgid "New List"
-msgstr "Lista noua"
+msgstr "Listă Nouă"
 
 msgid "New Message"
-msgstr ""
+msgstr "Mesaj Nou"
 
 msgid "new message..."
 msgstr "mesaj nou..."
 
 msgid "New name"
-msgstr "Denumire noua"
+msgstr "Denumire nouă"
 
 msgid "New sound:"
 msgstr "Sunet nou:"
 
 msgid "New sprite from camera"
-msgstr "Sprite nou de la camera"
+msgstr "Personaj nou de la cameră"
 
 msgid "New sprite:"
-msgstr "Sprite nou:"
+msgstr "Personaj nou:"
 
 msgid "New Variable"
-msgstr "Variabila noua"
+msgstr "Variabilă Nouă"
 
 msgid "next backdrop"
-msgstr ""
+msgstr "următorul decor"
 
 msgid "No motion blocks"
-msgstr "Niciun bloc de miscare"
+msgstr "Niciun bloc de mișcare"
 
 msgid "normal readout"
-msgstr ""
+msgstr "afișaj normal"
 
 msgid "not ="
 msgstr ""
 
 msgid "Not saved; network or server problem."
-msgstr "Nu s-a salvat; probleme la retea sau server."
+msgstr "Nu s-a salvat; probleme la rețea sau server."
 
 msgid "Not saved; project did not load."
-msgstr "Nu s-a salvat; proiectul nu s-a incarcat."
+msgstr "Nu s-a salvat; proiectul nu s-a încărcat."
 
 msgid "of"
 msgstr "al"
@@ -803,7 +804,7 @@ msgid "off"
 msgstr "oprit"
 
 msgid "Offline Editor"
-msgstr ""
+msgstr "Editor fără conexiune Internet"
 
 msgid "OK"
 msgstr "OK"
@@ -815,7 +816,7 @@ msgid "on-flipped"
 msgstr "oglindit"
 
 msgid "Open"
-msgstr ""
+msgstr "Deschide"
 
 msgid "Open Cuica"
 msgstr "Open Cuica"
@@ -824,50 +825,49 @@ msgid "Open Hi-Hat"
 msgstr "Open Hi-Hat"
 
 msgid "Options"
-msgstr "Optiuni"
+msgstr "Opțiuni"
 
 msgid "Organ"
-msgstr "Orga"
+msgstr "Orgă"
 
 msgid "Other"
 msgstr "Altele"
 
 msgid "other scripts in sprite"
-msgstr "alte script-uri pentru sprite"
+msgstr "celelalte scripturi ale personajului"
 
-#, fuzzy
 msgid "other scripts in stage"
-msgstr "alte script-uri pentru sprite"
+msgstr "alte script-uri pentru scenă"
 
 msgid "Outdoors"
-msgstr "In aer liber"
+msgstr "Exterioare"
 
 msgid "Paint new backdrop"
-msgstr "Deseneaza un nou fundal"
+msgstr "Desenează un decor nou"
 
 msgid "Paint new costume"
-msgstr "Deseneaza un costum nou"
+msgstr "Desenează un costum nou"
 
 msgid "Paint new sprite"
-msgstr "Deseneaza un sprite nou"
+msgstr "Desenează un personaj nou"
 
 msgid "Password"
-msgstr ""
+msgstr "Parolă"
 
 msgid "Password is required"
-msgstr ""
+msgstr "Necesită parolă"
 
 msgid "paste"
-msgstr "lipeste"
+msgstr "lipește"
 
 msgid "Pencil"
 msgstr "Creion"
 
 msgid "People"
-msgstr "Personaje"
+msgstr "Oameni"
 
 msgid "Percussion"
-msgstr "Percutie"
+msgstr "Percuție"
 
 msgid "photo1"
 msgstr "poza1"
@@ -888,62 +888,62 @@ msgid "pop"
 msgstr "pop"
 
 msgid "previous backdrop"
-msgstr ""
+msgstr "decorul anterior"
 
 msgid "Profile"
 msgstr "Profil"
 
 msgid "Project did not load."
-msgstr "Proiectul nu s-a incarcat."
+msgstr "Proiectul nu s-a încărcat."
 
 msgid "Project not saved!"
 msgstr "Proiectul nu a fost salvat!"
 
 msgid "Project name"
-msgstr ""
+msgstr "Denumirea proiectului"
 
 msgid "Project name is required"
-msgstr ""
+msgstr "Denumirea proiectului este necesară"
 
 msgid "random"
 msgstr "aleator"
 
 msgid "Record"
-msgstr "Inregistrare"
+msgstr "Înregistrare"
 
 msgid "Record new sound"
-msgstr "Inregistrare sunet nou"
+msgstr "Înregistrează sunet nou"
 
 msgid "record..."
-msgstr ""
+msgstr "se înregistrează..."
 
 msgid "recording1"
-msgstr "inregistrare1"
+msgstr "înregistrare1"
 
 msgid "Rectangle"
 msgstr "Dreptunghi"
 
 # 75%
 msgid "Redo"
-msgstr "Repeta"
+msgstr "Refă acțiunea anulată"
 
 msgid "redo"
-msgstr "repeta"
+msgstr "refă acțiunea anulată"
 
 msgid "Remix"
-msgstr "Amesteca"
+msgstr "Remixează"
 
 msgid "Remixing..."
-msgstr "Se amesteca..."
+msgstr "Se remixează..."
 
 msgid "Remove extension blocks"
 msgstr ""
 
 msgid "Rename"
-msgstr "Redenumeste"
+msgstr "Redenumește"
 
 msgid "rename variable"
-msgstr "redenumeste variabila"
+msgstr "redenumește variabila"
 
 msgid "Replace existing project"
 msgstr ""
@@ -952,76 +952,76 @@ msgid "requires sign in"
 msgstr "este necesara logarea"
 
 msgid "Reshape"
-msgstr "Remodeleaza"
+msgstr "Remodelează"
 
 msgid "resistance-A"
-msgstr "rezistenta-A"
+msgstr "rezistența-A"
 
 msgid "resistance-B"
-msgstr "rezistenta-B"
+msgstr "rezistența-B"
 
 msgid "resistance-C"
-msgstr "rezistenta-C"
+msgstr "rezistența-C"
 
 msgid "resistance-D"
-msgstr "rezistenta-D"
+msgstr "rezistența-D"
 
 msgid "reverse"
-msgstr "inversare"
+msgstr "Inversează"
 
 msgid "Revert"
 msgstr "Inversare"
 
 msgid "Reverting..."
-msgstr "Se inverseaza..."
+msgstr "Se inversează..."
 
 msgid "right"
 msgstr "dreapta"
 
 msgid "right arrow"
-msgstr "sageata dreapta"
+msgstr "săgeată dreapta"
 
 msgid "rotation style:"
 msgstr "stil de rotire:"
 
 msgid "Run without screen refresh"
-msgstr "Ruleaza fara improspatarea ecranului"
+msgstr "Rulează fără împrospătarea ecranului"
 
 msgid "Save"
-msgstr "Salveaza"
+msgstr "Salvează"
 
 msgid "Save a copy of this project and add your own ideas."
-msgstr ""
+msgstr "Salvează o copie a acestui proiect si adaugă-ți propriile idei."
 
 msgid "Save as"
-msgstr ""
+msgstr "Salvează ca"
 
 msgid "Save as a copy"
 msgstr "Salveaza o copie"
 
 msgid "Save now"
-msgstr "Salveaza acum"
+msgstr "Salvează acum"
 
 msgid "Save project?"
-msgstr ""
+msgstr "Salvezi proiectul?"
 
 msgid "save to local file"
-msgstr "salveaza in fisier local"
+msgstr "salvează într-un fișier local"
 
 msgid "Saved"
 msgstr "Salvat"
 
 msgid "Saving changes..."
-msgstr "Se salveaza modificarile..."
+msgstr "Se salvează modificările..."
 
 msgid "Saving..."
-msgstr "Se salveaza..."
+msgstr "Se salvează..."
 
 msgid "Saxophone"
 msgstr "Saxofon"
 
 msgid "Scratch Updater"
-msgstr ""
+msgstr "Programul pentru actualizarea Scratch"
 
 msgid "Scratch 2.0 Offline Editor"
 msgstr ""
@@ -1030,7 +1030,7 @@ msgid "Script"
 msgstr "Script"
 
 msgid "Scripts"
-msgstr "Script-uri"
+msgstr "Scripturi"
 
 msgid "Scripts:"
 msgstr "Script-uri:"
@@ -1047,25 +1047,25 @@ msgid ""
 msgstr ""
 
 msgid "Select"
-msgstr "Selecteaza"
+msgstr "Selectează"
 
 msgid "select all"
-msgstr "selecteaza tot"
+msgstr "selectează tot"
 
 msgid "Select and duplicate"
-msgstr "Selecteaza si fa o copie"
+msgstr "Selectează și creează o copie"
 
 msgid "Send to back"
-msgstr "Trimite in spate"
+msgstr "Trimite în spate"
 
 msgid "Set Costume Center"
-msgstr "Stabileste centrul costumului"
+msgstr "Setează Centrul Costumului"
 
 msgid "Set costume center"
-msgstr "Stabileste centrul costumului"
+msgstr "Setează centrul costumului"
 
 msgid "set slider min and max"
-msgstr ""
+msgstr "setează minimul și maximul indicatorului"
 
 msgid "Share"
 msgstr "Partajeaza"
@@ -1086,37 +1086,37 @@ msgid "show"
 msgstr "afiseaza"
 
 msgid "show receivers"
-msgstr "afiseaza destinatarii"
+msgstr "afișează destinatarii"
 
 msgid "show senders"
-msgstr "afiseaza expeditorii"
+msgstr "afișează expeditorii"
 
 msgid "show:"
 msgstr "afiseaza:"
 
 msgid "Shrink"
-msgstr "Micsoreaza"
+msgstr "Micșorează"
 
 msgid "Side Stick"
 msgstr "Side stick"
 
 msgid "Sign in"
-msgstr "Logare"
+msgstr "Autentificare"
 
 msgid "Sign in to save"
-msgstr "Logheaza-te pentru a salva"
+msgstr "Autentifică-te pentru a salva"
 
 msgid "Sign out"
 msgstr "Iesire"
 
 msgid "silence"
-msgstr "liniste"
+msgstr "liniște"
 
 msgid "sin"
 msgstr "sin"
 
 msgid "size"
-msgstr "dimensiune"
+msgstr "dimensiunea"
 
 msgid "slider"
 msgstr "indicator"
@@ -1134,7 +1134,7 @@ msgid "Snare Drum"
 msgstr "Snare Drum"
 
 msgid "softer"
-msgstr "mai usor"
+msgstr "mai încet"
 
 msgid "sound"
 msgstr "sunet"
@@ -1143,46 +1143,46 @@ msgid "Sound"
 msgstr "Sunet"
 
 msgid "Sound Library"
-msgstr "Biblioteca de sunete"
+msgstr "Bibliotecă de Sunete"
 
 msgid "Sounds"
 msgstr "Sunete"
 
 # 80%
 msgid "Space"
-msgstr "Spatiu"
+msgstr "Spațiu"
 
 msgid "space"
-msgstr "spatiu"
+msgstr "spațiu"
 
 msgid "Sports"
 msgstr "Sporturi"
 
 # 85%
 msgid "Sprite"
-msgstr "Sprite"
+msgstr "Personaj"
 
 msgid "Sprite Library"
-msgstr "Biblioteca de sprite-uri"
+msgstr "Bibliotecă de Personaje"
 
 # 85%
 msgid "Sprite1"
-msgstr "Sprite1"
+msgstr "Personaj1"
 
 msgid "Sprites"
-msgstr "Sprite-uri"
+msgstr "Personaje"
 
 msgid "sqrt"
-msgstr "sqrt"
+msgstr "radical"
 
 msgid "Square"
-msgstr "Patrat"
+msgstr "Pătrat"
 
 msgid "Stage"
-msgstr "Scena"
+msgstr "Scenă"
 
 msgid "Stage selected:"
-msgstr "Scena selectata:"
+msgstr "Scena selectată:"
 
 msgid "Steel Drum"
 msgstr "Steel Drum"
@@ -1197,14 +1197,13 @@ msgid "Synth Pad"
 msgstr "Synth Pad"
 
 msgid "Tambourine"
-msgstr "Tamburina"
+msgstr "Tamburină"
 
 msgid "tan"
 msgstr "tan"
 
-#, fuzzy
 msgid "text"
-msgstr "Text"
+msgstr "text"
 
 msgid "Text"
 msgstr "Text"
@@ -1230,34 +1229,34 @@ msgid "thing"
 msgstr ""
 
 msgid "This is the current version."
-msgstr ""
+msgstr "Aceasta este versiunea curentă."
 
 msgid ""
 "This project can detect who is using it, through the “username” block. To "
 "hide your identity, sign out before using the project."
 msgstr ""
-"Acest proiect poate detecta cine il foloseste, cu ajutorul blocului \""
-"username\". Pentru a-ti scunde identitatea, iesi din cont inainte de a "
+"Acest proiect poate detecta cine îl foloseste, cu ajutorul blocului \"nume "
+"utilizator\". Pentru a-ți ascunde identitatea, ieși din cont înainte de a "
 "folosi proiectul."
 
 msgid ""
 "This project uses Cloud data ‒ a feature that is available only to signed in "
 "users."
 msgstr ""
-"Acest proiect foloseste informatii din cloud - o facilitate ce este "
-"disponibila numai utilizatorilor logati."
+"Acest proiect folosește informații din cloud - o facilitate ce este "
+"disponibilă numai utilizatorilor autentificați."
 
 msgid "this script"
 msgstr "acest script"
 
 msgid "this sprite"
-msgstr "acest sprite"
+msgstr "acest personaj"
 
 msgid "this way"
 msgstr "in acest fel"
 
 msgid "Throw away all changes since opening this project?"
-msgstr "Renunti la toate modificarile facute de la deschiderea proiectului?"
+msgstr "Renunți la toate modificările făcute de la deschiderea proiectului?"
 
 msgid "timer"
 msgstr "cronometru"
@@ -1267,11 +1266,11 @@ msgstr "Sfaturi"
 
 msgid "To delete a block definition, first remove all uses of the block."
 msgstr ""
-"Pentru a sterge definitia unui bloc, mai intai sterge toate utilizarile "
-"blocului."
+"Pentru a șterge definiția blocului, mai întâi ștergeți toate instanțierile "
+"acelui bloc."
 
 msgid "Transportation"
-msgstr "Mijloace de transport"
+msgstr "Transport"
 
 msgid "Triangle"
 msgstr "Triunghi"
@@ -1286,30 +1285,30 @@ msgid "Turbo mode"
 msgstr "Modul turbo"
 
 msgid "Turbo Mode"
-msgstr "Modul turbo"
+msgstr "Modul Turbo"
 
 msgid "Type"
 msgstr "Tip"
 
 # 75%
 msgid "Undelete"
-msgstr "Nu sterge"
+msgstr "Restaurează"
 
 msgid "Underwater"
-msgstr "Intinat"
+msgstr "Subacvatic"
 
 msgid "undo"
-msgstr "anuleaza ultima operatie"
+msgstr "anulează ultima modificare"
 
 # 75%
 msgid "Undo"
-msgstr "Anuleaza ultima operatie"
+msgstr "Anulează ultima modificare"
 
 msgid "Undo Revert"
-msgstr "Inainte de inversare"
+msgstr "Anulează toate modificările"
 
 msgid "Ungroup"
-msgstr "Degrupeaza"
+msgstr "Degrupează"
 
 msgid "unshared"
 msgstr "nepartajat"
@@ -1318,52 +1317,52 @@ msgid "up"
 msgstr "sus"
 
 msgid "up arrow"
-msgstr "sageata sus"
+msgstr "săgeată sus"
 
 msgid "Update failed"
-msgstr ""
+msgstr "Actualizarea a eșuat"
 
 msgid "Update not needed"
-msgstr ""
+msgstr "Nu este necesară actualizarea"
 
 msgid "Update now"
-msgstr ""
+msgstr "Actualizează acum"
 
 msgid "Upload backdrop from file"
-msgstr "Incarca fundal din fisier"
+msgstr "Încarcă decor din fișier"
 
 msgid "Upload costume from file"
-msgstr "Incarca un costum din fisier"
+msgstr "Încarcă un costum din fișier"
 
 msgid "Upload from your computer"
-msgstr "Incarca de pe calculator"
+msgstr "Încarcă de pe calculator"
 
 msgid "Upload sound from file"
-msgstr "Incarca sunet din fisier"
+msgstr "Încarcă sunet din fișier"
 
 msgid "Upload sprite from file"
-msgstr "Incarca sprite din fisier"
+msgstr "Încarcă personaj din fișier"
 
 msgid "Uploading image..."
-msgstr "Se incarca imagine..."
+msgstr "Se încarcă imagine..."
 
 msgid "Uploading sound..."
-msgstr "Se incarca sunet..."
+msgstr "Se încarcă sunet..."
 
 msgid "Uploading sprite..."
-msgstr "Se incarca sprite..."
+msgstr "Se încarcă personaj..."
 
 msgid "variable"
-msgstr "variabila"
+msgstr "variabilă"
 
 msgid "Variable name"
-msgstr "Denumire variabila"
+msgstr "Denumire variabilă"
 
 msgid "Vector"
-msgstr "Vector"
+msgstr "Vectorial"
 
 msgid "Vector Mode"
-msgstr "Modul vector"
+msgstr "Modul vectorial"
 
 msgid "Vibraphone"
 msgstr "Vibrafon"
@@ -1372,10 +1371,10 @@ msgid "Vibraslap"
 msgstr "Vibraslap"
 
 msgid "video direction"
-msgstr ""
+msgstr "direcția video"
 
 msgid "video motion"
-msgstr "miscare video"
+msgstr "mișcarea video"
 
 msgid "Video on:"
 msgstr "Video:"
@@ -1384,54 +1383,53 @@ msgid "Vocals"
 msgstr "Voci"
 
 msgid "volume"
-msgstr "volum"
+msgstr "volumul"
 
 msgid "Walking"
 msgstr "Plimbare"
 
 msgid "Want to save? Click remix"
-msgstr "Vrei sa salvezi? Clic pentru amestecare"
+msgstr "Vrei să salvezi? Clic pe remixare"
 
 msgid "Which column do you want to import"
-msgstr "Care coloana vrei sa o importi"
+msgstr "Care coloană vrei să o imporți?"
 
 msgid "What's your name?"
 msgstr ""
 
 msgid "whirl"
-msgstr "vartej"
+msgstr "vârtej"
 
 msgid "Wood Block"
 msgstr "Bloc de lemn"
 
 msgid "Wooden Flute"
-msgstr "Flaut din lemn"
+msgstr "Flaut de lemn"
 
 msgid "world"
 msgstr ""
 
 msgid "x position"
-msgstr "pozitia lui x"
+msgstr "poziția x"
 
 msgid "y position"
-msgstr "pozitia lui y"
+msgstr "poziția y"
 
 msgid "year"
-msgstr "an"
+msgstr "anul"
 
 msgid ""
 "You cannot edit cloud data in someone else's project.<br>Any change that you "
 "make in the editor will be temporary and not persistent."
 msgstr ""
-"Nu poti sa editezi informatiile din cloud inttr-un proiect ce apartine "
-"altcuiva.<br>Orice modificare pe care o faci este temporara si nu se va "
-"pastra."
+"Nu poți edita informațiile din cloud într-un proiect care aparține altcuiva. "
+"<br>Orice modificare pe care o faci este temporară și nu se va păstra."
 
 msgid "Your Scratch name"
-msgstr ""
+msgstr "Numele tău Scratch"
 
 msgid "Your Scratch name is required"
-msgstr ""
+msgstr "Numele tău Scratch este necesar"
 
 msgid ""
 "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
@@ -1458,77 +1456,79 @@ msgstr "Grosimea liniei"
 
 # Offline editor only
 msgid "All Tips"
-msgstr ""
+msgstr "Toate Sfaturile"
 
 # Offline editor only
 msgid ""
 "An updated version of the Scratch offline editor is available on the Scratch "
 "website."
 msgstr ""
+"O versiune actualizată a editorului Scratch offline este disponibilă pe site-"
+"ul Scratch."
 
 # Offline editor only
 msgid "Could not retrieve update location from server."
-msgstr ""
+msgstr "Nu se poate regăsi pe server locația de actualizare."
 
 # Offline editor only
 msgid "Could not retrieve version information from server."
-msgstr ""
+msgstr "Nu se poate regăsi pe server informația despre versiune."
 
 # Offline editor only
 msgid "Could not write file:"
-msgstr ""
+msgstr "Nu se poate scrie fișierul:"
 
 # Offline editor only
 msgid "Downloading new version..."
-msgstr ""
+msgstr "Se descarcă versiunea nouă..."
 
 # Offline editor only
 msgid "Error saving project"
-msgstr ""
+msgstr "Eroare la salvarea proiectului"
 
 # Offline editor only
 msgid "Force help file update"
-msgstr ""
+msgstr "Forțează actualizarea fișierului de ajutor"
 
 # Offline editor only
 msgid "Import experimental HTTP extension"
-msgstr ""
+msgstr "Importă extensia HTTP experimentală"
 
 # Offline editor only
 msgid "Loading help files..."
-msgstr ""
+msgstr "Se încarcă fișierele pentru ajutor…"
 
 # Offline editor only
 msgid "Manual Update Available"
-msgstr ""
+msgstr "Este diponibilă o actualizare a manualului"
 
 # Offline editor only
 msgid "Open Project"
-msgstr ""
+msgstr "Deschide Proiect"
 
 # Offline editor only
 msgid "Please visit the download page to install it."
-msgstr ""
+msgstr "Vizitează pagina de descărcare pentru a-l instala."
 
 # Offline editor only
 msgid "Quit"
-msgstr ""
+msgstr "Ieșire"
 
 # Offline editor only
 msgid "Replace existing project?"
-msgstr ""
+msgstr "Înlocuiești proiectul existent?"
 
 # Offline editor only
 msgid "Running pre-release"
-msgstr ""
+msgstr "Rulează versiunea preliminară"
 
 # Offline editor only
 msgid "Save Project"
-msgstr ""
+msgstr "Salvează Proiectul"
 
 # Offline editor only
 msgid "Server error:"
-msgstr ""
+msgstr "Eroare server:"
 
 # Offline editor only
 msgid "Share to Scratch Website"
@@ -1536,27 +1536,27 @@ msgstr ""
 
 # Offline editor only
 msgid "Success"
-msgstr ""
+msgstr "Succes"
 
 # Offline editor only
 msgid "This version is newer than the current release version."
-msgstr ""
+msgstr "Această versiune este mai nouă decât versiunea curentă."
 
 # Offline editor only
 msgid "Update check failed"
-msgstr ""
+msgstr "Verificarea actualizării a eșuat"
 
 # Offline editor only
 msgid "Upload failed"
-msgstr ""
+msgstr "Încărcarea a eșuat"
 
 # Offline editor only
 msgid "Visit download page"
-msgstr ""
+msgstr "Vizitează pagina de descărcare"
 
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
-msgstr ""
+msgstr "Proiectul tău a fost încărcat pe scratch.mit.edu"
 
 #~ msgid "Microphone Volume:"
 #~ msgstr "Volumul microfonului:"

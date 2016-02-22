@@ -2064,10 +2064,10 @@ msgid "any"
 msgstr "qualquer dos"
 
 msgid "Record Project Video"
-msgstr ""
+msgstr "Gravar Vídeo do Projecto"
 
 msgid "Remove Background"
-msgstr ""
+msgstr "Remover o Fundo"
 
 #~ msgid "when Stage clicked"
 #~ msgstr "Quando alguém clicar no palco"

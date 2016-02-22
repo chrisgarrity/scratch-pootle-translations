@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2016-02-16 19:07+0000\n"
+"PO-Revision-Date: 2016-02-18 19:05+0000\n"
 "Last-Translator: Karl Ove <karl@huftis.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nn\n"
@@ -12,11 +12,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1455649670.000000\n"
+"X-POOTLE-MTIME: 1455822352.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
-msgstr ""
+msgstr "Norsk (nynorsk)"
 
 msgid "%b and %b"
 msgstr "%b og %b"
@@ -27,9 +27,8 @@ msgstr "%b eller %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute av %m.spriteOrStage"
 
-#, fuzzy
 msgid "%m.list contains %s"
-msgstr "%m.list inneheld %s?"
+msgstr "%m.list inneheld %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp av %n"
@@ -472,7 +471,7 @@ msgid "when I start as a clone"
 msgstr "når eg startar som klon"
 
 msgid "when Stage clicked"
-msgstr ""
+msgstr "når scena vert trykt på"
 
 msgid "when this sprite clicked"
 msgstr "når denne figuren vert trykt på"
@@ -487,63 +486,32 @@ msgid "y position"
 msgstr "y-posisjon"
 
 # 89%
-#, fuzzy
 msgid "set motor direction %m.motorDirection"
-msgstr "set %m.motor2-retning til %m.motorDirection"
+msgstr "set motorretning til %m.motorDirection"
 
 # 77%
-#, fuzzy
 msgid "set motor power %n"
-msgstr "set %m.motor-styrke til %n"
+msgstr "set motorstyrke til %n"
 
-#, fuzzy
 msgid "turn motor off"
-msgstr "slå av %m.motor"
+msgstr "slå motoren av"
 
-#, fuzzy
 msgid "turn motor on"
-msgstr "slå på %m.motor"
+msgstr "slå motoren på"
 
 # 80%
-#, fuzzy
 msgid "turn motor on for %n secs"
-msgstr "slå på %m.motor i %n sekund"
+msgstr "slå motoren på i %n sekund"
 
 msgid "when distance < %n"
-msgstr ""
+msgstr "når avstanden < %n"
 
 msgid "when tilt = %n"
-msgstr ""
+msgstr "når hellinga er %n"
 
 #: commands-online.txt:7 commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list inneheld %s?"
-
-msgid "10 ^"
-msgstr "10^"
-
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank"
-"\">see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Informasjon om nettdata</b><br>&nbsp; <br>Inntil vidare er det berre "
-"mogleg å lagra tal.<br>Prateromsfunksjonar er ikkje tillatne, og vert fjerna."
-"<br>Sjå <a href=\"/help/faq/#clouddata\" target=\"_blank\">ofte stilte "
-"spørsmål</a> for meir informasjon."
-
-msgid "A connected"
-msgstr "A tilkopla"
-
-msgid "a copy of the project file on your computer."
-msgstr "ein kopi av prosjektfila på datamaskina."
-
-msgid "A newer version of Scratch is available"
-msgstr "Ein nyare versjon av Scratch er tilgjengeleg"
-
-msgid "About"
-msgstr "Info"
 
 msgid "About LEGO WeDo extension..."
 msgstr ""
@@ -551,33 +519,8 @@ msgstr ""
 msgid "About PicoBoard extension..."
 msgstr ""
 
-msgid "abs"
-msgstr "abs"
-
-msgid "Account settings"
-msgstr "Innstillingar"
-
-msgid "acos"
-msgstr "arccos"
-
-msgid "Add"
-msgstr "Legg til"
-
-msgid "Add an Extension"
-msgstr "Hent tilleggsfunksjon"
-
-# 90%
-msgid "Add boolean input:"
-msgstr "Logisk verdi inn:"
-
-msgid "add comment"
-msgstr "skriv kommentar"
-
 msgid "add comment here..."
 msgstr ""
-
-msgid "Add label text:"
-msgstr "Tekst i klossen:"
 
 # 89%
 msgid "Add number input:"
@@ -597,7 +540,7 @@ msgid "all around"
 msgstr "roter fritt"
 
 msgid "all motors"
-msgstr ""
+msgstr "alle motorar"
 
 msgid "Animal"
 msgstr "Dyr"
@@ -712,12 +655,11 @@ msgid "Cancel"
 msgstr "Avbryt"
 
 msgid "Cannot Add"
-msgstr ""
+msgstr "Kan ikkje leggja til"
 
 msgid "Cannot Delete"
 msgstr "Kan ikkje sletta"
 
-#, fuzzy
 msgid "Can’t find network connection or reach server."
 msgstr "Får ikkje tilgang til nettverk/tenar."
 
@@ -790,7 +732,7 @@ msgid "Cloud data"
 msgstr "Nettdata"
 
 msgid "Cloud variable (stored on server)"
-msgstr ""
+msgstr "Nettvariabel (lagra på Scratch-nettstaden)"
 
 msgid "color"
 msgstr "farge"
@@ -910,7 +852,7 @@ msgid "Download to your computer"
 msgstr "Last ned til maskina"
 
 msgid "Downloading new version"
-msgstr ""
+msgstr "Lastar ned ny versjon"
 
 msgid "duplicate"
 msgstr "lag ein kopi"
@@ -949,13 +891,13 @@ msgid "Ellipse"
 msgstr "Ellipse"
 
 msgid "empty"
-msgstr ""
+msgstr "tom"
 
 msgid "Erase"
 msgstr "Slett"
 
 msgid "Erase all"
-msgstr ""
+msgstr "Slett alt"
 
 msgid "Eraser width"
 msgstr "Viskelêrbreidd"
@@ -964,16 +906,16 @@ msgid "Error!"
 msgstr "Feil"
 
 msgid "everything"
-msgstr ""
+msgstr "alt"
 
 msgid "export"
 msgstr "eksporter"
 
 msgid "Extension Library"
-msgstr ""
+msgstr "Tilleggsfunksjonar"
 
 msgid "Extension Problem"
-msgstr ""
+msgstr "Problem med tilleggsfunksjonen"
 
 msgid "fade in"
 msgstr "inntoning"
@@ -982,7 +924,7 @@ msgid "fade out"
 msgstr "uttoning"
 
 msgid "false"
-msgstr ""
+msgstr "ikkje oppfylt"
 
 msgid "Fantasy"
 msgstr "Fantasi"
@@ -1055,14 +997,13 @@ msgid "help"
 msgstr "hjelp"
 
 msgid "Hello!"
-msgstr ""
+msgstr "Hei!"
 
 msgid "Hmm..."
-msgstr ""
+msgstr "Hmm …"
 
-#, fuzzy
 msgid "hello"
-msgstr "Cello"
+msgstr "hei"
 
 msgid "High C"
 msgstr "Høg C"
@@ -1123,7 +1064,6 @@ msgid "light"
 msgstr "lys"
 
 # 83%
-#, fuzzy
 msgid "lights"
 msgstr "lys"
 
@@ -1205,13 +1145,13 @@ msgid "motion"
 msgstr "rørsle"
 
 msgid "motor"
-msgstr ""
+msgstr "motor"
 
 msgid "motor A"
-msgstr ""
+msgstr "motor A"
 
 msgid "motor B"
-msgstr ""
+msgstr "motor B"
 
 msgid "mouse-pointer"
 msgstr "musepeikar"
@@ -1290,7 +1230,7 @@ msgid "normal readout"
 msgstr "vanleg vising"
 
 msgid "not ="
-msgstr ""
+msgstr "ikkje ="
 
 msgid "Not saved; network or server problem."
 msgstr "Ikkje lagra (nettverks- eller tenarproblem)."
@@ -1447,7 +1387,7 @@ msgid "Remixing..."
 msgstr "Remiksar …"
 
 msgid "Remove extension blocks"
-msgstr ""
+msgstr "Fjern tilleggsfunksjon"
 
 msgid "Rename"
 msgstr "Endra namn"
@@ -1456,7 +1396,7 @@ msgid "rename variable"
 msgstr "gje nytt namn til variabel"
 
 msgid "Replace existing project"
-msgstr ""
+msgstr "Erstatt det gamle prosjektet"
 
 msgid "requires sign in"
 msgstr "krev innlogging"
@@ -1536,7 +1476,7 @@ msgid "Scratch Updater"
 msgstr "Oppdateringsfunksjon for Scratch"
 
 msgid "Scratch 2.0 Offline Editor"
-msgstr ""
+msgstr "Scratch 2.0 for maskiner utan nettsamband"
 
 # 85%
 msgid "Script"
@@ -1558,7 +1498,7 @@ msgstr "Sjå prosjektsida"
 msgid ""
 "See the Tips window (on the right) to install the plug-in and get the "
 "extension working."
-msgstr ""
+msgstr "Sjå tips (til høgre) for å få tilleggsfunksjonen til å verka."
 
 # I vektorgrafikk brukar ein dette til å velja eit objekt, men i punktgrafikk til å merkja eit område. Denne omsettinga er eit kompromiss.
 msgid "Select"
@@ -1590,7 +1530,7 @@ msgid "Share to website"
 msgstr "Legg ut på nettsida"
 
 msgid "Share to Scratch website"
-msgstr ""
+msgstr "Legg ut på Scratch-nettstaden"
 
 msgid "shared"
 msgstr "lagt ut"
@@ -1725,12 +1665,14 @@ msgid "that way"
 msgstr "mot klokka"
 
 msgid "The name is already in use."
-msgstr ""
+msgstr "Namnet finst frå før."
 
 msgid ""
 "The project failed to load and Scratch Team has been notified. Press OK to "
 "leave this page."
 msgstr ""
+"Klarte ikkje lesa inn prosjektet. Scratch-administratorane er varsla om "
+"problemet. Trykk «OK» for å gå vidare."
 
 msgid "Theme"
 msgstr "Tema"
@@ -1739,7 +1681,7 @@ msgid "Things"
 msgstr "Ting"
 
 msgid "thing"
-msgstr ""
+msgstr "ting"
 
 msgid "This is the current version."
 msgstr "Dette er siste versjon."
@@ -1748,11 +1690,15 @@ msgid ""
 "This project can detect who is using it, through the “username” block. To "
 "hide your identity, sign out before using the project."
 msgstr ""
+"Dette prosjektet kan oppdaga kven som brukar det, via «brukarnamn»-blokka. "
+"Viss du ikkje vil visa kven du er, logg ut før du brukar prosjektet."
 
 msgid ""
 "This project uses Cloud data ‒ a feature that is available only to signed in "
 "users."
 msgstr ""
+"Dette prosjektet brukar nettdata, som er ein funksjon som berre er "
+"tilgjengeleg for innlogga brukarar."
 
 msgid "this script"
 msgstr "dette skriptet"
@@ -1785,7 +1731,7 @@ msgid "Trombone"
 msgstr "Trombone"
 
 msgid "true"
-msgstr ""
+msgstr "oppfylt"
 
 # 90%
 msgid "Turbo mode"
@@ -1900,7 +1846,7 @@ msgid "Which column do you want to import"
 msgstr "Kven av kolonnane vil du importera"
 
 msgid "What's your name?"
-msgstr ""
+msgstr "Kva heiter du?"
 
 msgid "whirl"
 msgstr "kvervel"
@@ -1912,7 +1858,7 @@ msgid "Wooden Flute"
 msgstr "Trefløyte"
 
 msgid "world"
-msgstr ""
+msgstr "verda"
 
 msgid "year"
 msgstr "år"
@@ -2053,13 +1999,13 @@ msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr "Prosjektet ditt er no lasta opp til scratch.mit.edu"
 
 msgid "Record Project Video"
-msgstr ""
+msgstr "Lag videoopptak"
 
 msgid "Remove Background"
-msgstr ""
+msgstr "Fjern bakgrunn"
 
 msgid "any"
-msgstr ""
+msgstr "vilkårleg"
 
 # 89%
 # 86%
@@ -2084,6 +2030,57 @@ msgstr ""
 
 #~ msgid "Scratch days"
 #~ msgstr "Scratch-dager"
+
+#~ msgid "10 ^"
+#~ msgstr "10^"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank"
+#~ "\">see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Informasjon om nettdata</b><br>&nbsp; <br>Inntil vidare er det berre "
+#~ "mogleg å lagra tal.<br>Prateromsfunksjonar er ikkje tillatne, og vert "
+#~ "fjerna.<br>Sjå <a href=\"/help/faq/#clouddata\" target=\"_blank\">ofte "
+#~ "stilte spørsmål</a> for meir informasjon."
+
+#~ msgid "A connected"
+#~ msgstr "A tilkopla"
+
+#~ msgid "a copy of the project file on your computer."
+#~ msgstr "ein kopi av prosjektfila på datamaskina."
+
+#~ msgid "A newer version of Scratch is available"
+#~ msgstr "Ein nyare versjon av Scratch er tilgjengeleg"
+
+#~ msgid "About"
+#~ msgstr "Info"
+
+#~ msgid "abs"
+#~ msgstr "abs"
+
+#~ msgid "Account settings"
+#~ msgstr "Innstillingar"
+
+#~ msgid "acos"
+#~ msgstr "arccos"
+
+#~ msgid "Add"
+#~ msgstr "Legg til"
+
+#~ msgid "Add an Extension"
+#~ msgstr "Hent tilleggsfunksjon"
+
+# 90%
+#~ msgid "Add boolean input:"
+#~ msgstr "Logisk verdi inn:"
+
+#~ msgid "add comment"
+#~ msgstr "skriv kommentar"
+
+#~ msgid "Add label text:"
+#~ msgstr "Tekst i klossen:"
 
 #, fuzzy
 #~ msgid "Add a boolean input:"

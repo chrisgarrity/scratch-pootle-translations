@@ -1543,7 +1543,7 @@ msgstr "Lyde"
 
 # 80%
 msgid "Space"
-msgstr "Mellemrum"
+msgstr "Rummet"
 
 msgid "space"
 msgstr "mellemrum"
@@ -1917,10 +1917,10 @@ msgid "any"
 msgstr "vilkårlig"
 
 msgid "Record Project Video"
-msgstr ""
+msgstr "Optag video af projekt"
 
 msgid "Remove Background"
-msgstr ""
+msgstr "Slet baggrund"
 
 #~ msgid "when Stage clicked"
 #~ msgstr "når Scene er valgt"

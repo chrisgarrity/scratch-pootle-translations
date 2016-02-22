@@ -1896,10 +1896,10 @@ msgid "any"
 msgstr "任何的"
 
 msgid "Record Project Video"
-msgstr ""
+msgstr "錄製專案影片"
 
 msgid "Remove Background"
-msgstr ""
+msgstr "移除背景"
 
 #~ msgid "when Stage clicked"
 #~ msgstr "當舞臺被點一下"

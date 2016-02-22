@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2016-02-16 19:07+0000\n"
+"PO-Revision-Date: 2016-02-18 19:05+0000\n"
 "Last-Translator: Karl Ove <karl@huftis.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nn\n"
@@ -12,11 +12,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1455649670.000000\n"
+"X-POOTLE-MTIME: 1455822352.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
-msgstr ""
+msgstr "Norsk (nynorsk)"
 
 msgid "%b and %b"
 msgstr "%b og %b"
@@ -27,9 +27,8 @@ msgstr "%b eller %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute av %m.spriteOrStage"
 
-#, fuzzy
 msgid "%m.list contains %s"
-msgstr "%m.list inneheld %s?"
+msgstr "%m.list inneheld %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp av %n"
@@ -472,7 +471,7 @@ msgid "when I start as a clone"
 msgstr "når eg startar som klon"
 
 msgid "when Stage clicked"
-msgstr ""
+msgstr "når scena vert trykt på"
 
 msgid "when this sprite clicked"
 msgstr "når denne figuren vert trykt på"
@@ -487,33 +486,28 @@ msgid "y position"
 msgstr "y-posisjon"
 
 # 89%
-#, fuzzy
 msgid "set motor direction %m.motorDirection"
-msgstr "set %m.motor2-retning til %m.motorDirection"
+msgstr "set motorretning til %m.motorDirection"
 
 # 77%
-#, fuzzy
 msgid "set motor power %n"
-msgstr "set %m.motor-styrke til %n"
+msgstr "set motorstyrke til %n"
 
-#, fuzzy
 msgid "turn motor off"
-msgstr "slå av %m.motor"
+msgstr "slå motoren av"
 
-#, fuzzy
 msgid "turn motor on"
-msgstr "slå på %m.motor"
+msgstr "slå motoren på"
 
 # 80%
-#, fuzzy
 msgid "turn motor on for %n secs"
-msgstr "slå på %m.motor i %n sekund"
+msgstr "slå motoren på i %n sekund"
 
 msgid "when distance < %n"
-msgstr ""
+msgstr "når avstanden < %n"
 
 msgid "when tilt = %n"
-msgstr ""
+msgstr "når hellinga er %n"
 
 # 89%
 # 86%

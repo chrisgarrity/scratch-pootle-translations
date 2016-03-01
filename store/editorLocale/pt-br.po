@@ -1914,13 +1914,13 @@ msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr "Seu projeto foi enviado para scratch.mit.edu"
 
 msgid "Record Project Video"
-msgstr ""
+msgstr "Gravar um projeto de vídeo"
 
 msgid "Remove Background"
-msgstr ""
+msgstr "Remover pano de fundo"
 
 msgid "any"
-msgstr ""
+msgstr "qualquer"
 
 #~ msgid "when Stage clicked"
 #~ msgstr "quando alguém clicar em Palco"

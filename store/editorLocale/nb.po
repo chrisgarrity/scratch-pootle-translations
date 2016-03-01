@@ -778,7 +778,7 @@ msgid "Connecting to Cloud data server..."
 msgstr "Kobler til nettdatatjener..."
 
 msgid "Convert to bitmap"
-msgstr "Bytt til punkgrafikk"
+msgstr "Bytt til punktgrafikk"
 
 msgid "Convert to vector"
 msgstr "Bytt til vektorgrafikk"
@@ -1147,7 +1147,7 @@ msgid "Multiple"
 msgstr "Flere"
 
 msgid "Music and Dance"
-msgstr "Musikk og Dans"
+msgstr "Musikk og dans"
 
 msgid "Music Box"
 msgstr "Spilledåse"
@@ -1929,10 +1929,10 @@ msgid "any"
 msgstr "hvilken som helst"
 
 msgid "Record Project Video"
-msgstr ""
+msgstr "Ta opp video av prosjektet"
 
 msgid "Remove Background"
-msgstr ""
+msgstr "Slett bakgrunn"
 
 #~ msgid "when Stage clicked"
 #~ msgstr "når scenen klikkes"

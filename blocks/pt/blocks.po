@@ -18,625 +18,473 @@ msgstr ""
 msgid "Language-Name"
 msgstr "Português"
 
-#, fuzzy
 msgid "%b and %b"
-msgstr "%b i %b"
+msgstr "%b e %b"
 
-#, fuzzy
 msgid "%b or %b"
-msgstr "%b lub %b"
+msgstr "%b ou %b"
 
-#, fuzzy
 msgid "%m.attribute of %m.spriteOrStage"
-msgstr "%m.attribute z %m.spriteOrStage"
+msgstr "%m.attribute de %m.spriteOrStage"
 
 msgid "%m.list contains %s"
 msgstr "%m.list contém %s"
 
-#, fuzzy
 msgid "%m.mathOp of %n"
-msgstr "%m.mathOp z %n"
+msgstr "%m.mathOp de %n"
 
-#, fuzzy
 msgid "%m.sensor sensor value"
-msgstr "wartość czujnika %m.sensor"
+msgstr "o valor do sensor %m.sensor"
 
-#, fuzzy
 msgid "%n mod %n"
-msgstr "%n mod %n"
+msgstr "o resto de %n a dividir por %n"
 
-#, fuzzy
 msgid "add %s to %m.list"
-msgstr "dodaj %s do %m.list"
+msgstr "acrescenta %s a %m.list"
 
-#, fuzzy
 msgid "answer"
-msgstr "odpowiedź"
+msgstr "a resposta"
 
-#, fuzzy
 msgid "ask %s and wait"
-msgstr "zapytaj %s i czekaj"
+msgstr "pergunta %s e espera pela resposta"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop #"
-msgstr "tło #"
+msgstr "o número do cenário"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop name"
-msgstr "nazwa tła"
+msgstr "o nome do cenário"
 
-#, fuzzy
 msgid "broadcast %m.broadcast"
-msgstr "nadaj %m.broadcast"
+msgstr "difunde a mensagem %m.broadcast"
 
-#, fuzzy
 msgid "broadcast %m.broadcast and wait"
-msgstr "nadaj %m.broadcast i czekaj"
+msgstr "difunde a mensagem %m.broadcast e espera"
 
-#, fuzzy
 msgid "change %m.effect effect by %n"
-msgstr "zmień efekt %m.effect o %n"
+msgstr "adiciona ao teu efeito %m.effect o valor %n"
 
-#, fuzzy
 msgid "change %m.var by %n"
-msgstr "zmień %m.var o %n"
+msgstr "adiciona a %m.var o valor %n"
 
-#, fuzzy
 msgid "change pen color by %n"
-msgstr "zmień kolor pisaka o %n"
+msgstr "adiciona %n à cor da tua caneta"
 
-#, fuzzy
 msgid "change pen shade by %n"
-msgstr "zmień odcień pisaka o %n"
+msgstr "adiciona %n ao tom da tua caneta"
 
-#, fuzzy
 msgid "change pen size by %n"
-msgstr "zmień rozmiar pisaka o %n"
+msgstr "adiciona %n à espessura da tua caneta"
 
-#, fuzzy
 msgid "change size by %n"
-msgstr "zmień rozmiar o %n"
+msgstr "adiciona %n% ao teu tamanho"
 
-#, fuzzy
 msgid "change tempo by %n"
-msgstr "zmień tempo o %n"
+msgstr "adiciona %n bpm ao teu andamento"
 
-#, fuzzy
 msgid "change volume by %n"
-msgstr "zmień głośność o %n"
+msgstr "adiciona %n% ao teu volume"
 
-#, fuzzy
 msgid "change x by %n"
-msgstr "zmień x o %n"
+msgstr "adiciona %n à tua coordenada x"
 
-#, fuzzy
 msgid "change y by %n"
-msgstr "zmień y o %n"
+msgstr "adiciona %n à tua coordenada y"
 
-#, fuzzy
 msgid "clear"
-msgstr "wyczyść"
+msgstr "apaga tudo do palco"
 
-#, fuzzy
 msgid "clear graphic effects"
-msgstr "wyczyść efekty graficzne"
+msgstr "cancela os teus efeitos gráficos"
 
-#, fuzzy
 msgid "color %c is touching %c?"
-msgstr "czy kolor %c dotyka %c?"
+msgstr "a cor %c está a tocar na cor %c"
 
-#, fuzzy
 msgid "Control"
-msgstr "Kontrola"
+msgstr "Controlo"
 
-#, fuzzy
 msgid "costume #"
-msgstr "kostium #"
+msgstr "o número do traje"
 
-#, fuzzy
 msgid "create clone of %m.spriteOnly"
-msgstr "sklonuj %m.spriteOnly"
+msgstr "cria um clone de %m.spriteOnly"
 
-#, fuzzy
 msgid "current %m.timeAndDate"
-msgstr "aktualna %m.timeAndDate"
+msgstr "%m.timeAndDate actual"
 
-#, fuzzy
 msgid "Data"
-msgstr "Dane"
+msgstr "Dados"
 
-#, fuzzy
 msgid "days since 2000"
-msgstr "dni od 2000"
+msgstr "o número de dias desde 2000"
 
-#, fuzzy
 msgid "define"
-msgstr "definiuj"
+msgstr "Define"
 
-#, fuzzy
 msgid "delete %d.listDeleteItem of %m.list"
-msgstr "usuń %d.listDeleteItem z %m.list"
+msgstr "remove %d.listDeleteItem de %m.list"
 
-#, fuzzy
 msgid "delete this clone"
-msgstr "usuń tego klona"
+msgstr "remove-te como clone"
 
-#, fuzzy
 msgid "direction"
-msgstr "kierunek"
+msgstr "a direcção"
 
-#, fuzzy
 msgid "distance"
-msgstr "odległość"
+msgstr "a distância"
 
-#, fuzzy
 msgid "distance to %m.spriteOrMouse"
-msgstr "odległość do %m.spriteOrMouse"
+msgstr "a distância até %m.spriteOrMouse"
 
-#, fuzzy
 msgid "else"
-msgstr "w przeciwnym razie"
+msgstr "senão,"
 
-#, fuzzy
 msgid "Events"
-msgstr "Zdarzenia"
+msgstr "Eventos"
 
-#, fuzzy
 msgid "forever"
-msgstr "zawsze"
+msgstr "repete para sempre"
 
-#, fuzzy
 msgid "glide %n secs to x:%n y:%n"
-msgstr "leć przez %n s do x:%n y:%n"
+msgstr "desliza em %n s para as coordenadas (x:%n , y:%n )"
 
-#, fuzzy
 msgid "go back %n layers"
-msgstr "wróć o %n warstw"
+msgstr "recua %n camadas"
 
-#, fuzzy
 msgid "go to %m.spriteOrMouse"
-msgstr "idź do %m.spriteOrMouse"
+msgstr "vai para a posição de %m.spriteOrMouse"
 
-#, fuzzy
 msgid "go to front"
-msgstr "na wierzch"
+msgstr "vem para a frente"
 
-#, fuzzy
 msgid "go to x:%n y:%n"
-msgstr "idź do x:%n y:%n"
+msgstr "vai para as coordenadas (x:%n , y:%n )"
 
-#, fuzzy
 msgid "hide"
-msgstr "ukryj"
+msgstr "esconde-te"
 
-#, fuzzy
 msgid "hide list %m.list"
-msgstr "ukryj listę %m.list"
+msgstr "esconde a lista %m.list"
 
-#, fuzzy
 msgid "hide variable %m.var"
-msgstr "ukryj zmienną %m.var"
+msgstr "esconde a variável %m.var"
 
-#, fuzzy
 msgid "if %b then"
-msgstr "jeżeli %b to"
+msgstr "se %b , então"
 
-#, fuzzy
 msgid "if on edge, bounce"
-msgstr "jeżeli na brzegu, odbij się"
+msgstr "se estiveres a bater na borda, ressalta"
 
-#, fuzzy
 msgid "insert %s at %d.listItem of %m.list"
-msgstr "wstaw %s na pozycji %d.listItem do %m.list"
+msgstr "insere %s como %d.listItem de %m.list"
 
-#, fuzzy
 msgid "item %d.listItem of %m.list"
-msgstr "element %d.listItem z %m.list"
+msgstr "%d.listItem de %m.list"
 
-#, fuzzy
 msgid "join %s %s"
-msgstr "połącz %s i %s"
+msgstr "a junção de %s com %s"
 
-#, fuzzy
 msgid "key %m.key pressed?"
-msgstr "klawisz %m.key naciśnięty?"
+msgstr "a tecla %m.key está a ser pressionada"
 
-#, fuzzy
 msgid "length of %m.list"
-msgstr "długość %m.list"
+msgstr "o comprimento de %m.list"
 
-#, fuzzy
 msgid "length of %s"
-msgstr "długość %s"
+msgstr "o comprimento de %s"
 
-#, fuzzy
 msgid "letter %n of %s"
-msgstr "litera %n z %s"
+msgstr "o caractere %n de %s"
 
-#, fuzzy
 msgid "Looks"
-msgstr "Wygląd"
+msgstr "Aparência"
 
-#, fuzzy
 msgid "loudness"
-msgstr "głośność"
+msgstr "o volume"
 
-#, fuzzy
 msgid "More Blocks"
-msgstr "Więcej bloków"
+msgstr "Mais Blocos"
 
-#, fuzzy
 msgid "Motion"
-msgstr "Ruch"
+msgstr "Movimento"
 
-#, fuzzy
 msgid "mouse down?"
-msgstr "wciśnięty klawisz myszy?"
+msgstr "o botão do rato está pressionado"
 
-#, fuzzy
 msgid "mouse x"
-msgstr "x myszy"
+msgstr "a coordenada x do rato"
 
-#, fuzzy
 msgid "mouse y"
-msgstr "y myszy"
+msgstr "a coordenada y do rato"
 
-#, fuzzy
 msgid "move %n steps"
-msgstr "przesuń o %n kroków"
+msgstr "anda %n passos"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "next backdrop"
-msgstr "następne tło"
+msgstr "passa para o teu próximo cenário"
 
-#, fuzzy
 msgid "next costume"
-msgstr "następny kostium"
+msgstr "passa para o teu próximo traje"
 
-#, fuzzy
 msgid "not %b"
-msgstr "nie %b"
+msgstr "é falso que %b"
 
-#, fuzzy
 msgid "Operators"
-msgstr "Wyrażenia"
+msgstr "Operadores"
 
-#, fuzzy
 msgid "Pen"
-msgstr "Pisak"
+msgstr "Caneta"
 
-#, fuzzy
 msgid "pen down"
-msgstr "przyłóż pisak"
+msgstr "baixa a tua caneta"
 
-#, fuzzy
 msgid "pen up"
-msgstr "podnieś pisak"
+msgstr "levanta a tua caneta"
 
-#, fuzzy
 msgid "pick random %n to %n"
-msgstr "losuj od %n do %n"
+msgstr "um valor ao acaso entre %n e %n"
 
-#, fuzzy
 msgid "play drum %d.drum for %n beats"
-msgstr "zagraj bęben %d.drum przez %n taktów"
+msgstr "toca a percussão %d.drum durante %n tempos"
 
-# "zagraj nutę %d.note przez %n taktów" where "play note %n for %n beats"
 # 83%
-#, fuzzy
 msgid "play note %d.note for %n beats"
-msgstr "zagraj nutę %d.note przez %n taktów"
+msgstr "toca a nota %d.note durante %n tempos"
 
-#, fuzzy
 msgid "play sound %m.sound"
-msgstr "zagraj dźwięk %m.sound"
+msgstr "toca o som %m.sound"
 
-#, fuzzy
 msgid "play sound %m.sound until done"
-msgstr "zagraj dźwięk %m.sound i czekaj"
+msgstr "toca o som %m.sound até terminar"
 
-#, fuzzy
 msgid "point in direction %d.direction"
-msgstr "ustaw kierunek na %d.direction"
+msgstr "altera a tua direcção para %d.direction °"
 
-#, fuzzy
 msgid "point towards %m.spriteOrMouse"
-msgstr "ustaw w stronę %m.spriteOrMouse"
+msgstr "aponta em direcção a %m.spriteOrMouse"
 
-#, fuzzy
 msgid "repeat %n"
-msgstr "powtórz %n razy"
+msgstr "repete %n vezes"
 
-#, fuzzy
 msgid "repeat until %b"
-msgstr "powtarzaj aż %b"
+msgstr "até que %b , repete"
 
-#, fuzzy
 msgid "replace item %d.listItem of %m.list with %s"
-msgstr "zamień element %d.listItem z %m.list na %s"
+msgstr "substitui %d.listItem de %m.list por %s"
 
-#, fuzzy
 msgid "reset timer"
-msgstr "zeruj stoper"
+msgstr "reinicia o cronómetro"
 
-#, fuzzy
 msgid "rest for %n beats"
-msgstr "pauzuj przez %n taktów"
+msgstr "faz uma pausa de %n tempos"
 
-#, fuzzy
 msgid "round %n"
-msgstr "zaokrąglij %n"
+msgstr "o arredondamento de %n"
 
-#, fuzzy
 msgid "say %s"
-msgstr "powiedz %s"
+msgstr "diz %s"
 
-#, fuzzy
 msgid "say %s for %n secs"
-msgstr "powiedz %s przez %n s"
+msgstr "diz %s durante %n s"
 
-#, fuzzy
 msgid "Sensing"
-msgstr "Czujniki"
+msgstr "Sensores"
 
-#, fuzzy
 msgid "sensor %m.booleanSensor?"
-msgstr "czujnik %m.booleanSensor?"
+msgstr "o sensor %m.booleanSensor está activo"
 
-#, fuzzy
 msgid "set %m.effect effect to %n"
-msgstr "ustaw efekt %m.effect na %n"
+msgstr "altera o teu efeito %m.effect para %n"
 
-# "ustaw %m.var na %n"
-#, fuzzy
 msgid "set %m.var to %s"
-msgstr "ustaw %m.var na %s"
+msgstr "altera %m.var para %s"
 
-#, fuzzy
 msgid "set instrument to %d.instrument"
-msgstr "ustaw instrument na %d.instrument"
+msgstr "altera o teu instrumento para %d.instrument"
 
 # 89%
 # 86%
 # 97%
-#, fuzzy
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "ustaw kierunek silnika %m.motor2 na %m.motorDirection"
+msgstr "altera a direcção de %m.motor2 para %m.motorDirection"
 
 # 77%
 # 75%
-#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "ustaw moc silnika %m.motor na %n"
+msgstr "altera a potência de %m.motor para %n%"
 
-#, fuzzy
 msgid "set pen color to %c"
-msgstr "ustaw kolor pisaka na %c"
+msgstr "altera a cor da tua caneta para %c"
 
-# "ustaw kolor pisaka na %c"
-#, fuzzy
 msgid "set pen color to %n"
-msgstr "ustaw kolor pisaka na %n"
+msgstr "altera a cor da tua caneta para %n"
 
-#, fuzzy
 msgid "set pen shade to %n"
-msgstr "ustaw odcień pisaka na %n"
+msgstr "altera o tom da tua caneta para %n"
 
-#, fuzzy
 msgid "set pen size to %n"
-msgstr "ustaw rozmiar pisaka na %n"
+msgstr "altera a espessura da tua caneta para %n"
 
-#, fuzzy
 msgid "set rotation style %m.rotationStyle"
-msgstr "ustaw styl obrotu %m.rotationStyle"
+msgstr "altera o teu estilo de rotação para %m.rotationStyle"
 
-#, fuzzy
 msgid "set size to %n%"
-msgstr "ustaw rozmiar na %n%"
+msgstr "altera o teu tamanho para %n%"
 
-#, fuzzy
 msgid "set tempo to %n bpm"
-msgstr "ustaw tempo %n taktów na minutę"
+msgstr "altera o teu andamento para %n bpm"
 
-#, fuzzy
 msgid "set video transparency to %n%"
-msgstr "ustaw przezroczystość kamery na %n%"
+msgstr "altera a transparência do vídeo para %n%"
 
-#, fuzzy
 msgid "set volume to %n%"
-msgstr "ustaw głośność na %n%"
+msgstr "altera o teu volume para %n%"
 
-#, fuzzy
 msgid "set x to %n"
-msgstr "ustaw x na %n"
+msgstr "altera a tua coordenada x para %n"
 
-#, fuzzy
 msgid "set y to %n"
-msgstr "ustaw y na %n"
+msgstr "altera a tua coordenada y para %n"
 
-#, fuzzy
 msgid "show"
-msgstr "pokaż"
+msgstr "mostra-te"
 
-#, fuzzy
 msgid "show list %m.list"
-msgstr "pokaż listę %m.list"
+msgstr "mostra a lista %m.list"
 
-#, fuzzy
 msgid "show variable %m.var"
-msgstr "pokaż zmienną %m.var"
+msgstr "mostra a variável %m.var"
 
-#, fuzzy
 msgid "size"
-msgstr "rozmiar"
+msgstr "o tamanho"
 
-#, fuzzy
 msgid "Sound"
-msgstr "Dźwięk"
+msgstr "Som"
 
-#, fuzzy
 msgid "stamp"
-msgstr "stempluj"
+msgstr "carimba-te"
 
-#, fuzzy
 msgid "stop %m.stop"
-msgstr "zatrzymaj %m.stop"
+msgstr "pára %m.stop"
 
-#, fuzzy
 msgid "stop all sounds"
-msgstr "zatrzymaj wszystkie dźwięki"
+msgstr "pára todos os sons"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "switch backdrop to %m.backdrop"
-msgstr "zmień tło na %m.backdrop"
+msgstr "muda o cenário para %m.backdrop"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr "zmień tło na %m.backdrop i czekaj"
+msgstr "muda o cenário para %m.backdrop e espera"
 
-#, fuzzy
 msgid "switch costume to %m.costume"
-msgstr "zmień kostium na %m.costume"
+msgstr "muda o teu traje para %m.costume"
 
-#, fuzzy
 msgid "tempo"
-msgstr "tempo"
+msgstr "o andamento"
 
-#, fuzzy
 msgid "think %s"
-msgstr "pomyśl %s"
+msgstr "pensa %s"
 
-#, fuzzy
 msgid "think %s for %n secs"
-msgstr "pomyśl %s przez %n s"
+msgstr "pensa %s durante %n s"
 
-#, fuzzy
 msgid "tilt"
-msgstr "wychylenie"
+msgstr "a inclinação"
 
-#, fuzzy
 msgid "timer"
-msgstr "stoper"
+msgstr "o valor do cronómetro"
 
-#, fuzzy
 msgid "touching %m.touching?"
-msgstr "dotyka %m.touching?"
+msgstr "estás a tocar em %m.touching"
 
-#, fuzzy
 msgid "touching color %c?"
-msgstr "dotyka koloru %c?"
+msgstr "estás a tocar na cor %c"
 
-#, fuzzy
 msgid "turn @turnLeft %n degrees"
-msgstr "obróć @turnLeft o %n stopni"
+msgstr "gira @turnLeft %n °"
 
-#, fuzzy
 msgid "turn @turnRight %n degrees"
-msgstr "obróć @turnRight o %n stopni"
+msgstr "gira @turnRight %n °"
 
 # 82%
-#, fuzzy
 msgid "turn %m.motor off"
-msgstr "wyłącz silnik %m.motor"
+msgstr "desliga %m.motor"
 
 # 81%
-#, fuzzy
 msgid "turn %m.motor on"
-msgstr "włącz silnik %m.motor"
+msgstr "liga %m.motor"
 
 # 80%
 # 89%
-#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr "włącz silnik %m.motor na %n s"
+msgstr "liga %m.motor durante %n s"
 
-#, fuzzy
 msgid "turn video %m.videoState"
-msgstr "kamera %m.videoState"
+msgstr "altera o estado do vídeo para %m.videoState"
 
 # 88%
-#, fuzzy
 msgid "username"
-msgstr "nazwa użytkownika"
+msgstr "o nome de utilizador"
 
-#, fuzzy
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr "%m.videoMotionType kamery na %m.stageOrThis"
+msgstr "%m.videoMotionType do vídeo em %m.stageOrThis"
 
-#, fuzzy
 msgid "volume"
-msgstr "głośność"
+msgstr "o volume"
 
-#, fuzzy
 msgid "wait %n secs"
-msgstr "czekaj %n s"
+msgstr "espera %n s"
 
-#, fuzzy
 msgid "wait until %b"
-msgstr "czekaj aż %b"
+msgstr "espera até que %b"
 
 # 75%
-#, fuzzy
 msgid "when %m.booleanSensor"
-msgstr "kiedy %m.booleanSensor"
+msgstr "Quando o sensor %m.booleanSensor estiver activo"
 
-#, fuzzy
 msgid "when %m.key key pressed"
-msgstr "kiedy klawisz %m.key naciśnięty"
+msgstr "Quando alguém pressionar a tecla %m.key"
 
-#, fuzzy
 msgid "when %m.sensor %m.lessMore %n"
-msgstr "kiedy %m.sensor %m.lessMore %n"
+msgstr "Quando o valor do sensor %m.sensor for %m.lessMore %n"
 
-#, fuzzy
 msgid "when %m.triggerSensor > %n"
-msgstr "kiedy %m.triggerSensor > %n"
+msgstr "Quando o valor do sensor %m.triggerSensor exceder %n"
 
-#, fuzzy
 msgid "when @greenFlag clicked"
-msgstr "kiedy kliknięto @greenFlag"
+msgstr "Quando alguém clicar em @greenFlag"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "when backdrop switches to %m.backdrop"
-msgstr "kiedy tło zmieni się na %m.backdrop"
+msgstr "Quando o cenário mudar para %m.backdrop"
 
-#, fuzzy
 msgid "when distance %m.lessMore %n"
-msgstr "kiedy odległość %m.lessMore %n"
+msgstr "Quando a distância for %m.lessMore que %n"
 
-#, fuzzy
 msgid "when I receive %m.broadcast"
-msgstr "kiedy otrzymam %m.broadcast"
+msgstr "Quando receberes a mensagem %m.broadcast"
 
-#, fuzzy
 msgid "when I start as a clone"
-msgstr "kiedy zaczynam jako klon"
+msgstr "Quando fores criado como um clone"
 
-#~ msgid "when Stage clicked"
-#~ msgstr "Quando alguém clicar no palco"
+msgid "when Stage clicked"
+msgstr "Quando alguém clicar no palco"
 
-# "kiedy *ten* duszek kliknięty"?
-#, fuzzy
 msgid "when this sprite clicked"
-msgstr "kiedy duszek kliknięty"
+msgstr "Quando alguém clicar em ti"
 
-#, fuzzy
 msgid "when tilt %m.eNe %n"
-msgstr "kiedy pochylenie %m.eNe %n"
+msgstr "Quando a inclinação for %m.eNe a %n"
 
-#, fuzzy
 msgid "x position"
-msgstr "współrzędna x"
+msgstr "a coordenada x da posição"
 
-#, fuzzy
 msgid "y position"
-msgstr "współrzędna y"
+msgstr "a coordenada y da posição"
 
 # 89%
 msgid "set motor direction %m.motorDirection"
@@ -664,41 +512,40 @@ msgstr "Quando a inclinação for %n"
 
 # 89%
 # 86%
-#~ msgid "set %m.motor direction to %m.motorDirection"
-#~ msgstr "altera a direcção de %m.motor para %m.motorDirection"
+msgid "set %m.motor direction to %m.motorDirection"
+msgstr "altera a direcção de %m.motor para %m.motorDirection"
 
-#~ msgid "user name"
-#~ msgstr "nome de utilizador"
+msgid "user name"
+msgstr "nome de utilizador"
 
-#~ msgid "user id"
-#~ msgstr "o identificador do utilizador"
+msgid "user id"
+msgstr "o identificador do utilizador"
 
-#~ msgid "forever if %b"
-#~ msgstr "se %b, repetir para sempre"
+msgid "forever if %b"
+msgstr "se %b, repetir para sempre"
 
-#~ msgid "if %b"
-#~ msgstr "se %b, então"
+msgid "if %b"
+msgstr "se %b, então"
 
-#~ msgid "motor direction %m.motorDirection"
-#~ msgstr "direccionar o motor %m.motorDirection"
+msgid "motor direction %m.motorDirection"
+msgstr "direccionar o motor %m.motorDirection"
 
-#~ msgid "motor off"
-#~ msgstr "desligar motor"
+msgid "motor off"
+msgstr "desligar motor"
 
-#~ msgid "motor on"
-#~ msgstr "ligar motor"
+msgid "motor on"
+msgstr "ligar motor"
 
-#~ msgid "motor on for %n secs"
-#~ msgstr "ligar motor durante %n segundos"
+msgid "motor on for %n secs"
+msgstr "ligar motor durante %n segundos"
 
-#~ msgid "motor power %n"
-#~ msgstr "alterar potência do motor para %n"
+msgid "motor power %n"
+msgstr "alterar potência do motor para %n"
 
-#~ msgid "play note %n for %n beats"
-#~ msgstr "tocar a nota %d.note durante %n batimentos"
+msgid "play note %n for %n beats"
+msgstr "tocar a nota %d.note durante %n batimentos"
 
 #: commands-online.txt:7
 #: commands-offline.txt:7
-#, fuzzy
 msgid "%m.list contains %s?"
-msgstr "%m.list zawiera %s?"
+msgstr "%m.list contém %s"

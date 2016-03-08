@@ -1,0 +1,32 @@
+# Set the default behavior, in case people don't have core.autocrlf set.
+* text=auto
+
+# Explicitly specify line endings for as many files as possible.
+# People who (for example) rsync between Windows and Linux need this.
+
+# File types which we know are binary
+*.baseA binary
+*.baseB binary
+*.DB binary
+
+# Prefer LF for most file types
+*.json text eol=lf
+*.md text eol=lf
+*.po text eol=lf
+*.pot text eol=lf
+*.py text eol=lf
+*.sh text eol=lf
+*.txt text eol=lf
+*.xlf text eol=lf
+
+# Prefer LF for these files
+.gitattributes text eol=lf
+.gitignore text eol=lf
+.gitmodules text eol=lf
+COPYING text eol=lf
+Doxyfile text eol=lf
+README text eol=lf
+
+# Use CRLF for Windows-specific file types
+*.bat text eol=crlf
+*.cmd text eol=crlf

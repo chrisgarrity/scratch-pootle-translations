@@ -30,8 +30,8 @@ backdrop #
 Backdrop Library
 backdrop name
 backdrop1
-backdrops
 Backdrops
+backdrops
 Backpack
 Bass
 Bass Drum
@@ -111,8 +111,8 @@ Duplicate
 duplicate
 e ^
 edge
-edit
 Edit
+edit
 Edit Block
 Effects
 Electric Guitar
@@ -256,6 +256,7 @@ Project name is required
 Project not saved!
 Quit
 random
+random position
 Record
 Record new sound
 Record Project Video
@@ -298,8 +299,8 @@ select all
 Select and duplicate
 Send to back
 Server error:
-Set costume center
 Set Costume Center
+Set costume center
 set slider min and max
 Share to Scratch Website
 Share to website
@@ -394,7 +395,6 @@ Visit download page
 Vocals
 volume
 Walking
-when Stage clicked
 Which column do you want to import
 whirl
 Wood Block

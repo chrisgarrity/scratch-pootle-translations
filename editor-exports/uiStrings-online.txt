@@ -4,6 +4,7 @@ A connected
 a copy of the project file on your computer.
 About
 abs
+Account settings
 acos
 Add
 Add an Extension
@@ -111,12 +112,12 @@ down
 down arrow
 Download
 Download to your computer
-duplicate
 Duplicate
+duplicate
 e ^
 edge
-edit
 Edit
+edit
 Edit Block
 Effects
 Electric Guitar
@@ -144,6 +145,7 @@ For all sprites
 For this sprite only
 Forward a layer
 ghost
+Go to My Stuff
 Group
 Grow
 Guiro
@@ -201,6 +203,7 @@ Multiple
 Music and Dance
 Music Box
 Music Loops
+My Stuff
 myself
 Nature
 New
@@ -250,11 +253,14 @@ pixelate
 Pizzicato
 pop
 previous backdrop
+Profile
 Project did not load.
 Project not saved!
 random
+random position
 Record
 Record new sound
+Record Project Video
 record...
 recording1
 Rectangle
@@ -279,6 +285,7 @@ rotation style:
 Run without screen refresh
 Save
 Save a copy of this project and add your own ideas.
+Save as a copy
 Save now
 Save project?
 save to local file
@@ -306,6 +313,7 @@ Shrink
 Side Stick
 Sign in
 Sign in to save
+Sign out
 silence
 sin
 size
@@ -319,8 +327,8 @@ Sound
 sound
 Sound Library
 Sounds
-space
 Space
+space
 Sports
 Sprite
 Sprite Library
@@ -357,8 +365,8 @@ Turbo mode
 Type
 Undelete
 Underwater
-undo
 Undo
+undo
 Undo Revert
 Ungroup
 unshared
@@ -385,7 +393,6 @@ Vocals
 volume
 Walking
 Want to save? Click remix
-when Stage clicked
 Which column do you want to import
 whirl
 Wood Block

@@ -42,7 +42,7 @@ Events
 forever
 glide %n secs to x:%n y:%n
 go back %n layers
-go to %m.spriteOrMouse
+go to %m.location
 go to front
 go to x:%n y:%n
 hide
@@ -143,6 +143,7 @@ when backdrop switches to %m.backdrop
 when distance %m.lessMore %n
 when I receive %m.broadcast
 when I start as a clone
+when Stage clicked
 when this sprite clicked
 when tilt %m.eNe %n
 x position

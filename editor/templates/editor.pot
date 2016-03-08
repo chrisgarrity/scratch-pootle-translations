@@ -6,16 +6,14 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2016-01-28 17:06+0000\n"
-"PO-Revision-Date: 2013-05-02 00:48+0000\n"
-"Last-Translator: adlogi <adlogi@media.mit.edu>\n"
+"POT-Creation-Date: 2016-03-08 20:44+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: templates\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1367455729.000000\n"
+"X-Generator: Translate Toolkit 1.9.0\n"
 
 msgid "10 ^"
 msgstr ""
@@ -34,6 +32,9 @@ msgid "A newer version of Scratch is available"
 msgstr ""
 
 msgid "About"
+msgstr ""
+
+msgid "Account settings"
 msgstr ""
 
 msgid "Add"
@@ -347,6 +348,9 @@ msgstr ""
 msgid "Forward a layer"
 msgstr ""
 
+msgid "Go to My Stuff"
+msgstr ""
+
 msgid "Group"
 msgstr ""
 
@@ -456,6 +460,9 @@ msgid "Music Loops"
 msgstr ""
 
 msgid "Music and Dance"
+msgstr ""
+
+msgid "My Stuff"
 msgstr ""
 
 msgid "Nature"
@@ -575,6 +582,9 @@ msgstr ""
 msgid "Please visit the download page to install it."
 msgstr ""
 
+msgid "Profile"
+msgstr ""
+
 msgid "Project did not load."
 msgstr ""
 
@@ -647,6 +657,9 @@ msgstr ""
 msgid "Save as"
 msgstr ""
 
+msgid "Save as a copy"
+msgstr ""
+
 msgid "Save now"
 msgstr ""
 
@@ -717,6 +730,9 @@ msgid "Sign in"
 msgstr ""
 
 msgid "Sign in to save"
+msgstr ""
+
+msgid "Sign out"
 msgstr ""
 
 msgid "Slider Range"
@@ -1208,6 +1224,9 @@ msgstr ""
 msgid "random"
 msgstr ""
 
+msgid "random position"
+msgstr ""
+
 msgid "record..."
 msgstr ""
 
@@ -1334,9 +1353,6 @@ msgstr ""
 msgid "volume"
 msgstr ""
 
-msgid "when Stage clicked"
-msgstr ""
-
 msgid "whirl"
 msgstr ""
 
@@ -1347,61 +1363,4 @@ msgid "y position"
 msgstr ""
 
 msgid "year"
-msgstr ""
-
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-"For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-
-msgid "Account settings"
-msgstr ""
-
-msgid "Click  to try again or  to save"
-msgstr ""
-
-msgid "Cloud"
-msgstr ""
-
-msgid "Costumes:"
-msgstr ""
-
-msgid "Eraser width:"
-msgstr ""
-
-msgid "Go to My Stuff"
-msgstr ""
-
-msgid "limit reached"
-msgstr ""
-
-msgid "Line width:"
-msgstr ""
-
-msgid "My Stuff"
-msgstr ""
-
-msgid "Profile"
-msgstr ""
-
-msgid "requires sign in"
-msgstr ""
-
-msgid "Save as a copy"
-msgstr ""
-
-msgid "Scripts:"
-msgstr ""
-
-msgid "show receivers"
-msgstr ""
-
-msgid "show senders"
-msgstr ""
-
-msgid "Sign out"
-msgstr ""
-
-msgid "stored on server"
 msgstr ""

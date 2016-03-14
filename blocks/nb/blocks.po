@@ -15,8 +15,8 @@ msgstr ""
 "X-POOTLE-MTIME: 1448055634.000000\n"
 
 # The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Norsk Bokmål"
+#~ msgid "Language-Name"
+#~ msgstr "Norsk Bokmål"
 
 msgid "%b and %b"
 msgstr "%b og %b"
@@ -27,8 +27,8 @@ msgstr "%b eller %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute av %m.spriteOrStage"
 
-msgid "%m.list contains %s"
-msgstr "%m.list inneholder %s"
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list inneholder %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp av %n"
@@ -152,8 +152,8 @@ msgstr "gli %n sekunder til x:%n y:%n"
 msgid "go back %n layers"
 msgstr "gå nedover %n lag"
 
-msgid "go to %m.spriteOrMouse"
-msgstr "gå til %m.spriteOrMouse"
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "gå til %m.spriteOrMouse"
 
 msgid "go to front"
 msgstr "legg øverst"
@@ -471,8 +471,8 @@ msgstr "når jeg mottar %m.broadcast"
 msgid "when I start as a clone"
 msgstr "når jeg starter som klon"
 
-#~ msgid "when Stage clicked"
-#~ msgstr "når scenen klikkes"
+msgid "when Stage clicked"
+msgstr "når scenen klikkes"
 
 msgid "when this sprite clicked"
 msgstr "når denne figuren klikkes"
@@ -487,28 +487,28 @@ msgid "y position"
 msgstr "y-posisjon"
 
 # 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "dreieretning %m.motorDirection"
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "dreieretning %m.motorDirection"
 
 # 77%
-msgid "set motor power %n"
-msgstr "styrke %n"
+#~ msgid "set motor power %n"
+#~ msgstr "styrke %n"
 
-msgid "turn motor off"
-msgstr "skru av motor"
+#~ msgid "turn motor off"
+#~ msgstr "skru av motor"
 
-msgid "turn motor on"
-msgstr "skru på motor"
+#~ msgid "turn motor on"
+#~ msgstr "skru på motor"
 
 # 80%
-msgid "turn motor on for %n secs"
-msgstr "motor på i %n sekunder"
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "motor på i %n sekunder"
 
-msgid "when distance < %n"
-msgstr "når avstand < %n"
+#~ msgid "when distance < %n"
+#~ msgstr "når avstand < %n"
 
-msgid "when tilt = %n"
-msgstr "når helning = %n"
+#~ msgid "when tilt = %n"
+#~ msgstr "når helning = %n"
 
 # 89%
 # 86%
@@ -568,3 +568,6 @@ msgstr "når helning = %n"
 #: commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list inneholder %s?"
+
+msgid "go to %m.location"
+msgstr ""

@@ -16,8 +16,8 @@ msgstr ""
 "X-POOTLE-MTIME: 1431493639.000000\n"
 
 # The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Latviešu"
+#~ msgid "Language-Name"
+#~ msgstr "Latviešu"
 
 msgid "%b and %b"
 msgstr "%b un %b"
@@ -28,8 +28,8 @@ msgstr "%b vai %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute no %m.spriteOrStage"
 
-msgid "%m.list contains %s"
-msgstr "%m.list satur %s"
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list satur %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp no %n"
@@ -153,8 +153,8 @@ msgstr "slīdēt %n sekundes uz x:%n y:%n"
 msgid "go back %n layers"
 msgstr "iet %n slāņus atpakaļ"
 
-msgid "go to %m.spriteOrMouse"
-msgstr "iet uz %m.spriteOrMouse"
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "iet uz %m.spriteOrMouse"
 
 msgid "go to front"
 msgstr "iet uz priekšpusi"
@@ -466,8 +466,8 @@ msgstr "kad es saņemu %m.broadcast"
 msgid "when I start as a clone"
 msgstr "Kad es parādos kā dublikāts"
 
-#~ msgid "when Stage clicked"
-#~ msgstr "kad noklikšķināta skatuve"
+msgid "when Stage clicked"
+msgstr "kad noklikšķināta skatuve"
 
 msgid "when this sprite clicked"
 msgstr "kad noklikšķināts uz šī gariņa"
@@ -481,26 +481,26 @@ msgstr "x pozīcija"
 msgid "y position"
 msgstr "y pozīcija"
 
-msgid "set motor direction %m.motorDirection"
-msgstr "iestatīt motora virzienu uz %m.motorDirection"
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "iestatīt motora virzienu uz %m.motorDirection"
 
-msgid "set motor power %n"
-msgstr "iestatīt motora jaudu %n"
+#~ msgid "set motor power %n"
+#~ msgstr "iestatīt motora jaudu %n"
 
-msgid "turn motor off"
-msgstr "izslēgt motoru"
+#~ msgid "turn motor off"
+#~ msgstr "izslēgt motoru"
 
-msgid "turn motor on"
-msgstr "ieslēgt motoru"
+#~ msgid "turn motor on"
+#~ msgstr "ieslēgt motoru"
 
-msgid "turn motor on for %n secs"
-msgstr "iezlēgt motoru uz %n sekundēm"
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "iezlēgt motoru uz %n sekundēm"
 
-msgid "when distance < %n"
-msgstr "kad attālums < %n"
+#~ msgid "when distance < %n"
+#~ msgstr "kad attālums < %n"
 
-msgid "when tilt = %n"
-msgstr "kad noliekts = %n"
+#~ msgid "when tilt = %n"
+#~ msgstr "kad noliekts = %n"
 
 # 86%
 #, fuzzy
@@ -529,3 +529,6 @@ msgstr "kad noliekts = %n"
 #: commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list satur %s?"
+
+msgid "go to %m.location"
+msgstr ""

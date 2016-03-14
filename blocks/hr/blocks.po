@@ -16,8 +16,8 @@ msgstr ""
 "X-POOTLE-MTIME: 1429106166.000000\n"
 
 # The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Hrvatski"
+#~ msgid "Language-Name"
+#~ msgstr "Hrvatski"
 
 msgid "%b and %b"
 msgstr "%b i %b"
@@ -28,8 +28,8 @@ msgstr "%b ili %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute od %m.spriteOrStage"
 
-msgid "%m.list contains %s"
-msgstr "%m.list sadrži %s"
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list sadrži %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp od %n"
@@ -153,8 +153,8 @@ msgstr "klizi %n sekundi do x:%n y:%n"
 msgid "go back %n layers"
 msgstr "idi natrag %n slojeva"
 
-msgid "go to %m.spriteOrMouse"
-msgstr "idi do %m.spriteOrMouse"
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "idi do %m.spriteOrMouse"
 
 msgid "go to front"
 msgstr "idi u najgornji sloj"
@@ -489,27 +489,27 @@ msgid "y position"
 msgstr "y položaj"
 
 # 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "postavi smjer motora %m.motorDirection"
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "postavi smjer motora %m.motorDirection"
 
 # 77%
-msgid "set motor power %n"
-msgstr "postavi snagu motora %n"
+#~ msgid "set motor power %n"
+#~ msgstr "postavi snagu motora %n"
 
-msgid "turn motor off"
-msgstr "isključi motor"
+#~ msgid "turn motor off"
+#~ msgstr "isključi motor"
 
-msgid "turn motor on"
-msgstr "uključi motor"
+#~ msgid "turn motor on"
+#~ msgstr "uključi motor"
 
-msgid "turn motor on for %n secs"
-msgstr "uključi motor na %n sekundi"
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "uključi motor na %n sekundi"
 
-msgid "when distance < %n"
-msgstr "kada je udaljenost < %n"
+#~ msgid "when distance < %n"
+#~ msgstr "kada je udaljenost < %n"
 
-msgid "when tilt = %n"
-msgstr "kad je nagib = %n"
+#~ msgid "when tilt = %n"
+#~ msgstr "kad je nagib = %n"
 
 # 89%
 # 86%
@@ -545,3 +545,6 @@ msgstr "kad je nagib = %n"
 #: commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list sadrži %s?"
+
+msgid "go to %m.location"
+msgstr ""

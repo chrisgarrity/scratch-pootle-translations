@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-09-17 09:12+0000\n"
+"PO-Revision-Date: 2016-03-09 21:22+0000\n"
 "Last-Translator: GunChleoc <fios@foramnagaidhlig.net>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: gd\n"
@@ -13,11 +13,11 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n==1 || n==11) ? 0 : (n==2 || n==12) ? 1 : "
 "(n > 2 && n < 20) ? 2 : 3;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1442481167.000000\n"
+"X-POOTLE-MTIME: 1457558565.000000\n"
 
 # The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Gàidhlig"
+#~ msgid "Language-Name"
+#~ msgstr "Gàidhlig"
 
 msgid "%b and %b"
 msgstr "%b agus %b"
@@ -28,8 +28,8 @@ msgstr "%b no %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute aig %m.spriteOrStage"
 
-msgid "%m.list contains %s"
-msgstr "%m.list ann agus %s na broinn"
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list ann agus %s na broinn"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp aig %n"
@@ -153,8 +153,8 @@ msgstr "gluais fad %n diog gu x:%n y:%n"
 msgid "go back %n layers"
 msgstr "%n breathan dhan chùl"
 
-msgid "go to %m.spriteOrMouse"
-msgstr "rach gu %m.spriteOrMouse"
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "rach gu %m.spriteOrMouse"
 
 msgid "go to front"
 msgstr "rach gun fhìor-bheulaibh"
@@ -187,7 +187,7 @@ msgid "join %s %s"
 msgstr "ceangail %s ri %s"
 
 msgid "key %m.key pressed?"
-msgstr "an iuchair %m.key ga brùthadh"
+msgstr "iuchair %m.key ga brùthadh"
 
 msgid "length of %m.list"
 msgstr "an fhaide aig %m.list"
@@ -460,8 +460,8 @@ msgstr "nuair a gheibh thu %m.broadcast"
 msgid "when I start as a clone"
 msgstr "nuair a thèid thu nad chlòn"
 
-#~ msgid "when Stage clicked"
-#~ msgstr "le briogadh air an àrd-ùrlar"
+msgid "when Stage clicked"
+msgstr "le briogadh air an àrd-ùrlar"
 
 msgid "when this sprite clicked"
 msgstr "le briogadh air an sprìd seo"
@@ -475,28 +475,31 @@ msgstr "ionad x"
 msgid "y position"
 msgstr "ionad y"
 
-msgid "set motor direction %m.motorDirection"
-msgstr "cuir comhair a' mhotair air %m.motorDirection"
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "cuir comhair a' mhotair air %m.motorDirection"
 
-msgid "set motor power %n"
-msgstr "cuir cumhachd a' mhotair air %n"
+#~ msgid "set motor power %n"
+#~ msgstr "cuir cumhachd a' mhotair air %n"
 
-msgid "turn motor off"
-msgstr "cuir am motar dheth"
+#~ msgid "turn motor off"
+#~ msgstr "cuir am motar dheth"
 
-msgid "turn motor on"
-msgstr "cuir am motar air"
+#~ msgid "turn motor on"
+#~ msgstr "cuir am motar air"
 
-msgid "turn motor on for %n secs"
-msgstr "cuir am motar air fad %n diog"
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "cuir am motar air fad %n diog"
 
-msgid "when distance < %n"
-msgstr "nuair a thèid an t-astar < %n"
+#~ msgid "when distance < %n"
+#~ msgstr "nuair a thèid an t-astar < %n"
 
-msgid "when tilt = %n"
-msgstr "nuair a thèid an claonadh = %n"
+#~ msgid "when tilt = %n"
+#~ msgstr "nuair a thèid an claonadh = %n"
 
 #: commands-online.txt:7
 #: commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list ann agus %s na broinn"
+
+msgid "go to %m.location"
+msgstr "rach gu %m.location"

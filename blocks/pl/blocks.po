@@ -237,10 +237,8 @@ msgstr "leć przez %n s do x:%n y:%n"
 msgid "go back %n layers"
 msgstr "wróć o %n warstw"
 
-#: commands-online.txt:89
-#: commands-offline.txt:89
-msgid "go to %m.spriteOrMouse"
-msgstr "idź do %m.spriteOrMouse"
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "idź do %m.spriteOrMouse"
 
 #: commands-online.txt:91
 #: commands-offline.txt:91
@@ -784,3 +782,9 @@ msgstr "współrzędna y"
 #, fuzzy
 msgid "%m.list contains %s"
 msgstr "%m.list zawiera %s?"
+
+msgid "go to %m.location"
+msgstr ""
+
+msgid "when Stage clicked"
+msgstr ""

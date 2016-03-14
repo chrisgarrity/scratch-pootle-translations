@@ -16,8 +16,8 @@ msgstr ""
 "X-POOTLE-MTIME: 1450979274.000000\n"
 
 # The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Українська"
+#~ msgid "Language-Name"
+#~ msgstr "Українська"
 
 msgid "%b and %b"
 msgstr "%b і %b"
@@ -28,8 +28,8 @@ msgstr "%b або %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute з %m.spriteOrStage"
 
-msgid "%m.list contains %s"
-msgstr "%m.list міститься у %s"
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list міститься у %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp з %n"
@@ -153,8 +153,8 @@ msgstr "ковзати %n сек до x:%n y:%n"
 msgid "go back %n layers"
 msgstr "стати позаду %n об'єктів"
 
-msgid "go to %m.spriteOrMouse"
-msgstr "перемістити в %m.spriteOrMouse"
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "перемістити в %m.spriteOrMouse"
 
 msgid "go to front"
 msgstr "стати попереду всіх"
@@ -472,8 +472,8 @@ msgstr "коли я отримаю %m.broadcast"
 msgid "when I start as a clone"
 msgstr "коли я починаю як клон"
 
-#~ msgid "when Stage clicked"
-#~ msgstr "коли Сцену натиснуто"
+msgid "when Stage clicked"
+msgstr "коли Сцену натиснуто"
 
 msgid "when this sprite clicked"
 msgstr "коли спрайт натиснуто"
@@ -488,28 +488,28 @@ msgid "y position"
 msgstr "значення y"
 
 # 100%
-msgid "set motor direction %m.motorDirection"
-msgstr "напрям двигуна %m.motorDirection"
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "напрям двигуна %m.motorDirection"
 
 # 77%
-msgid "set motor power %n"
-msgstr "потужність двигуна %n"
+#~ msgid "set motor power %n"
+#~ msgstr "потужність двигуна %n"
 
-msgid "turn motor off"
-msgstr "вимкнути двигун"
+#~ msgid "turn motor off"
+#~ msgstr "вимкнути двигун"
 
-msgid "turn motor on"
-msgstr "увімкнути двигун"
+#~ msgid "turn motor on"
+#~ msgstr "увімкнути двигун"
 
 # 100%
-msgid "turn motor on for %n secs"
-msgstr "двигун увімкнути на %n сек"
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "двигун увімкнути на %n сек"
 
-msgid "when distance < %n"
-msgstr "коли відстань < %n"
+#~ msgid "when distance < %n"
+#~ msgstr "коли відстань < %n"
 
-msgid "when tilt = %n"
-msgstr "коли нахил = %n"
+#~ msgid "when tilt = %n"
+#~ msgstr "коли нахил = %n"
 
 # 100%
 # 86%
@@ -568,3 +568,6 @@ msgstr "коли нахил = %n"
 #: commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list містить %s?"
+
+msgid "go to %m.location"
+msgstr ""

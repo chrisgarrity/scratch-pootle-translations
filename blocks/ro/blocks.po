@@ -16,8 +16,8 @@ msgstr ""
 "X-POOTLE-MTIME: 1453279771.000000\n"
 
 # The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Română"
+#~ msgid "Language-Name"
+#~ msgstr "Română"
 
 msgid "%b and %b"
 msgstr "%b și %b"
@@ -28,8 +28,8 @@ msgstr "%b sau %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute din %m.spriteOrStage"
 
-msgid "%m.list contains %s"
-msgstr "%m.list conține %s"
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list conține %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp din %n"
@@ -153,8 +153,8 @@ msgstr "gliseaza in %n secunde la x:%n y:%n"
 msgid "go back %n layers"
 msgstr "mergi inapoi %n straturi"
 
-msgid "go to %m.spriteOrMouse"
-msgstr "du-te la %m.spriteOrMouse"
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "du-te la %m.spriteOrMouse"
 
 msgid "go to front"
 msgstr "du-te in prim plan"
@@ -487,28 +487,28 @@ msgid "y position"
 msgstr "pozitia y"
 
 # 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "seteaza directia motorului la %m.motorDirection"
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "seteaza directia motorului la %m.motorDirection"
 
 # 77%
-msgid "set motor power %n"
-msgstr "seteaza puterea motorului la %n"
+#~ msgid "set motor power %n"
+#~ msgstr "seteaza puterea motorului la %n"
 
-msgid "turn motor off"
-msgstr "opreste motorul"
+#~ msgid "turn motor off"
+#~ msgstr "opreste motorul"
 
-msgid "turn motor on"
-msgstr "porneste motorul"
+#~ msgid "turn motor on"
+#~ msgstr "porneste motorul"
 
 # 80%
-msgid "turn motor on for %n secs"
-msgstr "porneste motorul pentru %n sec"
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "porneste motorul pentru %n sec"
 
-msgid "when distance < %n"
-msgstr "cand distanta < %n"
+#~ msgid "when distance < %n"
+#~ msgstr "cand distanta < %n"
 
-msgid "when tilt = %n"
-msgstr "cand inclinarea = %n"
+#~ msgid "when tilt = %n"
+#~ msgstr "cand inclinarea = %n"
 
 # 89%
 # 86%
@@ -547,3 +547,6 @@ msgstr "cand inclinarea = %n"
 #: commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list conține %s?"
+
+msgid "go to %m.location"
+msgstr ""

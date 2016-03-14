@@ -15,8 +15,8 @@ msgstr ""
 "X-POOTLE-MTIME: 1425189419.000000\n"
 
 # The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "বাংলা (ভারত)"
+#~ msgid "Language-Name"
+#~ msgstr "বাংলা (ভারত)"
 
 msgid "%b and %b"
 msgstr "%b এবং %b"
@@ -27,8 +27,8 @@ msgstr "%b অথবা %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute -এর %m.spriteOrStage"
 
-msgid "%m.list contains %s"
-msgstr "%m.list -এর মধ্যে %s"
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list -এর মধ্যে %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp -এর %n"
@@ -503,3 +503,6 @@ msgstr ""
 #, fuzzy
 msgid "%m.list contains %s?"
 msgstr "%m.list -এর মধ্যে %s"
+
+msgid "go to %m.location"
+msgstr ""

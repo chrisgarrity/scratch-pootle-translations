@@ -15,8 +15,8 @@ msgstr ""
 "X-POOTLE-MTIME: 1451940570.000000\n"
 
 # The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Kreyòl"
+#~ msgid "Language-Name"
+#~ msgstr "Kreyòl"
 
 msgid "%b and %b"
 msgstr "%b ak %b"
@@ -27,8 +27,8 @@ msgstr "%b oubyen %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute nan %m.spriteOrStage"
 
-msgid "%m.list contains %s"
-msgstr "%m.list sa gen %s ladan"
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list sa gen %s ladan"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp sou %n"
@@ -152,8 +152,8 @@ msgstr "glise pandan %n segond ale nan pozisyon x:%n y:%n"
 msgid "go back %n layers"
 msgstr "retounen %n kouch"
 
-msgid "go to %m.spriteOrMouse"
-msgstr "ale nan %m.spriteOrMouse"
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "ale nan %m.spriteOrMouse"
 
 msgid "go to front"
 msgstr "ale sou devan"
@@ -474,26 +474,26 @@ msgstr "pozisyon x"
 msgid "y position"
 msgstr "pozisyon y"
 
-msgid "set motor direction %m.motorDirection"
-msgstr "mete direksyon %m.motorDirection"
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "mete direksyon %m.motorDirection"
 
-msgid "set motor power %n"
-msgstr "mete fòs motè a sou %n"
+#~ msgid "set motor power %n"
+#~ msgstr "mete fòs motè a sou %n"
 
-msgid "turn motor off"
-msgstr "etenn motè"
+#~ msgid "turn motor off"
+#~ msgstr "etenn motè"
 
-msgid "turn motor on"
-msgstr "estat motè"
+#~ msgid "turn motor on"
+#~ msgstr "estat motè"
 
-msgid "turn motor on for %n secs"
-msgstr "estat motè pandan %n segonn"
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "estat motè pandan %n segonn"
 
-msgid "when distance < %n"
-msgstr "lè distans < %n"
+#~ msgid "when distance < %n"
+#~ msgstr "lè distans < %n"
 
-msgid "when tilt = %n"
-msgstr "lè panche = %n"
+#~ msgid "when tilt = %n"
+#~ msgstr "lè panche = %n"
 
 #~ msgid "forever if %b"
 #~ msgstr "repete nèt ale si %b"
@@ -505,3 +505,6 @@ msgstr "lè panche = %n"
 #: commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list sa gen %s ladan?"
+
+msgid "go to %m.location"
+msgstr ""

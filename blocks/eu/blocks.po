@@ -15,8 +15,8 @@ msgstr ""
 "X-POOTLE-MTIME: 1429105996.000000\n"
 
 # The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Euskara"
+#~ msgid "Language-Name"
+#~ msgstr "Euskara"
 
 msgid "%b and %b"
 msgstr "%b eta %b"
@@ -27,8 +27,8 @@ msgstr "%b edo %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute -- %m.spriteOrStage"
 
-msgid "%m.list contains %s"
-msgstr "%m.list barnean dago %s"
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list barnean dago %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp -- %n"
@@ -152,8 +152,8 @@ msgstr "%n segundutan x: %n y: %n (e)ra"
 msgid "go back %n layers"
 msgstr "atzera joan %n geruza"
 
-msgid "go to %m.spriteOrMouse"
-msgstr "joan %m.spriteOrMouse kokapenera"
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "joan %m.spriteOrMouse kokapenera"
 
 msgid "go to front"
 msgstr "aurrekaldera joan"
@@ -470,8 +470,8 @@ msgstr "%m.broadcast jasotzean"
 msgid "when I start as a clone"
 msgstr "klon moduan hastean"
 
-#~ msgid "when Stage clicked"
-#~ msgstr "Eszenatokia sakatzean"
+msgid "when Stage clicked"
+msgstr "Eszenatokia sakatzean"
 
 msgid "when this sprite clicked"
 msgstr "Sprite hau sakatzean"
@@ -486,28 +486,28 @@ msgid "y position"
 msgstr "y posizioa"
 
 # 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "motore norabidea = %m.motorDirection"
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "motore norabidea = %m.motorDirection"
 
 # 77%
-msgid "set motor power %n"
-msgstr "motorearen ahalmena = %n"
+#~ msgid "set motor power %n"
+#~ msgstr "motorearen ahalmena = %n"
 
-msgid "turn motor off"
-msgstr "motorea itzali"
+#~ msgid "turn motor off"
+#~ msgstr "motorea itzali"
 
-msgid "turn motor on"
-msgstr "motorea piztu"
+#~ msgid "turn motor on"
+#~ msgstr "motorea piztu"
 
 # 80%
-msgid "turn motor on for %n secs"
-msgstr "motorea piztu %n segunduz"
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "motorea piztu %n segunduz"
 
-msgid "when distance < %n"
-msgstr "distantzia < %n denean"
+#~ msgid "when distance < %n"
+#~ msgstr "distantzia < %n denean"
 
-msgid "when tilt = %n"
-msgstr "malda = %n denean"
+#~ msgid "when tilt = %n"
+#~ msgstr "malda = %n denean"
 
 # 89%
 # 86%
@@ -542,3 +542,6 @@ msgstr "malda = %n denean"
 #: commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list barnean dago %s?"
+
+msgid "go to %m.location"
+msgstr ""

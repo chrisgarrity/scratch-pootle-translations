@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-12-27 09:40+0000\n"
+"PO-Revision-Date: 2016-03-14 09:16+0000\n"
 "Last-Translator: Chun-Nan <brian030218@outlook.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_TW\n"
@@ -12,11 +12,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1451209216.000000\n"
+"X-POOTLE-MTIME: 1457946974.000000\n"
 
 # The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "正體中文"
+#~ msgid "Language-Name"
+#~ msgstr "正體中文"
 
 msgid "%b and %b"
 msgstr "%b 和 %b"
@@ -27,8 +27,8 @@ msgstr "%b 或 %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.spriteOrStage 的 %m.attribute"
 
-msgid "%m.list contains %s"
-msgstr "%m.list 內包含 %s"
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list 內包含 %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%n 的 %m.mathOp"
@@ -152,8 +152,8 @@ msgstr "在 %n 秒內，滑行到 x:%n y:%n"
 msgid "go back %n layers"
 msgstr "下移 %n 層"
 
-msgid "go to %m.spriteOrMouse"
-msgstr "移到 %m.spriteOrMouse"
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "移到 %m.spriteOrMouse"
 
 msgid "go to front"
 msgstr "移到最上層"
@@ -470,8 +470,8 @@ msgstr "當我接收到 %m.broadcast"
 msgid "when I start as a clone"
 msgstr "當分身產生"
 
-#~ msgid "when Stage clicked"
-#~ msgstr "當舞臺被點一下"
+msgid "when Stage clicked"
+msgstr "當舞臺被點一下"
 
 msgid "when this sprite clicked"
 msgstr "當角色被點擊"
@@ -486,28 +486,28 @@ msgid "y position"
 msgstr "y 座標"
 
 # 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "設定馬達運轉方向 %m.motorDirection"
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "設定馬達運轉方向 %m.motorDirection"
 
 # 77%
-msgid "set motor power %n"
-msgstr "設定馬達動力 %n"
+#~ msgid "set motor power %n"
+#~ msgstr "設定馬達動力 %n"
 
-msgid "turn motor off"
-msgstr "關閉馬達"
+#~ msgid "turn motor off"
+#~ msgstr "關閉馬達"
 
-msgid "turn motor on"
-msgstr "啟動馬達"
+#~ msgid "turn motor on"
+#~ msgstr "啟動馬達"
 
 # 80%
-msgid "turn motor on for %n secs"
-msgstr "啟動馬達運轉 %n 秒"
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "啟動馬達運轉 %n 秒"
 
-msgid "when distance < %n"
-msgstr "當距離 < %n"
+#~ msgid "when distance < %n"
+#~ msgstr "當距離 < %n"
 
-msgid "when tilt = %n"
-msgstr "當傾斜度 = %n"
+#~ msgid "when tilt = %n"
+#~ msgstr "當傾斜度 = %n"
 
 # 89%
 # 86%
@@ -542,3 +542,6 @@ msgstr "當傾斜度 = %n"
 #: commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list 中包含 %s？"
+
+msgid "go to %m.location"
+msgstr "移到 %m.location"

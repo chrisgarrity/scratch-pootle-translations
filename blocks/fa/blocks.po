@@ -15,8 +15,8 @@ msgstr ""
 "X-POOTLE-MTIME: 1423417966.000000\n"
 
 # The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "فارسی"
+#~ msgid "Language-Name"
+#~ msgstr "فارسی"
 
 msgid "%b and %b"
 msgstr "%b و %b"
@@ -27,8 +27,8 @@ msgstr "%b یا %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute از %m.spriteOrStage"
 
-msgid "%m.list contains %s"
-msgstr "%m.لیست حاوی %s"
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.لیست حاوی %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp از %n"
@@ -152,8 +152,8 @@ msgstr "n% ثانیه آهسته برو به ایکس:%n وای:%n"
 msgid "go back %n layers"
 msgstr "لایه به عقب %n برو"
 
-msgid "go to %m.spriteOrMouse"
-msgstr " برو به %m.spriteOrMouse برو به"
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr " برو به %m.spriteOrMouse برو به"
 
 msgid "go to front"
 msgstr "برو به جلو"
@@ -468,8 +468,8 @@ msgstr "تا زمانی که %m.broadcast را دریافت کنم"
 msgid "when I start as a clone"
 msgstr "تا زمانی که به عنوان یک تکراری شروع کنم"
 
-#~ msgid "when Stage clicked"
-#~ msgstr "وقتی صحنه کلیک شد"
+msgid "when Stage clicked"
+msgstr "وقتی صحنه کلیک شد"
 
 msgid "when this sprite clicked"
 msgstr "تا زمانی که این شکلک کلیک شود"
@@ -484,28 +484,28 @@ msgid "y position"
 msgstr "موقعیت y"
 
 # 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "راستای حرکت موتور را %m.motorDirection قرار بده"
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "راستای حرکت موتور را %m.motorDirection قرار بده"
 
 # 77%
-msgid "set motor power %n"
-msgstr "قدرت موتور را %n قرار بده"
+#~ msgid "set motor power %n"
+#~ msgstr "قدرت موتور را %n قرار بده"
 
-msgid "turn motor off"
-msgstr "موتور را خاموش کن"
+#~ msgid "turn motor off"
+#~ msgstr "موتور را خاموش کن"
 
-msgid "turn motor on"
-msgstr "موتور را روشن کن"
+#~ msgid "turn motor on"
+#~ msgstr "موتور را روشن کن"
 
 # 80%
-msgid "turn motor on for %n secs"
-msgstr "موتور را برای %n ثانیه روشن کن"
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "موتور را برای %n ثانیه روشن کن"
 
-msgid "when distance < %n"
-msgstr "تا زمانی که فاصله < %n شود"
+#~ msgid "when distance < %n"
+#~ msgstr "تا زمانی که فاصله < %n شود"
 
-msgid "when tilt = %n"
-msgstr "تا زمانی که مقدار کج شوندگی = %n شود"
+#~ msgid "when tilt = %n"
+#~ msgstr "تا زمانی که مقدار کج شوندگی = %n شود"
 
 # 89%
 # 86%
@@ -542,3 +542,6 @@ msgstr "تا زمانی که مقدار کج شوندگی = %n شود"
 #, fuzzy
 msgid "%m.list contains %s?"
 msgstr "%m.لیست حاوی %s"
+
+msgid "go to %m.location"
+msgstr ""

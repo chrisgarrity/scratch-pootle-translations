@@ -16,8 +16,8 @@ msgstr ""
 "X-POOTLE-MTIME: 1429111523.000000\n"
 
 # The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Slovenščina"
+#~ msgid "Language-Name"
+#~ msgstr "Slovenščina"
 
 msgid "%b and %b"
 msgstr "%b in %b"
@@ -28,8 +28,8 @@ msgstr "%b ali %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute od %m.spriteOrStage"
 
-msgid "%m.list contains %s"
-msgstr "%m.list vsebuje %s"
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list vsebuje %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp %n"
@@ -153,8 +153,8 @@ msgstr "drsi %n sekund do x:%n y:%n"
 msgid "go back %n layers"
 msgstr "prestavi za %n plasti nazaj"
 
-msgid "go to %m.spriteOrMouse"
-msgstr "pojdi na mesto %m.spriteOrMouse"
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "pojdi na mesto %m.spriteOrMouse"
 
 msgid "go to front"
 msgstr "prestavi v ospredje"
@@ -465,8 +465,8 @@ msgstr "ko prejmem %m.broadcast"
 msgid "when I start as a clone"
 msgstr "ko začnem kot klon"
 
-#~ msgid "when Stage clicked"
-#~ msgstr "ko klikneš na oder"
+msgid "when Stage clicked"
+msgstr "ko klikneš na oder"
 
 msgid "when this sprite clicked"
 msgstr "ko je ta figura kliknjena"
@@ -480,26 +480,26 @@ msgstr "položaj x"
 msgid "y position"
 msgstr "položaj y"
 
-msgid "set motor direction %m.motorDirection"
-msgstr "nastavi smer motorja %m.motorDirection"
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "nastavi smer motorja %m.motorDirection"
 
-msgid "set motor power %n"
-msgstr "nastavi moč motorja %n"
+#~ msgid "set motor power %n"
+#~ msgstr "nastavi moč motorja %n"
 
-msgid "turn motor off"
-msgstr "ugasni motor"
+#~ msgid "turn motor off"
+#~ msgstr "ugasni motor"
 
-msgid "turn motor on"
-msgstr "prižgi motor"
+#~ msgid "turn motor on"
+#~ msgstr "prižgi motor"
 
-msgid "turn motor on for %n secs"
-msgstr "vključi motor za %n sekund"
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "vključi motor za %n sekund"
 
-msgid "when distance < %n"
-msgstr "ko je razdalja < %n"
+#~ msgid "when distance < %n"
+#~ msgstr "ko je razdalja < %n"
 
-msgid "when tilt = %n"
-msgstr "ko je naklon %n"
+#~ msgid "when tilt = %n"
+#~ msgstr "ko je naklon %n"
 
 #~ msgid "user name"
 #~ msgstr "ime uporabnika"
@@ -532,3 +532,6 @@ msgstr "ko je naklon %n"
 #: commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list vsebuje %s?"
+
+msgid "go to %m.location"
+msgstr ""

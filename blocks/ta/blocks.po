@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2016-03-01 11:27+0000\n"
-"Last-Translator: Ganesh <ganesh5.m@tcs.com>\n"
+"PO-Revision-Date: 2016-03-11 09:24+0000\n"
+"Last-Translator: Ganesh <m.ganesh.mohan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
@@ -12,11 +12,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1456831634.000000\n"
+"X-POOTLE-MTIME: 1457688297.000000\n"
 
 # The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "தமிழ்"
+#~ msgid "Language-Name"
+#~ msgstr "தமிழ்"
 
 msgid "%b and %b"
 msgstr "%b மற்றும் %b"
@@ -25,96 +25,96 @@ msgid "%b or %b"
 msgstr "%b அல்லது %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
-msgstr "%m.spriteOrStage-ன் %m.attribute"
+msgstr "%m.spriteOrStage ன் %m.attribute"
 
-msgid "%m.list contains %s"
-msgstr "%m.list %sஐ கொண்டுள்ளது  "
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list %sஐ கொண்டுள்ளது  "
 
 msgid "%m.mathOp of %n"
-msgstr "%n-ன் %m.mathOp"
+msgstr "%n ன் %m.mathOp"
 
 msgid "%m.sensor sensor value"
-msgstr "%m.sensor உணரி மதிப்பு "
+msgstr "%m.sensor உணரி மதிப்பு"
 
 msgid "%n mod %n"
 msgstr "%n வகு மீதி %n"
 
 msgid "add %s to %m.list"
-msgstr "%m.list பட்டியலில் %s ஐ சேர்க்கவும்"
+msgstr "%s ஐ %m.list பட்டியலில் சேர்க்கவும்"
 
 msgid "answer"
-msgstr "விடை"
+msgstr "பதில்"
 
 msgid "ask %s and wait"
-msgstr "%s  ஐ கேட்டு காத்திருக்கவும் "
+msgstr "%s ஐ கேட்டு காத்திருக்கவும்"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
-msgstr "பின்ணணி #"
+msgstr "பின்னணி"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr "பின்ணணி பெயர்"
+msgstr "பின்னணி பெயர்"
 
 msgid "broadcast %m.broadcast"
 msgstr "%m.broadcast ஒளிபரப்பு"
 
 msgid "broadcast %m.broadcast and wait"
-msgstr "%m.broadcast ஒளிபரப்பி காத்திரு "
+msgstr "%m.broadcast ஒளிபரப்பி காத்திரு"
 
 msgid "change %m.effect effect by %n"
-msgstr "%m.effect-ன் விளைவை %n-ஆல் மாற்று"
+msgstr "%m.effect-ன் விளைவை %n ஆல் மாற்று"
 
 msgid "change %m.var by %n"
-msgstr "%m.var %n ஆல் மாற்று "
+msgstr "%m.var %n ஆல் மாற்று"
 
 msgid "change pen color by %n"
-msgstr "பேனா நிறத்தை %n-ஆல் மாற்று "
+msgstr "பேனா நிறத்தை %n ஆல் மாற்று"
 
 msgid "change pen shade by %n"
-msgstr "பேனா வண்ணச்சாயலை %nஆல் மாற்று "
+msgstr "பேனா வண்ணச்சாயலை %n ஆல் மாற்று"
 
 msgid "change pen size by %n"
-msgstr "பேனா உருவளவை  %n-ஆல் மாற்று "
+msgstr "பேனா உருவளவை %n ஆல் மாற்று"
 
 msgid "change size by %n"
-msgstr " உருவளவை  %n-ஆல் மாற்று "
+msgstr "உருவளவை %n ஆல் மாற்று"
 
 msgid "change tempo by %n"
-msgstr "இசைவேகத்தை %nஆல் மாற்று"
+msgstr "இசைவேகத்தை %n ஆல் மாற்று"
 
 msgid "change volume by %n"
-msgstr " ஒலி  அளவை   %n-ஆல் மாற்று "
+msgstr "ஒலி அளவை %n ஆல் மாற்று"
 
 msgid "change x by %n"
-msgstr "x ஐ %nஆல் மாற்று "
+msgstr "x ஐ %n ஆல் மாற்று"
 
 msgid "change y by %n"
-msgstr "y ஐ %nஆல் மாற்று "
+msgstr "y ஐ %n ஆல் மாற்று"
 
 msgid "clear"
 msgstr "அழி"
 
 msgid "clear graphic effects"
-msgstr "கிராஃபிக் விளைவை  அழி"
+msgstr "கிராஃபிக் விளைவை அழி"
 
 msgid "color %c is touching %c?"
-msgstr "%c நிறம் %c-ஐ தொடுகிறதா?"
+msgstr "%c நிறம் %c ஐ தொடுகிறதா?"
 
 msgid "Control"
-msgstr "கட்டுப்பாடு "
+msgstr "கட்டுப்பாடு"
 
 msgid "costume #"
 msgstr "உடை #"
 
 msgid "create clone of %m.spriteOnly"
-msgstr "5m.spriteOnly-ஐ நகலெடு"
+msgstr "5m.spriteOnly ஐ நகலெடு"
 
 msgid "current %m.timeAndDate"
 msgstr "தற்போதைய %m.timeAndDate"
 
 msgid "Data"
-msgstr "டேடா"
+msgstr "தரவு"
 
 msgid "days since 2000"
 msgstr "2000-லிருந்து நாட்கள்"
@@ -123,7 +123,7 @@ msgid "define"
 msgstr "வரையறு"
 
 msgid "delete %d.listDeleteItem of %m.list"
-msgstr "%m.list லிருந்து %d.listDeleteItem நீக்கவும்"
+msgstr "%d.listDeleteItem ஐ %m.list லிருந்து நீக்கவும்"
 
 msgid "delete this clone"
 msgstr "இந்த நகலை நீக்கவும்"
@@ -135,7 +135,7 @@ msgid "distance"
 msgstr "தூரம்"
 
 msgid "distance to %m.spriteOrMouse"
-msgstr "%m.spriteOrMouse-க்கு தூரம்"
+msgstr "%m.spriteOrMouse க்கு தூரம்"
 
 msgid "else"
 msgstr "இல்லையென்றல்"
@@ -144,25 +144,25 @@ msgid "Events"
 msgstr "நிகழ்வுகள்"
 
 msgid "forever"
-msgstr "நிரந்தரமாக "
+msgstr "முடிவில்லாமல்"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr "x:%n  y:%n-க்கு   %n வினாடியில் நழுவு"
+msgstr "x:%n  y:%n க்கு   %n வினாடியில் நழுவு"
 
 msgid "go back %n layers"
 msgstr "%n அடுக்குகள் பின்செல்லவும்"
 
-msgid "go to %m.spriteOrMouse"
-msgstr "%m.spriteOrMouse -க்கு செல்"
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "%m.spriteOrMouse -க்கு செல்"
 
 msgid "go to front"
 msgstr "முன்னால் செல்"
 
 msgid "go to x:%n y:%n"
-msgstr "x:5n y:%n -க்கு செல்"
+msgstr "x:5n y:%n  க்கு செல்"
 
 msgid "hide"
-msgstr "மறைக்க"
+msgstr "மறைக்கவும்"
 
 msgid "hide list %m.list"
 msgstr "%m.list பட்டியலை மறைக்க"
@@ -177,25 +177,25 @@ msgid "if on edge, bounce"
 msgstr "விளிம்பில் இருந்தால் திரும்பு"
 
 msgid "insert %s at %d.listItem of %m.list"
-msgstr "%m.list-ல் %sஐ %d.listItem-ல்  சேர்க்கவும் "
+msgstr "%s ஐ %d.listItem-க %m.list ல் சேர்க்கவும்"
 
 msgid "item %d.listItem of %m.list"
-msgstr "%m.list-ன் %d.listItem உருப்படி "
+msgstr "%m.list ன் %d.listItem பொருள் "
 
 msgid "join %s %s"
-msgstr "%s ஐ %s-உடன் இணை"
+msgstr "%s ஐ %s உடன் இணை"
 
 msgid "key %m.key pressed?"
-msgstr "%m.key எழுத்து அழுத்தப்பட்டதா?  "
+msgstr "%m.key கீ அழுத்தப்பட்டதா?"
 
 msgid "length of %m.list"
-msgstr "%m.list-ன் நீளம்"
+msgstr "%m.list ன் நீளம்"
 
 msgid "length of %s"
-msgstr "%s-ன் நீளம்"
+msgstr "%s ன் நீளம்"
 
 msgid "letter %n of %s"
-msgstr "%s-ன் %n-வது எழுத்து"
+msgstr "%s ன் %n வது எழுத்து"
 
 msgid "Looks"
 msgstr "தோற்றம்"
@@ -219,7 +219,7 @@ msgid "mouse y"
 msgstr "சுட்டி y"
 
 msgid "move %n steps"
-msgstr "%nஅடிகள் நகரவும்"
+msgstr "%n அடிகள் நகரவும்"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "next backdrop"
@@ -235,7 +235,7 @@ msgid "Operators"
 msgstr "செயற்குறிகள்"
 
 msgid "Pen"
-msgstr "பேனா "
+msgstr "பேனா"
 
 msgid "pen down"
 msgstr "பேனா கீழே"
@@ -244,22 +244,22 @@ msgid "pen up"
 msgstr "பேனா மேலே"
 
 msgid "pick random %n to %n"
-msgstr "%n-லிருந்து %n-க்குள் சமவாய்ப்பு எண்ணை எடு"
+msgstr "%n லிருந்து %n க்குள் சமவாய்ப்பு எண்ணை எடு"
 
 msgid "play drum %d.drum for %n beats"
-msgstr "%n துடிப்புகளுக்கு %d.drum பறையை அடி"
+msgstr " %d.drum பறையை %n துடிப்புகளுக்கு அடி"
 
 msgid "play note %d.note for %n beats"
-msgstr "%n துடிப்புகளுக்கு %d.note ஸ்வரம் இசை"
+msgstr "%d.note ஸ்வரம் %n துடிப்புகளுக்கு இசை"
 
 msgid "play sound %m.sound"
-msgstr "%m.sound இசை"
+msgstr "%m.sound ஒலிக்க"
 
 msgid "play sound %m.sound until done"
-msgstr "%m.sound முடியும் வரை இசை "
+msgstr "%m.sound முடியும் வரை ஒலிக்க "
 
 msgid "point in direction %d.direction"
-msgstr "%d.direction திசையை காட்டு"
+msgstr "%d.direction பக்கம் பார்"
 
 msgid "point towards %m.spriteOrMouse"
 msgstr "%m.spriteOrMouse நோக்கி காட்டு"
@@ -271,10 +271,10 @@ msgid "repeat until %b"
 msgstr "%b வரை  திரும்பசெய் "
 
 msgid "replace item %d.listItem of %m.list with %s"
-msgstr "%m.list ன் %d.listItem-ம் உருப்படியை %s-ஆல் மாற்றுக "
+msgstr "%d.listItem பொருளை %m.list லிருந்து  %s ஆல் மாற்றுக"
 
 msgid "reset timer"
-msgstr "நேரங்காட்டியை மீட்டமை"
+msgstr "நேரங்கணிப்பியின்  நிலைமீட்பு"
 
 msgid "rest for %n beats"
 msgstr "%n துடிப்புகள் ஓய்வெடு"
@@ -298,28 +298,28 @@ msgid "set %m.effect effect to %n"
 msgstr "%m.effect விளைவிற்கு %n ஒதுக்கு"
 
 msgid "set %m.var to %s"
-msgstr "%m.var-க்கு %sஐ ஒதுக்கு "
+msgstr "%m.var-க்கு %s ஐ ஒதுக்கு "
 
 msgid "set instrument to %d.instrument"
-msgstr ""
+msgstr "இசைக்கருவி %d.instrument தேர்வுசெய்"
 
 msgid "set %m.motor2 direction to %m.motorDirection"
 msgstr "%m.motorDirection-க்கு %m.motor2 திசையை  ஒதுக்கு "
 
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "%m.motor சக்திக்கு %n  ஒதுக்கவும்"
 
 msgid "set pen color to %c"
-msgstr "பேனா நிறத்திற்கு %c நிறம் ஒதுக்கு "
+msgstr "பேனா நிறத்திற்கு %c நிறம் ஒதுக்கு"
 
 msgid "set pen color to %n"
-msgstr "பேனா நிறத்திற்கு %n  ஒதுக்கு "
+msgstr "பேனா நிறத்திற்கு %n  ஒதுக்கு"
 
 msgid "set pen shade to %n"
-msgstr "பேனா சாயலுக்கு  %n  ஒதுக்கு "
+msgstr "பேனா சாயலுக்கு  %n  ஒதுக்கு"
 
 msgid "set pen size to %n"
-msgstr "பேனா உருவளவிற்கு   %n  ஒதுக்கு "
+msgstr "பேனா உருவளவிற்கு   %n  ஒதுக்கு"
 
 msgid "set rotation style %m.rotationStyle"
 msgstr "சுழற்சி பாணி %m.rotationStyle"
@@ -328,19 +328,19 @@ msgid "set size to %n%"
 msgstr "உருவளவிற்கு   %n%  ஒதுக்கு "
 
 msgid "set tempo to %n bpm"
-msgstr ""
+msgstr "இசைவேகம்  %n  பிபிஎம்  ஒதுக்கவும்"
 
 msgid "set video transparency to %n%"
 msgstr ""
 
 msgid "set volume to %n%"
-msgstr "ஒலி அளவுக்கு %ன்%  ஒதுக்கு "
+msgstr "ஒலி அளவுக்கு %n%  ஒதுக்கு "
 
 msgid "set x to %n"
-msgstr "x-க்கு %n  ஒதுக்கு "
+msgstr "x-க்கு %n  ஒதுக்கு"
 
 msgid "set y to %n"
-msgstr "y-க்கு %n  ஒதுக்கு "
+msgstr "y-க்கு %n  ஒதுக்கு"
 
 msgid "show"
 msgstr "காட்டு"
@@ -390,7 +390,7 @@ msgid "tilt"
 msgstr "சாய்"
 
 msgid "timer"
-msgstr "நேரங்காட்டி"
+msgstr "நேரங்கணிப்பி"
 
 msgid "touching %m.touching?"
 msgstr "%m.touching தொடுகிறதா?"
@@ -402,10 +402,10 @@ msgid "turn @turnLeft %n degrees"
 msgstr "%n டிகிரி @turnLeft திரும்பு"
 
 msgid "turn @turnRight %n degrees"
-msgstr "%n டிகிரி @turnRight திரும்பு"
+msgstr "@turnRight பக்கம் %n டிகிரி திரும்பு"
 
 msgid "turn %m.motor off"
-msgstr "%m.motorஐ அணைக்க "
+msgstr "%m.motor ஐ அணை"
 
 msgid "turn %m.motor on"
 msgstr "%m.motor ஐ போடு"
@@ -432,13 +432,13 @@ msgid "wait until %b"
 msgstr "%b வரை  காத்திரு"
 
 msgid "when %m.booleanSensor"
-msgstr ""
+msgstr "%m.booleanSensor பொழுது "
 
 msgid "when %m.key key pressed"
 msgstr "%m.key கீ அழுத்தும் போது"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr ""
+msgstr "%m.sensor %n  விட %m.lessMore பொழுது"
 
 msgid "when %m.triggerSensor > %n"
 msgstr "%m.triggerSensor %n ஐ விட அதிகமாகும் போது"
@@ -451,7 +451,7 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "பின்ணணி %m.backdrop-க்கு மாறும் போது"
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
+msgstr "தூரம் %n விட %m.lessMore பொழுது"
 
 msgid "when I receive %m.broadcast"
 msgstr "%m.broadcast கிடைக்கும் போது"
@@ -460,13 +460,13 @@ msgid "when I start as a clone"
 msgstr "நான் நகலாக தொடங்கும் போது"
 
 msgid "when Stage clicked"
-msgstr ""
+msgstr "மேடை சொடுக்கும் போது"
 
 msgid "when this sprite clicked"
-msgstr "இந்த ஸ்பிரைட்டை  -ஐ சொடிக்கியவுடன்"
+msgstr "இந்த ஸ்பிரைட்டை  சொடிக்கியவுடன்"
 
 msgid "when tilt %m.eNe %n"
-msgstr ""
+msgstr "சாய் நிலை %m.eNe %n பொழுது"
 
 msgid "x position"
 msgstr "x-ன் நிலை"
@@ -489,8 +489,8 @@ msgstr ""
 msgid "turn motor on for %n secs"
 msgstr ""
 
-msgid "when distance < %n"
-msgstr "தூரம் %n விட குறையும் போது"
+#~ msgid "when distance < %n"
+#~ msgstr "தூரம் %n விட குறையும் போது"
 
 msgid "when tilt = %n"
 msgstr ""
@@ -498,4 +498,7 @@ msgstr ""
 #: commands-online.txt:7
 #: commands-offline.txt:7
 msgid "%m.list contains %s?"
-msgstr "%m.list %s-ஐ கொண்டுள்ளது"
+msgstr "%m.list %s ஐ கொண்டுள்ளது?"
+
+msgid "go to %m.location"
+msgstr ""

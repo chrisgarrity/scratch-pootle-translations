@@ -154,8 +154,8 @@ msgstr "%n సెకన్లకు x:%n y:%n జరుగును"
 msgid "go back %n layers"
 msgstr "%n లేయర్లు తిరిగి వెళ్ళుట"
 
-msgid "go to %m.spriteOrMouse"
-msgstr "%m.spriteOrMouse కు వెళ్ళు"
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "%m.spriteOrMouse కు వెళ్ళు"
 
 msgid "go to front"
 msgstr "ముందుకు వెళ్ళు"
@@ -504,3 +504,6 @@ msgstr ""
 #: commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m జాబితాలో %s కలిగి ఉండు"
+
+msgid "go to %m.location"
+msgstr ""

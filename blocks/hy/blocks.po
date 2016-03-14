@@ -15,8 +15,8 @@ msgstr ""
 "X-POOTLE-MTIME: 1379110593.000000\n"
 
 # The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Հայերեն"
+#~ msgid "Language-Name"
+#~ msgstr "Հայերեն"
 
 msgid "%b and %b"
 msgstr "%b և %b"
@@ -27,8 +27,8 @@ msgstr "%b կամ %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.spriteOrStage ից %m.attribute"
 
-msgid "%m.list contains %s"
-msgstr "%m.list ը պարունակում է %s"
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list ը պարունակում է %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%n ից %m.mathOp"
@@ -152,8 +152,8 @@ msgstr "սահել %n վայրկյան դեպի x:%n y:%n"
 msgid "go back %n layers"
 msgstr "վերադառնալ %n շերտեր"
 
-msgid "go to %m.spriteOrMouse"
-msgstr "գնալ դեպի %m.spriteOrMouse"
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "գնալ դեպի %m.spriteOrMouse"
 
 msgid "go to front"
 msgstr "գնալ վերին շերտ"
@@ -491,28 +491,28 @@ msgid "y position"
 msgstr "Դիրքն y ի վրա"
 
 # 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "Սահմանել շարժիչի ուղղությունը %m.motorDirection"
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "Սահմանել շարժիչի ուղղությունը %m.motorDirection"
 
 # 77%
-msgid "set motor power %n"
-msgstr "Սահմանել շարժիչի հզորությունը %n"
+#~ msgid "set motor power %n"
+#~ msgstr "Սահմանել շարժիչի հզորությունը %n"
 
-msgid "turn motor off"
-msgstr "Անջատել շարժիչը"
+#~ msgid "turn motor off"
+#~ msgstr "Անջատել շարժիչը"
 
-msgid "turn motor on"
-msgstr "Միացնել շարժիչը"
+#~ msgid "turn motor on"
+#~ msgstr "Միացնել շարժիչը"
 
 # 80%
-msgid "turn motor on for %n secs"
-msgstr "Միացնել շարժիչը %n վայրկյանով"
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "Միացնել շարժիչը %n վայրկյանով"
 
-msgid "when distance < %n"
-msgstr "Երբ տարածությունը < %n ից"
+#~ msgid "when distance < %n"
+#~ msgstr "Երբ տարածությունը < %n ից"
 
-msgid "when tilt = %n"
-msgstr "Երբ թեքությունը = %n"
+#~ msgid "when tilt = %n"
+#~ msgstr "Երբ թեքությունը = %n"
 
 # 89%
 # 86%
@@ -549,3 +549,6 @@ msgstr "Երբ թեքությունը = %n"
 #, fuzzy
 msgid "%m.list contains %s?"
 msgstr "%m.list ը պարունակում է %s"
+
+msgid "go to %m.location"
+msgstr ""

@@ -16,8 +16,8 @@ msgstr ""
 "X-POOTLE-MTIME: 1368708489.000000\n"
 
 # The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Lietuvių"
+#~ msgid "Language-Name"
+#~ msgstr "Lietuvių"
 
 msgid "%b and %b"
 msgstr "%b ir %b"
@@ -30,8 +30,8 @@ msgstr "%b arba %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr " %m.attribute veikėjo %m.spriteOrStage"
 
-msgid "%m.list contains %s"
-msgstr "sąraše %m.list yra %s?"
+#~ msgid "%m.list contains %s"
+#~ msgstr "sąraše %m.list yra %s?"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp ( %n )"
@@ -157,8 +157,8 @@ msgstr "slink %n sek. į tašką x:%n y:%n"
 msgid "go back %n layers"
 msgstr "pasitrauk atgal per %n sloksnį(-ius)"
 
-msgid "go to %m.spriteOrMouse"
-msgstr "eik ten, kur %m.spriteOrMouse"
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "eik ten, kur %m.spriteOrMouse"
 
 # pasirodyk pirmam plane?
 msgid "go to front"
@@ -508,28 +508,28 @@ msgid "y position"
 msgstr "y koordinatė"
 
 # 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "variklio kryptis = %m.motorDirection"
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "variklio kryptis = %m.motorDirection"
 
 # 77%
-msgid "set motor power %n"
-msgstr "variklio galia = %n"
+#~ msgid "set motor power %n"
+#~ msgstr "variklio galia = %n"
 
-msgid "turn motor off"
-msgstr "išjunk variklį"
+#~ msgid "turn motor off"
+#~ msgstr "išjunk variklį"
 
-msgid "turn motor on"
-msgstr "įjunk variklį"
+#~ msgid "turn motor on"
+#~ msgstr "įjunk variklį"
 
 # 80%
-msgid "turn motor on for %n secs"
-msgstr "įjunk variklį %n sekundėms"
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "įjunk variklį %n sekundėms"
 
-msgid "when distance < %n"
-msgstr "Kai atstumas < %n"
+#~ msgid "when distance < %n"
+#~ msgstr "Kai atstumas < %n"
 
-msgid "when tilt = %n"
-msgstr "Kai pasvirimas = %n"
+#~ msgid "when tilt = %n"
+#~ msgstr "Kai pasvirimas = %n"
 
 # 89%
 # 86%
@@ -561,3 +561,6 @@ msgstr "Kai pasvirimas = %n"
 #, fuzzy
 msgid "%m.list contains %s?"
 msgstr "sąraše %m.list yra %s?"
+
+msgid "go to %m.location"
+msgstr ""

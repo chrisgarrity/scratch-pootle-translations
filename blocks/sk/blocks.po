@@ -15,8 +15,8 @@ msgstr ""
 "X-POOTLE-MTIME: 1438936149.000000\n"
 
 # The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Slovenčina"
+#~ msgid "Language-Name"
+#~ msgstr "Slovenčina"
 
 msgid "%b and %b"
 msgstr "%b a %b"
@@ -27,8 +27,8 @@ msgstr "%b alebo %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute z %m.spriteOrStage"
 
-msgid "%m.list contains %s"
-msgstr "%m.list obsahuje %s"
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list obsahuje %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp z %n"
@@ -152,8 +152,8 @@ msgstr "%n sekúnd sa presúvaj na pozíciu x:%n y:%n"
 msgid "go back %n layers"
 msgstr "späť o %n vrstiev"
 
-msgid "go to %m.spriteOrMouse"
-msgstr "choď na %m.spriteOrMouse"
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "choď na %m.spriteOrMouse"
 
 msgid "go to front"
 msgstr "choď do popredia"
@@ -486,28 +486,28 @@ msgid "y position"
 msgstr "pozícia y"
 
 # 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "nastav smer motora na %m.motorDirection"
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "nastav smer motora na %m.motorDirection"
 
 # 77%
-msgid "set motor power %n"
-msgstr "nastav silu motora na %n"
+#~ msgid "set motor power %n"
+#~ msgstr "nastav silu motora na %n"
 
-msgid "turn motor off"
-msgstr "vypni motor"
+#~ msgid "turn motor off"
+#~ msgstr "vypni motor"
 
-msgid "turn motor on"
-msgstr "zapni motor"
+#~ msgid "turn motor on"
+#~ msgstr "zapni motor"
 
 # 80%
-msgid "turn motor on for %n secs"
-msgstr "zapni motor na %n sekúnd"
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "zapni motor na %n sekúnd"
 
-msgid "when distance < %n"
-msgstr "ak je vzdialenosť < %n"
+#~ msgid "when distance < %n"
+#~ msgstr "ak je vzdialenosť < %n"
 
-msgid "when tilt = %n"
-msgstr "ak sa sklon = %n"
+#~ msgid "when tilt = %n"
+#~ msgstr "ak sa sklon = %n"
 
 # 89%
 # 86%
@@ -542,3 +542,6 @@ msgstr "ak sa sklon = %n"
 #: commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list obsahuje %s?"
+
+msgid "go to %m.location"
+msgstr ""

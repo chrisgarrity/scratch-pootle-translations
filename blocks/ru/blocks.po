@@ -237,10 +237,8 @@ msgstr "плыть %n секунд в точку x:%n y:%n"
 msgid "go back %n layers"
 msgstr "перейти назад на %n слоев"
 
-#: commands-online.txt:89
-#: commands-offline.txt:89
-msgid "go to %m.spriteOrMouse"
-msgstr "перейти в %m.spriteOrMouse"
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "перейти в %m.spriteOrMouse"
 
 #: commands-online.txt:91
 #: commands-offline.txt:91
@@ -780,3 +778,9 @@ msgstr "положение y"
 #, fuzzy
 msgid "%m.list contains %s"
 msgstr "%m.list содержит %s?"
+
+msgid "go to %m.location"
+msgstr ""
+
+msgid "when Stage clicked"
+msgstr ""

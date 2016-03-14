@@ -16,8 +16,8 @@ msgstr ""
 "X-POOTLE-MTIME: 1429070628.000000\n"
 
 # The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "العربية"
+#~ msgid "Language-Name"
+#~ msgstr "العربية"
 
 msgid "%b and %b"
 msgstr "%b و %b"
@@ -28,8 +28,8 @@ msgstr "%b أو %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute للكائن %m.spriteOrStage"
 
-msgid "%m.list contains %s"
-msgstr "%m.list تحتوي %s"
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list تحتوي %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp للقيمة %n"
@@ -153,8 +153,8 @@ msgstr "انزلق خلال %n ثانية إلى الموضع س: %n ص: %n"
 msgid "go back %n layers"
 msgstr "انتقل %n طبقة إلى الخلف"
 
-msgid "go to %m.spriteOrMouse"
-msgstr "اذهب إلى %m.spriteOrMouse"
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "اذهب إلى %m.spriteOrMouse"
 
 msgid "go to front"
 msgstr "انتقل إلى المقدمة"
@@ -476,8 +476,8 @@ msgstr "عندما تستقبل %m.broadcast"
 msgid "when I start as a clone"
 msgstr "عندما تبدأ نسخة مني"
 
-#~ msgid "when Stage clicked"
-#~ msgstr "عند نقر المنصة"
+msgid "when Stage clicked"
+msgstr "عند نقر المنصة"
 
 msgid "when this sprite clicked"
 msgstr "عند نقر هذا الكائن"
@@ -492,28 +492,28 @@ msgid "y position"
 msgstr "الموضع ص"
 
 # 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "اجعل اتجاه المحرك %m.motorDirection"
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "اجعل اتجاه المحرك %m.motorDirection"
 
 # 77%
-msgid "set motor power %n"
-msgstr "اجعل طاقة المحرك مساويةً %n"
+#~ msgid "set motor power %n"
+#~ msgstr "اجعل طاقة المحرك مساويةً %n"
 
-msgid "turn motor off"
-msgstr "أوقف المحرك"
+#~ msgid "turn motor off"
+#~ msgstr "أوقف المحرك"
 
-msgid "turn motor on"
-msgstr "شغّل المحرك"
+#~ msgid "turn motor on"
+#~ msgstr "شغّل المحرك"
 
 # 80%
-msgid "turn motor on for %n secs"
-msgstr "شغِّل المحرك لمدة %n ثانية"
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "شغِّل المحرك لمدة %n ثانية"
 
-msgid "when distance < %n"
-msgstr "عندما المسافة > %n"
+#~ msgid "when distance < %n"
+#~ msgstr "عندما المسافة > %n"
 
-msgid "when tilt = %n"
-msgstr "عندما الميل = %n"
+#~ msgid "when tilt = %n"
+#~ msgstr "عندما الميل = %n"
 
 # 89%
 # 86%
@@ -581,3 +581,6 @@ msgstr "عندما الميل = %n"
 #: commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list تحتوي %s؟"
+
+msgid "go to %m.location"
+msgstr ""

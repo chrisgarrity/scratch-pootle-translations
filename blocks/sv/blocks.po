@@ -15,8 +15,8 @@ msgstr ""
 "X-POOTLE-MTIME: 1439917944.000000\n"
 
 # The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Svenska"
+#~ msgid "Language-Name"
+#~ msgstr "Svenska"
 
 msgid "%b and %b"
 msgstr "%b och %b"
@@ -27,8 +27,8 @@ msgstr "%b eller %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute av %m.spriteOrStage"
 
-msgid "%m.list contains %s"
-msgstr "%m.list innehåller %s"
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list innehåller %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp av %n"
@@ -152,8 +152,8 @@ msgstr "glid %n sek till x:%n y:%n"
 msgid "go back %n layers"
 msgstr "gå tillbaka %n lager"
 
-msgid "go to %m.spriteOrMouse"
-msgstr "gå till %m.spriteOrMouse"
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "gå till %m.spriteOrMouse"
 
 msgid "go to front"
 msgstr "lägg överst"
@@ -470,8 +470,8 @@ msgstr "när jag tar emot %m.broadcast"
 msgid "when I start as a clone"
 msgstr "när jag startar som klon"
 
-#~ msgid "when Stage clicked"
-#~ msgstr "när scenen klickas på"
+msgid "when Stage clicked"
+msgstr "när scenen klickas på"
 
 msgid "when this sprite clicked"
 msgstr "när denna sprajt klickas på"
@@ -486,28 +486,28 @@ msgid "y position"
 msgstr "y-läge"
 
 # 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "sätt motorriktning %m.motorDirection"
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "sätt motorriktning %m.motorDirection"
 
 # 77%
-msgid "set motor power %n"
-msgstr "sätt motorkraft %n"
+#~ msgid "set motor power %n"
+#~ msgstr "sätt motorkraft %n"
 
-msgid "turn motor off"
-msgstr "stoppa motorn"
+#~ msgid "turn motor off"
+#~ msgstr "stoppa motorn"
 
-msgid "turn motor on"
-msgstr "starta motorn"
+#~ msgid "turn motor on"
+#~ msgstr "starta motorn"
 
 # 80%
-msgid "turn motor on for %n secs"
-msgstr "motorn på i %n sekunder"
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "motorn på i %n sekunder"
 
-msgid "when distance < %n"
-msgstr "när avståndet är < %n"
+#~ msgid "when distance < %n"
+#~ msgstr "när avståndet är < %n"
 
-msgid "when tilt = %n"
-msgstr "om lutning = %n"
+#~ msgid "when tilt = %n"
+#~ msgstr "om lutning = %n"
 
 # 89%
 # 86%
@@ -564,3 +564,6 @@ msgstr "om lutning = %n"
 #: commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list innehåller %s?"
+
+msgid "go to %m.location"
+msgstr ""

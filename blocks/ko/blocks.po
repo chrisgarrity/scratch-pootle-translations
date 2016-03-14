@@ -15,8 +15,8 @@ msgstr ""
 "X-POOTLE-MTIME: 1436979930.000000\n"
 
 # The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "한국어"
+#~ msgid "Language-Name"
+#~ msgstr "한국어"
 
 msgid "%b and %b"
 msgstr "%b 그리고 %b"
@@ -27,8 +27,8 @@ msgstr "%b 또는 %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute (%m.spriteOrStage)"
 
-msgid "%m.list contains %s"
-msgstr "%m.list 리스트에 %s 포함되었는가"
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list 리스트에 %s 포함되었는가"
 
 # %m.mathOp 와 %n 의 순서를 바꾸면 번역이 반영되지 않는다.
 msgid "%m.mathOp of %n"
@@ -154,8 +154,8 @@ msgstr "%n 초 동안 x:%n y:%n 으로 움직이기"
 msgid "go back %n layers"
 msgstr "%n 번째로 물러나기"
 
-msgid "go to %m.spriteOrMouse"
-msgstr "%m.spriteOrMouse 위치로 이동하기"
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "%m.spriteOrMouse 위치로 이동하기"
 
 msgid "go to front"
 msgstr "맨 앞으로 순서 바꾸기"
@@ -476,8 +476,8 @@ msgstr "%m.broadcast 을(를) 받았을 때"
 msgid "when I start as a clone"
 msgstr "복제되었을 때"
 
-#~ msgid "when Stage clicked"
-#~ msgstr "배경을 클릭했을 때"
+msgid "when Stage clicked"
+msgstr "배경을 클릭했을 때"
 
 msgid "when this sprite clicked"
 msgstr "이 스프라이트를 클릭했을 때"
@@ -492,28 +492,28 @@ msgid "y position"
 msgstr "y좌표"
 
 # 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "모터 방향을 %m.motorDirection 쪽으로 정하기"
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "모터 방향을 %m.motorDirection 쪽으로 정하기"
 
 # 77%
-msgid "set motor power %n"
-msgstr "모터 파워를 %n (으)로 정하기"
+#~ msgid "set motor power %n"
+#~ msgstr "모터 파워를 %n (으)로 정하기"
 
-msgid "turn motor off"
-msgstr "모터 끄기"
+#~ msgid "turn motor off"
+#~ msgstr "모터 끄기"
 
-msgid "turn motor on"
-msgstr "모터 켜기"
+#~ msgid "turn motor on"
+#~ msgstr "모터 켜기"
 
 # 80%
-msgid "turn motor on for %n secs"
-msgstr "%n 초 동안 모터를 켜기"
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "%n 초 동안 모터를 켜기"
 
-msgid "when distance < %n"
-msgstr "거리 < %n 일 때"
+#~ msgid "when distance < %n"
+#~ msgstr "거리 < %n 일 때"
 
-msgid "when tilt = %n"
-msgstr "기울기 = %n 일 때"
+#~ msgid "when tilt = %n"
+#~ msgstr "기울기 = %n 일 때"
 
 # 89%
 # 86%
@@ -549,3 +549,6 @@ msgstr "기울기 = %n 일 때"
 #: commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list 리스트에 %s 포함되었는가?"
+
+msgid "go to %m.location"
+msgstr ""

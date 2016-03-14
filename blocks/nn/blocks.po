@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2016-02-18 19:05+0000\n"
+"PO-Revision-Date: 2016-03-11 23:04+0000\n"
 "Last-Translator: Karl Ove <karl@huftis.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nn\n"
@@ -12,11 +12,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1455822352.000000\n"
+"X-POOTLE-MTIME: 1457737456.000000\n"
 
 # The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Norsk (nynorsk)"
+#~ msgid "Language-Name"
+#~ msgstr "Norsk (nynorsk)"
 
 msgid "%b and %b"
 msgstr "%b og %b"
@@ -27,8 +27,8 @@ msgstr "%b eller %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute av %m.spriteOrStage"
 
-msgid "%m.list contains %s"
-msgstr "%m.list inneheld %s"
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list inneheld %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp av %n"
@@ -150,10 +150,10 @@ msgid "glide %n secs to x:%n y:%n"
 msgstr "gli %n sekund til x:%n y:%n"
 
 msgid "go back %n layers"
-msgstr "flytt nedover %n lag"
+msgstr "flytt bakover %n lag"
 
-msgid "go to %m.spriteOrMouse"
-msgstr "gå til %m.spriteOrMouse"
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "gå til %m.spriteOrMouse"
 
 msgid "go to front"
 msgstr "legg øvst"
@@ -486,28 +486,28 @@ msgid "y position"
 msgstr "y-posisjon"
 
 # 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "set motorretning til %m.motorDirection"
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "set motorretning til %m.motorDirection"
 
 # 77%
-msgid "set motor power %n"
-msgstr "set motorstyrke til %n"
+#~ msgid "set motor power %n"
+#~ msgstr "set motorstyrke til %n"
 
-msgid "turn motor off"
-msgstr "slå motoren av"
+#~ msgid "turn motor off"
+#~ msgstr "slå motoren av"
 
-msgid "turn motor on"
-msgstr "slå motoren på"
+#~ msgid "turn motor on"
+#~ msgstr "slå motoren på"
 
 # 80%
-msgid "turn motor on for %n secs"
-msgstr "slå motoren på i %n sekund"
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "slå motoren på i %n sekund"
 
-msgid "when distance < %n"
-msgstr "når avstanden < %n"
+#~ msgid "when distance < %n"
+#~ msgstr "når avstanden < %n"
 
-msgid "when tilt = %n"
-msgstr "når hellinga er %n"
+#~ msgid "when tilt = %n"
+#~ msgstr "når hellinga er %n"
 
 # 89%
 # 86%
@@ -537,3 +537,6 @@ msgstr "når hellinga er %n"
 #: commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list inneheld %s?"
+
+msgid "go to %m.location"
+msgstr "gå til %m.location"

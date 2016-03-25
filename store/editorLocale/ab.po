@@ -14,10 +14,6 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1450164872.000000\n"
 
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Аҧсшәа"
-
 msgid "%b and %b"
 msgstr "%b и %b и"
 
@@ -26,9 +22,6 @@ msgstr "%b ма %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.атрибут %m.spriteOrStage аҟынтә"
-
-msgid "%m.list contains %s"
-msgstr "%m.list иаҵанакуеит %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp %n аҟынтә"
@@ -151,9 +144,6 @@ msgstr "иқәҵәраатәуп x:%n y:%n ахь %n секундк"
 
 msgid "go back %n layers"
 msgstr "ииастәуп шьҭахьҟа %n ҿыгҳарак рыла"
-
-msgid "go to %m.spriteOrMouse"
-msgstr "ииастәуп %m.spriteOrMouse ахь"
 
 msgid "go to front"
 msgstr "ииастәуп аҩадатәи аҿыгҳара ахь"
@@ -459,6 +449,9 @@ msgstr "%m.broadcast адәықәҵара"
 msgid "when I start as a clone"
 msgstr "аиҧш еиҧш саналаго"
 
+msgid "when Stage clicked"
+msgstr "Асцена ианақәыӷәӷәуалакь"
+
 msgid "when this sprite clicked"
 msgstr "анагӡаҩ ианақәыӷәӷәуалакь"
 
@@ -471,30 +464,12 @@ msgstr "x аҭыҧ"
 msgid "y position"
 msgstr "y аҭыҧ"
 
-msgid "set motor direction %m.motorDirection"
-msgstr "амотор ахырхарҭа %m.motorDirection"
-
-msgid "set motor power %n"
-msgstr "аматор амчра %n"
-
-msgid "turn motor off"
-msgstr "аматор арцәара"
-
-msgid "turn motor on"
-msgstr "аматор аркра"
-
-msgid "turn motor on for %n secs"
-msgstr "иарктәуп аматор %n секундк"
-
-msgid "when distance < %n"
-msgstr "ирыбжьоу < %n аасҭа"
-
-msgid "when tilt = %n"
-msgstr "анаара = %n ианаҟароу"
-
 #: commands-online.txt:7 commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list иаҵанакуеит %s?"
+
+msgid "go to %m.location"
+msgstr "ииастәуп %m.location ахь"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -735,9 +710,6 @@ msgstr "Иарктәуп"
 msgid "Closed Hi-Hat"
 msgstr "Иаркыу хай-хэт"
 
-msgid "Cloud"
-msgstr "Аҧсҭҳәа"
-
 msgid "Cloud data"
 msgstr "Адыррақәа аҧсҭҳәа аҟынтә"
 
@@ -791,9 +763,6 @@ msgstr "Акостиумқәа"
 
 msgid "Costumes > 1"
 msgstr "Акостиумқәа > 1"
-
-msgid "Costumes:"
-msgstr "Акостиумқәа:"
 
 msgid "Could not retrieve new application from server."
 msgstr "Иаузом асервер аҟынтәи."
@@ -1031,9 +1000,6 @@ msgstr "Абиблиотека"
 
 msgid "light"
 msgstr "алашара"
-
-msgid "limit reached"
-msgstr "аҳәааҿ инаӡоуп"
 
 msgid "Line"
 msgstr "Ацәаҳәа"
@@ -1329,9 +1295,6 @@ msgstr "Ахьӡ ҧсахтәуп"
 msgid "rename variable"
 msgstr "аҽеиҭак ахьӡ ҧсахтәуп"
 
-msgid "requires sign in"
-msgstr "иаҭахыуп абрахь аҭалара"
-
 msgid "Reshape"
 msgstr "Аформа аҧсахра"
 
@@ -1410,9 +1373,6 @@ msgstr "Апрограмма"
 msgid "Scripts"
 msgstr "Апрограммақәа"
 
-msgid "Scripts:"
-msgstr "Апрограммақәа:"
-
 msgid "second"
 msgstr "секундк"
 
@@ -1451,12 +1411,6 @@ msgstr "азеиҧш"
 
 msgid "Shift:"
 msgstr "Shift:"
-
-msgid "show receivers"
-msgstr "иаарҧштәуп изауқәо"
-
-msgid "show senders"
-msgstr "иаарҧштәуп изышьҭқәо"
 
 msgid "show:"
 msgstr "ацәырҵра:"
@@ -1544,9 +1498,6 @@ msgstr "Асцена алхыуп:"
 
 msgid "Steel Drum"
 msgstr "Аџыртә даул"
-
-msgid "stored on server"
-msgstr "иеиқәырхоуп асервер аҟны"
 
 msgid "Synth Lead"
 msgstr "Ихадоу асинтезатор"
@@ -1753,25 +1704,6 @@ msgstr "Шәара шәыхьӡ Scratch аҟны"
 msgid "Your Scratch name is required"
 msgstr "иаҭахәуп шәара шәыхьӡ Scratch аҟны"
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Аинформациа аҧсҭҳәатә ҽеиҭакқәа ирызкны</b><br>&nbsp;<br>Уажәтәи аамҭазы "
-"ахархәара зуа ихыҧхьаӡаратәу аҽеиҭакқәа роуп<br>Чат-ауадақәа ауӡом, "
-"ианыххоит<br>Ахарҭәаагатә информациа азы<a href= target=>шәахәаҧш АЦХЫРААРА "
-"аҧсҭҳәатә дыррақәа ирызкыу</a>"
-
-msgid "Click  to try again or  to save"
-msgstr "Шәақәыгәгәа аиҭаҟаҵаразы ма аиқәырхараз"
-
-msgid "Eraser width:"
-msgstr "Аныхга аҭбаара:"
-
-msgid "Line width:"
-msgstr "Ацәаҳәа аҭбаара:"
-
 # Offline editor only
 msgid "All Tips"
 msgstr ""
@@ -1889,8 +1821,39 @@ msgstr ""
 msgid "any"
 msgstr ""
 
-#~ msgid "when Stage clicked"
-#~ msgstr "Асцена ианақәыӷәӷәуалакь"
+msgid "random position"
+msgstr ""
+
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "Аҧсшәа"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list иаҵанакуеит %s"
+
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "ииастәуп %m.spriteOrMouse ахь"
+
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "амотор ахырхарҭа %m.motorDirection"
+
+#~ msgid "set motor power %n"
+#~ msgstr "аматор амчра %n"
+
+#~ msgid "turn motor off"
+#~ msgstr "аматор арцәара"
+
+#~ msgid "turn motor on"
+#~ msgstr "аматор аркра"
+
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "иарктәуп аматор %n секундк"
+
+#~ msgid "when distance < %n"
+#~ msgstr "ирыбжьоу < %n аасҭа"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "анаара = %n ианаҟароу"
 
 #~ msgid "About LEGO WeDo extension..."
 #~ msgstr "LEGO WeDo Ахарҭәаара иазкны..."
@@ -1907,8 +1870,14 @@ msgstr ""
 #~ msgid "Cannot Add"
 #~ msgstr "Ацҵара ауам"
 
+#~ msgid "Cloud"
+#~ msgstr "Аҧсҭҳәа"
+
 #~ msgid "Cloud variable (stored on server)"
 #~ msgstr "Аҽеҭак аҧсҭҳәа аҿы (асервер иҭагалоу)"
+
+#~ msgid "Costumes:"
+#~ msgstr "Акостиумқәа:"
 
 #~ msgid "Downloading new version"
 #~ msgstr "Аверсиа ҿыц ҭагалатәуп"
@@ -1943,6 +1912,9 @@ msgstr ""
 #~ msgid "lights"
 #~ msgstr "алашара"
 
+#~ msgid "limit reached"
+#~ msgstr "аҳәааҿ инаӡоуп"
+
 #~ msgid "motor"
 #~ msgstr "аматор"
 
@@ -1961,8 +1933,14 @@ msgstr ""
 #~ msgid "Replace existing project"
 #~ msgstr "Иҧсахтәуп иҟоу апроеқт "
 
+#~ msgid "requires sign in"
+#~ msgstr "иаҭахыуп абрахь аҭалара"
+
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "Scratch 2.0 Оффлаин Аредақтор"
+
+#~ msgid "Scripts:"
+#~ msgstr "Апрограммақәа:"
 
 #~ msgid ""
 #~ "See the Tips window (on the right) to install the plug-in and get the "
@@ -1973,6 +1951,15 @@ msgstr ""
 
 #~ msgid "Share to Scratch website"
 #~ msgstr "Акциа Scratch - асаит аҟны"
+
+#~ msgid "show receivers"
+#~ msgstr "иаарҧштәуп изауқәо"
+
+#~ msgid "show senders"
+#~ msgstr "иаарҧштәуп изышьҭқәо"
+
+#~ msgid "stored on server"
+#~ msgstr "иеиқәырхоуп асервер аҟны"
 
 #~ msgid "The name is already in use."
 #~ msgstr "Ахьӡ ахархәара амоуп"
@@ -1995,6 +1982,25 @@ msgstr ""
 
 #~ msgid "world"
 #~ msgstr "аҭынчра"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Аинформациа аҧсҭҳәатә ҽеиҭакқәа ирызкны</b><br>&nbsp;<br>Уажәтәи "
+#~ "аамҭазы ахархәара зуа ихыҧхьаӡаратәу аҽеиҭакқәа роуп<br>Чат-ауадақәа "
+#~ "ауӡом, ианыххоит<br>Ахарҭәаагатә информациа азы<a href= target=>шәахәаҧш "
+#~ "АЦХЫРААРА аҧсҭҳәатә дыррақәа ирызкыу</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Шәақәыгәгәа аиҭаҟаҵаразы ма аиқәырхараз"
+
+#~ msgid "Eraser width:"
+#~ msgstr "Аныхга аҭбаара:"
+
+#~ msgid "Line width:"
+#~ msgstr "Ацәаҳәа аҭбаара:"
 
 #~ msgid "cleanup"
 #~ msgstr "арыцқьара"

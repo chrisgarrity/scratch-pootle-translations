@@ -561,4 +561,4 @@ msgid "%m.list contains %s?"
 msgstr "%m.list listesinde %s var (mı?)"
 
 msgid "go to %m.location"
-msgstr ""
+msgstr "%m.location 'na git"

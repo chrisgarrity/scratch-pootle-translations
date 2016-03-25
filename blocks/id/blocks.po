@@ -553,4 +553,4 @@ msgid "%m.list contains %s?"
 msgstr "%m.list berisi %s?"
 
 msgid "go to %m.location"
-msgstr ""
+msgstr "pergi ke %m.location"

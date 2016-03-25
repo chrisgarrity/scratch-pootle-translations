@@ -285,8 +285,8 @@ msgstr "Sulge"
 msgid "Closed Hi-Hat"
 msgstr "Kinnine Hi-Hat"
 
-msgid "Cloud"
-msgstr "Pilv"
+#~ msgid "Cloud"
+#~ msgstr "Pilv"
 
 msgid "Cloud data"
 msgstr "Pilveandmed"
@@ -352,8 +352,8 @@ msgstr "Kostüümid"
 msgid "Costumes > 1"
 msgstr "Kostüüm > 1"
 
-msgid "Costumes:"
-msgstr "Kostüümid:"
+#~ msgid "Costumes:"
+#~ msgstr "Kostüümid:"
 
 msgid "Could not retrieve new application from server."
 msgstr ""
@@ -641,8 +641,8 @@ msgstr "valgus"
 msgid "lights"
 msgstr "heledus"
 
-msgid "limit reached"
-msgstr "limiit ületatud"
+#~ msgid "limit reached"
+#~ msgstr "limiit ületatud"
 
 msgid "Line"
 msgstr "Joon"
@@ -971,8 +971,8 @@ msgstr "muuda muutuja nime"
 msgid "Replace existing project"
 msgstr ""
 
-msgid "requires sign in"
-msgstr "nõuab sisselogimist"
+#~ msgid "requires sign in"
+#~ msgstr "nõuab sisselogimist"
 
 msgid "Reshape"
 msgstr "Kuju muutmine"
@@ -1059,8 +1059,8 @@ msgid "Scripts"
 msgstr "Skriptid"
 
 # 87%
-msgid "Scripts:"
-msgstr "Skriptid:"
+#~ msgid "Scripts:"
+#~ msgstr "Skriptid:"
 
 msgid "second"
 msgstr "sekundid"
@@ -1116,11 +1116,11 @@ msgstr "Shift-klahv:"
 msgid "show"
 msgstr "näita"
 
-msgid "show receivers"
-msgstr "näita vastuvõtjaid"
+#~ msgid "show receivers"
+#~ msgstr "näita vastuvõtjaid"
 
-msgid "show senders"
-msgstr "näita saatjaid"
+#~ msgid "show senders"
+#~ msgstr "näita saatjaid"
 
 msgid "show:"
 msgstr "nähtav:"
@@ -1220,8 +1220,8 @@ msgstr "Valitud on Lava:"
 msgid "Steel Drum"
 msgstr "Terastrumm"
 
-msgid "stored on server"
-msgstr "salvestatud serverisse"
+#~ msgid "stored on server"
+#~ msgstr "salvestatud serverisse"
 
 msgid "Synth Lead"
 msgstr "Süntesaatori soolo"
@@ -1463,24 +1463,24 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Info pilvemuutujate kohta</b><br>&nbsp;<br>Praegu on võimalik kasutada "
-"ainult arve<br>Jututoad ei ole lubatud ja eemaldatakse<br>Täiendav info <a "
-"href= target=>vaata pilveandmete KKK!</a>"
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Info pilvemuutujate kohta</b><br>&nbsp;<br>Praegu on võimalik kasutada "
+#~ "ainult arve<br>Jututoad ei ole lubatud ja eemaldatakse<br>Täiendav info <a "
+#~ "href= target=>vaata pilveandmete KKK!</a>"
 
 # kus selline tekst asub?
-msgid "Click  to try again or  to save"
-msgstr "Klõpsa uueks katseks või salvestamiseks"
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Klõpsa uueks katseks või salvestamiseks"
 
-msgid "Eraser width:"
-msgstr "Kustutaja laius:"
+#~ msgid "Eraser width:"
+#~ msgstr "Kustutaja laius:"
 
-msgid "Line width:"
-msgstr "Joone paksus:"
+#~ msgid "Line width:"
+#~ msgstr "Joone paksus:"
 
 # Offline editor only
 msgid "All Tips"
@@ -1753,4 +1753,7 @@ msgid "Remove Background"
 msgstr ""
 
 msgid "when Stage clicked"
+msgstr ""
+
+msgid "random position"
 msgstr ""

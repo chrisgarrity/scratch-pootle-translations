@@ -512,4 +512,4 @@ msgid "%m.list contains %s?"
 msgstr "%m.list cuntenet %s"
 
 msgid "go to %m.location"
-msgstr ""
+msgstr "bae a ue est %m.location"

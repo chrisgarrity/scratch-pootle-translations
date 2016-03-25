@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2016-01-23 17:25+0000\n"
-"Last-Translator: Kazuhiro <abee@squeakland.jp>\n"
+"PO-Revision-Date: 2016-03-09 14:50+0000\n"
+"Last-Translator: 2003kaito <2003kaito.scratch@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
@@ -12,11 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1453569935.000000\n"
-
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "日本語"
+"X-POOTLE-MTIME: 1457535041.000000\n"
 
 msgid "%b and %b"
 msgstr "%b かつ %b"
@@ -26,9 +22,6 @@ msgstr "%b または %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute ( %m.spriteOrStage )"
-
-msgid "%m.list contains %s"
-msgstr "%m.list に %s が含まれる"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp ( %n )"
@@ -151,9 +144,6 @@ msgstr "%n 秒でx座標を %n に、y座標を %n に変える"
 
 msgid "go back %n layers"
 msgstr "%n 層下げる"
-
-msgid "go to %m.spriteOrMouse"
-msgstr "%m.spriteOrMouse へ行く"
 
 msgid "go to front"
 msgstr "前に出す"
@@ -471,6 +461,9 @@ msgstr "%m.broadcast を受け取ったとき"
 msgid "when I start as a clone"
 msgstr "クローンされたとき"
 
+msgid "when Stage clicked"
+msgstr "ステージがクリックされたとき"
+
 msgid "when this sprite clicked"
 msgstr "このスプライトがクリックされたとき"
 
@@ -483,33 +476,12 @@ msgstr "x座標"
 msgid "y position"
 msgstr "y座標"
 
-# 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "モーターの回転方向を %m.motorDirection にする"
-
-# 77%
-msgid "set motor power %n"
-msgstr "モーターのパワーを %n にする"
-
-msgid "turn motor off"
-msgstr "モーターをオフにする"
-
-msgid "turn motor on"
-msgstr "モーターをオンにする"
-
-# 80%
-msgid "turn motor on for %n secs"
-msgstr "モーターを %n 秒オンにする"
-
-msgid "when distance < %n"
-msgstr "距離 < %n のとき"
-
-msgid "when tilt = %n"
-msgstr "傾き = %n のとき"
-
 #: commands-online.txt:7 commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list に %s が含まれる"
+
+msgid "go to %m.location"
+msgstr "%m.location へ行く"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -634,8 +606,8 @@ msgid ""
 "soon!"
 msgstr ""
 "新しいScratchのアカウントを使っているので、クラウド・データへの変更は保存でき"
-"ません。このサイトに参加し続けると、すぐにクラウド・データを使用できるように"
-"なります。"
+"ません。Scratchのサイトで活動を続けていると、すぐにクラウド・データを使用でき"
+"るようになります。"
 
 msgid "Bitmap"
 msgstr "ビットマップ"
@@ -752,9 +724,6 @@ msgstr "閉じる"
 msgid "Closed Hi-Hat"
 msgstr "閉じたハイハット"
 
-msgid "Cloud"
-msgstr "クラウド"
-
 msgid "Cloud data"
 msgstr "クラウドデータ"
 
@@ -809,9 +778,6 @@ msgstr "コスチューム"
 
 msgid "Costumes > 1"
 msgstr "コスチューム > 1"
-
-msgid "Costumes:"
-msgstr "コスチューム:"
 
 msgid "Could not retrieve new application from server."
 msgstr "サーバーから新しいアプリケーションを取り出せません。"
@@ -998,7 +964,7 @@ msgid "High C"
 msgstr "高いド"
 
 msgid "Holiday"
-msgstr "ホリデー"
+msgstr "休日"
 
 msgid "hour"
 msgstr "時"
@@ -1051,9 +1017,6 @@ msgstr "ライブラリ"
 
 msgid "light"
 msgstr "明るさ"
-
-msgid "limit reached"
-msgstr "限界に到達"
 
 msgid "Line"
 msgstr "直線"
@@ -1352,9 +1315,6 @@ msgstr "名前を変更"
 msgid "rename variable"
 msgstr "変数名を変更"
 
-msgid "requires sign in"
-msgstr "サインインが必要です"
-
 msgid "Reshape"
 msgstr "形を変える"
 
@@ -1433,9 +1393,6 @@ msgstr "スクリプト"
 msgid "Scripts"
 msgstr "スクリプト"
 
-msgid "Scripts:"
-msgstr "スクリプト:"
-
 msgid "second"
 msgstr "秒"
 
@@ -1474,12 +1431,6 @@ msgstr "共有中"
 
 msgid "Shift:"
 msgstr "シフト:"
-
-msgid "show receivers"
-msgstr "レシーバーを表示"
-
-msgid "show senders"
-msgstr "センダーを表示"
 
 msgid "show:"
 msgstr "表示する:"
@@ -1521,7 +1472,7 @@ msgid "Snare Drum"
 msgstr "スネアドラム"
 
 msgid "softer"
-msgstr "柔らかく"
+msgstr "小さく"
 
 msgid "sound"
 msgstr "音"
@@ -1568,9 +1519,6 @@ msgstr "選択されたステージ:"
 
 msgid "Steel Drum"
 msgstr "スチールドラム"
-
-msgid "stored on server"
-msgstr "サーバーへ格納"
 
 msgid "Synth Lead"
 msgstr "シンセリード"
@@ -1641,7 +1589,7 @@ msgid "Transportation"
 msgstr "乗り物"
 
 msgid "Triangle"
-msgstr "三角形"
+msgstr "トライアングル"
 
 msgid "Trombone"
 msgstr "トロンボーン"
@@ -1779,25 +1727,6 @@ msgstr "あなたのScratch名"
 msgid "Your Scratch name is required"
 msgstr "Scratch名が必要です"
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>クラウド変数について</b><br>&nbsp;<br>現在、数値のみがサポートされています"
-"<br>チャットルームの作成は許可されていないため、削除されます<br>詳細な情報は "
-"<a href= target=>クラウドデータに関するFAQを読んでください！</a>"
-
-msgid "Click  to try again or  to save"
-msgstr ""
-"「直ちに保存」をクリックして再試行するか、「ダウンロード」で保存してください"
-
-msgid "Eraser width:"
-msgstr "消しゴムの幅:"
-
-msgid "Line width:"
-msgstr "線の幅:"
-
 # Offline editor only
 msgid "All Tips"
 msgstr "すべてのTips"
@@ -1901,16 +1830,50 @@ msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr "あなたのプロジェクトはscratch.mit.eduへアップロードされました"
 
 msgid "Record Project Video"
-msgstr ""
+msgstr "プロジェクトのビデオを録画"
 
 msgid "Remove Background"
-msgstr ""
+msgstr "背景を削除"
 
 msgid "any"
-msgstr ""
+msgstr "任意の"
 
-#~ msgid "when Stage clicked"
-#~ msgstr "ステージがクリックされたとき"
+msgid "random position"
+msgstr "ランダムな場所"
+
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "日本語"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list に %s が含まれる"
+
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "%m.spriteOrMouse へ行く"
+
+# 89%
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "モーターの回転方向を %m.motorDirection にする"
+
+# 77%
+#~ msgid "set motor power %n"
+#~ msgstr "モーターのパワーを %n にする"
+
+#~ msgid "turn motor off"
+#~ msgstr "モーターをオフにする"
+
+#~ msgid "turn motor on"
+#~ msgstr "モーターをオンにする"
+
+# 80%
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "モーターを %n 秒オンにする"
+
+#~ msgid "when distance < %n"
+#~ msgstr "距離 < %n のとき"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "傾き = %n のとき"
 
 # 89%
 # 86%
@@ -1980,8 +1943,14 @@ msgstr ""
 #~ msgid "Cannot Add"
 #~ msgstr "追加できません"
 
+#~ msgid "Cloud"
+#~ msgstr "クラウド"
+
 #~ msgid "Cloud variable (stored on server)"
 #~ msgstr "クラウド変数 (サーバーに保存)"
+
+#~ msgid "Costumes:"
+#~ msgstr "コスチューム:"
 
 #~ msgid "Downloading new version"
 #~ msgstr "新しいバージョンをダウンロード中"
@@ -2017,6 +1986,9 @@ msgstr ""
 #~ msgid "lights"
 #~ msgstr "明るさ"
 
+#~ msgid "limit reached"
+#~ msgstr "限界に到達"
+
 #~ msgid "motor"
 #~ msgstr "モーター"
 
@@ -2035,8 +2007,14 @@ msgstr ""
 #~ msgid "Replace existing project"
 #~ msgstr "既存のプロジェクトを置換"
 
+#~ msgid "requires sign in"
+#~ msgstr "サインインが必要です"
+
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "Scratch 2.0 オフラインエディター"
+
+#~ msgid "Scripts:"
+#~ msgstr "スクリプト:"
 
 #~ msgid ""
 #~ "See the Tips window (on the right) to install the plug-in and get the "
@@ -2047,6 +2025,15 @@ msgstr ""
 
 #~ msgid "Share to Scratch website"
 #~ msgstr "ScratchのWebサイトで共有する"
+
+#~ msgid "show receivers"
+#~ msgstr "レシーバーを表示"
+
+#~ msgid "show senders"
+#~ msgstr "センダーを表示"
+
+#~ msgid "stored on server"
+#~ msgstr "サーバーへ格納"
 
 #~ msgid "The name is already in use."
 #~ msgstr "この名前は既に使われています。"
@@ -2069,6 +2056,26 @@ msgstr ""
 
 #~ msgid "world"
 #~ msgstr "世界"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>クラウド変数について</b><br>&nbsp;<br>現在、数値のみがサポートされてい"
+#~ "ます<br>チャットルームの作成は許可されていないため、削除されます<br>詳細な"
+#~ "情報は <a href= target=>クラウドデータに関するFAQを読んでください！</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr ""
+#~ "「直ちに保存」をクリックして再試行するか、「ダウンロード」で保存してくださ"
+#~ "い"
+
+#~ msgid "Eraser width:"
+#~ msgstr "消しゴムの幅:"
+
+#~ msgid "Line width:"
+#~ msgstr "線の幅:"
 
 #~ msgid "cleanup"
 #~ msgstr "きれいにする"

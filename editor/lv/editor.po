@@ -284,8 +284,8 @@ msgstr "Aizvērt"
 msgid "Closed Hi-Hat"
 msgstr "Slēgtai Hi-Hat šķīvji"
 
-msgid "Cloud"
-msgstr "Mākonis"
+#~ msgid "Cloud"
+#~ msgstr "Mākonis"
 
 msgid "Cloud data"
 msgstr "Mākoņdati"
@@ -351,8 +351,8 @@ msgstr "Tērpi > 1"
 
 # 75%
 # 88%
-msgid "Costumes:"
-msgstr "Tērpi:"
+#~ msgid "Costumes:"
+#~ msgstr "Tērpi:"
 
 msgid "Could not retrieve new application from server."
 msgstr "Nevar saņemt jaunu lietotni no servera."
@@ -634,8 +634,8 @@ msgstr "gaisma"
 #~ msgid "lights"
 #~ msgstr "gaismas"
 
-msgid "limit reached"
-msgstr "limits sasniegts"
+#~ msgid "limit reached"
+#~ msgstr "limits sasniegts"
 
 msgid "Line"
 msgstr "Līnija"
@@ -960,8 +960,8 @@ msgstr "pārsaukt mainīgo"
 #~ msgid "Replace existing project"
 #~ msgstr "Aizvietot esošu projektu"
 
-msgid "requires sign in"
-msgstr "nepieciešams pieslēgties"
+#~ msgid "requires sign in"
+#~ msgstr "nepieciešams pieslēgties"
 
 msgid "Reshape"
 msgstr "Pārveidot"
@@ -1044,8 +1044,8 @@ msgstr "Skripts"
 msgid "Scripts"
 msgstr "Skripti"
 
-msgid "Scripts:"
-msgstr "Programmas:"
+#~ msgid "Scripts:"
+#~ msgstr "Programmas:"
 
 msgid "second"
 msgstr "sekunde"
@@ -1099,11 +1099,11 @@ msgstr "Shift:"
 msgid "show"
 msgstr "parādīt"
 
-msgid "show receivers"
-msgstr "parādīt saņēmējus"
+#~ msgid "show receivers"
+#~ msgstr "parādīt saņēmējus"
 
-msgid "show senders"
-msgstr "parādīt sūtītājus"
+#~ msgid "show senders"
+#~ msgstr "parādīt sūtītājus"
 
 msgid "show:"
 msgstr "parādīt:"
@@ -1204,8 +1204,8 @@ msgstr "Izvēlēta skatuve:"
 msgid "Steel Drum"
 msgstr "Metāla bungas"
 
-msgid "stored on server"
-msgstr "saglabāts serverī"
+#~ msgid "stored on server"
+#~ msgstr "saglabāts serverī"
 
 msgid "Synth Lead"
 msgstr "Vadošais sintezators"
@@ -1448,23 +1448,23 @@ msgstr "Tavs Scratch vārds"
 msgid "Your Scratch name is required"
 msgstr "Tavs Scratch vārds ir obligāts"
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Informācija par mākoņu mainīgajiem</b><br>&nbsp;<br>Šobrīd atļauti tikai "
-"skaitļi<br>Sarunu istabas nav atļautas, un tiks dzēstas.<br>Vairāk "
-"informācijas <a href= target=>mākoņu datu BUJ!</a>"
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Informācija par mākoņu mainīgajiem</b><br>&nbsp;<br>Šobrīd atļauti tikai "
+#~ "skaitļi<br>Sarunu istabas nav atļautas, un tiks dzēstas.<br>Vairāk "
+#~ "informācijas <a href= target=>mākoņu datu BUJ!</a>"
 
-msgid "Click  to try again or  to save"
-msgstr "Klikšķini     lai mēģinātu vēlreiz vai     lai saglabātu"
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Klikšķini     lai mēģinātu vēlreiz vai     lai saglabātu"
 
-msgid "Eraser width:"
-msgstr "Dzēšgumijas platums:"
+#~ msgid "Eraser width:"
+#~ msgstr "Dzēšgumijas platums:"
 
-msgid "Line width:"
-msgstr "Līnijas platums:"
+#~ msgid "Line width:"
+#~ msgstr "Līnijas platums:"
 
 # Offline editor only
 msgid "All Tips"
@@ -1650,4 +1650,7 @@ msgid "any"
 msgstr ""
 
 msgid "when Stage clicked"
+msgstr ""
+
+msgid "random position"
 msgstr ""

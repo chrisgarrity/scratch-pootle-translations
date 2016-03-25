@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-12-27 09:40+0000\n"
+"PO-Revision-Date: 2016-03-14 09:16+0000\n"
 "Last-Translator: Chun-Nan <brian030218@outlook.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_TW\n"
@@ -12,11 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1451209216.000000\n"
-
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "正體中文"
+"X-POOTLE-MTIME: 1457946974.000000\n"
 
 msgid "%b and %b"
 msgstr "%b 和 %b"
@@ -26,9 +22,6 @@ msgstr "%b 或 %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.spriteOrStage 的 %m.attribute"
-
-msgid "%m.list contains %s"
-msgstr "%m.list 內包含 %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%n 的 %m.mathOp"
@@ -151,9 +144,6 @@ msgstr "在 %n 秒內，滑行到 x:%n y:%n"
 
 msgid "go back %n layers"
 msgstr "下移 %n 層"
-
-msgid "go to %m.spriteOrMouse"
-msgstr "移到 %m.spriteOrMouse"
 
 msgid "go to front"
 msgstr "移到最上層"
@@ -470,6 +460,9 @@ msgstr "當我接收到 %m.broadcast"
 msgid "when I start as a clone"
 msgstr "當分身產生"
 
+msgid "when Stage clicked"
+msgstr "當舞臺被點一下"
+
 msgid "when this sprite clicked"
 msgstr "當角色被點擊"
 
@@ -482,33 +475,12 @@ msgstr "x 座標"
 msgid "y position"
 msgstr "y 座標"
 
-# 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "設定馬達運轉方向 %m.motorDirection"
-
-# 77%
-msgid "set motor power %n"
-msgstr "設定馬達動力 %n"
-
-msgid "turn motor off"
-msgstr "關閉馬達"
-
-msgid "turn motor on"
-msgstr "啟動馬達"
-
-# 80%
-msgid "turn motor on for %n secs"
-msgstr "啟動馬達運轉 %n 秒"
-
-msgid "when distance < %n"
-msgstr "當距離 < %n"
-
-msgid "when tilt = %n"
-msgstr "當傾斜度 = %n"
-
 #: commands-online.txt:7 commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list 中包含 %s？"
+
+msgid "go to %m.location"
+msgstr "移到 %m.location"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -747,9 +719,6 @@ msgstr "結束"
 msgid "Closed Hi-Hat"
 msgstr "閉合雙面拔"
 
-msgid "Cloud"
-msgstr "雲端"
-
 msgid "Cloud data"
 msgstr "雲端資料"
 
@@ -803,9 +772,6 @@ msgstr "造型"
 
 msgid "Costumes > 1"
 msgstr "造型 > 1"
-
-msgid "Costumes:"
-msgstr "造型："
 
 msgid "Could not retrieve new application from server."
 msgstr "無法從伺服器取得新應用程式。"
@@ -963,7 +929,7 @@ msgid "Forward a layer"
 msgstr "上移一層"
 
 msgid "ghost"
-msgstr "鬼"
+msgstr "幻影"
 
 msgid "Go to My Stuff"
 msgstr "去我的房間"
@@ -1046,9 +1012,6 @@ msgstr "範例庫"
 
 msgid "light"
 msgstr "光線"
-
-msgid "limit reached"
-msgstr "抵達限制"
 
 msgid "Line"
 msgstr "線條"
@@ -1347,9 +1310,6 @@ msgstr "重新命名"
 msgid "rename variable"
 msgstr "重新命名變數"
 
-msgid "requires sign in"
-msgstr "需要登入"
-
 msgid "Reshape"
 msgstr "重新塑形"
 
@@ -1428,9 +1388,6 @@ msgstr "程式"
 msgid "Scripts"
 msgstr "程式"
 
-msgid "Scripts:"
-msgstr "程式："
-
 msgid "second"
 msgstr "秒"
 
@@ -1469,12 +1426,6 @@ msgstr "已分享"
 
 msgid "Shift:"
 msgstr "Shift："
-
-msgid "show receivers"
-msgstr "顯示接收者"
-
-msgid "show senders"
-msgstr "顯示傳送者"
 
 msgid "show:"
 msgstr "顯示："
@@ -1565,9 +1516,6 @@ msgstr "已選擇的舞台："
 
 msgid "Steel Drum"
 msgstr "鋼鼓"
-
-msgid "stored on server"
-msgstr "已儲存至伺服器"
 
 msgid "Synth Lead"
 msgstr "合成主音"
@@ -1772,24 +1720,6 @@ msgstr "您的 Scratch 名稱"
 msgid "Your Scratch name is required"
 msgstr "需要填寫您的 Scratch 名稱"
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>雲端變數的</b><br>&nbsp;<br>目前只能用數字<br>不能用聊天室，會被刪除。<br>"
-"更多相關資訊<a href=\"/help/faq/#clouddata\" target=\"_blank\">請看雲端資料"
-"FAQ!</a>"
-
-msgid "Click  to try again or  to save"
-msgstr "點選\"立即儲存\"以重試或\"下載\"以儲存"
-
-msgid "Eraser width:"
-msgstr "橡皮擦寬度"
-
-msgid "Line width:"
-msgstr "線條寬度"
-
 # Offline editor only
 msgid "All Tips"
 msgstr "所有技巧"
@@ -1901,8 +1831,42 @@ msgstr "錄製專案影片"
 msgid "Remove Background"
 msgstr "移除背景"
 
-#~ msgid "when Stage clicked"
-#~ msgstr "當舞臺被點一下"
+msgid "random position"
+msgstr "隨機位置"
+
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "正體中文"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list 內包含 %s"
+
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "移到 %m.spriteOrMouse"
+
+# 89%
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "設定馬達運轉方向 %m.motorDirection"
+
+# 77%
+#~ msgid "set motor power %n"
+#~ msgstr "設定馬達動力 %n"
+
+#~ msgid "turn motor off"
+#~ msgstr "關閉馬達"
+
+#~ msgid "turn motor on"
+#~ msgstr "啟動馬達"
+
+# 80%
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "啟動馬達運轉 %n 秒"
+
+#~ msgid "when distance < %n"
+#~ msgstr "當距離 < %n"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "當傾斜度 = %n"
 
 # 89%
 # 86%
@@ -1948,8 +1912,14 @@ msgstr "移除背景"
 #~ msgid "Cannot Add"
 #~ msgstr "無法加入"
 
+#~ msgid "Cloud"
+#~ msgstr "雲端"
+
 #~ msgid "Cloud variable (stored on server)"
 #~ msgstr "雲端變數 (資料將會儲存在伺服器)"
+
+#~ msgid "Costumes:"
+#~ msgstr "造型："
 
 #~ msgid "Downloading new version"
 #~ msgstr "正在下載更新版本"
@@ -1985,6 +1955,9 @@ msgstr "移除背景"
 #~ msgid "lights"
 #~ msgstr "光線"
 
+#~ msgid "limit reached"
+#~ msgstr "抵達限制"
+
 #~ msgid "motor"
 #~ msgstr "馬達"
 
@@ -2003,8 +1976,14 @@ msgstr "移除背景"
 #~ msgid "Replace existing project"
 #~ msgstr "取代現有專案"
 
+#~ msgid "requires sign in"
+#~ msgstr "需要登入"
+
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "Scratch 2.0 離線編輯器"
+
+#~ msgid "Scripts:"
+#~ msgstr "程式："
 
 #~ msgid ""
 #~ "See the Tips window (on the right) to install the plug-in and get the "
@@ -2013,6 +1992,15 @@ msgstr "移除背景"
 
 #~ msgid "Share to Scratch website"
 #~ msgstr "分享到 Scratch 網站"
+
+#~ msgid "show receivers"
+#~ msgstr "顯示接收者"
+
+#~ msgid "show senders"
+#~ msgstr "顯示傳送者"
+
+#~ msgid "stored on server"
+#~ msgstr "已儲存至伺服器"
 
 #~ msgid "The name is already in use."
 #~ msgstr "這個名稱已被使用。"
@@ -2033,6 +2021,24 @@ msgstr "移除背景"
 
 #~ msgid "world"
 #~ msgstr "世界"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>雲端變數的</b><br>&nbsp;<br>目前只能用數字<br>不能用聊天室，會被刪除。"
+#~ "<br>更多相關資訊<a href=\"/help/faq/#clouddata\" target=\"_blank\">請看雲"
+#~ "端資料FAQ!</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "點選\"立即儲存\"以重試或\"下載\"以儲存"
+
+#~ msgid "Eraser width:"
+#~ msgstr "橡皮擦寬度"
+
+#~ msgid "Line width:"
+#~ msgstr "線條寬度"
 
 #~ msgid "cleanup"
 #~ msgstr "清除"

@@ -1120,11 +1120,11 @@ msgstr ""
 msgid "show"
 msgstr ""
 
-msgid "show receivers"
-msgstr "vis mottakere"
+#~ msgid "show receivers"
+#~ msgstr "vis mottakere"
 
-msgid "show senders"
-msgstr "vis sendere"
+#~ msgid "show senders"
+#~ msgstr "vis sendere"
 
 msgid "show:"
 msgstr ""
@@ -1749,4 +1749,7 @@ msgid "Remove Background"
 msgstr ""
 
 msgid "when Stage clicked"
+msgstr ""
+
+msgid "random position"
 msgstr ""

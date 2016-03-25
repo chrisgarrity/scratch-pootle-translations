@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2014-10-24 16:01+0000\n"
+"PO-Revision-Date: 2016-03-08 08:04+0000\n"
 "Last-Translator: Kazuhiro <abee@squeakland.jp>\n"
 "Language-Team: LANGUAGE\n"
 "Language: ja_HIRA\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1414166496.000000\n"
+"X-POOTLE-MTIME: 1457424297.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -34,7 +34,7 @@ msgid "a copy of the project file on your computer."
 msgstr "てもとのコンピューターにあるさくひんのコピー。"
 
 msgid "A newer version of Scratch is available"
-msgstr ""
+msgstr "あたらしいバージョンのScratchがあります"
 
 msgid "About"
 msgstr "せつめい"
@@ -55,7 +55,7 @@ msgid "acos"
 msgstr "acos"
 
 msgid "Add"
-msgstr ""
+msgstr "ついか"
 
 msgid "Add an Extension"
 msgstr "かくちょうきのうをついか"
@@ -227,7 +227,7 @@ msgid "Cello"
 msgstr "チェロ"
 
 msgid "Check for updates"
-msgstr ""
+msgstr "アップデートをかくにん"
 
 msgid "Choir"
 msgstr "がっしょうだん"
@@ -256,7 +256,6 @@ msgstr "クラリネット"
 msgid "Claves"
 msgstr "クラーベ"
 
-#, fuzzy
 msgid "clean up"
 msgstr "きれいにする"
 
@@ -275,8 +274,8 @@ msgstr "とじる"
 msgid "Closed Hi-Hat"
 msgstr "とじたハイハット"
 
-msgid "Cloud"
-msgstr "クラウド"
+#~ msgid "Cloud"
+#~ msgstr "クラウド"
 
 msgid "Cloud data"
 msgstr "クラウドデータ"
@@ -339,11 +338,11 @@ msgstr "コスチューム"
 msgid "Costumes > 1"
 msgstr "コスチューム > 1"
 
-msgid "Costumes:"
-msgstr "コスチューム:"
+#~ msgid "Costumes:"
+#~ msgstr "コスチューム:"
 
 msgid "Could not retrieve new application from server."
-msgstr ""
+msgstr "サーバーからあたらしいアプリケーションをとりだせません。"
 
 msgid "Cowbell"
 msgstr "カウベル"
@@ -388,7 +387,7 @@ msgid "don't rotate"
 msgstr "かいてんしない"
 
 msgid "Don't save"
-msgstr ""
+msgstr "ほぞんしない"
 
 msgid "down"
 msgstr "した"
@@ -545,7 +544,7 @@ msgid "Hardware"
 msgstr "ハードウェア"
 
 msgid "help"
-msgstr ""
+msgstr "ヘルプ"
 
 msgid "Hello!"
 msgstr ""
@@ -564,7 +563,7 @@ msgid "High C"
 msgstr "たかいド"
 
 msgid "Holiday"
-msgstr ""
+msgstr "きゅうじつ"
 
 msgid "hour"
 msgstr "とき"
@@ -610,7 +609,7 @@ msgid "length"
 msgstr "ながさ"
 
 msgid "Letters"
-msgstr ""
+msgstr "もじ"
 
 msgid "Library"
 msgstr "ライブラリ"
@@ -622,8 +621,8 @@ msgstr "あかるさ"
 #~ msgid "lights"
 #~ msgstr "あかるさ"
 
-msgid "limit reached"
-msgstr "げんかいにとうたつ"
+#~ msgid "limit reached"
+#~ msgstr "げんかいにとうたつ"
 
 msgid "Line"
 msgstr "ちょくせん"
@@ -680,7 +679,6 @@ msgstr "メッセージめい"
 msgid "message1"
 msgstr "メッセージ1"
 
-#, fuzzy
 msgid "Microphone volume:"
 msgstr "マイクのおんりょう:"
 
@@ -745,7 +743,7 @@ msgid "New backdrop:"
 msgstr "あたらしいはいけい:"
 
 msgid "New Block"
-msgstr ""
+msgstr "あたらしいブロック"
 
 msgid "New costume from camera"
 msgstr "カメラからあたらしいコスチュームをつくる"
@@ -757,7 +755,7 @@ msgid "New List"
 msgstr "あたらしいリスト"
 
 msgid "New Message"
-msgstr ""
+msgstr "あたらしいメッセージ"
 
 msgid "new message..."
 msgstr "あたらしいメッセージ..."
@@ -777,9 +775,8 @@ msgstr "あたらしいスプライト:"
 msgid "New Variable"
 msgstr "あたらしいへんすう"
 
-#, fuzzy
 msgid "next backdrop"
-msgstr "あたらしいはいけい"
+msgstr "つぎのはいけい"
 
 msgid "No motion blocks"
 msgstr "うごきのブロックはありません"
@@ -815,7 +812,7 @@ msgid "on-flipped"
 msgstr "さゆうはんてん"
 
 msgid "Open"
-msgstr ""
+msgstr "ひらく"
 
 msgid "Open Cuica"
 msgstr "オープンクイーカ"
@@ -837,9 +834,8 @@ msgid "other scripts in sprite"
 msgstr "スプライトのほかのスクリプト"
 
 # 82%
-#, fuzzy
 msgid "other scripts in stage"
-msgstr "スプライトのほかのスクリプト"
+msgstr "ステージのほかのスクリプト"
 
 msgid "Outdoors"
 msgstr "おくがい"
@@ -854,10 +850,10 @@ msgid "Paint new sprite"
 msgstr "あたらしいスプライトをえがく"
 
 msgid "Password"
-msgstr ""
+msgstr "パスワード"
 
 msgid "Password is required"
-msgstr ""
+msgstr "パスワードがひつようです"
 
 msgid "paste"
 msgstr "はりつけ"
@@ -890,7 +886,7 @@ msgid "pop"
 msgstr "ポップ"
 
 msgid "previous backdrop"
-msgstr ""
+msgstr "まえのはいけい"
 
 msgid "Profile"
 msgstr "プロフィール"
@@ -902,10 +898,10 @@ msgid "Project not saved!"
 msgstr "さくひんはほぞんされていません!"
 
 msgid "Project name"
-msgstr ""
+msgstr "プロジェクトめい"
 
 msgid "Project name is required"
-msgstr ""
+msgstr "プロジェクトめいがひつようです"
 
 msgid "random"
 msgstr "らんすう"
@@ -917,7 +913,7 @@ msgid "Record new sound"
 msgstr "あたらしいおとをろくおん"
 
 msgid "record..."
-msgstr ""
+msgstr "ろくおん..."
 
 msgid "recording1"
 msgstr "ろくおん1"
@@ -949,8 +945,8 @@ msgstr "へんすうめいをへんこう"
 msgid "Replace existing project"
 msgstr ""
 
-msgid "requires sign in"
-msgstr "サインインがひつようです"
+#~ msgid "requires sign in"
+#~ msgstr "サインインがひつようです"
 
 msgid "Reshape"
 msgstr "かたちをかえる"
@@ -992,10 +988,10 @@ msgid "Save"
 msgstr "ほぞん"
 
 msgid "Save a copy of this project and add your own ideas."
-msgstr ""
+msgstr "このプロジェクトのコピーをほぞんして、あなたじしんのアイデアをついかします。"
 
 msgid "Save as"
-msgstr ""
+msgstr "なまえをつけてほぞん"
 
 msgid "Save as a copy"
 msgstr "コピーをほぞん"
@@ -1004,7 +1000,7 @@ msgid "Save now"
 msgstr "ただちにほぞん"
 
 msgid "Save project?"
-msgstr ""
+msgstr "プロジェクトをほぞん?"
 
 msgid "save to local file"
 msgstr "ローカルファイルにほぞん"
@@ -1022,7 +1018,7 @@ msgid "Saxophone"
 msgstr "サクソフォーン"
 
 msgid "Scratch Updater"
-msgstr ""
+msgstr "Scratchアップデーター"
 
 msgid "Scratch 2.0 Offline Editor"
 msgstr ""
@@ -1033,8 +1029,8 @@ msgstr "スクリプト"
 msgid "Scripts"
 msgstr "スクリプト"
 
-msgid "Scripts:"
-msgstr "スクリプト:"
+#~ msgid "Scripts:"
+#~ msgstr "スクリプト:"
 
 msgid "second"
 msgstr "びょう"
@@ -1072,7 +1068,7 @@ msgid "Share"
 msgstr "きょうゆう"
 
 msgid "Share to website"
-msgstr ""
+msgstr "Webサイトできょうゆう"
 
 msgid "Share to Scratch website"
 msgstr ""
@@ -1086,11 +1082,11 @@ msgstr "シフト:"
 msgid "show"
 msgstr "ひょうじする"
 
-msgid "show receivers"
-msgstr "レシーバーをひょうじ"
+#~ msgid "show receivers"
+#~ msgstr "レシーバーをひょうじ"
 
-msgid "show senders"
-msgstr "センダーをひょうじ"
+#~ msgid "show senders"
+#~ msgstr "センダーをひょうじ"
 
 msgid "show:"
 msgstr "ひょうじする:"
@@ -1135,7 +1131,7 @@ msgid "Snare Drum"
 msgstr "スネアドラム"
 
 msgid "softer"
-msgstr "やわらかく"
+msgstr "ちいさく"
 
 msgid "sound"
 msgstr "おと"
@@ -1186,8 +1182,8 @@ msgstr "せんたくされたステージ:"
 msgid "Steel Drum"
 msgstr "スチールドラム"
 
-msgid "stored on server"
-msgstr "サーバーへかくのう"
+#~ msgid "stored on server"
+#~ msgstr "サーバーへかくのう"
 
 msgid "Synth Lead"
 msgstr "シンセリード"
@@ -1201,7 +1197,6 @@ msgstr "タンバリン"
 msgid "tan"
 msgstr "tan"
 
-#, fuzzy
 msgid "text"
 msgstr "テキスト"
 
@@ -1229,7 +1224,7 @@ msgid "thing"
 msgstr ""
 
 msgid "This is the current version."
-msgstr ""
+msgstr "これがさいしんのバージョンです。"
 
 msgid ""
 "This project can detect who is using it, through the “username” block. To "
@@ -1268,7 +1263,7 @@ msgid "Transportation"
 msgstr "のりもの"
 
 msgid "Triangle"
-msgstr "さんかっけい"
+msgstr "トライアングル"
 
 msgid "Trombone"
 msgstr "トロンボーン"
@@ -1313,13 +1308,13 @@ msgid "up arrow"
 msgstr "うわむきやじるし"
 
 msgid "Update failed"
-msgstr ""
+msgstr "アップデートしっぱい"
 
 msgid "Update not needed"
-msgstr ""
+msgstr "アップデートはひつようありません"
 
 msgid "Update now"
-msgstr ""
+msgstr "ただちにアップデート"
 
 msgid "Upload backdrop from file"
 msgstr "ファイルからあたらしいはいけいをアップロード"
@@ -1364,7 +1359,7 @@ msgid "Vibraslap"
 msgstr "ビブラスラップ"
 
 msgid "video direction"
-msgstr ""
+msgstr "ビデオのむき"
 
 msgid "video motion"
 msgstr "ビデオモーション"
@@ -1419,129 +1414,129 @@ msgstr ""
 "ん。"
 
 msgid "Your Scratch name"
-msgstr ""
+msgstr "あなたのScratchめい"
 
 msgid "Your Scratch name is required"
-msgstr ""
+msgstr "Scratchめいがひつようです"
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"クラウドへんすうについて</b><br>&nbsp;<br>げんざい、すうちのみがサポートされています<br>チャットルームのさくせいはきょかされていない"
-"ため、さくじょされます<br>しょうさいなじょうほうは <a href= target=>クラウドデータにかんするFAQをよんでください！</a>"
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "クラウドへんすうについて</b><br>&nbsp;<br>げんざい、すうちのみがサポートされています<br>チャットルームのさくせいはきょかされていない"
+#~ "ため、さくじょされます<br>しょうさいなじょうほうは <a href= target=>クラウドデータにかんするFAQをよんでください！</a>"
 
-msgid "Click  to try again or  to save"
-msgstr "「ただちにほぞん」をクリックしてさいしこうするか、「ダウンロード」でほぞんしてください"
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "「ただちにほぞん」をクリックしてさいしこうするか、「ダウンロード」でほぞんしてください"
 
-msgid "Eraser width:"
-msgstr "けしゴムのはば:"
+#~ msgid "Eraser width:"
+#~ msgstr "けしゴムのはば:"
 
-msgid "Line width:"
-msgstr "せんのはば:"
+#~ msgid "Line width:"
+#~ msgstr "せんのはば:"
 
 # Offline editor only
 msgid "All Tips"
-msgstr ""
+msgstr "すべてのTips"
 
 # Offline editor only
 msgid ""
 "An updated version of the Scratch offline editor is available on the Scratch "
 "website."
-msgstr ""
+msgstr "ScratchのWebサイトにこうしんされたScratchオフラインエディターがあります。"
 
 # Offline editor only
 msgid "Could not retrieve update location from server."
-msgstr ""
+msgstr "サーバーからこうしんばんをとりだせません。"
 
 # Offline editor only
 msgid "Could not retrieve version information from server."
-msgstr ""
+msgstr "サーバーからバージョンじょうほうをとりだせません"
 
 # Offline editor only
 msgid "Could not write file:"
-msgstr ""
+msgstr "ファイルにかきこめません:"
 
 # Offline editor only
 msgid "Downloading new version..."
-msgstr ""
+msgstr "あたらしいバージョンをダウンロードちゅう..."
 
 # Offline editor only
 msgid "Error saving project"
-msgstr ""
+msgstr "プロジェクトのほぞんエラー"
 
 # Offline editor only
 msgid "Force help file update"
-msgstr ""
+msgstr "ヘルプファイルをきょうせいてきにこうしん"
 
 # Offline editor only
 msgid "Import experimental HTTP extension"
-msgstr ""
+msgstr "じっけんてきなHTTPかくちょうをよみこみ"
 
 # Offline editor only
 msgid "Loading help files..."
-msgstr ""
+msgstr "ヘルプファイルのよみこみちゅう.."
 
 # Offline editor only
 msgid "Manual Update Available"
-msgstr ""
+msgstr "しゅどうこうしんがかのうです"
 
 # Offline editor only
 msgid "Open Project"
-msgstr ""
+msgstr "プロジェクトをひらく"
 
 # Offline editor only
 msgid "Please visit the download page to install it."
-msgstr ""
+msgstr "インストールするにはダウンロードページをひらいてください。"
 
 # Offline editor only
 msgid "Quit"
-msgstr ""
+msgstr "しゅうりょう"
 
 # Offline editor only
 msgid "Replace existing project?"
-msgstr ""
+msgstr "きぞんのプロジェクトをちかんしますか?"
 
 # Offline editor only
 msgid "Running pre-release"
-msgstr ""
+msgstr "リリースまえのものをじっこう"
 
 # Offline editor only
 msgid "Save Project"
-msgstr ""
+msgstr "プロジェクトをほぞん"
 
 # Offline editor only
 msgid "Server error:"
-msgstr ""
+msgstr "サーバーエラー:"
 
 # Offline editor only
 msgid "Share to Scratch Website"
-msgstr ""
+msgstr "ScratchのWebサイトできょうゆうする"
 
 # Offline editor only
 msgid "Success"
-msgstr ""
+msgstr "せいこう"
 
 # Offline editor only
 msgid "This version is newer than the current release version."
-msgstr ""
+msgstr "このバージョンはげんざいリリースされているものよりあたらしいです。"
 
 # Offline editor only
 msgid "Update check failed"
-msgstr ""
+msgstr "アップデートのかくにんにしっぱいしました"
 
 # Offline editor only
 msgid "Upload failed"
-msgstr ""
+msgstr "アップロードしっぱい"
 
 # Offline editor only
 msgid "Visit download page"
-msgstr ""
+msgstr "ダウンロードページへいく"
 
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
-msgstr ""
+msgstr "あなたのプロジェクトはscratch.mit.eduへアップロードされました"
 
 #~ msgid "cleanup"
 #~ msgstr "きれいにする"
@@ -1589,13 +1584,16 @@ msgstr ""
 #~ msgstr "あたらしいおと"
 
 msgid "Record Project Video"
-msgstr ""
+msgstr "プロジェクトのビデオをろくが"
 
 msgid "Remove Background"
-msgstr ""
+msgstr "はいけいをさくじょ"
 
 msgid "any"
-msgstr ""
+msgstr "にんいの"
 
 msgid "when Stage clicked"
+msgstr ""
+
+msgid "random position"
 msgstr ""

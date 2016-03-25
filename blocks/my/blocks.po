@@ -562,4 +562,4 @@ msgid "%m.list contains %s?"
 msgstr "%m.list မှာ %s က ပါဝင်"
 
 msgid "go to %m.location"
-msgstr ""
+msgstr "%m.location ဆီသွား"

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-02-15 11:07+0000\n"
+"PO-Revision-Date: 2016-03-11 12:53+0000\n"
 "Last-Translator: Karel <janda@ccs.cz>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: cs\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1423998439.000000\n"
+"X-POOTLE-MTIME: 1457700817.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -65,21 +65,21 @@ msgid "Add boolean input:"
 msgstr "Přidat logický parametr:"
 
 msgid "add comment"
-msgstr "přidat komentář"
+msgstr "přidej komentář"
 
 #~ msgid "add comment here..."
 #~ msgstr "přidej komentář ..."
 
 msgid "Add label text:"
-msgstr "Přidat nápis:"
+msgstr "Přidej nápis:"
 
 # 89%
 msgid "Add number input:"
-msgstr "Přidat číselný parametr:"
+msgstr "Přidej číselný parametr:"
 
 # 89%
 msgid "Add string input:"
-msgstr "Přidat textový parametr:"
+msgstr "Přidej textový parametr:"
 
 msgid "all"
 msgstr "všechno"
@@ -160,9 +160,9 @@ msgid ""
 "saved yet. Keep participating on the site you'll be able to use cloud data "
 "soon!"
 msgstr ""
-"Protože máš účet Scratch nový, do cloudových dat zatím nebudou ukládány "
-"žádné změny. Podílej se nadále na práci na webu a brzy budeš moci využívat "
-"cloudová data."
+"Protože máš nový Scratch účet, žádné změny se zatím do cloudových dat "
+"ukládat nebudou. Podílej se nadále na práci na webu a brzy budeš moci "
+"využívat cloudová data."
 
 msgid "Bitmap"
 msgstr "Bitmapa"
@@ -240,16 +240,16 @@ msgid "Choir"
 msgstr "Sbor"
 
 msgid "Choose backdrop from library"
-msgstr "Vybrat pozadí z knihovny"
+msgstr "Vyber pozadí z knihovny"
 
 msgid "Choose costume from library"
-msgstr "Vybrat kostým z knihovny"
+msgstr "Vyber kostým z knihovny"
 
 msgid "Choose sound from library"
-msgstr "Vybrat zvuk z knihovny"
+msgstr "Vyber zvuk z knihovny"
 
 msgid "Choose sprite from library"
-msgstr "Vybrat postavu z knihovny"
+msgstr "Vyber postavu z knihovny"
 
 msgid "Circle"
 msgstr "Kružnice"
@@ -263,9 +263,8 @@ msgstr "Klarinet"
 msgid "Claves"
 msgstr "Claves"
 
-#, fuzzy
 msgid "clean up"
-msgstr "úklid"
+msgstr "vyčisti"
 
 msgid "Clear"
 msgstr "Smaž"
@@ -277,16 +276,16 @@ msgid "Click \"Save now\" to try again or \"Download\" to save"
 msgstr "Klikni  pro další pokus nebo  pro uložení"
 
 msgid "Close"
-msgstr "Zavřít"
+msgstr "Zavři"
 
 msgid "Closed Hi-Hat"
 msgstr "Zavřená Hi-hat"
 
-msgid "Cloud"
-msgstr "Cloud"
+#~ msgid "Cloud"
+#~ msgstr "Cloud"
 
 msgid "Cloud data"
-msgstr "Cloud data"
+msgstr "Cloudová data"
 
 #~ msgid "Cloud variable (stored on server)"
 #~ msgstr "cloudová proměnná (uložená na serveru)"
@@ -295,22 +294,22 @@ msgid "color"
 msgstr "barva"
 
 msgid "Color a shape"
-msgstr "Vybarvit předlohu"
+msgstr "Vybarvi předlohu"
 
 msgid "Conga"
 msgstr "Konga"
 
 msgid "Connecting to Cloud data server..."
-msgstr "Spojování s Cloud data serverem..."
+msgstr "Spojuji s cloudovým data serverem..."
 
 msgid "Convert to bitmap"
-msgstr "Převést na bitmapu (dlouhé)"
+msgstr "Převést na bitmapu"
 
 msgid "Convert to vector"
 msgstr "Převést na vektor"
 
 msgid "Converting mp3..."
-msgstr "Konvertuji mp3..."
+msgstr "Převádím na mp3..."
 
 msgid "copy"
 msgstr "kopírovat"
@@ -332,7 +331,7 @@ msgid "Costume Library"
 msgstr "Knihovna kostýmů"
 
 msgid "costume name"
-msgstr "jméno kostýmu"
+msgstr "název kostýmu"
 
 msgid "costume1"
 msgstr "kostým1"
@@ -348,8 +347,8 @@ msgstr "Kostýmy"
 msgid "Costumes > 1"
 msgstr "Kostýmů > 1"
 
-msgid "Costumes:"
-msgstr "Kostýmy:"
+#~ msgid "Costumes:"
+#~ msgstr "Kostýmy:"
 
 msgid "Could not retrieve new application from server."
 msgstr "Nelze získat novou aplikaci ze serveru"
@@ -361,7 +360,7 @@ msgid "Crash Cymbal"
 msgstr "Činel Crash"
 
 msgid "Creating..."
-msgstr "Vytváření..."
+msgstr "Vytvářím..."
 
 msgid "Currently, only numbers can be stored in Cloud variables."
 msgstr "Prozatím mohou být v cloudových proměnných uložena pouze čísla."
@@ -379,14 +378,14 @@ msgid "day of week"
 msgstr "den týdne"
 
 msgid "delete"
-msgstr "smazat"
+msgstr "smaž"
 
 # 83%
 msgid "Delete"
-msgstr "Smazat"
+msgstr "Smaž"
 
 msgid "delete variable"
-msgstr "smazat proměnnou"
+msgstr "smaž proměnnou"
 
 msgid "direction"
 msgstr "směr"
@@ -456,7 +455,7 @@ msgstr "Elipsa"
 #~ msgstr "prázdný"
 
 msgid "Erase"
-msgstr "Smazání"
+msgstr "Vygumuj"
 
 #~ msgid "Erase all"
 #~ msgstr "Smaž všechno"
@@ -499,7 +498,7 @@ msgid "File"
 msgstr "Soubor"
 
 msgid "Fill with color"
-msgstr "Vyplňování barvou"
+msgstr "Vyplň barvou"
 
 msgid "fisheye"
 msgstr "rybí oko"
@@ -632,8 +631,8 @@ msgstr "světlo"
 #~ msgid "lights"
 #~ msgstr "světla"
 
-msgid "limit reached"
-msgstr "dosáhlo limitu"
+#~ msgid "limit reached"
+#~ msgstr "dosáhlo limitu"
 
 msgid "Line"
 msgstr "Úsečka"
@@ -962,8 +961,8 @@ msgstr "přejmenovat proměnnou"
 #~ msgid "Replace existing project"
 #~ msgstr "Nahraď existující projekt"
 
-msgid "requires sign in"
-msgstr "vyžaduje přihlášení"
+#~ msgid "requires sign in"
+#~ msgstr "vyžaduje přihlášení"
 
 msgid "Reshape"
 msgstr "Změna tvaru"
@@ -1049,8 +1048,8 @@ msgid "Scripts"
 msgstr "Scénáře"
 
 # 87%
-msgid "Scripts:"
-msgstr "Scénáře:"
+#~ msgid "Scripts:"
+#~ msgstr "Scénáře:"
 
 msgid "second"
 msgstr "sekunda"
@@ -1106,11 +1105,11 @@ msgstr "Posun:"
 msgid "show"
 msgstr "ukázat"
 
-msgid "show receivers"
-msgstr "ukaž příjemce"
+#~ msgid "show receivers"
+#~ msgstr "ukaž příjemce"
 
-msgid "show senders"
-msgstr "ukaž odesílatele"
+#~ msgid "show senders"
+#~ msgstr "ukaž odesílatele"
 
 msgid "show:"
 msgstr "ukaž:"
@@ -1210,8 +1209,8 @@ msgstr "Vybraná scéna:"
 msgid "Steel Drum"
 msgstr "Kovový kotel"
 
-msgid "stored on server"
-msgstr "uloženo na serveru"
+#~ msgid "stored on server"
+#~ msgstr "uloženo na serveru"
 
 msgid "Synth Lead"
 msgstr "Syntezátor sólo"
@@ -1454,131 +1453,127 @@ msgstr "Tvoje Scratch jméno"
 msgid "Your Scratch name is required"
 msgstr "Je vyžadováno Tvé Scratch jméno"
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Informace o cloudových proměnných</b><br>&nbsp;<br>Prozatím jsou "
-"podorována pouze čísla<br>Chat místnosti nejsou povoleny a budou smazány<br>"
-"Pro více informací <a href= target=>viz cloud data FAQ!</a>"
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Informace o cloudových proměnných</b><br>&nbsp;<br>Prozatím jsou "
+#~ "podorována pouze čísla<br>Chat místnosti nejsou povoleny a budou smazány<br>"
+#~ "Pro více informací <a href= target=>viz cloud data FAQ!</a>"
 
-msgid "Click  to try again or  to save"
-msgstr "Klikni  pro další pokus nebo  pro uložení"
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Klikni  pro další pokus nebo  pro uložení"
 
-msgid "Eraser width:"
-msgstr "Šířka gumy:"
+#~ msgid "Eraser width:"
+#~ msgstr "Šířka gumy:"
 
-msgid "Line width:"
-msgstr "Šířka úsečky: "
+#~ msgid "Line width:"
+#~ msgstr "Šířka úsečky: "
 
 # Offline editor only
 msgid "All Tips"
-msgstr ""
+msgstr "Všechny nápady"
 
 # Offline editor only
 msgid ""
 "An updated version of the Scratch offline editor is available on the Scratch "
 "website."
 msgstr ""
+"Aktualizovaná verze Scratch Offline editoru je teď k dispozici na Scratch "
+"stránkách. "
 
 # Offline editor only
-#, fuzzy
 msgid "Could not retrieve update location from server."
-msgstr "Nelze získat novou aplikaci ze serveru"
+msgstr "Nemohu najít umístění aktualizace na serveru."
 
 # Offline editor only
-#, fuzzy
 msgid "Could not retrieve version information from server."
-msgstr "Nelze získat novou aplikaci ze serveru"
+msgstr "Nemohu získat informaci o verzi ze serveru."
 
 # Offline editor only
 msgid "Could not write file:"
-msgstr ""
+msgstr "Nelze zapsat soubor:"
 
 # Offline editor only
-#, fuzzy
 msgid "Downloading new version..."
-msgstr "Stahuji novou verzi"
+msgstr "Stahuji novou verzi..."
 
 # Offline editor only
 msgid "Error saving project"
-msgstr ""
+msgstr "Chyba při ukládání projektu"
 
 # Offline editor only
 msgid "Force help file update"
-msgstr ""
+msgstr "Vynucená aktualizace souborů nápovědy"
 
 # Offline editor only
 msgid "Import experimental HTTP extension"
-msgstr ""
+msgstr "Importuj experimentální HTTP rozšíření"
 
 # Offline editor only
 msgid "Loading help files..."
-msgstr ""
+msgstr "Načítání pomocných souborů"
 
 # Offline editor only
 msgid "Manual Update Available"
-msgstr ""
+msgstr "Manuální aktualizace je k dispozici "
 
 # Offline editor only
 msgid "Open Project"
-msgstr ""
+msgstr "Otevřít projekt"
 
 # Offline editor only
 msgid "Please visit the download page to install it."
-msgstr ""
+msgstr "Prosím jděte na stránku stahování pro stáhnutí."
 
 # Offline editor only
 msgid "Quit"
-msgstr ""
+msgstr "Odejít"
 
 # Offline editor only
-#, fuzzy
 msgid "Replace existing project?"
-msgstr "Nahraď existující projekt"
+msgstr "Nahradit existující projekt?"
 
 # Offline editor only
 msgid "Running pre-release"
-msgstr ""
+msgstr "Používáš předběžnou verzi"
 
 # Offline editor only
-#, fuzzy
 msgid "Save Project"
-msgstr "Uložit projekt?"
+msgstr "Uložit projekt"
 
 # Offline editor only
 msgid "Server error:"
-msgstr ""
+msgstr "Chyba serveru:"
 
 # Offline editor only
-#, fuzzy
 msgid "Share to Scratch Website"
-msgstr "Sdílej na webu Scratch"
+msgstr "Sdílej na stránkách Scratch"
 
 # Offline editor only
 msgid "Success"
-msgstr ""
+msgstr "Úspěšné"
 
 # Offline editor only
 msgid "This version is newer than the current release version."
-msgstr ""
+msgstr "Tato verze je novější, než verze aktuálně vydaná."
 
 # Offline editor only
 msgid "Update check failed"
-msgstr ""
+msgstr "Kontrola aktualizace selhala"
 
 # Offline editor only
 msgid "Upload failed"
-msgstr ""
+msgstr "Odeslání selhalo"
 
 # Offline editor only
 msgid "Visit download page"
-msgstr ""
+msgstr "Navštivit stránku ke stažení"
 
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
-msgstr ""
+msgstr "Tvůj projekt byl nahraný na scratch.mit.edu"
 
 #~ msgid "cleanup"
 #~ msgstr "úklid"
@@ -1739,10 +1734,13 @@ msgstr "nějaký"
 #~ msgstr "Krátké guiro"
 
 msgid "Record Project Video"
-msgstr ""
+msgstr "Nahraj video z projektu"
 
 msgid "Remove Background"
-msgstr ""
+msgstr "Odstraň pozadí"
 
 msgid "when Stage clicked"
 msgstr ""
+
+msgid "random position"
+msgstr "náhodná pozice"

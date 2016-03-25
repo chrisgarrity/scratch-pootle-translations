@@ -519,4 +519,4 @@ msgid "%m.list contains %s?"
 msgstr "%m.list پرمشتمل ھے %s"
 
 msgid "go to %m.location"
-msgstr ""
+msgstr "قصد کرو %m.location"

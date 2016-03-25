@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-08-04 06:28+0000\n"
+"PO-Revision-Date: 2016-03-18 10:50+0000\n"
 "Last-Translator: Rajeshwar <rrgujjari@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: te\n"
@@ -12,11 +12,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1438669739.000000\n"
+"X-POOTLE-MTIME: 1458298210.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
-msgstr ""
+msgstr "భాష పేరు"
 
 msgid "%b and %b"
 msgstr "%b మరియు %b"
@@ -25,7 +25,7 @@ msgid "%b or %b"
 msgstr "%b లేక %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
-msgstr "%m.attribute లో %m.spriteOrStage"
+msgstr "%m.లక్షణం యొక్క %m. వేదిక"
 
 #, fuzzy
 msgid "%m.list contains %s"
@@ -38,7 +38,7 @@ msgid "%m.sensor sensor value"
 msgstr "%m సంవేదకం సంవేదకం విలువ"
 
 msgid "%n mod %n"
-msgstr ""
+msgstr "%n mod %n"
 
 msgid "add %s to %m.list"
 msgstr "%m.list కు %s కలుపు"
@@ -506,4 +506,4 @@ msgid "%m.list contains %s?"
 msgstr "%m జాబితాలో %s కలిగి ఉండు"
 
 msgid "go to %m.location"
-msgstr ""
+msgstr "%m.location కు వెళ్ళు"

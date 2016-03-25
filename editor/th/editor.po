@@ -269,8 +269,8 @@ msgstr "ปิด"
 msgid "Closed Hi-Hat"
 msgstr "โคลสไฮแฮท"
 
-msgid "Cloud"
-msgstr "คลาวด์"
+#~ msgid "Cloud"
+#~ msgstr "คลาวด์"
 
 msgid "Cloud data"
 msgstr "ข้อมูลคลาวด์"
@@ -618,8 +618,8 @@ msgstr "แสง"
 msgid "lights"
 msgstr "แสง"
 
-msgid "limit reached"
-msgstr "ถึงค่าสุดแล้ว"
+#~ msgid "limit reached"
+#~ msgstr "ถึงค่าสุดแล้ว"
 
 msgid "Line"
 msgstr "เส้น"
@@ -944,8 +944,8 @@ msgstr "เปลี่ยนชื่อตัวแปร"
 msgid "Replace existing project"
 msgstr ""
 
-msgid "requires sign in"
-msgstr "ต้องเข้าระบบก่อน"
+#~ msgid "requires sign in"
+#~ msgstr "ต้องเข้าระบบก่อน"
 
 msgid "Reshape"
 msgstr ""
@@ -1028,8 +1028,8 @@ msgstr "สคริปต์"
 msgid "Scripts"
 msgstr "สคริปต์"
 
-msgid "Scripts:"
-msgstr "สคริปต์:"
+#~ msgid "Scripts:"
+#~ msgstr "สคริปต์:"
 
 msgid "second"
 msgstr "วินาที"
@@ -1081,11 +1081,11 @@ msgstr "เลื่อน:"
 msgid "show"
 msgstr "แสดง"
 
-msgid "show receivers"
-msgstr "แสดงผู้รับ"
+#~ msgid "show receivers"
+#~ msgstr "แสดงผู้รับ"
 
-msgid "show senders"
-msgstr "แสดงผู้ส่ง"
+#~ msgid "show senders"
+#~ msgstr "แสดงผู้ส่ง"
 
 msgid "show:"
 msgstr "แสดง:"
@@ -1186,8 +1186,8 @@ msgstr "ฉากที่เลือก:"
 msgid "Steel Drum"
 msgstr ""
 
-msgid "stored on server"
-msgstr "เก็บไว้บนเซิร์ฟเวอร์"
+#~ msgid "stored on server"
+#~ msgstr "เก็บไว้บนเซิร์ฟเวอร์"
 
 msgid "Synth Lead"
 msgstr ""
@@ -1433,11 +1433,11 @@ msgstr ""
 msgid "Click  to try again or  to save"
 msgstr ""
 
-msgid "Eraser width:"
-msgstr "ความกว้างยางลบ:"
+#~ msgid "Eraser width:"
+#~ msgstr "ความกว้างยางลบ:"
 
-msgid "Line width:"
-msgstr "ความกว้างเส้น:"
+#~ msgid "Line width:"
+#~ msgstr "ความกว้างเส้น:"
 
 # Offline editor only
 msgid "All Tips"
@@ -1598,4 +1598,7 @@ msgid "Remove Background"
 msgstr ""
 
 msgid "when Stage clicked"
+msgstr ""
+
+msgid "random position"
 msgstr ""

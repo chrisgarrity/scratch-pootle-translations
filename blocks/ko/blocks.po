@@ -551,4 +551,4 @@ msgid "%m.list contains %s?"
 msgstr "%m.list 리스트에 %s 포함되었는가?"
 
 msgid "go to %m.location"
-msgstr ""
+msgstr "%m.location 위치로 이동하기"

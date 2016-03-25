@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-08-04 06:28+0000\n"
+"PO-Revision-Date: 2016-03-18 10:50+0000\n"
 "Last-Translator: Rajeshwar <rrgujjari@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: te\n"
@@ -12,11 +12,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1438669739.000000\n"
+"X-POOTLE-MTIME: 1458298210.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
-msgstr ""
+msgstr "భాష పేరు"
 
 msgid "%b and %b"
 msgstr "%b మరియు %b"
@@ -25,7 +25,7 @@ msgid "%b or %b"
 msgstr "%b లేక %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
-msgstr "%m.attribute లో %m.spriteOrStage"
+msgstr "%m.లక్షణం యొక్క %m. వేదిక"
 
 #, fuzzy
 msgid "%m.list contains %s"
@@ -38,7 +38,7 @@ msgid "%m.sensor sensor value"
 msgstr "%m సంవేదకం సంవేదకం విలువ"
 
 msgid "%n mod %n"
-msgstr ""
+msgstr "%n mod %n"
 
 msgid "add %s to %m.list"
 msgstr "%m.list కు %s కలుపు"
@@ -151,9 +151,6 @@ msgstr "%n సెకన్లకు x:%n y:%n జరుగును"
 
 msgid "go back %n layers"
 msgstr "%n లేయర్లు తిరిగి వెళ్ళుట"
-
-msgid "go to %m.spriteOrMouse"
-msgstr "%m.spriteOrMouse కు వెళ్ళు"
 
 msgid "go to front"
 msgstr "ముందుకు వెళ్ళు"
@@ -502,6 +499,9 @@ msgstr ""
 msgid "%m.list contains %s?"
 msgstr "%m జాబితాలో %s కలిగి ఉండు"
 
+msgid "go to %m.location"
+msgstr "%m.location కు వెళ్ళు"
+
 msgid "10 ^"
 msgstr "10^"
 
@@ -644,13 +644,13 @@ msgid "brightness"
 msgstr ""
 
 msgid "Bring to front"
-msgstr ""
+msgstr "ముందుకు తెమ్ము"
 
 msgid "Broadcast"
-msgstr ""
+msgstr "ప్రసారంచేయు"
 
 msgid "Brush"
-msgstr ""
+msgstr "కుంచె"
 
 msgid "button pressed"
 msgstr ""
@@ -661,30 +661,29 @@ msgstr ""
 msgid "bytes loaded"
 msgstr ""
 
-#, fuzzy
 msgid "C connected"
-msgstr "అనుసంధానమైంది"
+msgstr "C అనుసంధానమైంది"
 
 msgid "Cabasa"
 msgstr ""
 
 msgid "Camera"
-msgstr ""
+msgstr "కేమెరా"
 
 msgid "can drag in player:"
 msgstr ""
 
 msgid "Cancel"
-msgstr ""
+msgstr "రద్దుచేయి"
 
 msgid "Cannot Add"
 msgstr ""
 
 msgid "Cannot Delete"
-msgstr ""
+msgstr "తొలగించలేము"
 
 msgid "Can’t find network connection or reach server."
-msgstr ""
+msgstr "నెట్ వర్క గుర్తించలేము లేక సర్వర్ అందుబాటులో లేదు"
 
 msgid "Castle"
 msgstr ""
@@ -1969,6 +1968,12 @@ msgstr ""
 
 msgid "any"
 msgstr ""
+
+msgid "random position"
+msgstr ""
+
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "%m.spriteOrMouse కు వెళ్ళు"
 
 #~ msgid "About LEGO WeDo extension..."
 #~ msgstr "LEGO డబ్ల్యుఇడిఒ పొడిగింపు గురించి ..."

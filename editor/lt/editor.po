@@ -286,8 +286,8 @@ msgstr "Uždaryti"
 msgid "Closed Hi-Hat"
 msgstr "Uždaras haihetas"
 
-msgid "Cloud"
-msgstr "\"Debesis\""
+#~ msgid "Cloud"
+#~ msgstr "\"Debesis\""
 
 msgid "Cloud data"
 msgstr "Duomenys \"debesyje\""
@@ -355,8 +355,8 @@ msgstr "Kaukės > 1"
 
 # 75%
 # 88%
-msgid "Costumes:"
-msgstr "Kaukės:"
+#~ msgid "Costumes:"
+#~ msgstr "Kaukės:"
 
 msgid "Could not retrieve new application from server."
 msgstr ""
@@ -1083,8 +1083,8 @@ msgid "Scripts"
 msgstr "Scenarijai"
 
 # 87%
-msgid "Scripts:"
-msgstr "Scenarijai:"
+#~ msgid "Scripts:"
+#~ msgstr "Scenarijai:"
 
 msgid "second"
 msgstr "sekundė"
@@ -1139,11 +1139,11 @@ msgstr "Paslinkimas:"
 msgid "show"
 msgstr "rodyti"
 
-msgid "show receivers"
-msgstr "rodyti gavėjus"
+#~ msgid "show receivers"
+#~ msgstr "rodyti gavėjus"
 
-msgid "show senders"
-msgstr "rodyti siuntėjus"
+#~ msgid "show senders"
+#~ msgstr "rodyti siuntėjus"
 
 msgid "show:"
 msgstr "rodyti:"
@@ -1246,8 +1246,8 @@ msgstr "Pažymėta scena:"
 msgid "Steel Drum"
 msgstr "Plieno būgnas"
 
-msgid "stored on server"
-msgstr "saugoma serveryje"
+#~ msgid "stored on server"
+#~ msgstr "saugoma serveryje"
 
 msgid "Synth Lead"
 msgstr "Solinis sintezatorius"
@@ -1497,23 +1497,23 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Informacija dėl \"Debesyje\" saugomų kintamųjų</b><br>&nbsp;<br>Dabar "
-"saugomi tik skaičiai<br><br>Daugiau info: <a href= target=>\"Debesų\" "
-"DUK!</a>"
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Informacija dėl \"Debesyje\" saugomų kintamųjų</b><br>&nbsp;<br>Dabar "
+#~ "saugomi tik skaičiai<br><br>Daugiau info: <a href= target=>\"Debesų\" "
+#~ "DUK!</a>"
 
 msgid "Click  to try again or  to save"
 msgstr ""
 
-msgid "Eraser width:"
-msgstr "Trintuko plotis:"
+#~ msgid "Eraser width:"
+#~ msgstr "Trintuko plotis:"
 
-msgid "Line width:"
-msgstr "Linijos plotis:"
+#~ msgid "Line width:"
+#~ msgstr "Linijos plotis:"
 
 # Offline editor only
 msgid "All Tips"
@@ -1717,4 +1717,7 @@ msgid "Remove Background"
 msgstr ""
 
 msgid "when Stage clicked"
+msgstr ""
+
+msgid "random position"
 msgstr ""

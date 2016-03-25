@@ -554,4 +554,4 @@ msgid "%m.list contains %s?"
 msgstr "%m.list yn cynnwys %s?"
 
 msgid "go to %m.location"
-msgstr ""
+msgstr "mynd i %m.location"

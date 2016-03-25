@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2016-02-17 18:00+0000\n"
+"PO-Revision-Date: 2016-03-14 22:25+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nah\n"
@@ -12,11 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1455732014.000000\n"
-
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Nahuatl"
+"X-POOTLE-MTIME: 1457994356.000000\n"
 
 msgid "%b and %b"
 msgstr "%b uan %b"
@@ -152,9 +148,6 @@ msgstr "nijtotoxos %n  ---- %n "
 
 msgid "go back %n layers"
 msgstr "nij titlanis ika %n tlaika"
-
-msgid "go to %m.spriteOrMouse"
-msgstr "niyas %m.spriteOrMouse"
 
 msgid "go to front"
 msgstr "nij titlanis ika tlaixpa"
@@ -499,6 +492,9 @@ msgstr ""
 #: commands-online.txt:7 commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr ""
+
+msgid "go to %m.location"
+msgstr "niyas %m.location"
 
 msgid "10 ^"
 msgstr ""
@@ -1975,6 +1971,16 @@ msgstr ""
 
 msgid "Remove Background"
 msgstr ""
+
+msgid "random position"
+msgstr ""
+
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "Nahuatl"
+
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "niyas %m.spriteOrMouse"
 
 #~ msgid "forever if %b"
 #~ msgstr "ika nochipa tla ax %b"

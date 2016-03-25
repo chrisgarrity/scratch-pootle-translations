@@ -330,8 +330,8 @@ msgstr "Degizman"
 msgid "Costumes > 1"
 msgstr "Degizman > 1"
 
-msgid "Costumes:"
-msgstr "Degizman:"
+#~ msgid "Costumes:"
+#~ msgstr "Degizman:"
 
 msgid "Could not retrieve new application from server."
 msgstr ""
@@ -1547,4 +1547,7 @@ msgid "Remove Background"
 msgstr ""
 
 msgid "when Stage clicked"
+msgstr ""
+
+msgid "random position"
 msgstr ""

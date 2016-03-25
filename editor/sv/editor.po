@@ -281,8 +281,8 @@ msgstr "Stäng"
 msgid "Closed Hi-Hat"
 msgstr "Stängd Hi-Hat"
 
-msgid "Cloud"
-msgstr "Moln"
+#~ msgid "Cloud"
+#~ msgstr "Moln"
 
 msgid "Cloud data"
 msgstr "Molndata"
@@ -349,8 +349,8 @@ msgstr "Klädslar > 1"
 
 # 75%
 # 88%
-msgid "Costumes:"
-msgstr "Klädslar:"
+#~ msgid "Costumes:"
+#~ msgstr "Klädslar:"
 
 msgid "Could not retrieve new application from server."
 msgstr "Det gick inte att hämta nytt tilläggsprogram från servern."
@@ -633,8 +633,8 @@ msgstr "ljus"
 #~ msgid "lights"
 #~ msgstr "ljus"
 
-msgid "limit reached"
-msgstr "gränsen är nådd"
+#~ msgid "limit reached"
+#~ msgstr "gränsen är nådd"
 
 msgid "Line"
 msgstr "Linje"
@@ -962,8 +962,8 @@ msgstr "ändra variabelnamn"
 #~ msgid "Replace existing project"
 #~ msgstr "Ersätt befintligt projekt"
 
-msgid "requires sign in"
-msgstr "kräver inloggning"
+#~ msgid "requires sign in"
+#~ msgstr "kräver inloggning"
 
 msgid "Reshape"
 msgstr "Omforma"
@@ -1048,8 +1048,8 @@ msgid "Scripts"
 msgstr "Skript"
 
 # 87%
-msgid "Scripts:"
-msgstr "Skript:"
+#~ msgid "Scripts:"
+#~ msgstr "Skript:"
 
 msgid "second"
 msgstr "sekund"
@@ -1103,11 +1103,11 @@ msgstr "Skift:"
 msgid "show"
 msgstr "visa"
 
-msgid "show receivers"
-msgstr "visa mottagare"
+#~ msgid "show receivers"
+#~ msgstr "visa mottagare"
 
-msgid "show senders"
-msgstr "visa avsändare"
+#~ msgid "show senders"
+#~ msgstr "visa avsändare"
 
 msgid "show:"
 msgstr "visa:"
@@ -1209,8 +1209,8 @@ msgstr "Scen vald:"
 msgid "Steel Drum"
 msgstr "Steel Drum"
 
-msgid "stored on server"
-msgstr "lagrad på servern"
+#~ msgid "stored on server"
+#~ msgstr "lagrad på servern"
 
 msgid "Synth Lead"
 msgstr "Synth Lead"
@@ -1454,23 +1454,23 @@ msgstr "Ditt Scratchnamn"
 msgid "Your Scratch name is required"
 msgstr "Ditt Scratchnamn krävs"
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Information om Molnvariabler</b><br>&nbsp;<br>För närvarande stöds enbart "
-"siffror<br>Chattrum är inte tillåtna, och kommer att tas bort<br>för mer "
-"information, <a href= target=>se Molndata - FAQ!</a>"
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Information om Molnvariabler</b><br>&nbsp;<br>För närvarande stöds enbart "
+#~ "siffror<br>Chattrum är inte tillåtna, och kommer att tas bort<br>för mer "
+#~ "information, <a href= target=>se Molndata - FAQ!</a>"
 
-msgid "Click  to try again or  to save"
-msgstr "Klicka  för att försöka igen eller  för att spara"
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Klicka  för att försöka igen eller  för att spara"
 
-msgid "Eraser width:"
-msgstr "Suddgummibredd:"
+#~ msgid "Eraser width:"
+#~ msgstr "Suddgummibredd:"
 
-msgid "Line width:"
-msgstr "Linjebredd:"
+#~ msgid "Line width:"
+#~ msgstr "Linjebredd:"
 
 # Offline editor only
 msgid "All Tips"
@@ -1744,4 +1744,7 @@ msgid "Remove Background"
 msgstr ""
 
 msgid "when Stage clicked"
+msgstr ""
+
+msgid "random position"
 msgstr ""

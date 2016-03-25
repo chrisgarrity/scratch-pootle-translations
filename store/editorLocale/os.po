@@ -13,10 +13,6 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1363808424.000000\n"
 
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Ирон"
-
 msgid "%b and %b"
 msgstr "%b ӕмӕ %b"
 
@@ -25,9 +21,6 @@ msgstr "%b кӕнӕ %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr ""
-
-msgid "%m.list contains %s"
-msgstr "%m.list-ы мидӕг ис %s"
 
 msgid "%m.mathOp of %n"
 msgstr ""
@@ -150,9 +143,6 @@ msgstr "%n секунд ардӕм бырын: x:%n y:%n"
 
 msgid "go back %n layers"
 msgstr "%n фӕлтӕр фӕстӕмӕ"
-
-msgid "go to %m.spriteOrMouse"
-msgstr "%m.spriteOrMouse-мӕ ацӕуын"
 
 msgid "go to front"
 msgstr "уӕллаг фӕлтӕрмӕ ацӕуын"
@@ -502,6 +492,9 @@ msgstr ""
 #, fuzzy
 msgid "%m.list contains %s?"
 msgstr "%m.list-ы мидӕг ис %s"
+
+msgid "go to %m.location"
+msgstr "%m.location-мӕ ацӕуын"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -1990,6 +1983,19 @@ msgstr ""
 
 msgid "any"
 msgstr ""
+
+msgid "random position"
+msgstr ""
+
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "Ирон"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list-ы мидӕг ис %s"
+
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "%m.spriteOrMouse-мӕ ацӕуын"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Булон бафтауын:"

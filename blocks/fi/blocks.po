@@ -567,4 +567,4 @@ msgid "%m.list contains %s?"
 msgstr "%m.list sisältää %s?"
 
 msgid "go to %m.location"
-msgstr ""
+msgstr "mene %m.location"

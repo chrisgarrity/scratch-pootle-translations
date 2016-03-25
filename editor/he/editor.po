@@ -274,8 +274,8 @@ msgstr "סגור"
 msgid "Closed Hi-Hat"
 msgstr "Hi-Hat סגור"
 
-msgid "Cloud"
-msgstr "ענן"
+#~ msgid "Cloud"
+#~ msgstr "ענן"
 
 msgid "Cloud data"
 msgstr "נתוני ענן"
@@ -339,8 +339,8 @@ msgstr "תלבושת"
 msgid "Costumes > 1"
 msgstr "תלבושות > 1"
 
-msgid "Costumes:"
-msgstr "תלבושות:"
+#~ msgid "Costumes:"
+#~ msgstr "תלבושות:"
 
 msgid "Could not retrieve new application from server."
 msgstr ""
@@ -627,8 +627,8 @@ msgstr "אור"
 msgid "lights"
 msgstr "אור"
 
-msgid "limit reached"
-msgstr "הגעה לקצה"
+#~ msgid "limit reached"
+#~ msgstr "הגעה לקצה"
 
 msgid "Line"
 msgstr "קו"
@@ -956,8 +956,8 @@ msgstr "שנה שם משתנה"
 msgid "Replace existing project"
 msgstr ""
 
-msgid "requires sign in"
-msgstr "חובה להתחבר"
+#~ msgid "requires sign in"
+#~ msgstr "חובה להתחבר"
 
 msgid "Reshape"
 msgstr "שנה צורה"
@@ -1042,8 +1042,8 @@ msgid "Scripts"
 msgstr "תסריטים"
 
 # 87%
-msgid "Scripts:"
-msgstr "תסריטים:"
+#~ msgid "Scripts:"
+#~ msgstr "תסריטים:"
 
 msgid "second"
 msgstr "שניה"
@@ -1096,11 +1096,11 @@ msgstr "אות גדולה:"
 msgid "show"
 msgstr "הצג"
 
-msgid "show receivers"
-msgstr "הצג קולטים"
+#~ msgid "show receivers"
+#~ msgstr "הצג קולטים"
 
-msgid "show senders"
-msgstr "הצג משדרים"
+#~ msgid "show senders"
+#~ msgstr "הצג משדרים"
 
 # 80%
 msgid "show:"
@@ -1201,8 +1201,8 @@ msgstr "נבחרה הבמה:"
 msgid "Steel Drum"
 msgstr "תוף האנג"
 
-msgid "stored on server"
-msgstr "נשמר על השרת"
+#~ msgid "stored on server"
+#~ msgstr "נשמר על השרת"
 
 msgid "Synth Lead"
 msgstr "סינתיסייזר"
@@ -1438,22 +1438,22 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"מידע בקשר למשתני ענן.כעת נתמכים רק משתנים. חדרי שיחות אינם מורשים ויימחקו. "
-"למידע נוסף, ראה: שאלות נפוצות."
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "מידע בקשר למשתני ענן.כעת נתמכים רק משתנים. חדרי שיחות אינם מורשים ויימחקו. "
+#~ "למידע נוסף, ראה: שאלות נפוצות."
 
-msgid "Click  to try again or  to save"
-msgstr "לחץ לנסות שנית או כדי לשמור"
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "לחץ לנסות שנית או כדי לשמור"
 
-msgid "Eraser width:"
-msgstr "רוחב מחק:"
+#~ msgid "Eraser width:"
+#~ msgstr "רוחב מחק:"
 
-msgid "Line width:"
-msgstr "רוחב קו:"
+#~ msgid "Line width:"
+#~ msgstr "רוחב קו:"
 
 # Offline editor only
 msgid "All Tips"
@@ -1658,4 +1658,7 @@ msgid "Remove Background"
 msgstr ""
 
 msgid "when Stage clicked"
+msgstr ""
+
+msgid "random position"
 msgstr ""

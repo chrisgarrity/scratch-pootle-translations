@@ -595,5 +595,6 @@ msgstr "y"
 msgid "%m.list contains %s?"
 msgstr "%m.list sisaldab %s?"
 
+# tegelikult hüppab sprait teise spraidi asukohta (arvestatakse keskkohti)
 msgid "go to %m.location"
-msgstr ""
+msgstr "mine %m.location"

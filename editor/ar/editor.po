@@ -284,8 +284,8 @@ msgstr "إغلاق"
 msgid "Closed Hi-Hat"
 msgstr "Closed Hi-Hat"
 
-msgid "Cloud"
-msgstr "السحابة"
+#~ msgid "Cloud"
+#~ msgstr "السحابة"
 
 msgid "Cloud data"
 msgstr "البيانات السحابية"
@@ -352,8 +352,8 @@ msgstr "المظاهر > ١"
 
 # 75%
 # 88%
-msgid "Costumes:"
-msgstr "المظاهر:"
+#~ msgid "Costumes:"
+#~ msgstr "المظاهر:"
 
 msgid "Could not retrieve new application from server."
 msgstr "لم يكن بالإمكان الحصول على التطبيق الجديد من المخدّم."
@@ -637,8 +637,8 @@ msgstr "الضوء"
 #~ msgid "lights"
 #~ msgstr "الضوء"
 
-msgid "limit reached"
-msgstr "وصلت الحد الأقصى"
+#~ msgid "limit reached"
+#~ msgstr "وصلت الحد الأقصى"
 
 msgid "Line"
 msgstr "خط مستقيم"
@@ -966,8 +966,8 @@ msgid "Replace existing project"
 msgstr ""
 
 # 75%
-msgid "requires sign in"
-msgstr "يتطلب تسجيل الدخول"
+#~ msgid "requires sign in"
+#~ msgstr "يتطلب تسجيل الدخول"
 
 msgid "Reshape"
 msgstr "إعادة تشكيل"
@@ -1054,8 +1054,8 @@ msgid "Scripts"
 msgstr "المقاطع البرمجية"
 
 # 87%
-msgid "Scripts:"
-msgstr "المقاطع البرمجية:"
+#~ msgid "Scripts:"
+#~ msgstr "المقاطع البرمجية:"
 
 msgid "second"
 msgstr "الثانية"
@@ -1111,11 +1111,11 @@ msgstr "مع مفتاح Shift:"
 msgid "show"
 msgstr "اظهر"
 
-msgid "show receivers"
-msgstr "أظهر المستقبلات"
+#~ msgid "show receivers"
+#~ msgstr "أظهر المستقبلات"
 
-msgid "show senders"
-msgstr "أظهر المرسلات"
+#~ msgid "show senders"
+#~ msgstr "أظهر المرسلات"
 
 # 80%
 msgid "show:"
@@ -1216,8 +1216,8 @@ msgstr "المنصة محددة:"
 msgid "Steel Drum"
 msgstr "طبل فولاذي"
 
-msgid "stored on server"
-msgstr "مخزَّن على المخدِّم"
+#~ msgid "stored on server"
+#~ msgstr "مخزَّن على المخدِّم"
 
 msgid "Synth Lead"
 msgstr "Synth Lead"
@@ -1460,23 +1460,23 @@ msgstr "اسمك على موقع سكراتش"
 msgid "Your Scratch name is required"
 msgstr "اسمك على موقع سكراتش مطلوب"
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>معلومات عن المتغيرات السحابية</b><br>&nbsp;<br>الأعداد فقط مدعومة "
-"حالياً.<br>غرف المحادثة غير مسموحة وسوف تزال<br>لمزيد من المعلومات <a href= "
-"target=>زر الأسئلة متكررة الطرح عن المتغيرات السحابية</a>"
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>معلومات عن المتغيرات السحابية</b><br>&nbsp;<br>الأعداد فقط مدعومة "
+#~ "حالياً.<br>غرف المحادثة غير مسموحة وسوف تزال<br>لمزيد من المعلومات <a href= "
+#~ "target=>زر الأسئلة متكررة الطرح عن المتغيرات السحابية</a>"
 
-msgid "Click  to try again or  to save"
-msgstr "انقر  للمحاولة ثانيةً أو  للحفظ"
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "انقر  للمحاولة ثانيةً أو  للحفظ"
 
-msgid "Eraser width:"
-msgstr "عرض الممحاة:"
+#~ msgid "Eraser width:"
+#~ msgstr "عرض الممحاة:"
 
-msgid "Line width:"
-msgstr "عرض الخط:"
+#~ msgid "Line width:"
+#~ msgstr "عرض الخط:"
 
 # Offline editor only
 msgid "All Tips"
@@ -1742,4 +1742,7 @@ msgid "Remove Background"
 msgstr ""
 
 msgid "when Stage clicked"
+msgstr ""
+
+msgid "random position"
 msgstr ""

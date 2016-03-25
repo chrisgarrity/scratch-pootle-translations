@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-12-30 05:05+0000\n"
+"PO-Revision-Date: 2016-03-08 10:33+0000\n"
 "Last-Translator: Rajeshwar <rrgujjari@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: te\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1451451918.000000\n"
+"X-POOTLE-MTIME: 1457433194.000000\n"
 
 msgid "10 ^"
 msgstr "10^"
@@ -168,13 +168,13 @@ msgid "brightness"
 msgstr ""
 
 msgid "Bring to front"
-msgstr ""
+msgstr "ముందుకు తెమ్ము"
 
 msgid "Broadcast"
-msgstr ""
+msgstr "ప్రసారంచేయు"
 
 msgid "Brush"
-msgstr ""
+msgstr "కుంచె"
 
 msgid "button pressed"
 msgstr ""
@@ -185,30 +185,29 @@ msgstr ""
 msgid "bytes loaded"
 msgstr ""
 
-#, fuzzy
 msgid "C connected"
-msgstr "అనుసంధానమైంది"
+msgstr "C అనుసంధానమైంది"
 
 msgid "Cabasa"
 msgstr ""
 
 msgid "Camera"
-msgstr ""
+msgstr "కేమెరా"
 
 msgid "can drag in player:"
 msgstr ""
 
 msgid "Cancel"
-msgstr ""
+msgstr "రద్దుచేయి"
 
 msgid "Cannot Add"
 msgstr ""
 
 msgid "Cannot Delete"
-msgstr ""
+msgstr "తొలగించలేము"
 
 msgid "Can’t find network connection or reach server."
-msgstr ""
+msgstr "నెట్ వర్క గుర్తించలేము లేక సర్వర్ అందుబాటులో లేదు"
 
 msgid "Castle"
 msgstr ""
@@ -1531,4 +1530,7 @@ msgid "any"
 msgstr ""
 
 msgid "when Stage clicked"
+msgstr ""
+
+msgid "random position"
 msgstr ""

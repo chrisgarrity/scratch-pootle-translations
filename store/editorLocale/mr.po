@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2016-02-17 18:00+0000\n"
+"PO-Revision-Date: 2016-03-14 22:25+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: mr\n"
@@ -12,11 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1455732011.000000\n"
-
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "मराठी"
+"X-POOTLE-MTIME: 1457994354.000000\n"
 
 msgid "%b and %b"
 msgstr "%b आणि %b"
@@ -26,9 +22,6 @@ msgstr "%b किंवा %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute %m चा/ची/चे"
-
-msgid "%m.list contains %s"
-msgstr "%m.list मध्ये %s आहे"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp %n चा/ची/चे"
@@ -152,9 +145,6 @@ msgstr "%n  सेकंदाकरीता x:%n y:%n कडे सरकव�
 
 msgid "go back %n layers"
 msgstr "%n थर मागे जा"
-
-msgid "go to %m.spriteOrMouse"
-msgstr "%m.spriteOrMouse कडे जा"
 
 msgid "go to front"
 msgstr "पुढे आणा"
@@ -521,6 +511,9 @@ msgstr ""
 #, fuzzy
 msgid "%m.list contains %s?"
 msgstr "%m.list मध्ये %s आहे"
+
+msgid "go to %m.location"
+msgstr "%m.location कडे जा"
 
 msgid "10 ^"
 msgstr ""
@@ -2012,6 +2005,19 @@ msgstr ""
 
 msgid "Remove Background"
 msgstr ""
+
+msgid "random position"
+msgstr ""
+
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "मराठी"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list मध्ये %s आहे"
+
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "%m.spriteOrMouse कडे जा"
 
 # 89%
 # 86%

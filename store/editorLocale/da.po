@@ -14,10 +14,6 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1429106219.000000\n"
 
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Dansk"
-
 msgid "%b and %b"
 msgstr "%b og %b"
 
@@ -26,9 +22,6 @@ msgstr "%b eller %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute af %m.spriteOrStage"
-
-msgid "%m.list contains %s"
-msgstr "%m.list indeholder %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp af %n"
@@ -151,9 +144,6 @@ msgstr "glid i %n sek. til x:%n y:%n"
 
 msgid "go back %n layers"
 msgstr "gå %n lag tilbage"
-
-msgid "go to %m.spriteOrMouse"
-msgstr "gå til %m.spriteOrMouse"
 
 msgid "go to front"
 msgstr "kom ind foran"
@@ -476,6 +466,9 @@ msgstr "når jeg modtager %m.broadcast"
 msgid "when I start as a clone"
 msgstr "når jeg starter som klon"
 
+msgid "when Stage clicked"
+msgstr "når Scene er valgt"
+
 msgid "when this sprite clicked"
 msgstr "når denne sprite klikkes"
 
@@ -488,36 +481,12 @@ msgstr "x-position"
 msgid "y position"
 msgstr "y-position"
 
-# 89%
-# 100%
-msgid "set motor direction %m.motorDirection"
-msgstr "sæt motorretning til %m.motorDirection"
-
-# 77%
-# 100%
-msgid "set motor power %n"
-msgstr "sæt motorkraft til %n"
-
-msgid "turn motor off"
-msgstr "sluk motoren"
-
-msgid "turn motor on"
-msgstr "start motoren"
-
-# 80%
-# 100%
-msgid "turn motor on for %n secs"
-msgstr "kør motoren i %n sekunder"
-
-msgid "when distance < %n"
-msgstr "når afstanden < %n"
-
-msgid "when tilt = %n"
-msgstr "når hældningen = %n"
-
 #: commands-online.txt:7 commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list indeholder %s?"
+
+msgid "go to %m.location"
+msgstr "gå til %m.location"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -759,9 +728,6 @@ msgstr "Luk"
 msgid "Closed Hi-Hat"
 msgstr "Lukket high-hat"
 
-msgid "Cloud"
-msgstr "Sky"
-
 msgid "Cloud data"
 msgstr "Skydata"
 
@@ -816,9 +782,6 @@ msgstr "Kostumer"
 
 msgid "Costumes > 1"
 msgstr "Kostumer > 1"
-
-msgid "Costumes:"
-msgstr "Kostumer:"
 
 msgid "Could not retrieve new application from server."
 msgstr "Ikke muligt at hente den nye applikation fra serveren."
@@ -1059,9 +1022,6 @@ msgstr "Bibliotek"
 
 msgid "light"
 msgstr "lys"
-
-msgid "limit reached"
-msgstr "grænsen er nået"
 
 msgid "Line"
 msgstr "Linje"
@@ -1360,9 +1320,6 @@ msgstr "Omdøb"
 msgid "rename variable"
 msgstr "omdøb variabel"
 
-msgid "requires sign in"
-msgstr "kræver log-in"
-
 msgid "Reshape"
 msgstr "Omform"
 
@@ -1441,9 +1398,6 @@ msgstr "Script"
 msgid "Scripts"
 msgstr "Scripts"
 
-msgid "Scripts:"
-msgstr "Scripts:"
-
 msgid "second"
 msgstr "sekund"
 
@@ -1482,12 +1436,6 @@ msgstr "delt"
 
 msgid "Shift:"
 msgstr "Skift:"
-
-msgid "show receivers"
-msgstr "vis modtagere"
-
-msgid "show senders"
-msgstr "vis afsendere"
 
 msgid "show:"
 msgstr "vis:"
@@ -1579,9 +1527,6 @@ msgstr "Scene valgt:"
 
 msgid "Steel Drum"
 msgstr "Ståltromme"
-
-msgid "stored on server"
-msgstr "gemt på serveren"
 
 msgid "Synth Lead"
 msgstr "Synth Lead"
@@ -1791,24 +1736,6 @@ msgstr "Dit Scratch navn"
 msgid "Your Scratch name is required"
 msgstr "Dit Scratch navn er påkrævet"
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Information om skyvariabler</b><br>&nbsp;<br>Aktuelt, kun tal er "
-"understøttet<br>Chatsteder er ikke tilladt og de bliver fjernet<br>For mere "
-"information, <a href= target=>se skydata FAQ!</a>"
-
-msgid "Click  to try again or  to save"
-msgstr "Klik  for at prøve igen eller  for at gemme"
-
-msgid "Eraser width:"
-msgstr "Viskelæderets bredde:"
-
-msgid "Line width:"
-msgstr "Linjebredde:"
-
 # Offline editor only
 msgid "All Tips"
 msgstr "Alle Tips"
@@ -1922,8 +1849,45 @@ msgstr "Optag video af projekt"
 msgid "Remove Background"
 msgstr "Slet baggrund"
 
-#~ msgid "when Stage clicked"
-#~ msgstr "når Scene er valgt"
+msgid "random position"
+msgstr ""
+
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "Dansk"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list indeholder %s"
+
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "gå til %m.spriteOrMouse"
+
+# 89%
+# 100%
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "sæt motorretning til %m.motorDirection"
+
+# 77%
+# 100%
+#~ msgid "set motor power %n"
+#~ msgstr "sæt motorkraft til %n"
+
+#~ msgid "turn motor off"
+#~ msgstr "sluk motoren"
+
+#~ msgid "turn motor on"
+#~ msgstr "start motoren"
+
+# 80%
+# 100%
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "kør motoren i %n sekunder"
+
+#~ msgid "when distance < %n"
+#~ msgstr "når afstanden < %n"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "når hældningen = %n"
 
 # 89%
 # 100%
@@ -1974,8 +1938,14 @@ msgstr "Slet baggrund"
 #~ msgid "Cannot Add"
 #~ msgstr "Kan ikke tilføje"
 
+#~ msgid "Cloud"
+#~ msgstr "Sky"
+
 #~ msgid "Cloud variable (stored on server)"
 #~ msgstr "Sky variabler (gemt på server)"
+
+#~ msgid "Costumes:"
+#~ msgstr "Kostumer:"
 
 #~ msgid "Downloading new version"
 #~ msgstr "Hent ny version"
@@ -2011,6 +1981,9 @@ msgstr "Slet baggrund"
 #~ msgid "lights"
 #~ msgstr "lys"
 
+#~ msgid "limit reached"
+#~ msgstr "grænsen er nået"
+
 #~ msgid "motor"
 #~ msgstr "motor"
 
@@ -2029,8 +2002,14 @@ msgstr "Slet baggrund"
 #~ msgid "Replace existing project"
 #~ msgstr "Erstat eksisterende projekt"
 
+#~ msgid "requires sign in"
+#~ msgstr "kræver log-in"
+
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "Scratch 2.0 Offline Editor"
+
+#~ msgid "Scripts:"
+#~ msgstr "Scripts:"
 
 #~ msgid ""
 #~ "See the Tips window (on the right) to install the plug-in and get the "
@@ -2041,6 +2020,15 @@ msgstr "Slet baggrund"
 
 #~ msgid "Share to Scratch website"
 #~ msgstr "Del til Scratch hjemmeside"
+
+#~ msgid "show receivers"
+#~ msgstr "vis modtagere"
+
+#~ msgid "show senders"
+#~ msgstr "vis afsendere"
+
+#~ msgid "stored on server"
+#~ msgstr "gemt på serveren"
 
 #~ msgid "The name is already in use."
 #~ msgstr "Navnet er allerede i brug."
@@ -2063,6 +2051,24 @@ msgstr "Slet baggrund"
 
 #~ msgid "world"
 #~ msgstr "Verden"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Information om skyvariabler</b><br>&nbsp;<br>Aktuelt, kun tal er "
+#~ "understøttet<br>Chatsteder er ikke tilladt og de bliver fjernet<br>For "
+#~ "mere information, <a href= target=>se skydata FAQ!</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Klik  for at prøve igen eller  for at gemme"
+
+#~ msgid "Eraser width:"
+#~ msgstr "Viskelæderets bredde:"
+
+#~ msgid "Line width:"
+#~ msgstr "Linjebredde:"
 
 #~ msgid "cleanup"
 #~ msgstr "ryd op"

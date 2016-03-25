@@ -14,10 +14,6 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1429106255.000000\n"
 
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Nederlands"
-
 msgid "%b and %b"
 msgstr "%b en %b"
 
@@ -26,9 +22,6 @@ msgstr "%b of %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute van %m.spriteOrStage"
-
-msgid "%m.list contains %s"
-msgstr "%m.list bevat %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp van %n"
@@ -151,9 +144,6 @@ msgstr "schuif in %n sec. naar x:%n y:%n"
 
 msgid "go back %n layers"
 msgstr "ga %n lagen naar achteren"
-
-msgid "go to %m.spriteOrMouse"
-msgstr "ga naar %m.spriteOrMouse"
 
 msgid "go to front"
 msgstr "ga naar voorgrond"
@@ -467,6 +457,9 @@ msgstr "wanneer ik signaal %m.broadcast ontvang"
 msgid "when I start as a clone"
 msgstr "wanneer ik als kloon start"
 
+msgid "when Stage clicked"
+msgstr "wanneer op het speelveld wordt geklikt"
+
 msgid "when this sprite clicked"
 msgstr "wanneer op deze sprite wordt geklikt"
 
@@ -479,33 +472,12 @@ msgstr "x-positie"
 msgid "y position"
 msgstr "y-positie"
 
-# 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "zet motorrichting op %m.motorDirection"
-
-# 77%
-msgid "set motor power %n"
-msgstr "zet motorvermogen op %n"
-
-msgid "turn motor off"
-msgstr "zet motor uit"
-
-msgid "turn motor on"
-msgstr "zet motor aan"
-
-# 80%
-msgid "turn motor on for %n secs"
-msgstr "zet motor %n sec. aan"
-
-msgid "when distance < %n"
-msgstr "wanneer afstand < %n"
-
-msgid "when tilt = %n"
-msgstr "wanneer gekanteld = %n"
-
 #: commands-online.txt:7 commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list bevat %s?"
+
+msgid "go to %m.location"
+msgstr "ga naar %m.location"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -736,7 +708,6 @@ msgstr "Klarinet"
 msgid "Claves"
 msgstr "Claves"
 
-#, fuzzy
 msgid "clean up"
 msgstr "opruimen"
 
@@ -755,9 +726,6 @@ msgstr "Sluiten"
 
 msgid "Closed Hi-Hat"
 msgstr "Gesloten hi-hat"
-
-msgid "Cloud"
-msgstr "Cloud"
 
 msgid "Cloud data"
 msgstr "Cloud-data"
@@ -817,9 +785,6 @@ msgstr "Uiterlijken"
 
 msgid "Costumes > 1"
 msgstr "Uiterlijken > 1"
-
-msgid "Costumes:"
-msgstr "Uiterlijken:"
 
 msgid "Could not retrieve new application from server."
 msgstr "Kan nieuwe applicatie niet ophalen van server."
@@ -1082,9 +1047,6 @@ msgstr "Bibliotheek"
 
 msgid "light"
 msgstr "licht"
-
-msgid "limit reached"
-msgstr "limiet bereikt"
 
 msgid "Line"
 msgstr "Lijn"
@@ -1385,9 +1347,6 @@ msgstr "geef variabele andere naam"
 msgid "Replace existing project"
 msgstr ""
 
-msgid "requires sign in"
-msgstr "moet hiervoor ingelogd zijn"
-
 msgid "Reshape"
 msgstr "Opnieuw vormen"
 
@@ -1469,10 +1428,6 @@ msgstr "Script"
 msgid "Scripts"
 msgstr "Scripts"
 
-# 87%
-msgid "Scripts:"
-msgstr "Scripts:"
-
 msgid "second"
 msgstr "seconde"
 
@@ -1514,12 +1469,6 @@ msgstr "gedeeld"
 
 msgid "Shift:"
 msgstr "+ shift:"
-
-msgid "show receivers"
-msgstr "ontvangers weergeven"
-
-msgid "show senders"
-msgstr "zenders weergeven"
 
 msgid "show:"
 msgstr "toon:"
@@ -1608,9 +1557,6 @@ msgstr "Geselecteerd speelveld:"
 
 msgid "Steel Drum"
 msgstr "Steeldrum"
-
-msgid "stored on server"
-msgstr "opgeslagen op server"
 
 msgid "Synth Lead"
 msgstr "Synth Lead"
@@ -1839,24 +1785,6 @@ msgstr "Jouw Scratchnaam"
 msgid "Your Scratch name is required"
 msgstr "Jouw Scratchnaam is vereist"
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Informatie over cloud-variabelen</b><br>&nbsp;<br>Op dit moment worden "
-"alleen nummers ondersteund.<br>Chatruimtes zijn niet toegestaan en worden "
-"verwijderd.<br>Voor meer info, <a href= target=>zie cloud-data FAQ!</a>"
-
-msgid "Click  to try again or  to save"
-msgstr "Klik  om opnieuw te proberen of  bewaar"
-
-msgid "Eraser width:"
-msgstr "Gum-breedte:"
-
-msgid "Line width:"
-msgstr "Lijn-breedte:"
-
 # Offline editor only
 msgid "All Tips"
 msgstr "Alle tips"
@@ -1964,13 +1892,47 @@ msgid "any"
 msgstr "willekeurig"
 
 msgid "Record Project Video"
-msgstr ""
+msgstr "Maak projectvideo"
 
 msgid "Remove Background"
-msgstr ""
+msgstr "Verwijder achtergrond"
 
-#~ msgid "when Stage clicked"
-#~ msgstr "wanneer op het speelveld wordt geklikt"
+msgid "random position"
+msgstr "willekeurige positie"
+
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "Nederlands"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list bevat %s"
+
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "ga naar %m.spriteOrMouse"
+
+# 89%
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "zet motorrichting op %m.motorDirection"
+
+# 77%
+#~ msgid "set motor power %n"
+#~ msgstr "zet motorvermogen op %n"
+
+#~ msgid "turn motor off"
+#~ msgstr "zet motor uit"
+
+#~ msgid "turn motor on"
+#~ msgstr "zet motor aan"
+
+# 80%
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "zet motor %n sec. aan"
+
+#~ msgid "when distance < %n"
+#~ msgstr "wanneer afstand < %n"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "wanneer gekanteld = %n"
 
 # 89%
 # 86%
@@ -2034,6 +1996,12 @@ msgstr ""
 #~ msgid "all motors"
 #~ msgstr "alle motors"
 
+#~ msgid "Cloud"
+#~ msgstr "Cloud"
+
+#~ msgid "Costumes:"
+#~ msgstr "Uiterlijken:"
+
 #~ msgid "everything"
 #~ msgstr "alles"
 
@@ -2046,6 +2014,9 @@ msgstr ""
 # 83%
 #~ msgid "lights"
 #~ msgstr "lichten"
+
+#~ msgid "limit reached"
+#~ msgstr "limiet bereikt"
 
 #~ msgid "motor"
 #~ msgstr "motor"
@@ -2062,12 +2033,46 @@ msgstr ""
 #~ msgid "Remove extension blocks"
 #~ msgstr "Verwijder uitbreidingsblokken"
 
+#~ msgid "requires sign in"
+#~ msgstr "moet hiervoor ingelogd zijn"
+
+# 87%
+#~ msgid "Scripts:"
+#~ msgstr "Scripts:"
+
 #~ msgid ""
 #~ "See the Tips window (on the right) to install the plug-in and get the "
 #~ "extension working."
 #~ msgstr ""
 #~ "Bekijk het Tips-scherm (rechts) om de plug-in te installeren en om de "
 #~ "uitbreiding te starten."
+
+#~ msgid "show receivers"
+#~ msgstr "ontvangers weergeven"
+
+#~ msgid "show senders"
+#~ msgstr "zenders weergeven"
+
+#~ msgid "stored on server"
+#~ msgstr "opgeslagen op server"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Informatie over cloud-variabelen</b><br>&nbsp;<br>Op dit moment worden "
+#~ "alleen nummers ondersteund.<br>Chatruimtes zijn niet toegestaan en worden "
+#~ "verwijderd.<br>Voor meer info, <a href= target=>zie cloud-data FAQ!</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Klik  om opnieuw te proberen of  bewaar"
+
+#~ msgid "Eraser width:"
+#~ msgstr "Gum-breedte:"
+
+#~ msgid "Line width:"
+#~ msgstr "Lijn-breedte:"
 
 #~ msgid "cleanup"
 #~ msgstr "opruimen"

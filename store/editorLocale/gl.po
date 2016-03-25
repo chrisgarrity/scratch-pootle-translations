@@ -14,10 +14,6 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1429110396.000000\n"
 
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Galego"
-
 msgid "%b and %b"
 msgstr "%b e %b"
 
@@ -26,9 +22,6 @@ msgstr "%b ou %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute de %m.spriteOrStage"
-
-msgid "%m.list contains %s"
-msgstr "%m.list contén %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp de %n"
@@ -151,9 +144,6 @@ msgstr "esbarar %n seg cara a x:%n y:%n"
 
 msgid "go back %n layers"
 msgstr "enviar atrás %n capas"
-
-msgid "go to %m.spriteOrMouse"
-msgstr "ir a %m.spriteOrMouse"
 
 msgid "go to front"
 msgstr "enviar á fronte"
@@ -467,6 +457,9 @@ msgstr "ao recibir %m.broadcast"
 msgid "when I start as a clone"
 msgstr "cando comence como clon"
 
+msgid "when Stage clicked"
+msgstr "ao premer no Escenario"
+
 msgid "when this sprite clicked"
 msgstr "ao premer nesta figura"
 
@@ -479,30 +472,12 @@ msgstr "posición x"
 msgid "y position"
 msgstr "posición y"
 
-msgid "set motor direction %m.motorDirection"
-msgstr "fixar dirección do motor %m.motorDirection"
-
-msgid "set motor power %n"
-msgstr "fixar potencia do motor a %n"
-
-msgid "turn motor off"
-msgstr "apagar motor"
-
-msgid "turn motor on"
-msgstr "acender motor"
-
-msgid "turn motor on for %n secs"
-msgstr "acender motor durante %n segundos"
-
-msgid "when distance < %n"
-msgstr "cando a distancia sexa < %n"
-
-msgid "when tilt = %n"
-msgstr "cando a pendente = %n"
-
 #: commands-online.txt:7 commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list contén %s?"
+
+msgid "go to %m.location"
+msgstr "ir a %m.location"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -743,9 +718,6 @@ msgstr "Pechar"
 msgid "Closed Hi-Hat"
 msgstr "Charles pechado"
 
-msgid "Cloud"
-msgstr "Nube"
-
 msgid "Cloud data"
 msgstr "Datos na nube"
 
@@ -799,9 +771,6 @@ msgstr "Vestimentas"
 
 msgid "Costumes > 1"
 msgstr "Vestimentas > 1"
-
-msgid "Costumes:"
-msgstr "Vestimentas:"
 
 msgid "Could not retrieve new application from server."
 msgstr "Non se pode descargar a nova aplicación dende o servidor."
@@ -1040,9 +1009,6 @@ msgstr "Biblioteca"
 # 80%
 msgid "light"
 msgstr "luz"
-
-msgid "limit reached"
-msgstr "límite acadado"
 
 msgid "Line"
 msgstr "Liña"
@@ -1338,9 +1304,6 @@ msgstr "Renomear"
 msgid "rename variable"
 msgstr "renomear variable"
 
-msgid "requires sign in"
-msgstr "require entrar"
-
 msgid "Reshape"
 msgstr "Reformar"
 
@@ -1419,9 +1382,6 @@ msgstr "Programa"
 msgid "Scripts"
 msgstr "Programas"
 
-msgid "Scripts:"
-msgstr "Programas:"
-
 msgid "second"
 msgstr "segundo"
 
@@ -1460,12 +1420,6 @@ msgstr "compartido"
 
 msgid "Shift:"
 msgstr "Alternar:"
-
-msgid "show receivers"
-msgstr "amosar receptores"
-
-msgid "show senders"
-msgstr "amosar emisores"
 
 msgid "show:"
 msgstr "amosar:"
@@ -1553,9 +1507,6 @@ msgstr "Escenario seleccionado:"
 
 msgid "Steel Drum"
 msgstr "Tambor metálico"
-
-msgid "stored on server"
-msgstr "gardado no servidor"
 
 msgid "Synth Lead"
 msgstr "Sintetizador melódico"
@@ -1764,25 +1715,6 @@ msgstr "O teu nome Scratch"
 msgid "Your Scratch name is required"
 msgstr "Fai falla o teu nome Scratch"
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Información sobre variables da nube</b><br>&nbsp;<br>Agora, só se poden "
-"utilizar números<br>Non se permiten as salas de chat e serán "
-"eliminadas<br>Para máis información, <a href=\"/help/faq/#clouddata\" target="
-"\"_blank\">revisa as preguntas sobre información da nube!</a>"
-
-msgid "Click  to try again or  to save"
-msgstr "Preme  para intentar de novo ou en  para gardar"
-
-msgid "Eraser width:"
-msgstr "Groso da goma:"
-
-msgid "Line width:"
-msgstr "Groso da liña:"
-
 # Offline editor only
 msgid "All Tips"
 msgstr ""
@@ -1900,8 +1832,39 @@ msgstr ""
 msgid "any"
 msgstr ""
 
-#~ msgid "when Stage clicked"
-#~ msgstr "ao premer no Escenario"
+msgid "random position"
+msgstr ""
+
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "Galego"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list contén %s"
+
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "ir a %m.spriteOrMouse"
+
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "fixar dirección do motor %m.motorDirection"
+
+#~ msgid "set motor power %n"
+#~ msgstr "fixar potencia do motor a %n"
+
+#~ msgid "turn motor off"
+#~ msgstr "apagar motor"
+
+#~ msgid "turn motor on"
+#~ msgstr "acender motor"
+
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "acender motor durante %n segundos"
+
+#~ msgid "when distance < %n"
+#~ msgstr "cando a distancia sexa < %n"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "cando a pendente = %n"
 
 # 86%
 #~ msgid "set %m.motor direction to %m.motorDirection"
@@ -1931,8 +1894,14 @@ msgstr ""
 #~ msgid "Cannot Add"
 #~ msgstr "Non se pode Engadir"
 
+#~ msgid "Cloud"
+#~ msgstr "Nube"
+
 #~ msgid "Cloud variable (stored on server)"
 #~ msgstr "Variable na nube (gardada no servidor)"
+
+#~ msgid "Costumes:"
+#~ msgstr "Vestimentas:"
 
 #~ msgid "Downloading new version"
 #~ msgstr "Descargando a nova versión"
@@ -1969,6 +1938,9 @@ msgstr ""
 #~ msgid "lights"
 #~ msgstr "luces"
 
+#~ msgid "limit reached"
+#~ msgstr "límite acadado"
+
 #~ msgid "motor"
 #~ msgstr "motor"
 
@@ -1987,8 +1959,14 @@ msgstr ""
 #~ msgid "Replace existing project"
 #~ msgstr "Reemplazar o proxecto existente"
 
+#~ msgid "requires sign in"
+#~ msgstr "require entrar"
+
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "Editor Local Scratch 2.0"
+
+#~ msgid "Scripts:"
+#~ msgstr "Programas:"
 
 #~ msgid ""
 #~ "See the Tips window (on the right) to install the plug-in and get the "
@@ -1999,6 +1977,15 @@ msgstr ""
 
 #~ msgid "Share to Scratch website"
 #~ msgstr "Compartir no sitio web Scratch"
+
+#~ msgid "show receivers"
+#~ msgstr "amosar receptores"
+
+#~ msgid "show senders"
+#~ msgstr "amosar emisores"
+
+#~ msgid "stored on server"
+#~ msgstr "gardado no servidor"
 
 #~ msgid "The name is already in use."
 #~ msgstr "O nome xa está sendo utilizado."
@@ -2021,6 +2008,25 @@ msgstr ""
 
 #~ msgid "world"
 #~ msgstr "mundo"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Información sobre variables da nube</b><br>&nbsp;<br>Agora, só se "
+#~ "poden utilizar números<br>Non se permiten as salas de chat e serán "
+#~ "eliminadas<br>Para máis información, <a href=\"/help/faq/#clouddata\" "
+#~ "target=\"_blank\">revisa as preguntas sobre información da nube!</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Preme  para intentar de novo ou en  para gardar"
+
+#~ msgid "Eraser width:"
+#~ msgstr "Groso da goma:"
+
+#~ msgid "Line width:"
+#~ msgstr "Groso da liña:"
 
 #~ msgid "cleanup"
 #~ msgstr "limpar"

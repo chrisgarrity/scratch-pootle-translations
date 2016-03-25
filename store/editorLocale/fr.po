@@ -14,10 +14,6 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1450665183.000000\n"
 
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Français"
-
 msgid "%b and %b"
 msgstr "%b et %b"
 
@@ -26,9 +22,6 @@ msgstr "%b ou %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute de %m.spriteOrStage"
-
-msgid "%m.list contains %s"
-msgstr "%m.list contient %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp de %n"
@@ -151,9 +144,6 @@ msgstr "glisser en %n secondes à x:%n y:%n"
 
 msgid "go back %n layers"
 msgstr "déplacer de %n plans arrière"
-
-msgid "go to %m.spriteOrMouse"
-msgstr "aller à %m.spriteOrMouse"
 
 msgid "go to front"
 msgstr "envoyer au premier plan"
@@ -470,6 +460,9 @@ msgstr "quand je reçois %m.broadcast"
 msgid "when I start as a clone"
 msgstr "quand je commence comme un clone"
 
+msgid "when Stage clicked"
+msgstr "quand la Scène est cliquée"
+
 msgid "when this sprite clicked"
 msgstr "quand ce lutin est cliqué"
 
@@ -482,33 +475,12 @@ msgstr "abscisse x"
 msgid "y position"
 msgstr "ordonnée y"
 
-# 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "choisir la direction du moteur %m.motorDirection"
-
-# 77%
-msgid "set motor power %n"
-msgstr "mettre la puissance du moteur à %n"
-
-msgid "turn motor off"
-msgstr "arrêter le moteur"
-
-msgid "turn motor on"
-msgstr "démarrer le moteur"
-
-# 80%
-msgid "turn motor on for %n secs"
-msgstr "allumer le moteur pour %n secs"
-
-msgid "when distance < %n"
-msgstr "quand la distance < %n"
-
-msgid "when tilt = %n"
-msgstr "quand l'inclinaison = %n"
-
 #: commands-online.txt:7 commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list contient %s?"
+
+msgid "go to %m.location"
+msgstr "aller à %m.location"
 
 msgid "10 ^"
 msgstr "10^"
@@ -755,9 +727,6 @@ msgstr "Fermer"
 msgid "Closed Hi-Hat"
 msgstr "Charleston fermé"
 
-msgid "Cloud"
-msgstr "Cloud"
-
 msgid "Cloud data"
 msgstr "Données du Cloud"
 
@@ -814,11 +783,6 @@ msgstr "Costumes"
 
 msgid "Costumes > 1"
 msgstr "Costumes > 1"
-
-# 75%
-# 88%
-msgid "Costumes:"
-msgstr "Costumes:"
 
 msgid "Could not retrieve new application from server."
 msgstr "Echec de la récupération de la nouvelle application depuis le serveur"
@@ -1062,9 +1026,6 @@ msgstr "Bibliothèque"
 
 msgid "light"
 msgstr "lumière"
-
-msgid "limit reached"
-msgstr "limite atteinte"
 
 msgid "Line"
 msgstr "Ligne"
@@ -1368,9 +1329,6 @@ msgstr "Renommer"
 msgid "rename variable"
 msgstr "renommer la variable"
 
-msgid "requires sign in"
-msgstr "exige de s'inscrire"
-
 msgid "Reshape"
 msgstr "Redessiner"
 
@@ -1450,10 +1408,6 @@ msgstr "Script"
 msgid "Scripts"
 msgstr "Scripts"
 
-# 87%
-msgid "Scripts:"
-msgstr "Scripts:"
-
 msgid "second"
 msgstr "seconde"
 
@@ -1493,12 +1447,6 @@ msgstr "partagé"
 
 msgid "Shift:"
 msgstr "Majuscule:"
-
-msgid "show receivers"
-msgstr "montrer récepteurs"
-
-msgid "show senders"
-msgstr "montrer émetteurs"
 
 msgid "show:"
 msgstr "montrer:"
@@ -1592,9 +1540,6 @@ msgstr "Scène sélectionnée:"
 
 msgid "Steel Drum"
 msgstr "Tambour d'acier"
-
-msgid "stored on server"
-msgstr "stockées sur le serveur"
 
 msgid "Synth Lead"
 msgstr "Lead synthétisé"
@@ -1805,25 +1750,6 @@ msgstr "Votre nom dans Scratch"
 msgid "Your Scratch name is required"
 msgstr "Votre nom dans Scratch est requis "
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Information sur les variables du Cloud</b><br>&nbsp;<br>Actuellement, "
-"seuls les numéros sont pris en charge<br>Les salles de Chat ne sont pas "
-"autorisées et seront supprimées<br>Pour plus d'informations, <a href= "
-"target=>voir les FAQ sur les données du Cloud!</a>"
-
-msgid "Click  to try again or  to save"
-msgstr "Cliquer   pour essayer à nouveau ou   pour sauvegarder"
-
-msgid "Eraser width:"
-msgstr "Effacer avec:"
-
-msgid "Line width:"
-msgstr "Largeur de la ligne:"
-
 # Offline editor only
 msgid "All Tips"
 msgstr "Toutes les astuces"
@@ -1933,13 +1859,47 @@ msgid "any"
 msgstr "n'importe quel"
 
 msgid "Record Project Video"
-msgstr ""
+msgstr "Enregistrer le projet vidéo"
 
 msgid "Remove Background"
-msgstr ""
+msgstr "Retirer l'arrière-plan"
 
-#~ msgid "when Stage clicked"
-#~ msgstr "quand la Scène est cliquée"
+msgid "random position"
+msgstr "Position aléatoire"
+
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "Français"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list contient %s"
+
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "aller à %m.spriteOrMouse"
+
+# 89%
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "choisir la direction du moteur %m.motorDirection"
+
+# 77%
+#~ msgid "set motor power %n"
+#~ msgstr "mettre la puissance du moteur à %n"
+
+#~ msgid "turn motor off"
+#~ msgstr "arrêter le moteur"
+
+#~ msgid "turn motor on"
+#~ msgstr "démarrer le moteur"
+
+# 80%
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "allumer le moteur pour %n secs"
+
+#~ msgid "when distance < %n"
+#~ msgstr "quand la distance < %n"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "quand l'inclinaison = %n"
 
 # 89%
 # 86%
@@ -2006,8 +1966,16 @@ msgstr ""
 #~ msgid "Cannot Add"
 #~ msgstr "Ajout impossible"
 
+#~ msgid "Cloud"
+#~ msgstr "Cloud"
+
 #~ msgid "Cloud variable (stored on server)"
 #~ msgstr "Variable serveur (stockée sur le Cloud)"
+
+# 75%
+# 88%
+#~ msgid "Costumes:"
+#~ msgstr "Costumes:"
 
 #~ msgid "Downloading new version"
 #~ msgstr "En cours de téléchargement d'une nouvelle version"
@@ -2043,6 +2011,9 @@ msgstr ""
 #~ msgid "lights"
 #~ msgstr "lumières"
 
+#~ msgid "limit reached"
+#~ msgstr "limite atteinte"
+
 #~ msgid "motor"
 #~ msgstr "moteur"
 
@@ -2061,8 +2032,15 @@ msgstr ""
 #~ msgid "Replace existing project"
 #~ msgstr "Remplacer un projet existant"
 
+#~ msgid "requires sign in"
+#~ msgstr "exige de s'inscrire"
+
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "Editeur hors ligne de Scratch"
+
+# 87%
+#~ msgid "Scripts:"
+#~ msgstr "Scripts:"
 
 #~ msgid ""
 #~ "See the Tips window (on the right) to install the plug-in and get the "
@@ -2073,6 +2051,15 @@ msgstr ""
 
 #~ msgid "Share to Scratch website"
 #~ msgstr "Partager avec le site web de Scratch"
+
+#~ msgid "show receivers"
+#~ msgstr "montrer récepteurs"
+
+#~ msgid "show senders"
+#~ msgstr "montrer émetteurs"
+
+#~ msgid "stored on server"
+#~ msgstr "stockées sur le serveur"
 
 #~ msgid "The name is already in use."
 #~ msgstr "Ce nom est déjà utilisé"
@@ -2095,6 +2082,25 @@ msgstr ""
 
 #~ msgid "world"
 #~ msgstr "monde"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Information sur les variables du Cloud</b><br>&nbsp;<br>Actuellement, "
+#~ "seuls les numéros sont pris en charge<br>Les salles de Chat ne sont pas "
+#~ "autorisées et seront supprimées<br>Pour plus d'informations, <a href= "
+#~ "target=>voir les FAQ sur les données du Cloud!</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Cliquer   pour essayer à nouveau ou   pour sauvegarder"
+
+#~ msgid "Eraser width:"
+#~ msgstr "Effacer avec:"
+
+#~ msgid "Line width:"
+#~ msgstr "Largeur de la ligne:"
 
 #~ msgid "cleanup"
 #~ msgstr "nettoyer"

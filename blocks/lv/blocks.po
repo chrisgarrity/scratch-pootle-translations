@@ -531,4 +531,4 @@ msgid "%m.list contains %s?"
 msgstr "%m.list satur %s?"
 
 msgid "go to %m.location"
-msgstr ""
+msgstr "iet uz %m.location"

@@ -193,10 +193,6 @@ msgstr "leć przez %n s do x:%n y:%n"
 msgid "go back %n layers"
 msgstr "wróć o %n warstw"
 
-#: commands-online.txt:89 commands-offline.txt:89
-msgid "go to %m.spriteOrMouse"
-msgstr "idź do %m.spriteOrMouse"
-
 #: commands-online.txt:91 commands-offline.txt:91
 msgid "go to front"
 msgstr "na wierzch"
@@ -636,6 +632,12 @@ msgstr "współrzędna y"
 msgid "%m.list contains %s"
 msgstr "%m.list zawiera %s?"
 
+msgid "go to %m.location"
+msgstr "idź do %m.location"
+
+msgid "when Stage clicked"
+msgstr ""
+
 msgid "10 ^"
 msgstr "10 do potęgi"
 
@@ -895,9 +897,6 @@ msgstr "Zamknij"
 msgid "Closed Hi-Hat"
 msgstr "Hi-Hat zamknięty (perkusja)"
 
-msgid "Cloud"
-msgstr "Chmura"
-
 msgid "Cloud data"
 msgstr "Dane w Chmurze"
 
@@ -957,9 +956,6 @@ msgstr "Kostiumy"
 
 msgid "Costumes > 1"
 msgstr "Kostiumów > 1"
-
-msgid "Costumes:"
-msgstr "Kostiumy:"
 
 msgid "Could not retrieve new application from server."
 msgstr "Nie udało się pobrać nowej aplikacji z serwera."
@@ -1223,9 +1219,6 @@ msgstr "Biblioteka"
 
 msgid "light"
 msgstr "światło"
-
-msgid "limit reached"
-msgstr "limit osiągnięty"
 
 msgid "Line"
 msgstr "Linia"
@@ -1535,9 +1528,6 @@ msgstr "zmień nazwę zmiennej"
 msgid "Replace existing project"
 msgstr ""
 
-msgid "requires sign in"
-msgstr "wymaga zalogowania"
-
 msgid "Reshape"
 msgstr "Przekształć"
 
@@ -1620,10 +1610,6 @@ msgstr "Skrypt"
 msgid "Scripts"
 msgstr "Skrypty"
 
-# 87%
-msgid "Scripts:"
-msgstr "Skrypty:"
-
 msgid "second"
 msgstr "sekunda"
 
@@ -1671,12 +1657,6 @@ msgstr "udostępniony"
 
 msgid "Shift:"
 msgstr "Przesuń:"
-
-msgid "show receivers"
-msgstr "pokaż odbiorców"
-
-msgid "show senders"
-msgstr "pokaż nadawców"
 
 msgid "show:"
 msgstr "pokaż:"
@@ -1768,9 +1748,6 @@ msgstr "Wybrana scena:"
 
 msgid "Steel Drum"
 msgstr "Blaszany bęben"
-
-msgid "stored on server"
-msgstr "przechowywane na serwerze"
 
 msgid "Synth Lead"
 msgstr "Synth Lead"
@@ -2000,25 +1977,6 @@ msgstr "Twoja nazwa użytkownika Scratch"
 msgid "Your Scratch name is required"
 msgstr "Twoja nazwa użytkownika Scratch jest wymagana"
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Informacje o zmiennych w Chmurze</b><br>&nbsp;<br>Aktualnie jedynie "
-"liczby są wspierane.<br>Pokoje czatu nie są dozwolone i zostaną "
-"usunięte<br>Aby uzyskać więcej informacji <a href= target=>sprawdź FAQ na "
-"temat danych w Chmurze !</a>"
-
-msgid "Click  to try again or  to save"
-msgstr "Naciśnij    aby spróbować ponownie lub    aby zapisać"
-
-msgid "Eraser width:"
-msgstr "Szerokość gumki:"
-
-msgid "Line width:"
-msgstr "Szerokość linii:"
-
 # Offline editor only
 msgid "All Tips"
 msgstr "Wszystkie wskazówki"
@@ -2132,14 +2090,23 @@ msgstr ""
 msgid "Remove Background"
 msgstr ""
 
-msgid "when Stage clicked"
+msgid "random position"
 msgstr ""
+
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "idź do %m.spriteOrMouse"
 
 #~ msgid "About LEGO WeDo extension..."
 #~ msgstr "O rozszerzeniu LEGO WeDo..."
 
 #~ msgid "About PicoBoard extension..."
 #~ msgstr "O rozszerzeniu PicoBoard..."
+
+#~ msgid "Cloud"
+#~ msgstr "Chmura"
+
+#~ msgid "Costumes:"
+#~ msgstr "Kostiumy:"
 
 #~ msgid "everything"
 #~ msgstr "Wszystkie"
@@ -2154,6 +2121,9 @@ msgstr ""
 #~ msgid "lights"
 #~ msgstr "światła"
 
+#~ msgid "limit reached"
+#~ msgstr "limit osiągnięty"
+
 #~ msgid "motor"
 #~ msgstr "silnik"
 
@@ -2165,6 +2135,41 @@ msgstr ""
 
 #~ msgid "not ="
 #~ msgstr "nie ="
+
+#~ msgid "requires sign in"
+#~ msgstr "wymaga zalogowania"
+
+# 87%
+#~ msgid "Scripts:"
+#~ msgstr "Skrypty:"
+
+#~ msgid "show receivers"
+#~ msgstr "pokaż odbiorców"
+
+#~ msgid "show senders"
+#~ msgstr "pokaż nadawców"
+
+#~ msgid "stored on server"
+#~ msgstr "przechowywane na serwerze"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Informacje o zmiennych w Chmurze</b><br>&nbsp;<br>Aktualnie jedynie "
+#~ "liczby są wspierane.<br>Pokoje czatu nie są dozwolone i zostaną "
+#~ "usunięte<br>Aby uzyskać więcej informacji <a href= target=>sprawdź FAQ na "
+#~ "temat danych w Chmurze !</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Naciśnij    aby spróbować ponownie lub    aby zapisać"
+
+#~ msgid "Eraser width:"
+#~ msgstr "Szerokość gumki:"
+
+#~ msgid "Line width:"
+#~ msgstr "Szerokość linii:"
 
 #~ msgid "cleanup"
 #~ msgstr "sprzątanie"

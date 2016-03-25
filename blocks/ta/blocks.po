@@ -501,4 +501,4 @@ msgid "%m.list contains %s?"
 msgstr "%m.list %s ஐ கொண்டுள்ளது?"
 
 msgid "go to %m.location"
-msgstr ""
+msgstr "%m.location -க்கு செல்"

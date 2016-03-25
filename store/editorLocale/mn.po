@@ -14,10 +14,6 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1421158164.000000\n"
 
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Монгол хэл"
-
 msgid "%b and %b"
 msgstr "%b ба %b"
 
@@ -26,9 +22,6 @@ msgstr "%b буюу %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute -н %m.spriteOrStage"
-
-msgid "%m.list contains %s"
-msgstr "%s нь %m.list -г агуулдаг"
 
 msgid "%m.mathOp of %n"
 msgstr "%n-н %m.mathOp"
@@ -150,9 +143,6 @@ msgstr "%n секундэд x:%n y:%n цэг рүү гулс"
 
 msgid "go back %n layers"
 msgstr "%n давхаргын цаана ор"
-
-msgid "go to %m.spriteOrMouse"
-msgstr "%m.spriteOrMouse-руу оч"
 
 msgid "go to front"
 msgstr "Эхний давхарга болго"
@@ -500,12 +490,6 @@ msgstr "%m.motorDirection хөдөлгүүрийн чиг"
 msgid "set motor power %n"
 msgstr "хөдөлгүүр %n чадалтай"
 
-msgid "turn motor off"
-msgstr "Хөдөлгүүрийг унтраа"
-
-msgid "turn motor on"
-msgstr "Хөдөлгүүрийг асаа"
-
 # 80%
 #, fuzzy
 msgid "turn motor on for %n secs"
@@ -521,6 +505,9 @@ msgstr ""
 #, fuzzy
 msgid "%m.list contains %s?"
 msgstr "%s нь %m.list -г агуулдаг"
+
+msgid "go to %m.location"
+msgstr "%m.location-руу оч"
 
 msgid "10 ^"
 msgstr ""
@@ -2007,6 +1994,25 @@ msgstr ""
 
 msgid "Remove Background"
 msgstr ""
+
+msgid "random position"
+msgstr ""
+
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "Монгол хэл"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%s нь %m.list -г агуулдаг"
+
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "%m.spriteOrMouse-руу оч"
+
+#~ msgid "turn motor off"
+#~ msgstr "Хөдөлгүүрийг унтраа"
+
+#~ msgid "turn motor on"
+#~ msgstr "Хөдөлгүүрийг асаа"
 
 # 89%
 # 86%

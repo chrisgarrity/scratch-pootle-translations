@@ -14,10 +14,6 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1447949327.000000\n"
 
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Bahasa Indonesia"
-
 msgid "%b and %b"
 msgstr "%b dan %b"
 
@@ -26,9 +22,6 @@ msgstr "%b atau %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute dari %m.spriteOrStage"
-
-msgid "%m.list contains %s"
-msgstr "%m.list berisi %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp dari %n"
@@ -155,9 +148,6 @@ msgstr "meluncur %n detik ke x:%n y:%n"
 
 msgid "go back %n layers"
 msgstr "pergi ke belakang %n lapisan"
-
-msgid "go to %m.spriteOrMouse"
-msgstr "pergi ke %m.spriteOrMouse"
 
 msgid "go to front"
 msgstr "maju ke depan"
@@ -478,6 +468,9 @@ msgstr "ketika aku menerima %m.broadcast"
 msgid "when I start as a clone"
 msgstr "ketika aku mulai sebagai clone"
 
+msgid "when Stage clicked"
+msgstr "ketika Stage diklik"
+
 # past tense (clicked)
 msgid "when this sprite clicked"
 msgstr "ketika sprite ini diklik"
@@ -491,33 +484,12 @@ msgstr "posisi x"
 msgid "y position"
 msgstr "posisi y"
 
-# 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "atur arah motor %m.motorDirection"
-
-# 77%
-msgid "set motor power %n"
-msgstr "atur daya motor %n"
-
-msgid "turn motor off"
-msgstr "matikan motor"
-
-msgid "turn motor on"
-msgstr "hidupkan motor"
-
-# 80%
-msgid "turn motor on for %n secs"
-msgstr "hidupkan motor selama %n detik"
-
-msgid "when distance < %n"
-msgstr "ketika jarak < %n"
-
-msgid "when tilt = %n"
-msgstr "ketika miring = %n"
-
 #: commands-online.txt:7 commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list berisi %s?"
+
+msgid "go to %m.location"
+msgstr "pergi ke %m.location"
 
 # Sepertinya ini matematika... ~R
 msgid "10 ^"
@@ -770,10 +742,6 @@ msgstr "Tutup"
 msgid "Closed Hi-Hat"
 msgstr "Tutup hi-hat"
 
-# Sepertinya "cloud" disini ada hubungannya dengan cloud data, jadi kupikir sebaiknya tidak diterjemahkan :) ~R
-msgid "Cloud"
-msgstr "Cloud"
-
 msgid "Cloud data"
 msgstr "Cloud data"
 
@@ -830,9 +798,6 @@ msgstr "Kostum"
 # Sangat membingungkan bila tidak ditambahkan "jumlah"
 msgid "Costumes > 1"
 msgstr "Jumlah kostum > 1"
-
-msgid "Costumes:"
-msgstr "Kostum:"
 
 msgid "Could not retrieve new application from server."
 msgstr "Tidak dapat menerima aplikasi baru dari server."
@@ -1077,9 +1042,6 @@ msgstr "Perpustakaan"
 
 msgid "light"
 msgstr "cahaya"
-
-msgid "limit reached"
-msgstr "batas telah tercapai"
 
 msgid "Line"
 msgstr "Garis"
@@ -1380,9 +1342,6 @@ msgstr "Namai ulang"
 msgid "rename variable"
 msgstr "namai ulang variabel"
 
-msgid "requires sign in"
-msgstr "mengharuskan untuk masuk"
-
 msgid "Reshape"
 msgstr "Bentuk ulang"
 
@@ -1462,9 +1421,6 @@ msgstr "Skrip"
 msgid "Scripts"
 msgstr "Skrip"
 
-msgid "Scripts:"
-msgstr "Skrip:"
-
 msgid "second"
 msgstr "detik"
 
@@ -1503,12 +1459,6 @@ msgstr "terbagikan"
 
 msgid "Shift:"
 msgstr "Shift:"
-
-msgid "show receivers"
-msgstr "tampilkan penerima"
-
-msgid "show senders"
-msgstr "tampilkan pengirim"
 
 msgid "show:"
 msgstr "munculkan:"
@@ -1602,9 +1552,6 @@ msgstr "Stage terpilih:"
 # 50%
 msgid "Steel Drum"
 msgstr "Drum Besi"
-
-msgid "stored on server"
-msgstr "tersimpan di server"
 
 msgid "Synth Lead"
 msgstr "Synth Lead"
@@ -1829,24 +1776,6 @@ msgstr "Nama Scratch kamu"
 msgid "Your Scratch name is required"
 msgstr "Nama Scratch kamu dibutuhkan"
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Informasi tentang variabel Cloud</b><br>&nbsp;<br>Sekarang, hanya angka "
-"yang didukung<br>Chat room tidak diperbolehkan, dan akan dihapus<br>Untuk "
-"info lebih lanjut, <a href= target=>lihat Data Cloud FAQ!</a>"
-
-msgid "Click  to try again or  to save"
-msgstr "Klik  untuk mencoba lagi atau  untuk menyimpan"
-
-msgid "Eraser width:"
-msgstr "Lebar penghapus:"
-
-msgid "Line width:"
-msgstr "Lebar garis:"
-
 # Offline editor only
 msgid "All Tips"
 msgstr "Semua Tips"
@@ -1962,8 +1891,42 @@ msgstr ""
 msgid "Remove Background"
 msgstr ""
 
-#~ msgid "when Stage clicked"
-#~ msgstr "ketika Stage diklik"
+msgid "random position"
+msgstr ""
+
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "Bahasa Indonesia"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list berisi %s"
+
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "pergi ke %m.spriteOrMouse"
+
+# 89%
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "atur arah motor %m.motorDirection"
+
+# 77%
+#~ msgid "set motor power %n"
+#~ msgstr "atur daya motor %n"
+
+#~ msgid "turn motor off"
+#~ msgstr "matikan motor"
+
+#~ msgid "turn motor on"
+#~ msgstr "hidupkan motor"
+
+# 80%
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "hidupkan motor selama %n detik"
+
+#~ msgid "when distance < %n"
+#~ msgstr "ketika jarak < %n"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "ketika miring = %n"
 
 # 89%
 # 86%
@@ -2006,8 +1969,15 @@ msgstr ""
 #~ msgid "all motors"
 #~ msgstr "semua motor"
 
+# Sepertinya "cloud" disini ada hubungannya dengan cloud data, jadi kupikir sebaiknya tidak diterjemahkan :) ~R
+#~ msgid "Cloud"
+#~ msgstr "Cloud"
+
 #~ msgid "Cloud variable (stored on server)"
 #~ msgstr "Variabel Cloud (disimpan di server)"
+
+#~ msgid "Costumes:"
+#~ msgstr "Kostum:"
 
 #~ msgid "Downloading new version"
 #~ msgstr "Mengunduh versi baru"
@@ -2043,6 +2013,9 @@ msgstr ""
 #~ msgid "lights"
 #~ msgstr "cahaya"
 
+#~ msgid "limit reached"
+#~ msgstr "batas telah tercapai"
+
 #~ msgid "motor"
 #~ msgstr "motor"
 
@@ -2061,8 +2034,14 @@ msgstr ""
 #~ msgid "Replace existing project"
 #~ msgstr "Ganti karya yang ada"
 
+#~ msgid "requires sign in"
+#~ msgstr "mengharuskan untuk masuk"
+
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "Editor Scratch 2.0 Offline"
+
+#~ msgid "Scripts:"
+#~ msgstr "Skrip:"
 
 #~ msgid ""
 #~ "See the Tips window (on the right) to install the plug-in and get the "
@@ -2072,6 +2051,15 @@ msgstr ""
 #~ msgid "Share to Scratch website"
 #~ msgstr "Bagikan ke website Scratch"
 
+#~ msgid "show receivers"
+#~ msgstr "tampilkan penerima"
+
+#~ msgid "show senders"
+#~ msgstr "tampilkan pengirim"
+
+#~ msgid "stored on server"
+#~ msgstr "tersimpan di server"
+
 #~ msgid "The name is already in use."
 #~ msgstr "Nama ini telah digunakan"
 
@@ -2080,6 +2068,25 @@ msgstr ""
 
 #~ msgid "true"
 #~ msgstr "benar"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Informasi tentang variabel Cloud</b><br>&nbsp;<br>Sekarang, hanya "
+#~ "angka yang didukung<br>Chat room tidak diperbolehkan, dan akan "
+#~ "dihapus<br>Untuk info lebih lanjut, <a href= target=>lihat Data Cloud FAQ!"
+#~ "</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Klik  untuk mencoba lagi atau  untuk menyimpan"
+
+#~ msgid "Eraser width:"
+#~ msgstr "Lebar penghapus:"
+
+#~ msgid "Line width:"
+#~ msgstr "Lebar garis:"
 
 # "cleanup" adalah fitur editor yang dapat kau gunakan untuk merapikan scripts. (blocks)
 #~ msgid "cleanup"

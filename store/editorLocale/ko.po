@@ -14,10 +14,6 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1436979930.000000\n"
 
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "한국어"
-
 msgid "%b and %b"
 msgstr "%b 그리고 %b"
 
@@ -26,9 +22,6 @@ msgstr "%b 또는 %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute (%m.spriteOrStage)"
-
-msgid "%m.list contains %s"
-msgstr "%m.list 리스트에 %s 포함되었는가"
 
 # %m.mathOp 와 %n 의 순서를 바꾸면 번역이 반영되지 않는다.
 msgid "%m.mathOp of %n"
@@ -153,9 +146,6 @@ msgstr "%n 초 동안 x:%n y:%n 으로 움직이기"
 
 msgid "go back %n layers"
 msgstr "%n 번째로 물러나기"
-
-msgid "go to %m.spriteOrMouse"
-msgstr "%m.spriteOrMouse 위치로 이동하기"
 
 msgid "go to front"
 msgstr "맨 앞으로 순서 바꾸기"
@@ -476,6 +466,9 @@ msgstr "%m.broadcast 을(를) 받았을 때"
 msgid "when I start as a clone"
 msgstr "복제되었을 때"
 
+msgid "when Stage clicked"
+msgstr "배경을 클릭했을 때"
+
 msgid "when this sprite clicked"
 msgstr "이 스프라이트를 클릭했을 때"
 
@@ -488,33 +481,12 @@ msgstr "x좌표"
 msgid "y position"
 msgstr "y좌표"
 
-# 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "모터 방향을 %m.motorDirection 쪽으로 정하기"
-
-# 77%
-msgid "set motor power %n"
-msgstr "모터 파워를 %n (으)로 정하기"
-
-msgid "turn motor off"
-msgstr "모터 끄기"
-
-msgid "turn motor on"
-msgstr "모터 켜기"
-
-# 80%
-msgid "turn motor on for %n secs"
-msgstr "%n 초 동안 모터를 켜기"
-
-msgid "when distance < %n"
-msgstr "거리 < %n 일 때"
-
-msgid "when tilt = %n"
-msgstr "기울기 = %n 일 때"
-
 #: commands-online.txt:7 commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list 리스트에 %s 포함되었는가?"
+
+msgid "go to %m.location"
+msgstr "%m.location 위치로 이동하기"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -650,7 +622,7 @@ msgid "Bitmap Mode"
 msgstr "비트맵 모드"
 
 msgid "Block help"
-msgstr "블럭 도움말"
+msgstr "블록 도움말"
 
 msgid "Bongo"
 msgstr "봉고"
@@ -762,9 +734,6 @@ msgstr "닫기"
 msgid "Closed Hi-Hat"
 msgstr "닫힌 하이-햇"
 
-msgid "Cloud"
-msgstr "클라우드"
-
 msgid "Cloud data"
 msgstr "클라우드 데이터"
 
@@ -818,10 +787,6 @@ msgstr "모양"
 
 msgid "Costumes > 1"
 msgstr "모양 > 1"
-
-# 88%
-msgid "Costumes:"
-msgstr "모양:"
 
 msgid "Could not retrieve new application from server."
 msgstr "서버에서 새로운 어플리케이션을 검색할 수 없습니다."
@@ -1063,9 +1028,6 @@ msgstr "저장소"
 msgid "light"
 msgstr "빛"
 
-msgid "limit reached"
-msgstr "한계에 도달함"
-
 msgid "Line"
 msgstr "선"
 
@@ -1206,7 +1168,7 @@ msgid "New Variable"
 msgstr "새로운 변수"
 
 msgid "No motion blocks"
-msgstr "사용 가능한 동작 블럭이 없습니다."
+msgstr "사용 가능한 동작 블록이 없습니다"
 
 msgid "normal readout"
 msgstr "변수이름-변수값 보기"
@@ -1362,9 +1324,6 @@ msgstr "이름 수정하기"
 msgid "rename variable"
 msgstr "변수 이름 수정하기"
 
-msgid "requires sign in"
-msgstr "로그인 필요"
-
 msgid "Reshape"
 msgstr "형태고치기"
 
@@ -1443,9 +1402,6 @@ msgstr "스크립트"
 msgid "Scripts"
 msgstr "스크립트"
 
-msgid "Scripts:"
-msgstr "스크립트:"
-
 msgid "second"
 msgstr "초"
 
@@ -1484,12 +1440,6 @@ msgstr "공유됨"
 
 msgid "Shift:"
 msgstr "Shift 키:"
-
-msgid "show receivers"
-msgstr "메시지 받는 스프라이트 표시하기"
-
-msgid "show senders"
-msgstr "메시지 보낸 스프라이트 표시하기"
 
 # 80%
 msgid "show:"
@@ -1582,9 +1532,6 @@ msgstr "무대가 선택되었습니다:"
 
 msgid "Steel Drum"
 msgstr "스틸 드럼"
-
-msgid "stored on server"
-msgstr "서버에 저장됨"
 
 msgid "Synth Lead"
 msgstr "신스 리드"
@@ -1795,26 +1742,6 @@ msgstr "당신의 스크래치 계정"
 msgid "Your Scratch name is required"
 msgstr "당신의 스크래치 계정이 필요합니다."
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>클라우드 변수 정보</b><br>&nbsp;<br>현재, 스크래치 웹사이트 회원만 사용할 "
-"수 있습니다.<br>채팅방은 현재 허용되지 않으며, 조만간 없어질 예정입니다.<br>"
-"관련 정보는, <a href=\"/help/faq/#clouddata\" target=\"_blank\">cloud data "
-"FAQ!</a> 를 참고하세요!"
-
-msgid "Click  to try again or  to save"
-msgstr ""
-"저장하기 위해서는 \"저장하기\" 를 다시 누르거나 \"다운로드\"를 누르세요."
-
-msgid "Eraser width:"
-msgstr "지우개 크기:"
-
-msgid "Line width:"
-msgstr "선 굵기:"
-
 # Offline editor only
 msgid "All Tips"
 msgstr "모든 도움"
@@ -1923,13 +1850,47 @@ msgid "any"
 msgstr "아무"
 
 msgid "Record Project Video"
-msgstr ""
+msgstr "프로젝트 비디오 녹화하기"
 
 msgid "Remove Background"
+msgstr "배경 없애기"
+
+msgid "random position"
 msgstr ""
 
-#~ msgid "when Stage clicked"
-#~ msgstr "배경을 클릭했을 때"
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "한국어"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list 리스트에 %s 포함되었는가"
+
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "%m.spriteOrMouse 위치로 이동하기"
+
+# 89%
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "모터 방향을 %m.motorDirection 쪽으로 정하기"
+
+# 77%
+#~ msgid "set motor power %n"
+#~ msgstr "모터 파워를 %n (으)로 정하기"
+
+#~ msgid "turn motor off"
+#~ msgstr "모터 끄기"
+
+#~ msgid "turn motor on"
+#~ msgstr "모터 켜기"
+
+# 80%
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "%n 초 동안 모터를 켜기"
+
+#~ msgid "when distance < %n"
+#~ msgstr "거리 < %n 일 때"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "기울기 = %n 일 때"
 
 # 89%
 # 86%
@@ -1976,8 +1937,15 @@ msgstr ""
 #~ msgid "Cannot Add"
 #~ msgstr "추가할 수 없습니다."
 
+#~ msgid "Cloud"
+#~ msgstr "클라우드"
+
 #~ msgid "Cloud variable (stored on server)"
 #~ msgstr "클라우드 변수 (서버에 저장됨)"
+
+# 88%
+#~ msgid "Costumes:"
+#~ msgstr "모양:"
 
 #~ msgid "Downloading new version"
 #~ msgstr "새 버전 다운로드"
@@ -2013,6 +1981,9 @@ msgstr ""
 #~ msgid "lights"
 #~ msgstr "빛"
 
+#~ msgid "limit reached"
+#~ msgstr "한계에 도달함"
+
 #~ msgid "motor"
 #~ msgstr "모터"
 
@@ -2031,8 +2002,14 @@ msgstr ""
 #~ msgid "Replace existing project"
 #~ msgstr "기존 프로젝트 대체하기"
 
+#~ msgid "requires sign in"
+#~ msgstr "로그인 필요"
+
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "스크래치 2.0 오프라인 에디터"
+
+#~ msgid "Scripts:"
+#~ msgstr "스크립트:"
 
 #~ msgid ""
 #~ "See the Tips window (on the right) to install the plug-in and get the "
@@ -2042,6 +2019,15 @@ msgstr ""
 
 #~ msgid "Share to Scratch website"
 #~ msgstr "스크래치 웹사이트에 공유하기"
+
+#~ msgid "show receivers"
+#~ msgstr "메시지 받는 스프라이트 표시하기"
+
+#~ msgid "show senders"
+#~ msgstr "메시지 보낸 스프라이트 표시하기"
+
+#~ msgid "stored on server"
+#~ msgstr "서버에 저장됨"
 
 #~ msgid "The name is already in use."
 #~ msgstr "그 이름은 이미 사용되고 있습니다."
@@ -2064,6 +2050,26 @@ msgstr ""
 
 #~ msgid "world"
 #~ msgstr "세계"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>클라우드 변수 정보</b><br>&nbsp;<br>현재, 스크래치 웹사이트 회원만 사용"
+#~ "할 수 있습니다.<br>채팅방은 현재 허용되지 않으며, 조만간 없어질 예정입니"
+#~ "다.<br>관련 정보는, <a href=\"/help/faq/#clouddata\" target=\"_blank"
+#~ "\">cloud data FAQ!</a> 를 참고하세요!"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr ""
+#~ "저장하기 위해서는 \"저장하기\" 를 다시 누르거나 \"다운로드\"를 누르세요."
+
+#~ msgid "Eraser width:"
+#~ msgstr "지우개 크기:"
+
+#~ msgid "Line width:"
+#~ msgstr "선 굵기:"
 
 #~ msgid "cleanup"
 #~ msgstr "블록 정리하기"

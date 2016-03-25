@@ -277,8 +277,8 @@ msgstr "关闭"
 msgid "Closed Hi-Hat"
 msgstr "闭合双面钹"
 
-msgid "Cloud"
-msgstr "云"
+#~ msgid "Cloud"
+#~ msgstr "云"
 
 msgid "Cloud data"
 msgstr "云数据"
@@ -345,8 +345,8 @@ msgstr "造型数 > 1"
 
 # 75%
 # 88%
-msgid "Costumes:"
-msgstr "造型："
+#~ msgid "Costumes:"
+#~ msgstr "造型："
 
 msgid "Could not retrieve new application from server."
 msgstr "无法从服务器获取新的应用程序"
@@ -629,8 +629,8 @@ msgstr "光线"
 #~ msgid "lights"
 #~ msgstr "照明"
 
-msgid "limit reached"
-msgstr "已达到限制"
+#~ msgid "limit reached"
+#~ msgstr "已达到限制"
 
 msgid "Line"
 msgstr "线段"
@@ -958,8 +958,8 @@ msgstr "重命名变量"
 #~ msgid "Replace existing project"
 #~ msgstr "替换现存项目"
 
-msgid "requires sign in"
-msgstr "需要登录"
+#~ msgid "requires sign in"
+#~ msgstr "需要登录"
 
 msgid "Reshape"
 msgstr "变形"
@@ -1044,8 +1044,8 @@ msgid "Scripts"
 msgstr "脚本"
 
 # 87%
-msgid "Scripts:"
-msgstr "脚本："
+#~ msgid "Scripts:"
+#~ msgstr "脚本："
 
 msgid "second"
 msgstr "秒"
@@ -1098,11 +1098,11 @@ msgstr "Shift:"
 msgid "show"
 msgstr "显示"
 
-msgid "show receivers"
-msgstr "显示接收者"
+#~ msgid "show receivers"
+#~ msgstr "显示接收者"
 
-msgid "show senders"
-msgstr "显示发送者"
+#~ msgid "show senders"
+#~ msgstr "显示发送者"
 
 msgid "show:"
 msgstr "显示:"
@@ -1204,8 +1204,8 @@ msgstr "选中的舞台"
 msgid "Steel Drum"
 msgstr "钢鼓"
 
-msgid "stored on server"
-msgstr "保存在服务器上"
+#~ msgid "stored on server"
+#~ msgstr "保存在服务器上"
 
 msgid "Synth Lead"
 msgstr "合成领奏"
@@ -1440,22 +1440,22 @@ msgstr "您的Scratch姓名"
 msgid "Your Scratch name is required"
 msgstr "需要填写你的Scratch姓名"
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>关于云变量的说明</b><br>&nbsp;<br>目前，只支持数值类型的数据<br>不允许使用云变量来创建聊天室，否则将被删除<br>更多信息请参"
-"考关于云数据的常见问题FAQ</a>"
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>关于云变量的说明</b><br>&nbsp;<br>目前，只支持数值类型的数据<br>不允许使用云变量来创建聊天室，否则将被删除<br>更多信息请参"
+#~ "考关于云数据的常见问题FAQ</a>"
 
-msgid "Click  to try again or  to save"
-msgstr "点击  重新尝试或  保存"
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "点击  重新尝试或  保存"
 
-msgid "Eraser width:"
-msgstr "橡皮擦宽度:"
+#~ msgid "Eraser width:"
+#~ msgstr "橡皮擦宽度:"
 
-msgid "Line width:"
-msgstr "线宽："
+#~ msgid "Line width:"
+#~ msgstr "线宽："
 
 # Offline editor only
 msgid "All Tips"
@@ -1727,4 +1727,7 @@ msgid "Remove Background"
 msgstr ""
 
 msgid "when Stage clicked"
+msgstr ""
+
+msgid "random position"
 msgstr ""

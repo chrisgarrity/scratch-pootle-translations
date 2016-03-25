@@ -14,10 +14,6 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1429106061.000000\n"
 
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Български"
-
 msgid "%b and %b"
 msgstr "%b и %b"
 
@@ -26,9 +22,6 @@ msgstr "%b или %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute на %m.spriteOrStage"
-
-msgid "%m.list contains %s"
-msgstr "%m.list съдържа %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp от/на %n"
@@ -151,9 +144,6 @@ msgstr "пропълзи за %n сек до x:%n y:%n"
 
 msgid "go back %n layers"
 msgstr "премини назад с %n слоя"
-
-msgid "go to %m.spriteOrMouse"
-msgstr "отиди до %m.spriteOrMouse"
 
 msgid "go to front"
 msgstr "премини най-отпред"
@@ -476,6 +466,9 @@ msgstr "когато получа %m.broadcast"
 msgid "when I start as a clone"
 msgstr "при старт като клонинг"
 
+msgid "when Stage clicked"
+msgstr "когато Сцената е щракната"
+
 msgid "when this sprite clicked"
 msgstr "когато този спрайт е щракнат"
 
@@ -488,36 +481,12 @@ msgstr "x позиция"
 msgid "y position"
 msgstr "y позиция"
 
-# 89%
-# 100%
-msgid "set motor direction %m.motorDirection"
-msgstr "посока на мотора %m.motorDirection"
-
-# 77%
-# 100%
-msgid "set motor power %n"
-msgstr "избери мощност на мотора %n"
-
-msgid "turn motor off"
-msgstr "изключи мотора"
-
-msgid "turn motor on"
-msgstr "включи мотора"
-
-# 80%
-# 100%
-msgid "turn motor on for %n secs"
-msgstr "включи мотора за %n сек"
-
-msgid "when distance < %n"
-msgstr "когато разстояние < %n"
-
-msgid "when tilt = %n"
-msgstr "когато наклон = %n"
-
 #: commands-online.txt:7 commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list съдържа %s?"
+
+msgid "go to %m.location"
+msgstr "отиди до %m.location"
 
 msgid "10 ^"
 msgstr ""
@@ -767,9 +736,6 @@ msgstr "Затвори"
 msgid "Closed Hi-Hat"
 msgstr "Затворен педален чинел"
 
-msgid "Cloud"
-msgstr "Облачна"
-
 msgid "Cloud data"
 msgstr "Облачни данни"
 
@@ -825,9 +791,6 @@ msgstr "Костюми"
 
 msgid "Costumes > 1"
 msgstr "Костюми > 1"
-
-msgid "Costumes:"
-msgstr "Костюми:"
 
 msgid "Could not retrieve new application from server."
 msgstr "Не се получава ново приложение от сървъра."
@@ -1083,9 +1046,6 @@ msgstr "осветеност"
 #, fuzzy
 msgid "lights"
 msgstr "осветеност"
-
-msgid "limit reached"
-msgstr "достигнат е лимита"
 
 msgid "Line"
 msgstr "Линия"
@@ -1393,9 +1353,6 @@ msgstr "преименуване на променливата"
 msgid "Replace existing project"
 msgstr ""
 
-msgid "requires sign in"
-msgstr "трябва да сте влезли"
-
 msgid "Reshape"
 msgstr "Оформяне"
 
@@ -1478,10 +1435,6 @@ msgstr "Сценарий"
 msgid "Scripts"
 msgstr "Сценарии"
 
-# 87%
-msgid "Scripts:"
-msgstr "Сценарии:"
-
 msgid "second"
 msgstr "секунда"
 
@@ -1521,12 +1474,6 @@ msgstr "споделен"
 
 msgid "Shift:"
 msgstr ""
-
-msgid "show receivers"
-msgstr "покажи изпращачите"
-
-msgid "show senders"
-msgstr "покажи получателите"
 
 msgid "show:"
 msgstr "покажи:"
@@ -1618,9 +1565,6 @@ msgstr "Избрана е сцената:"
 
 msgid "Steel Drum"
 msgstr "Стоманен барабан"
-
-msgid "stored on server"
-msgstr "съхранявана на сървър"
 
 msgid "Synth Lead"
 msgstr ""
@@ -1846,25 +1790,6 @@ msgstr "Вашето Scratch име"
 msgid "Your Scratch name is required"
 msgstr "Изисква се вашето Scratch име"
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Информация за Облачни променливи</b><br>&nbsp;<br>Към момента се "
-"поддържат само числa<br>Чат стаи не са разрешени и ще бъдат премахвани<br>За "
-"повече информация, <a href= target=>вижте често задавани въпроси (FAQ) за "
-"облачни променливи</a>"
-
-msgid "Click  to try again or  to save"
-msgstr "Кликнете  за повторен опит или  за запис"
-
-msgid "Eraser width:"
-msgstr "Широчина на гумата:"
-
-msgid "Line width:"
-msgstr "Широчина на линията:"
-
 # Offline editor only
 msgid "All Tips"
 msgstr ""
@@ -1980,8 +1905,45 @@ msgstr ""
 msgid "Remove Background"
 msgstr ""
 
-#~ msgid "when Stage clicked"
-#~ msgstr "когато Сцената е щракната"
+msgid "random position"
+msgstr ""
+
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "Български"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list съдържа %s"
+
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "отиди до %m.spriteOrMouse"
+
+# 89%
+# 100%
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "посока на мотора %m.motorDirection"
+
+# 77%
+# 100%
+#~ msgid "set motor power %n"
+#~ msgstr "избери мощност на мотора %n"
+
+#~ msgid "turn motor off"
+#~ msgstr "изключи мотора"
+
+#~ msgid "turn motor on"
+#~ msgstr "включи мотора"
+
+# 80%
+# 100%
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "включи мотора за %n сек"
+
+#~ msgid "when distance < %n"
+#~ msgstr "когато разстояние < %n"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "когато наклон = %n"
 
 # 89%
 # 100%
@@ -2028,8 +1990,14 @@ msgstr ""
 #~ msgid "all motors"
 #~ msgstr "всички мотори"
 
+#~ msgid "Cloud"
+#~ msgstr "Облачна"
+
 #~ msgid "Cloud variable (stored on server)"
 #~ msgstr "Облачна променлива (съхранявана на сървър)"
+
+#~ msgid "Costumes:"
+#~ msgstr "Костюми:"
 
 #~ msgid "Downloading new version"
 #~ msgstr "Изтегляне на новата версия"
@@ -2052,6 +2020,9 @@ msgstr ""
 #~ msgid "hello"
 #~ msgstr "здравей"
 
+#~ msgid "limit reached"
+#~ msgstr "достигнат е лимита"
+
 #~ msgid "motor"
 #~ msgstr "мотор"
 
@@ -2067,6 +2038,13 @@ msgstr ""
 #~ msgid "Remove extension blocks"
 #~ msgstr "Премахни блоковета на приставката"
 
+#~ msgid "requires sign in"
+#~ msgstr "трябва да сте влезли"
+
+# 87%
+#~ msgid "Scripts:"
+#~ msgstr "Сценарии:"
+
 #~ msgid ""
 #~ "See the Tips window (on the right) to install the plug-in and get the "
 #~ "extension working."
@@ -2077,8 +2055,36 @@ msgstr ""
 #~ msgid "Share to Scratch website"
 #~ msgstr "Споделяне на Scratch уебсайта"
 
+#~ msgid "show receivers"
+#~ msgstr "покажи изпращачите"
+
+#~ msgid "show senders"
+#~ msgstr "покажи получателите"
+
+#~ msgid "stored on server"
+#~ msgstr "съхранявана на сървър"
+
 #~ msgid "What's your name?"
 #~ msgstr "Как се казваш?"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Информация за Облачни променливи</b><br>&nbsp;<br>Към момента се "
+#~ "поддържат само числa<br>Чат стаи не са разрешени и ще бъдат "
+#~ "премахвани<br>За повече информация, <a href= target=>вижте често задавани "
+#~ "въпроси (FAQ) за облачни променливи</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Кликнете  за повторен опит или  за запис"
+
+#~ msgid "Eraser width:"
+#~ msgstr "Широчина на гумата:"
+
+#~ msgid "Line width:"
+#~ msgstr "Широчина на линията:"
 
 #~ msgid "cleanup"
 #~ msgstr "разчисти"

@@ -13,10 +13,6 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1381340698.000000\n"
 
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "ⵜⴰⵎⴰⵣⵉⵖⵜ"
-
 msgid "%b and %b"
 msgstr ""
 
@@ -496,6 +492,9 @@ msgstr ""
 
 #: commands-online.txt:7 commands-offline.txt:7
 msgid "%m.list contains %s?"
+msgstr ""
+
+msgid "go to %m.location"
 msgstr ""
 
 msgid "10 ^"
@@ -1966,3 +1965,10 @@ msgstr ""
 
 msgid "any"
 msgstr ""
+
+msgid "random position"
+msgstr ""
+
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "ⵜⴰⵎⴰⵣⵉⵖⵜ"

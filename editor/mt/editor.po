@@ -1529,3 +1529,6 @@ msgstr ""
 
 msgid "when Stage clicked"
 msgstr ""
+
+msgid "random position"
+msgstr ""

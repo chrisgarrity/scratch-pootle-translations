@@ -14,10 +14,6 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1406848104.000000\n"
 
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Asturianu"
-
 msgid "%b and %b"
 msgstr "%b y %b"
 
@@ -26,9 +22,6 @@ msgstr "%b o %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute de %m.spriteOrStage"
-
-msgid "%m.list contains %s"
-msgstr "%m.list contién %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp de %n"
@@ -151,9 +144,6 @@ msgstr "eslizar %n seg. a x:%n y:%n"
 
 msgid "go back %n layers"
 msgstr "dir %n capes p'atrás"
-
-msgid "go to %m.spriteOrMouse"
-msgstr "dir a %m.spriteOrMouse"
 
 msgid "go to front"
 msgstr "dir al frente"
@@ -467,6 +457,9 @@ msgstr "cuando reciba %m.broadcast"
 msgid "when I start as a clone"
 msgstr "cuando principie como clon"
 
+msgid "when Stage clicked"
+msgstr "cuando se faiga click nel escenariu"
+
 msgid "when this sprite clicked"
 msgstr "cuando se calque nesti personaxe"
 
@@ -479,31 +472,13 @@ msgstr "posición x"
 msgid "y position"
 msgstr "posición y"
 
-msgid "set motor direction %m.motorDirection"
-msgstr "poner direición del motor %m.motorDirection"
-
-msgid "set motor power %n"
-msgstr "poner potencia del motor %n"
-
-msgid "turn motor off"
-msgstr "apagar el motor"
-
-msgid "turn motor on"
-msgstr "prender el motor"
-
-msgid "turn motor on for %n secs"
-msgstr "prender el motor %n segundos"
-
-msgid "when distance < %n"
-msgstr "cuando la distancia seya < %n"
-
-msgid "when tilt = %n"
-msgstr "cuando la inclinación = %n"
-
 #: commands-online.txt:7 commands-offline.txt:7
 #, fuzzy
 msgid "%m.list contains %s?"
 msgstr "%m.list contién %s"
+
+msgid "go to %m.location"
+msgstr "dir a %m.location"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -751,9 +726,6 @@ msgstr "Zarrar"
 msgid "Closed Hi-Hat"
 msgstr "Charles zarráu"
 
-msgid "Cloud"
-msgstr "Nube"
-
 msgid "Cloud data"
 msgstr "Datos de la nube"
 
@@ -810,9 +782,6 @@ msgstr "Disfraces"
 
 msgid "Costumes > 1"
 msgstr "Disfraces > 1"
-
-msgid "Costumes:"
-msgstr "Disfraces:"
 
 msgid "Could not retrieve new application from server."
 msgstr ""
@@ -1851,19 +1820,6 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Información tocante a les variables de nube</b><br>&nbsp;<br>Anguaño hai "
-"sofitu sólo pa númberos<br>Les sales de charra nun se permiten y se "
-"desaniciarán<br>Pa más información, <a href= target=>vea les Preguntes más "
-"frecuentes (FAQ) sobre los datos na nube</a>"
-
-msgid "Click  to try again or  to save"
-msgstr "Fai clic en  pa intentalo otra vuelta o bien  pa guardar"
-
 msgid "Eraser width:"
 msgstr ""
 
@@ -1981,8 +1937,39 @@ msgstr ""
 msgid "any"
 msgstr ""
 
-#~ msgid "when Stage clicked"
-#~ msgstr "cuando se faiga click nel escenariu"
+msgid "random position"
+msgstr ""
+
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "Asturianu"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list contién %s"
+
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "dir a %m.spriteOrMouse"
+
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "poner direición del motor %m.motorDirection"
+
+#~ msgid "set motor power %n"
+#~ msgstr "poner potencia del motor %n"
+
+#~ msgid "turn motor off"
+#~ msgstr "apagar el motor"
+
+#~ msgid "turn motor on"
+#~ msgstr "prender el motor"
+
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "prender el motor %n segundos"
+
+#~ msgid "when distance < %n"
+#~ msgstr "cuando la distancia seya < %n"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "cuando la inclinación = %n"
 
 # 86%
 #, fuzzy
@@ -1997,6 +1984,25 @@ msgstr ""
 
 #~ msgid "all motors"
 #~ msgstr "tolos motores"
+
+#~ msgid "Cloud"
+#~ msgstr "Nube"
+
+#~ msgid "Costumes:"
+#~ msgstr "Disfraces:"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Información tocante a les variables de nube</b><br>&nbsp;<br>Anguaño "
+#~ "hai sofitu sólo pa númberos<br>Les sales de charra nun se permiten y se "
+#~ "desaniciarán<br>Pa más información, <a href= target=>vea les Preguntes "
+#~ "más frecuentes (FAQ) sobre los datos na nube</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Fai clic en  pa intentalo otra vuelta o bien  pa guardar"
 
 #~ msgid "cleanup"
 #~ msgstr "llimpiar"

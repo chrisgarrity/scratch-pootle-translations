@@ -14,10 +14,6 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1438936149.000000\n"
 
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Slovenčina"
-
 msgid "%b and %b"
 msgstr "%b a %b"
 
@@ -26,9 +22,6 @@ msgstr "%b alebo %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute z %m.spriteOrStage"
-
-msgid "%m.list contains %s"
-msgstr "%m.list obsahuje %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp z %n"
@@ -151,9 +144,6 @@ msgstr "%n sekúnd sa presúvaj na pozíciu x:%n y:%n"
 
 msgid "go back %n layers"
 msgstr "späť o %n vrstiev"
-
-msgid "go to %m.spriteOrMouse"
-msgstr "choď na %m.spriteOrMouse"
 
 msgid "go to front"
 msgstr "choď do popredia"
@@ -485,33 +475,12 @@ msgstr "pozícia x"
 msgid "y position"
 msgstr "pozícia y"
 
-# 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "nastav smer motora na %m.motorDirection"
-
-# 77%
-msgid "set motor power %n"
-msgstr "nastav silu motora na %n"
-
-msgid "turn motor off"
-msgstr "vypni motor"
-
-msgid "turn motor on"
-msgstr "zapni motor"
-
-# 80%
-msgid "turn motor on for %n secs"
-msgstr "zapni motor na %n sekúnd"
-
-msgid "when distance < %n"
-msgstr "ak je vzdialenosť < %n"
-
-msgid "when tilt = %n"
-msgstr "ak sa sklon = %n"
-
 #: commands-online.txt:7 commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list obsahuje %s?"
+
+msgid "go to %m.location"
+msgstr "choď na %m.location"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -734,7 +703,6 @@ msgstr "Klarinet"
 msgid "Claves"
 msgstr "Claves"
 
-#, fuzzy
 msgid "clean up"
 msgstr "vyčisti"
 
@@ -752,9 +720,6 @@ msgstr "Zavrieť"
 
 msgid "Closed Hi-Hat"
 msgstr "Zatvorená hajtka"
-
-msgid "Cloud"
-msgstr "Cloud"
 
 msgid "Cloud data"
 msgstr "Cloud data"
@@ -812,9 +777,6 @@ msgstr "Kostýmy"
 
 msgid "Costumes > 1"
 msgstr "Kostýmov > 1"
-
-msgid "Costumes:"
-msgstr "Kostýmy:"
 
 msgid "Could not retrieve new application from server."
 msgstr "Nemôžem získať novú aplikáciu zo servera."
@@ -1065,9 +1027,6 @@ msgstr "Knižnica"
 
 msgid "light"
 msgstr "svetlo"
-
-msgid "limit reached"
-msgstr "limit dosiahnutý"
 
 msgid "Line"
 msgstr "Úsečka"
@@ -1375,9 +1334,6 @@ msgstr "premenuj premennú"
 msgid "Replace existing project"
 msgstr ""
 
-msgid "requires sign in"
-msgstr "vyžaduje prihlásenie"
-
 msgid "Reshape"
 msgstr "Zmena tvaru"
 
@@ -1459,9 +1415,6 @@ msgstr "Scenár"
 msgid "Scripts"
 msgstr "Scenáre"
 
-msgid "Scripts:"
-msgstr "Scenáre:"
-
 msgid "second"
 msgstr "sekunda"
 
@@ -1508,12 +1461,6 @@ msgstr "zdieľané"
 
 msgid "Shift:"
 msgstr "Shift:"
-
-msgid "show receivers"
-msgstr "ukáž príjemcu"
-
-msgid "show senders"
-msgstr "ukáž odosielateľa"
 
 msgid "show:"
 msgstr "ukázať:"
@@ -1604,9 +1551,6 @@ msgstr "Vybraná scéna:"
 
 msgid "Steel Drum"
 msgstr "Plechový bubon"
-
-msgid "stored on server"
-msgstr "uložené na serveri"
 
 msgid "Synth Lead"
 msgstr "Syntetizátor sólo"
@@ -1834,24 +1778,6 @@ msgstr "Tvoje Scratch meno"
 msgid "Your Scratch name is required"
 msgstr "Tvoje Scratch meno je povinné"
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Informácie o cloudových premenných</b><br>&nbsp;<br>Zatiaľ sú podporované "
-"len čísla<br>Chatovacie miestnosti nie sú povolené a budú zmazané<br>Pre "
-"viac informácií <a href= target=>pozri cloud data FAQ!</a>"
-
-msgid "Click  to try again or  to save"
-msgstr "Klikni  pre ďalší pokus alebo  pre uloženie"
-
-msgid "Eraser width:"
-msgstr "Šírka gumy:"
-
-msgid "Line width:"
-msgstr "Šírka úsečky:"
-
 # Offline editor only
 msgid "All Tips"
 msgstr "Všetky tipy"
@@ -1958,10 +1884,47 @@ msgid "any"
 msgstr "hociktorý"
 
 msgid "Record Project Video"
-msgstr ""
+msgstr "Nahraj video z projektu"
 
 msgid "Remove Background"
+msgstr "Odstráň pozadie"
+
+msgid "random position"
 msgstr ""
+
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "Slovenčina"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list obsahuje %s"
+
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "choď na %m.spriteOrMouse"
+
+# 89%
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "nastav smer motora na %m.motorDirection"
+
+# 77%
+#~ msgid "set motor power %n"
+#~ msgstr "nastav silu motora na %n"
+
+#~ msgid "turn motor off"
+#~ msgstr "vypni motor"
+
+#~ msgid "turn motor on"
+#~ msgstr "zapni motor"
+
+# 80%
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "zapni motor na %n sekúnd"
+
+#~ msgid "when distance < %n"
+#~ msgstr "ak je vzdialenosť < %n"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "ak sa sklon = %n"
 
 # 89%
 # 86%
@@ -2007,6 +1970,12 @@ msgstr ""
 #~ msgid "Cannot Add"
 #~ msgstr "Namôžem pridať"
 
+#~ msgid "Cloud"
+#~ msgstr "Cloud"
+
+#~ msgid "Costumes:"
+#~ msgstr "Kostýmy:"
+
 #~ msgid "Downloading new version"
 #~ msgstr "Sťahujem novú verziu"
 
@@ -2032,6 +2001,9 @@ msgstr ""
 #~ msgid "lights"
 #~ msgstr "svetlá"
 
+#~ msgid "limit reached"
+#~ msgstr "limit dosiahnutý"
+
 #~ msgid "motor"
 #~ msgstr "motor"
 
@@ -2040,6 +2012,39 @@ msgstr ""
 
 #~ msgid "motor B"
 #~ msgstr "motor B"
+
+#~ msgid "requires sign in"
+#~ msgstr "vyžaduje prihlásenie"
+
+#~ msgid "Scripts:"
+#~ msgstr "Scenáre:"
+
+#~ msgid "show receivers"
+#~ msgstr "ukáž príjemcu"
+
+#~ msgid "show senders"
+#~ msgstr "ukáž odosielateľa"
+
+#~ msgid "stored on server"
+#~ msgstr "uložené na serveri"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Informácie o cloudových premenných</b><br>&nbsp;<br>Zatiaľ sú "
+#~ "podporované len čísla<br>Chatovacie miestnosti nie sú povolené a budú "
+#~ "zmazané<br>Pre viac informácií <a href= target=>pozri cloud data FAQ!</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Klikni  pre ďalší pokus alebo  pre uloženie"
+
+#~ msgid "Eraser width:"
+#~ msgstr "Šírka gumy:"
+
+#~ msgid "Line width:"
+#~ msgstr "Šírka úsečky:"
 
 #~ msgid "cleanup"
 #~ msgstr "vyčisti"

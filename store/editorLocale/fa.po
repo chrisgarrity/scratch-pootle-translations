@@ -14,10 +14,6 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1423417966.000000\n"
 
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "فارسی"
-
 msgid "%b and %b"
 msgstr "%b و %b"
 
@@ -26,9 +22,6 @@ msgstr "%b یا %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute از %m.spriteOrStage"
-
-msgid "%m.list contains %s"
-msgstr "%m.لیست حاوی %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp از %n"
@@ -151,9 +144,6 @@ msgstr "n% ثانیه آهسته برو به ایکس:%n وای:%n"
 
 msgid "go back %n layers"
 msgstr "لایه به عقب %n برو"
-
-msgid "go to %m.spriteOrMouse"
-msgstr " برو به %m.spriteOrMouse برو به"
 
 msgid "go to front"
 msgstr "برو به جلو"
@@ -468,6 +458,9 @@ msgstr "تا زمانی که %m.broadcast را دریافت کنم"
 msgid "when I start as a clone"
 msgstr "تا زمانی که به عنوان یک تکراری شروع کنم"
 
+msgid "when Stage clicked"
+msgstr "وقتی صحنه کلیک شد"
+
 msgid "when this sprite clicked"
 msgstr "تا زمانی که این شکلک کلیک شود"
 
@@ -480,34 +473,13 @@ msgstr "موقعیت x"
 msgid "y position"
 msgstr "موقعیت y"
 
-# 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "راستای حرکت موتور را %m.motorDirection قرار بده"
-
-# 77%
-msgid "set motor power %n"
-msgstr "قدرت موتور را %n قرار بده"
-
-msgid "turn motor off"
-msgstr "موتور را خاموش کن"
-
-msgid "turn motor on"
-msgstr "موتور را روشن کن"
-
-# 80%
-msgid "turn motor on for %n secs"
-msgstr "موتور را برای %n ثانیه روشن کن"
-
-msgid "when distance < %n"
-msgstr "تا زمانی که فاصله < %n شود"
-
-msgid "when tilt = %n"
-msgstr "تا زمانی که مقدار کج شوندگی = %n شود"
-
 #: commands-online.txt:7 commands-offline.txt:7
 #, fuzzy
 msgid "%m.list contains %s?"
 msgstr "%m.لیست حاوی %s"
+
+msgid "go to %m.location"
+msgstr " برو به %m.location برو به"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -753,9 +725,6 @@ msgstr "بستن"
 msgid "Closed Hi-Hat"
 msgstr "Closed Hi-Hat"
 
-msgid "Cloud"
-msgstr "ابر"
-
 msgid "Cloud data"
 msgstr "داده ابری"
 
@@ -811,11 +780,6 @@ msgstr "لباس ها"
 
 msgid "Costumes > 1"
 msgstr "لباس ها > ۱"
-
-# 75%
-# 88%
-msgid "Costumes:"
-msgstr "لباس ها:"
 
 msgid "Could not retrieve new application from server."
 msgstr "نتوانستم از سرور برنامه جدید را بگیرم."
@@ -1056,9 +1020,6 @@ msgstr "کتابخانه"
 
 msgid "light"
 msgstr "نور"
-
-msgid "limit reached"
-msgstr "به حدش رسید"
 
 msgid "Line"
 msgstr "خط"
@@ -1358,9 +1319,6 @@ msgstr "تغییرنام"
 msgid "rename variable"
 msgstr "تغییر نام متغیر"
 
-msgid "requires sign in"
-msgstr "باید وارد شوید"
-
 msgid "Reshape"
 msgstr "تغییر شکل"
 
@@ -1439,9 +1397,6 @@ msgstr "اسکریپت"
 msgid "Scripts"
 msgstr "اسکریپت ها"
 
-msgid "Scripts:"
-msgstr "اسکریپت ها:"
-
 msgid "second"
 msgstr "دومی"
 
@@ -1480,12 +1435,6 @@ msgstr "اشتراک گذاری شده"
 
 msgid "Shift:"
 msgstr "انتقال:"
-
-msgid "show receivers"
-msgstr "نمایش دریافت کنندگان"
-
-msgid "show senders"
-msgstr "نمایش فرستندگان"
 
 msgid "show:"
 msgstr "نمایش:"
@@ -1576,9 +1525,6 @@ msgstr "صحنه نمایش انتخاب شده:"
 
 msgid "Steel Drum"
 msgstr "Steel Drum"
-
-msgid "stored on server"
-msgstr "ذخیره شده بر روی سرور"
 
 msgid "Synth Lead"
 msgstr "Synth Lead"
@@ -1786,24 +1732,6 @@ msgstr "نام Scratch شما"
 msgid "Your Scratch name is required"
 msgstr "نام Scratch لازم است"
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>اطلاعات درباره متغیر های ابری</b><br>&nbsp;<br>در حال حاضر، فقط اعداد "
-"پشتیبانی می شوند<br>پیام رسان ها اجازه فعالیت ندارند، و پاک می شوند<br>برای "
-"اطلاعات بیشتر<a href= target=>پرسش و پاسخ داده های ابری را ببینید</a>"
-
-msgid "Click  to try again or  to save"
-msgstr "   را کلیک کنید برای سعی مجدد یا  برای ذخیره سازی"
-
-msgid "Eraser width:"
-msgstr "عرض پاک کن:"
-
-msgid "Line width:"
-msgstr "عرض خط:"
-
 # Offline editor only
 msgid "All Tips"
 msgstr ""
@@ -1921,8 +1849,42 @@ msgstr ""
 msgid "any"
 msgstr ""
 
-#~ msgid "when Stage clicked"
-#~ msgstr "وقتی صحنه کلیک شد"
+msgid "random position"
+msgstr ""
+
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "فارسی"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.لیست حاوی %s"
+
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr " برو به %m.spriteOrMouse برو به"
+
+# 89%
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "راستای حرکت موتور را %m.motorDirection قرار بده"
+
+# 77%
+#~ msgid "set motor power %n"
+#~ msgstr "قدرت موتور را %n قرار بده"
+
+#~ msgid "turn motor off"
+#~ msgstr "موتور را خاموش کن"
+
+#~ msgid "turn motor on"
+#~ msgstr "موتور را روشن کن"
+
+# 80%
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "موتور را برای %n ثانیه روشن کن"
+
+#~ msgid "when distance < %n"
+#~ msgstr "تا زمانی که فاصله < %n شود"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "تا زمانی که مقدار کج شوندگی = %n شود"
 
 # 89%
 # 86%
@@ -1969,8 +1931,16 @@ msgstr ""
 #~ msgid "Cannot Add"
 #~ msgstr "نمی توان اضافه کرد"
 
+#~ msgid "Cloud"
+#~ msgstr "ابر"
+
 #~ msgid "Cloud variable (stored on server)"
 #~ msgstr "متغیر ابری (ذخیره شده در سرور)"
+
+# 75%
+# 88%
+#~ msgid "Costumes:"
+#~ msgstr "لباس ها:"
 
 #~ msgid "Downloading new version"
 #~ msgstr "بارگیری ورژن جدید"
@@ -2006,6 +1976,9 @@ msgstr ""
 #~ msgid "lights"
 #~ msgstr "نورها"
 
+#~ msgid "limit reached"
+#~ msgstr "به حدش رسید"
+
 #~ msgid "motor"
 #~ msgstr "موتور"
 
@@ -2024,8 +1997,14 @@ msgstr ""
 #~ msgid "Replace existing project"
 #~ msgstr "جایگزینی روی پروژه ای که هست"
 
+#~ msgid "requires sign in"
+#~ msgstr "باید وارد شوید"
+
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "ویرایشگر آفلاین Scratch 2.0"
+
+#~ msgid "Scripts:"
+#~ msgstr "اسکریپت ها:"
 
 #~ msgid ""
 #~ "See the Tips window (on the right) to install the plug-in and get the "
@@ -2035,6 +2014,15 @@ msgstr ""
 
 #~ msgid "Share to Scratch website"
 #~ msgstr "اشتراک گذاری روی وبسایت Scratch"
+
+#~ msgid "show receivers"
+#~ msgstr "نمایش دریافت کنندگان"
+
+#~ msgid "show senders"
+#~ msgstr "نمایش فرستندگان"
+
+#~ msgid "stored on server"
+#~ msgstr "ذخیره شده بر روی سرور"
 
 #~ msgid "The name is already in use."
 #~ msgstr "این نام قبلا استفاده شده است."
@@ -2057,6 +2045,25 @@ msgstr ""
 
 #~ msgid "world"
 #~ msgstr "جهان"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>اطلاعات درباره متغیر های ابری</b><br>&nbsp;<br>در حال حاضر، فقط اعداد "
+#~ "پشتیبانی می شوند<br>پیام رسان ها اجازه فعالیت ندارند، و پاک می "
+#~ "شوند<br>برای اطلاعات بیشتر<a href= target=>پرسش و پاسخ داده های ابری را "
+#~ "ببینید</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "   را کلیک کنید برای سعی مجدد یا  برای ذخیره سازی"
+
+#~ msgid "Eraser width:"
+#~ msgstr "عرض پاک کن:"
+
+#~ msgid "Line width:"
+#~ msgstr "عرض خط:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "یک ورودی بولین (صفر یا یک) اضافه کنید:"

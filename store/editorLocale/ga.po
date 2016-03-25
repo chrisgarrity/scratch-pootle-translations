@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Scratch 2.0 Block\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-10-16 00:06+0000\n"
+"PO-Revision-Date: 2016-03-13 17:25+0000\n"
 "Last-Translator: Kevin <kscanne@gmail.com>\n"
 "Language-Team: Irish\n"
 "Language: ga\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=5; plural=n==1 ? 0 : n==2 ? 1 : (n>2 && n<7) ? 2 :"
 "(n>6 && n<11) ? 3 : 4;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1444954009.000000\n"
+"X-POOTLE-MTIME: 1457889917.000000\n"
 
 # The language name as it will appear in the language menu
 # ###########################################
@@ -473,7 +473,7 @@ msgid "when I start as a clone"
 msgstr "nuair a thosaím mar chóip"
 
 msgid "when Stage clicked"
-msgstr ""
+msgstr "nuair a chliceáiltear an stáitse"
 
 msgid "when this sprite clicked"
 msgstr "nuair a chliceáiltear an sprid seo"
@@ -511,6 +511,9 @@ msgstr "nuair atá claon = %n"
 #: commands-online.txt:7 commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list agus %s ann?"
+
+msgid "go to %m.location"
+msgstr "téigh go %m.location"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -1198,7 +1201,7 @@ msgid "normal readout"
 msgstr "gnáth-asléamh"
 
 msgid "not ="
-msgstr ""
+msgstr "ní ionann"
 
 msgid "Not saved; network or server problem."
 msgstr "Níor sábháladh é; fadhb leis an líonra nó leis an bhfreastalaí."
@@ -1426,7 +1429,7 @@ msgid "Scratch Updater"
 msgstr "Nuashonraitheoir Scratch"
 
 msgid "Scratch 2.0 Offline Editor"
-msgstr ""
+msgstr "Eagarthóir As Líne Scratch 2.0"
 
 msgid "Script"
 msgstr "Script"
@@ -1447,6 +1450,8 @@ msgid ""
 "See the Tips window (on the right) to install the plug-in and get the "
 "extension working."
 msgstr ""
+"Féach an fhuinneog Leideanna (ar dheis) chun an breiseán a shuiteáil agus an "
+"eisínteacht a chur i bhfeidhm."
 
 msgid "Select"
 msgstr "Roghnaigh"
@@ -1476,7 +1481,7 @@ msgid "Share to website"
 msgstr "Comhroinn ar an suíomh Gréasáin"
 
 msgid "Share to Scratch website"
-msgstr ""
+msgstr "Comhroinn ar shuíomh Gréasáin Scratch"
 
 msgid "shared"
 msgstr "comhroinnte"
@@ -1793,9 +1798,13 @@ msgid ""
 "numbers are supported<br>Chat rooms are not allowed, and will be "
 "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
 msgstr ""
+"<b>Tuilleadh eolais faoi Néalathróga</b><br>&nbsp;<br>Faoi láthair, ní "
+"cheadaímid ach uimhreacha<br>Níl seomraí comhrá ceadaithe, agus scriosfar "
+"iad<br>Chun tuilleadh eolais a fháil, féach <a href= target=>ceisteanna "
+"coitianta faoi néalsonraí</a>!"
 
 msgid "Click  to try again or  to save"
-msgstr ""
+msgstr "Cliceáil chun triail eile a bhaint as nó sábháil"
 
 # 92%
 msgid "Eraser width:"
@@ -1910,13 +1919,13 @@ msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr "Uasluchtaíodh do thionscadal go scratch.mit.edu"
 
 msgid "Record Project Video"
-msgstr ""
+msgstr "Taifead Físeán don Tionscadal"
 
 msgid "Remove Background"
-msgstr ""
+msgstr "Bain an Cúlra"
 
 msgid "any"
-msgstr ""
+msgstr "ceann ar bith"
 
 # 86%
 #, fuzzy

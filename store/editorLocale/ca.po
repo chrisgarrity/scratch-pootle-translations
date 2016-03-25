@@ -14,10 +14,6 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1429105772.000000\n"
 
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Català"
-
 msgid "%b and %b"
 msgstr "%b i %b"
 
@@ -26,9 +22,6 @@ msgstr "%b o %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute de %m.spriteOrStage"
-
-msgid "%m.list contains %s"
-msgstr "%m.list conté %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp de %n"
@@ -152,9 +145,6 @@ msgstr "llisca en %n segons fins a x:%n y:%n"
 
 msgid "go back %n layers"
 msgstr "vés %n capes darrera"
-
-msgid "go to %m.spriteOrMouse"
-msgstr "vés a %m.spriteOrMouse"
 
 msgid "go to front"
 msgstr "vés al front"
@@ -476,6 +466,9 @@ msgstr "quan rebi %m.broadcast"
 msgid "when I start as a clone"
 msgstr "quan una còpia meva comenci"
 
+msgid "when Stage clicked"
+msgstr "quan es cliqui l'escenari"
+
 msgid "when this sprite clicked"
 msgstr "quan es cliqui aquest personatge"
 
@@ -488,34 +481,12 @@ msgstr "posició x"
 msgid "y position"
 msgstr "posició y"
 
-# 89%
-# 100%
-msgid "set motor direction %m.motorDirection"
-msgstr "direcció del motor %m.motorDirection"
-
-# 77%
-# 100%
-msgid "set motor power %n"
-msgstr "potència del motor a %n"
-
-msgid "turn motor off"
-msgstr "desactiva el motor"
-
-msgid "turn motor on"
-msgstr "activa el motor"
-
-msgid "turn motor on for %n secs"
-msgstr "activa el motor %n segons"
-
-msgid "when distance < %n"
-msgstr "quan distància < %n"
-
-msgid "when tilt = %n"
-msgstr "quan inclinació = %n"
-
 #: commands-online.txt:7 commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list conté %s?"
+
+msgid "go to %m.location"
+msgstr "vés a %m.location"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -771,9 +742,6 @@ msgstr "Tanca"
 msgid "Closed Hi-Hat"
 msgstr "Xarles tancat"
 
-msgid "Cloud"
-msgstr "Núvol"
-
 msgid "Cloud data"
 msgstr "Dades al núvol"
 
@@ -833,9 +801,6 @@ msgstr "Vestits"
 
 msgid "Costumes > 1"
 msgstr "Vestits > 1"
-
-msgid "Costumes:"
-msgstr "Vestits:"
 
 msgid "Could not retrieve new application from server."
 msgstr "No s'ha pogut recuperar la nova aplicació des del servidor."
@@ -1099,9 +1064,6 @@ msgstr "Biblioteca"
 
 msgid "light"
 msgstr "llum"
-
-msgid "limit reached"
-msgstr "límit assolit"
 
 msgid "Line"
 msgstr "Línia"
@@ -1409,9 +1371,6 @@ msgstr "canvia el nom de la variable"
 msgid "Replace existing project"
 msgstr ""
 
-msgid "requires sign in"
-msgstr "requereix iniciar la sessió"
-
 msgid "Reshape"
 msgstr "Redibuixa"
 
@@ -1494,10 +1453,6 @@ msgstr "Programa"
 msgid "Scripts"
 msgstr "Programes"
 
-# 87%
-msgid "Scripts:"
-msgstr "Programes:"
-
 msgid "second"
 msgstr "segon"
 
@@ -1540,12 +1495,6 @@ msgstr "compartit"
 
 msgid "Shift:"
 msgstr "Tecla majúscules:"
-
-msgid "show receivers"
-msgstr "mostra els receptors"
-
-msgid "show senders"
-msgstr "mostra els emissors"
 
 msgid "show:"
 msgstr "mostra:"
@@ -1637,9 +1586,6 @@ msgstr "Escenari seleccionat:"
 
 msgid "Steel Drum"
 msgstr "Tambor d'acer"
-
-msgid "stored on server"
-msgstr "desat al servidor"
 
 msgid "Synth Lead"
 msgstr "Sintetitzador solista"
@@ -1873,84 +1819,65 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Informació sobre les variables al núvol</b><br>&nbsp;<br>Actualment només "
-"s'accepten números<br>Els xats no estan permesos i s'eliminaran<br>Si voleu "
-"més informació, <a href= target=>vegeu les Preguntes Més Freqüents sobre les "
-"dades al núvol!</a>"
-
-msgid "Click  to try again or  to save"
-msgstr "Fes clic a  per tornar-ho a intentar o bé  per desar"
-
-msgid "Eraser width:"
-msgstr "Ample de l'esborrador:"
-
-msgid "Line width:"
-msgstr "Ample de línia:"
-
 # Offline editor only
 msgid "All Tips"
-msgstr ""
+msgstr "Tots els consells"
 
 # Offline editor only
 msgid ""
 "An updated version of the Scratch offline editor is available on the Scratch "
 "website."
 msgstr ""
+"Està disponible una nova versió actualitzada de l'editor Scratch sense "
+"connexió al lloc web de Scratch."
 
 # Offline editor only
-#, fuzzy
 msgid "Could not retrieve update location from server."
-msgstr "No s'ha pogut recuperar la nova aplicació des del servidor."
+msgstr "No es pot recuperar la localització de l'actualització del servidor."
 
 # Offline editor only
-#, fuzzy
 msgid "Could not retrieve version information from server."
-msgstr "No s'ha pogut recuperar la nova aplicació des del servidor."
+msgstr "No es pot recuperar la informació de la versió del servidor."
 
 # Offline editor only
 msgid "Could not write file:"
-msgstr ""
+msgstr "No s'ha pogut escriure al fitxer:"
 
 # Offline editor only
 msgid "Downloading new version..."
-msgstr ""
+msgstr "S'està descarregant la nova versió..."
 
 # Offline editor only
 msgid "Error saving project"
-msgstr ""
+msgstr "Error en desar el projecte"
 
 # Offline editor only
 msgid "Force help file update"
-msgstr ""
+msgstr "Força l'actualització del fitxer d'ajuda"
 
 # Offline editor only
 msgid "Import experimental HTTP extension"
-msgstr ""
+msgstr "Importa l'extensió HTTP experimental"
 
 # Offline editor only
 msgid "Loading help files..."
-msgstr ""
+msgstr "S'estan carregant els fitxers d'ajuda..."
 
 # Offline editor only
 msgid "Manual Update Available"
-msgstr ""
+msgstr "Hi ha disponible una actualització manual"
 
 # Offline editor only
 msgid "Open Project"
-msgstr ""
+msgstr "Obre un projecte"
 
 # Offline editor only
 msgid "Please visit the download page to install it."
-msgstr ""
+msgstr "Visiteu la pàgina de descarregues per instal·lar-lo."
 
 # Offline editor only
 msgid "Quit"
-msgstr ""
+msgstr "Surt"
 
 # Offline editor only
 msgid "Replace existing project?"
@@ -2006,8 +1933,43 @@ msgstr ""
 msgid "Remove Background"
 msgstr ""
 
-#~ msgid "when Stage clicked"
-#~ msgstr "quan es cliqui l'escenari"
+msgid "random position"
+msgstr ""
+
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "Català"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list conté %s"
+
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "vés a %m.spriteOrMouse"
+
+# 89%
+# 100%
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "direcció del motor %m.motorDirection"
+
+# 77%
+# 100%
+#~ msgid "set motor power %n"
+#~ msgstr "potència del motor a %n"
+
+#~ msgid "turn motor off"
+#~ msgstr "desactiva el motor"
+
+#~ msgid "turn motor on"
+#~ msgstr "activa el motor"
+
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "activa el motor %n segons"
+
+#~ msgid "when distance < %n"
+#~ msgstr "quan distància < %n"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "quan inclinació = %n"
 
 # 89%
 # 100%
@@ -2074,6 +2036,12 @@ msgstr ""
 #~ msgid "all motors"
 #~ msgstr "tots els motors"
 
+#~ msgid "Cloud"
+#~ msgstr "Núvol"
+
+#~ msgid "Costumes:"
+#~ msgstr "Vestits:"
+
 #~ msgid "everything"
 #~ msgstr "tot"
 
@@ -2086,6 +2054,9 @@ msgstr ""
 # 83%
 #~ msgid "lights"
 #~ msgstr "llums"
+
+#~ msgid "limit reached"
+#~ msgstr "límit assolit"
 
 #~ msgid "motor"
 #~ msgstr "motor"
@@ -2102,12 +2073,47 @@ msgstr ""
 #~ msgid "Remove extension blocks"
 #~ msgstr "Treure els blocs d'extensió"
 
+#~ msgid "requires sign in"
+#~ msgstr "requereix iniciar la sessió"
+
+# 87%
+#~ msgid "Scripts:"
+#~ msgstr "Programes:"
+
 #~ msgid ""
 #~ "See the Tips window (on the right) to install the plug-in and get the "
 #~ "extension working."
 #~ msgstr ""
 #~ "Mira la finestra d'ajuda (de la dreta) per instal·lar el connector i fer "
 #~ "que l'extensió funcioni."
+
+#~ msgid "show receivers"
+#~ msgstr "mostra els receptors"
+
+#~ msgid "show senders"
+#~ msgstr "mostra els emissors"
+
+#~ msgid "stored on server"
+#~ msgstr "desat al servidor"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Informació sobre les variables al núvol</b><br>&nbsp;<br>Actualment "
+#~ "només s'accepten números<br>Els xats no estan permesos i "
+#~ "s'eliminaran<br>Si voleu més informació, <a href= target=>vegeu les "
+#~ "Preguntes Més Freqüents sobre les dades al núvol!</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Fes clic a  per tornar-ho a intentar o bé  per desar"
+
+#~ msgid "Eraser width:"
+#~ msgstr "Ample de l'esborrador:"
+
+#~ msgid "Line width:"
+#~ msgstr "Ample de línia:"
 
 #~ msgid "cleanup"
 #~ msgstr "neteja"

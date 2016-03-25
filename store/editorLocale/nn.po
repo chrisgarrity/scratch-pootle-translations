@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2016-02-18 19:05+0000\n"
+"PO-Revision-Date: 2016-03-11 23:04+0000\n"
 "Last-Translator: Karl Ove <karl@huftis.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nn\n"
@@ -12,11 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1455822352.000000\n"
-
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Norsk (nynorsk)"
+"X-POOTLE-MTIME: 1457737456.000000\n"
 
 msgid "%b and %b"
 msgstr "%b og %b"
@@ -26,9 +22,6 @@ msgstr "%b eller %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute av %m.spriteOrStage"
-
-msgid "%m.list contains %s"
-msgstr "%m.list inneheld %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp av %n"
@@ -150,10 +143,7 @@ msgid "glide %n secs to x:%n y:%n"
 msgstr "gli %n sekund til x:%n y:%n"
 
 msgid "go back %n layers"
-msgstr "flytt nedover %n lag"
-
-msgid "go to %m.spriteOrMouse"
-msgstr "gå til %m.spriteOrMouse"
+msgstr "flytt bakover %n lag"
 
 msgid "go to front"
 msgstr "legg øvst"
@@ -485,33 +475,38 @@ msgstr "x-posisjon"
 msgid "y position"
 msgstr "y-posisjon"
 
-# 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "set motorretning til %m.motorDirection"
-
-# 77%
-msgid "set motor power %n"
-msgstr "set motorstyrke til %n"
-
-msgid "turn motor off"
-msgstr "slå motoren av"
-
-msgid "turn motor on"
-msgstr "slå motoren på"
-
-# 80%
-msgid "turn motor on for %n secs"
-msgstr "slå motoren på i %n sekund"
-
-msgid "when distance < %n"
-msgstr "når avstanden < %n"
-
-msgid "when tilt = %n"
-msgstr "når hellinga er %n"
-
 #: commands-online.txt:7 commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list inneheld %s?"
+
+msgid "go to %m.location"
+msgstr "gå til %m.location"
+
+msgid "10 ^"
+msgstr "10^"
+
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be "
+"removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank"
+"\">see the cloud data FAQ!</a>"
+msgstr ""
+"<b>Informasjon om nettdata</b><br>&nbsp; <br>Inntil vidare er det berre "
+"mogleg å lagra tal.<br>Prateromsfunksjonar er ikkje tillatne, og vert fjerna."
+"<br>Sjå <a href=\"/help/faq/#clouddata\" target=\"_blank\">ofte stilte "
+"spørsmål</a> for meir informasjon."
+
+msgid "A connected"
+msgstr "A tilkopla"
+
+msgid "a copy of the project file on your computer."
+msgstr "ein kopi av prosjektfila på datamaskina."
+
+msgid "A newer version of Scratch is available"
+msgstr "Ein nyare versjon av Scratch er tilgjengeleg"
+
+msgid "About"
+msgstr "Info"
 
 msgid "About LEGO WeDo extension..."
 msgstr ""
@@ -519,8 +514,33 @@ msgstr ""
 msgid "About PicoBoard extension..."
 msgstr ""
 
+msgid "abs"
+msgstr "abs"
+
+msgid "Account settings"
+msgstr "Innstillingar"
+
+msgid "acos"
+msgstr "arccos"
+
+msgid "Add"
+msgstr "Legg til"
+
+msgid "Add an Extension"
+msgstr "Hent tilleggsfunksjon"
+
+# 90%
+msgid "Add boolean input:"
+msgstr "Logisk verdi inn:"
+
+msgid "add comment"
+msgstr "skriv kommentar"
+
 msgid "add comment here..."
 msgstr ""
+
+msgid "Add label text:"
+msgstr "Tekst i klossen:"
 
 # 89%
 msgid "Add number input:"
@@ -538,9 +558,6 @@ msgstr "Alt"
 
 msgid "all around"
 msgstr "roter fritt"
-
-msgid "all motors"
-msgstr "alle motorar"
 
 msgid "Animal"
 msgstr "Dyr"
@@ -654,9 +671,6 @@ msgstr "kan dragast ved programkøyring:"
 msgid "Cancel"
 msgstr "Avbryt"
 
-msgid "Cannot Add"
-msgstr "Kan ikkje leggja til"
-
 msgid "Cannot Delete"
 msgstr "Kan ikkje sletta"
 
@@ -725,14 +739,8 @@ msgstr "Lukk"
 msgid "Closed Hi-Hat"
 msgstr "Lukka hihat"
 
-msgid "Cloud"
-msgstr "Nett"
-
 msgid "Cloud data"
 msgstr "Nettdata"
-
-msgid "Cloud variable (stored on server)"
-msgstr "Nettvariabel (lagra på Scratch-nettstaden)"
 
 msgid "color"
 msgstr "farge"
@@ -787,10 +795,6 @@ msgstr "Drakter"
 
 msgid "Costumes > 1"
 msgstr "Drakter > 1"
-
-# 88%
-msgid "Costumes:"
-msgstr "Drakter:"
 
 msgid "Could not retrieve new application from server."
 msgstr "Klarte ikkje henta nytt program frå tenaren."
@@ -851,9 +855,6 @@ msgstr "Last ned"
 msgid "Download to your computer"
 msgstr "Last ned til maskina"
 
-msgid "Downloading new version"
-msgstr "Lastar ned ny versjon"
-
 msgid "duplicate"
 msgstr "lag ein kopi"
 
@@ -890,14 +891,8 @@ msgstr "Elektronisk"
 msgid "Ellipse"
 msgstr "Ellipse"
 
-msgid "empty"
-msgstr "tom"
-
 msgid "Erase"
 msgstr "Slett"
-
-msgid "Erase all"
-msgstr "Slett alt"
 
 msgid "Eraser width"
 msgstr "Viskelêrbreidd"
@@ -905,26 +900,14 @@ msgstr "Viskelêrbreidd"
 msgid "Error!"
 msgstr "Feil"
 
-msgid "everything"
-msgstr "alt"
-
 msgid "export"
 msgstr "eksporter"
-
-msgid "Extension Library"
-msgstr "Tilleggsfunksjonar"
-
-msgid "Extension Problem"
-msgstr "Problem med tilleggsfunksjonen"
 
 msgid "fade in"
 msgstr "inntoning"
 
 msgid "fade out"
 msgstr "uttoning"
-
-msgid "false"
-msgstr "ikkje oppfylt"
 
 msgid "Fantasy"
 msgstr "Fantasi"
@@ -996,15 +979,6 @@ msgstr "Maskinvare"
 msgid "help"
 msgstr "hjelp"
 
-msgid "Hello!"
-msgstr "Hei!"
-
-msgid "Hmm..."
-msgstr "Hmm …"
-
-msgid "hello"
-msgstr "hei"
-
 msgid "High C"
 msgstr "Høg C"
 
@@ -1062,13 +1036,6 @@ msgstr "Bibliotek"
 
 msgid "light"
 msgstr "lys"
-
-# 83%
-msgid "lights"
-msgstr "lys"
-
-msgid "limit reached"
-msgstr "grensa nådd"
 
 msgid "Line"
 msgstr "Linje"
@@ -1143,15 +1110,6 @@ msgstr "mosaikk"
 
 msgid "motion"
 msgstr "rørsle"
-
-msgid "motor"
-msgstr "motor"
-
-msgid "motor A"
-msgstr "motor A"
-
-msgid "motor B"
-msgstr "motor B"
 
 msgid "mouse-pointer"
 msgstr "musepeikar"
@@ -1228,9 +1186,6 @@ msgstr "Ingen rørsleklossar"
 
 msgid "normal readout"
 msgstr "vanleg vising"
-
-msgid "not ="
-msgstr "ikkje ="
 
 msgid "Not saved; network or server problem."
 msgstr "Ikkje lagra (nettverks- eller tenarproblem)."
@@ -1386,20 +1341,11 @@ msgstr "Remiks"
 msgid "Remixing..."
 msgstr "Remiksar …"
 
-msgid "Remove extension blocks"
-msgstr "Fjern tilleggsfunksjon"
-
 msgid "Rename"
 msgstr "Endra namn"
 
 msgid "rename variable"
 msgstr "gje nytt namn til variabel"
-
-msgid "Replace existing project"
-msgstr "Erstatt det gamle prosjektet"
-
-msgid "requires sign in"
-msgstr "krev innlogging"
 
 # Noderedigering av vektorfigur.
 msgid "Reshape"
@@ -1475,9 +1421,6 @@ msgstr "Saksofon"
 msgid "Scratch Updater"
 msgstr "Oppdateringsfunksjon for Scratch"
 
-msgid "Scratch 2.0 Offline Editor"
-msgstr "Scratch 2.0 for maskiner utan nettsamband"
-
 # 85%
 msgid "Script"
 msgstr "Skript"
@@ -1485,20 +1428,11 @@ msgstr "Skript"
 msgid "Scripts"
 msgstr "Skript"
 
-# 87%
-msgid "Scripts:"
-msgstr "Skript:"
-
 msgid "second"
 msgstr "sekund"
 
 msgid "See project page"
 msgstr "Sjå prosjektsida"
-
-msgid ""
-"See the Tips window (on the right) to install the plug-in and get the "
-"extension working."
-msgstr "Sjå tips (til høgre) for å få tilleggsfunksjonen til å verka."
 
 # I vektorgrafikk brukar ein dette til å velja eit objekt, men i punktgrafikk til å merkja eit område. Denne omsettinga er eit kompromiss.
 msgid "Select"
@@ -1529,21 +1463,12 @@ msgstr "Legg ut"
 msgid "Share to website"
 msgstr "Legg ut på nettsida"
 
-msgid "Share to Scratch website"
-msgstr "Legg ut på Scratch-nettstaden"
-
 msgid "shared"
 msgstr "lagt ut"
 
 # Tasten «Shift».
 msgid "Shift:"
 msgstr "Shift:"
-
-msgid "show receivers"
-msgstr "vis mottakarar"
-
-msgid "show senders"
-msgstr "vis sendarar"
 
 msgid "show:"
 msgstr "vis:"
@@ -1640,9 +1565,6 @@ msgstr "Scene vald:"
 msgid "Steel Drum"
 msgstr "Oljefat"
 
-msgid "stored on server"
-msgstr "lagra på nett"
-
 msgid "Synth Lead"
 msgstr "Synthesizer (lead)"
 
@@ -1664,24 +1586,11 @@ msgstr "Tekst"
 msgid "that way"
 msgstr "mot klokka"
 
-msgid "The name is already in use."
-msgstr "Namnet finst frå før."
-
-msgid ""
-"The project failed to load and Scratch Team has been notified. Press OK to "
-"leave this page."
-msgstr ""
-"Klarte ikkje lesa inn prosjektet. Scratch-administratorane er varsla om "
-"problemet. Trykk «OK» for å gå vidare."
-
 msgid "Theme"
 msgstr "Tema"
 
 msgid "Things"
 msgstr "Ting"
-
-msgid "thing"
-msgstr "ting"
 
 msgid "This is the current version."
 msgstr "Dette er siste versjon."
@@ -1729,9 +1638,6 @@ msgstr "Triangel"
 
 msgid "Trombone"
 msgstr "Trombone"
-
-msgid "true"
-msgstr "oppfylt"
 
 # 90%
 msgid "Turbo mode"
@@ -1845,9 +1751,6 @@ msgstr "Vil du lagra? Trykk «Remiks»."
 msgid "Which column do you want to import"
 msgstr "Kven av kolonnane vil du importera"
 
-msgid "What's your name?"
-msgstr "Kva heiter du?"
-
 msgid "whirl"
 msgstr "kvervel"
 
@@ -1856,9 +1759,6 @@ msgstr "Trekloss"
 
 msgid "Wooden Flute"
 msgstr "Trefløyte"
-
-msgid "world"
-msgstr "verda"
 
 msgid "year"
 msgstr "år"
@@ -1875,24 +1775,6 @@ msgstr "Scratch-namnet ditt"
 
 msgid "Your Scratch name is required"
 msgstr "Du må skriva inn Scratch-namnet ditt"
-
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Informasjon om nettdata</b><br>&nbsp; <br>Inntil vidare er det berre "
-"mogleg å lagra tal.<br>Prateromsfunksjonar er ikkje tillatne, og vert fjerna."
-"<br>Sjå <a href= target=>ofte stilte spørsmål</a> for meir informasjon."
-
-msgid "Click  to try again or  to save"
-msgstr "Trykk for å prøva på nytt eller for å lagra"
-
-msgid "Eraser width:"
-msgstr "Viskelêrbreidd:"
-
-msgid "Line width:"
-msgstr "Linjebreidd:"
 
 # Offline editor only
 msgid "All Tips"
@@ -2007,6 +1889,43 @@ msgstr "Fjern bakgrunn"
 msgid "any"
 msgstr "vilkårleg"
 
+msgid "random position"
+msgstr "tilfeldig plassering"
+
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "Norsk (nynorsk)"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list inneheld %s"
+
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "gå til %m.spriteOrMouse"
+
+# 89%
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "set motorretning til %m.motorDirection"
+
+# 77%
+#~ msgid "set motor power %n"
+#~ msgstr "set motorstyrke til %n"
+
+#~ msgid "turn motor off"
+#~ msgstr "slå motoren av"
+
+#~ msgid "turn motor on"
+#~ msgstr "slå motoren på"
+
+# 80%
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "slå motoren på i %n sekund"
+
+#~ msgid "when distance < %n"
+#~ msgstr "når avstanden < %n"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "når hellinga er %n"
+
 # 89%
 # 86%
 #, fuzzy
@@ -2031,56 +1950,144 @@ msgstr "vilkårleg"
 #~ msgid "Scratch days"
 #~ msgstr "Scratch-dager"
 
-#~ msgid "10 ^"
-#~ msgstr "10^"
+#~ msgid "all motors"
+#~ msgstr "alle motorar"
+
+#~ msgid "Cannot Add"
+#~ msgstr "Kan ikkje leggja til"
+
+#~ msgid "Cloud"
+#~ msgstr "Nett"
+
+#~ msgid "Cloud variable (stored on server)"
+#~ msgstr "Nettvariabel (lagra på Scratch-nettstaden)"
+
+# 88%
+#~ msgid "Costumes:"
+#~ msgstr "Drakter:"
+
+#~ msgid "Downloading new version"
+#~ msgstr "Lastar ned ny versjon"
+
+#~ msgid "empty"
+#~ msgstr "tom"
+
+#~ msgid "Erase all"
+#~ msgstr "Slett alt"
+
+#~ msgid "everything"
+#~ msgstr "alt"
+
+#~ msgid "Extension Library"
+#~ msgstr "Tilleggsfunksjonar"
+
+#~ msgid "Extension Problem"
+#~ msgstr "Problem med tilleggsfunksjonen"
+
+#~ msgid "false"
+#~ msgstr "ikkje oppfylt"
+
+#~ msgid "Hello!"
+#~ msgstr "Hei!"
+
+#~ msgid "Hmm..."
+#~ msgstr "Hmm …"
+
+#~ msgid "hello"
+#~ msgstr "hei"
+
+# 83%
+#~ msgid "lights"
+#~ msgstr "lys"
+
+#~ msgid "limit reached"
+#~ msgstr "grensa nådd"
+
+#~ msgid "motor"
+#~ msgstr "motor"
+
+#~ msgid "motor A"
+#~ msgstr "motor A"
+
+#~ msgid "motor B"
+#~ msgstr "motor B"
+
+#~ msgid "not ="
+#~ msgstr "ikkje ="
+
+#~ msgid "Remove extension blocks"
+#~ msgstr "Fjern tilleggsfunksjon"
+
+#~ msgid "Replace existing project"
+#~ msgstr "Erstatt det gamle prosjektet"
+
+#~ msgid "requires sign in"
+#~ msgstr "krev innlogging"
+
+#~ msgid "Scratch 2.0 Offline Editor"
+#~ msgstr "Scratch 2.0 for maskiner utan nettsamband"
+
+# 87%
+#~ msgid "Scripts:"
+#~ msgstr "Skript:"
+
+#~ msgid ""
+#~ "See the Tips window (on the right) to install the plug-in and get the "
+#~ "extension working."
+#~ msgstr "Sjå tips (til høgre) for å få tilleggsfunksjonen til å verka."
+
+#~ msgid "Share to Scratch website"
+#~ msgstr "Legg ut på Scratch-nettstaden"
+
+#~ msgid "show receivers"
+#~ msgstr "vis mottakarar"
+
+#~ msgid "show senders"
+#~ msgstr "vis sendarar"
+
+#~ msgid "stored on server"
+#~ msgstr "lagra på nett"
+
+#~ msgid "The name is already in use."
+#~ msgstr "Namnet finst frå før."
+
+#~ msgid ""
+#~ "The project failed to load and Scratch Team has been notified. Press OK "
+#~ "to leave this page."
+#~ msgstr ""
+#~ "Klarte ikkje lesa inn prosjektet. Scratch-administratorane er varsla om "
+#~ "problemet. Trykk «OK» for å gå vidare."
+
+#~ msgid "thing"
+#~ msgstr "ting"
+
+#~ msgid "true"
+#~ msgstr "oppfylt"
+
+#~ msgid "What's your name?"
+#~ msgstr "Kva heiter du?"
+
+#~ msgid "world"
+#~ msgstr "verda"
 
 #~ msgid ""
 #~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
 #~ "numbers are supported<br>Chat rooms are not allowed, and will be "
-#~ "removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank"
-#~ "\">see the cloud data FAQ!</a>"
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
 #~ msgstr ""
 #~ "<b>Informasjon om nettdata</b><br>&nbsp; <br>Inntil vidare er det berre "
 #~ "mogleg å lagra tal.<br>Prateromsfunksjonar er ikkje tillatne, og vert "
-#~ "fjerna.<br>Sjå <a href=\"/help/faq/#clouddata\" target=\"_blank\">ofte "
-#~ "stilte spørsmål</a> for meir informasjon."
+#~ "fjerna.<br>Sjå <a href= target=>ofte stilte spørsmål</a> for meir "
+#~ "informasjon."
 
-#~ msgid "A connected"
-#~ msgstr "A tilkopla"
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Trykk for å prøva på nytt eller for å lagra"
 
-#~ msgid "a copy of the project file on your computer."
-#~ msgstr "ein kopi av prosjektfila på datamaskina."
+#~ msgid "Eraser width:"
+#~ msgstr "Viskelêrbreidd:"
 
-#~ msgid "A newer version of Scratch is available"
-#~ msgstr "Ein nyare versjon av Scratch er tilgjengeleg"
-
-#~ msgid "About"
-#~ msgstr "Info"
-
-#~ msgid "abs"
-#~ msgstr "abs"
-
-#~ msgid "Account settings"
-#~ msgstr "Innstillingar"
-
-#~ msgid "acos"
-#~ msgstr "arccos"
-
-#~ msgid "Add"
-#~ msgstr "Legg til"
-
-#~ msgid "Add an Extension"
-#~ msgstr "Hent tilleggsfunksjon"
-
-# 90%
-#~ msgid "Add boolean input:"
-#~ msgstr "Logisk verdi inn:"
-
-#~ msgid "add comment"
-#~ msgstr "skriv kommentar"
-
-#~ msgid "Add label text:"
-#~ msgstr "Tekst i klossen:"
+#~ msgid "Line width:"
+#~ msgstr "Linjebreidd:"
 
 #, fuzzy
 #~ msgid "Add a boolean input:"

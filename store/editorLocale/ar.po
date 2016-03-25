@@ -15,10 +15,6 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1429070628.000000\n"
 
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "العربية"
-
 msgid "%b and %b"
 msgstr "%b و %b"
 
@@ -27,9 +23,6 @@ msgstr "%b أو %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute للكائن %m.spriteOrStage"
-
-msgid "%m.list contains %s"
-msgstr "%m.list تحتوي %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp للقيمة %n"
@@ -152,9 +145,6 @@ msgstr "انزلق خلال %n ثانية إلى الموضع س: %n ص: %n"
 
 msgid "go back %n layers"
 msgstr "انتقل %n طبقة إلى الخلف"
-
-msgid "go to %m.spriteOrMouse"
-msgstr "اذهب إلى %m.spriteOrMouse"
 
 msgid "go to front"
 msgstr "انتقل إلى المقدمة"
@@ -476,6 +466,9 @@ msgstr "عندما تستقبل %m.broadcast"
 msgid "when I start as a clone"
 msgstr "عندما تبدأ نسخة مني"
 
+msgid "when Stage clicked"
+msgstr "عند نقر المنصة"
+
 msgid "when this sprite clicked"
 msgstr "عند نقر هذا الكائن"
 
@@ -488,33 +481,12 @@ msgstr "الموضع س"
 msgid "y position"
 msgstr "الموضع ص"
 
-# 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "اجعل اتجاه المحرك %m.motorDirection"
-
-# 77%
-msgid "set motor power %n"
-msgstr "اجعل طاقة المحرك مساويةً %n"
-
-msgid "turn motor off"
-msgstr "أوقف المحرك"
-
-msgid "turn motor on"
-msgstr "شغّل المحرك"
-
-# 80%
-msgid "turn motor on for %n secs"
-msgstr "شغِّل المحرك لمدة %n ثانية"
-
-msgid "when distance < %n"
-msgstr "عندما المسافة > %n"
-
-msgid "when tilt = %n"
-msgstr "عندما الميل = %n"
-
 #: commands-online.txt:7 commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list تحتوي %s؟"
+
+msgid "go to %m.location"
+msgstr "اذهب إلى %m.location"
 
 msgid "10 ^"
 msgstr "^ 10"
@@ -763,9 +735,6 @@ msgstr "إغلاق"
 msgid "Closed Hi-Hat"
 msgstr "Closed Hi-Hat"
 
-msgid "Cloud"
-msgstr "السحابة"
-
 msgid "Cloud data"
 msgstr "البيانات السحابية"
 
@@ -822,11 +791,6 @@ msgstr "المظاهر"
 
 msgid "Costumes > 1"
 msgstr "المظاهر > ١"
-
-# 75%
-# 88%
-msgid "Costumes:"
-msgstr "المظاهر:"
 
 msgid "Could not retrieve new application from server."
 msgstr "لم يكن بالإمكان الحصول على التطبيق الجديد من المخدّم."
@@ -1069,9 +1033,6 @@ msgstr "المكتبة"
 
 msgid "light"
 msgstr "الضوء"
-
-msgid "limit reached"
-msgstr "وصلت الحد الأقصى"
 
 msgid "Line"
 msgstr "خط مستقيم"
@@ -1377,10 +1338,6 @@ msgstr "إعادة تسمية المتغير"
 msgid "Replace existing project"
 msgstr ""
 
-# 75%
-msgid "requires sign in"
-msgstr "يتطلب تسجيل الدخول"
-
 msgid "Reshape"
 msgstr "إعادة تشكيل"
 
@@ -1462,10 +1419,6 @@ msgstr "المقاطع البرمجية"
 msgid "Scripts"
 msgstr "المقاطع البرمجية"
 
-# 87%
-msgid "Scripts:"
-msgstr "المقاطع البرمجية:"
-
 msgid "second"
 msgstr "الثانية"
 
@@ -1506,12 +1459,6 @@ msgstr "تمت المشاركة"
 # 83%
 msgid "Shift:"
 msgstr "مع مفتاح Shift:"
-
-msgid "show receivers"
-msgstr "أظهر المستقبلات"
-
-msgid "show senders"
-msgstr "أظهر المرسلات"
 
 # 80%
 msgid "show:"
@@ -1604,9 +1551,6 @@ msgstr "المنصة محددة:"
 
 msgid "Steel Drum"
 msgstr "طبل فولاذي"
-
-msgid "stored on server"
-msgstr "مخزَّن على المخدِّم"
 
 msgid "Synth Lead"
 msgstr "Synth Lead"
@@ -1815,24 +1759,6 @@ msgstr "اسمك على موقع سكراتش"
 msgid "Your Scratch name is required"
 msgstr "اسمك على موقع سكراتش مطلوب"
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>معلومات عن المتغيرات السحابية</b><br>&nbsp;<br>الأعداد فقط مدعومة حالياً."
-"<br>غرف المحادثة غير مسموحة وسوف تزال<br>لمزيد من المعلومات <a href= "
-"target=>زر الأسئلة متكررة الطرح عن المتغيرات السحابية</a>"
-
-msgid "Click  to try again or  to save"
-msgstr "انقر  للمحاولة ثانيةً أو  للحفظ"
-
-msgid "Eraser width:"
-msgstr "عرض الممحاة:"
-
-msgid "Line width:"
-msgstr "عرض الخط:"
-
 # Offline editor only
 msgid "All Tips"
 msgstr "جميع التلميحات"
@@ -1944,8 +1870,42 @@ msgstr ""
 msgid "Remove Background"
 msgstr ""
 
-#~ msgid "when Stage clicked"
-#~ msgstr "عند نقر المنصة"
+msgid "random position"
+msgstr ""
+
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "العربية"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list تحتوي %s"
+
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "اذهب إلى %m.spriteOrMouse"
+
+# 89%
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "اجعل اتجاه المحرك %m.motorDirection"
+
+# 77%
+#~ msgid "set motor power %n"
+#~ msgstr "اجعل طاقة المحرك مساويةً %n"
+
+#~ msgid "turn motor off"
+#~ msgstr "أوقف المحرك"
+
+#~ msgid "turn motor on"
+#~ msgstr "شغّل المحرك"
+
+# 80%
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "شغِّل المحرك لمدة %n ثانية"
+
+#~ msgid "when distance < %n"
+#~ msgstr "عندما المسافة > %n"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "عندما الميل = %n"
 
 # 89%
 # 86%
@@ -2024,8 +1984,16 @@ msgstr ""
 #~ msgid "Cannot Add"
 #~ msgstr "الإضافة غير ممكنة"
 
+#~ msgid "Cloud"
+#~ msgstr "السحابة"
+
 #~ msgid "Cloud variable (stored on server)"
 #~ msgstr "متغير سحابي (مخزّن على المخدّم)"
+
+# 75%
+# 88%
+#~ msgid "Costumes:"
+#~ msgstr "المظاهر:"
 
 #~ msgid "Downloading new version"
 #~ msgstr "جارٍ تنزيل الإصدار الجديد"
@@ -2061,6 +2029,9 @@ msgstr ""
 #~ msgid "lights"
 #~ msgstr "الضوء"
 
+#~ msgid "limit reached"
+#~ msgstr "وصلت الحد الأقصى"
+
 #~ msgid "motor"
 #~ msgstr "المحرك"
 
@@ -2076,8 +2047,16 @@ msgstr ""
 #~ msgid "Remove extension blocks"
 #~ msgstr "إزالة لبنات الإضافة"
 
+# 75%
+#~ msgid "requires sign in"
+#~ msgstr "يتطلب تسجيل الدخول"
+
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "سكراتش ٢,٠"
+
+# 87%
+#~ msgid "Scripts:"
+#~ msgstr "المقاطع البرمجية:"
 
 #~ msgid ""
 #~ "See the Tips window (on the right) to install the plug-in and get the "
@@ -2088,6 +2067,15 @@ msgstr ""
 
 #~ msgid "Share to Scratch website"
 #~ msgstr "المشاركة على موقع سكراتش"
+
+#~ msgid "show receivers"
+#~ msgstr "أظهر المستقبلات"
+
+#~ msgid "show senders"
+#~ msgstr "أظهر المرسلات"
+
+#~ msgid "stored on server"
+#~ msgstr "مخزَّن على المخدِّم"
 
 #~ msgid "The name is already in use."
 #~ msgstr "الاسم مستخدم حاليًا"
@@ -2110,6 +2098,24 @@ msgstr ""
 
 #~ msgid "world"
 #~ msgstr "بالعالم"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>معلومات عن المتغيرات السحابية</b><br>&nbsp;<br>الأعداد فقط مدعومة "
+#~ "حالياً.<br>غرف المحادثة غير مسموحة وسوف تزال<br>لمزيد من المعلومات <a "
+#~ "href= target=>زر الأسئلة متكررة الطرح عن المتغيرات السحابية</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "انقر  للمحاولة ثانيةً أو  للحفظ"
+
+#~ msgid "Eraser width:"
+#~ msgstr "عرض الممحاة:"
+
+#~ msgid "Line width:"
+#~ msgstr "عرض الخط:"
 
 #~ msgid "The name is already is use."
 #~ msgstr "الاسم مستخدم حاليًا"

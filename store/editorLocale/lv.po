@@ -15,10 +15,6 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1431493639.000000\n"
 
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Latviešu"
-
 msgid "%b and %b"
 msgstr "%b un %b"
 
@@ -27,9 +23,6 @@ msgstr "%b vai %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute no %m.spriteOrStage"
-
-msgid "%m.list contains %s"
-msgstr "%m.list satur %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp no %n"
@@ -152,9 +145,6 @@ msgstr "slīdēt %n sekundes uz x:%n y:%n"
 
 msgid "go back %n layers"
 msgstr "iet %n slāņus atpakaļ"
-
-msgid "go to %m.spriteOrMouse"
-msgstr "iet uz %m.spriteOrMouse"
 
 msgid "go to front"
 msgstr "iet uz priekšpusi"
@@ -466,6 +456,9 @@ msgstr "kad es saņemu %m.broadcast"
 msgid "when I start as a clone"
 msgstr "Kad es parādos kā dublikāts"
 
+msgid "when Stage clicked"
+msgstr "kad noklikšķināta skatuve"
+
 msgid "when this sprite clicked"
 msgstr "kad noklikšķināts uz šī gariņa"
 
@@ -478,30 +471,12 @@ msgstr "x pozīcija"
 msgid "y position"
 msgstr "y pozīcija"
 
-msgid "set motor direction %m.motorDirection"
-msgstr "iestatīt motora virzienu uz %m.motorDirection"
-
-msgid "set motor power %n"
-msgstr "iestatīt motora jaudu %n"
-
-msgid "turn motor off"
-msgstr "izslēgt motoru"
-
-msgid "turn motor on"
-msgstr "ieslēgt motoru"
-
-msgid "turn motor on for %n secs"
-msgstr "iezlēgt motoru uz %n sekundēm"
-
-msgid "when distance < %n"
-msgstr "kad attālums < %n"
-
-msgid "when tilt = %n"
-msgstr "kad noliekts = %n"
-
 #: commands-online.txt:7 commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list satur %s?"
+
+msgid "go to %m.location"
+msgstr "iet uz %m.location"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -751,9 +726,6 @@ msgstr "Aizvērt"
 msgid "Closed Hi-Hat"
 msgstr "Slēgtai Hi-Hat šķīvji"
 
-msgid "Cloud"
-msgstr "Mākonis"
-
 msgid "Cloud data"
 msgstr "Mākoņdati"
 
@@ -809,11 +781,6 @@ msgstr "Tērpi"
 
 msgid "Costumes > 1"
 msgstr "Tērpi > 1"
-
-# 75%
-# 88%
-msgid "Costumes:"
-msgstr "Tērpi:"
 
 msgid "Could not retrieve new application from server."
 msgstr "Nevar saņemt jaunu lietotni no servera."
@@ -1054,9 +1021,6 @@ msgstr "Bibliotēka"
 
 msgid "light"
 msgstr "gaisma"
-
-msgid "limit reached"
-msgstr "limits sasniegts"
 
 msgid "Line"
 msgstr "Līnija"
@@ -1357,9 +1321,6 @@ msgstr "Pārsaukt"
 msgid "rename variable"
 msgstr "pārsaukt mainīgo"
 
-msgid "requires sign in"
-msgstr "nepieciešams pieslēgties"
-
 msgid "Reshape"
 msgstr "Pārveidot"
 
@@ -1438,9 +1399,6 @@ msgstr "Skripts"
 msgid "Scripts"
 msgstr "Skripti"
 
-msgid "Scripts:"
-msgstr "Programmas:"
-
 msgid "second"
 msgstr "sekunde"
 
@@ -1479,12 +1437,6 @@ msgstr "koplietots"
 
 msgid "Shift:"
 msgstr "Shift:"
-
-msgid "show receivers"
-msgstr "parādīt saņēmējus"
-
-msgid "show senders"
-msgstr "parādīt sūtītājus"
 
 msgid "show:"
 msgstr "parādīt:"
@@ -1577,9 +1529,6 @@ msgstr "Izvēlēta skatuve:"
 
 msgid "Steel Drum"
 msgstr "Metāla bungas"
-
-msgid "stored on server"
-msgstr "saglabāts serverī"
 
 msgid "Synth Lead"
 msgstr "Vadošais sintezators"
@@ -1788,24 +1737,6 @@ msgstr "Tavs Scratch vārds"
 msgid "Your Scratch name is required"
 msgstr "Tavs Scratch vārds ir obligāts"
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Informācija par mākoņu mainīgajiem</b><br>&nbsp;<br>Šobrīd atļauti tikai "
-"skaitļi<br>Sarunu istabas nav atļautas, un tiks dzēstas.<br>Vairāk "
-"informācijas <a href= target=>mākoņu datu BUJ!</a>"
-
-msgid "Click  to try again or  to save"
-msgstr "Klikšķini     lai mēģinātu vēlreiz vai     lai saglabātu"
-
-msgid "Eraser width:"
-msgstr "Dzēšgumijas platums:"
-
-msgid "Line width:"
-msgstr "Līnijas platums:"
-
 # Offline editor only
 msgid "All Tips"
 msgstr "Visi padomi"
@@ -1919,8 +1850,39 @@ msgstr ""
 msgid "any"
 msgstr ""
 
-#~ msgid "when Stage clicked"
-#~ msgstr "kad noklikšķināta skatuve"
+msgid "random position"
+msgstr ""
+
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "Latviešu"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list satur %s"
+
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "iet uz %m.spriteOrMouse"
+
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "iestatīt motora virzienu uz %m.motorDirection"
+
+#~ msgid "set motor power %n"
+#~ msgstr "iestatīt motora jaudu %n"
+
+#~ msgid "turn motor off"
+#~ msgstr "izslēgt motoru"
+
+#~ msgid "turn motor on"
+#~ msgstr "ieslēgt motoru"
+
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "iezlēgt motoru uz %n sekundēm"
+
+#~ msgid "when distance < %n"
+#~ msgstr "kad attālums < %n"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "kad noliekts = %n"
 
 # 86%
 #, fuzzy
@@ -1960,8 +1922,16 @@ msgstr ""
 #~ msgid "Cannot Add"
 #~ msgstr "Nevar pievienot"
 
+#~ msgid "Cloud"
+#~ msgstr "Mākonis"
+
 #~ msgid "Cloud variable (stored on server)"
 #~ msgstr "Mākoņmainīgais (saglabāts serverī)"
+
+# 75%
+# 88%
+#~ msgid "Costumes:"
+#~ msgstr "Tērpi:"
 
 #~ msgid "Downloading new version"
 #~ msgstr "Lejuplādē jaunu versiju"
@@ -1997,6 +1967,9 @@ msgstr ""
 #~ msgid "lights"
 #~ msgstr "gaismas"
 
+#~ msgid "limit reached"
+#~ msgstr "limits sasniegts"
+
 #~ msgid "motor"
 #~ msgstr "motors"
 
@@ -2015,8 +1988,14 @@ msgstr ""
 #~ msgid "Replace existing project"
 #~ msgstr "Aizvietot esošu projektu"
 
+#~ msgid "requires sign in"
+#~ msgstr "nepieciešams pieslēgties"
+
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "Scatch 2.0 Bezsaistes redaktors"
+
+#~ msgid "Scripts:"
+#~ msgstr "Programmas:"
 
 #~ msgid ""
 #~ "See the Tips window (on the right) to install the plug-in and get the "
@@ -2027,6 +2006,15 @@ msgstr ""
 
 #~ msgid "Share to Scratch website"
 #~ msgstr "Koplietot Scratch mājaslapā"
+
+#~ msgid "show receivers"
+#~ msgstr "parādīt saņēmējus"
+
+#~ msgid "show senders"
+#~ msgstr "parādīt sūtītājus"
+
+#~ msgid "stored on server"
+#~ msgstr "saglabāts serverī"
 
 #~ msgid "The name is already in use."
 #~ msgstr "Šis nosaukums jau tiek lietots"
@@ -2049,6 +2037,24 @@ msgstr ""
 
 #~ msgid "world"
 #~ msgstr "pasaule"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Informācija par mākoņu mainīgajiem</b><br>&nbsp;<br>Šobrīd atļauti "
+#~ "tikai skaitļi<br>Sarunu istabas nav atļautas, un tiks dzēstas.<br>Vairāk "
+#~ "informācijas <a href= target=>mākoņu datu BUJ!</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Klikšķini     lai mēģinātu vēlreiz vai     lai saglabātu"
+
+#~ msgid "Eraser width:"
+#~ msgstr "Dzēšgumijas platums:"
+
+#~ msgid "Line width:"
+#~ msgstr "Līnijas platums:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "Pievienot Būla (boolean) ievadi:"

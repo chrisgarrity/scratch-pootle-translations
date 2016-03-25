@@ -280,8 +280,8 @@ msgstr "Fermer"
 msgid "Closed Hi-Hat"
 msgstr "Charleston fermé"
 
-msgid "Cloud"
-msgstr "Cloud"
+#~ msgid "Cloud"
+#~ msgstr "Cloud"
 
 msgid "Cloud data"
 msgstr "Données du Cloud"
@@ -348,8 +348,8 @@ msgstr "Costumes > 1"
 
 # 75%
 # 88%
-msgid "Costumes:"
-msgstr "Costumes:"
+#~ msgid "Costumes:"
+#~ msgstr "Costumes:"
 
 msgid "Could not retrieve new application from server."
 msgstr "Echec de la récupération de la nouvelle application depuis le serveur"
@@ -634,8 +634,8 @@ msgstr "lumière"
 #~ msgid "lights"
 #~ msgstr "lumières"
 
-msgid "limit reached"
-msgstr "limite atteinte"
+#~ msgid "limit reached"
+#~ msgstr "limite atteinte"
 
 msgid "Line"
 msgstr "Ligne"
@@ -963,8 +963,8 @@ msgstr "renommer la variable"
 #~ msgid "Replace existing project"
 #~ msgstr "Remplacer un projet existant"
 
-msgid "requires sign in"
-msgstr "exige de s'inscrire"
+#~ msgid "requires sign in"
+#~ msgstr "exige de s'inscrire"
 
 msgid "Reshape"
 msgstr "Redessiner"
@@ -1049,8 +1049,8 @@ msgid "Scripts"
 msgstr "Scripts"
 
 # 87%
-msgid "Scripts:"
-msgstr "Scripts:"
+#~ msgid "Scripts:"
+#~ msgstr "Scripts:"
 
 msgid "second"
 msgstr "seconde"
@@ -1105,11 +1105,11 @@ msgstr "Majuscule:"
 msgid "show"
 msgstr "montrer"
 
-msgid "show receivers"
-msgstr "montrer récepteurs"
+#~ msgid "show receivers"
+#~ msgstr "montrer récepteurs"
 
-msgid "show senders"
-msgstr "montrer émetteurs"
+#~ msgid "show senders"
+#~ msgstr "montrer émetteurs"
 
 msgid "show:"
 msgstr "montrer:"
@@ -1211,8 +1211,8 @@ msgstr "Scène sélectionnée:"
 msgid "Steel Drum"
 msgstr "Tambour d'acier"
 
-msgid "stored on server"
-msgstr "stockées sur le serveur"
+#~ msgid "stored on server"
+#~ msgstr "stockées sur le serveur"
 
 msgid "Synth Lead"
 msgstr "Lead synthétisé"
@@ -1457,24 +1457,24 @@ msgstr "Votre nom dans Scratch"
 msgid "Your Scratch name is required"
 msgstr "Votre nom dans Scratch est requis "
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Information sur les variables du Cloud</b><br>&nbsp;<br>Actuellement, "
-"seuls les numéros sont pris en charge<br>Les salles de Chat ne sont pas "
-"autorisées et seront supprimées<br>Pour plus d'informations, <a href= "
-"target=>voir les FAQ sur les données du Cloud!</a>"
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Information sur les variables du Cloud</b><br>&nbsp;<br>Actuellement, "
+#~ "seuls les numéros sont pris en charge<br>Les salles de Chat ne sont pas "
+#~ "autorisées et seront supprimées<br>Pour plus d'informations, <a href= "
+#~ "target=>voir les FAQ sur les données du Cloud!</a>"
 
-msgid "Click  to try again or  to save"
-msgstr "Cliquer   pour essayer à nouveau ou   pour sauvegarder"
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Cliquer   pour essayer à nouveau ou   pour sauvegarder"
 
-msgid "Eraser width:"
-msgstr "Effacer avec:"
+#~ msgid "Eraser width:"
+#~ msgstr "Effacer avec:"
 
-msgid "Line width:"
-msgstr "Largeur de la ligne:"
+#~ msgid "Line width:"
+#~ msgstr "Largeur de la ligne:"
 
 # Offline editor only
 msgid "All Tips"
@@ -1750,3 +1750,6 @@ msgstr "Retirer l'arrière-plan"
 
 msgid "when Stage clicked"
 msgstr ""
+
+msgid "random position"
+msgstr "Position aléatoire"

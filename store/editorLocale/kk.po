@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2016-02-17 18:00+0000\n"
+"PO-Revision-Date: 2016-03-14 22:25+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: kk\n"
@@ -12,11 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1455732002.000000\n"
-
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Kazakh"
+"X-POOTLE-MTIME: 1457994348.000000\n"
 
 msgid "%b and %b"
 msgstr "%b және %b"
@@ -26,9 +22,6 @@ msgstr "%b немесе %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.spriteOrStage ішіндегі %m.attribute"
-
-msgid "%m.list contains %s"
-msgstr "%m.list құрамында %s бар"
 
 msgid "%m.mathOp of %n"
 msgstr "%n ішіндегі %m.mathOp"
@@ -150,9 +143,6 @@ msgstr "x:%n y:%n нүктесіне %n секунд жүзу"
 
 msgid "go back %n layers"
 msgstr "%n қабат артқа өту"
-
-msgid "go to %m.spriteOrMouse"
-msgstr "мұнда өту %m.spriteOrMouse"
 
 msgid "go to front"
 msgstr "үстіңгі қабатқа өту"
@@ -502,6 +492,9 @@ msgstr ""
 msgid "%m.list contains %s?"
 msgstr "%m.list құрамында %s бар"
 
+msgid "go to %m.location"
+msgstr "мұнда өту %m.location"
+
 msgid "10 ^"
 msgstr "10 ^"
 
@@ -763,9 +756,6 @@ msgstr "Жабу"
 msgid "Closed Hi-Hat"
 msgstr "Жабық хай-хэт"
 
-msgid "Cloud"
-msgstr "クラウド"
-
 msgid "Cloud data"
 msgstr "クラウドデータ"
 
@@ -824,9 +814,6 @@ msgstr "костюмдер"
 
 msgid "Costumes > 1"
 msgstr "Kостюмдер > 1"
-
-msgid "Costumes:"
-msgstr "コスチューム:"
 
 msgid "Could not retrieve new application from server."
 msgstr ""
@@ -1118,9 +1105,6 @@ msgstr "жарық"
 #, fuzzy
 msgid "lights"
 msgstr "あかるさ"
-
-msgid "limit reached"
-msgstr "げんかいにとうたつ"
 
 msgid "Line"
 msgstr "Сызық"
@@ -1443,9 +1427,6 @@ msgstr "へんすうめいをへんこう"
 msgid "Replace existing project"
 msgstr ""
 
-msgid "requires sign in"
-msgstr "サインインがひつようです"
-
 msgid "Reshape"
 msgstr "かたちをかえる"
 
@@ -1528,9 +1509,6 @@ msgstr "スクリプト"
 msgid "Scripts"
 msgstr "スクリプト"
 
-msgid "Scripts:"
-msgstr "スクリプト:"
-
 msgid "second"
 msgstr "びょう"
 
@@ -1577,12 +1555,6 @@ msgstr "きょうゆうちゅう"
 
 msgid "Shift:"
 msgstr "シフト:"
-
-msgid "show receivers"
-msgstr "レシーバーをひょうじ"
-
-msgid "show senders"
-msgstr "センダーをひょうじ"
 
 msgid "show:"
 msgstr "ひょうじする:"
@@ -1671,9 +1643,6 @@ msgstr "せんたくされたステージ:"
 
 msgid "Steel Drum"
 msgstr "スチールドラム"
-
-msgid "stored on server"
-msgstr "サーバーへかくのう"
 
 msgid "Synth Lead"
 msgstr "シンセリード"
@@ -1907,17 +1876,6 @@ msgid ""
 "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
 msgstr ""
 
-msgid "Click  to try again or  to save"
-msgstr ""
-"「ただちにほぞん」をクリックしてさいしこうするか、「ダウンロード」でほぞんし"
-"てください"
-
-msgid "Eraser width:"
-msgstr "けしゴムのはば:"
-
-msgid "Line width:"
-msgstr "せんのはば:"
-
 # Offline editor only
 msgid "All Tips"
 msgstr "Барлық кеңестер"
@@ -2030,6 +1988,19 @@ msgstr ""
 msgid "Remove Background"
 msgstr ""
 
+msgid "random position"
+msgstr ""
+
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "Kazakh"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list құрамында %s бар"
+
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "мұнда өту %m.spriteOrMouse"
+
 #~ msgid "forever if %b"
 #~ msgstr "%b болса, үнемі"
 
@@ -2038,6 +2009,41 @@ msgstr ""
 
 #~ msgid "play note %n for %n beats"
 #~ msgstr "%d.note нотасын %n такт ойнау"
+
+#~ msgid "Cloud"
+#~ msgstr "クラウド"
+
+#~ msgid "Costumes:"
+#~ msgstr "コスチューム:"
+
+#~ msgid "limit reached"
+#~ msgstr "げんかいにとうたつ"
+
+#~ msgid "requires sign in"
+#~ msgstr "サインインがひつようです"
+
+#~ msgid "Scripts:"
+#~ msgstr "スクリプト:"
+
+#~ msgid "show receivers"
+#~ msgstr "レシーバーをひょうじ"
+
+#~ msgid "show senders"
+#~ msgstr "センダーをひょうじ"
+
+#~ msgid "stored on server"
+#~ msgstr "サーバーへかくのう"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr ""
+#~ "「ただちにほぞん」をクリックしてさいしこうするか、「ダウンロード」でほぞん"
+#~ "してください"
+
+#~ msgid "Eraser width:"
+#~ msgstr "けしゴムのはば:"
+
+#~ msgid "Line width:"
+#~ msgstr "せんのはば:"
 
 #~ msgid "Costumes &gt; 1"
 #~ msgstr "コスチューム &gt; 1"

@@ -560,4 +560,4 @@ msgid "%m.list contains %s?"
 msgstr "Η λίστα %m.list περιέχει %s"
 
 msgid "go to %m.location"
-msgstr ""
+msgstr "πήγαινε στη θέση του %m.location"

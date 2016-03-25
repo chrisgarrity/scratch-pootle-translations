@@ -14,10 +14,6 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1369923502.000000\n"
 
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "עִבְרִית"
-
 msgid "%b and %b"
 msgstr "%b וגם %b"
 
@@ -26,9 +22,6 @@ msgstr "%b או %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute של %m.spriteOrStage"
-
-msgid "%m.list contains %s"
-msgstr "%m.list מכיל %s ?"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp של %n"
@@ -151,9 +144,6 @@ msgstr "גלוש %n שניות ל :x %n :y %n"
 
 msgid "go back %n layers"
 msgstr "העבר %n שכבות לאחור"
-
-msgid "go to %m.spriteOrMouse"
-msgstr "קפוץ אל %m.spriteOrMouse"
 
 msgid "go to front"
 msgstr "העבר לשיכבה הקדמית"
@@ -486,31 +476,13 @@ msgstr "מיקום על ציר x"
 msgid "y position"
 msgstr "מיקום על ציר y"
 
-msgid "set motor direction %m.motorDirection"
-msgstr "קבע כיוון מנוע ל %m.motorDirection"
-
-msgid "set motor power %n"
-msgstr "קבע עוצמת מנוע ל %n"
-
-msgid "turn motor off"
-msgstr "כבה מנוע"
-
-msgid "turn motor on"
-msgstr "הפעל מנוע"
-
-msgid "turn motor on for %n secs"
-msgstr "הפעל מנוע ל %n שניות"
-
-msgid "when distance < %n"
-msgstr "כאשר מרחק > %n"
-
-msgid "when tilt = %n"
-msgstr "כאשר הטיה = %n"
-
 #: commands-online.txt:7 commands-offline.txt:7
 #, fuzzy
 msgid "%m.list contains %s?"
 msgstr "%m.list מכיל %s ?"
+
+msgid "go to %m.location"
+msgstr "קפוץ אל %m.location"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -766,9 +738,6 @@ msgstr "סגור"
 msgid "Closed Hi-Hat"
 msgstr "Hi-Hat סגור"
 
-msgid "Cloud"
-msgstr "ענן"
-
 msgid "Cloud data"
 msgstr "נתוני ענן"
 
@@ -827,9 +796,6 @@ msgstr "תלבושת"
 
 msgid "Costumes > 1"
 msgstr "תלבושות > 1"
-
-msgid "Costumes:"
-msgstr "תלבושות:"
 
 msgid "Could not retrieve new application from server."
 msgstr ""
@@ -1109,9 +1075,6 @@ msgstr "אור"
 #, fuzzy
 msgid "lights"
 msgstr "אור"
-
-msgid "limit reached"
-msgstr "הגעה לקצה"
 
 msgid "Line"
 msgstr "קו"
@@ -1433,9 +1396,6 @@ msgstr "שנה שם משתנה"
 msgid "Replace existing project"
 msgstr ""
 
-msgid "requires sign in"
-msgstr "חובה להתחבר"
-
 msgid "Reshape"
 msgstr "שנה צורה"
 
@@ -1518,10 +1478,6 @@ msgstr "תסריטים"
 msgid "Scripts"
 msgstr "תסריטים"
 
-# 87%
-msgid "Scripts:"
-msgstr "תסריטים:"
-
 msgid "second"
 msgstr "שניה"
 
@@ -1569,12 +1525,6 @@ msgstr "משותף"
 
 msgid "Shift:"
 msgstr "אות גדולה:"
-
-msgid "show receivers"
-msgstr "הצג קולטים"
-
-msgid "show senders"
-msgstr "הצג משדרים"
 
 # 80%
 msgid "show:"
@@ -1667,9 +1617,6 @@ msgstr "נבחרה הבמה:"
 
 msgid "Steel Drum"
 msgstr "תוף האנג"
-
-msgid "stored on server"
-msgstr "נשמר על השרת"
 
 msgid "Synth Lead"
 msgstr "סינתיסייזר"
@@ -1893,23 +1840,6 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"מידע בקשר למשתני ענן.כעת נתמכים רק משתנים. חדרי שיחות אינם מורשים ויימחקו. "
-"למידע נוסף, ראה: שאלות נפוצות."
-
-msgid "Click  to try again or  to save"
-msgstr "לחץ לנסות שנית או כדי לשמור"
-
-msgid "Eraser width:"
-msgstr "רוחב מחק:"
-
-msgid "Line width:"
-msgstr "רוחב קו:"
-
 # Offline editor only
 msgid "All Tips"
 msgstr ""
@@ -2021,6 +1951,40 @@ msgstr ""
 msgid "Remove Background"
 msgstr ""
 
+msgid "random position"
+msgstr ""
+
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "עִבְרִית"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list מכיל %s ?"
+
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "קפוץ אל %m.spriteOrMouse"
+
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "קבע כיוון מנוע ל %m.motorDirection"
+
+#~ msgid "set motor power %n"
+#~ msgstr "קבע עוצמת מנוע ל %n"
+
+#~ msgid "turn motor off"
+#~ msgstr "כבה מנוע"
+
+#~ msgid "turn motor on"
+#~ msgstr "הפעל מנוע"
+
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "הפעל מנוע ל %n שניות"
+
+#~ msgid "when distance < %n"
+#~ msgstr "כאשר מרחק > %n"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "כאשר הטיה = %n"
+
 # 86%
 #, fuzzy
 #~ msgid "set %m.motor direction to %m.motorDirection"
@@ -2067,6 +2031,48 @@ msgstr ""
 
 #~ msgid "when I am clicked"
 #~ msgstr "כאשר לוחצים עלי"
+
+#~ msgid "Cloud"
+#~ msgstr "ענן"
+
+#~ msgid "Costumes:"
+#~ msgstr "תלבושות:"
+
+#~ msgid "limit reached"
+#~ msgstr "הגעה לקצה"
+
+#~ msgid "requires sign in"
+#~ msgstr "חובה להתחבר"
+
+# 87%
+#~ msgid "Scripts:"
+#~ msgstr "תסריטים:"
+
+#~ msgid "show receivers"
+#~ msgstr "הצג קולטים"
+
+#~ msgid "show senders"
+#~ msgstr "הצג משדרים"
+
+#~ msgid "stored on server"
+#~ msgstr "נשמר על השרת"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "מידע בקשר למשתני ענן.כעת נתמכים רק משתנים. חדרי שיחות אינם מורשים "
+#~ "ויימחקו. למידע נוסף, ראה: שאלות נפוצות."
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "לחץ לנסות שנית או כדי לשמור"
+
+#~ msgid "Eraser width:"
+#~ msgstr "רוחב מחק:"
+
+#~ msgid "Line width:"
+#~ msgstr "רוחב קו:"
 
 #~ msgid "Add a boolean input:"
 #~ msgstr "הוסף קלט בוליאני:"

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-04-23 07:26+0000\n"
-"Last-Translator: Midhila <midhila.p.2011@gmail.com>\n"
+"PO-Revision-Date: 2016-03-21 15:54+0000\n"
+"Last-Translator: chrisg <chrisg@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
@@ -12,11 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1398237976.000000\n"
-
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "മലയാളം"
+"X-POOTLE-MTIME: 1458575693.000000\n"
 
 msgid "%b and %b"
 msgstr "%b കൂടാതെ %b"
@@ -26,9 +22,6 @@ msgstr "%b അഥവാ %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.സ്പ്രയ്റ്റിനെ അഥവാ രംഗത്ത സംബന്ധിക്കുന്ന.%m"
-
-msgid "%m.list contains %s"
-msgstr "%m.listല്‍ %s ഉണ്ടോ"
 
 msgid "%m.mathOp of %n"
 msgstr "%m ന്റെ %n.mathOp"
@@ -151,9 +144,6 @@ msgstr "നീങ്ങുക %n നിമിഷം x:%n y:%n ലേക്ക്
 
 msgid "go back %n layers"
 msgstr "അകത്തേക്ക് പോവുക %n പാളി"
-
-msgid "go to %m.spriteOrMouse"
-msgstr "%m സ്പ്രയ്റ്റിലേക്ക് അഥവാ മൗസിലേക്ക് പോവുക"
 
 msgid "go to front"
 msgstr "ഉപരിതലത്തിലോട്ടു വരിക"
@@ -481,31 +471,14 @@ msgstr "xസ്ഥാനം"
 msgid "y position"
 msgstr "yസ്ഥാനം"
 
-msgid "set motor direction %m.motorDirection"
-msgstr "മോട്ടോറിന്‍റെ ദിശ %m ആക്കുക"
-
-msgid "set motor power %n"
-msgstr "മോട്ടോറിന്‍റെ പവര്‍ %n ആക്കുക"
-
-msgid "turn motor off"
-msgstr "മോട്ടോര്‍ ഓഫ്‌ ആക്കുക"
-
-msgid "turn motor on"
-msgstr "മോട്ടോര്‍ ഓണ്‍ ആക്കുക"
-
-msgid "turn motor on for %n secs"
-msgstr "മോട്ടോര്‍ %n നിമിഷം ഓണാക്കുക"
-
-msgid "when distance < %n"
-msgstr "ദൂരം < %n ആവുമ്പോള്‍"
-
-msgid "when tilt = %n"
-msgstr "ചെരിവ് = %n ആവുമ്പോള്‍"
-
 #: commands-online.txt:7 commands-offline.txt:7
 #, fuzzy
 msgid "%m.list contains %s?"
 msgstr "%m.listല്‍ %s ഉണ്ടോ"
+
+# %m.location is a menu item - do not modify/translate this text.
+msgid "go to %m.location"
+msgstr "%m സ്പ്രയ്റ്റിലേക്ക് അഥവാ മൗസിലേക്ക് പോവുക"
 
 msgid "10 ^"
 msgstr "10 ^മലയാളം"
@@ -754,9 +727,6 @@ msgstr "അടയ്ക്കുക"
 msgid "Closed Hi-Hat"
 msgstr ""
 
-msgid "Cloud"
-msgstr "ക്ലൌഡ്"
-
 msgid "Cloud data"
 msgstr "ക്ലൌഡ് ഡേറ്റ"
 
@@ -813,9 +783,6 @@ msgstr "രൂപങ്ങള്‍"
 
 msgid "Costumes > 1"
 msgstr "രൂപങ്ങള്‍ > 1"
-
-msgid "Costumes:"
-msgstr "രൂപങ്ങള്‍:"
 
 msgid "Could not retrieve new application from server."
 msgstr ""
@@ -1088,9 +1055,6 @@ msgstr "പ്രകാശം"
 #, fuzzy
 msgid "lights"
 msgstr "പ്രകാശം"
-
-msgid "limit reached"
-msgstr "പരിധി എത്തിച്ചേര്‍ന്നു"
 
 msgid "Line"
 msgstr "വര"
@@ -1399,9 +1363,6 @@ msgstr "ചരത്തിനു പുതിയ പേര് കൊടുക്
 msgid "Replace existing project"
 msgstr ""
 
-msgid "requires sign in"
-msgstr "അകത്തു പ്രവേശിക്കണം"
-
 msgid "Reshape"
 msgstr "വീണ്ടും രൂപപ്പെടുത്തുക"
 
@@ -1483,9 +1444,6 @@ msgstr "പ്രോഗ്രാം"
 msgid "Scripts"
 msgstr "പ്രോഗ്രാമുകള്‍"
 
-msgid "Scripts:"
-msgstr "പ്രോഗ്രാമുകള്‍:"
-
 msgid "second"
 msgstr "സെക്കന്റ്‌"
 
@@ -1532,12 +1490,6 @@ msgstr "പങ്കുവെയ്ച്ചു"
 
 msgid "Shift:"
 msgstr "സ്ഥാനം മാറ്റുക:"
-
-msgid "show receivers"
-msgstr "വാങ്ങുന്നവരേ പ്രത്യക്ഷമാക്കുക"
-
-msgid "show senders"
-msgstr "കൊടുക്കുന്നവരെ പ്രത്യക്ഷമാക്കുക"
 
 msgid "show:"
 msgstr "പ്രത്യക്ഷമാവുക:"
@@ -1628,9 +1580,6 @@ msgstr "തിരഞ്ഞെടുക്കപ്പെട്ട വേദി:"
 
 msgid "Steel Drum"
 msgstr "സ്റ്റീല്‍ ഡ്രം"
-
-msgid "stored on server"
-msgstr "സേവകരില്‍ സുക്ഷിക്കുക"
 
 msgid "Synth Lead"
 msgstr ""
@@ -1860,24 +1809,6 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>ക്ലൌഡിലെ ചരങ്ങളെ കുറിച്ചുള്ള വിവരങ്ങള്‍</b><br>&nbsp;<br>നിലവില്‍ സംഖ്യകളെ മാത്രമെ "
-"പിന്തുണയ്ക്കുകയുള്ളു<br>ചാറ്റ് റൂം സംവിധാനം അനുവദിനീയമല്ല അത് ഒഴിവാക്കും<br>കൂടുതല്‍ വിവരങ്ങള്‍ക്കായ്‌ "
-"<a href= target=>ക്ലൌഡിലെ വിവരങ്ങള്‍ നോക്കുക FAQ!</a>"
-
-msgid "Click  to try again or  to save"
-msgstr "ഒന്നുകൂടി ചെയ്യാനോ അല്ലെങ്കില്‍ സേവ് ചെയ്യാനോ ക്ലിക്ക് ചെയ്യുക"
-
-msgid "Eraser width:"
-msgstr "റബ്ബറിന്‍റെ വീതി:"
-
-msgid "Line width:"
-msgstr "വരയുടെ വീതി:"
-
 # Offline editor only
 msgid "All Tips"
 msgstr ""
@@ -1989,6 +1920,40 @@ msgstr ""
 msgid "Remove Background"
 msgstr ""
 
+msgid "random position"
+msgstr ""
+
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "മലയാളം"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.listല്‍ %s ഉണ്ടോ"
+
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "%m സ്പ്രയ്റ്റിലേക്ക് അഥവാ മൗസിലേക്ക് പോവുക"
+
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "മോട്ടോറിന്‍റെ ദിശ %m ആക്കുക"
+
+#~ msgid "set motor power %n"
+#~ msgstr "മോട്ടോറിന്‍റെ പവര്‍ %n ആക്കുക"
+
+#~ msgid "turn motor off"
+#~ msgstr "മോട്ടോര്‍ ഓഫ്‌ ആക്കുക"
+
+#~ msgid "turn motor on"
+#~ msgstr "മോട്ടോര്‍ ഓണ്‍ ആക്കുക"
+
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "മോട്ടോര്‍ %n നിമിഷം ഓണാക്കുക"
+
+#~ msgid "when distance < %n"
+#~ msgstr "ദൂരം < %n ആവുമ്പോള്‍"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "ചെരിവ് = %n ആവുമ്പോള്‍"
+
 # 86%
 #~ msgid "set %m.motor direction to %m.motorDirection"
 #~ msgstr "മോട്ടോറിന്‍റെ ദിശ %m ഇല്‍ നിന്നും %m ആക്കി മാറ്റുക"
@@ -2005,8 +1970,17 @@ msgstr ""
 #~ msgid "all motors"
 #~ msgstr "എല്ലാ മോട്ടോറുകളും"
 
+#~ msgid "Cloud"
+#~ msgstr "ക്ലൌഡ്"
+
+#~ msgid "Costumes:"
+#~ msgstr "രൂപങ്ങള്‍:"
+
 #~ msgid "Extension Library"
 #~ msgstr "വിപുലീകരിച്ച ലൈബ്രറി"
+
+#~ msgid "limit reached"
+#~ msgstr "പരിധി എത്തിച്ചേര്‍ന്നു"
 
 #~ msgid "motor"
 #~ msgstr "മോട്ടോര്‍"
@@ -2016,6 +1990,39 @@ msgstr ""
 
 #~ msgid "motor B"
 #~ msgstr "മോട്ടോര്‍ "
+
+#~ msgid "requires sign in"
+#~ msgstr "അകത്തു പ്രവേശിക്കണം"
+
+#~ msgid "Scripts:"
+#~ msgstr "പ്രോഗ്രാമുകള്‍:"
+
+#~ msgid "show receivers"
+#~ msgstr "വാങ്ങുന്നവരേ പ്രത്യക്ഷമാക്കുക"
+
+#~ msgid "show senders"
+#~ msgstr "കൊടുക്കുന്നവരെ പ്രത്യക്ഷമാക്കുക"
+
+#~ msgid "stored on server"
+#~ msgstr "സേവകരില്‍ സുക്ഷിക്കുക"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>ക്ലൌഡിലെ ചരങ്ങളെ കുറിച്ചുള്ള വിവരങ്ങള്‍</b><br>&nbsp;<br>നിലവില്‍ സംഖ്യകളെ മാത്രമെ "
+#~ "പിന്തുണയ്ക്കുകയുള്ളു<br>ചാറ്റ് റൂം സംവിധാനം അനുവദിനീയമല്ല അത് ഒഴിവാക്കും<br>കൂടുതല്‍ "
+#~ "വിവരങ്ങള്‍ക്കായ്‌ <a href= target=>ക്ലൌഡിലെ വിവരങ്ങള്‍ നോക്കുക FAQ!</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "ഒന്നുകൂടി ചെയ്യാനോ അല്ലെങ്കില്‍ സേവ് ചെയ്യാനോ ക്ലിക്ക് ചെയ്യുക"
+
+#~ msgid "Eraser width:"
+#~ msgstr "റബ്ബറിന്‍റെ വീതി:"
+
+#~ msgid "Line width:"
+#~ msgstr "വരയുടെ വീതി:"
 
 #~ msgid "cleanup"
 #~ msgstr "വൃത്തിയാക്കുക"

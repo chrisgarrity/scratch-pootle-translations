@@ -279,8 +279,8 @@ msgstr "بستن"
 msgid "Closed Hi-Hat"
 msgstr "Closed Hi-Hat"
 
-msgid "Cloud"
-msgstr "ابر"
+#~ msgid "Cloud"
+#~ msgstr "ابر"
 
 msgid "Cloud data"
 msgstr "داده ابری"
@@ -346,8 +346,8 @@ msgstr "لباس ها > ۱"
 
 # 75%
 # 88%
-msgid "Costumes:"
-msgstr "لباس ها:"
+#~ msgid "Costumes:"
+#~ msgstr "لباس ها:"
 
 msgid "Could not retrieve new application from server."
 msgstr "نتوانستم از سرور برنامه جدید را بگیرم."
@@ -629,8 +629,8 @@ msgstr "نور"
 #~ msgid "lights"
 #~ msgstr "نورها"
 
-msgid "limit reached"
-msgstr "به حدش رسید"
+#~ msgid "limit reached"
+#~ msgstr "به حدش رسید"
 
 msgid "Line"
 msgstr "خط"
@@ -954,8 +954,8 @@ msgstr "تغییر نام متغیر"
 #~ msgid "Replace existing project"
 #~ msgstr "جایگزینی روی پروژه ای که هست"
 
-msgid "requires sign in"
-msgstr "باید وارد شوید"
+#~ msgid "requires sign in"
+#~ msgstr "باید وارد شوید"
 
 msgid "Reshape"
 msgstr "تغییر شکل"
@@ -1038,8 +1038,8 @@ msgstr "اسکریپت"
 msgid "Scripts"
 msgstr "اسکریپت ها"
 
-msgid "Scripts:"
-msgstr "اسکریپت ها:"
+#~ msgid "Scripts:"
+#~ msgstr "اسکریپت ها:"
 
 msgid "second"
 msgstr "دومی"
@@ -1092,11 +1092,11 @@ msgstr "انتقال:"
 msgid "show"
 msgstr "نمایش"
 
-msgid "show receivers"
-msgstr "نمایش دریافت کنندگان"
+#~ msgid "show receivers"
+#~ msgstr "نمایش دریافت کنندگان"
 
-msgid "show senders"
-msgstr "نمایش فرستندگان"
+#~ msgid "show senders"
+#~ msgstr "نمایش فرستندگان"
 
 msgid "show:"
 msgstr "نمایش:"
@@ -1195,8 +1195,8 @@ msgstr "صحنه نمایش انتخاب شده:"
 msgid "Steel Drum"
 msgstr "Steel Drum"
 
-msgid "stored on server"
-msgstr "ذخیره شده بر روی سرور"
+#~ msgid "stored on server"
+#~ msgstr "ذخیره شده بر روی سرور"
 
 msgid "Synth Lead"
 msgstr "Synth Lead"
@@ -1438,23 +1438,23 @@ msgstr "نام Scratch شما"
 msgid "Your Scratch name is required"
 msgstr "نام Scratch لازم است"
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>اطلاعات درباره متغیر های ابری</b><br>&nbsp;<br>در حال حاضر، فقط اعداد "
-"پشتیبانی می شوند<br>پیام رسان ها اجازه فعالیت ندارند، و پاک می شوند<br>برای "
-"اطلاعات بیشتر<a href= target=>پرسش و پاسخ داده های ابری را ببینید</a>"
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>اطلاعات درباره متغیر های ابری</b><br>&nbsp;<br>در حال حاضر، فقط اعداد "
+#~ "پشتیبانی می شوند<br>پیام رسان ها اجازه فعالیت ندارند، و پاک می شوند<br>برای "
+#~ "اطلاعات بیشتر<a href= target=>پرسش و پاسخ داده های ابری را ببینید</a>"
 
-msgid "Click  to try again or  to save"
-msgstr "   را کلیک کنید برای سعی مجدد یا  برای ذخیره سازی"
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "   را کلیک کنید برای سعی مجدد یا  برای ذخیره سازی"
 
-msgid "Eraser width:"
-msgstr "عرض پاک کن:"
+#~ msgid "Eraser width:"
+#~ msgstr "عرض پاک کن:"
 
-msgid "Line width:"
-msgstr "عرض خط:"
+#~ msgid "Line width:"
+#~ msgstr "عرض خط:"
 
 # Offline editor only
 msgid "All Tips"
@@ -1669,4 +1669,7 @@ msgid "any"
 msgstr ""
 
 msgid "when Stage clicked"
+msgstr ""
+
+msgid "random position"
 msgstr ""

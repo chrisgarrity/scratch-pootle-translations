@@ -570,4 +570,4 @@ msgid "%m.list contains %s?"
 msgstr "%m.list inneholder %s?"
 
 msgid "go to %m.location"
-msgstr ""
+msgstr "gå til %m.location"

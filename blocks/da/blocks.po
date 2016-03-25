@@ -558,4 +558,4 @@ msgid "%m.list contains %s?"
 msgstr "%m.list indeholder %s?"
 
 msgid "go to %m.location"
-msgstr ""
+msgstr "gå til %m.location"

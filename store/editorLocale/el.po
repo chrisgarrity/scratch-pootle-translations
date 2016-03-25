@@ -14,10 +14,6 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1429110685.000000\n"
 
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Ελληνικά"
-
 msgid "%b and %b"
 msgstr "%b και %b"
 
@@ -26,9 +22,6 @@ msgstr "%b ή %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute από %m.spriteOrStage"
-
-msgid "%m.list contains %s"
-msgstr "Η λίστα %m.list περιέχει %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp από %n"
@@ -151,9 +144,6 @@ msgstr "πήγαινε αργά για %n δευτ. στη θέση x:%n και 
 
 msgid "go back %n layers"
 msgstr "πήγαινε πίσω %n επίπεδα"
-
-msgid "go to %m.spriteOrMouse"
-msgstr "πήγαινε στη θέση του %m.spriteOrMouse"
 
 msgid "go to front"
 msgstr "πήγαινε στην μπροστινή στρώση"
@@ -470,6 +460,9 @@ msgstr "Όταν λάβω το %m.broadcast"
 msgid "when I start as a clone"
 msgstr "Όταν ξεκινήσει ο κλώνος"
 
+msgid "when Stage clicked"
+msgstr "Όταν γίνει κλικ στο Σκηνικό"
+
 msgid "when this sprite clicked"
 msgstr "Όταν σε αυτό το αντικείμενο γίνει κλικ"
 
@@ -482,33 +475,12 @@ msgstr "θέση του x"
 msgid "y position"
 msgstr "θέση του y"
 
-# 89%
-msgid "set motor direction %m.motorDirection"
-msgstr "όρισε την κατεύθυνση κίνησης του κινητήρα σε %m.motorDirection"
-
-# 77%
-msgid "set motor power %n"
-msgstr "όρισε την ισχύ κινητήρα σε %n"
-
-msgid "turn motor off"
-msgstr "απενεργοποίησε τον κινητήρα"
-
-msgid "turn motor on"
-msgstr "ενεργοποίησε τον κινητήρα"
-
-# 80%
-msgid "turn motor on for %n secs"
-msgstr "ενεργοποίησε τον κινητήρα για %n δευτερόλεπτα"
-
-msgid "when distance < %n"
-msgstr "Όταν η απόσταση < %n"
-
-msgid "when tilt = %n"
-msgstr "Όταν η κλίση = %n"
-
 #: commands-online.txt:7 commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "Η λίστα %m.list περιέχει %s"
+
+msgid "go to %m.location"
+msgstr "πήγαινε στη θέση του %m.location"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -759,9 +731,6 @@ msgstr "Κλείσιμο"
 msgid "Closed Hi-Hat"
 msgstr "Κλειστό Χάϊ-χατ"
 
-msgid "Cloud"
-msgstr "Cloud"
-
 msgid "Cloud data"
 msgstr "Δεδομένα Cloud"
 
@@ -818,9 +787,6 @@ msgstr "Ενδυμασίες"
 
 msgid "Costumes > 1"
 msgstr "Ενδυμασίες > 1"
-
-msgid "Costumes:"
-msgstr "Ενδυμασίες:"
 
 msgid "Could not retrieve new application from server."
 msgstr ""
@@ -1097,9 +1063,6 @@ msgstr "φως"
 #, fuzzy
 msgid "lights"
 msgstr "φως"
-
-msgid "limit reached"
-msgstr "Το όριο έχει φταστεί"
 
 msgid "Line"
 msgstr "Γραμμή"
@@ -1416,9 +1379,6 @@ msgstr "Μετονομασία Μεταβλητής"
 msgid "Replace existing project"
 msgstr ""
 
-msgid "requires sign in"
-msgstr "Απαιτείται σύνδεση Λογαριασμού"
-
 msgid "Reshape"
 msgstr "Αλλαγή του σχήματος"
 
@@ -1500,9 +1460,6 @@ msgstr "ΣενάριΟ"
 msgid "Scripts"
 msgstr "Σενάρια"
 
-msgid "Scripts:"
-msgstr "Σενάρια:"
-
 msgid "second"
 msgstr "δευτερόλεπτο"
 
@@ -1549,12 +1506,6 @@ msgstr "Γίνεται κοινή χρήση του έργου"
 
 msgid "Shift:"
 msgstr "Πάτημα με Shift:"
-
-msgid "show receivers"
-msgstr "Εμφάνιση παραληπτών"
-
-msgid "show senders"
-msgstr "Εμφάνιση αποστολέων"
 
 msgid "show:"
 msgstr "Εμφάνιση:"
@@ -1642,9 +1593,6 @@ msgstr "Το Σκηνικό που έχει επιλεγεί:"
 
 msgid "Steel Drum"
 msgstr "Ατσαλένιο τύμπανο"
-
-msgid "stored on server"
-msgstr "Αποθηκευμένο στο σέρβερ"
 
 msgid "Synth Lead"
 msgstr "Lead-συνθεσάιζερ"
@@ -1875,26 +1823,6 @@ msgstr ""
 msgid "Your Scratch name is required"
 msgstr ""
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Πληροφορίες σχετικά με τις μεταβλητές Cloud</b><br>&nbsp;<br>Προς το "
-"παρόν, μόνο οι αριθμητικές μεταβλητές Cloud υποστηρίζονται.<br> Οι χώροι "
-"συνομιλίας (Chat room) μέσω των μεταβλητών Cloud δεν επιτρέπονται και θα "
-"διαγράφονται.<br>Για περισσότερες πληροφορίες, <a href= target=>δείτε τις "
-"Συχνές Ερωτήσεις για τα δεδομένα Cloud.</a>"
-
-msgid "Click  to try again or  to save"
-msgstr "Πατήστε  για να προσπαθήσετε ξανά ή πατήστε  για να κάνετε αποθήκευση."
-
-msgid "Eraser width:"
-msgstr "Πλάτος γόμας"
-
-msgid "Line width:"
-msgstr "Πλάτος γραμμής"
-
 # Offline editor only
 msgid "All Tips"
 msgstr ""
@@ -2006,8 +1934,42 @@ msgstr ""
 msgid "Remove Background"
 msgstr ""
 
-#~ msgid "when Stage clicked"
-#~ msgstr "Όταν γίνει κλικ στο Σκηνικό"
+msgid "random position"
+msgstr ""
+
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "Ελληνικά"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "Η λίστα %m.list περιέχει %s"
+
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "πήγαινε στη θέση του %m.spriteOrMouse"
+
+# 89%
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "όρισε την κατεύθυνση κίνησης του κινητήρα σε %m.motorDirection"
+
+# 77%
+#~ msgid "set motor power %n"
+#~ msgstr "όρισε την ισχύ κινητήρα σε %n"
+
+#~ msgid "turn motor off"
+#~ msgstr "απενεργοποίησε τον κινητήρα"
+
+#~ msgid "turn motor on"
+#~ msgstr "ενεργοποίησε τον κινητήρα"
+
+# 80%
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "ενεργοποίησε τον κινητήρα για %n δευτερόλεπτα"
+
+#~ msgid "when distance < %n"
+#~ msgstr "Όταν η απόσταση < %n"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "Όταν η κλίση = %n"
 
 # 89%
 # 86%
@@ -2062,6 +2024,51 @@ msgstr ""
 
 #~ msgid "all motors"
 #~ msgstr "όλοι οι κινητήρες"
+
+#~ msgid "Cloud"
+#~ msgstr "Cloud"
+
+#~ msgid "Costumes:"
+#~ msgstr "Ενδυμασίες:"
+
+#~ msgid "limit reached"
+#~ msgstr "Το όριο έχει φταστεί"
+
+#~ msgid "requires sign in"
+#~ msgstr "Απαιτείται σύνδεση Λογαριασμού"
+
+#~ msgid "Scripts:"
+#~ msgstr "Σενάρια:"
+
+#~ msgid "show receivers"
+#~ msgstr "Εμφάνιση παραληπτών"
+
+#~ msgid "show senders"
+#~ msgstr "Εμφάνιση αποστολέων"
+
+#~ msgid "stored on server"
+#~ msgstr "Αποθηκευμένο στο σέρβερ"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Πληροφορίες σχετικά με τις μεταβλητές Cloud</b><br>&nbsp;<br>Προς το "
+#~ "παρόν, μόνο οι αριθμητικές μεταβλητές Cloud υποστηρίζονται.<br> Οι χώροι "
+#~ "συνομιλίας (Chat room) μέσω των μεταβλητών Cloud δεν επιτρέπονται και θα "
+#~ "διαγράφονται.<br>Για περισσότερες πληροφορίες, <a href= target=>δείτε τις "
+#~ "Συχνές Ερωτήσεις για τα δεδομένα Cloud.</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr ""
+#~ "Πατήστε  για να προσπαθήσετε ξανά ή πατήστε  για να κάνετε αποθήκευση."
+
+#~ msgid "Eraser width:"
+#~ msgstr "Πλάτος γόμας"
+
+#~ msgid "Line width:"
+#~ msgstr "Πλάτος γραμμής"
 
 #~ msgid "cleanup"
 #~ msgstr "Εκκαθάριση"

@@ -517,3 +517,6 @@ msgstr "nuair atá claon = %n"
 #: commands-offline.txt:7
 msgid "%m.list contains %s?"
 msgstr "%m.list agus %s ann?"
+
+msgid "go to %m.location"
+msgstr "téigh go %m.location"

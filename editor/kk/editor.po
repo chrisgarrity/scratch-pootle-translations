@@ -280,8 +280,8 @@ msgstr "Жабу"
 msgid "Closed Hi-Hat"
 msgstr "Жабық хай-хэт"
 
-msgid "Cloud"
-msgstr "クラウド"
+#~ msgid "Cloud"
+#~ msgstr "クラウド"
 
 msgid "Cloud data"
 msgstr "クラウドデータ"
@@ -345,8 +345,8 @@ msgstr "костюмдер"
 msgid "Costumes > 1"
 msgstr "Kостюмдер > 1"
 
-msgid "Costumes:"
-msgstr "コスチューム:"
+#~ msgid "Costumes:"
+#~ msgstr "コスチューム:"
 
 msgid "Could not retrieve new application from server."
 msgstr ""
@@ -645,8 +645,8 @@ msgstr "жарық"
 msgid "lights"
 msgstr "あかるさ"
 
-msgid "limit reached"
-msgstr "げんかいにとうたつ"
+#~ msgid "limit reached"
+#~ msgstr "げんかいにとうたつ"
 
 msgid "Line"
 msgstr "Сызық"
@@ -975,8 +975,8 @@ msgstr "へんすうめいをへんこう"
 msgid "Replace existing project"
 msgstr ""
 
-msgid "requires sign in"
-msgstr "サインインがひつようです"
+#~ msgid "requires sign in"
+#~ msgstr "サインインがひつようです"
 
 msgid "Reshape"
 msgstr "かたちをかえる"
@@ -1060,8 +1060,8 @@ msgstr "スクリプト"
 msgid "Scripts"
 msgstr "スクリプト"
 
-msgid "Scripts:"
-msgstr "スクリプト:"
+#~ msgid "Scripts:"
+#~ msgstr "スクリプト:"
 
 msgid "second"
 msgstr "びょう"
@@ -1113,11 +1113,11 @@ msgstr "シフト:"
 msgid "show"
 msgstr "ひょうじする"
 
-msgid "show receivers"
-msgstr "レシーバーをひょうじ"
+#~ msgid "show receivers"
+#~ msgstr "レシーバーをひょうじ"
 
-msgid "show senders"
-msgstr "センダーをひょうじ"
+#~ msgid "show senders"
+#~ msgstr "センダーをひょうじ"
 
 msgid "show:"
 msgstr "ひょうじする:"
@@ -1213,8 +1213,8 @@ msgstr "せんたくされたステージ:"
 msgid "Steel Drum"
 msgstr "スチールドラム"
 
-msgid "stored on server"
-msgstr "サーバーへかくのう"
+#~ msgid "stored on server"
+#~ msgstr "サーバーへかくのう"
 
 msgid "Synth Lead"
 msgstr "シンセリード"
@@ -1457,14 +1457,14 @@ msgid ""
 "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
 msgstr ""
 
-msgid "Click  to try again or  to save"
-msgstr "「ただちにほぞん」をクリックしてさいしこうするか、「ダウンロード」でほぞんしてください"
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "「ただちにほぞん」をクリックしてさいしこうするか、「ダウンロード」でほぞんしてください"
 
-msgid "Eraser width:"
-msgstr "けしゴムのはば:"
+#~ msgid "Eraser width:"
+#~ msgstr "けしゴムのはば:"
 
-msgid "Line width:"
-msgstr "せんのはば:"
+#~ msgid "Line width:"
+#~ msgstr "せんのはば:"
 
 # Offline editor only
 msgid "All Tips"
@@ -1624,4 +1624,7 @@ msgid "Remove Background"
 msgstr ""
 
 msgid "when Stage clicked"
+msgstr ""
+
+msgid "random position"
 msgstr ""

@@ -1832,16 +1832,16 @@ msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr "Su proyecto se ha cargado en scratch.mit.edu"
 
 msgid "Record Project Video"
-msgstr ""
+msgstr "Grabar Video del Proyecto"
 
 msgid "Remove Background"
-msgstr ""
+msgstr "Eliminar Fondo"
 
 msgid "any"
-msgstr ""
+msgstr "cualquiera"
 
 msgid "random position"
-msgstr ""
+msgstr "posición aleatoria"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"

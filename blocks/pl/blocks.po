@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-29 13:54+0000\n"
-"PO-Revision-Date: 2015-05-12 13:34+0000\n"
-"Last-Translator: Tomasz <ho-ho1@wp.pl>\n"
+"PO-Revision-Date: 2016-03-31 21:35+0000\n"
+"Last-Translator: applesauceepicness <hs.skiba@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1431437658.000000\n"
+"X-POOTLE-MTIME: 1459460135.000000\n"
 
 #: commands-online.txt:1
 #: commands-offline.txt:1
@@ -735,7 +735,7 @@ msgstr "kiedy %m.triggerSensor > %n"
 #: commands-online.txt:281
 #: commands-offline.txt:281
 msgid "when @greenFlag clicked"
-msgstr "kiedy kliknięto @greenFlag"
+msgstr "kiedy @greenFlag"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 #: commands-online.txt:283
@@ -779,12 +779,11 @@ msgstr "współrzędna x"
 msgid "y position"
 msgstr "współrzędna y"
 
-#, fuzzy
 msgid "%m.list contains %s"
-msgstr "%m.list zawiera %s?"
+msgstr "%m.list zawiera %s"
 
 msgid "go to %m.location"
 msgstr "idź do %m.location"
 
 msgid "when Stage clicked"
-msgstr ""
+msgstr "po kliknięciu Etapu"

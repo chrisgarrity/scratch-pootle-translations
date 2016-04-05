@@ -932,7 +932,7 @@ msgid "ghost"
 msgstr "幻影"
 
 msgid "Go to My Stuff"
-msgstr "去我的房間"
+msgstr "移至「我的東西」"
 
 msgid "Group"
 msgstr "群組"

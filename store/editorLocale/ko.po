@@ -1856,7 +1856,7 @@ msgid "Remove Background"
 msgstr "배경 없애기"
 
 msgid "random position"
-msgstr ""
+msgstr "랜덤 위치"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"

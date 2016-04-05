@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-05-29 13:54+0000\n"
-"PO-Revision-Date: 2015-10-04 00:50+0000\n"
+"PO-Revision-Date: 2016-03-26 15:02+0000\n"
 "Last-Translator: parukhin <parukhin@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ru\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1443919820.000000\n"
+"X-POOTLE-MTIME: 1459004530.000000\n"
 
 #: commands-online.txt:1 commands-offline.txt:1
 msgid "%b and %b"
@@ -624,15 +624,14 @@ msgstr "положение x"
 msgid "y position"
 msgstr "положение y"
 
-#, fuzzy
 msgid "%m.list contains %s"
-msgstr "%m.list содержит %s?"
+msgstr "%m.list содержит %s"
 
 msgid "go to %m.location"
 msgstr "перейти в %m.location"
 
 msgid "when Stage clicked"
-msgstr ""
+msgstr "когда кликнут по сцене"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -659,7 +658,7 @@ msgid "A newer version of Scratch is available"
 msgstr "Доступна новая версия Скретч"
 
 msgid "About"
-msgstr "О программе"
+msgstr "О Скретч"
 
 msgid "abs"
 msgstr "модуль"
@@ -870,9 +869,8 @@ msgstr "Кларнет"
 msgid "Claves"
 msgstr "Клавесин"
 
-#, fuzzy
 msgid "clean up"
-msgstr "упорядочить"
+msgstr "очистить"
 
 msgid "Clear"
 msgstr "Очистить"
@@ -1024,7 +1022,7 @@ msgid "edge"
 msgstr "край"
 
 msgid "Edit"
-msgstr "Редактировать"
+msgstr "Правка"
 
 msgid "edit"
 msgstr "редактировать"
@@ -1672,7 +1670,7 @@ msgid "Slider Range"
 msgstr "Диапазон рычажка"
 
 msgid "Small stage layout"
-msgstr "Макет малой сцены"
+msgstr "Уменьшенная сцена"
 
 msgid "Smooth"
 msgstr "Сгладить"
@@ -2066,13 +2064,13 @@ msgid "any"
 msgstr "любой из"
 
 msgid "Record Project Video"
-msgstr ""
+msgstr "Записать видео проекта"
 
 msgid "Remove Background"
-msgstr ""
+msgstr "Удалить фон"
 
 msgid "random position"
-msgstr ""
+msgstr "случайная позиция"
 
 #~ msgid "go to %m.spriteOrMouse"
 #~ msgstr "перейти в %m.spriteOrMouse"

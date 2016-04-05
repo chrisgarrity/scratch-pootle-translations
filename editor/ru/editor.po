@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-09-25 19:42+0000\n"
+"PO-Revision-Date: 2016-03-26 15:00+0000\n"
 "Last-Translator: parukhin <parukhin@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ru\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1443210147.000000\n"
+"X-POOTLE-MTIME: 1459004457.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -40,7 +40,7 @@ msgid "A newer version of Scratch is available"
 msgstr "Доступна новая версия Скретч"
 
 msgid "About"
-msgstr "О программе"
+msgstr "О Скретч"
 
 #~ msgid "About LEGO WeDo extension..."
 #~ msgstr "О дополнении LEGO WeDo..."
@@ -266,9 +266,8 @@ msgstr "Кларнет"
 msgid "Claves"
 msgstr "Клавесин"
 
-#, fuzzy
 msgid "clean up"
-msgstr "упорядочить"
+msgstr "очистить"
 
 msgid "Clear"
 msgstr "Очистить"
@@ -432,7 +431,7 @@ msgid "edge"
 msgstr "край"
 
 msgid "Edit"
-msgstr "Редактировать"
+msgstr "Правка"
 
 msgid "edit"
 msgstr "редактировать"
@@ -1146,7 +1145,7 @@ msgid "Slider Range"
 msgstr "Диапазон рычажка"
 
 msgid "Small stage layout"
-msgstr "Макет малой сцены"
+msgstr "Уменьшенная сцена"
 
 msgid "Smooth"
 msgstr "Сгладить"
@@ -1715,13 +1714,13 @@ msgstr "любой из"
 #~ msgstr "Короткое гуиро"
 
 msgid "Record Project Video"
-msgstr ""
+msgstr "Записать видео проекта"
 
 msgid "Remove Background"
-msgstr ""
+msgstr "Удалить фон"
 
 msgid "when Stage clicked"
 msgstr ""
 
 msgid "random position"
-msgstr ""
+msgstr "случайная позиция"

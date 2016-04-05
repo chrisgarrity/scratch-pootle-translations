@@ -858,7 +858,7 @@ msgid "Edit Block"
 msgstr "ブロックを編集"
 
 msgid "Effects"
-msgstr "効果音"
+msgstr "効果"
 
 msgid "Electric Guitar"
 msgstr "エレキギター"

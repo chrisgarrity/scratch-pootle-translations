@@ -1865,13 +1865,13 @@ msgid "any"
 msgstr "(موقع ما)"
 
 msgid "Record Project Video"
-msgstr ""
+msgstr "تسجيل فيديو المشروع"
 
 msgid "Remove Background"
-msgstr ""
+msgstr "إزالة الخلفية"
 
 msgid "random position"
-msgstr ""
+msgstr "موضع عشوائي"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"

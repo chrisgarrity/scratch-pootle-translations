@@ -488,8 +488,8 @@ msgid ""
 msgstr ""
 "<b>Informacije o spremenljivkah v oblaku</b><br>&nbsp;<br>Trenutno so "
 "podprta samo števila<br>Klepetalnice niso dovoljene in bodo "
-"odstranjene<br>Za več informacij <a href= target=> si oglej Pogosta "
-"vprašanja o podatkih o podatkih v oblaku!</a>"
+"odstranjene<br>Za več informacij <a href=\"/help/faq/#clouddata\" target="
+"\"_blank\"> si oglej Pogosta vprašanja o podatkih o podatkih v oblaku!</a>"
 
 msgid "A connected"
 msgstr "A se je pridružil"
@@ -1821,13 +1821,13 @@ msgid "any"
 msgstr "poljuben"
 
 msgid "Record Project Video"
-msgstr ""
+msgstr "Posnemi video projekta"
 
 msgid "Remove Background"
-msgstr ""
+msgstr "Odstrani ozadje"
 
 msgid "random position"
-msgstr ""
+msgstr "naključni položaj"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"

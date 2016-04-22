@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2016-03-26 07:09+0000\n"
-"Last-Translator: Viktor <vvarga01@gmail.com>\n"
+"PO-Revision-Date: 2016-04-20 15:40+0000\n"
+"Last-Translator: Péter <bernatp@hotmail.hu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1458976173.000000\n"
+"X-POOTLE-MTIME: 1461166806.000000\n"
 
 msgid "%b and %b"
 msgstr "%b és %b"
@@ -21,7 +21,7 @@ msgid "%b or %b"
 msgstr "%b vagy %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
-msgstr "%m.spriteOrStage %m.attribute értéke"
+msgstr "%m.attribute értéke: %m.spriteOrStage"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp%n"
@@ -85,6 +85,7 @@ msgstr "x változzon %n"
 msgid "change y by %n"
 msgstr "y változzon %n"
 
+# Felszólító módúnak kell lennie (mint minden más utasításnak), de a "törölj" tárgyesetű szó nélkül szokatlan lenne.
 msgid "clear"
 msgstr "töröld a rajzokat"
 
@@ -113,10 +114,11 @@ msgid "days since 2000"
 msgstr "napok 2000 óta"
 
 msgid "define"
-msgstr "meghatározás:"
+msgstr "feladat:"
 
+# A változók fordított sorrendje esetén magyarosabb lenne, de úgy nem jelenik meg a Scratch-ben a fordítás
 msgid "delete %d.listDeleteItem of %m.list"
-msgstr "töröld %m.list %d.listDeleteItem elemét"
+msgstr "töröld %d.listDeleteItem elemét: %m.list"
 
 msgid "delete this clone"
 msgstr "töröld e másolatot"
@@ -127,8 +129,9 @@ msgstr "irány"
 msgid "distance"
 msgstr "távolság"
 
+# A Scratch hagyományos magyar fordításában kerüljük az "ettől", "ennyivel" stb., a programkódot terjengősebbé és nehezebben áttekinthetővé tévő szavakat.
 msgid "distance to %m.spriteOrMouse"
-msgstr "távolság ettől: %m.spriteOrMouse"
+msgstr "távolság: %m.spriteOrMouse"
 
 msgid "else"
 msgstr "különben"
@@ -166,11 +169,13 @@ msgstr "ha %b akkor"
 msgid "if on edge, bounce"
 msgstr "ha szélen vagy, pattanj vissza"
 
+# Nem magyaros, de sajnos a változóknak eredeti sorrendben kell lenniük, hogy átmenjen a fordítás.
 msgid "insert %s at %d.listItem of %m.list"
-msgstr "szúrd be %m.list %d.listItem helyére: %s"
+msgstr "szúrd be %s %d.listItem helyére: %m.list"
 
+# Nem magyaros a szórend, de csak így jelenik meg a Scratch-ben.
 msgid "item %d.listItem of %m.list"
-msgstr "%m.list %d.listItem eleme"
+msgstr "%d.listItem eleme: %m.list"
 
 msgid "join %s %s"
 msgstr "együtt %s %s"
@@ -179,13 +184,13 @@ msgid "key %m.key pressed?"
 msgstr "%m.key lenyomva?"
 
 msgid "length of %m.list"
-msgstr "%m.list lista hossza"
+msgstr "%m.list hossza"
 
 msgid "length of %s"
 msgstr "%s hossza"
 
 msgid "letter %n of %s"
-msgstr "%s %n betűje"
+msgstr "%n betűje: %s"
 
 msgid "Looks"
 msgstr "Kinézet"
@@ -228,10 +233,11 @@ msgid "Pen"
 msgstr "Toll"
 
 msgid "pen down"
-msgstr "érintsd oda a tollat"
+msgstr "tollat tedd le"
 
+# A "toll" szó a legfontosabb, az kerül legelőre.
 msgid "pen up"
-msgstr "emeld fel a tollat"
+msgstr "tollat emeld fel"
 
 msgid "pick random %n to %n"
 msgstr "véletlen %n és %n között"
@@ -262,7 +268,7 @@ msgid "repeat until %b"
 msgstr "ismételd eddig: %b"
 
 msgid "replace item %d.listItem of %m.list with %s"
-msgstr "cseréld le %m.list %d.listItem elemét erre: %s"
+msgstr "cseréld le %d.listItem elemét %m.list: %s"
 
 msgid "reset timer"
 msgstr "nullázd az időzítőt"
@@ -283,7 +289,7 @@ msgid "Sensing"
 msgstr "Érzékelés"
 
 msgid "sensor %m.booleanSensor?"
-msgstr "sensor %m.booleanSensor?"
+msgstr "szenzoron %m.booleanSensor?"
 
 msgid "set %m.effect effect to %n"
 msgstr "%m.effect hatás legyen %n"
@@ -383,7 +389,7 @@ msgid "think %s for %n secs"
 msgstr "gondold: %s %n mp-ig"
 
 msgid "tilt"
-msgstr "tilt"
+msgstr "döntés"
 
 msgid "timer"
 msgstr "időzítő"
@@ -400,18 +406,18 @@ msgstr "fordulj @turnLeft %n fokot"
 msgid "turn @turnRight %n degrees"
 msgstr "fordulj @turnRight %n fokot"
 
-# 82%
+# Felszólító mód kell
 msgid "turn %m.motor off"
-msgstr "%m.motor leállítása"
+msgstr "%m.motor álljon le"
 
 # 81%
 msgid "turn %m.motor on"
-msgstr "%m.motor indítása"
+msgstr "%m.motor induljon"
 
 # 80%
 # 89%
 msgid "turn %m.motor on for %n secs"
-msgstr "%m.motor menjen %n másodpercig"
+msgstr "%m.motor menjen %n mp-ig"
 
 msgid "turn video %m.videoState"
 msgstr "videót kapcsold %m.videoState"
@@ -420,7 +426,7 @@ msgid "username"
 msgstr "felhasználónév"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr "%m.stageOrThis %m.videoMotionType észlelése"
+msgstr "videón %m.videoMotionType: %m.stageOrThis"
 
 msgid "volume"
 msgstr "hangerő"
@@ -431,15 +437,15 @@ msgstr "várj %n mp-et"
 msgid "wait until %b"
 msgstr "várj eddig: %b"
 
-# 75%
+# A többi eseménynél sincs a magyar fordításban "amikor"
 msgid "when %m.booleanSensor"
-msgstr "amikor %m.booleanSensor"
+msgstr "%m.booleanSensor esetén"
 
 msgid "when %m.key key pressed"
 msgstr "%m.key lenyomásakor"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr "amikor %m.sensor %m.lessMore %n"
+msgstr "%m.sensor %m.lessMore %n esetén"
 
 msgid "when %m.triggerSensor > %n"
 msgstr "%m.triggerSensor > %n esetén"
@@ -452,13 +458,13 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "%m.backdrop háttér beállításakor"
 
 msgid "when distance %m.lessMore %n"
-msgstr "amikor a távolság %m.lessMore %n"
+msgstr "távolság %m.lessMore %n esetén"
 
 msgid "when I receive %m.broadcast"
 msgstr "%m.broadcast üzenet érkezésekor"
 
 msgid "when I start as a clone"
-msgstr "másolatként kezdéskor"
+msgstr "másolatként induláskor"
 
 msgid "when Stage clicked"
 msgstr "játéktérre kattintáskor"
@@ -467,7 +473,7 @@ msgid "when this sprite clicked"
 msgstr "e szereplőre kattintáskor"
 
 msgid "when tilt %m.eNe %n"
-msgstr "amikor a dőlés %m.eNe %n"
+msgstr "döntés %m.eNe %n esetén"
 
 msgid "x position"
 msgstr "x hely"
@@ -480,7 +486,7 @@ msgid "%m.list contains %s?"
 msgstr "%m.list tartalmazza: %s?"
 
 msgid "go to %m.location"
-msgstr "ugorj %m.location"
+msgstr "ugorj: %m.location"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -1966,7 +1972,7 @@ msgid "Remove Background"
 msgstr "Háttér törlése"
 
 msgid "random position"
-msgstr "véletlenszerű pozíció"
+msgstr "véletlen hely"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"

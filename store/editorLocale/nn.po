@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2016-03-11 23:04+0000\n"
+"PO-Revision-Date: 2016-04-16 10:22+0000\n"
 "Last-Translator: Karl Ove <karl@huftis.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nn\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1457737456.000000\n"
+"X-POOTLE-MTIME: 1460802139.000000\n"
 
 msgid "%b and %b"
 msgstr "%b og %b"
@@ -43,7 +43,7 @@ msgstr "spør %s og vent"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
-msgstr "bakgrunn "
+msgstr "bakgrunnsnr."
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
@@ -98,7 +98,7 @@ msgid "Control"
 msgstr "Styring"
 
 msgid "costume #"
-msgstr "drakt "
+msgstr "draktnr."
 
 msgid "create clone of %m.spriteOnly"
 msgstr "lag klon av %m.spriteOnly"
@@ -345,7 +345,7 @@ msgid "show list %m.list"
 msgstr "vis lista %m.list"
 
 msgid "show variable %m.var"
-msgstr "vis variablen %m.var"
+msgstr "vis variabelen %m.var"
 
 msgid "size"
 msgstr "storleik"

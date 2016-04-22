@@ -1856,13 +1856,13 @@ msgid "any"
 msgstr "någon"
 
 msgid "Record Project Video"
-msgstr ""
+msgstr "Spela in projektvideo"
 
 msgid "Remove Background"
-msgstr ""
+msgstr "Ta bort bakgrund"
 
 msgid "random position"
-msgstr ""
+msgstr "slumpmässig position"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"

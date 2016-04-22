@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2016-03-11 09:24+0000\n"
+"PO-Revision-Date: 2016-04-22 11:23+0000\n"
 "Last-Translator: Ganesh <m.ganesh.mohan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ta\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1457688297.000000\n"
+"X-POOTLE-MTIME: 1461324205.000000\n"
 
 msgid "%b and %b"
 msgstr "%b மற்றும் %b"
@@ -33,13 +33,13 @@ msgid "%n mod %n"
 msgstr "%n வகு மீதி %n"
 
 msgid "add %s to %m.list"
-msgstr "%s ஐ %m.list பட்டியலில் சேர்க்கவும்"
+msgstr "%s ஐ %m.list பட்டியலில் சேர்"
 
 msgid "answer"
 msgstr "பதில்"
 
 msgid "ask %s and wait"
-msgstr "%s ஐ கேட்டு காத்திருக்கவும்"
+msgstr "%s ஐ கேட்டு காத்திரு"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
@@ -50,10 +50,10 @@ msgid "backdrop name"
 msgstr "பின்னணி பெயர்"
 
 msgid "broadcast %m.broadcast"
-msgstr "%m.broadcast ஒளிபரப்பு"
+msgstr "%m.broadcast பரப்பு"
 
 msgid "broadcast %m.broadcast and wait"
-msgstr "%m.broadcast ஒளிபரப்பி காத்திரு"
+msgstr "%m.broadcast பரப்பி காத்திரு"
 
 msgid "change %m.effect effect by %n"
 msgstr "%m.effect-ன் விளைவை %n ஆல் மாற்று"
@@ -68,10 +68,10 @@ msgid "change pen shade by %n"
 msgstr "பேனா வண்ணச்சாயலை %n ஆல் மாற்று"
 
 msgid "change pen size by %n"
-msgstr "பேனா உருவளவை %n ஆல் மாற்று"
+msgstr "பேனா அளவை %n ஆல் மாற்று"
 
 msgid "change size by %n"
-msgstr "உருவளவை %n ஆல் மாற்று"
+msgstr "அளவை %n ஆல் மாற்று"
 
 msgid "change tempo by %n"
 msgstr "இசைவேகத்தை %n ஆல் மாற்று"
@@ -116,10 +116,10 @@ msgid "define"
 msgstr "வரையறு"
 
 msgid "delete %d.listDeleteItem of %m.list"
-msgstr "%d.listDeleteItem ஐ %m.list லிருந்து நீக்கவும்"
+msgstr "%d.listDeleteItem ஐ %m.list லிருந்து நீக்கு"
 
 msgid "delete this clone"
-msgstr "இந்த நகலை நீக்கவும்"
+msgstr "இந்த நகலை நீக்கு"
 
 msgid "direction"
 msgstr "திசை"
@@ -137,28 +137,28 @@ msgid "Events"
 msgstr "நிகழ்வுகள்"
 
 msgid "forever"
-msgstr "முடிவில்லாமல்"
+msgstr "என்றும்"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr "x:%n  y:%n க்கு   %n வினாடியில் நழுவு"
+msgstr "x:%n y:%n க்கு %n வினாடியில் நழுவு"
 
 msgid "go back %n layers"
-msgstr "%n அடுக்குகள் பின்செல்லவும்"
+msgstr "%n அடுக்குகள் பின்செல்"
 
 msgid "go to front"
 msgstr "முன்னால் செல்"
 
 msgid "go to x:%n y:%n"
-msgstr "x:5n y:%n  க்கு செல்"
+msgstr "x:%n y:%n  க்கு செல்"
 
 msgid "hide"
-msgstr "மறைக்கவும்"
+msgstr "மறை"
 
 msgid "hide list %m.list"
-msgstr "%m.list பட்டியலை மறைக்க"
+msgstr "%m.list பட்டியலை மறை"
 
 msgid "hide variable %m.var"
-msgstr "%m.var மாறிலியை மறைக்கவும்"
+msgstr "%m.var மாறிலியை மறை"
 
 msgid "if %b then"
 msgstr "%b ஆம் எனில்"
@@ -167,7 +167,7 @@ msgid "if on edge, bounce"
 msgstr "விளிம்பில் இருந்தால் திரும்பு"
 
 msgid "insert %s at %d.listItem of %m.list"
-msgstr "%s ஐ %d.listItem-க %m.list ல் சேர்க்கவும்"
+msgstr "%s ஐ %d.listItem-க %m.list ல் சொருகு"
 
 msgid "item %d.listItem of %m.list"
 msgstr "%m.list ன் %d.listItem பொருள் "
@@ -176,7 +176,7 @@ msgid "join %s %s"
 msgstr "%s ஐ %s உடன் இணை"
 
 msgid "key %m.key pressed?"
-msgstr "%m.key கீ அழுத்தப்பட்டதா?"
+msgstr "%m.key கீ அழுத்தப்பட்டதா?  "
 
 msgid "length of %m.list"
 msgstr "%m.list ன் நீளம்"
@@ -194,13 +194,13 @@ msgid "loudness"
 msgstr "ஒலியளவு"
 
 msgid "More Blocks"
-msgstr "மேலும் தொகுதிகள் "
+msgstr "மேலும் தொகுதிகள்"
 
 msgid "Motion"
 msgstr "இயக்கம்"
 
 msgid "mouse down?"
-msgstr "சுட்டி கீழே"
+msgstr "சுட்டி அழுத்தப்பட்டுள்ளதா?"
 
 msgid "mouse x"
 msgstr "சுட்டி x"
@@ -209,7 +209,7 @@ msgid "mouse y"
 msgstr "சுட்டி y"
 
 msgid "move %n steps"
-msgstr "%n அடிகள் நகரவும்"
+msgstr "%n அடிகள் நகர்"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "next backdrop"
@@ -234,7 +234,7 @@ msgid "pen up"
 msgstr "பேனா மேலே"
 
 msgid "pick random %n to %n"
-msgstr "%n லிருந்து %n க்குள் சமவாய்ப்பு எண்ணை எடு"
+msgstr "%n லிருந்து %n க்குள் ஏதேனும் எண்ணை எடு"
 
 msgid "play drum %d.drum for %n beats"
 msgstr " %d.drum பறையை %n துடிப்புகளுக்கு அடி"
@@ -243,10 +243,10 @@ msgid "play note %d.note for %n beats"
 msgstr "%d.note ஸ்வரம் %n துடிப்புகளுக்கு இசை"
 
 msgid "play sound %m.sound"
-msgstr "%m.sound ஒலிக்க"
+msgstr "%m.sound ஒலிக்க வை"
 
 msgid "play sound %m.sound until done"
-msgstr "%m.sound முடியும் வரை ஒலிக்க "
+msgstr "%m.sound முடியும் வரை ஒலிக்க வை "
 
 msgid "point in direction %d.direction"
 msgstr "%d.direction பக்கம் பார்"
@@ -264,7 +264,7 @@ msgid "replace item %d.listItem of %m.list with %s"
 msgstr "%d.listItem பொருளை %m.list லிருந்து  %s ஆல் மாற்றுக"
 
 msgid "reset timer"
-msgstr "நேரங்கணிப்பியின்  நிலைமீட்பு"
+msgstr "நேரங்கணிப்பியின் நிலைமீள்"
 
 msgid "rest for %n beats"
 msgstr "%n துடிப்புகள் ஓய்வெடு"
@@ -282,7 +282,7 @@ msgid "Sensing"
 msgstr "உணர்வு"
 
 msgid "sensor %m.booleanSensor?"
-msgstr "உணரி  %m.booleanSensor?"
+msgstr "உணரி %m.booleanSensor?"
 
 msgid "set %m.effect effect to %n"
 msgstr "%m.effect விளைவிற்கு %n ஒதுக்கு"
@@ -291,40 +291,40 @@ msgid "set %m.var to %s"
 msgstr "%m.var-க்கு %s ஐ ஒதுக்கு "
 
 msgid "set instrument to %d.instrument"
-msgstr "இசைக்கருவி %d.instrument தேர்வுசெய்"
+msgstr "கருவியை %d.instrument ஆகசெய்"
 
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "%m.motorDirection-க்கு %m.motor2 திசையை  ஒதுக்கு "
+msgstr " %m.motor2 திசையை %m.motorDirection-க்கு ஒதுக்கு"
 
 msgid "set %m.motor power to %n"
-msgstr "%m.motor சக்திக்கு %n  ஒதுக்கவும்"
+msgstr "%m.motor சக்தியை %n ஆகசெய்"
 
 msgid "set pen color to %c"
-msgstr "பேனா நிறத்திற்கு %c நிறம் ஒதுக்கு"
+msgstr "பேனா நிறத்தை %c நிறம் ஆகசெய்"
 
 msgid "set pen color to %n"
-msgstr "பேனா நிறத்திற்கு %n  ஒதுக்கு"
+msgstr "பேனா நிறத்தை %n ஆகசெய்"
 
 msgid "set pen shade to %n"
-msgstr "பேனா சாயலுக்கு  %n  ஒதுக்கு"
+msgstr "பேனா சாயலை %n ஆகசெய்"
 
 msgid "set pen size to %n"
-msgstr "பேனா உருவளவிற்கு   %n  ஒதுக்கு"
+msgstr "பேனா அளவை %n ஆகசெய்"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr "சுழற்சி பாணி %m.rotationStyle"
+msgstr "சுழற்சி பாணியை %m.rotationStyle ஆகசெய்"
 
 msgid "set size to %n%"
-msgstr "உருவளவிற்கு   %n%  ஒதுக்கு "
+msgstr "அளவை %n% ஆகசெய்"
 
 msgid "set tempo to %n bpm"
-msgstr "இசைவேகம்  %n  பிபிஎம்  ஒதுக்கவும்"
+msgstr "இசைவேகத்தை %n பிபிஎம்  ஆகசெய்"
 
 msgid "set video transparency to %n%"
-msgstr ""
+msgstr "காணொலி ஊடுநோக்கை %n% ஆகசெய்"
 
 msgid "set volume to %n%"
-msgstr "ஒலி அளவுக்கு %n%  ஒதுக்கு "
+msgstr "ஒலி அளவை %n% ஆகசெய்"
 
 msgid "set x to %n"
 msgstr "x-க்கு %n  ஒதுக்கு"

@@ -1832,13 +1832,13 @@ msgid "any"
 msgstr "ausazkoa"
 
 msgid "Record Project Video"
-msgstr ""
+msgstr "Proiektuaren Bideoa Grabatu"
 
 msgid "Remove Background"
-msgstr ""
+msgstr "Atzealdea ezabatu"
 
 msgid "random position"
-msgstr ""
+msgstr "ausazko kokapena"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"

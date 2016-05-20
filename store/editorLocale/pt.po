@@ -1852,7 +1852,7 @@ msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr "O seu projecto foi carregado em scratch.mit.edu"
 
 msgid "any"
-msgstr "qualquer dos"
+msgstr "qualquer"
 
 msgid "Record Project Video"
 msgstr "Gravar Vídeo do Projecto"

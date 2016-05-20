@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-12-31 03:44+0000\n"
-"Last-Translator: dadiss <dadiss@gmail.com>\n"
+"PO-Revision-Date: 2016-05-04 14:35+0000\n"
+"Last-Translator: Stefan Einar <stefaneinar@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: is\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1451533487.000000\n"
+"X-POOTLE-MTIME: 1462372514.000000\n"
 
 msgid "%b and %b"
 msgstr "%b og %b"
@@ -462,7 +462,7 @@ msgid "when I start as a clone"
 msgstr "þegar ég byrja sem afrit"
 
 msgid "when Stage clicked"
-msgstr ""
+msgstr "þegar smellt er á svið"
 
 msgid "when this sprite clicked"
 msgstr "þegar teikningin fær smell"
@@ -704,7 +704,6 @@ msgstr "Klarinet"
 msgid "Claves"
 msgstr "Taktstangir"
 
-#, fuzzy
 msgid "clean up"
 msgstr "hreinsa til"
 
@@ -781,7 +780,7 @@ msgid "Costumes > 1"
 msgstr "Búningar > 1"
 
 msgid "Could not retrieve new application from server."
-msgstr "Get ekki sótt nýtt forrit frá vefþjóni."
+msgstr "Get ekki sótt nýtt forrit frá þjóni."
 
 msgid "Cowbell"
 msgstr "Kúabjalla"
@@ -1278,7 +1277,7 @@ msgid "Password"
 msgstr "Lykilorð"
 
 msgid "Password is required"
-msgstr "Lykilorð nauðsynlegt"
+msgstr "Lykilorð er nauðsynlegt"
 
 msgid "paste"
 msgstr "líma"
@@ -1326,7 +1325,7 @@ msgid "Project name"
 msgstr "Heiti verkefnis"
 
 msgid "Project name is required"
-msgstr "Nafn verkefnis er nauðsynlegt"
+msgstr "Heiti verkefnis er nauðsynlegt"
 
 msgid "random"
 msgstr "slembi"
@@ -1768,7 +1767,7 @@ msgid "Vibraslap"
 msgstr "Víbrastrengur"
 
 msgid "video direction"
-msgstr "stefna myndbands"
+msgstr "Átt myndbands"
 
 msgid "video motion"
 msgstr "hreyfimynd"
@@ -1814,10 +1813,10 @@ msgstr ""
 "<br>Breytingar sem þú gerir verða aðeins tímabundnar."
 
 msgid "Your Scratch name"
-msgstr "Scratch nafnið þitt"
+msgstr "Þitt Scratch nafn"
 
 msgid "Your Scratch name is required"
-msgstr "Scratch nafnið þitt er nauðsynlegt"
+msgstr "Þitt Scratch nafn er nauðsynlegt"
 
 # Offline editor only
 msgid "All Tips"
@@ -1827,11 +1826,11 @@ msgstr "Allar ábendingar"
 msgid ""
 "An updated version of the Scratch offline editor is available on the Scratch "
 "website."
-msgstr "Uppfærða útgáfu Scratch forritsins má finna á Scratch vefsíðunni."
+msgstr "Uppfærð útgáfa af Scratch forritinu má finna á Scratch vefsíðunni."
 
 # Offline editor only
 msgid "Could not retrieve update location from server."
-msgstr "Ekki tókst að sækja staðsetningu uppfærslu frá vefþjóni."
+msgstr "Gat ekki sótt slóð á uppfærslu frá vefþjóni."
 
 # Offline editor only
 msgid "Could not retrieve version information from server."
@@ -1839,7 +1838,7 @@ msgstr "Gat ekki sótt útgáfu upplýsingar frá vefþjóni."
 
 # Offline editor only
 msgid "Could not write file:"
-msgstr "Gat ekki skrifað skrá:"
+msgstr "Gat ekki skrifað skjal:"
 
 # Offline editor only
 msgid "Downloading new version..."
@@ -1847,7 +1846,7 @@ msgstr "Sæki nýja útgáfu..."
 
 # Offline editor only
 msgid "Error saving project"
-msgstr "Ekki tókst að vista verkefni"
+msgstr "Villa kom upp þegar reynt var að vista verkefni"
 
 # Offline editor only
 msgid "Force help file update"
@@ -1859,11 +1858,11 @@ msgstr "Setja upp tilraunaútgáfu af HTTP viðbót"
 
 # Offline editor only
 msgid "Loading help files..."
-msgstr "Sæki hjálparskrár..."
+msgstr "Hleð hjálparskjöl..."
 
 # Offline editor only
 msgid "Manual Update Available"
-msgstr "Uppfærsla stendur til boða"
+msgstr "Handvirkar uppfærslur í boði"
 
 # Offline editor only
 msgid "Open Project"
@@ -1883,7 +1882,7 @@ msgstr "Yfirskrifa núverandi verkefni?"
 
 # Offline editor only
 msgid "Running pre-release"
-msgstr "Prufuútgáfa er keyrandi"
+msgstr "Keyri tilrauna-útgáfu"
 
 # Offline editor only
 msgid "Save Project"
@@ -1891,7 +1890,7 @@ msgstr "Vista verkefni"
 
 # Offline editor only
 msgid "Server error:"
-msgstr "Villa frá vefþjóni:"
+msgstr "Villa frá þjóni:"
 
 # Offline editor only
 msgid "Share to Scratch Website"
@@ -1911,7 +1910,7 @@ msgstr "Athugun á uppfærslu mistókst"
 
 # Offline editor only
 msgid "Upload failed"
-msgstr "Ekki tókst að hlaða upp"
+msgstr "Upphleðsla mistókst"
 
 # Offline editor only
 msgid "Visit download page"
@@ -1925,13 +1924,13 @@ msgid "any"
 msgstr "eitthvert"
 
 msgid "Record Project Video"
-msgstr ""
+msgstr "Taka upp myndband fyrir verkefni"
 
 msgid "Remove Background"
-msgstr ""
+msgstr "Fjarlægja bakgrunn"
 
 msgid "random position"
-msgstr ""
+msgstr "slembin staðsetning"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"

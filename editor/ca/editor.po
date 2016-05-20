@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2016-03-18 16:14+0000\n"
-"Last-Translator: Carles <carles.ferrando@gmail.com>\n"
+"PO-Revision-Date: 2016-05-02 17:27+0000\n"
+"Last-Translator: paunin <nindemateo@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1458317665.000000\n"
+"X-POOTLE-MTIME: 1462210058.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -25,8 +25,8 @@ msgid ""
 msgstr ""
 "<b>Informació sobre les variables al núvol</b><br>&nbsp;<br>Actualment només "
 "s'accepten números<br>Els xats no estan permesos i s'eliminaran<br>Si voleu "
-"més informació, <a href= target=>vegeu les Preguntes Més Freqüents sobre les "
-"dades al núvol!</a>"
+"més informació, <a href=\"/help/faq/#clouddata\" target=\"_blank\">Mireu el "
+"núvol de PMF!</a>"
 
 msgid "A connected"
 msgstr "A connectat"
@@ -211,7 +211,7 @@ msgid "can drag in player:"
 msgstr "pot ser arrossegat al reproductor:"
 
 msgid "Cancel"
-msgstr "Cancel·lar"
+msgstr "Cancel·la"
 
 msgid "Cannot Add"
 msgstr ""
@@ -264,9 +264,8 @@ msgstr "Clarinet"
 msgid "Claves"
 msgstr "Claus"
 
-#, fuzzy
 msgid "clean up"
-msgstr "neteja"
+msgstr "esborra"
 
 msgid "Clear"
 msgstr "Neteja"
@@ -275,7 +274,8 @@ msgid "clear senders/receivers"
 msgstr "neteja emissors/receptors"
 
 msgid "Click \"Save now\" to try again or \"Download\" to save"
-msgstr "Fes clic a  per tornar-ho a intentar o bé  per desar"
+msgstr ""
+"Fes clic a «Desa ara»  per tornar-ho a intentar o bé «Descarrega» per desar"
 
 msgid "Close"
 msgstr "Tanca"
@@ -302,7 +302,7 @@ msgid "Conga"
 msgstr "Conga"
 
 msgid "Connecting to Cloud data server..."
-msgstr "Connectant al servidor de dades al núvol..."
+msgstr "S'està connectant al servidor de dades al núvol..."
 
 msgid "Convert to bitmap"
 msgstr "Converteix a mapa de bits"
@@ -311,13 +311,13 @@ msgid "Convert to vector"
 msgstr "Converteix a vectorial"
 
 msgid "Converting mp3..."
-msgstr "Convertint mp3..."
+msgstr "S'està convertint mp3..."
 
 msgid "copy"
 msgstr "còpia"
 
 msgid "Copying..."
-msgstr "Copiant..."
+msgstr "S'està copiant..."
 
 msgid "cos"
 msgstr "cos"
@@ -362,7 +362,7 @@ msgid "Crash Cymbal"
 msgstr "Platets"
 
 msgid "Creating..."
-msgstr "Creant..."
+msgstr "S'està creant..."
 
 msgid "Currently, only numbers can be stored in Cloud variables."
 msgstr "Actualment, només es poden desar números a les variables al núvol."
@@ -374,7 +374,7 @@ msgid "D connected"
 msgstr "D connectat"
 
 msgid "date"
-msgstr "dia"
+msgstr "data"
 
 msgid "day of week"
 msgstr "dia de la setmana"
@@ -592,13 +592,13 @@ msgid "Import"
 msgstr "Importa"
 
 msgid "Importing sound..."
-msgstr "Important so..."
+msgstr "S'està important so..."
 
 msgid "Indoors"
 msgstr "Interiors"
 
 msgid "Installing..."
-msgstr "Instal·lant..."
+msgstr "S'està instal·lant..."
 
 msgid "Instruments"
 msgstr "Instruments"
@@ -655,7 +655,7 @@ msgid "ln"
 msgstr "ln"
 
 msgid "Loading project..."
-msgstr "Carregant el projecte..."
+msgstr "S'està carregant el projecte..."
 
 msgid "log"
 msgstr "log"
@@ -693,7 +693,6 @@ msgstr "Nom del Missatge"
 msgid "message1"
 msgstr "missatge1"
 
-#, fuzzy
 msgid "Microphone volume:"
 msgstr "Volum del micròfon:"
 
@@ -821,7 +820,7 @@ msgid "Offline Editor"
 msgstr "Editor sense connexió"
 
 msgid "OK"
-msgstr "OK"
+msgstr "D'acord"
 
 msgid "on"
 msgstr "activa"
@@ -986,10 +985,10 @@ msgid "reverse"
 msgstr "invertit"
 
 msgid "Revert"
-msgstr "Invertir"
+msgstr "Inverteix"
 
 msgid "Reverting..."
-msgstr "Invertint..."
+msgstr "S'està invertint..."
 
 msgid "right"
 msgstr "dreta"
@@ -1028,10 +1027,10 @@ msgid "Saved"
 msgstr "Desat"
 
 msgid "Saving changes..."
-msgstr "Desant canvis..."
+msgstr "S'estant desant els canvis..."
 
 msgid "Saving..."
-msgstr "Desant..."
+msgstr "S'està desant..."
 
 msgid "Saxophone"
 msgstr "Saxòfon"
@@ -1057,7 +1056,7 @@ msgid "second"
 msgstr "segon"
 
 msgid "See project page"
-msgstr "Veure la pàgina del projecte"
+msgstr "Mostra la pàgina del projecte"
 
 #~ msgid ""
 #~ "See the Tips window (on the right) to install the plug-in and get the "
@@ -1086,13 +1085,13 @@ msgid "Set costume center"
 msgstr "Fixa el centre del vestit"
 
 msgid "set slider min and max"
-msgstr "fixa minim i màx del lliscador"
+msgstr "fixa mínim i màx del lliscador"
 
 msgid "Share"
 msgstr "Comparteix"
 
 msgid "Share to website"
-msgstr ""
+msgstr "Comparteix al lloc web"
 
 msgid "Share to Scratch website"
 msgstr ""
@@ -1252,7 +1251,7 @@ msgid "thing"
 msgstr ""
 
 msgid "This is the current version."
-msgstr ""
+msgstr "Aquesta és la versió actual."
 
 msgid ""
 "This project can detect who is using it, through the “username” block. To "
@@ -1287,7 +1286,7 @@ msgid "timer"
 msgstr "cronòmetre"
 
 msgid "Tips"
-msgstr "Ajuda"
+msgstr "Consells"
 
 msgid "To delete a block definition, first remove all uses of the block."
 msgstr ""
@@ -1334,7 +1333,7 @@ msgid "Undo Revert"
 msgstr "Torna a fer"
 
 msgid "Ungroup"
-msgstr "Separar"
+msgstr "Desagrupa"
 
 msgid "unshared"
 msgstr "no compartit"
@@ -1346,13 +1345,13 @@ msgid "up arrow"
 msgstr "fletxa amunt"
 
 msgid "Update failed"
-msgstr ""
+msgstr "Ha fallat l'actualització"
 
 msgid "Update not needed"
-msgstr ""
+msgstr "No calen actualitzacions"
 
 msgid "Update now"
-msgstr ""
+msgstr "Actualitza ara"
 
 msgid "Upload backdrop from file"
 msgstr "Puja un fons des d'un fitxer"
@@ -1370,13 +1369,13 @@ msgid "Upload sprite from file"
 msgstr "Puja un personatge des d'un fitxer"
 
 msgid "Uploading image..."
-msgstr "Pujant imatge..."
+msgstr "S'està pujant la imatge..."
 
 msgid "Uploading sound..."
-msgstr "Pujant so..."
+msgstr "S'està pujant el so..."
 
 msgid "Uploading sprite..."
-msgstr "Pujant personatge..."
+msgstr "S'està pujant el personatge..."
 
 msgid "variable"
 msgstr "variable"
@@ -1397,7 +1396,7 @@ msgid "Vibraslap"
 msgstr "Vibraslap"
 
 msgid "video direction"
-msgstr ""
+msgstr "Direcció del vídeo"
 
 msgid "video motion"
 msgstr "moviment de vídeo"
@@ -1452,10 +1451,10 @@ msgstr ""
 "canvi que realitzis a l'editor serà temporal i no quedarà emmagatzemat."
 
 msgid "Your Scratch name"
-msgstr ""
+msgstr "El teu nom Scratch"
 
 msgid "Your Scratch name is required"
-msgstr ""
+msgstr "Cal el teu nom Scratch"
 
 #~ msgid ""
 #~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
@@ -1538,48 +1537,47 @@ msgstr "Surt"
 
 # Offline editor only
 msgid "Replace existing project?"
-msgstr ""
+msgstr "Voleu reemplaçar un projecte que ja existeix?"
 
 # Offline editor only
 msgid "Running pre-release"
-msgstr ""
+msgstr "S'està executant la versió prèvia"
 
 # Offline editor only
-#, fuzzy
 msgid "Save Project"
-msgstr "Vols desar el projecte?"
+msgstr "Desa el projecte"
 
 # Offline editor only
 msgid "Server error:"
-msgstr ""
+msgstr "Error del servidor:"
 
 # Offline editor only
 msgid "Share to Scratch Website"
-msgstr ""
+msgstr "Comparteix al lloc web Scratch"
 
 # Offline editor only
 msgid "Success"
-msgstr ""
+msgstr "Èxit"
 
 # Offline editor only
 msgid "This version is newer than the current release version."
-msgstr ""
+msgstr "Aquesta versió és més nova que la versió actual que esteu executant."
 
 # Offline editor only
 msgid "Update check failed"
-msgstr ""
+msgstr "Ha fallat la comprovació de l'actualització"
 
 # Offline editor only
 msgid "Upload failed"
-msgstr ""
+msgstr "Ha fallat la pujada"
 
 # Offline editor only
 msgid "Visit download page"
-msgstr ""
+msgstr "Visita la pàgina de descàrrega"
 
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
-msgstr ""
+msgstr "El teu projecte s'ha pujat a scratch.mit.edu"
 
 #~ msgid "cleanup"
 #~ msgstr "neteja"
@@ -1743,13 +1741,13 @@ msgstr "qualsevol"
 #~ msgstr "Guiro curt"
 
 msgid "Record Project Video"
-msgstr ""
+msgstr "Enregistra un vídeo del projecte"
 
 msgid "Remove Background"
-msgstr ""
+msgstr "Esborra el fons"
 
 msgid "when Stage clicked"
 msgstr ""
 
 msgid "random position"
-msgstr ""
+msgstr "posició aleatòria"

@@ -504,7 +504,7 @@ msgid "a copy of the project file on your computer."
 msgstr "Ένα αντίγραφο του έργου στον υπολογιστή σας."
 
 msgid "A newer version of Scratch is available"
-msgstr ""
+msgstr "Είναι διαθέσιμη μία νεότερη έκδοση του Scratch"
 
 msgid "About"
 msgstr "Σχετικά"
@@ -519,7 +519,7 @@ msgid "acos"
 msgstr "acos"
 
 msgid "Add"
-msgstr ""
+msgstr "Προσθήκη"
 
 msgid "Add an Extension"
 msgstr "Προσθήκη Επέκτασης"
@@ -683,7 +683,7 @@ msgid "Cello"
 msgstr "Τσέλο"
 
 msgid "Check for updates"
-msgstr ""
+msgstr "Έλεγχος για ενημερώσεις"
 
 msgid "Choir"
 msgstr "Χορωδία "
@@ -789,7 +789,7 @@ msgid "Costumes > 1"
 msgstr "Ενδυμασίες > 1"
 
 msgid "Could not retrieve new application from server."
-msgstr ""
+msgstr "Δεν ήταν δυνατή η ανάκτηση νέας εφαρμογής από τον εξυπηρετητή."
 
 msgid "Cowbell"
 msgstr "Κουδουνάκι αγελάδας"
@@ -832,7 +832,7 @@ msgid "don't rotate"
 msgstr "[να μην γίνεται περιστροφή]"
 
 msgid "Don't save"
-msgstr ""
+msgstr "Να μην αποθηκευτεί"
 
 msgid "down"
 msgstr "κάτω"
@@ -986,7 +986,7 @@ msgid "Hand Clap"
 msgstr "Χειροκρότημα"
 
 msgid "Hardware"
-msgstr ""
+msgstr "Υλικό"
 
 msgid "help"
 msgstr ""
@@ -1005,7 +1005,7 @@ msgid "High C"
 msgstr "Υψηλή C"
 
 msgid "Holiday"
-msgstr ""
+msgstr "Διακοπές"
 
 msgid "hour"
 msgstr "ώρα"
@@ -1051,7 +1051,7 @@ msgid "length"
 msgstr "Μήκος"
 
 msgid "Letters"
-msgstr ""
+msgstr "Γράμματα"
 
 msgid "Library"
 msgstr "Βιβλιοθήκη"
@@ -1335,7 +1335,7 @@ msgid "Project name"
 msgstr ""
 
 msgid "Project name is required"
-msgstr ""
+msgstr "Απαιτείται όνομα έργου"
 
 msgid "random"
 msgstr "τυχαία επιλογή"
@@ -1419,10 +1419,10 @@ msgid "Save"
 msgstr "Αποθήκευση"
 
 msgid "Save a copy of this project and add your own ideas."
-msgstr ""
+msgstr "Αποθήκευση αντιγράφου του έργου και προσθήκη δικών σου ιδεών."
 
 msgid "Save as"
-msgstr ""
+msgstr "Αποθήκευση ως"
 
 msgid "Save as a copy"
 msgstr "Αποθήκευση ενός Αντιγράφου"
@@ -1720,13 +1720,13 @@ msgid "up arrow"
 msgstr "Πάνω βέλος"
 
 msgid "Update failed"
-msgstr ""
+msgstr "Η ενημέρωση απέτυχε"
 
 msgid "Update not needed"
-msgstr ""
+msgstr "Δεν απαιτείται ενημέρωση"
 
 msgid "Update now"
-msgstr ""
+msgstr "Ενημέρωση τώρα"
 
 msgid "Upload backdrop from file"
 msgstr "Μεταφόρτωση υποβάθρου από τον υπολογιστή"
@@ -1825,45 +1825,47 @@ msgstr ""
 
 # Offline editor only
 msgid "All Tips"
-msgstr ""
+msgstr "Όλες οι Υποδείξεις"
 
 # Offline editor only
 msgid ""
 "An updated version of the Scratch offline editor is available on the Scratch "
 "website."
 msgstr ""
+"Είναι διαθέσιμη μία ενημερωμένη έκδοση του επεξεργαστή χωρίς σύνδεση του "
+"Scratch στον ιστότοπο του Scratch."
 
 # Offline editor only
 msgid "Could not retrieve update location from server."
-msgstr ""
+msgstr "Δεν ήταν δυνατή η ανάκτηση τοποθεσιών ενημερώσεων από τον εξυπηρετητή."
 
 # Offline editor only
 msgid "Could not retrieve version information from server."
-msgstr ""
+msgstr "Δεν ήταν δυνατή η ανάκτηση πληροφοριών έκδοσης από τον εξυπηρετητή."
 
 # Offline editor only
 msgid "Could not write file:"
-msgstr ""
+msgstr "Αδυναμία εγγραφής αρχείου:"
 
 # Offline editor only
 msgid "Downloading new version..."
-msgstr ""
+msgstr "Λήψη νέας έκδοσης..."
 
 # Offline editor only
 msgid "Error saving project"
-msgstr ""
+msgstr "Σφάλμα αποθήκευσης έργου"
 
 # Offline editor only
 msgid "Force help file update"
-msgstr ""
+msgstr "Αναγκαστική ενημέρωση αρχείου βοήθειας"
 
 # Offline editor only
 msgid "Import experimental HTTP extension"
-msgstr ""
+msgstr "Εισαγωγή πειραματικής επέκτασης HTTP"
 
 # Offline editor only
 msgid "Loading help files..."
-msgstr ""
+msgstr "Φόρτωση αρχείων βοήθειας..."
 
 # Offline editor only
 msgid "Manual Update Available"
@@ -1879,19 +1881,19 @@ msgstr ""
 
 # Offline editor only
 msgid "Quit"
-msgstr ""
+msgstr "Έξοδος"
 
 # Offline editor only
 msgid "Replace existing project?"
-msgstr ""
+msgstr "Αντικατάσταση υπάρχοντος έργου;"
 
 # Offline editor only
 msgid "Running pre-release"
-msgstr ""
+msgstr "Εκτελείται προ-έκδοση"
 
 # Offline editor only
 msgid "Save Project"
-msgstr ""
+msgstr "Αποθήκευση έργου"
 
 # Offline editor only
 msgid "Server error:"
@@ -1915,7 +1917,7 @@ msgstr ""
 
 # Offline editor only
 msgid "Upload failed"
-msgstr ""
+msgstr "Η αποστολή απέτυχε"
 
 # Offline editor only
 msgid "Visit download page"
@@ -1929,10 +1931,10 @@ msgid "any"
 msgstr "οποιοδήποτε"
 
 msgid "Record Project Video"
-msgstr ""
+msgstr "Ηχογράφηση Βίντεο Έργου"
 
 msgid "Remove Background"
-msgstr ""
+msgstr "Αφαίρεση υπόβαθρου"
 
 msgid "random position"
 msgstr ""

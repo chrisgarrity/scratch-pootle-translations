@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2016-04-20 15:40+0000\n"
+"PO-Revision-Date: 2016-05-09 04:53+0000\n"
 "Last-Translator: Péter <bernatp@hotmail.hu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hu\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1461166806.000000\n"
+"X-POOTLE-MTIME: 1462769607.000000\n"
 
 msgid "%b and %b"
 msgstr "%b és %b"
@@ -114,14 +114,14 @@ msgid "days since 2000"
 msgstr "napok 2000 óta"
 
 msgid "define"
-msgstr "feladat:"
+msgstr "kifejtés:"
 
 # A változók fordított sorrendje esetén magyarosabb lenne, de úgy nem jelenik meg a Scratch-ben a fordítás
 msgid "delete %d.listDeleteItem of %m.list"
 msgstr "töröld %d.listDeleteItem elemét: %m.list"
 
 msgid "delete this clone"
-msgstr "töröld e másolatot"
+msgstr "töröld ezen másolatot"
 
 msgid "direction"
 msgstr "irány"
@@ -268,7 +268,7 @@ msgid "repeat until %b"
 msgstr "ismételd eddig: %b"
 
 msgid "replace item %d.listItem of %m.list with %s"
-msgstr "cseréld le %d.listItem elemét %m.list: %s"
+msgstr "cseréld le %d.listItem elemét %m.list : %s"
 
 msgid "reset timer"
 msgstr "nullázd az időzítőt"
@@ -464,13 +464,13 @@ msgid "when I receive %m.broadcast"
 msgstr "%m.broadcast üzenet érkezésekor"
 
 msgid "when I start as a clone"
-msgstr "másolatként induláskor"
+msgstr "másolatként kezdéskor"
 
 msgid "when Stage clicked"
 msgstr "játéktérre kattintáskor"
 
 msgid "when this sprite clicked"
-msgstr "e szereplőre kattintáskor"
+msgstr "ezen szereplőre kattintáskor"
 
 msgid "when tilt %m.eNe %n"
 msgstr "döntés %m.eNe %n esetén"
@@ -486,7 +486,7 @@ msgid "%m.list contains %s?"
 msgstr "%m.list tartalmazza: %s?"
 
 msgid "go to %m.location"
-msgstr "ugorj: %m.location"
+msgstr "ugorj %m.location helyére"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -689,7 +689,7 @@ msgid "Category"
 msgstr "Kategória"
 
 msgid "ceiling"
-msgstr "felkerekítés"
+msgstr "felfelé kerekítve"
 
 msgid "Cello"
 msgstr "Cselló"
@@ -965,7 +965,7 @@ msgid "Flip up-down"
 msgstr "Fel-le tükrözés"
 
 msgid "floor"
-msgstr "lekerekítés"
+msgstr "lefelé kerekítve"
 
 msgid "Flute"
 msgstr "Fuvola"
@@ -1054,7 +1054,7 @@ msgid "Instruments"
 msgstr "Hangszerek"
 
 msgid "large readout"
-msgstr "nagy leolvasás"
+msgstr "nagy kijelző"
 
 msgid "last"
 msgstr "utolsó"
@@ -1686,10 +1686,10 @@ msgstr ""
 "érhetik el."
 
 msgid "this script"
-msgstr "e feladat"
+msgstr "ezen feladat"
 
 msgid "this sprite"
-msgstr "e szereplő"
+msgstr "ezen szereplő"
 
 msgid "this way"
 msgstr "erre"
@@ -1972,7 +1972,7 @@ msgid "Remove Background"
 msgstr "Háttér törlése"
 
 msgid "random position"
-msgstr "véletlen hely"
+msgstr "játéktér véletlen"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-11-19 16:08+0000\n"
-"Last-Translator: iburhan <ibrahim.burhan@gmail.com>\n"
+"PO-Revision-Date: 2016-04-23 06:37+0000\n"
+"Last-Translator: Emmanuella <emma.rumanti@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1447949327.000000\n"
+"X-POOTLE-MTIME: 1461393473.000000\n"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
@@ -301,13 +301,13 @@ msgid "sensor %m.booleanSensor?"
 msgstr "sensor %m.booleanSensor?"
 
 msgid "set %m.effect effect to %n"
-msgstr "set efek %m.effect ke %n"
+msgstr "atur efek %m.effect ke %n"
 
 msgid "set %m.var to %s"
-msgstr "set %m.var ke %s"
+msgstr "atur %m.var ke %s"
 
 msgid "set instrument to %d.instrument"
-msgstr "set alat musik ke %d.instrument"
+msgstr "atur alat musik ke %d.instrument"
 
 # 89%
 # 86%
@@ -318,40 +318,40 @@ msgstr "atur arah %m.motor2 ke %m.motorDirection"
 # 77%
 # 75%
 msgid "set %m.motor power to %n"
-msgstr "atur kekuatan motor pada %n"
+msgstr "atur kekuatan %m.motor pada %n"
 
 msgid "set pen color to %c"
-msgstr "set warna pena ke %c"
+msgstr "atur warna pena ke %c"
 
 msgid "set pen color to %n"
-msgstr "set warna pena ke %n"
+msgstr "atur warna pena ke %n"
 
 msgid "set pen shade to %n"
-msgstr "set ketebalan pena ke %n"
+msgstr "atur ketebalan pena ke %n"
 
 msgid "set pen size to %n"
-msgstr "set ukuran pena ke %n"
+msgstr "atur ukuran pena ke %n"
 
 msgid "set rotation style %m.rotationStyle"
 msgstr "atur gaya rotasi %m.rotationStyle"
 
 msgid "set size to %n%"
-msgstr "set ukuran ke %n%"
+msgstr "atur ukuran ke %n%"
 
 msgid "set tempo to %n bpm"
-msgstr "set tempo ke %n ketukan per menit"
+msgstr "atur tempo ke %n ketukan per menit"
 
 msgid "set video transparency to %n%"
 msgstr "atur transparansi video ke %n%"
 
 msgid "set volume to %n%"
-msgstr "set volume ke %n%"
+msgstr "atur volume ke %n%"
 
 msgid "set x to %n"
-msgstr "set x ke %n"
+msgstr "atur x ke %n"
 
 msgid "set y to %n"
-msgstr "set y ke %n"
+msgstr "atur y ke %n"
 
 msgid "show"
 msgstr "tampilkan"

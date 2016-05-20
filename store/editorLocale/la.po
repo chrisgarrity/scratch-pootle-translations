@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2016-03-14 22:25+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
+"PO-Revision-Date: 2016-05-05 10:59+0000\n"
+"Last-Translator: alisap <parashchenko.alisa@yandex.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: la\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1457994350.000000\n"
+"X-POOTLE-MTIME: 1462445964.000000\n"
 
 msgid "%b and %b"
 msgstr "%b et %b"
@@ -41,13 +41,12 @@ msgid "ask %s and wait"
 msgstr "roga %s et exspecta"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop #"
-msgstr "circumiectus #"
+msgstr "numerus imaginis scaenae"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr ""
+msgstr "nomen imaginis scaenae"
 
 msgid "broadcast %m.broadcast"
 msgstr "dissipa %m.broadcast"
@@ -101,49 +100,49 @@ msgid "costume #"
 msgstr "vestitus #"
 
 msgid "create clone of %m.spriteOnly"
-msgstr ""
+msgstr "fac duplicationem de %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
-msgstr ""
+msgstr "%m.timeAndDate temporarius"
 
 msgid "Data"
-msgstr ""
+msgstr "Informatio"
 
 msgid "days since 2000"
-msgstr ""
+msgstr "dies de 2000"
 
 msgid "define"
-msgstr ""
+msgstr "define"
 
 msgid "delete %d.listDeleteItem of %m.list"
 msgstr "dele %d.listDeleteItem de %m.list"
 
 msgid "delete this clone"
-msgstr ""
+msgstr "dele eam duplicationem"
 
 msgid "direction"
-msgstr "cursus"
+msgstr "directio"
 
 msgid "distance"
-msgstr ""
+msgstr "distantia"
 
 msgid "distance to %m.spriteOrMouse"
 msgstr "spatium ad %m.spriteOrMouse"
 
 msgid "else"
-msgstr "aliter"
+msgstr "si non"
 
 msgid "Events"
-msgstr ""
+msgstr "Facta"
 
 msgid "forever"
 msgstr "perpetuus"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr "labere %n momenta ad x:%n y:%n"
+msgstr "nata %n momenta ad x:%n y:%n"
 
 msgid "go back %n layers"
-msgstr "redi %n tabulatum"
+msgstr "i retro %n ordinibus"
 
 msgid "go to front"
 msgstr "i ad frontem"
@@ -152,19 +151,19 @@ msgid "go to x:%n y:%n"
 msgstr "i ad x:%n y:%n"
 
 msgid "hide"
-msgstr "cela"
+msgstr "late"
 
 msgid "hide list %m.list"
-msgstr ""
+msgstr "late %m.list rationem"
 
 msgid "hide variable %m.var"
-msgstr ""
+msgstr "late %m.var numerum mutabilem"
 
 msgid "if %b then"
-msgstr ""
+msgstr "si %b"
 
 msgid "if on edge, bounce"
-msgstr "si in margine resili"
+msgstr "si in latere, resili"
 
 msgid "insert %s at %d.listItem of %m.list"
 msgstr "insere %s ad %d.listItem de %m.list"
@@ -194,7 +193,7 @@ msgid "loudness"
 msgstr "magnitudo sonitus"
 
 msgid "More Blocks"
-msgstr ""
+msgstr "Magis quadrata"
 
 msgid "Motion"
 msgstr "motio"
@@ -361,7 +360,7 @@ msgid "stamp"
 msgstr "impressa"
 
 msgid "stop %m.stop"
-msgstr ""
+msgstr "fini %m.stop"
 
 msgid "stop all sounds"
 msgstr "prohibe omnes sonitus"
@@ -420,7 +419,7 @@ msgid "turn video %m.videoState"
 msgstr ""
 
 msgid "username"
-msgstr ""
+msgstr "nomen usatoris"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
 msgstr ""
@@ -515,7 +514,7 @@ msgid "go to %m.location"
 msgstr "i ad %m.location"
 
 msgid "10 ^"
-msgstr ""
+msgstr "10 ^"
 
 msgid ""
 "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
@@ -523,18 +522,22 @@ msgid ""
 "removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank"
 "\">see the cloud data FAQ!</a>"
 msgstr ""
+"<b>Informatio de variablebus in nubebus</b><br>&nbsp;<br>Adhuc numeri tantum "
+"possibiles sunt.<br>Regiones pro dicere non licent et delebint.<br>Si mages "
+"sententias vis, <a href=\"/help/faq/#clouddata\" target=\"_blank\">vide RSR "
+"pro informationibus in nubebus!</a>"
 
 msgid "A connected"
-msgstr ""
+msgstr "A coniunctus est"
 
 msgid "a copy of the project file on your computer."
-msgstr ""
+msgstr "duplicatio sententiarum consilii in computatore tuo."
 
 msgid "A newer version of Scratch is available"
-msgstr ""
+msgstr "Possibilitas novior Scratchis existit"
 
 msgid "About"
-msgstr ""
+msgstr "De"
 
 msgid "About LEGO WeDo extension..."
 msgstr ""
@@ -546,94 +549,94 @@ msgid "abs"
 msgstr "abs"
 
 msgid "Account settings"
-msgstr ""
+msgstr "Praeferentiae sententiarum usatoris"
 
 msgid "acos"
-msgstr ""
+msgstr "acos"
 
 msgid "Add"
-msgstr ""
+msgstr "Addere"
 
 msgid "Add an Extension"
-msgstr ""
+msgstr "Magnificationem addere"
 
 msgid "Add boolean input:"
-msgstr ""
+msgstr "Responsum Booleanum addere:"
 
 msgid "add comment"
-msgstr ""
+msgstr "verbum addere"
 
 msgid "add comment here..."
 msgstr ""
 
 msgid "Add label text:"
-msgstr ""
+msgstr "Sententias in quadrato addere:"
 
 msgid "Add number input:"
-msgstr ""
+msgstr "Responsum numericum addere:"
 
 msgid "Add string input:"
-msgstr ""
+msgstr "Responsum verbis addere:"
 
 msgid "all"
 msgstr "omnes"
 
 msgid "All"
-msgstr ""
+msgstr "omnes"
 
 msgid "all around"
-msgstr ""
+msgstr "omnes circum"
 
 msgid "all motors"
 msgstr ""
 
 msgid "Animal"
-msgstr ""
+msgstr "bestia"
 
 msgid "Animals"
-msgstr ""
+msgstr "bestiae"
 
 msgid "asin"
-msgstr ""
+msgstr "asin"
 
 msgid "assets loaded"
-msgstr ""
+msgstr "partes, quae adsunt"
 
 msgid "atan"
-msgstr ""
+msgstr "atan"
 
 msgid "B connected"
-msgstr ""
+msgstr "B coniunctus est"
 
 msgid "Back a layer"
-msgstr ""
+msgstr "Post unum partem"
 
 msgid "backdrop"
-msgstr ""
+msgstr "imago scaenae"
 
 msgid "Backdrop"
-msgstr ""
+msgstr "imago post omnes"
 
 msgid "Backdrop Library"
-msgstr ""
+msgstr "Museum imaginum scaenae"
 
 msgid "backdrop1"
-msgstr ""
+msgstr "imago-scaenae-1"
 
 msgid "backdrops"
-msgstr ""
+msgstr "imagines scaenae"
 
 msgid "Backdrops"
-msgstr ""
+msgstr "Imagines scaenae"
 
 msgid "Backpack"
-msgstr ""
+msgstr "Deponentia"
 
 msgid "Bass"
-msgstr ""
+msgstr "Soni infri"
 
 msgid "Bass Drum"
-msgstr ""
+msgstr "Tympanum sonorum infrorum"
 
 msgid "Bassoon"
 msgstr ""
@@ -643,15 +646,18 @@ msgid ""
 "saved yet. Keep participating on the site you'll be able to use cloud data "
 "soon!"
 msgstr ""
+"Quia sententias usandi Scratchis novas habes, informatio in nube a te mutata "
+"adhuc memorata non erit. Fac in ea pagina, tum mox informationem in nubibus "
+"usare poteris!"
 
 msgid "Bitmap"
-msgstr ""
+msgstr "Imago quadratorum"
 
 msgid "Bitmap Mode"
-msgstr ""
+msgstr "Modus imagis quadratorum"
 
 msgid "Block help"
-msgstr ""
+msgstr "Auxilium quadratorum"
 
 msgid "Bongo"
 msgstr ""
@@ -660,13 +666,13 @@ msgid "brightness"
 msgstr "splendor"
 
 msgid "Bring to front"
-msgstr ""
+msgstr "Pone in frontem"
 
 msgid "Broadcast"
-msgstr ""
+msgstr "Nuntia"
 
 msgid "Brush"
-msgstr ""
+msgstr "Graphis"
 
 msgid "button pressed"
 msgstr "globulus pressus"
@@ -678,7 +684,7 @@ msgid "bytes loaded"
 msgstr ""
 
 msgid "C connected"
-msgstr ""
+msgstr "C coniunctus est"
 
 msgid "Cabasa"
 msgstr ""
@@ -690,22 +696,24 @@ msgid "can drag in player:"
 msgstr ""
 
 msgid "Cancel"
-msgstr ""
+msgstr "Claudere"
 
 msgid "Cannot Add"
 msgstr ""
 
 msgid "Cannot Delete"
-msgstr ""
+msgstr "Delere non possum"
 
 msgid "Can’t find network connection or reach server."
 msgstr ""
+"Coniunctionem coniunctione invenire aut deponentiam coniunctionis petere non "
+"possum."
 
 msgid "Castle"
-msgstr ""
+msgstr "Munitio"
 
 msgid "Category"
-msgstr ""
+msgstr "Rubrica"
 
 msgid "ceiling"
 msgstr ""
@@ -714,25 +722,25 @@ msgid "Cello"
 msgstr ""
 
 msgid "Check for updates"
-msgstr ""
+msgstr "Possibilitates noviores quaerere"
 
 msgid "Choir"
-msgstr ""
+msgstr "Chorus"
 
 msgid "Choose backdrop from library"
-msgstr ""
+msgstr "Elige imaginem scaenae e museo"
 
 msgid "Choose costume from library"
-msgstr ""
+msgstr "Elige vestitum e museo"
 
 msgid "Choose sound from library"
-msgstr ""
+msgstr "Elige sonum e museo"
 
 msgid "Choose sprite from library"
-msgstr ""
+msgstr "Elige imaginem rei e museo"
 
 msgid "Circle"
-msgstr ""
+msgstr "Circulus"
 
 msgid "City"
 msgstr ""
@@ -747,16 +755,18 @@ msgid "clean up"
 msgstr ""
 
 msgid "Clear"
-msgstr ""
+msgstr "Purge"
 
 msgid "clear senders/receivers"
 msgstr ""
 
 msgid "Click \"Save now\" to try again or \"Download\" to save"
 msgstr ""
+"Preme \"Nunc memorare\", ut iterum temptetur, aut \"Acquirere\", ut "
+"memoretur."
 
 msgid "Close"
-msgstr ""
+msgstr "Claudere"
 
 msgid "Closed Hi-Hat"
 msgstr ""
@@ -765,7 +775,7 @@ msgid "Cloud"
 msgstr ""
 
 msgid "Cloud data"
-msgstr ""
+msgstr "Informatio in nube"
 
 msgid "Cloud variable (stored on server)"
 msgstr ""
@@ -774,13 +784,13 @@ msgid "color"
 msgstr "color"
 
 msgid "Color a shape"
-msgstr ""
+msgstr "Colora figuram"
 
 msgid "Conga"
 msgstr ""
 
 msgid "Connecting to Cloud data server..."
-msgstr ""
+msgstr "Ad deponentiam coniunctionis nubis coniungitur"
 
 msgid "Convert to bitmap"
 msgstr ""
@@ -795,16 +805,16 @@ msgid "copy"
 msgstr "Imitare"
 
 msgid "Copying..."
-msgstr ""
+msgstr "Duplicatur..."
 
 msgid "cos"
 msgstr ""
 
 msgid "Costume"
-msgstr ""
+msgstr "Vestitus"
 
 msgid "Costume Library"
-msgstr ""
+msgstr "Museum vestituus"
 
 msgid "costume name"
 msgstr ""
@@ -816,10 +826,10 @@ msgid "costume2"
 msgstr ""
 
 msgid "Costumes"
-msgstr ""
+msgstr "Vestitus"
 
 msgid "Costumes > 1"
-msgstr ""
+msgstr "Vestitus > 1"
 
 msgid "Costumes:"
 msgstr ""
@@ -1878,13 +1888,15 @@ msgstr ""
 
 # Offline editor only
 msgid "All Tips"
-msgstr ""
+msgstr "Omna consilia"
 
 # Offline editor only
 msgid ""
 "An updated version of the Scratch offline editor is available on the Scratch "
 "website."
 msgstr ""
+"Possibilitas novior mutatoris Scratchis non in linea in pagina Scratchis "
+"coniunctionis computatorum existit."
 
 # Offline editor only
 msgid "Could not retrieve update location from server."

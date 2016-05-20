@@ -1904,7 +1904,7 @@ msgid "any"
 msgstr "にんいの"
 
 msgid "random position"
-msgstr ""
+msgstr "ランダムなばしょ"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"

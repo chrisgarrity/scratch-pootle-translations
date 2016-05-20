@@ -3,15 +3,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2016-03-14 22:25+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
+"PO-Revision-Date: 2016-05-05 10:59+0000\n"
+"Last-Translator: alisap <parashchenko.alisa@yandex.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: la\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1457994350.000000\n"
+"X-POOTLE-MTIME: 1462445964.000000\n"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
@@ -48,13 +48,12 @@ msgid "ask %s and wait"
 msgstr "roga %s et exspecta"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop #"
-msgstr "circumiectus #"
+msgstr "numerus imaginis scaenae"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr ""
+msgstr "nomen imaginis scaenae"
 
 msgid "broadcast %m.broadcast"
 msgstr "dissipa %m.broadcast"
@@ -108,49 +107,49 @@ msgid "costume #"
 msgstr "vestitus #"
 
 msgid "create clone of %m.spriteOnly"
-msgstr ""
+msgstr "fac duplicationem de %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
-msgstr ""
+msgstr "%m.timeAndDate temporarius"
 
 msgid "Data"
-msgstr ""
+msgstr "Informatio"
 
 msgid "days since 2000"
-msgstr ""
+msgstr "dies de 2000"
 
 msgid "define"
-msgstr ""
+msgstr "define"
 
 msgid "delete %d.listDeleteItem of %m.list"
 msgstr "dele %d.listDeleteItem de %m.list"
 
 msgid "delete this clone"
-msgstr ""
+msgstr "dele eam duplicationem"
 
 msgid "direction"
-msgstr "cursus"
+msgstr "directio"
 
 msgid "distance"
-msgstr ""
+msgstr "distantia"
 
 msgid "distance to %m.spriteOrMouse"
 msgstr "spatium ad %m.spriteOrMouse"
 
 msgid "else"
-msgstr "aliter"
+msgstr "si non"
 
 msgid "Events"
-msgstr ""
+msgstr "Facta"
 
 msgid "forever"
 msgstr "perpetuus"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr "labere %n momenta ad x:%n y:%n"
+msgstr "nata %n momenta ad x:%n y:%n"
 
 msgid "go back %n layers"
-msgstr "redi %n tabulatum"
+msgstr "i retro %n ordinibus"
 
 #~ msgid "go to %m.spriteOrMouse"
 #~ msgstr "i ad %m.spriteOrMouse"
@@ -162,19 +161,19 @@ msgid "go to x:%n y:%n"
 msgstr "i ad x:%n y:%n"
 
 msgid "hide"
-msgstr "cela"
+msgstr "late"
 
 msgid "hide list %m.list"
-msgstr ""
+msgstr "late %m.list rationem"
 
 msgid "hide variable %m.var"
-msgstr ""
+msgstr "late %m.var numerum mutabilem"
 
 msgid "if %b then"
-msgstr ""
+msgstr "si %b"
 
 msgid "if on edge, bounce"
-msgstr "si in margine resili"
+msgstr "si in latere, resili"
 
 msgid "insert %s at %d.listItem of %m.list"
 msgstr "insere %s ad %d.listItem de %m.list"
@@ -204,7 +203,7 @@ msgid "loudness"
 msgstr "magnitudo sonitus"
 
 msgid "More Blocks"
-msgstr ""
+msgstr "Magis quadrata"
 
 msgid "Motion"
 msgstr "motio"
@@ -371,7 +370,7 @@ msgid "stamp"
 msgstr "impressa"
 
 msgid "stop %m.stop"
-msgstr ""
+msgstr "fini %m.stop"
 
 msgid "stop all sounds"
 msgstr "prohibe omnes sonitus"
@@ -430,7 +429,7 @@ msgid "turn video %m.videoState"
 msgstr ""
 
 msgid "username"
-msgstr ""
+msgstr "nomen usatoris"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
 msgstr ""

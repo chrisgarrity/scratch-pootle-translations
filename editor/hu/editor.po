@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2016-05-09 14:47+0000\n"
+"PO-Revision-Date: 2016-05-28 13:11+0000\n"
 "Last-Translator: Péter <bernatp@hotmail.hu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hu\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1462805221.000000\n"
+"X-POOTLE-MTIME: 1464441077.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -73,10 +73,10 @@ msgid "Add label text:"
 msgstr "Szöveg beszúrása:"
 
 msgid "Add number input:"
-msgstr "Szám mező hozzáadása:"
+msgstr "Számmező hozzáadása:"
 
 msgid "Add string input:"
-msgstr "Szöveg mező hozzáadása:"
+msgstr "Szövegmező hozzáadása:"
 
 msgid "all"
 msgstr "minden feladat"
@@ -412,10 +412,10 @@ msgid "Downloading new version"
 msgstr ""
 
 msgid "duplicate"
-msgstr "duplázás"
+msgstr "megkettőzés"
 
 msgid "Duplicate"
-msgstr "Duplázás"
+msgstr "Megkettőzés"
 
 msgid "e ^"
 msgstr "e ^"
@@ -424,10 +424,10 @@ msgid "edge"
 msgstr "játéktér széle"
 
 msgid "Edit"
-msgstr "Módosítás"
+msgstr "Szerkesztés"
 
 msgid "edit"
-msgstr "módosítás"
+msgstr "szerkesztés"
 
 msgid "Edit Block"
 msgstr "Blokk szerkesztése"
@@ -936,10 +936,10 @@ msgid "redo"
 msgstr "mégis"
 
 msgid "Remix"
-msgstr "Újrakever"
+msgstr "Remixelés"
 
 msgid "Remixing..."
-msgstr "Újrakeverés..."
+msgstr "Remixelés..."
 
 msgid "Remove extension blocks"
 msgstr ""
@@ -1061,7 +1061,7 @@ msgid "select all"
 msgstr "minden kijelölése"
 
 msgid "Select and duplicate"
-msgstr "Kijelölés és duplázás"
+msgstr "Kijelölés és megkettőzés"
 
 msgid "Send to back"
 msgstr "Hátraküldés"
@@ -1276,7 +1276,9 @@ msgid "Tips"
 msgstr "Tippek"
 
 msgid "To delete a block definition, first remove all uses of the block."
-msgstr "A blokkdefiníció törléséhez el kell távolítani minden használóját."
+msgstr ""
+"Egy parancs kifejtésének törlése előtt a parancs összes előfordulását "
+"törölni kell."
 
 msgid "Transportation"
 msgstr "Szállítás"
@@ -1359,7 +1361,7 @@ msgid "Uploading sound..."
 msgstr "Hang betöltése folyamatban..."
 
 msgid "Uploading sprite..."
-msgstr "Útvonal betöltése…"
+msgstr "Szereplő feltöltése…"
 
 msgid "variable"
 msgstr "változó"
@@ -1398,7 +1400,7 @@ msgid "Walking"
 msgstr "Gyaloglás"
 
 msgid "Want to save? Click remix"
-msgstr "Szeretnéd menteni? Kattints az újrakeverésre"
+msgstr "Szeretnéd menteni? Kattints a remixelésre!"
 
 msgid "Which column do you want to import"
 msgstr "Melyik oszlopot szeretnéd betölteni"

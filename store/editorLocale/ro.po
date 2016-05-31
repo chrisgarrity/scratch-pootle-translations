@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2016-01-20 08:49+0000\n"
-"Last-Translator: Mihai <mihai.agape@gmail.com>\n"
+"PO-Revision-Date: 2016-05-26 12:18+0000\n"
+"Last-Translator: Anca-Diana <diacadan@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2);;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1453279771.000000\n"
+"X-POOTLE-MTIME: 1464265122.000000\n"
 
 msgid "%b and %b"
 msgstr "%b și %b"
@@ -462,7 +462,7 @@ msgid "when I start as a clone"
 msgstr "cand incep ca o clona"
 
 msgid "when Stage clicked"
-msgstr ""
+msgstr "când se dă clic pe scenă"
 
 msgid "when this sprite clicked"
 msgstr "cand se da clic pe acest sprite"
@@ -636,7 +636,7 @@ msgid "brightness"
 msgstr "strălucire"
 
 msgid "Bring to front"
-msgstr "Adu în față"
+msgstr "Adu în prim plan"
 
 msgid "Broadcast"
 msgstr "Difuzare"
@@ -720,7 +720,7 @@ msgid "Claves"
 msgstr "Clavecin"
 
 msgid "clean up"
-msgstr ""
+msgstr "curăță"
 
 msgid "Clear"
 msgstr "Șterge"
@@ -924,7 +924,7 @@ msgid "fade in"
 msgstr "estompare in interior"
 
 msgid "fade out"
-msgstr "estompare in exterior"
+msgstr "estompare în exterior"
 
 msgid "false"
 msgstr ""
@@ -951,7 +951,7 @@ msgid "Flip up-down"
 msgstr "Oglindește vertical"
 
 msgid "floor"
-msgstr "partea intreaga"
+msgstr "parte întreagă"
 
 msgid "Flute"
 msgstr "Flaut"
@@ -1123,7 +1123,6 @@ msgstr "Denumirea mesajului"
 msgid "message1"
 msgstr "mesaj1"
 
-#, fuzzy
 msgid "Microphone volume:"
 msgstr "Volumul microfonului:"
 
@@ -1257,10 +1256,10 @@ msgid "Open"
 msgstr "Deschide"
 
 msgid "Open Cuica"
-msgstr "Open Cuica"
+msgstr "Deschide Cuica"
 
 msgid "Open Hi-Hat"
-msgstr "Open Hi-Hat"
+msgstr "Deschide Hi-Hat"
 
 msgid "Options"
 msgstr "Opțiuni"
@@ -1341,7 +1340,7 @@ msgid "Project name"
 msgstr "Denumirea proiectului"
 
 msgid "Project name is required"
-msgstr "Denumirea proiectului este necesară"
+msgstr "Denumirea proiectului este obligatorie"
 
 msgid "random"
 msgstr "aleator"
@@ -1402,7 +1401,7 @@ msgid "resistance-D"
 msgstr "rezistența-D"
 
 msgid "reverse"
-msgstr "Inversează"
+msgstr "inversează"
 
 msgid "Revert"
 msgstr "Inversare"
@@ -1500,10 +1499,10 @@ msgid "set slider min and max"
 msgstr "setează minimul și maximul indicatorului"
 
 msgid "Share"
-msgstr "Partajeaza"
+msgstr "Împărtășește"
 
 msgid "Share to website"
-msgstr ""
+msgstr "Împărtășește pe site"
 
 msgid "Share to Scratch website"
 msgstr ""
@@ -1515,7 +1514,7 @@ msgid "Shift:"
 msgstr "Shift:"
 
 msgid "show:"
-msgstr "afiseaza:"
+msgstr "afișează:"
 
 msgid "Shrink"
 msgstr "Micșorează"
@@ -1542,13 +1541,13 @@ msgid "slider"
 msgstr "indicator"
 
 msgid "Slider Range"
-msgstr "Intervalul indicatorului"
+msgstr "Intervalul de Variație"
 
 msgid "Small stage layout"
-msgstr "Schema pentru scena mica"
+msgstr "Aspectul cu scenă mică"
 
 msgid "Smooth"
-msgstr "Retusare"
+msgstr "Netezire"
 
 msgid "Snare Drum"
 msgstr "Snare Drum"
@@ -1602,7 +1601,7 @@ msgid "Stage selected:"
 msgstr "Scena selectată:"
 
 msgid "Steel Drum"
-msgstr "Steel Drum"
+msgstr "Tobă metalică"
 
 msgid "Synth Lead"
 msgstr "Synth Lead"
@@ -1623,7 +1622,7 @@ msgid "Text"
 msgstr "Text"
 
 msgid "that way"
-msgstr "acest mod"
+msgstr "sens antiorar"
 
 msgid "The name is already in use."
 msgstr ""
@@ -1667,7 +1666,7 @@ msgid "this sprite"
 msgstr "acest personaj"
 
 msgid "this way"
-msgstr "in acest fel"
+msgstr "sens orar"
 
 msgid "Throw away all changes since opening this project?"
 msgstr "Renunți la toate modificările făcute de la deschiderea proiectului?"
@@ -1767,7 +1766,7 @@ msgid "variable"
 msgstr "variabilă"
 
 msgid "Variable name"
-msgstr "Denumire variabilă"
+msgstr "Denumirea variabilei"
 
 msgid "Vector"
 msgstr "Vectorial"
@@ -1824,7 +1823,7 @@ msgid ""
 "You cannot edit cloud data in someone else's project.<br>Any change that you "
 "make in the editor will be temporary and not persistent."
 msgstr ""
-"Nu poți edita informațiile din cloud într-un proiect care aparține altcuiva. "
+"Nu poți edita informațiile din cloud într-un proiect care aparține altcuiva."
 "<br>Orice modificare pe care o faci este temporară și nu se va păstra."
 
 msgid "Your Scratch name"
@@ -1921,7 +1920,7 @@ msgstr "Eroare server:"
 
 # Offline editor only
 msgid "Share to Scratch Website"
-msgstr ""
+msgstr "Împărtășește pe site-ul Scratch"
 
 # Offline editor only
 msgid "Success"
@@ -1951,13 +1950,13 @@ msgid "any"
 msgstr "orice"
 
 msgid "Record Project Video"
-msgstr ""
+msgstr "Înregistrează o secvență video cu proiectul"
 
 msgid "Remove Background"
-msgstr ""
+msgstr "Elimină decorul"
 
 msgid "random position"
-msgstr ""
+msgstr "poziție aleatoare"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"

@@ -637,7 +637,6 @@ msgstr "idź do %m.location"
 msgid "when Stage clicked"
 msgstr "po kliknięciu Etapu"
 
-#, fuzzy
 msgid "10 ^"
 msgstr "10 ^"
 
@@ -649,8 +648,8 @@ msgid ""
 msgstr ""
 "<b>Informacje o zmiennych w Chmurze</b><br>&nbsp;<br>Aktualnie jedynie "
 "liczby są akceptowane.<br>Czaty nie są dozwolone i zostaną usunięte.<br>Aby "
-"uzyskać więcej informacji <a href= target=>sprawdź FAQ na temat danych w "
-"Chmurze !</a>"
+"uzyskać więcej informacji <a href=\"/help/faq/#clouddata\" target=\"_blank"
+"\">sprawdź FAQ na temat danych w Chmurze !</a>"
 
 msgid "A connected"
 msgstr "Podłączone"
@@ -876,7 +875,6 @@ msgstr "Klarnet"
 msgid "Claves"
 msgstr "Klawesy"
 
-#, fuzzy
 msgid "clean up"
 msgstr "uprzątnij"
 

@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-02-08 15:37+0000\n"
+"PO-Revision-Date: 2016-05-21 18:23+0000\n"
 "Last-Translator: Fabrizio <utalabi@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sc\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1423409878.000000\n"
+"X-POOTLE-MTIME: 1463854988.000000\n"
 
 msgid "%b and %b"
 msgstr "%b e %b"
@@ -471,9 +471,8 @@ msgid "y position"
 msgstr "positzione y"
 
 #: commands-online.txt:7 commands-offline.txt:7
-#, fuzzy
 msgid "%m.list contains %s?"
-msgstr "%m.list cuntenet %s"
+msgstr "%m.list cuntenet %s?"
 
 msgid "go to %m.location"
 msgstr "bae a ue est %m.location"
@@ -1295,10 +1294,10 @@ msgid "redo"
 msgstr "torra che a prima"
 
 msgid "Remix"
-msgstr "Remixa"
+msgstr "Ammistura"
 
 msgid "Remixing..."
-msgstr "Remixende..."
+msgstr "Ammisturende..."
 
 msgid "Rename"
 msgstr "Càmbia su nùmene"
@@ -1687,7 +1686,7 @@ msgid "Walking"
 msgstr "Caminare"
 
 msgid "Want to save? Click remix"
-msgstr "Cheres allogare? Carca remixa"
+msgstr "Cheres allogare? Carca ammistura"
 
 msgid "Which column do you want to import"
 msgstr "Cale colunna est de importare"
@@ -1719,123 +1718,121 @@ msgstr "Si rechedet su nùmene tuo de Scratch"
 
 # Offline editor only
 msgid "All Tips"
-msgstr ""
+msgstr "Totus sos Consìgios"
 
 # Offline editor only
 msgid ""
 "An updated version of the Scratch offline editor is available on the Scratch "
 "website."
 msgstr ""
+"Una versione annoada de s'editore de Scratch no in lìnia est a disponidura "
+"in su giassu web."
 
 # Offline editor only
-#, fuzzy
 msgid "Could not retrieve update location from server."
-msgstr "Non si podet iscarrigare s'aplicatzione noa dae su serbidore."
+msgstr "Non si podet recuberare  dae su serbidore su logu annoadu."
 
 # Offline editor only
-#, fuzzy
 msgid "Could not retrieve version information from server."
-msgstr "Non si podet iscarrigare s'aplicatzione noa dae su serbidore."
+msgstr ""
+"Non si podent recuberare dae su serbidore sas informatziones a pitzu de sa "
+"versione."
 
 # Offline editor only
 msgid "Could not write file:"
-msgstr ""
+msgstr "Nos si podet iscrìere su file:"
 
 # Offline editor only
-#, fuzzy
 msgid "Downloading new version..."
-msgstr "Iscarrighende sa versione noa"
+msgstr "Iscarrighende sa versione noa..."
 
 # Offline editor only
 msgid "Error saving project"
-msgstr ""
+msgstr "B'at apidu un errore alloghende su progetu"
 
 # Offline editor only
 msgid "Force help file update"
-msgstr ""
+msgstr "Fortza s'annoamentu de su file de agiudu"
 
 # Offline editor only
 msgid "Import experimental HTTP extension"
-msgstr ""
+msgstr "Importa un'estensione HTTP isperimentale"
 
 # Offline editor only
 msgid "Loading help files..."
-msgstr ""
+msgstr "Carrighende sos files de agiudu..."
 
 # Offline editor only
 msgid "Manual Update Available"
-msgstr ""
+msgstr "A disponidura s'annoamentu a manu"
 
 # Offline editor only
 msgid "Open Project"
-msgstr ""
+msgstr "Aberi unu Progetu"
 
 # Offline editor only
 msgid "Please visit the download page to install it."
-msgstr ""
+msgstr "Pro praghere, bìsita sa pàgina de iscàrrigu pro l'installare."
 
 # Offline editor only
 msgid "Quit"
-msgstr ""
+msgstr "Essi"
 
 # Offline editor only
-#, fuzzy
 msgid "Replace existing project?"
-msgstr "Càmbia su progetu"
+msgstr "Cambiare su progetu ?"
 
 # Offline editor only
 msgid "Running pre-release"
-msgstr ""
+msgstr "Esecutende sa versione primitia"
 
 # Offline editor only
-#, fuzzy
 msgid "Save Project"
 msgstr "Allogare su progetu?"
 
 # Offline editor only
 msgid "Server error:"
-msgstr ""
+msgstr "Errore de su serbidore:"
 
 # Offline editor only
-#, fuzzy
 msgid "Share to Scratch Website"
 msgstr "Cumpartzi in su situ de Scratch"
 
 # Offline editor only
 msgid "Success"
-msgstr ""
+msgstr "Fatu"
 
 # Offline editor only
 msgid "This version is newer than the current release version."
-msgstr ""
+msgstr "Custa versione est prus noa de sa versione currente."
 
 # Offline editor only
 msgid "Update check failed"
-msgstr ""
+msgstr "S'averguada de sos annoamentos at faddidu"
 
 # Offline editor only
 msgid "Upload failed"
-msgstr ""
+msgstr "Carrigamentu faddidu"
 
 # Offline editor only
 msgid "Visit download page"
-msgstr ""
+msgstr "Bìsita sa pàgina de iscàrrigu"
 
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
-msgstr ""
+msgstr "Su progetu tuo est istadu carrigadu in scratch.mit.edu"
 
 msgid "Record Project Video"
-msgstr ""
+msgstr "Registra unu Vìdeu de su Progetu"
 
 msgid "Remove Background"
-msgstr ""
+msgstr "Boga s'isfundu"
 
 msgid "any"
-msgstr ""
+msgstr "calesisiat"
 
 msgid "random position"
-msgstr ""
+msgstr "positzione a casu"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"

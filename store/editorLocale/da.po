@@ -1850,7 +1850,7 @@ msgid "Remove Background"
 msgstr "Slet baggrund"
 
 msgid "random position"
-msgstr ""
+msgstr "Tilfældig position"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"

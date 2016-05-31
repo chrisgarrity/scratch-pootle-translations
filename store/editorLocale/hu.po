@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2016-05-09 04:53+0000\n"
+"PO-Revision-Date: 2016-05-26 07:50+0000\n"
 "Last-Translator: Péter <bernatp@hotmail.hu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hu\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1462769607.000000\n"
+"X-POOTLE-MTIME: 1464249020.000000\n"
 
 msgid "%b and %b"
 msgstr "%b és %b"
@@ -271,7 +271,7 @@ msgid "replace item %d.listItem of %m.list with %s"
 msgstr "cseréld le %d.listItem elemét %m.list : %s"
 
 msgid "reset timer"
-msgstr "nullázd az időzítőt"
+msgstr "nullázd az időmérőt"
 
 msgid "rest for %n beats"
 msgstr "szünetelj %n ütemig"
@@ -392,7 +392,7 @@ msgid "tilt"
 msgstr "döntés"
 
 msgid "timer"
-msgstr "időzítő"
+msgstr "időmérő"
 
 msgid "touching %m.touching?"
 msgstr "érinted: %m.touching?"
@@ -437,18 +437,18 @@ msgstr "várj %n mp-et"
 msgid "wait until %b"
 msgstr "várj eddig: %b"
 
-# A többi eseménynél sincs a magyar fordításban "amikor"
+# Minden esemény "-kor"-ra végződik.
 msgid "when %m.booleanSensor"
-msgstr "%m.booleanSensor esetén"
+msgstr "%m.booleanSensor teljesülésekor"
 
 msgid "when %m.key key pressed"
 msgstr "%m.key lenyomásakor"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr "%m.sensor %m.lessMore %n esetén"
+msgstr "%m.sensor %m.lessMore %n teljesülésekor"
 
 msgid "when %m.triggerSensor > %n"
-msgstr "%m.triggerSensor > %n esetén"
+msgstr "%m.triggerSensor > %n teljesülésekor"
 
 msgid "when @greenFlag clicked"
 msgstr "@greenFlag -ra kattintáskor"
@@ -458,7 +458,7 @@ msgid "when backdrop switches to %m.backdrop"
 msgstr "%m.backdrop háttér beállításakor"
 
 msgid "when distance %m.lessMore %n"
-msgstr "távolság %m.lessMore %n esetén"
+msgstr "távolság %m.lessMore %n teljesülésekor"
 
 msgid "when I receive %m.broadcast"
 msgstr "%m.broadcast üzenet érkezésekor"
@@ -473,7 +473,7 @@ msgid "when this sprite clicked"
 msgstr "ezen szereplőre kattintáskor"
 
 msgid "when tilt %m.eNe %n"
-msgstr "döntés %m.eNe %n esetén"
+msgstr "döntés %m.eNe %n teljesülésekor"
 
 msgid "x position"
 msgstr "x hely"
@@ -547,10 +547,10 @@ msgid "Add label text:"
 msgstr "Szöveg beszúrása:"
 
 msgid "Add number input:"
-msgstr "Szám mező hozzáadása:"
+msgstr "Számmező hozzáadása:"
 
 msgid "Add string input:"
-msgstr "Szöveg mező hozzáadása:"
+msgstr "Szövegmező hozzáadása:"
 
 msgid "all"
 msgstr "minden feladat"
@@ -871,10 +871,10 @@ msgid "Downloading new version"
 msgstr ""
 
 msgid "duplicate"
-msgstr "duplázás"
+msgstr "megkettőzés"
 
 msgid "Duplicate"
-msgstr "Duplázás"
+msgstr "Megkettőzés"
 
 msgid "e ^"
 msgstr "e ^"
@@ -883,10 +883,10 @@ msgid "edge"
 msgstr "játéktér széle"
 
 msgid "Edit"
-msgstr "Módosítás"
+msgstr "Szerkesztés"
 
 msgid "edit"
-msgstr "módosítás"
+msgstr "szerkesztés"
 
 msgid "Edit Block"
 msgstr "Blokk szerkesztése"
@@ -1386,10 +1386,10 @@ msgid "redo"
 msgstr "mégis"
 
 msgid "Remix"
-msgstr "Újrakever"
+msgstr "Remixelés"
 
 msgid "Remixing..."
-msgstr "Újrakeverés..."
+msgstr "Remixelés..."
 
 msgid "Remove extension blocks"
 msgstr ""
@@ -1508,7 +1508,7 @@ msgid "select all"
 msgstr "minden kijelölése"
 
 msgid "Select and duplicate"
-msgstr "Kijelölés és duplázás"
+msgstr "Kijelölés és megkettőzés"
 
 msgid "Send to back"
 msgstr "Hátraküldés"
@@ -1701,7 +1701,9 @@ msgid "Tips"
 msgstr "Tippek"
 
 msgid "To delete a block definition, first remove all uses of the block."
-msgstr "A blokkdefiníció törléséhez el kell távolítani minden használóját."
+msgstr ""
+"Egy parancs kifejtésének törlése előtt a parancs összes előfordulását "
+"törölni kell."
 
 msgid "Transportation"
 msgstr "Szállítás"
@@ -1784,7 +1786,7 @@ msgid "Uploading sound..."
 msgstr "Hang betöltése folyamatban..."
 
 msgid "Uploading sprite..."
-msgstr "Útvonal betöltése…"
+msgstr "Szereplő feltöltése…"
 
 msgid "variable"
 msgstr "változó"
@@ -1820,7 +1822,7 @@ msgid "Walking"
 msgstr "Gyaloglás"
 
 msgid "Want to save? Click remix"
-msgstr "Szeretnéd menteni? Kattints az újrakeverésre"
+msgstr "Szeretnéd menteni? Kattints a remixelésre!"
 
 msgid "Which column do you want to import"
 msgstr "Melyik oszlopot szeretnéd betölteni"

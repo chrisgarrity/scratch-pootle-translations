@@ -884,7 +884,7 @@ msgid "Fantasy"
 msgstr "Fantastachd"
 
 msgid "Features"
-msgstr "Feartan"
+msgstr "Gleusan"
 
 msgid "File"
 msgstr "Faidhle"
@@ -1553,7 +1553,7 @@ msgid ""
 "This project uses Cloud data ‒ a feature that is available only to signed in "
 "users."
 msgstr ""
-"Cleachdaidh am pròiseact seo dàta san neul ‒ seo feart nach eil ri làimh ach "
+"Cleachdaidh am pròiseact seo dàta san neul ‒ seo gleus nach eil ri làimh ach "
 "do chleachdaichean a chlàraich a-steach."
 
 msgid "this script"

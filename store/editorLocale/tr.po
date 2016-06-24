@@ -498,7 +498,7 @@ msgstr ""
 "target=\"_blank\">bulut veriler SSS'sine bakın!</a>"
 
 msgid "A connected"
-msgstr "A bağlı"
+msgstr "A bağlandı"
 
 msgid "a copy of the project file on your computer."
 msgstr "bilgisayarındaki proje dosyasının bir kopyası."
@@ -1857,13 +1857,13 @@ msgid "any"
 msgstr "hiç"
 
 msgid "Record Project Video"
-msgstr ""
+msgstr "Projenin Videosunu Kaydet"
 
 msgid "Remove Background"
-msgstr ""
+msgstr "Arkaplanı Sil"
 
 msgid "random position"
-msgstr ""
+msgstr "rastgele konum"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"

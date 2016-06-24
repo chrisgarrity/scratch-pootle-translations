@@ -1033,7 +1033,7 @@ msgid "List name"
 msgstr "Nome da lista"
 
 msgid "ln"
-msgstr "Em"
+msgstr "ln"
 
 msgid "Loading project..."
 msgstr "Carregando projeto..."

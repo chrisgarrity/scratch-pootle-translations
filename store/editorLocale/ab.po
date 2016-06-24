@@ -1715,14 +1715,12 @@ msgid ""
 msgstr ""
 
 # Offline editor only
-#, fuzzy
 msgid "Could not retrieve update location from server."
-msgstr "Иаузом асервер аҟынтәи."
+msgstr "Иауӡом асервер аҟынтәи."
 
 # Offline editor only
-#, fuzzy
 msgid "Could not retrieve version information from server."
-msgstr "Иаузом асервер аҟынтәи."
+msgstr "Иауӡом асервер аҟынтәи."
 
 # Offline editor only
 msgid "Could not write file:"

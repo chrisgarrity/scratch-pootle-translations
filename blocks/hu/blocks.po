@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2016-05-26 07:50+0000\n"
+"PO-Revision-Date: 2016-06-12 08:52+0000\n"
 "Last-Translator: Péter <bernatp@hotmail.hu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hu\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1464249020.000000\n"
+"X-POOTLE-MTIME: 1465721560.000000\n"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
@@ -121,14 +121,14 @@ msgid "days since 2000"
 msgstr "napok 2000 óta"
 
 msgid "define"
-msgstr "kifejtés:"
+msgstr "meghatározás:"
 
 # A változók fordított sorrendje esetén magyarosabb lenne, de úgy nem jelenik meg a Scratch-ben a fordítás
 msgid "delete %d.listDeleteItem of %m.list"
 msgstr "töröld %d.listDeleteItem elemét: %m.list"
 
 msgid "delete this clone"
-msgstr "töröld ezen másolatot"
+msgstr "töröld ezt a másolatot"
 
 msgid "direction"
 msgstr "irány"
@@ -152,8 +152,9 @@ msgstr "mindig"
 msgid "glide %n secs to x:%n y:%n"
 msgstr "csússz %n mp-ig x:%n y:%n"
 
+# Pl. a magyar office-ban is a szint szót használják a réteg szó helyett, ugyanis rétegek se ott, se a Scratch-ben nincsenek. A réteg szó azért is félrevezető lehet, mert nem az a jellemző, hogy minden objektumnak külön rétege van, hanem általában egy rétegen több objektum is szokott lenni (pl. képszerkesztőkben).
 msgid "go back %n layers"
-msgstr "kerülj %n réteggel hátrébb"
+msgstr "kerülj %n szinttel hátrébb"
 
 #~ msgid "go to %m.spriteOrMouse"
 #~ msgstr "ugorj %m.spriteOrMouse helyére"

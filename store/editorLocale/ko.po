@@ -800,6 +800,8 @@ msgstr "크래시 심벌"
 msgid "Creating..."
 msgstr "생성중..."
 
+# A user reported that this message is translated as "'only Scratch members can use Cloud variables', and suggested a different translation. Please review.
+#  
 msgid "Currently, only numbers can be stored in Cloud variables."
 msgstr "현재, 스크래치 회원만 클라우드 변수를 사용할 수 있습니다."
 

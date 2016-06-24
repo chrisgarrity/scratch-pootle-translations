@@ -743,7 +743,7 @@ msgid "Circle"
 msgstr "Circulus"
 
 msgid "City"
-msgstr ""
+msgstr "Urbs"
 
 msgid "Clarinet"
 msgstr ""
@@ -793,13 +793,13 @@ msgid "Connecting to Cloud data server..."
 msgstr "Ad deponentiam coniunctionis nubis coniungitur"
 
 msgid "Convert to bitmap"
-msgstr ""
+msgstr "Ad imaginem quadratorum mutare"
 
 msgid "Convert to vector"
-msgstr ""
+msgstr "Ad imaginem figurarum mutare"
 
 msgid "Converting mp3..."
-msgstr ""
+msgstr "Mutatur ad mp3..."
 
 msgid "copy"
 msgstr "Imitare"
@@ -835,10 +835,10 @@ msgid "Costumes:"
 msgstr ""
 
 msgid "Could not retrieve new application from server."
-msgstr ""
+msgstr "Programma novum de positione informationis accipere non potui."
 
 msgid "Cowbell"
-msgstr ""
+msgstr "Campana vaccae"
 
 msgid "Crash Cymbal"
 msgstr ""
@@ -853,7 +853,7 @@ msgid "cut"
 msgstr ""
 
 msgid "D connected"
-msgstr ""
+msgstr "D coniunctus est"
 
 msgid "date"
 msgstr ""
@@ -865,9 +865,8 @@ msgid "delete"
 msgstr "dele"
 
 # 83%
-#, fuzzy
 msgid "Delete"
-msgstr "dele"
+msgstr "Delere"
 
 msgid "delete variable"
 msgstr ""
@@ -879,7 +878,7 @@ msgid "don't rotate"
 msgstr ""
 
 msgid "Don't save"
-msgstr ""
+msgstr "Non memorare"
 
 msgid "down"
 msgstr "deorsus"
@@ -888,10 +887,10 @@ msgid "down arrow"
 msgstr "deorsa sagitta"
 
 msgid "Download"
-msgstr ""
+msgstr "Acquirere"
 
 msgid "Download to your computer"
-msgstr ""
+msgstr "In computatorem tuum acquirere"
 
 msgid "Downloading new version"
 msgstr ""
@@ -900,7 +899,7 @@ msgid "duplicate"
 msgstr ""
 
 msgid "Duplicate"
-msgstr ""
+msgstr "Duplicare"
 
 msgid "e ^"
 msgstr ""
@@ -909,13 +908,13 @@ msgid "edge"
 msgstr ""
 
 msgid "Edit"
-msgstr ""
+msgstr "Mutare"
 
 msgid "edit"
 msgstr ""
 
 msgid "Edit Block"
-msgstr ""
+msgstr "Quadratum programmatis mutare"
 
 msgid "Effects"
 msgstr ""
@@ -945,7 +944,7 @@ msgid "Eraser width"
 msgstr ""
 
 msgid "Error!"
-msgstr ""
+msgstr "Vitum!"
 
 msgid "everything"
 msgstr ""
@@ -969,16 +968,16 @@ msgid "false"
 msgstr ""
 
 msgid "Fantasy"
-msgstr ""
+msgstr "Fantasia"
 
 msgid "Features"
-msgstr ""
+msgstr "Possibilitates"
 
 msgid "File"
-msgstr ""
+msgstr "Sententiae"
 
 msgid "Fill with color"
-msgstr ""
+msgstr "Colore complere"
 
 msgid "fisheye"
 msgstr ""
@@ -1900,19 +1899,20 @@ msgstr ""
 
 # Offline editor only
 msgid "Could not retrieve update location from server."
-msgstr ""
+msgstr "Positionem novitatis de positione informationis accipere non potui."
 
 # Offline editor only
 msgid "Could not retrieve version information from server."
 msgstr ""
+"Informationem versationis de positione informationis accipere non potui."
 
 # Offline editor only
 msgid "Could not write file:"
-msgstr ""
+msgstr "Sententias scribere non potui:"
 
 # Offline editor only
 msgid "Downloading new version..."
-msgstr ""
+msgstr "Acquisitio versationis novae…"
 
 # Offline editor only
 msgid "Error saving project"

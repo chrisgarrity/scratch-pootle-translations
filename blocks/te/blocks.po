@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2016-03-18 10:50+0000\n"
-"Last-Translator: Rajeshwar <rrgujjari@gmail.com>\n"
+"PO-Revision-Date: 2016-06-28 13:12+0000\n"
+"Last-Translator: RajeshwarGVR <rrgujjari@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: te\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1458298210.000000\n"
+"X-POOTLE-MTIME: 1467119538.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -25,11 +25,10 @@ msgid "%b or %b"
 msgstr "%b లేక %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
-msgstr "%m.లక్షణం యొక్క %m. వేదిక"
+msgstr "%m.లక్షణం యొక్క %m.స్ప్రైట్/వేదిక"
 
-#, fuzzy
 msgid "%m.list contains %s"
-msgstr "%m జాబితాలో %s కలిగి ఉండు"
+msgstr "%m జాబితాలో  %s కలిగి ఉండు"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp లో %n"
@@ -50,22 +49,21 @@ msgid "ask %s and wait"
 msgstr "%s అడిగి, వేచియుండు"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop #"
-msgstr "వెనుకస్థలం/పరస్థలం/వెనుకతెర #"
+msgstr "వెనుకతెర #"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr ""
+msgstr "వెనుకతెర పేరు"
 
 msgid "broadcast %m.broadcast"
-msgstr "ప్రసారం %m.broadcast"
+msgstr "ప్రసారం %m.ప్రసారం"
 
 msgid "broadcast %m.broadcast and wait"
-msgstr "%m.broadcast ని ప్రసారం చేసి,  వేచివుండు "
+msgstr "%m.ప్రసారంని ప్రసారం చేసి, వేచివుండు "
 
 msgid "change %m.effect effect by %n"
-msgstr "%n ప్రభావంతో %m.effect మారును"
+msgstr "%n ప్రభావంతో %m.ప్రభావం మారును"
 
 msgid "change %m.var by %n"
 msgstr "%m.var మార్చడానికి %n"
@@ -110,40 +108,40 @@ msgid "costume #"
 msgstr "వేషధారణ #"
 
 msgid "create clone of %m.spriteOnly"
-msgstr ""
+msgstr "% m.స్ప్రైట్ యొక్క క్లోన్ మాత్రమే సృష్టించడం"
 
 msgid "current %m.timeAndDate"
-msgstr ""
+msgstr "ప్రస్తుత% m. సమయం మరియు తేదీ"
 
 msgid "Data"
-msgstr ""
+msgstr "దత్తాంశం"
 
 msgid "days since 2000"
-msgstr ""
+msgstr "2000 రోజులు నుండి"
 
 msgid "define"
-msgstr ""
+msgstr "నిర్వచించు"
 
 msgid "delete %d.listDeleteItem of %m.list"
-msgstr "%m.list లో %d.listDeleteItem తొలగించు"
+msgstr "%m.జాబితా లో %d.జాబితా అంశం తొలగించు"
 
 msgid "delete this clone"
-msgstr ""
+msgstr "ఈ క్లోన్ తొలగించండి"
 
 msgid "direction"
 msgstr "దిక్కు"
 
 msgid "distance"
-msgstr ""
+msgstr "దూరము"
 
 msgid "distance to %m.spriteOrMouse"
-msgstr "%m.spriteOrMouse కు దూరం"
+msgstr "%m.స్ప్రైట్ లేదా మౌస్ కు దూరం"
 
 msgid "else"
 msgstr "ఇంకా"
 
 msgid "Events"
-msgstr ""
+msgstr "ఘటనలు"
 
 msgid "forever"
 msgstr "ఎప్పటికి"
@@ -167,31 +165,31 @@ msgid "hide"
 msgstr "దాచిపెట్టు"
 
 msgid "hide list %m.list"
-msgstr ""
+msgstr "% m.జాబితా జాబితాను దాచు"
 
 msgid "hide variable %m.var"
-msgstr "%m.var చరరాశిని దాచు"
+msgstr "%m.చరరాశి చరరాశిని దాచు"
 
 msgid "if %b then"
-msgstr ""
+msgstr "% బి ఆపై ఉంటే"
 
 msgid "if on edge, bounce"
 msgstr "అంచున ఉంటే, దూకు"
 
 msgid "insert %s at %d.listItem of %m.list"
-msgstr "insert %s at %d.listItem of %m.list"
+msgstr "%d.జాబితా అంశం లో % m.జాబితా వద్ద చేర్చండి"
 
 msgid "item %d.listItem of %m.list"
-msgstr "%m.list లో %d.listItem అంశము"
+msgstr "%m.జాబితా లో %d.జాబితాఅంశము"
 
 msgid "join %s %s"
 msgstr "%s ను %s కు కలుపు"
 
 msgid "key %m.key pressed?"
-msgstr "%m.key కీ ఒత్తారా?"
+msgstr "%m.కీ కీ ఒత్తారా?"
 
 msgid "length of %m.list"
-msgstr "%m.list యొక్క పొడవు"
+msgstr "%m.జాబితా యొక్క పొడవు"
 
 msgid "length of %s"
 msgstr "%s యొక్క పొడవు"
@@ -206,7 +204,7 @@ msgid "loudness"
 msgstr "ఎక్కువ బిగ్గరగా?"
 
 msgid "More Blocks"
-msgstr ""
+msgstr "మరిన్ని బ్లాక్స్"
 
 msgid "Motion"
 msgstr "చలనం"
@@ -224,9 +222,8 @@ msgid "move %n steps"
 msgstr "%n అడుగులు జరుగు"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "next backdrop"
-msgstr "తదుపరి - వెనుకవుండేది"
+msgstr "తదుపరి - వెనుకతెర"
 
 msgid "next costume"
 msgstr "తదుపరి వేషధారణ"
@@ -253,7 +250,7 @@ msgid "play drum %d.drum for %n beats"
 msgstr "%d.drum డోలు వాయించు %n బీట్స్ కోసం "
 
 msgid "play note %d.note for %n beats"
-msgstr "%d.note  సంజ్ఞను వాయించు %n బీట్స్ కోసం "
+msgstr "%d.గమనిక సంజ్ఞను వాయించు %n బీట్స్ కోసం "
 
 msgid "play sound %m.sound"
 msgstr "%m.sound శబ్దం వాయించు"
@@ -265,7 +262,7 @@ msgid "point in direction %d.direction"
 msgstr "బిందువు %d.direction దిశలో"
 
 msgid "point towards %m.spriteOrMouse"
-msgstr "బిందువు %m.spriteOrMouse వైపునకు"
+msgstr "బిందువు %m.స్ప్రైట్ లేదా మౌస్ వైపునకు"
 
 msgid "repeat %n"
 msgstr "%n పునరావృతం"
@@ -295,28 +292,28 @@ msgid "Sensing"
 msgstr "స్పర్శించుట"
 
 msgid "sensor %m.booleanSensor?"
-msgstr "%m.booleanSensor స్పర్శ?"
+msgstr "%m.బూలియన్ సెన్సార్ స్పర్శ?"
 
 msgid "set %m.effect effect to %n"
-msgstr "%n ప్రయోజనంతో %m.effect పెట్టు"
+msgstr "%n కు% m.ప్రభావం ప్రభావం పెట్టు"
 
 msgid "set %m.var to %s"
-msgstr "%m.var లో %n ను పెట్టు"
+msgstr "%m.చరరాశి లో %n ను పెట్టు"
 
 msgid "set instrument to %d.instrument"
-msgstr "%d.instrument కు పరికరాన్ని పెట్టు"
+msgstr "%d.పరికరం కు పరికరాన్ని పెట్టు"
 
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr ""
+msgstr "%m.మోటార్2 దిశను % m.మోటార్ డైరెక్షన్ కు పెట్టు"
 
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "% m.మోటార్ శక్తి ని %n కు పెట్టు"
 
 msgid "set pen color to %c"
 msgstr "పెన్ను రంగును %c కు పెట్టు"
 
 msgid "set pen color to %n"
-msgstr "పెన్ను రంగును %c కు పెట్టు"
+msgstr "పెన్ను రంగును %n కు పెట్టు"
 
 msgid "set pen shade to %n"
 msgstr "పెన్ను రంగు షేడ్ %n కు పెట్టు"
@@ -325,7 +322,7 @@ msgid "set pen size to %n"
 msgstr "పెన్ను పరిమాణం %n కు పెట్టు"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr ""
+msgstr "%m.రొటేశన్ స్టైల్ ను భ్రమణ శైలిలో పెట్టు"
 
 msgid "set size to %n%"
 msgstr "%n% కు పరిమాణాన్ని పెట్టు"
@@ -334,13 +331,13 @@ msgid "set tempo to %n bpm"
 msgstr "%n బి.పి.యం.కు కదలికలోని తీవ్రతను పెట్టు"
 
 msgid "set video transparency to %n%"
-msgstr ""
+msgstr "వీడియో పారదర్శకతను %n% కు పెట్టు"
 
 msgid "set volume to %n%"
 msgstr "%n% కు శబ్దఘనత పెట్టు"
 
 msgid "set x to %n"
-msgstr "x విలువకు  %n పెట్టు"
+msgstr "x విలువకు %n పెట్టు"
 
 msgid "set y to %n"
 msgstr "y విలువకు %n పెట్టు"
@@ -349,10 +346,10 @@ msgid "show"
 msgstr "చూపించు"
 
 msgid "show list %m.list"
-msgstr ""
+msgstr "% m.లిస్ట్ జాబితాను చూపించు"
 
 msgid "show variable %m.var"
-msgstr "చరరాశి %m.var ను చూపు"
+msgstr "చరరాశి %m.చరరాశి ను చూపు"
 
 msgid "size"
 msgstr "పరిమాణము"
@@ -364,21 +361,21 @@ msgid "stamp"
 msgstr "ముద్ర"
 
 msgid "stop %m.stop"
-msgstr ""
+msgstr "% n.నిలుపును నిలుపు"
 
 msgid "stop all sounds"
 msgstr "అన్నీ శబ్దాలు నిలుపు"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr ""
+msgstr "వెనకతెర నుండి %m.వెనకతెరకు మారడం"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr ""
+msgstr "వెనకతెర నుండి %m.వెనకతెరకు మారడం మరియు ఆగండి"
 
 msgid "switch costume to %m.costume"
-msgstr ""
+msgstr "వేషము నుండి %m.వేషము కు మారడం"
 
 msgid "tempo"
 msgstr "కదలికలోని తీవ్రత"
@@ -390,88 +387,87 @@ msgid "think %s for %n secs"
 msgstr "%n సెకన్ల కోసం %s ఆలోచించు"
 
 msgid "tilt"
-msgstr ""
+msgstr "వంపు"
 
 msgid "timer"
 msgstr "సమయసూచి"
 
 msgid "touching %m.touching?"
-msgstr "%m.touching తాకుతుందా?"
+msgstr "%m.తాకుతుంది తాకుతుందా?"
 
 msgid "touching color %c?"
 msgstr "%c రంగును తాకుతుందా?"
 
 msgid "turn @turnLeft %n degrees"
-msgstr ""
+msgstr "@లెఫ్ట్ తిరుగును %nడిగ్రీలు త్రిప్పు"
 
 msgid "turn @turnRight %n degrees"
-msgstr ""
+msgstr "@రైట్ తిరుగును %nడిగ్రీలు త్రిప్పు"
 
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "%m.మోటార్ ఆఫ్ త్రిప్పు"
 
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "%m.మోటార్ ఆన్ త్రిప్పు"
 
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "%nసెకన్ల కోసం %m.మోటార్ ఆన్ ను త్రిప్పు"
 
 msgid "turn video %m.videoState"
-msgstr ""
+msgstr "వీడియో %m.వీడియోస్టేట్ త్రిప్పు"
 
 msgid "username"
-msgstr ""
+msgstr "యూజర్ పేరు"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr ""
+msgstr "వీడియో% m.వీడియోమోషన్ టైప్ పై %m.వేదిక లేదా ఇది"
 
 msgid "volume"
 msgstr "శబ్దఘనత"
 
 msgid "wait %n secs"
-msgstr "%n  సెకన్లు వేచియుండు"
+msgstr "%n సెకన్లు వేచియుండు"
 
 msgid "wait until %b"
 msgstr "%b వరకూ వేచియుండు"
 
 # 75%
-#, fuzzy
 msgid "when %m.booleanSensor"
-msgstr "%m.booleanSensor స్పర్శ?"
+msgstr "%m.బూలియన్ సెన్సార్ ఉన్నప్పుడు"
 
 msgid "when %m.key key pressed"
-msgstr "%m.key కీ ఒత్తినప్పుడు"
+msgstr "%m.కీ కీ ఒత్తినప్పుడు"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr ""
+msgstr "% m.సెన్సార్ % m.మరింతతక్కువ %n ఉన్నప్పుడు"
 
 msgid "when %m.triggerSensor > %n"
-msgstr ""
+msgstr "%m.ట్రిగ్గర్ సెన్సార్ > %n ఉన్నప్పుడు"
 
 msgid "when @greenFlag clicked"
-msgstr "@greenFlag ఒత్తినప్పుడు"
+msgstr "@ఆకుపచ్చ జెండా ఒత్తినప్పుడు"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr ""
+msgstr "% m.వెనకతెర కు వెనకతెర మార్పులు ఉన్నప్పుడు"
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
+msgstr "%m.మరింతతక్కువ %n దూరంఉన్నప్పుడు "
 
 msgid "when I receive %m.broadcast"
-msgstr ""
+msgstr "%m.ప్రసారము నేను అందుకున్నప్పుడు. "
 
 msgid "when I start as a clone"
-msgstr ""
+msgstr "నేను ఒక క్లోన్ వంటిది మొదలుపెట్టినపుడు"
 
 msgid "when Stage clicked"
-msgstr ""
+msgstr "వేదిక క్లిక్ చేసినప్పుడు"
 
 msgid "when this sprite clicked"
-msgstr ""
+msgstr "ఈ స్ప్రైట్ ని క్లిక్ చేసినప్పుడు"
 
 msgid "when tilt %m.eNe %n"
-msgstr ""
+msgstr "% m.eNe% N వంపుఉన్నప్పుడు"
 
 msgid "x position"
 msgstr "x స్థానం"
@@ -480,30 +476,30 @@ msgid "y position"
 msgstr "y స్థానం"
 
 msgid "set motor direction %m.motorDirection"
-msgstr ""
+msgstr "మోటార్ దిశ % m.మోటార్ దిశను పెట్టు"
 
 msgid "set motor power %n"
-msgstr ""
+msgstr "మోటారు పవర్ %n ను పెట్టు"
 
 msgid "turn motor off"
-msgstr ""
+msgstr "మోటార్ ఆపివేయు"
 
 msgid "turn motor on"
-msgstr ""
+msgstr "మోటార్ ఆన్ చేయు"
 
 msgid "turn motor on for %n secs"
-msgstr ""
+msgstr "%nసెకన్లు కోసం మోటార్ ఆన్ చేయు"
 
 msgid "when distance < %n"
-msgstr ""
+msgstr "దూరం< %n  ఉన్నప్పుడు"
 
 msgid "when tilt = %n"
-msgstr ""
+msgstr "వంపు= %n ఉన్నప్పుడు"
 
 #: commands-online.txt:7
 #: commands-offline.txt:7
 msgid "%m.list contains %s?"
-msgstr "%m జాబితాలో %s కలిగి ఉండు"
+msgstr "%m.జాబితాలో %s కలిగి ఉండు"
 
 msgid "go to %m.location"
-msgstr "%m.location కు వెళ్ళు"
+msgstr "%m.స్థానం కు వెళ్ళు"

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-12-21 02:33+0000\n"
-"Last-Translator: Natalie <nrusk@media.mit.edu>\n"
+"PO-Revision-Date: 2016-06-26 19:50+0000\n"
+"Last-Translator: Smrman <matthieu.brandt.74@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1450665183.000000\n"
+"X-POOTLE-MTIME: 1466970642.000000\n"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
@@ -25,7 +25,7 @@ msgid "%b or %b"
 msgstr "%b ou %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
-msgstr "%m.attribute de %m.spriteOrStage"
+msgstr "%m.attribut de %m.spriteOrStage"
 
 #~ msgid "%m.list contains %s"
 #~ msgstr "%m.list contient %s"
@@ -50,7 +50,7 @@ msgstr "demander %s et attendre"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
-msgstr "arrière-plan n°"
+msgstr "arrière-plan #"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
@@ -66,22 +66,22 @@ msgid "change %m.effect effect by %n"
 msgstr "ajouter à l'effet %m.effect %n"
 
 msgid "change %m.var by %n"
-msgstr "ajouter à %m.var %n"
+msgstr "remplacer %m.var par %n"
 
 msgid "change pen color by %n"
-msgstr "ajouter %n à couleur du stylo"
+msgstr "mettre la couleur du stylo à %n"
 
 msgid "change pen shade by %n"
-msgstr "ajouter %n à l'intensité du stylo"
+msgstr "mettre l'intensité du stylo à %n"
 
 msgid "change pen size by %n"
-msgstr "ajouter %n à la taille du stylo"
+msgstr "mettre la taille du stylo à %n"
 
 msgid "change size by %n"
-msgstr "ajouter %n à la taille"
+msgstr "mettre la taille à %n"
 
 msgid "change tempo by %n"
-msgstr "ajouter %n au tempo"
+msgstr "mettre le tempo à %n"
 
 msgid "change volume by %n"
 msgstr "ajouter %n au volume"
@@ -141,7 +141,7 @@ msgid "else"
 msgstr "sinon"
 
 msgid "Events"
-msgstr "Evènements"
+msgstr "Événements"
 
 msgid "forever"
 msgstr "répéter indéfiniment"
@@ -156,7 +156,7 @@ msgstr "déplacer de %n plans arrière"
 #~ msgstr "aller à %m.spriteOrMouse"
 
 msgid "go to front"
-msgstr "envoyer au premier plan"
+msgstr "aller au premier plan"
 
 msgid "go to x:%n y:%n"
 msgstr "aller à x:%n y:%n"

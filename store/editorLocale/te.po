@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2016-03-18 10:50+0000\n"
-"Last-Translator: Rajeshwar <rrgujjari@gmail.com>\n"
+"PO-Revision-Date: 2016-06-28 13:12+0000\n"
+"Last-Translator: RajeshwarGVR <rrgujjari@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: te\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1458298210.000000\n"
+"X-POOTLE-MTIME: 1467119538.000000\n"
 
 # The language name as it will appear in the language menu
 msgid "Language-Name"
@@ -25,11 +25,10 @@ msgid "%b or %b"
 msgstr "%b లేక %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
-msgstr "%m.లక్షణం యొక్క %m. వేదిక"
+msgstr "%m.లక్షణం యొక్క %m.స్ప్రైట్/వేదిక"
 
-#, fuzzy
 msgid "%m.list contains %s"
-msgstr "%m జాబితాలో %s కలిగి ఉండు"
+msgstr "%m జాబితాలో  %s కలిగి ఉండు"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp లో %n"
@@ -49,21 +48,22 @@ msgstr "సమాధానం"
 msgid "ask %s and wait"
 msgstr "%s అడిగి, వేచియుండు"
 
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
-msgstr "వెనుక తెర"
+msgstr "వెనుకతెర #"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr ""
+msgstr "వెనుకతెర పేరు"
 
 msgid "broadcast %m.broadcast"
-msgstr "ప్రసారం %m.broadcast"
+msgstr "ప్రసారం %m.ప్రసారం"
 
 msgid "broadcast %m.broadcast and wait"
-msgstr "%m.broadcast ని ప్రసారం చేసి,  వేచివుండు "
+msgstr "%m.ప్రసారంని ప్రసారం చేసి, వేచివుండు "
 
 msgid "change %m.effect effect by %n"
-msgstr "%n ప్రభావంతో %m.effect మారును"
+msgstr "%n ప్రభావంతో %m.ప్రభావం మారును"
 
 msgid "change %m.var by %n"
 msgstr "%m.var మార్చడానికి %n"
@@ -108,40 +108,40 @@ msgid "costume #"
 msgstr "వేషధారణ #"
 
 msgid "create clone of %m.spriteOnly"
-msgstr ""
+msgstr "% m.స్ప్రైట్ యొక్క క్లోన్ మాత్రమే సృష్టించడం"
 
 msgid "current %m.timeAndDate"
-msgstr ""
+msgstr "ప్రస్తుత% m. సమయం మరియు తేదీ"
 
 msgid "Data"
-msgstr ""
+msgstr "దత్తాంశం"
 
 msgid "days since 2000"
-msgstr ""
+msgstr "2000 రోజులు నుండి"
 
 msgid "define"
-msgstr ""
+msgstr "నిర్వచించు"
 
 msgid "delete %d.listDeleteItem of %m.list"
-msgstr "%m.list లో %d.listDeleteItem తొలగించు"
+msgstr "%m.జాబితా లో %d.జాబితా అంశం తొలగించు"
 
 msgid "delete this clone"
-msgstr ""
+msgstr "ఈ క్లోన్ తొలగించండి"
 
 msgid "direction"
 msgstr "దిక్కు"
 
 msgid "distance"
-msgstr ""
+msgstr "దూరము"
 
 msgid "distance to %m.spriteOrMouse"
-msgstr "%m.spriteOrMouse కు దూరం"
+msgstr "%m.స్ప్రైట్ లేదా మౌస్ కు దూరం"
 
 msgid "else"
 msgstr "ఇంకా"
 
 msgid "Events"
-msgstr ""
+msgstr "ఘటనలు"
 
 msgid "forever"
 msgstr "ఎప్పటికి"
@@ -162,31 +162,31 @@ msgid "hide"
 msgstr "దాచిపెట్టు"
 
 msgid "hide list %m.list"
-msgstr ""
+msgstr "% m.జాబితా జాబితాను దాచు"
 
 msgid "hide variable %m.var"
-msgstr "%m.var చరరాశిని దాచు"
+msgstr "%m.చరరాశి చరరాశిని దాచు"
 
 msgid "if %b then"
-msgstr ""
+msgstr "% బి ఆపై ఉంటే"
 
 msgid "if on edge, bounce"
 msgstr "అంచున ఉంటే, దూకు"
 
 msgid "insert %s at %d.listItem of %m.list"
-msgstr "insert %s at %d.listItem of %m.list"
+msgstr "%d.జాబితా అంశం లో % m.జాబితా వద్ద చేర్చండి"
 
 msgid "item %d.listItem of %m.list"
-msgstr "%m.list లో %d.listItem అంశము"
+msgstr "%m.జాబితా లో %d.జాబితాఅంశము"
 
 msgid "join %s %s"
 msgstr "%s ను %s కు కలుపు"
 
 msgid "key %m.key pressed?"
-msgstr "%m.key కీ ఒత్తారా?"
+msgstr "%m.కీ కీ ఒత్తారా?"
 
 msgid "length of %m.list"
-msgstr "%m.list యొక్క పొడవు"
+msgstr "%m.జాబితా యొక్క పొడవు"
 
 msgid "length of %s"
 msgstr "%s యొక్క పొడవు"
@@ -201,7 +201,7 @@ msgid "loudness"
 msgstr "ఎక్కువ బిగ్గరగా?"
 
 msgid "More Blocks"
-msgstr ""
+msgstr "మరిన్ని బ్లాక్స్"
 
 msgid "Motion"
 msgstr "చలనం"
@@ -219,9 +219,8 @@ msgid "move %n steps"
 msgstr "%n అడుగులు జరుగు"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "next backdrop"
-msgstr "తదుపరి - వెనుకవుండేది"
+msgstr "తదుపరి - వెనుకతెర"
 
 msgid "next costume"
 msgstr "తదుపరి వేషధారణ"
@@ -248,7 +247,7 @@ msgid "play drum %d.drum for %n beats"
 msgstr "%d.drum డోలు వాయించు %n బీట్స్ కోసం "
 
 msgid "play note %d.note for %n beats"
-msgstr "%d.note  సంజ్ఞను వాయించు %n బీట్స్ కోసం "
+msgstr "%d.గమనిక సంజ్ఞను వాయించు %n బీట్స్ కోసం "
 
 msgid "play sound %m.sound"
 msgstr "%m.sound శబ్దం వాయించు"
@@ -260,7 +259,7 @@ msgid "point in direction %d.direction"
 msgstr "బిందువు %d.direction దిశలో"
 
 msgid "point towards %m.spriteOrMouse"
-msgstr "బిందువు %m.spriteOrMouse వైపునకు"
+msgstr "బిందువు %m.స్ప్రైట్ లేదా మౌస్ వైపునకు"
 
 msgid "repeat %n"
 msgstr "%n పునరావృతం"
@@ -290,28 +289,28 @@ msgid "Sensing"
 msgstr "స్పర్శించుట"
 
 msgid "sensor %m.booleanSensor?"
-msgstr "%m.booleanSensor స్పర్శ?"
+msgstr "%m.బూలియన్ సెన్సార్ స్పర్శ?"
 
 msgid "set %m.effect effect to %n"
-msgstr "%n ప్రయోజనంతో %m.effect పెట్టు"
+msgstr "%n కు% m.ప్రభావం ప్రభావం పెట్టు"
 
 msgid "set %m.var to %s"
-msgstr "%m.var లో %n ను పెట్టు"
+msgstr "%m.చరరాశి లో %n ను పెట్టు"
 
 msgid "set instrument to %d.instrument"
-msgstr "%d.instrument కు పరికరాన్ని పెట్టు"
+msgstr "%d.పరికరం కు పరికరాన్ని పెట్టు"
 
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr ""
+msgstr "%m.మోటార్2 దిశను % m.మోటార్ డైరెక్షన్ కు పెట్టు"
 
 msgid "set %m.motor power to %n"
-msgstr ""
+msgstr "% m.మోటార్ శక్తి ని %n కు పెట్టు"
 
 msgid "set pen color to %c"
 msgstr "పెన్ను రంగును %c కు పెట్టు"
 
 msgid "set pen color to %n"
-msgstr "పెన్ను రంగును %c కు పెట్టు"
+msgstr "పెన్ను రంగును %n కు పెట్టు"
 
 msgid "set pen shade to %n"
 msgstr "పెన్ను రంగు షేడ్ %n కు పెట్టు"
@@ -320,7 +319,7 @@ msgid "set pen size to %n"
 msgstr "పెన్ను పరిమాణం %n కు పెట్టు"
 
 msgid "set rotation style %m.rotationStyle"
-msgstr ""
+msgstr "%m.రొటేశన్ స్టైల్ ను భ్రమణ శైలిలో పెట్టు"
 
 msgid "set size to %n%"
 msgstr "%n% కు పరిమాణాన్ని పెట్టు"
@@ -329,13 +328,13 @@ msgid "set tempo to %n bpm"
 msgstr "%n బి.పి.యం.కు కదలికలోని తీవ్రతను పెట్టు"
 
 msgid "set video transparency to %n%"
-msgstr ""
+msgstr "వీడియో పారదర్శకతను %n% కు పెట్టు"
 
 msgid "set volume to %n%"
 msgstr "%n% కు శబ్దఘనత పెట్టు"
 
 msgid "set x to %n"
-msgstr "x విలువకు  %n పెట్టు"
+msgstr "x విలువకు %n పెట్టు"
 
 msgid "set y to %n"
 msgstr "y విలువకు %n పెట్టు"
@@ -344,10 +343,10 @@ msgid "show"
 msgstr "చూపించు"
 
 msgid "show list %m.list"
-msgstr ""
+msgstr "% m.లిస్ట్ జాబితాను చూపించు"
 
 msgid "show variable %m.var"
-msgstr "చరరాశి %m.var ను చూపు"
+msgstr "చరరాశి %m.చరరాశి ను చూపు"
 
 msgid "size"
 msgstr "పరిమాణము"
@@ -359,21 +358,21 @@ msgid "stamp"
 msgstr "ముద్ర"
 
 msgid "stop %m.stop"
-msgstr ""
+msgstr "% n.నిలుపును నిలుపు"
 
 msgid "stop all sounds"
 msgstr "అన్నీ శబ్దాలు నిలుపు"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr ""
+msgstr "వెనకతెర నుండి %m.వెనకతెరకు మారడం"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr ""
+msgstr "వెనకతెర నుండి %m.వెనకతెరకు మారడం మరియు ఆగండి"
 
 msgid "switch costume to %m.costume"
-msgstr ""
+msgstr "వేషము నుండి %m.వేషము కు మారడం"
 
 msgid "tempo"
 msgstr "కదలికలోని తీవ్రత"
@@ -385,88 +384,87 @@ msgid "think %s for %n secs"
 msgstr "%n సెకన్ల కోసం %s ఆలోచించు"
 
 msgid "tilt"
-msgstr ""
+msgstr "వంపు"
 
 msgid "timer"
 msgstr "సమయసూచి"
 
 msgid "touching %m.touching?"
-msgstr "%m.touching తాకుతుందా?"
+msgstr "%m.తాకుతుంది తాకుతుందా?"
 
 msgid "touching color %c?"
 msgstr "%c రంగును తాకుతుందా?"
 
 msgid "turn @turnLeft %n degrees"
-msgstr ""
+msgstr "@లెఫ్ట్ తిరుగును %nడిగ్రీలు త్రిప్పు"
 
 msgid "turn @turnRight %n degrees"
-msgstr ""
+msgstr "@రైట్ తిరుగును %nడిగ్రీలు త్రిప్పు"
 
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "%m.మోటార్ ఆఫ్ త్రిప్పు"
 
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "%m.మోటార్ ఆన్ త్రిప్పు"
 
 msgid "turn %m.motor on for %n secs"
-msgstr ""
+msgstr "%nసెకన్ల కోసం %m.మోటార్ ఆన్ ను త్రిప్పు"
 
 msgid "turn video %m.videoState"
-msgstr ""
+msgstr "వీడియో %m.వీడియోస్టేట్ త్రిప్పు"
 
 msgid "username"
-msgstr ""
+msgstr "యూజర్ పేరు"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr ""
+msgstr "వీడియో% m.వీడియోమోషన్ టైప్ పై %m.వేదిక లేదా ఇది"
 
 msgid "volume"
 msgstr "శబ్దఘనత"
 
 msgid "wait %n secs"
-msgstr "%n  సెకన్లు వేచియుండు"
+msgstr "%n సెకన్లు వేచియుండు"
 
 msgid "wait until %b"
 msgstr "%b వరకూ వేచియుండు"
 
 # 75%
-#, fuzzy
 msgid "when %m.booleanSensor"
-msgstr "%m.booleanSensor స్పర్శ?"
+msgstr "%m.బూలియన్ సెన్సార్ ఉన్నప్పుడు"
 
 msgid "when %m.key key pressed"
-msgstr "%m.key కీ ఒత్తినప్పుడు"
+msgstr "%m.కీ కీ ఒత్తినప్పుడు"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr ""
+msgstr "% m.సెన్సార్ % m.మరింతతక్కువ %n ఉన్నప్పుడు"
 
 msgid "when %m.triggerSensor > %n"
-msgstr ""
+msgstr "%m.ట్రిగ్గర్ సెన్సార్ > %n ఉన్నప్పుడు"
 
 msgid "when @greenFlag clicked"
-msgstr "@greenFlag ఒత్తినప్పుడు"
+msgstr "@ఆకుపచ్చ జెండా ఒత్తినప్పుడు"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr ""
+msgstr "% m.వెనకతెర కు వెనకతెర మార్పులు ఉన్నప్పుడు"
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
+msgstr "%m.మరింతతక్కువ %n దూరంఉన్నప్పుడు "
 
 msgid "when I receive %m.broadcast"
-msgstr ""
+msgstr "%m.ప్రసారము నేను అందుకున్నప్పుడు. "
 
 msgid "when I start as a clone"
-msgstr ""
+msgstr "నేను ఒక క్లోన్ వంటిది మొదలుపెట్టినపుడు"
 
 msgid "when Stage clicked"
-msgstr ""
+msgstr "వేదిక క్లిక్ చేసినప్పుడు"
 
 msgid "when this sprite clicked"
-msgstr ""
+msgstr "ఈ స్ప్రైట్ ని క్లిక్ చేసినప్పుడు"
 
 msgid "when tilt %m.eNe %n"
-msgstr ""
+msgstr "% m.eNe% N వంపుఉన్నప్పుడు"
 
 msgid "x position"
 msgstr "x స్థానం"
@@ -475,32 +473,32 @@ msgid "y position"
 msgstr "y స్థానం"
 
 msgid "set motor direction %m.motorDirection"
-msgstr ""
+msgstr "మోటార్ దిశ % m.మోటార్ దిశను పెట్టు"
 
 msgid "set motor power %n"
-msgstr ""
+msgstr "మోటారు పవర్ %n ను పెట్టు"
 
 msgid "turn motor off"
-msgstr ""
+msgstr "మోటార్ ఆపివేయు"
 
 msgid "turn motor on"
-msgstr ""
+msgstr "మోటార్ ఆన్ చేయు"
 
 msgid "turn motor on for %n secs"
-msgstr ""
+msgstr "%nసెకన్లు కోసం మోటార్ ఆన్ చేయు"
 
 msgid "when distance < %n"
-msgstr ""
+msgstr "దూరం< %n  ఉన్నప్పుడు"
 
 msgid "when tilt = %n"
-msgstr ""
+msgstr "వంపు= %n ఉన్నప్పుడు"
 
 #: commands-online.txt:7 commands-offline.txt:7
 msgid "%m.list contains %s?"
-msgstr "%m జాబితాలో %s కలిగి ఉండు"
+msgstr "%m.జాబితాలో %s కలిగి ఉండు"
 
 msgid "go to %m.location"
-msgstr "%m.location కు వెళ్ళు"
+msgstr "%m.స్థానం కు వెళ్ళు"
 
 msgid "10 ^"
 msgstr "10^"
@@ -510,10 +508,10 @@ msgid ""
 "numbers are supported<br>Chat rooms are not allowed, and will be "
 "removed<br>For more info, <a href=\"/help/faq/#clouddata\" target=\"_blank"
 "\">see the cloud data FAQ!</a>"
-msgstr ""
+msgstr "క్లౌడ్ వేరియబుల్స్ గురించి సమాచారం"
 
 msgid "A connected"
-msgstr "అనుసంధానమైంది"
+msgstr "A అనుసంధానమైంది"
 
 msgid "a copy of the project file on your computer."
 msgstr "మీ కంప్యూటర్లో ప్రాజెక్ట్ ఫైల్ యొక్క నకలు."
@@ -584,7 +582,6 @@ msgstr "ఆస్తులు లోడ్"
 msgid "atan"
 msgstr "అటన్"
 
-#, fuzzy
 msgid "B connected"
 msgstr "B అనుసంధానమైంది"
 
@@ -744,7 +741,7 @@ msgid "Close"
 msgstr "మూసివేయి"
 
 msgid "Closed Hi-Hat"
-msgstr "Hi-Hatముగించబడినది"
+msgstr "హై-హ్యాట్ ముగించబడినది"
 
 msgid "Cloud"
 msgstr ""
@@ -774,7 +771,7 @@ msgid "Convert to vector"
 msgstr "వెక్టర్ మార్చుకునేందుకు"
 
 msgid "Converting mp3..."
-msgstr "mp3 లోకి మార్చుట"
+msgstr "ఎం.పి3 లోకి మార్చుట"
 
 msgid "copy"
 msgstr "నకలు"
@@ -782,9 +779,8 @@ msgstr "నకలు"
 msgid "Copying..."
 msgstr "కాపీ చేస్తోంది ..."
 
-#, fuzzy
 msgid "cos"
-msgstr "ఎసిఒఎస్"
+msgstr "సిఒఎస్"
 
 msgid "Costume"
 msgstr "వేషము"
@@ -828,7 +824,6 @@ msgstr "ప్రస్తుతం,క్లౌడ్ వేరియబుల�
 msgid "cut"
 msgstr "కత్తిరించు"
 
-#, fuzzy
 msgid "D connected"
 msgstr "D అనుసంధానమైంది"
 
@@ -857,10 +852,10 @@ msgid "Don't save"
 msgstr "సేవ్ చేయవద్దు"
 
 msgid "down"
-msgstr ""
+msgstr "కిందకు"
 
 msgid "down arrow"
-msgstr ""
+msgstr "క్రింది దిశకు బాణము"
 
 msgid "Download"
 msgstr "డౌన్ లోడ్"
@@ -872,22 +867,22 @@ msgid "Downloading new version"
 msgstr ""
 
 msgid "duplicate"
-msgstr ""
+msgstr "నకలు"
 
 msgid "Duplicate"
 msgstr "నకిలీ"
 
 msgid "e ^"
-msgstr ""
+msgstr "ఇ ^"
 
 msgid "edge"
-msgstr ""
+msgstr "అంచు"
 
 msgid "Edit"
 msgstr "సవరించు"
 
 msgid "edit"
-msgstr ""
+msgstr "సరిచేయు"
 
 msgid "Edit Block"
 msgstr "బ్లాక్ ను సవరించు"
@@ -926,7 +921,7 @@ msgid "everything"
 msgstr ""
 
 msgid "export"
-msgstr ""
+msgstr "ఎగుమతి చేయి"
 
 msgid "Extension Library"
 msgstr ""
@@ -935,10 +930,10 @@ msgid "Extension Problem"
 msgstr ""
 
 msgid "fade in"
-msgstr ""
+msgstr "వెలసిపోవు లోపలకి"
 
 msgid "fade out"
-msgstr ""
+msgstr "వెలసిపోవు బయటకి"
 
 msgid "false"
 msgstr ""
@@ -956,7 +951,7 @@ msgid "Fill with color"
 msgstr "రంగుతో నింపు"
 
 msgid "fisheye"
-msgstr ""
+msgstr "చాప కన్ను"
 
 msgid "Flip left-right"
 msgstr "ఎడమ-కుడి ఫ్లిప్"
@@ -965,7 +960,7 @@ msgid "Flip up-down"
 msgstr "ఫ్లిప్ అప్-డౌన్"
 
 msgid "floor"
-msgstr ""
+msgstr "నేల"
 
 msgid "Flute"
 msgstr "పిల్లనగ్రోవి"
@@ -986,7 +981,7 @@ msgid "Forward a layer"
 msgstr "ఒక పొర ముందుకు చెయ్యండి"
 
 msgid "ghost"
-msgstr ""
+msgstr "దెయ్యం"
 
 msgid "Go to My Stuff"
 msgstr "నా వస్తువులకు వెళ్ళండి"
@@ -998,7 +993,7 @@ msgid "Grow"
 msgstr "పెంచు"
 
 msgid "Guiro"
-msgstr "Guiro/గుయోరో"
+msgstr "గుయోరో"
 
 msgid "Guitar"
 msgstr "గిటార్"
@@ -1010,7 +1005,7 @@ msgid "Hardware"
 msgstr "హార్డువేర్"
 
 msgid "help"
-msgstr ""
+msgstr "సహాయము"
 
 msgid "Hello!"
 msgstr ""
@@ -1028,13 +1023,13 @@ msgid "Holiday"
 msgstr "సెలవు"
 
 msgid "hour"
-msgstr ""
+msgstr "గంట"
 
 msgid "Human"
 msgstr "మానవుడు"
 
 msgid "import"
-msgstr ""
+msgstr "దిగుమతిచేయి"
 
 msgid "Import"
 msgstr "దిగుమతిచేయి"
@@ -1052,22 +1047,22 @@ msgid "Instruments"
 msgstr "సాధనములు"
 
 msgid "large readout"
-msgstr ""
+msgstr "పెద్ద సంఖ్యలో చూసినప్పుడు"
 
 msgid "last"
-msgstr ""
+msgstr "గడిచిన"
 
 msgid "left"
-msgstr ""
+msgstr "ఎడమ"
 
 msgid "left arrow"
-msgstr ""
+msgstr "ఎడమ బాణము"
 
 msgid "left-right"
-msgstr ""
+msgstr "ఎడమ - కుడి"
 
 msgid "length"
-msgstr ""
+msgstr "పొడవు"
 
 msgid "Letters"
 msgstr "అక్షరాలు"
@@ -1076,7 +1071,7 @@ msgid "Library"
 msgstr "లైబ్రరీ"
 
 msgid "light"
-msgstr ""
+msgstr "కాంతి"
 
 msgid "lights"
 msgstr ""
@@ -1091,34 +1086,34 @@ msgid "Line width"
 msgstr "గీత వెడల్పు"
 
 msgid "list"
-msgstr ""
+msgstr "జాబితా"
 
 msgid "List name"
 msgstr "జాబితా పేరు"
 
 msgid "ln"
-msgstr ""
+msgstr "ఎల్.ఎన్."
 
 msgid "Loading project..."
 msgstr "ప్రాజెక్ట్ లోడ్ అవుతోంది..."
 
 msgid "log"
-msgstr ""
+msgstr "లాగ్"
 
 msgid "louder"
-msgstr ""
+msgstr "బిగ్గరగా"
 
 msgid "Low C"
-msgstr "Cతక్కువ"
+msgstr "C తక్కువ"
 
 msgid "Make a Block"
-msgstr "ఒక Block చేయండి ..."
+msgstr "ఒక బ్లాక్ చేయండి ..."
 
 msgid "Make a List"
 msgstr "ఒక జాబితా తయ్యారు చేయి"
 
 msgid "Make a Variable"
-msgstr "ఒక చలరాశి(వేరియబుల్) చేయండి"
+msgstr "ఒక చలరాశి చేయండి"
 
 msgid "Marimba"
 msgstr "మారింబ"
@@ -1127,16 +1122,16 @@ msgid "Max"
 msgstr "గరిష్ఠము"
 
 msgid "meow"
-msgstr ""
+msgstr "మియావ్"
 
 msgid "Message Name"
 msgstr "సందేశం పేరు"
 
 msgid "message1"
-msgstr ""
+msgstr "సందేశం1"
 
 msgid "Microphone volume:"
-msgstr " మైక్రోఫోన్ వాల్యూమ్"
+msgstr "మైక్రోఫోన్ వాల్యూమ్"
 
 msgid "Middle C"
 msgstr "మధ్య C"
@@ -1145,16 +1140,16 @@ msgid "Min"
 msgstr "కనిష్ట"
 
 msgid "minute"
-msgstr ""
+msgstr "నిమిషం"
 
 msgid "month"
-msgstr ""
+msgstr "నెల"
 
 msgid "mosaic"
-msgstr ""
+msgstr "మొజాయిక్"
 
 msgid "motion"
-msgstr ""
+msgstr "చలనము"
 
 msgid "motor"
 msgstr ""
@@ -1166,7 +1161,7 @@ msgid "motor B"
 msgstr ""
 
 msgid "mouse-pointer"
-msgstr ""
+msgstr "మౌస్ పాయింటర్"
 
 msgid "Multiple"
 msgstr "బహుళ"
@@ -1175,7 +1170,7 @@ msgid "Music and Dance"
 msgstr "సంగీతం మరియు నృత్యం"
 
 msgid "Music Box"
-msgstr " సంగీతం పెట్టె"
+msgstr "సంగీతం పెట్టె"
 
 msgid "Music Loops"
 msgstr "సంగీతం లూప్స్"
@@ -1184,7 +1179,7 @@ msgid "My Stuff"
 msgstr "నా అంశాలు"
 
 msgid "myself"
-msgstr ""
+msgstr "నన్ను నేను"
 
 msgid "Nature"
 msgstr "ప్రకృతి"
@@ -1208,13 +1203,13 @@ msgid "New costume:"
 msgstr "కొత్త వేషధారణ"
 
 msgid "New List"
-msgstr "క్రొత్త జాబితా"
+msgstr "కొత్త జాబితా"
 
 msgid "New Message"
 msgstr "కొత్త సందేశం"
 
 msgid "new message..."
-msgstr ""
+msgstr "కొత్త సందేశం..."
 
 msgid "New name"
 msgstr "కొత్త పేరు"
@@ -1235,7 +1230,7 @@ msgid "No motion blocks"
 msgstr "చలన బ్లాక్స్ లేవు"
 
 msgid "normal readout"
-msgstr ""
+msgstr "సాధారణంగా చూసినప్పుడు"
 
 msgid "not ="
 msgstr ""
@@ -1247,10 +1242,10 @@ msgid "Not saved; project did not load."
 msgstr "సేవ్ కాలేదు; ప్రాజెక్ట్ లోడ్ అవలేదు"
 
 msgid "of"
-msgstr ""
+msgstr "యొక్క"
 
 msgid "off"
-msgstr ""
+msgstr "ఆఫ్"
 
 msgid "Offline Editor"
 msgstr "ఆఫ్లైన్ ఎడిటర్"
@@ -1259,10 +1254,10 @@ msgid "OK"
 msgstr "సరే"
 
 msgid "on"
-msgstr ""
+msgstr "అందు"
 
 msgid "on-flipped"
-msgstr ""
+msgstr "అందు తిప్పబడింది"
 
 msgid "Open"
 msgstr "తెరువు"
@@ -1283,10 +1278,10 @@ msgid "Other"
 msgstr "ఇతరములు"
 
 msgid "other scripts in sprite"
-msgstr ""
+msgstr "స్ప్రైట్ లో ఇతర స్క్రిప్ట్స్"
 
 msgid "other scripts in stage"
-msgstr ""
+msgstr "దశలో ఇతర స్క్రిప్ట్స్"
 
 msgid "Outdoors"
 msgstr "ఆరుబయట"
@@ -1307,7 +1302,7 @@ msgid "Password is required"
 msgstr "సంకేతపదం అవసరం"
 
 msgid "paste"
-msgstr ""
+msgstr "అతికించు"
 
 msgid "Pencil"
 msgstr "పెన్సిలు"
@@ -1319,7 +1314,7 @@ msgid "Percussion"
 msgstr "సమాఘాతము"
 
 msgid "photo1"
-msgstr ""
+msgstr "ఫోటో1"
 
 msgid "Piano"
 msgstr "పియానో"
@@ -1328,16 +1323,16 @@ msgid "Pick up color"
 msgstr "ఒక వర్ణమును ఎంచుకోండి"
 
 msgid "pixelate"
-msgstr ""
+msgstr "పిక్సలేట్"
 
 msgid "Pizzicato"
 msgstr "పిజ్జికాటో"
 
 msgid "pop"
-msgstr ""
+msgstr "పాప్"
 
 msgid "previous backdrop"
-msgstr ""
+msgstr "మునుపటి వెనుక తెర"
 
 msgid "Profile"
 msgstr "వ్యక్తి గత వివరాలు"
@@ -1355,7 +1350,7 @@ msgid "Project name is required"
 msgstr "ప్రాజెక్టు పేరు అవసరం"
 
 msgid "random"
-msgstr ""
+msgstr "యాదృచ్ఛికం"
 
 msgid "Record"
 msgstr "నమోదుచేయు"
@@ -1364,19 +1359,19 @@ msgid "Record new sound"
 msgstr "కొత్త సౌండ్ ను రికార్డు చేయుము"
 
 msgid "record..."
-msgstr ""
+msgstr "రికార్డు"
 
 msgid "recording1"
-msgstr ""
+msgstr "రికార్డింగ్1"
 
 msgid "Rectangle"
 msgstr "దీర్ఘచతురస్రం"
 
 msgid "Redo"
-msgstr "మళ్ళీచేయు"
+msgstr "మళ్ళీ చేయు"
 
 msgid "redo"
-msgstr ""
+msgstr "మళ్ళీచేయు"
 
 msgid "Remix"
 msgstr "రీమిక్స్"
@@ -1391,7 +1386,7 @@ msgid "Rename"
 msgstr "పేరుమార్చు"
 
 msgid "rename variable"
-msgstr ""
+msgstr "చరరాశి పేరు మార్చు"
 
 msgid "Replace existing project"
 msgstr ""
@@ -1403,19 +1398,19 @@ msgid "Reshape"
 msgstr "ఆకృతిని మార్చడం"
 
 msgid "resistance-A"
-msgstr ""
+msgstr "'A'ను నిరోదించు"
 
 msgid "resistance-B"
-msgstr ""
+msgstr "'B'ను నిరోదించు"
 
 msgid "resistance-C"
-msgstr ""
+msgstr "'C'ను నిరోదించు"
 
 msgid "resistance-D"
-msgstr ""
+msgstr "'D'ను నిరోదించు"
 
 msgid "reverse"
-msgstr ""
+msgstr "తిరగేయు"
 
 msgid "Revert"
 msgstr "పూర్వ స్థితికి మార్చు"
@@ -1424,13 +1419,13 @@ msgid "Reverting..."
 msgstr "పూర్వ స్థితికి మారుస్తోంది"
 
 msgid "right"
-msgstr ""
+msgstr "కుడి"
 
 msgid "right arrow"
-msgstr ""
+msgstr "కుడి వైపు బాణము"
 
 msgid "rotation style:"
-msgstr ""
+msgstr "భ్రమణ శైలి"
 
 msgid "Run without screen refresh"
 msgstr "తెర రిఫ్రెష్ లేకుండా నడుపు"
@@ -1454,7 +1449,7 @@ msgid "Save project?"
 msgstr "ప్రాజెక్ట్ను భధ్రపరచడం?"
 
 msgid "save to local file"
-msgstr ""
+msgstr "స్థానిక ఫైల్ లో సేవ్ చేయు"
 
 msgid "Saved"
 msgstr "భధ్రపరచబడింది"
@@ -1484,7 +1479,7 @@ msgid "Scripts:"
 msgstr ""
 
 msgid "second"
-msgstr ""
+msgstr "క్షణం"
 
 msgid "See project page"
 msgstr "ప్రాజెక్టు పేజీని చూడండి"
@@ -1498,7 +1493,7 @@ msgid "Select"
 msgstr "ఎంపికచేయి"
 
 msgid "select all"
-msgstr ""
+msgstr "అన్నీ ఎంచుకో"
 
 msgid "Select and duplicate"
 msgstr "ఎంపికచేయి మరియు నకిలీ"
@@ -1513,7 +1508,7 @@ msgid "Set costume center"
 msgstr "కాస్ట్యూమ్ సెంటర్ ఏర్పాటు"
 
 msgid "set slider min and max"
-msgstr ""
+msgstr "స్లైడర్ కనిష్టం మరియు గరిష్టంను నిశ్చయింౘు"
 
 msgid "Share"
 msgstr "భాగస్వామ్యం"
@@ -1525,7 +1520,7 @@ msgid "Share to Scratch website"
 msgstr ""
 
 msgid "shared"
-msgstr ""
+msgstr "పంచుకున్నవి"
 
 msgid "Shift:"
 msgstr "మార్పు"
@@ -1537,7 +1532,7 @@ msgid "show senders"
 msgstr ""
 
 msgid "show:"
-msgstr ""
+msgstr "చూపించు:"
 
 msgid "Shrink"
 msgstr "కుదించు"
@@ -1549,19 +1544,19 @@ msgid "Sign in"
 msgstr "ప్రవేశించు"
 
 msgid "Sign in to save"
-msgstr ""
+msgstr "సేవ్ చేయడానికి సైన్ ఇన్"
 
 msgid "Sign out"
 msgstr "సైన్ అవుట్"
 
 msgid "silence"
-msgstr ""
+msgstr "నిశ్శబ్దం"
 
 msgid "sin"
-msgstr ""
+msgstr "సైన్"
 
 msgid "slider"
-msgstr ""
+msgstr "స్లైడర్"
 
 msgid "Slider Range"
 msgstr "స్లైడర్ పరిధి"
@@ -1576,10 +1571,10 @@ msgid "Snare Drum"
 msgstr "వల డ్రమ్"
 
 msgid "softer"
-msgstr ""
+msgstr "మృదువైన"
 
 msgid "sound"
-msgstr ""
+msgstr "ధ్వని"
 
 msgid "Sound Library"
 msgstr "ధ్వని లైబ్రరీ"
@@ -1591,25 +1586,25 @@ msgid "Space"
 msgstr "స్థలం"
 
 msgid "space"
-msgstr ""
+msgstr "స్థలం"
 
 msgid "Sports"
-msgstr ""
+msgstr "క్రీడలు"
 
 msgid "Sprite"
-msgstr ""
+msgstr "స్ప్రైట్"
 
 msgid "Sprite Library"
-msgstr ""
+msgstr "స్ప్రైట్ లైబ్రరీ"
 
 msgid "Sprite1"
-msgstr ""
+msgstr "స్ప్రైట్ 1"
 
 msgid "Sprites"
-msgstr ""
+msgstr "స్ప్రైట్స్"
 
 msgid "sqrt"
-msgstr ""
+msgstr "వర్గమూలం"
 
 msgid "Square"
 msgstr "చతురస్రం"
@@ -1636,16 +1631,16 @@ msgid "Tambourine"
 msgstr "టాంబురైన్"
 
 msgid "tan"
-msgstr ""
+msgstr "టాన్"
 
 msgid "text"
-msgstr ""
+msgstr "పాఠం"
 
 msgid "Text"
 msgstr "పాఠం"
 
 msgid "that way"
-msgstr ""
+msgstr "ఆ వైపు"
 
 msgid "The name is already in use."
 msgstr ""
@@ -1681,13 +1676,13 @@ msgstr ""
 "ఈ ప్రాజెక్టు క్లౌడ్ డేటాను ఉపయోగిస్తుంది - సైన్ ఇన్ అయిన యూజర్లకు మాత్రమే ఒక లక్షణం అందుబాటులో ఉంది."
 
 msgid "this script"
-msgstr ""
+msgstr "ఈ లిపి"
 
 msgid "this sprite"
-msgstr ""
+msgstr "ఈ స్ప్రైట్"
 
 msgid "this way"
-msgstr ""
+msgstr "ఈ విధంగా"
 
 msgid "Throw away all changes since opening this project?"
 msgstr "ఈ ప్రాజెక్ట్ తెరవడం వలన అన్ని మార్పులు తీసివేసినట్లు?"
@@ -1699,13 +1694,13 @@ msgid "To delete a block definition, first remove all uses of the block."
 msgstr "ఒక బ్లాక్ నిర్వచనం తొలగించడానికి, మొదట బ్లాక్ యొక్క అన్ని ఉపయోగాలు తొలగించండి."
 
 msgid "Transportation"
-msgstr ""
+msgstr "రవాణా"
 
 msgid "Triangle"
-msgstr ""
+msgstr "త్రిభుజం"
 
 msgid "Trombone"
-msgstr ""
+msgstr "ట్రోంబోన్"
 
 msgid "true"
 msgstr ""
@@ -1714,7 +1709,7 @@ msgid "Turbo mode"
 msgstr "టర్బో మోడ్"
 
 msgid "Turbo Mode"
-msgstr ""
+msgstr "టర్బో మోడ్"
 
 msgid "Type"
 msgstr "రకం"
@@ -1726,7 +1721,7 @@ msgid "Underwater"
 msgstr "నీటి అడుగున"
 
 msgid "undo"
-msgstr ""
+msgstr "చేసిందిరద్దు"
 
 msgid "Undo"
 msgstr "చేసిందిరద్దు"
@@ -1738,31 +1733,31 @@ msgid "Ungroup"
 msgstr "సమూహము నుండి తొలగించు"
 
 msgid "unshared"
-msgstr ""
+msgstr "భాగస్వామ్యంలో లేదు"
 
 msgid "up"
-msgstr ""
+msgstr "పైకి"
 
 msgid "up arrow"
-msgstr ""
+msgstr "పై బాణము"
 
 msgid "Update failed"
 msgstr "నవీకరణ విఫలమైంది"
 
 msgid "Update not needed"
-msgstr ""
+msgstr "నవీకరణ అవసరం లేదు"
 
 msgid "Update now"
-msgstr ""
+msgstr "ఇప్పుడే నవీకరించు"
 
 msgid "Upload backdrop from file"
-msgstr ""
+msgstr "ఫైలు నుండి వెనకతెరను అప్ లోడ్ చెయ్యి"
 
 msgid "Upload costume from file"
-msgstr ""
+msgstr "ఫైలు నుండి వేషం అప్ లోడ్ చెయ్యి"
 
 msgid "Upload from your computer"
-msgstr ""
+msgstr "మీ కంప్యూటర్ నుండి అప్ లోడ్ చెయ్యండి"
 
 msgid "Upload sound from file"
 msgstr "ఫైలు నుండి ధ్వనిని అప్ లోడ్ చెయ్యి"
@@ -1771,7 +1766,7 @@ msgid "Upload sprite from file"
 msgstr "ఫైలు నుండి స్ప్రైట్ అప్ లోడ్ చెయ్యి"
 
 msgid "Uploading image..."
-msgstr ""
+msgstr "చిత్రాన్నిఅప్ లోడ్ చెయ్యండి"
 
 msgid "Uploading sound..."
 msgstr "ధ్వని అప్లోడ్ అవుతూ ఉంది..."
@@ -1780,7 +1775,7 @@ msgid "Uploading sprite..."
 msgstr "స్ప్రైట్ అప్లోడ్ అవుతూ ఉంది..."
 
 msgid "variable"
-msgstr ""
+msgstr "చరరాశి"
 
 msgid "Variable name"
 msgstr "చరరాశి పేరు"
@@ -1798,10 +1793,10 @@ msgid "Vibraslap"
 msgstr "విబ్రాస్లాప్"
 
 msgid "video direction"
-msgstr ""
+msgstr "వీడియో దిశ"
 
 msgid "video motion"
-msgstr ""
+msgstr "వీడియో చలనము"
 
 msgid "Video on:"
 msgstr "ఆన్ వీడియో"
@@ -1822,7 +1817,7 @@ msgid "What's your name?"
 msgstr ""
 
 msgid "whirl"
-msgstr ""
+msgstr "గిరగిరా"
 
 msgid "Wood Block"
 msgstr "చెక్క ముక్క"
@@ -1834,7 +1829,7 @@ msgid "world"
 msgstr ""
 
 msgid "year"
-msgstr ""
+msgstr "సంవత్సరం"
 
 msgid ""
 "You cannot edit cloud data in someone else's project.<br>Any change that you "
@@ -1892,7 +1887,7 @@ msgstr "కొత్త వెర్షన్ డౌన్లోడ్ చేస
 
 # Offline editor only
 msgid "Error saving project"
-msgstr "ప్రోజెక్టుని సేవ్ చేయడంలో లోపం "
+msgstr "ప్రొజెక్టుని సేవ్ చేయడంలో లోపం "
 
 # Offline editor only
 msgid "Force help file update"
@@ -1956,7 +1951,7 @@ msgstr "నవీకరణ తనిఖీ విఫలమైంది"
 
 # Offline editor only
 msgid "Upload failed"
-msgstr ""
+msgstr "అప్ లోడ్ విఫలమైంది"
 
 # Offline editor only
 msgid "Visit download page"
@@ -1964,7 +1959,7 @@ msgstr "డౌన్లోడ్ పేజీని సందర్శించ�
 
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
-msgstr "మీ ప్రాజెక్ట్ scratch.mit.edu కి అప్లోడ్ చేయబడింది"
+msgstr "మీ ప్రాజెక్ట్ మా వెబ్ సైట్ కి అప్లోడ్ చేయబడింది"
 
 msgid "Record Project Video"
 msgstr "ప్రాజెక్ట్ వీడియోను నమోదుచేయు"
@@ -1976,7 +1971,7 @@ msgid "any"
 msgstr "ఏదైన"
 
 msgid "random position"
-msgstr ""
+msgstr "యాదృచ్ఛిక స్థానం"
 
 #~ msgid "go to %m.spriteOrMouse"
 #~ msgstr "%m.spriteOrMouse కు వెళ్ళు"

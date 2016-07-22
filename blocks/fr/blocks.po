@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2016-06-26 19:50+0000\n"
+"PO-Revision-Date: 2016-07-12 17:43+0000\n"
 "Last-Translator: Smrman <matthieu.brandt.74@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1466970642.000000\n"
+"X-POOTLE-MTIME: 1468345424.000000\n"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
@@ -63,25 +63,25 @@ msgid "broadcast %m.broadcast and wait"
 msgstr "envoyer à tous %m.broadcast et attendre"
 
 msgid "change %m.effect effect by %n"
-msgstr "ajouter à l'effet %m.effect %n"
+msgstr "ajouter %n à l'effet %m.effect"
 
 msgid "change %m.var by %n"
-msgstr "remplacer %m.var par %n"
+msgstr "ajouter %n à %m.var"
 
 msgid "change pen color by %n"
-msgstr "mettre la couleur du stylo à %n"
+msgstr "ajouter %n à la couleur du stylo"
 
 msgid "change pen shade by %n"
-msgstr "mettre l'intensité du stylo à %n"
+msgstr "ajouter %n à l'intensité du stylo"
 
 msgid "change pen size by %n"
-msgstr "mettre la taille du stylo à %n"
+msgstr "ajouter %n à la taille du stylo"
 
 msgid "change size by %n"
-msgstr "mettre la taille à %n"
+msgstr "ajouter %n à la taille"
 
 msgid "change tempo by %n"
-msgstr "mettre le tempo à %n"
+msgstr "ajouter %n au tempo"
 
 msgid "change volume by %n"
 msgstr "ajouter %n au volume"
@@ -105,7 +105,7 @@ msgid "Control"
 msgstr "Contrôle"
 
 msgid "costume #"
-msgstr "costume n°"
+msgstr "costume #"
 
 msgid "create clone of %m.spriteOnly"
 msgstr "créer un clone de %m.spriteOnly"
@@ -316,16 +316,16 @@ msgid "set %m.motor power to %n"
 msgstr "fixer %m.motor à la puissance %n"
 
 msgid "set pen color to %c"
-msgstr "choisir la couleur %c pour le stylo"
+msgstr "mettre la couleur du stylo à %c"
 
 msgid "set pen color to %n"
 msgstr "mettre la couleur du stylo à %n"
 
 msgid "set pen shade to %n"
-msgstr "choisir l'intensité %n pour le stylo"
+msgstr "mettre l'intensité du stylo à %n"
 
 msgid "set pen size to %n"
-msgstr "choisir la taille %n pour le stylo"
+msgstr "mettre la taille du stylo à %n"
 
 msgid "set rotation style %m.rotationStyle"
 msgstr "fixer le sens de rotation %m.rotationStyle"
@@ -381,7 +381,7 @@ msgid "switch backdrop to %m.backdrop and wait"
 msgstr "basculer sur l'arrière-plan %m.backdrop et attendre"
 
 msgid "switch costume to %m.costume"
-msgstr "basculer sur costume %m.costume"
+msgstr "basculer sur le costume %m.costume"
 
 msgid "tempo"
 msgstr "tempo"
@@ -446,7 +446,7 @@ msgid "when %m.booleanSensor"
 msgstr "quand %m.booleanSensor"
 
 msgid "when %m.key key pressed"
-msgstr "quand %m.key est cliqué"
+msgstr "quand %m.key est pressé"
 
 msgid "when %m.sensor %m.lessMore %n"
 msgstr "quand %m.sensor %m.lessMore %n"
@@ -455,7 +455,7 @@ msgid "when %m.triggerSensor > %n"
 msgstr "quand %m.triggerSensor > %n"
 
 msgid "when @greenFlag clicked"
-msgstr "quand @greenFlag cliqué"
+msgstr "quand @greenFlag est cliqué"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"

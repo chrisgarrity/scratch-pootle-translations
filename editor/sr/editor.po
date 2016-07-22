@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-07-21 20:17+0000\n"
-"Last-Translator: Milan <milan.cajic@mts.rs>\n"
+"PO-Revision-Date: 2016-07-11 17:38+0000\n"
+"Last-Translator: ipernjakovic <ivan@pernjakovic.com>\n"
 "Language-Team: српски <>\n"
 "Language: sr\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1437509868.000000\n"
+"X-POOTLE-MTIME: 1468258716.000000\n"
 "X-Language: sr_RS\n"
 "X-Source-Language: C\n"
 
@@ -30,8 +30,9 @@ msgid ""
 msgstr ""
 "<b>Информације о интернет променљивама у облаку</b><br>&nbsp;<br>Тренутно су "
 "само бројеви продржани<br>собе за разговор (chat rooms) нису дозвољене, и "
-"биће уклоњене<br>За више информација <a href= target=>погледајте често "
-"постављана питања (FAQ) у вези интернет података у облаку!</a>"
+"биће уклоњене<br>За више информација, <a href=\"/help/faq/#clouddata\" "
+"target=\"_blank\">погледајте често постављана питања (FAQ) у вези интернет "
+"података у облаку!</a>"
 
 msgid "A connected"
 msgstr "A повезан"
@@ -40,7 +41,7 @@ msgid "a copy of the project file on your computer."
 msgstr "умножак датотеке пројекта у твом компјутеру."
 
 msgid "A newer version of Scratch is available"
-msgstr "Доступна је нова верзија Скреча"
+msgstr "Доступна је новија верзија Скрача"
 
 msgid "About"
 msgstr "О програму"
@@ -55,7 +56,7 @@ msgid "abs"
 msgstr "апс"
 
 msgid "Account settings"
-msgstr "Подешавање налога"
+msgstr "Подешавања налога"
 
 msgid "acos"
 msgstr "arccos"
@@ -269,9 +270,8 @@ msgstr "Кларинет"
 msgid "Claves"
 msgstr "Клавес"
 
-#, fuzzy
 msgid "clean up"
-msgstr "чишћење"
+msgstr "очисти"
 
 msgid "Clear"
 msgstr "Обриши"
@@ -435,7 +435,7 @@ msgid "e ^"
 msgstr "e на степен"
 
 msgid "edge"
-msgstr "руб"
+msgstr "ивица"
 
 msgid "Edit"
 msgstr "Уреди"
@@ -598,7 +598,7 @@ msgid "Import"
 msgstr "Увези"
 
 msgid "Importing sound..."
-msgstr "Увези звук..."
+msgstr "Увозим звук..."
 
 msgid "Indoors"
 msgstr "Унутра"
@@ -648,7 +648,7 @@ msgid "Line"
 msgstr "Линија"
 
 msgid "Line width"
-msgstr "Ширина линије"
+msgstr "Дебљина линије"
 
 # 75%
 msgid "list"
@@ -742,7 +742,7 @@ msgid "Music Box"
 msgstr "Музичка кутија"
 
 msgid "Music Loops"
-msgstr "Музичка петља"
+msgstr "Музичке петље"
 
 msgid "My Stuff"
 msgstr "Моје ствари"
@@ -1017,7 +1017,7 @@ msgid "Save as"
 msgstr "Сачувај као"
 
 msgid "Save as a copy"
-msgstr "Сачувај као умножак"
+msgstr "Сачувај као копију"
 
 msgid "Save now"
 msgstr "Сачувај одмах"
@@ -1103,7 +1103,7 @@ msgid "shared"
 msgstr "објављено (дељено)"
 
 msgid "Shift:"
-msgstr "Пормери:"
+msgstr "Помери:"
 
 msgid "show"
 msgstr "прикажи"
@@ -1176,7 +1176,7 @@ msgstr "Звукови"
 
 # 80%
 msgid "Space"
-msgstr "Размак"
+msgstr "Свемир"
 
 msgid "space"
 msgstr "размак"
@@ -1483,7 +1483,9 @@ msgstr "Сви предлози"
 msgid ""
 "An updated version of the Scratch offline editor is available on the Scratch "
 "website."
-msgstr "Унапређена верзија Скрача је доступна на Скрач сајту."
+msgstr ""
+"Унапређена верзија Скрач уређивача за рад ван мреже је доступна на Скрач "
+"сајту."
 
 # Offline editor only
 msgid "Could not retrieve update location from server."
@@ -1736,13 +1738,13 @@ msgstr "било који"
 #~ msgstr "Кратки гиро"
 
 msgid "Record Project Video"
-msgstr ""
+msgstr "Сними видео пројекта"
 
 msgid "Remove Background"
-msgstr ""
+msgstr "Уклони позадину"
 
 msgid "when Stage clicked"
 msgstr ""
 
 msgid "random position"
-msgstr ""
+msgstr "случајан положај"

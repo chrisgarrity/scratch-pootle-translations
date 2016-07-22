@@ -493,8 +493,9 @@ msgid ""
 msgstr ""
 "<b>Информације о интернет променљивама у облаку</b><br>&nbsp;<br>Тренутно су "
 "само бројеви продржани<br>собе за разговор (chat rooms) нису дозвољене, и "
-"биће уклоњене<br>За више информација <a href= target=>погледајте често "
-"постављана питања (FAQ) у вези интернет података у облаку!</a>"
+"биће уклоњене<br>За више информација, <a href=\"/help/faq/#clouddata\" "
+"target=\"_blank\">погледајте често постављана питања (FAQ) у вези интернет "
+"података у облаку!</a>"
 
 msgid "A connected"
 msgstr "A повезан"
@@ -503,7 +504,7 @@ msgid "a copy of the project file on your computer."
 msgstr "умножак датотеке пројекта у твом компјутеру."
 
 msgid "A newer version of Scratch is available"
-msgstr "Доступна је нова верзија Скреча"
+msgstr "Доступна је новија верзија Скрача"
 
 msgid "About"
 msgstr "О програму"
@@ -518,7 +519,7 @@ msgid "abs"
 msgstr "апс"
 
 msgid "Account settings"
-msgstr "Подешавање налога"
+msgstr "Подешавања налога"
 
 msgid "acos"
 msgstr "arccos"
@@ -726,9 +727,8 @@ msgstr "Кларинет"
 msgid "Claves"
 msgstr "Клавес"
 
-#, fuzzy
 msgid "clean up"
-msgstr "чишћење"
+msgstr "очисти"
 
 msgid "Clear"
 msgstr "Обриши"
@@ -878,7 +878,7 @@ msgid "e ^"
 msgstr "e на степен"
 
 msgid "edge"
-msgstr "руб"
+msgstr "ивица"
 
 msgid "Edit"
 msgstr "Уреди"
@@ -1038,7 +1038,7 @@ msgid "Import"
 msgstr "Увези"
 
 msgid "Importing sound..."
-msgstr "Увези звук..."
+msgstr "Увозим звук..."
 
 msgid "Indoors"
 msgstr "Унутра"
@@ -1085,7 +1085,7 @@ msgid "Line"
 msgstr "Линија"
 
 msgid "Line width"
-msgstr "Ширина линије"
+msgstr "Дебљина линије"
 
 # 75%
 msgid "list"
@@ -1176,7 +1176,7 @@ msgid "Music Box"
 msgstr "Музичка кутија"
 
 msgid "Music Loops"
-msgstr "Музичка петља"
+msgstr "Музичке петље"
 
 msgid "My Stuff"
 msgstr "Моје ствари"
@@ -1445,7 +1445,7 @@ msgid "Save as"
 msgstr "Сачувај као"
 
 msgid "Save as a copy"
-msgstr "Сачувај као умножак"
+msgstr "Сачувај као копију"
 
 msgid "Save now"
 msgstr "Сачувај одмах"
@@ -1527,7 +1527,7 @@ msgid "shared"
 msgstr "објављено (дељено)"
 
 msgid "Shift:"
-msgstr "Пормери:"
+msgstr "Помери:"
 
 msgid "show:"
 msgstr "прикажи:"
@@ -1584,7 +1584,7 @@ msgstr "Звукови"
 
 # 80%
 msgid "Space"
-msgstr "Размак"
+msgstr "Свемир"
 
 msgid "space"
 msgstr "размак"
@@ -1857,7 +1857,9 @@ msgstr "Сви предлози"
 msgid ""
 "An updated version of the Scratch offline editor is available on the Scratch "
 "website."
-msgstr "Унапређена верзија Скрача је доступна на Скрач сајту."
+msgstr ""
+"Унапређена верзија Скрач уређивача за рад ван мреже је доступна на Скрач "
+"сајту."
 
 # Offline editor only
 msgid "Could not retrieve update location from server."
@@ -1955,13 +1957,13 @@ msgid "any"
 msgstr "било који"
 
 msgid "Record Project Video"
-msgstr ""
+msgstr "Сними видео пројекта"
 
 msgid "Remove Background"
-msgstr ""
+msgstr "Уклони позадину"
 
 msgid "random position"
-msgstr ""
+msgstr "случајан положај"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"

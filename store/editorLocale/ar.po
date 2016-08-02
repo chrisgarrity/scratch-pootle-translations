@@ -1823,7 +1823,7 @@ msgstr "استبدال المشروع الحالي؟"
 
 # Offline editor only
 msgid "Running pre-release"
-msgstr ""
+msgstr "النسخة قبل النهائية مستخدمة"
 
 # Offline editor only
 msgid "Save Project"

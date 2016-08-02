@@ -1703,7 +1703,7 @@ msgstr "Tippek"
 
 msgid "To delete a block definition, first remove all uses of the block."
 msgstr ""
-"Egy parancs kifejtésének törlése előtt a parancs összes előfordulását "
+"Egy parancs meghatározásának törlése előtt a parancs összes előfordulását "
 "törölni kell."
 
 msgid "Transportation"

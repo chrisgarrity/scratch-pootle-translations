@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2015-04-15 13:56+0000\n"
-"Last-Translator: Natalie <nrusk@media.mit.edu>\n"
+"PO-Revision-Date: 2016-07-27 13:17+0000\n"
+"Last-Translator: chrisg <chrisg@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hr\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1429106166.000000\n"
+"X-POOTLE-MTIME: 1469625447.000000\n"
 
 msgid "%b and %b"
 msgstr "%b i %b"
@@ -301,8 +301,7 @@ msgstr "postavi instrument na %d.instrument"
 msgid "set %m.motor2 direction to %m.motorDirection"
 msgstr "postavi smjer motora %m.motorDirection"
 
-# 77%
-# 75%
+# %m.motor is a placeholder that will be filled in by the program. Should the correct translation be 'postavi snagu %m.motor %n'
 #, fuzzy
 msgid "set %m.motor power to %n"
 msgstr "postavi snagu motora %n"

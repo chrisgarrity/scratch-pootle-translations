@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-02-06 02:02+0000\n"
-"Last-Translator: timsk3 <translate_scratch@timsk.org>\n"
+"PO-Revision-Date: 2016-07-27 13:18+0000\n"
+"Last-Translator: oreg1965 <bago@palffy.hu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: eo\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1391652125.000000\n"
+"X-POOTLE-MTIME: 1469625532.000000\n"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
@@ -307,9 +307,8 @@ msgstr "valorigi instrumenton al %d.instrument"
 # 89%
 # 86%
 # 97%
-#, fuzzy
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "valorigi motordirekton al %m.motorDirection"
+msgstr "valorigi %m.motor2 motordirekton al %m.motorDirection"
 
 # 77%
 # 75%

@@ -1687,7 +1687,7 @@ msgstr ""
 "érhetik el."
 
 msgid "this script"
-msgstr "ezen feladat"
+msgstr "ez a feladat"
 
 msgid "this sprite"
 msgstr "ezen szereplő"

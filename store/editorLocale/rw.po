@@ -3,51 +3,42 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2016-03-21 14:20+0000\n"
-"Last-Translator: chrisg <chrisg@media.mit.edu>\n"
+"PO-Revision-Date: 2016-08-17 18:03+0000\n"
+"Last-Translator: mewtaylor <mataylor@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: rw\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1458570002.000000\n"
+"X-POOTLE-MTIME: 1471457014.000000\n"
 
-#, fuzzy
 msgid "%b and %b"
-msgstr "%b и %b"
+msgstr "%b na %b"
 
-#, fuzzy
 msgid "%b or %b"
-msgstr "%b или %b"
+msgstr "%b cyangwa %b"
 
-#, fuzzy
 msgid "%m.attribute of %m.spriteOrStage"
-msgstr "%m.attribute от %m.spriteOrStage"
+msgstr "%m.attribute ya %m.spriteOrStage"
 
-#, fuzzy
 msgid "%m.mathOp of %n"
-msgstr "%m.mathOp от %n"
+msgstr "%m.mathOp ya %n"
 
-#, fuzzy
 msgid "%m.sensor sensor value"
-msgstr "%m.sensor значение датчика"
+msgstr "%m.sensor agaciro k'icyumvirizo"
 
-#, fuzzy
 msgid "%n mod %n"
-msgstr "остаток от деления %n на %n"
+msgstr "%n mod %n"
 
-#, fuzzy
 msgid "add %s to %m.list"
-msgstr "добавить %s к %m.list"
+msgstr "ongera %s ku %m.list"
 
-#, fuzzy
 msgid "answer"
-msgstr "ответ"
+msgstr "igisubizo"
 
-#, fuzzy
 msgid "ask %s and wait"
-msgstr "спросить %s и ждать"
+msgstr "baza %s hanyuma utegereze"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 #, fuzzy
@@ -58,73 +49,56 @@ msgstr "Ahakorerwa ibikorwa #"
 msgid "backdrop name"
 msgstr "имя фона"
 
-#, fuzzy
 msgid "broadcast %m.broadcast"
-msgstr "передать %m.broadcast"
+msgstr "rangurura %m.broadcast"
 
-#, fuzzy
 msgid "broadcast %m.broadcast and wait"
-msgstr "передать %m.broadcast и ждать"
+msgstr "rangurura %m.broadcast kandi utegereze"
 
-#, fuzzy
 msgid "change %m.effect effect by %n"
-msgstr "изменить %m.effect эффект на %n"
+msgstr "hindura %m.effect ingaruka ya %n"
 
-#, fuzzy
 msgid "change %m.var by %n"
-msgstr "изменить %m.var на %n"
+msgstr "hindura %m.var ya %n"
 
-#, fuzzy
 msgid "change pen color by %n"
-msgstr "изменить цвет пера на %n"
+msgstr "hindura ibara ry`ikaramu  %n"
 
-#, fuzzy
 msgid "change pen shade by %n"
-msgstr "изменить тень пера на %n"
+msgstr "hindura ikaramu isiga irangi %n"
 
-#, fuzzy
 msgid "change pen size by %n"
-msgstr "изменить размер пера на %n"
+msgstr "hindura ingano y`ikaramuya ya %n"
 
-#, fuzzy
 msgid "change size by %n"
-msgstr "изменить размер на %n"
+msgstr "hindura ingano ya %n"
 
-#, fuzzy
 msgid "change tempo by %n"
-msgstr "изменить темп на %n"
+msgstr "hindura tempo ya %n"
 
-#, fuzzy
 msgid "change volume by %n"
-msgstr "изменить громкость на %n"
+msgstr "hindura ubunini bwa %n"
 
-#, fuzzy
 msgid "change x by %n"
-msgstr "изменить x на %n"
+msgstr "hindura x kuri %n"
 
-#, fuzzy
 msgid "change y by %n"
-msgstr "изменить y на %n"
+msgstr "hindura y ya %n"
 
-#, fuzzy
 msgid "clear"
-msgstr "очистить"
+msgstr "tunganya"
 
-#, fuzzy
 msgid "clear graphic effects"
-msgstr "убрать графические эффекты"
+msgstr "tunganya ingaruka z`igishushanyo"
 
-#, fuzzy
 msgid "color %c is touching %c?"
-msgstr "цвет %c касается %c?"
+msgstr "irangi %c rirafata %c?"
 
-#, fuzzy
 msgid "Control"
-msgstr "Управление"
+msgstr "imicungire"
 
-#, fuzzy
 msgid "costume #"
-msgstr "костюм #"
+msgstr "umwambaro #"
 
 msgid "create clone of %m.spriteOnly"
 msgstr "создать клон %m.spriteOnly"
@@ -141,58 +115,47 @@ msgstr "дней с 01.01.2000"
 msgid "define"
 msgstr "определить"
 
-#, fuzzy
 msgid "delete %d.listDeleteItem of %m.list"
-msgstr "удалить %d.listDeleteItem из %m.list"
+msgstr "siba %d.listDeleteItem ya %m.list"
 
 msgid "delete this clone"
 msgstr "удалить клон"
 
-#, fuzzy
 msgid "direction"
-msgstr "направление"
+msgstr "ikerekezo"
 
 msgid "distance"
 msgstr "расстояние"
 
-#, fuzzy
 msgid "distance to %m.spriteOrMouse"
-msgstr "расстояние до %m.spriteOrMouse"
+msgstr "intera ku %m.spriteOrMouse"
 
-#, fuzzy
 msgid "else"
-msgstr "иначе"
+msgstr "cyangwa"
 
 msgid "Events"
 msgstr "События"
 
-#, fuzzy
 msgid "forever"
-msgstr "всегда"
+msgstr "burundu"
 
-#, fuzzy
 msgid "glide %n secs to x:%n y:%n"
-msgstr "плыть %n секунд в точку x:%n y:%n"
+msgstr "kunyereza %n amasegonda ku  x:%n y:%n"
 
-#, fuzzy
 msgid "go back %n layers"
-msgstr "перейти назад на %n слоев"
+msgstr "subira inyuma %n kushe"
 
-#, fuzzy
 msgid "go to %m.spriteOrMouse"
-msgstr "перейти в %m.spriteOrMouse"
+msgstr "jya ku %m.spriteOrMouse"
 
-#, fuzzy
 msgid "go to front"
-msgstr "перейти в верхний слой"
+msgstr "jya imbere"
 
-#, fuzzy
 msgid "go to x:%n y:%n"
-msgstr "перейти в x:%n y:%n"
+msgstr "jya ku x:%n y:%n"
 
-#, fuzzy
 msgid "hide"
-msgstr "спрятаться"
+msgstr "hisha"
 
 msgid "hide list %m.list"
 msgstr "скрыть список %m.list"
@@ -203,178 +166,138 @@ msgstr "скрыть переменную %m.var"
 msgid "if %b then"
 msgstr "если %b , то"
 
-#, fuzzy
 msgid "if on edge, bounce"
-msgstr "если на краю, оттолкнуться"
+msgstr "niba ku musozo, dunda"
 
-#, fuzzy
 msgid "insert %s at %d.listItem of %m.list"
-msgstr "вставить %s в %d.listItem из %m.list"
+msgstr "injiza %s kuri %d.listItem ya %m.list"
 
-#, fuzzy
 msgid "item %d.listItem of %m.list"
-msgstr "элемент %d.listItem из %m.list"
+msgstr "igikoresho %d.listItem cya %m.list"
 
-#, fuzzy
 msgid "join %s %s"
-msgstr "слить %s и %s"
+msgstr "sanga %s %s"
 
-#, fuzzy
 msgid "key %m.key pressed?"
-msgstr "клавиша %m.key нажата?"
+msgstr "ibuto %m.key yakanzwe?"
 
-#, fuzzy
 msgid "length of %m.list"
-msgstr "длина списка %m.list"
+msgstr "uburebure bwa %m.list"
 
-#, fuzzy
 msgid "length of %s"
-msgstr "длина %s"
+msgstr "uburebure bwa %s"
 
-#, fuzzy
 msgid "letter %n of %s"
-msgstr "буква %n в %s"
+msgstr "inyuguti %n ya %s"
 
-#, fuzzy
 msgid "Looks"
-msgstr "Внешность"
+msgstr "reba/kugaragara"
 
-#, fuzzy
 msgid "loudness"
-msgstr "громкость"
+msgstr "urusaku"
 
 msgid "More Blocks"
 msgstr "Другие блоки"
 
-#, fuzzy
 msgid "Motion"
-msgstr "Движение"
+msgstr "gihindagurika"
 
-#, fuzzy
 msgid "mouse down?"
-msgstr "мышка нажата?"
+msgstr "imbeba hasi?"
 
-#, fuzzy
 msgid "mouse x"
-msgstr "мышка по x"
+msgstr "imbeba x"
 
-#, fuzzy
 msgid "mouse y"
-msgstr "мышка по y"
+msgstr "imbeba y"
 
-#, fuzzy
 msgid "move %n steps"
-msgstr "идти %n шагов"
+msgstr "genda %n intambwe"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 #, fuzzy
 msgid "next backdrop"
 msgstr "ahakorerwa ibikorwa hakurikira"
 
-#, fuzzy
 msgid "next costume"
-msgstr "следующий костюм"
+msgstr "umwambaro ukurikira"
 
-#, fuzzy
 msgid "not %b"
-msgstr "не %b"
+msgstr "nta %b"
 
-#, fuzzy
 msgid "Operators"
-msgstr "Операторы"
+msgstr "operators"
 
-#, fuzzy
 msgid "Pen"
-msgstr "Перо"
+msgstr "ikaramu"
 
-#, fuzzy
 msgid "pen down"
-msgstr "опустить перо"
+msgstr "ikaramu  hasi"
 
-#, fuzzy
 msgid "pen up"
-msgstr "поднять перо"
+msgstr "ikaramu hejuru"
 
-#, fuzzy
 msgid "pick random %n to %n"
-msgstr "выдать случайное от %n до %n"
+msgstr "fata kimwe muri byinshi %n nku %n"
 
-#, fuzzy
 msgid "play drum %d.drum for %n beats"
-msgstr "барабану %d.drum играть %n тактов"
+msgstr "tera ingoma %d.drum ku %n injyana"
 
 # 83%
 #, fuzzy
 msgid "play note %d.note for %n beats"
 msgstr "kina inota %d.note ku %n injyana"
 
-#, fuzzy
 msgid "play sound %m.sound"
-msgstr "играть звук %m.sound"
+msgstr "tera ijwi %m.sound"
 
-#, fuzzy
 msgid "play sound %m.sound until done"
-msgstr "играть звук %m.sound до конца"
+msgstr "tera ijwi %m.sound kugeza urangije"
 
-#, fuzzy
 msgid "point in direction %d.direction"
-msgstr "повернуть в направлении %d.direction"
+msgstr "tunga mu kerekezo %d.direction"
 
-#, fuzzy
 msgid "point towards %m.spriteOrMouse"
-msgstr "повернуться к %m.spriteOrMouse"
+msgstr "tunga werekeje/uganisha imbere %m.spriteOrMouse"
 
-#, fuzzy
 msgid "repeat %n"
-msgstr "повторить %n"
+msgstr "subiramo %n"
 
-#, fuzzy
 msgid "repeat until %b"
-msgstr "повторять пока не %b"
+msgstr "subiramo kugeza %b"
 
-#, fuzzy
 msgid "replace item %d.listItem of %m.list with %s"
-msgstr "заменить элемент %d.listItem в %m.list на %s"
+msgstr "simbuza ikintu %d.listItem cya %m.list hamwe na %s"
 
-#, fuzzy
 msgid "reset timer"
-msgstr "перезапустить таймер"
+msgstr "ongera utangize igipimisho cy`igihe"
 
-#, fuzzy
 msgid "rest for %n beats"
-msgstr "подождать %n тактов"
+msgstr "ruhuka ku %n injyana"
 
-#, fuzzy
 msgid "round %n"
-msgstr "округлить %n"
+msgstr "inshuro %n"
 
-#, fuzzy
 msgid "say %s"
-msgstr "сказать %s"
+msgstr "vuga %s"
 
-#, fuzzy
 msgid "say %s for %n secs"
-msgstr "говорить %s в течение %n секунд"
+msgstr "vuga %s ku %n masegonda"
 
-#, fuzzy
 msgid "Sensing"
-msgstr "Сенсоры"
+msgstr "kwiyumvira"
 
-#, fuzzy
 msgid "sensor %m.booleanSensor?"
-msgstr "сенсор %m.booleanSensor?"
+msgstr "icyumvirizo %m.booleanSensor?"
 
-#, fuzzy
 msgid "set %m.effect effect to %n"
-msgstr "установить эффект %m.effect в значение %n"
+msgstr "shyira %m.effect ingaruka ku %n"
 
-#, fuzzy
 msgid "set %m.var to %s"
-msgstr "задать %m.var значение %s"
+msgstr "shyira %m.var ku %n"
 
-#, fuzzy
 msgid "set instrument to %d.instrument"
-msgstr "выбрать инструмент %d.instrument"
+msgstr "shyira igikoresho ku %d.instrument"
 
 # 89%
 # 86%
@@ -389,51 +312,42 @@ msgstr "icyerekezo %m.motorDirection cy'ikinyabiziga"
 msgid "set %m.motor power to %n"
 msgstr "motor power %n"
 
-#, fuzzy
 msgid "set pen color to %c"
-msgstr "установить цвет %c для пера"
+msgstr "shyiramo ikaramu y`irange ku %c"
 
 #, fuzzy
 msgid "set pen color to %n"
-msgstr "установить цвет пера %n"
+msgstr "shyiramo ikaramu y`irange ku %n"
 
-#, fuzzy
 msgid "set pen shade to %n"
-msgstr "установить тень пера %n"
+msgstr "shyira ikaramu isiga ku %n"
 
-#, fuzzy
 msgid "set pen size to %n"
-msgstr "установить размер пера %n"
+msgstr " shyira ingano y`ikaramu ku %n"
 
 msgid "set rotation style %m.rotationStyle"
 msgstr "стиль вращения %m.rotationStyle"
 
-#, fuzzy
 msgid "set size to %n%"
-msgstr "установить размер %n%"
+msgstr "shyira ingano ku %n%"
 
-#, fuzzy
 msgid "set tempo to %n bpm"
-msgstr "установить темп %n bpm"
+msgstr "shyira  tempo ku %n bpm"
 
 msgid "set video transparency to %n%"
 msgstr "установить прозрачность видео %n%"
 
-#, fuzzy
 msgid "set volume to %n%"
-msgstr "установить громкость %n%"
+msgstr "shyira ubunini ku %n%"
 
-#, fuzzy
 msgid "set x to %n"
-msgstr "установить x в %n"
+msgstr "shyira x to %n"
 
-#, fuzzy
 msgid "set y to %n"
-msgstr "установить y в %n"
+msgstr "shyira y ku %n"
 
-#, fuzzy
 msgid "show"
-msgstr "показаться"
+msgstr "erekana"
 
 msgid "show list %m.list"
 msgstr "показать список %m.list"
@@ -441,24 +355,20 @@ msgstr "показать список %m.list"
 msgid "show variable %m.var"
 msgstr "показать переменную %m.var"
 
-#, fuzzy
 msgid "size"
-msgstr "размер"
+msgstr "ingano"
 
-#, fuzzy
 msgid "Sound"
-msgstr "Звук"
+msgstr "ijwi"
 
-#, fuzzy
 msgid "stamp"
-msgstr "печать"
+msgstr "kashi"
 
 msgid "stop %m.stop"
 msgstr "стоп %m.stop"
 
-#, fuzzy
 msgid "stop all sounds"
-msgstr "остановить все звуки"
+msgstr "hagarika amajwi yose"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
@@ -471,32 +381,26 @@ msgstr "сменить фон на %m.backdrop и ждать"
 msgid "switch costume to %m.costume"
 msgstr "сменить костюм на %m.costume"
 
-#, fuzzy
 msgid "tempo"
-msgstr "темп"
+msgstr "tempo"
 
-#, fuzzy
 msgid "think %s"
-msgstr "думать %s"
+msgstr "tekereza %s"
 
-#, fuzzy
 msgid "think %s for %n secs"
-msgstr "думать %s %n секунд"
+msgstr "tekereza %s ku %n amasegonda"
 
 msgid "tilt"
 msgstr "наклон"
 
-#, fuzzy
 msgid "timer"
-msgstr "таймер"
+msgstr "igipima igihe"
 
-#, fuzzy
 msgid "touching %m.touching?"
-msgstr "касается %m.touching?"
+msgstr "gufata %m.touching?"
 
-#, fuzzy
 msgid "touching color %c?"
-msgstr "касается цвета %c?"
+msgstr "gufata irange %c?"
 
 msgid "turn @turnLeft %n degrees"
 msgstr "повернуть @turnLeft на %n градусов"
@@ -527,26 +431,22 @@ msgstr "имя участника"
 msgid "video %m.videoMotionType on %m.stageOrThis"
 msgstr "видео %m.videoMotionType на %m.stageOrThis"
 
-#, fuzzy
 msgid "volume"
-msgstr "громкость"
+msgstr "Ubunini"
 
-#, fuzzy
 msgid "wait %n secs"
-msgstr "ждать %n секунд"
+msgstr "tegereza %n amasegonda"
 
-#, fuzzy
 msgid "wait until %b"
-msgstr "ждать до %b"
+msgstr "tegereza kugeza %b"
 
 # 75%
 #, fuzzy
 msgid "when %m.booleanSensor"
 msgstr "icyumvirizo %m.booleanSensor?"
 
-#, fuzzy
 msgid "when %m.key key pressed"
-msgstr "когда клавиша %m.key нажата"
+msgstr "igihe%m.key ibuto ikanzwe"
 
 msgid "when %m.sensor %m.lessMore %n"
 msgstr "когда %m.sensor %m.lessMore %n"
@@ -554,9 +454,8 @@ msgstr "когда %m.sensor %m.lessMore %n"
 msgid "when %m.triggerSensor > %n"
 msgstr "когда %m.triggerSensor > %n"
 
-#, fuzzy
 msgid "when @greenFlag clicked"
-msgstr "когда щелкнут по @greenFlag"
+msgstr "igihe @greenFlag ikanzwe"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
@@ -580,13 +479,11 @@ msgstr "когда спрайт нажат"
 msgid "when tilt %m.eNe %n"
 msgstr "когда наклон %m.eNe %n"
 
-#, fuzzy
 msgid "x position"
-msgstr "положение x"
+msgstr "x umwwanya"
 
-#, fuzzy
 msgid "y position"
-msgstr "положение y"
+msgstr "y umwanya"
 
 # 89%
 #, fuzzy

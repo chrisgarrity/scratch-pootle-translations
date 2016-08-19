@@ -1854,7 +1854,7 @@ msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr "Projen scratch.mit.edu sitesine atıldı"
 
 msgid "any"
-msgstr "hiç"
+msgstr "herhangi"
 
 msgid "Record Project Video"
 msgstr "Projenin Videosunu Kaydet"

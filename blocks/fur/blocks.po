@@ -1,0 +1,518 @@
+#. #-#-#-#-#  commands-online.pot (PACKAGE VERSION)  #-#-#-#-#
+#. extracted from commands-online.txt
+#. #-#-#-#-#  commands-offline.pot (PACKAGE VERSION)  #-#-#-#-#
+#. extracted from commands-offline.txt
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-03-08 20:44+0100\n"
+"PO-Revision-Date: 2016-07-16 18:27+0000\n"
+"Last-Translator: Gianfranco <gianfranco.zuliani@gmail.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fur\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1468693626.000000\n"
+
+msgid "%b and %b"
+msgstr "%b e %b"
+
+msgid "%b or %b"
+msgstr "%b o %b"
+
+msgid "%m.attribute of %m.spriteOrStage"
+msgstr "%m.attribute di %m.spriteOrStage"
+
+msgid "%m.list contains %s?"
+msgstr "%m.list al à dentri %s?"
+
+msgid "%m.mathOp of %n"
+msgstr "%m.mathOp di %n"
+
+msgid "%m.sensor sensor value"
+msgstr "valôr dal sensôr %m.sensor"
+
+msgid "%n mod %n"
+msgstr "rest de division di %n dividût par %n"
+
+msgid "Control"
+msgstr "Control"
+
+msgid "Data"
+msgstr "Variabilis e Listis"
+
+msgid "Events"
+msgstr "Situazions"
+
+msgid "Looks"
+msgstr "Aspiet"
+
+msgid "More Blocks"
+msgstr "Altris Blocs"
+
+msgid "Motion"
+msgstr "Moviment"
+
+msgid "Operators"
+msgstr "Operadôrs"
+
+msgid "Pen"
+msgstr "Pene"
+
+msgid "Sensing"
+msgstr "Sensôrs"
+
+msgid "Sound"
+msgstr "Sunôr"
+
+msgid "add %s to %m.list"
+msgstr "zonte %s a %m.list"
+
+msgid "answer"
+msgstr "rispueste"
+
+msgid "ask %s and wait"
+msgstr "domande %s e spiete"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "backdrop #"
+msgstr "numar dal fonts"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "backdrop name"
+msgstr "non dal fonts"
+
+msgid "broadcast %m.broadcast"
+msgstr "mande a ducj %m.broadcast"
+
+msgid "broadcast %m.broadcast and wait"
+msgstr "mande a ducj %m.broadcast e spiete"
+
+msgid "change %m.effect effect by %n"
+msgstr "mude efiet %m.effect di %n"
+
+msgid "change %m.var by %n"
+msgstr "mude %m.var di %n"
+
+msgid "change pen color by %n"
+msgstr "mude colôr pene di %n"
+
+msgid "change pen shade by %n"
+msgstr "mude luminositât pene di %n"
+
+msgid "change pen size by %n"
+msgstr "mude dimension pene di %n"
+
+msgid "change size by %n"
+msgstr "mude dimension di %n"
+
+msgid "change tempo by %n"
+msgstr "mude timp di %n"
+
+msgid "change volume by %n"
+msgstr "mude volum di %n"
+
+msgid "change x by %n"
+msgstr "mude x di %n"
+
+msgid "change y by %n"
+msgstr "mude y di %n"
+
+msgid "clear"
+msgstr "nete"
+
+msgid "clear graphic effects"
+msgstr "elimine efiets grafics"
+
+msgid "color %c is touching %c?"
+msgstr "il colôr %c al sta tocjant il colôr %c?"
+
+msgid "costume #"
+msgstr "numar dal costum"
+
+msgid "create clone of %m.spriteOnly"
+msgstr "cree clon di %m.spriteOnly"
+
+msgid "current %m.timeAndDate"
+msgstr "%m.timeAndDate di cumò"
+
+msgid "days since 2000"
+msgstr "zornadis passadis dal 2000"
+
+msgid "define"
+msgstr "definìs"
+
+msgid "delete %d.listDeleteItem of %m.list"
+msgstr "scancele %d.listDeleteItem di %m.list"
+
+msgid "delete this clone"
+msgstr "elimine chest clon"
+
+msgid "direction"
+msgstr "direzion"
+
+msgid "distance"
+msgstr "distance"
+
+msgid "distance to %m.spriteOrMouse"
+msgstr "distance di %m.spriteOrMouse"
+
+msgid "else"
+msgstr "se no"
+
+msgid "forever"
+msgstr "par simpri"
+
+msgid "glide %n secs to x:%n y:%n"
+msgstr "sbrisse in %n seconts a x:%n y:%n"
+
+msgid "go back %n layers"
+msgstr "va indaûr di %n nivei"
+
+msgid "go to %m.location"
+msgstr "va a %m.location"
+
+msgid "go to front"
+msgstr "va in prin plan"
+
+msgid "go to x:%n y:%n"
+msgstr "va a x:%n y:%n"
+
+msgid "hide"
+msgstr "tapone"
+
+msgid "hide list %m.list"
+msgstr "tapone la liste %m.list"
+
+msgid "hide variable %m.var"
+msgstr "tapone la variabile %m.var"
+
+msgid "if %b then"
+msgstr "se %b alore"
+
+msgid "if on edge, bounce"
+msgstr "sbalce cuant che tu tocjis la flancade"
+
+msgid "insert %s at %d.listItem of %m.list"
+msgstr "met dentri %s inte posizion %d.listItem di %m.list"
+
+msgid "item %d.listItem of %m.list"
+msgstr "element %d.listItem di %m.list"
+
+msgid "join %s %s"
+msgstr "union di %s e %s"
+
+msgid "key %m.key pressed?"
+msgstr "tast %m.key fracât?"
+
+msgid "length of %m.list"
+msgstr "lungjece di %m.list"
+
+msgid "length of %s"
+msgstr "lungjece di %s"
+
+msgid "letter %n of %s"
+msgstr "letare %n di %s"
+
+msgid "loudness"
+msgstr "volum microfon"
+
+msgid "mouse down?"
+msgstr "pulsant dal mouse fracât?"
+
+msgid "mouse x"
+msgstr "x dal mouse"
+
+msgid "mouse y"
+msgstr "y dal mouse"
+
+msgid "move %n steps"
+msgstr "fâs %n pas"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "next backdrop"
+msgstr "passe al fonts sucessîf"
+
+msgid "next costume"
+msgstr "passe al costum sucessîf"
+
+msgid "not %b"
+msgstr "no %b"
+
+msgid "pen down"
+msgstr "pene jù"
+
+msgid "pen up"
+msgstr "pene sù"
+
+msgid "pick random %n to %n"
+msgstr "numar a câs tra %n e %n"
+
+msgid "play drum %d.drum for %n beats"
+msgstr "sune il tambûr %d.drum par %n batudis"
+
+# 83%
+msgid "play note %d.note for %n beats"
+msgstr "sune note %d.note par %n batudis"
+
+msgid "play sound %m.sound"
+msgstr "prodûs sunôr %m.sound"
+
+msgid "play sound %m.sound until done"
+msgstr "prodûs sunôr %m.sound e spiete la fin"
+
+msgid "point in direction %d.direction"
+msgstr "ponte in direzion %d.direction"
+
+msgid "point towards %m.spriteOrMouse"
+msgstr "ponte viars %m.spriteOrMouse"
+
+msgid "repeat %n"
+msgstr "ripet %n voltis"
+
+msgid "repeat until %b"
+msgstr "ripet fin cuant che %b"
+
+msgid "replace item %d.listItem of %m.list with %s"
+msgstr "cambie element %d.listItem di %m.list cun %s"
+
+msgid "reset timer"
+msgstr "met a zero il cronometri"
+
+msgid "rest for %n beats"
+msgstr "fâs une polse di %n batudis"
+
+msgid "round %n"
+msgstr "staronze %n"
+
+msgid "say %s"
+msgstr "dî %s"
+
+msgid "say %s for %n secs"
+msgstr "dî %s par %n seconts"
+
+msgid "sensor %m.booleanSensor?"
+msgstr "sensôr %m.booleanSensor?"
+
+msgid "set %m.effect effect to %n"
+msgstr "puarte efiet %m.effect a %n"
+
+# 77%
+# 75%
+msgid "set %m.motor power to %n"
+msgstr "puarte potence %m.motor a %n"
+
+# 89%
+# 86%
+# 97%
+msgid "set %m.motor2 direction to %m.motorDirection"
+msgstr "puarte direzion %m.motor2 a %m.motorDirection"
+
+msgid "set %m.var to %s"
+msgstr "puarte %m.var a %s"
+
+msgid "set instrument to %d.instrument"
+msgstr "passe a strument %d.instrument"
+
+msgid "set pen color to %c"
+msgstr "dopre pene di colôr %c"
+
+msgid "set pen color to %n"
+msgstr "dopre pene di colôr %n"
+
+msgid "set pen shade to %n"
+msgstr "puarte luminositât pene a %n"
+
+msgid "set pen size to %n"
+msgstr "dopre pene di dimension %n"
+
+msgid "set rotation style %m.rotationStyle"
+msgstr "puarte stîl rotazion a %m.rotationStyle"
+
+msgid "set size to %n%"
+msgstr "puarte dimension al %n%"
+
+msgid "set tempo to %n bpm"
+msgstr "puarte timp a %n bpm"
+
+msgid "set video transparency to %n%"
+msgstr "puarte la trasparence de webcam a %n%"
+
+msgid "set volume to %n%"
+msgstr "puarte volum a %n%"
+
+msgid "set x to %n"
+msgstr "va dulà che x è %n"
+
+msgid "set y to %n"
+msgstr "va dulà che y è %n"
+
+msgid "show"
+msgstr "mostre"
+
+msgid "show list %m.list"
+msgstr "mostre la liste %m.list"
+
+msgid "show variable %m.var"
+msgstr "mostre la variabile %m.var"
+
+msgid "size"
+msgstr "dimension"
+
+msgid "stamp"
+msgstr "timbre"
+
+msgid "stop %m.stop"
+msgstr "ferme %m.stop"
+
+msgid "stop all sounds"
+msgstr "ferme ducj i sunôrs"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop"
+msgstr "passe al fonts %m.backdrop"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "switch backdrop to %m.backdrop and wait"
+msgstr "passe al fonts %m.backdrop e spiete"
+
+msgid "switch costume to %m.costume"
+msgstr "passe al costum %m.costume"
+
+msgid "tempo"
+msgstr "timp"
+
+msgid "think %s"
+msgstr "pense %s"
+
+msgid "think %s for %n secs"
+msgstr "pense %s par %n seconts"
+
+msgid "tilt"
+msgstr "inclinazion"
+
+msgid "timer"
+msgstr "cronometri"
+
+msgid "touching %m.touching?"
+msgstr "al sta tocjant %m.touching?"
+
+msgid "touching color %c?"
+msgstr "al sta tocjant il colôr %c?"
+
+# 82%
+msgid "turn %m.motor off"
+msgstr "distude %m.motor"
+
+# 81%
+msgid "turn %m.motor on"
+msgstr "impie %m.motor"
+
+# 80%
+# 89%
+msgid "turn %m.motor on for %n secs"
+msgstr "impie %m.motor par %n seconts"
+
+msgid "turn @turnLeft %n degrees"
+msgstr "zire di @turnLeft %n ponts"
+
+msgid "turn @turnRight %n degrees"
+msgstr "zire di @turnRight %n ponts"
+
+msgid "turn video %m.videoState"
+msgstr "%m.videoState il video de webcam"
+
+# 88%
+msgid "username"
+msgstr "username"
+
+msgid "video %m.videoMotionType on %m.stageOrThis"
+msgstr "%m.videoMotionType dal video de webcam rispiet a %m.stageOrThis"
+
+msgid "volume"
+msgstr "volum"
+
+msgid "wait %n secs"
+msgstr "spiete %n seconts"
+
+msgid "wait until %b"
+msgstr "spiete fin cuant %b"
+
+# 75%
+msgid "when %m.booleanSensor"
+msgstr "cuant %m.booleanSensor"
+
+msgid "when %m.key key pressed"
+msgstr "cuant che si frache il tast %m.key"
+
+msgid "when %m.sensor %m.lessMore %n"
+msgstr "cuant %m.sensor %m.lessMore %n"
+
+msgid "when %m.triggerSensor > %n"
+msgstr "cuant %m.triggerSensor > %n"
+
+msgid "when @greenFlag clicked"
+msgstr "cuant che si cliche su @greenFlag"
+
+msgid "when I receive %m.broadcast"
+msgstr "cuant che o ricêf %m.broadcast"
+
+msgid "when I start as a clone"
+msgstr "cuant che o soi clonât"
+
+msgid "when Stage clicked"
+msgstr "cuant che si cliche Sene"
+
+# "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
+msgid "when backdrop switches to %m.backdrop"
+msgstr "cuant che il fonts passe a %m.backdrop"
+
+msgid "when distance %m.lessMore %n"
+msgstr "cuant distance %m.lessMore %n"
+
+msgid "when this sprite clicked"
+msgstr "cuant che si cliche chest sprite"
+
+msgid "when tilt %m.eNe %n"
+msgstr "cuant inclinazion %m.eNe %n"
+
+msgid "x position"
+msgstr "posizion x"
+
+msgid "y position"
+msgstr "posizion y"
+
+# The language name as it will appear in the language menu
+msgid "Language-Name"
+msgstr "Furlan"
+
+msgid "%m.list contains %s"
+msgstr "%m.list al à dentri %s"
+
+msgid "go to %m.spriteOrMouse"
+msgstr "cjape %m.spriteOrMouse"
+
+msgid "set motor direction %m.motorDirection"
+msgstr "puarte direzion motôr a %m.motorDirection"
+
+msgid "set motor power %n"
+msgstr "puarte potence motôr a %n"
+
+msgid "turn motor off"
+msgstr "distude motôr"
+
+msgid "turn motor on"
+msgstr "impie motôr"
+
+msgid "turn motor on for %n secs"
+msgstr "impie motôr par %n seconts"
+
+msgid "when distance < %n"
+msgstr "cuant che la distance < %n"
+
+msgid "when tilt = %n"
+msgstr "cuant che inclinazion = %n"

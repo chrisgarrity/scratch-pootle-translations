@@ -30,8 +30,8 @@ backdrop #
 Backdrop Library
 backdrop name
 backdrop1
-Backdrops
 backdrops
+Backdrops
 Backpack
 Bass
 Bass Drum
@@ -75,6 +75,8 @@ Click "Save now" to try again or "Download" to save
 Close
 Closed Hi-Hat
 Cloud data
+Cloud list (stored on server)
+Cloud variable (stored on server)
 color
 Color a shape
 Conga
@@ -86,9 +88,7 @@ copy
 Copying...
 cos
 Costume
-costume #
 Costume Library
-costume name
 costume1
 costume2
 Costumes
@@ -99,10 +99,11 @@ Creating...
 Currently, only numbers can be stored in Cloud variables.
 cut
 D connected
+Dance
 date
 day of week
-Delete
 delete
+Delete
 delete variable
 direction
 direction:
@@ -112,6 +113,7 @@ down
 down arrow
 Download
 Download to your computer
+Dress-Up
 Duplicate
 duplicate
 e ^
@@ -158,8 +160,8 @@ High C
 Holiday
 hour
 Human
-Import
 import
+Import
 Importing sound...
 Indoors
 Installing...
@@ -173,6 +175,7 @@ length
 Letters
 Library
 light
+limit reached
 Line
 Line width
 list
@@ -200,9 +203,13 @@ mosaic
 motion
 mouse-pointer
 Multiple
+Music
 Music and Dance
 Music Box
 Music Loops
+Musical Notes
+My Class
+My Classes
 My Stuff
 myself
 Nature
@@ -260,17 +267,17 @@ random
 random position
 Record
 Record new sound
-Record Project Video
 record...
 recording1
 Rectangle
-Redo
 redo
+Redo
 Remix
 Remixing...
 Remove Background
 Rename
 rename variable
+requires sign in
 Reshape
 resistance-A
 resistance-B
@@ -301,8 +308,8 @@ Select
 select all
 Select and duplicate
 Send to back
-Set Costume Center
 Set costume center
+Set Costume Center
 set slider min and max
 Share
 shared
@@ -316,15 +323,14 @@ Sign in to save
 Sign out
 silence
 sin
-size
 slider
 Slider Range
 Small stage layout
 Smooth
 Snare Drum
 softer
-Sound
 sound
+Sound
 Sound Library
 Sounds
 Space
@@ -343,8 +349,8 @@ Synth Lead
 Synth Pad
 Tambourine
 tan
-Text
 text
+Text
 that way
 Theme
 Things
@@ -360,13 +366,13 @@ To delete a block definition, first remove all uses of the block.
 Transportation
 Triangle
 Trombone
-Turbo Mode
 Turbo mode
+Turbo Mode
 Type
 Undelete
 Underwater
-Undo
 undo
+Undo
 Undo Revert
 Ungroup
 unshared
@@ -397,8 +403,6 @@ Which column do you want to import
 whirl
 Wood Block
 Wooden Flute
-x position
-y position
 year
 You cannot edit cloud data in someone else's project.<br>Any change that you make in the editor will be temporary and not persistent.
 

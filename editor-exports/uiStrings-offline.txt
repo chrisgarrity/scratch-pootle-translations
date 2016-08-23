@@ -12,8 +12,8 @@ add comment
 Add label text:
 Add number input:
 Add string input:
-All
 all
+All
 all around
 All Tips
 An updated version of the Scratch offline editor is available on the Scratch website.
@@ -24,14 +24,14 @@ asin
 atan
 B connected
 Back a layer
-Backdrop
 backdrop
+Backdrop
 backdrop #
 Backdrop Library
 backdrop name
 backdrop1
-Backdrops
 backdrops
+Backdrops
 Backpack
 Bass
 Bass Drum
@@ -80,9 +80,7 @@ Converting mp3...
 copy
 cos
 Costume
-costume #
 Costume Library
-costume name
 costume1
 costume2
 Costumes
@@ -95,10 +93,11 @@ Cowbell
 Crash Cymbal
 cut
 D connected
+Dance
 date
 day of week
-Delete
 delete
+Delete
 delete variable
 direction
 direction:
@@ -107,6 +106,7 @@ Don't save
 down
 down arrow
 Downloading new version...
+Dress-Up
 Duplicate
 duplicate
 e ^
@@ -196,9 +196,11 @@ mosaic
 motion
 mouse-pointer
 Multiple
+Music
 Music and Dance
 Music Box
 Music Loops
+Musical Notes
 myself
 Nature
 New
@@ -263,8 +265,8 @@ Record Project Video
 record...
 recording1
 Rectangle
-Redo
 redo
+Redo
 Remove Background
 Rename
 rename variable
@@ -299,8 +301,8 @@ select all
 Select and duplicate
 Send to back
 Server error:
-Set Costume Center
 Set costume center
+Set Costume Center
 set slider min and max
 Share to Scratch Website
 Share to website
@@ -312,15 +314,14 @@ Shrink
 Side Stick
 silence
 sin
-size
 slider
 Slider Range
 Small stage layout
 Smooth
 Snare Drum
 softer
-sound
 Sound
+sound
 Sound Library
 Sounds
 Space
@@ -399,8 +400,6 @@ Which column do you want to import
 whirl
 Wood Block
 Wooden Flute
-x position
-y position
 year
 Your project has been uploaded to scratch.mit.edu
 Your Scratch name

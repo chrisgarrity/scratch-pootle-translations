@@ -281,8 +281,8 @@ msgstr "Lukket high-hat"
 msgid "Cloud data"
 msgstr "Skydata"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "Sky variabler (gemt på server)"
+msgid "Cloud variable (stored on server)"
+msgstr "Sky variabler (gemt på server)"
 
 msgid "color"
 msgstr "farve"
@@ -318,14 +318,14 @@ msgstr "cos"
 msgid "Costume"
 msgstr "Kostume"
 
-msgid "costume #"
-msgstr "kostume nr."
+#~ msgid "costume #"
+#~ msgstr "kostume nr."
 
 msgid "Costume Library"
 msgstr "Bibliotek med Kostumer"
 
-msgid "costume name"
-msgstr "navn på kostume"
+#~ msgid "costume name"
+#~ msgstr "navn på kostume"
 
 msgid "costume1"
 msgstr "kostume1"
@@ -622,8 +622,8 @@ msgstr "lys"
 #~ msgid "lights"
 #~ msgstr "lys"
 
-#~ msgid "limit reached"
-#~ msgstr "grænsen er nået"
+msgid "limit reached"
+msgstr "grænsen er nået"
 
 msgid "Line"
 msgstr "Linje"
@@ -946,8 +946,8 @@ msgstr "omdøb variabel"
 #~ msgid "Replace existing project"
 #~ msgstr "Erstat eksisterende projekt"
 
-#~ msgid "requires sign in"
-#~ msgstr "kræver log-in"
+msgid "requires sign in"
+msgstr "kræver log-in"
 
 msgid "Reshape"
 msgstr "Omform"
@@ -1116,8 +1116,8 @@ msgstr "tavshed"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "størrelse"
+#~ msgid "size"
+#~ msgstr "størrelse"
 
 msgid "slider"
 msgstr "skyder"
@@ -1410,11 +1410,11 @@ msgstr "Træfløjte"
 #~ msgid "world"
 #~ msgstr "Verden"
 
-msgid "x position"
-msgstr "x-position"
+#~ msgid "x position"
+#~ msgstr "x-position"
 
-msgid "y position"
-msgstr "y-position"
+#~ msgid "y position"
+#~ msgstr "y-position"
 
 msgid "year"
 msgstr "år"
@@ -1621,3 +1621,24 @@ msgstr "Slet baggrund"
 
 msgid "random position"
 msgstr "Tilfældig position"
+
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""

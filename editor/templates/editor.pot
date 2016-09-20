@@ -7,13 +7,15 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2016-08-23 20:02+0100\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"PO-Revision-Date: 2013-05-02 00:48+0000\n"
+"Last-Translator: adlogi <adlogi@media.mit.edu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: templates\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 1.9.0\n"
+"X-Generator: Pootle 2.5.1.1\n"
+"X-POOTLE-MTIME: 1367455729.000000\n"
 
 msgid "10 ^"
 msgstr ""
@@ -1378,4 +1380,52 @@ msgid "whirl"
 msgstr ""
 
 msgid "year"
+msgstr ""
+
+msgid ""
+"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+"For more info, <a href= target=>see the cloud data FAQ!</a>"
+msgstr ""
+
+msgid "Click  to try again or  to save"
+msgstr ""
+
+msgid "Cloud"
+msgstr ""
+
+msgid "costume #"
+msgstr ""
+
+msgid "costume name"
+msgstr ""
+
+msgid "Costumes:"
+msgstr ""
+
+msgid "Eraser width:"
+msgstr ""
+
+msgid "Line width:"
+msgstr ""
+
+msgid "Scripts:"
+msgstr ""
+
+msgid "show receivers"
+msgstr ""
+
+msgid "show senders"
+msgstr ""
+
+msgid "size"
+msgstr ""
+
+msgid "stored on server"
+msgstr ""
+
+msgid "x position"
+msgstr ""
+
+msgid "y position"
 msgstr ""

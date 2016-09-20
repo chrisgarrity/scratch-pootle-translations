@@ -329,14 +329,14 @@ msgstr "cos"
 msgid "Costume"
 msgstr "Kostüüm"
 
-msgid "costume #"
-msgstr "kostüümi number"
+#~ msgid "costume #"
+#~ msgstr "kostüümi number"
 
 msgid "Costume Library"
 msgstr "Kostüümide teek"
 
-msgid "costume name"
-msgstr "kostüümi nimi"
+#~ msgid "costume name"
+#~ msgstr "kostüümi nimi"
 
 msgid "costume1"
 msgstr "kostüüm1"
@@ -641,8 +641,8 @@ msgstr "valgus"
 msgid "lights"
 msgstr "heledus"
 
-#~ msgid "limit reached"
-#~ msgstr "limiit ületatud"
+msgid "limit reached"
+msgstr "limiit ületatud"
 
 msgid "Line"
 msgstr "Joon"
@@ -971,8 +971,8 @@ msgstr "muuda muutuja nime"
 msgid "Replace existing project"
 msgstr ""
 
-#~ msgid "requires sign in"
-#~ msgstr "nõuab sisselogimist"
+msgid "requires sign in"
+msgstr "nõuab sisselogimist"
 
 msgid "Reshape"
 msgstr "Kuju muutmine"
@@ -1146,8 +1146,8 @@ msgstr "vaikus"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "suurus"
+#~ msgid "size"
+#~ msgstr "suurus"
 
 msgid "slider"
 msgstr "liugur"
@@ -1441,11 +1441,11 @@ msgstr "Puitflööt"
 msgid "world"
 msgstr ""
 
-msgid "x position"
-msgstr "x"
+#~ msgid "x position"
+#~ msgstr "x"
 
-msgid "y position"
-msgstr "y"
+#~ msgid "y position"
+#~ msgstr "y"
 
 msgid "year"
 msgstr "aasta"
@@ -1756,4 +1756,25 @@ msgid "when Stage clicked"
 msgstr ""
 
 msgid "random position"
+msgstr ""
+
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
 msgstr ""

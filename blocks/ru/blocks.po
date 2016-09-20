@@ -775,8 +775,8 @@ msgstr "положение x"
 msgid "y position"
 msgstr "положение y"
 
-msgid "%m.list contains %s"
-msgstr "%m.list содержит %s"
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list содержит %s"
 
 msgid "go to %m.location"
 msgstr "перейти в %m.location"

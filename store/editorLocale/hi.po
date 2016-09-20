@@ -467,8 +467,9 @@ msgstr "मुझे %m.broadcast मिलने पर"
 msgid "when I start as a clone"
 msgstr "मेरे एक क्लोन के रूप में शुरू होने पर"
 
+#, fuzzy
 msgid "when Stage clicked"
-msgstr ""
+msgstr "जब मुझे क्लिक किया जाए"
 
 msgid "when this sprite clicked"
 msgstr "इस स्प्राईट को क्लिक करने पर"
@@ -1967,6 +1968,27 @@ msgid "Remove Background"
 msgstr ""
 
 msgid "random position"
+msgstr ""
+
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
 msgstr ""
 
 # The language name as it will appear in the language menu

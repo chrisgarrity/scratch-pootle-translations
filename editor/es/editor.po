@@ -282,8 +282,8 @@ msgstr "Charles cerrado"
 msgid "Cloud data"
 msgstr "Información de la nube"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "Variable en la nube (guardada en el servidor)"
+msgid "Cloud variable (stored on server)"
+msgstr "Variable en la nube (guardada en el servidor)"
 
 msgid "color"
 msgstr "color"
@@ -318,14 +318,14 @@ msgstr "cos"
 msgid "Costume"
 msgstr "Disfraz"
 
-msgid "costume #"
-msgstr "# de disfraz"
+#~ msgid "costume #"
+#~ msgstr "# de disfraz"
 
 msgid "Costume Library"
 msgstr "Biblioteca de disfraces"
 
-msgid "costume name"
-msgstr "nombre del disfraz"
+#~ msgid "costume name"
+#~ msgstr "nombre del disfraz"
 
 msgid "costume1"
 msgstr "disfraz1"
@@ -621,8 +621,8 @@ msgstr "luz"
 #~ msgid "lights"
 #~ msgstr "luces"
 
-#~ msgid "limit reached"
-#~ msgstr "límite alcanzado"
+msgid "limit reached"
+msgstr "límite alcanzado"
 
 msgid "Line"
 msgstr "Línea"
@@ -944,8 +944,8 @@ msgstr "renombrar variable"
 #~ msgid "Replace existing project"
 #~ msgstr "Reemplazar proyecto existente"
 
-#~ msgid "requires sign in"
-#~ msgstr "requiere ingresar"
+msgid "requires sign in"
+msgstr "requiere ingresar"
 
 msgid "Reshape"
 msgstr "Reformar"
@@ -1114,8 +1114,8 @@ msgstr "silencio"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "tamaño"
+#~ msgid "size"
+#~ msgstr "tamaño"
 
 msgid "slider"
 msgstr "deslizador"
@@ -1407,11 +1407,11 @@ msgstr "Flauta de madera"
 #~ msgid "world"
 #~ msgstr "mundo"
 
-msgid "x position"
-msgstr "posición x"
+#~ msgid "x position"
+#~ msgstr "posición x"
 
-msgid "y position"
-msgstr "posición y"
+#~ msgid "y position"
+#~ msgstr "posición y"
 
 msgid "year"
 msgstr "año"
@@ -1575,3 +1575,24 @@ msgstr ""
 
 msgid "random position"
 msgstr "posición aleatoria"
+
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""

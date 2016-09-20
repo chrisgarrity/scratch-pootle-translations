@@ -731,6 +731,9 @@ msgstr "Lukket high-hat"
 msgid "Cloud data"
 msgstr "Skydata"
 
+msgid "Cloud variable (stored on server)"
+msgstr "Sky variabler (gemt på server)"
+
 msgid "color"
 msgstr "farve"
 
@@ -767,9 +770,6 @@ msgstr "Kostume"
 
 msgid "Costume Library"
 msgstr "Bibliotek med Kostumer"
-
-msgid "costume name"
-msgstr "navn på kostume"
 
 msgid "costume1"
 msgstr "kostume1"
@@ -1022,6 +1022,9 @@ msgstr "Bibliotek"
 
 msgid "light"
 msgstr "lys"
+
+msgid "limit reached"
+msgstr "grænsen er nået"
 
 msgid "Line"
 msgstr "Linje"
@@ -1319,6 +1322,9 @@ msgstr "Omdøb"
 
 msgid "rename variable"
 msgstr "omdøb variabel"
+
+msgid "requires sign in"
+msgstr "kræver log-in"
 
 msgid "Reshape"
 msgstr "Omform"
@@ -1852,6 +1858,27 @@ msgstr "Slet baggrund"
 msgid "random position"
 msgstr "Tilfældig position"
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "Dansk"
@@ -1941,8 +1968,8 @@ msgstr "Tilfældig position"
 #~ msgid "Cloud"
 #~ msgstr "Sky"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "Sky variabler (gemt på server)"
+#~ msgid "costume name"
+#~ msgstr "navn på kostume"
 
 #~ msgid "Costumes:"
 #~ msgstr "Kostumer:"
@@ -1981,9 +2008,6 @@ msgstr "Tilfældig position"
 #~ msgid "lights"
 #~ msgstr "lys"
 
-#~ msgid "limit reached"
-#~ msgstr "grænsen er nået"
-
 #~ msgid "motor"
 #~ msgstr "motor"
 
@@ -2001,9 +2025,6 @@ msgstr "Tilfældig position"
 
 #~ msgid "Replace existing project"
 #~ msgstr "Erstat eksisterende projekt"
-
-#~ msgid "requires sign in"
-#~ msgstr "kræver log-in"
 
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "Scratch 2.0 Offline Editor"

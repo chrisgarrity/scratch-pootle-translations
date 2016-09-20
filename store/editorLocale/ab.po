@@ -713,6 +713,9 @@ msgstr "Иаркыу хай-хэт"
 msgid "Cloud data"
 msgstr "Адыррақәа аҧсҭҳәа аҟынтә"
 
+msgid "Cloud variable (stored on server)"
+msgstr "Аҽеҭак аҧсҭҳәа аҿы (асервер иҭагалоу)"
+
 msgid "color"
 msgstr "аҧштәы"
 
@@ -748,9 +751,6 @@ msgstr "Акостиум"
 
 msgid "Costume Library"
 msgstr "Акостиумқәа рбиблиотека"
-
-msgid "costume name"
-msgstr "акостиум ахьӡ"
 
 msgid "costume1"
 msgstr "акостиум1"
@@ -1000,6 +1000,9 @@ msgstr "Абиблиотека"
 
 msgid "light"
 msgstr "алашара"
+
+msgid "limit reached"
+msgstr "аҳәааҿ инаӡоуп"
 
 msgid "Line"
 msgstr "Ацәаҳәа"
@@ -1294,6 +1297,9 @@ msgstr "Ахьӡ ҧсахтәуп"
 
 msgid "rename variable"
 msgstr "аҽеиҭак ахьӡ ҧсахтәуп"
+
+msgid "requires sign in"
+msgstr "иаҭахыуп абрахь аҭалара"
 
 msgid "Reshape"
 msgstr "Аформа аҧсахра"
@@ -1822,6 +1828,27 @@ msgstr ""
 msgid "random position"
 msgstr ""
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "Аҧсшәа"
@@ -1871,8 +1898,8 @@ msgstr ""
 #~ msgid "Cloud"
 #~ msgstr "Аҧсҭҳәа"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "Аҽеҭак аҧсҭҳәа аҿы (асервер иҭагалоу)"
+#~ msgid "costume name"
+#~ msgstr "акостиум ахьӡ"
 
 #~ msgid "Costumes:"
 #~ msgstr "Акостиумқәа:"
@@ -1910,9 +1937,6 @@ msgstr ""
 #~ msgid "lights"
 #~ msgstr "алашара"
 
-#~ msgid "limit reached"
-#~ msgstr "аҳәааҿ инаӡоуп"
-
 #~ msgid "motor"
 #~ msgstr "аматор"
 
@@ -1930,9 +1954,6 @@ msgstr ""
 
 #~ msgid "Replace existing project"
 #~ msgstr "Иҧсахтәуп иҟоу апроеқт "
-
-#~ msgid "requires sign in"
-#~ msgstr "иаҭахыуп абрахь аҭалара"
 
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "Scratch 2.0 Оффлаин Аредақтор"

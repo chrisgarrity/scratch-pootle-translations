@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2016-08-15 22:12+0000\n"
+"PO-Revision-Date: 2016-09-05 14:28+0000\n"
 "Last-Translator: Péter <bernatp@hotmail.hu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hu\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1471299141.000000\n"
+"X-POOTLE-MTIME: 1473085727.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -79,7 +79,7 @@ msgid "Add string input:"
 msgstr "Szövegmező hozzáadása:"
 
 msgid "all"
-msgstr "minden feladat"
+msgstr "minden"
 
 msgid "All"
 msgstr "Minden"
@@ -319,14 +319,14 @@ msgstr "cos"
 msgid "Costume"
 msgstr "Jelmez"
 
-msgid "costume #"
-msgstr "jelmez sorszáma"
+#~ msgid "costume #"
+#~ msgstr "jelmez sorszáma"
 
 msgid "Costume Library"
 msgstr "Jelmezkönyvtár"
 
-msgid "costume name"
-msgstr "jelmez neve"
+#~ msgid "costume name"
+#~ msgstr "jelmez neve"
 
 # 77%
 msgid "costume1"
@@ -1126,8 +1126,8 @@ msgstr "csend"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "méret"
+#~ msgid "size"
+#~ msgstr "méret"
 
 msgid "slider"
 msgstr "csúszka"
@@ -1420,11 +1420,11 @@ msgstr "Fafurulya"
 msgid "world"
 msgstr ""
 
-msgid "x position"
-msgstr "x hely"
+#~ msgid "x position"
+#~ msgstr "x hely"
 
-msgid "y position"
-msgstr "y hely"
+#~ msgid "y position"
+#~ msgstr "y hely"
 
 msgid "year"
 msgstr "év"
@@ -1627,3 +1627,24 @@ msgstr ""
 
 msgid "random position"
 msgstr "játéktér véletlen"
+
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""

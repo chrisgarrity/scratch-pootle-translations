@@ -317,14 +317,14 @@ msgstr "cos"
 msgid "Costume"
 msgstr "Kostumo"
 
-msgid "costume #"
-msgstr "numero de kostumo"
+#~ msgid "costume #"
+#~ msgstr "numero de kostumo"
 
 msgid "Costume Library"
 msgstr "Biblioteko de kostumoj"
 
-msgid "costume name"
-msgstr "nomo de kostumo"
+#~ msgid "costume name"
+#~ msgstr "nomo de kostumo"
 
 msgid "costume1"
 msgstr "kostumo1"
@@ -623,8 +623,8 @@ msgstr "lumo"
 msgid "lights"
 msgstr "lumo"
 
-#~ msgid "limit reached"
-#~ msgstr "limo atingita"
+msgid "limit reached"
+msgstr "limo atingita"
 
 msgid "Line"
 msgstr "Linio"
@@ -949,8 +949,8 @@ msgstr "ŝanĝi la variablonomon"
 msgid "Replace existing project"
 msgstr ""
 
-#~ msgid "requires sign in"
-#~ msgstr "ensaluto bezonata"
+msgid "requires sign in"
+msgstr "ensaluto bezonata"
 
 msgid "Reshape"
 msgstr "Ŝanĝi formon"
@@ -1116,8 +1116,8 @@ msgstr "silento"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "grando"
+#~ msgid "size"
+#~ msgstr "grando"
 
 msgid "slider"
 msgstr "ŝovilo"
@@ -1408,11 +1408,11 @@ msgstr "Ligna Fluto"
 msgid "world"
 msgstr ""
 
-msgid "x position"
-msgstr "x-pozicio"
+#~ msgid "x position"
+#~ msgstr "x-pozicio"
 
-msgid "y position"
-msgstr "y-pozicio"
+#~ msgid "y position"
+#~ msgstr "y-pozicio"
 
 msgid "year"
 msgstr "jaro"
@@ -1615,4 +1615,25 @@ msgid "when Stage clicked"
 msgstr ""
 
 msgid "random position"
+msgstr ""
+
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
 msgstr ""

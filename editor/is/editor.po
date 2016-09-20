@@ -316,14 +316,14 @@ msgstr "cos"
 msgid "Costume"
 msgstr "Búningur"
 
-msgid "costume #"
-msgstr "búningur #"
+#~ msgid "costume #"
+#~ msgstr "búningur #"
 
 msgid "Costume Library"
 msgstr "Búningasafn"
 
-msgid "costume name"
-msgstr "heiti búnings"
+#~ msgid "costume name"
+#~ msgstr "heiti búnings"
 
 msgid "costume1"
 msgstr "búningur1"
@@ -622,8 +622,8 @@ msgstr "ljós"
 msgid "lights"
 msgstr "ljós"
 
-#~ msgid "limit reached"
-#~ msgstr "marki náð"
+msgid "limit reached"
+msgstr "marki náð"
 
 msgid "Line"
 msgstr "Lína"
@@ -946,8 +946,8 @@ msgstr "Endurskýra breytu"
 msgid "Replace existing project"
 msgstr ""
 
-#~ msgid "requires sign in"
-#~ msgstr "þarfnast innskráningar"
+msgid "requires sign in"
+msgstr "þarfnast innskráningar"
 
 msgid "Reshape"
 msgstr "Ummynda"
@@ -1113,8 +1113,8 @@ msgstr "þögn"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "stærð"
+#~ msgid "size"
+#~ msgstr "stærð"
 
 msgid "slider"
 msgstr "renna"
@@ -1408,11 +1408,11 @@ msgstr "Tréflauta"
 msgid "world"
 msgstr ""
 
-msgid "x position"
-msgstr "x hnit"
+#~ msgid "x position"
+#~ msgstr "x hnit"
 
-msgid "y position"
-msgstr "y hnit"
+#~ msgid "y position"
+#~ msgstr "y hnit"
 
 msgid "year"
 msgstr "ár"
@@ -1614,3 +1614,24 @@ msgstr ""
 
 msgid "random position"
 msgstr "slembin staðsetning"
+
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""

@@ -14,10 +14,6 @@ msgstr ""
 "X-Generator: Pootle 2.5.1.1\n"
 "X-POOTLE-MTIME: 1471527804.000000\n"
 
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "বাংলা"
-
 msgid "%b and %b"
 msgstr "%b এবং %b"
 
@@ -26,9 +22,6 @@ msgstr "%b অথবা %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute এর %m.spriteOrStage"
-
-msgid "%m.list contains %s"
-msgstr "%m.list এর তালিকায় রয়েছে %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp এর %n"
@@ -72,8 +65,9 @@ msgstr ""
 msgid "change pen color by %n"
 msgstr "কলমের রং %n বদলাও"
 
+#, fuzzy
 msgid "change pen shade by %n"
-msgstr ""
+msgstr "কলমের আকার %n বদলাও"
 
 msgid "change pen size by %n"
 msgstr "কলমের আকার %n বদলাও"
@@ -152,9 +146,6 @@ msgstr ""
 
 msgid "go back %n layers"
 msgstr ""
-
-msgid "go to %m.spriteOrMouse"
-msgstr "%m.spriteOrMouse এর কাছে যাও"
 
 msgid "go to front"
 msgstr "সামনে যাও"
@@ -313,8 +304,9 @@ msgstr ""
 msgid "set pen color to %c"
 msgstr "কলমের রং %c নির্বাচন কর"
 
+#, fuzzy
 msgid "set pen color to %n"
-msgstr ""
+msgstr "কলমের রং %c নির্বাচন কর"
 
 msgid "set pen shade to %n"
 msgstr ""
@@ -483,24 +475,13 @@ msgstr ""
 msgid "set motor power %n"
 msgstr ""
 
-msgid "turn motor off"
-msgstr "মোটর বন্ধ করো"
-
-msgid "turn motor on"
-msgstr "মটর চালু করো"
-
 msgid "turn motor on for %n secs"
 msgstr ""
 
-msgid "when distance < %n"
-msgstr "যখন দূরত্ব < %n থাকে"
-
-msgid "when tilt = %n"
-msgstr "যখন ঢালুর পরিমান = %n"
-
 #: commands-online.txt:7 commands-offline.txt:7
+#, fuzzy
 msgid "%m.list contains %s?"
-msgstr ""
+msgstr "%m.list এর তালিকায় রয়েছে %s"
 
 msgid "go to %m.location"
 msgstr "%m.location যাও"
@@ -599,23 +580,27 @@ msgstr "B সংযুক্ত"
 msgid "Back a layer"
 msgstr ""
 
+#, fuzzy
 msgid "backdrop"
-msgstr ""
+msgstr "পটভূমিগুলো"
 
+#, fuzzy
 msgid "Backdrop"
-msgstr ""
+msgstr "পটভূমিগুলো"
 
 msgid "Backdrop Library"
 msgstr ""
 
+#, fuzzy
 msgid "backdrop1"
-msgstr ""
+msgstr "পটভূমিগুলো"
 
+#, fuzzy
 msgid "backdrops"
-msgstr ""
+msgstr "পটভূমিগুলো"
 
 msgid "Backdrops"
-msgstr ""
+msgstr "পটভূমিগুলো"
 
 msgid "Backpack"
 msgstr ""
@@ -668,8 +653,9 @@ msgstr ""
 msgid "bytes loaded"
 msgstr ""
 
+#, fuzzy
 msgid "C connected"
-msgstr ""
+msgstr "একটি সংযুক্ত"
 
 msgid "Cabasa"
 msgstr ""
@@ -842,17 +828,19 @@ msgstr "তারিখ"
 msgid "day of week"
 msgstr ""
 
+#, fuzzy
 msgid "delete"
-msgstr ""
+msgstr "মুছে ফেল"
 
 msgid "Delete"
-msgstr ""
+msgstr "মুছে ফেল"
 
 msgid "delete variable"
 msgstr ""
 
+#, fuzzy
 msgid "direction:"
-msgstr ""
+msgstr "দিক"
 
 msgid "don't rotate"
 msgstr ""
@@ -903,13 +891,13 @@ msgid "Electric Guitar"
 msgstr ""
 
 msgid "Electric Piano"
-msgstr ""
+msgstr "বৈদ্যুতিক পিয়ানো"
 
 msgid "Electronic"
-msgstr ""
+msgstr "বৈদ্যুতিক"
 
 msgid "Ellipse"
-msgstr ""
+msgstr "উপবৃত্ত"
 
 msgid "empty"
 msgstr ""
@@ -957,7 +945,7 @@ msgid "File"
 msgstr "নথি"
 
 msgid "Fill with color"
-msgstr ""
+msgstr "রং দিয়ে ভরাট কর"
 
 msgid "fisheye"
 msgstr "মাছের চোখ"
@@ -975,10 +963,10 @@ msgid "Flute"
 msgstr "বাঁশি"
 
 msgid "Flying"
-msgstr ""
+msgstr "উড়ন্ত"
 
 msgid "Font:"
-msgstr ""
+msgstr "মুদ্রাক্ষর:"
 
 msgid "For all sprites"
 msgstr ""
@@ -1005,7 +993,7 @@ msgid "Guiro"
 msgstr ""
 
 msgid "Guitar"
-msgstr ""
+msgstr "গিটার"
 
 msgid "Hand Clap"
 msgstr "হাত তালি"
@@ -1047,7 +1035,7 @@ msgid "Importing sound..."
 msgstr ""
 
 msgid "Indoors"
-msgstr ""
+msgstr "গৃহাভ্যন্তরে"
 
 msgid "Installing..."
 msgstr ""
@@ -1094,11 +1082,12 @@ msgstr "রেখা"
 msgid "Line width"
 msgstr ""
 
+#, fuzzy
 msgid "list"
-msgstr ""
+msgstr "শেষ"
 
 msgid "List name"
-msgstr ""
+msgstr "তালিকার নাম"
 
 msgid "ln"
 msgstr ""
@@ -1173,13 +1162,13 @@ msgid "mouse-pointer"
 msgstr ""
 
 msgid "Multiple"
-msgstr ""
+msgstr "একাধিক"
 
 msgid "Music and Dance"
 msgstr "সঙ্গীত ও নাচ"
 
 msgid "Music Box"
-msgstr ""
+msgstr "সঙ্গীতের বাক্স"
 
 msgid "Music Loops"
 msgstr ""
@@ -1215,7 +1204,7 @@ msgid "New List"
 msgstr "নতুন তালিকা"
 
 msgid "New Message"
-msgstr ""
+msgstr "নতুন বার্তা"
 
 msgid "new message..."
 msgstr ""
@@ -1245,7 +1234,7 @@ msgid "not ="
 msgstr ""
 
 msgid "Not saved; network or server problem."
-msgstr ""
+msgstr "নেটওয়ার্ক অথবা সার্ভার সমস্যার জন্য সংরক্ষণ করা; যায়নি."
 
 msgid "Not saved; project did not load."
 msgstr ""
@@ -1269,7 +1258,7 @@ msgid "on-flipped"
 msgstr ""
 
 msgid "Open"
-msgstr ""
+msgstr "খুলুন"
 
 msgid "Open Cuica"
 msgstr ""
@@ -1329,7 +1318,7 @@ msgid "Piano"
 msgstr "পিয়ানো"
 
 msgid "Pick up color"
-msgstr ""
+msgstr "একটি রং নির্বাচন করুন"
 
 msgid "pixelate"
 msgstr ""
@@ -1353,10 +1342,10 @@ msgid "Project not saved!"
 msgstr ""
 
 msgid "Project name"
-msgstr ""
+msgstr "প্রকল্পের নাম"
 
 msgid "Project name is required"
-msgstr ""
+msgstr "প্রকল্পের নাম প্রয়োজন"
 
 msgid "random"
 msgstr ""
@@ -1392,7 +1381,7 @@ msgid "Remove extension blocks"
 msgstr ""
 
 msgid "Rename"
-msgstr ""
+msgstr "নাম পরিবর্তন কর"
 
 msgid "rename variable"
 msgstr ""
@@ -1404,7 +1393,7 @@ msgid "requires sign in"
 msgstr ""
 
 msgid "Reshape"
-msgstr ""
+msgstr "পুনর্নির্মাণ"
 
 msgid "resistance-A"
 msgstr ""
@@ -1449,10 +1438,10 @@ msgid "Save as"
 msgstr "নতুনভাবে সংরক্ষণ কর"
 
 msgid "Save as a copy"
-msgstr ""
+msgstr "একটি নকল সংরক্ষণ করুন"
 
 msgid "Save now"
-msgstr ""
+msgstr "এখনি সংরক্ষণ কর"
 
 msgid "Save project?"
 msgstr "প্রকল্পটি কি সংরক্ষণ করবেন?"
@@ -1499,7 +1488,7 @@ msgid ""
 msgstr ""
 
 msgid "Select"
-msgstr ""
+msgstr "নির্বাচন করুন"
 
 msgid "select all"
 msgstr "সবকিছু নির্বাচন কর"
@@ -1550,7 +1539,7 @@ msgid "Side Stick"
 msgstr ""
 
 msgid "Sign in"
-msgstr ""
+msgstr "স্বাক্ষর করে প্রবেশ করুন"
 
 msgid "Sign in to save"
 msgstr ""
@@ -1588,8 +1577,9 @@ msgstr "শব্দ"
 msgid "Sound Library"
 msgstr ""
 
+#, fuzzy
 msgid "Sounds"
-msgstr ""
+msgstr "শব্দ"
 
 msgid "Space"
 msgstr ""
@@ -1645,8 +1635,9 @@ msgstr ""
 msgid "text"
 msgstr "লিপি"
 
+#, fuzzy
 msgid "Text"
-msgstr ""
+msgstr "লিপি"
 
 msgid "that way"
 msgstr "ঐ দিকে"
@@ -1687,8 +1678,9 @@ msgstr ""
 msgid "this sprite"
 msgstr ""
 
+#, fuzzy
 msgid "this way"
-msgstr ""
+msgstr "ঐ দিকে"
 
 msgid "Throw away all changes since opening this project?"
 msgstr ""
@@ -1892,7 +1884,7 @@ msgstr ""
 
 # Offline editor only
 msgid "Error saving project"
-msgstr ""
+msgstr "ফাইল সংরক্ষণ করতে সমস্যা হয়েছে"
 
 # Offline editor only
 msgid "Force help file update"
@@ -1924,7 +1916,7 @@ msgstr ""
 
 # Offline editor only
 msgid "Replace existing project?"
-msgstr ""
+msgstr "বিদ্যমান প্রকল্পের জায়গায় কি প্রতিস্থাপন করতে চান?"
 
 # Offline editor only
 msgid "Running pre-release"
@@ -1970,10 +1962,53 @@ msgid "Record Project Video"
 msgstr ""
 
 msgid "Remove Background"
-msgstr ""
+msgstr "পটভূমি অপসারন করুন"
 
 msgid "any"
 msgstr ""
 
 msgid "random position"
 msgstr ""
+
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "বাংলা"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list এর তালিকায় রয়েছে %s"
+
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "%m.spriteOrMouse এর কাছে যাও"
+
+#~ msgid "turn motor off"
+#~ msgstr "মোটর বন্ধ করো"
+
+#~ msgid "turn motor on"
+#~ msgstr "মটর চালু করো"
+
+#~ msgid "when distance < %n"
+#~ msgstr "যখন দূরত্ব < %n থাকে"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "যখন ঢালুর পরিমান = %n"

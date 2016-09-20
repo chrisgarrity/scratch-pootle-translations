@@ -318,14 +318,14 @@ msgstr "cos"
 msgid "Costume"
 msgstr "Կերպարի դիրք"
 
-msgid "costume #"
-msgstr "դիրք #"
+#~ msgid "costume #"
+#~ msgstr "դիրք #"
 
 msgid "Costume Library"
 msgstr "Կերպարների և դիրքերի պահոց"
 
-msgid "costume name"
-msgstr "դիրքի անունը"
+#~ msgid "costume name"
+#~ msgstr "դիրքի անունը"
 
 msgid "costume1"
 msgstr "դիրք1"
@@ -623,8 +623,8 @@ msgstr "լույս"
 msgid "lights"
 msgstr "լույս"
 
-#~ msgid "limit reached"
-#~ msgstr "հասել է վերջնակետին"
+msgid "limit reached"
+msgstr "հասել է վերջնակետին"
 
 msgid "Line"
 msgstr "Գիծ"
@@ -950,8 +950,8 @@ msgstr "Անվանափոխել փոփոխականը"
 msgid "Replace existing project"
 msgstr ""
 
-#~ msgid "requires sign in"
-#~ msgstr "Պահանջում է գրանցվել"
+msgid "requires sign in"
+msgstr "Պահանջում է գրանցվել"
 
 msgid "Reshape"
 msgstr "Ձևափոխել"
@@ -1117,8 +1117,8 @@ msgstr "Լռություն"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "Չափս"
+#~ msgid "size"
+#~ msgstr "Չափս"
 
 msgid "slider"
 msgstr "սահիչ"
@@ -1414,11 +1414,11 @@ msgstr "Փայտե ֆլեյտա"
 msgid "world"
 msgstr ""
 
-msgid "x position"
-msgstr "x դիրքը"
+#~ msgid "x position"
+#~ msgstr "x դիրքը"
 
-msgid "y position"
-msgstr "y դիրքը"
+#~ msgid "y position"
+#~ msgstr "y դիրքը"
 
 msgid "year"
 msgstr "տարի"
@@ -1621,4 +1621,25 @@ msgid "when Stage clicked"
 msgstr ""
 
 msgid "random position"
+msgstr ""
+
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
 msgstr ""

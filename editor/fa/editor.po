@@ -285,8 +285,8 @@ msgstr "Closed Hi-Hat"
 msgid "Cloud data"
 msgstr "داده ابری"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "متغیر ابری (ذخیره شده در سرور)"
+msgid "Cloud variable (stored on server)"
+msgstr "متغیر ابری (ذخیره شده در سرور)"
 
 msgid "color"
 msgstr "رنگ"
@@ -322,14 +322,14 @@ msgstr "cos"
 msgid "Costume"
 msgstr "لباس"
 
-msgid "costume #"
-msgstr "لباس #"
+#~ msgid "costume #"
+#~ msgstr "لباس #"
 
 msgid "Costume Library"
 msgstr "کتابخانه لباس"
 
-msgid "costume name"
-msgstr "نام لباس"
+#~ msgid "costume name"
+#~ msgstr "نام لباس"
 
 msgid "costume1"
 msgstr "لباس1"
@@ -629,8 +629,8 @@ msgstr "نور"
 #~ msgid "lights"
 #~ msgstr "نورها"
 
-#~ msgid "limit reached"
-#~ msgstr "به حدش رسید"
+msgid "limit reached"
+msgstr "به حدش رسید"
 
 msgid "Line"
 msgstr "خط"
@@ -954,8 +954,8 @@ msgstr "تغییر نام متغیر"
 #~ msgid "Replace existing project"
 #~ msgstr "جایگزینی روی پروژه ای که هست"
 
-#~ msgid "requires sign in"
-#~ msgstr "باید وارد شوید"
+msgid "requires sign in"
+msgstr "باید وارد شوید"
 
 msgid "Reshape"
 msgstr "تغییر شکل"
@@ -1122,8 +1122,8 @@ msgstr "سکوت"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "اندازه"
+#~ msgid "size"
+#~ msgstr "اندازه"
 
 msgid "slider"
 msgstr "لغزنده"
@@ -1416,11 +1416,11 @@ msgstr "Wooden Flute"
 #~ msgid "world"
 #~ msgstr "جهان"
 
-msgid "x position"
-msgstr "موقعیت x"
+#~ msgid "x position"
+#~ msgstr "موقعیت x"
 
-msgid "y position"
-msgstr "موقعیت y"
+#~ msgid "y position"
+#~ msgstr "موقعیت y"
 
 msgid "year"
 msgstr "سال"
@@ -1672,4 +1672,25 @@ msgid "when Stage clicked"
 msgstr ""
 
 msgid "random position"
+msgstr ""
+
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
 msgstr ""

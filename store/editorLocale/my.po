@@ -1980,6 +1980,27 @@ msgstr ""
 msgid "random position"
 msgstr ""
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "မြန်မာဘာသာ"

@@ -760,9 +760,6 @@ msgstr "Degizman"
 msgid "Costume Library"
 msgstr ""
 
-msgid "costume name"
-msgstr "non degizman"
-
 msgid "costume1"
 msgstr "degizman1"
 
@@ -1926,6 +1923,27 @@ msgstr ""
 msgid "random position"
 msgstr ""
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "Kreyòl"
@@ -1965,6 +1983,9 @@ msgstr ""
 
 #~ msgid "all motors"
 #~ msgstr "tout motè"
+
+#~ msgid "costume name"
+#~ msgstr "non degizman"
 
 #~ msgid "Costumes:"
 #~ msgstr "Degizman:"

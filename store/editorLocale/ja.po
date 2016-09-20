@@ -727,6 +727,9 @@ msgstr "閉じたハイハット"
 msgid "Cloud data"
 msgstr "クラウドデータ"
 
+msgid "Cloud variable (stored on server)"
+msgstr "クラウド変数 (サーバーに保存)"
+
 msgid "color"
 msgstr "色"
 
@@ -762,9 +765,6 @@ msgstr "コスチューム"
 
 msgid "Costume Library"
 msgstr "コスチュームライブラリー"
-
-msgid "costume name"
-msgstr "コスチューム名"
 
 msgid "costume1"
 msgstr "コスチューム1"
@@ -1017,6 +1017,9 @@ msgstr "ライブラリ"
 
 msgid "light"
 msgstr "明るさ"
+
+msgid "limit reached"
+msgstr "限界に到達"
 
 msgid "Line"
 msgstr "直線"
@@ -1314,6 +1317,9 @@ msgstr "名前を変更"
 
 msgid "rename variable"
 msgstr "変数名を変更"
+
+msgid "requires sign in"
+msgstr "サインインが必要です"
 
 msgid "Reshape"
 msgstr "形を変える"
@@ -1841,6 +1847,27 @@ msgstr "任意の"
 msgid "random position"
 msgstr "ランダムな場所"
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "日本語"
@@ -1946,8 +1973,8 @@ msgstr "ランダムな場所"
 #~ msgid "Cloud"
 #~ msgstr "クラウド"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "クラウド変数 (サーバーに保存)"
+#~ msgid "costume name"
+#~ msgstr "コスチューム名"
 
 #~ msgid "Costumes:"
 #~ msgstr "コスチューム:"
@@ -1986,9 +2013,6 @@ msgstr "ランダムな場所"
 #~ msgid "lights"
 #~ msgstr "明るさ"
 
-#~ msgid "limit reached"
-#~ msgstr "限界に到達"
-
 #~ msgid "motor"
 #~ msgstr "モーター"
 
@@ -2006,9 +2030,6 @@ msgstr "ランダムな場所"
 
 #~ msgid "Replace existing project"
 #~ msgstr "既存のプロジェクトを置換"
-
-#~ msgid "requires sign in"
-#~ msgstr "サインインが必要です"
 
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "Scratch 2.0 オフラインエディター"

@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2016-08-06 11:23+0000\n"
-"Last-Translator: astrit <astritzh@protonmail.com>\n"
+"PO-Revision-Date: 2016-09-16 11:24+0000\n"
+"Last-Translator: Klodian <klodianlula@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sq\n"
 "MIME-Version: 1.0\n"
@@ -12,11 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1470482593.000000\n"
-
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Shqip"
+"X-POOTLE-MTIME: 1474025050.000000\n"
 
 msgid "%b and %b"
 msgstr "%b dhe %b"
@@ -26,9 +22,6 @@ msgstr "%b ose %b"
 
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute për %m.spriteOrStage"
-
-msgid "%m.list contains %s"
-msgstr "%m.list përmban %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp të %n"
@@ -102,7 +95,7 @@ msgid "color %c is touching %c?"
 msgstr "ngjyra %c është duke prekur %c?"
 
 msgid "Control"
-msgstr "Kontrolli"
+msgstr "Kontroll"
 
 msgid "costume #"
 msgstr "kostumi #"
@@ -151,9 +144,6 @@ msgstr "rrëshkit %n sekonda drejt x:%n y:%n"
 
 msgid "go back %n layers"
 msgstr "shko mbrapa %n shtresa"
-
-msgid "go to %m.spriteOrMouse"
-msgstr "shko tek %m.spriteOrMouse"
 
 msgid "go to front"
 msgstr "shko në krye"
@@ -247,7 +237,7 @@ msgid "pick random %n to %n"
 msgstr "zgjidh rastësisht %n deri në %n"
 
 msgid "play drum %d.drum for %n beats"
-msgstr "luaj daullen %d.drum për %n rrahje"
+msgstr "bjeri daulles %d.drum për %n rrahje"
 
 msgid "play note %d.note for %n beats"
 msgstr "luaj notën %d.note për %n rrahje"
@@ -473,27 +463,6 @@ msgstr "pozicioni x"
 
 msgid "y position"
 msgstr "pozicioni y"
-
-msgid "set motor direction %m.motorDirection"
-msgstr "cakto drejtimin e motorit %m.motorDirection"
-
-msgid "set motor power %n"
-msgstr "cakto fuqinë e motorit %n"
-
-msgid "turn motor off"
-msgstr "fike motorin"
-
-msgid "turn motor on"
-msgstr "ndize motorin"
-
-msgid "turn motor on for %n secs"
-msgstr "ndize motorin për %n sekonda"
-
-msgid "when distance < %n"
-msgstr "kur distanca < %n"
-
-msgid "when tilt = %n"
-msgstr "kur pjerrësia = %n"
 
 #: commands-online.txt:7 commands-offline.txt:7
 msgid "%m.list contains %s?"
@@ -757,14 +726,11 @@ msgstr "Mbyll"
 msgid "Closed Hi-Hat"
 msgstr "Pjata të mbyllura"
 
-msgid "Cloud"
-msgstr "Cloud"
-
 msgid "Cloud data"
 msgstr "Të dhënat e Cloud"
 
 msgid "Cloud variable (stored on server)"
-msgstr ""
+msgstr "Variabël Cloud (ruajtur në server)"
 
 msgid "color"
 msgstr "ngjyrë"
@@ -802,9 +768,6 @@ msgstr "Kostumi"
 msgid "Costume Library"
 msgstr "Libraria e Kostumeve"
 
-msgid "costume name"
-msgstr "emri i kostumit"
-
 msgid "costume1"
 msgstr "kostum1"
 
@@ -812,13 +775,10 @@ msgid "costume2"
 msgstr "kostum2"
 
 msgid "Costumes"
-msgstr "Kostumet"
+msgstr "Kostume"
 
 msgid "Costumes > 1"
 msgstr "Kostume > 1"
-
-msgid "Costumes:"
-msgstr "Kostumet:"
 
 msgid "Could not retrieve new application from server."
 msgstr "Nuk mund të gjendej aplikacioni i ri nga serveri."
@@ -875,7 +835,7 @@ msgid "Download"
 msgstr "Shkarko"
 
 msgid "Download to your computer"
-msgstr "Shkarko te kompjuteri juaj"
+msgstr "Shkarko te kompjuteri yt"
 
 msgid "Downloading new version"
 msgstr ""
@@ -1388,7 +1348,7 @@ msgid "redo"
 msgstr "ribëj"
 
 msgid "Remix"
-msgstr "Remiks"
+msgstr "Remikso"
 
 msgid "Remixing..."
 msgstr "Duke remiksuar..."
@@ -1487,10 +1447,7 @@ msgid "Script"
 msgstr "Skript"
 
 msgid "Scripts"
-msgstr "Skriptet"
-
-msgid "Scripts:"
-msgstr "Skripte:"
+msgstr "Skripte"
 
 msgid "second"
 msgstr "i dytë"
@@ -1538,12 +1495,6 @@ msgstr "e përbashkët"
 
 msgid "Shift:"
 msgstr "Shift:"
-
-msgid "show receivers"
-msgstr "shfaq marrësit"
-
-msgid "show senders"
-msgstr "shfaq dërguesit"
 
 msgid "show:"
 msgstr "shfaq:"
@@ -1631,9 +1582,6 @@ msgstr "Skenë e zgjedhur:"
 
 msgid "Steel Drum"
 msgstr "Bateri Hekuri"
-
-msgid "stored on server"
-msgstr "i ruajtur në server"
 
 msgid "Synth Lead"
 msgstr "Linjë Sintetizuese"
@@ -1828,7 +1776,7 @@ msgid "Walking"
 msgstr "Duke ecur"
 
 msgid "Want to save? Click remix"
-msgstr "Dëshironi ta ruani? Klikoni remiks"
+msgstr "Dëshironi ta ruani? Klikoni remikso"
 
 msgid "Which column do you want to import"
 msgstr "Cilën kolonë dëshironi të importoni"
@@ -1864,25 +1812,6 @@ msgstr "Emri juaj Scratch"
 
 msgid "Your Scratch name is required"
 msgstr "Emri juaj Scratch është i detyrueshëm"
-
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Informacioni rreth variablave të Cloud</b><br>&nbsp;<br>Aktualisht, vetëm "
-"numrat janë të suportuara<br>Dhomat e chat-it nuk janë të lejuara, dhe do të "
-"hiqen <br>Për më shumë info, <a href= target=>shikoni pyetjet më të shpeshta "
-"(FAQ) për të dhënat e cloud!</a>"
-
-msgid "Click  to try again or  to save"
-msgstr "Kliko   për të provuar përsëri ose    ta ruani"
-
-msgid "Eraser width:"
-msgstr "Gjerësia e Fshirëses:"
-
-msgid "Line width:"
-msgstr "Gjerësi vije:"
 
 # Offline editor only
 msgid "All Tips"
@@ -1999,3 +1928,95 @@ msgstr "çfarëdo"
 
 msgid "random position"
 msgstr "pozicion i rastësishëm"
+
+msgid "Cloud list (stored on server)"
+msgstr "Lista Cloud (ruajtur në server)"
+
+msgid "Dance"
+msgstr "Kërce"
+
+msgid "Dress-Up"
+msgstr "Maskim"
+
+msgid "Music"
+msgstr "Muzikë"
+
+msgid "Musical Notes"
+msgstr "Nota Muzikore"
+
+msgid "My Class"
+msgstr "Klasa ime"
+
+msgid "My Classes"
+msgstr "Klasat e Mia"
+
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "Shqip"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list përmban %s"
+
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "shko tek %m.spriteOrMouse"
+
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "cakto drejtimin e motorit %m.motorDirection"
+
+#~ msgid "set motor power %n"
+#~ msgstr "cakto fuqinë e motorit %n"
+
+#~ msgid "turn motor off"
+#~ msgstr "fike motorin"
+
+#~ msgid "turn motor on"
+#~ msgstr "ndize motorin"
+
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "ndize motorin për %n sekonda"
+
+#~ msgid "when distance < %n"
+#~ msgstr "kur distanca < %n"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "kur pjerrësia = %n"
+
+#~ msgid "Cloud"
+#~ msgstr "Cloud"
+
+#~ msgid "costume name"
+#~ msgstr "emri i kostumit"
+
+#~ msgid "Costumes:"
+#~ msgstr "Kostumet:"
+
+#~ msgid "Scripts:"
+#~ msgstr "Skripte:"
+
+#~ msgid "show receivers"
+#~ msgstr "shfaq marrësit"
+
+#~ msgid "show senders"
+#~ msgstr "shfaq dërguesit"
+
+#~ msgid "stored on server"
+#~ msgstr "i ruajtur në server"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Informacioni rreth variablave të Cloud</b><br>&nbsp;<br>Aktualisht, "
+#~ "vetëm numrat janë të suportuara<br>Dhomat e chat-it nuk janë të lejuara, "
+#~ "dhe do të hiqen <br>Për më shumë info, <a href= target=>shikoni pyetjet "
+#~ "më të shpeshta (FAQ) për të dhënat e cloud!</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Kliko   për të provuar përsëri ose    ta ruani"
+
+#~ msgid "Eraser width:"
+#~ msgstr "Gjerësia e Fshirëses:"
+
+#~ msgid "Line width:"
+#~ msgstr "Gjerësi vije:"

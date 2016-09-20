@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2016-06-28 13:57+0000\n"
+"PO-Revision-Date: 2016-09-18 11:35+0000\n"
 "Last-Translator: RajeshwarGVR <rrgujjari@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: te\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1467122242.000000\n"
+"X-POOTLE-MTIME: 1474198547.000000\n"
 
 msgid "10 ^"
 msgstr "10^"
@@ -279,7 +279,7 @@ msgid "Cloud data"
 msgstr "క్లౌడ్ డేటా"
 
 msgid "Cloud variable (stored on server)"
-msgstr ""
+msgstr "క్లౌడ్ చరరాశి (సర్వర్లో నిల్వ ఉంచు)"
 
 msgid "color"
 msgstr "రంగు"
@@ -314,14 +314,14 @@ msgstr "సిఒఎస్"
 msgid "Costume"
 msgstr "వేషము"
 
-msgid "costume #"
-msgstr "వేషము"
+#~ msgid "costume #"
+#~ msgstr "వేషము"
 
 msgid "Costume Library"
 msgstr "వేషము లైబ్రరీ"
 
-msgid "costume name"
-msgstr "వేషము పేరు"
+#~ msgid "costume name"
+#~ msgstr "వేషము పేరు"
 
 msgid "costume1"
 msgstr "వేషము1"
@@ -615,7 +615,7 @@ msgid "lights"
 msgstr ""
 
 msgid "limit reached"
-msgstr ""
+msgstr "పరిమితిని చేరుకున్నారు"
 
 msgid "Line"
 msgstr "గీత"
@@ -708,7 +708,7 @@ msgid "Multiple"
 msgstr "బహుళ"
 
 msgid "Music and Dance"
-msgstr "సంగీతం మరియు నృత్యం"
+msgstr "సంగీతం మరియు నాట్యం"
 
 msgid "Music Box"
 msgstr "సంగీతం పెట్టె"
@@ -936,22 +936,22 @@ msgid "Replace existing project"
 msgstr ""
 
 msgid "requires sign in"
-msgstr ""
+msgstr "సైన్ ఇన్ అవసరం"
 
 msgid "Reshape"
 msgstr "ఆకృతిని మార్చడం"
 
 msgid "resistance-A"
-msgstr "'A'ను నిరోదించు"
+msgstr "నిరోదించు-A"
 
 msgid "resistance-B"
-msgstr "'B'ను నిరోదించు"
+msgstr "నిరోదించు-B"
 
 msgid "resistance-C"
-msgstr "'C'ను నిరోదించు"
+msgstr "నిరోదించు-C"
 
 msgid "resistance-D"
-msgstr "'D'ను నిరోదించు"
+msgstr "నిరోదించు-D"
 
 msgid "reverse"
 msgstr "తిరగేయు"
@@ -1103,8 +1103,8 @@ msgstr "నిశ్శబ్దం"
 msgid "sin"
 msgstr "సైన్"
 
-msgid "size"
-msgstr "పరిమాణం"
+#~ msgid "size"
+#~ msgstr "పరిమాణం"
 
 msgid "slider"
 msgstr "స్లైడర్"
@@ -1392,11 +1392,11 @@ msgstr "చెక్క ఫ్లూట్"
 msgid "world"
 msgstr ""
 
-msgid "x position"
-msgstr "X స్థానము"
+#~ msgid "x position"
+#~ msgstr "X స్థానము"
 
-msgid "y position"
-msgstr "Y స్థానము"
+#~ msgid "y position"
+#~ msgstr "Y స్థానము"
 
 msgid "year"
 msgstr "సంవత్సరం"
@@ -1547,3 +1547,24 @@ msgstr ""
 
 msgid "random position"
 msgstr "యాదృచ్ఛిక స్థానం"
+
+msgid "Cloud list (stored on server)"
+msgstr "క్లౌడ్ జాబితా (సర్వర్లో నిల్వ ఉంచు)"
+
+msgid "Dance"
+msgstr "నాట్యం"
+
+msgid "Dress-Up"
+msgstr "దుస్తులు- వేయు"
+
+msgid "Music"
+msgstr "సంగీతం"
+
+msgid "Musical Notes"
+msgstr "సంగీత నోట్స్"
+
+msgid "My Class"
+msgstr "నా తరగతి"
+
+msgid "My Classes"
+msgstr "నా తరగతులు"

@@ -152,8 +152,8 @@ msgstr "kunyereza %n amasegonda ku  x:%n y:%n"
 msgid "go back %n layers"
 msgstr "subira inyuma %n kushe"
 
-msgid "go to %m.spriteOrMouse"
-msgstr "jya ku %m.spriteOrMouse"
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "jya ku %m.spriteOrMouse"
 
 msgid "go to front"
 msgstr "jya imbere"

@@ -280,8 +280,8 @@ msgstr "Иаркыу хай-хэт"
 msgid "Cloud data"
 msgstr "Адыррақәа аҧсҭҳәа аҟынтә"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "Аҽеҭак аҧсҭҳәа аҿы (асервер иҭагалоу)"
+msgid "Cloud variable (stored on server)"
+msgstr "Аҽеҭак аҧсҭҳәа аҿы (асервер иҭагалоу)"
 
 msgid "color"
 msgstr "аҧштәы"
@@ -316,14 +316,14 @@ msgstr "cos"
 msgid "Costume"
 msgstr "Акостиум"
 
-msgid "costume #"
-msgstr "акостиум №"
+#~ msgid "costume #"
+#~ msgstr "акостиум №"
 
 msgid "Costume Library"
 msgstr "Акостиумқәа рбиблиотека"
 
-msgid "costume name"
-msgstr "акостиум ахьӡ"
+#~ msgid "costume name"
+#~ msgstr "акостиум ахьӡ"
 
 msgid "costume1"
 msgstr "акостиум1"
@@ -616,8 +616,8 @@ msgstr "алашара"
 #~ msgid "lights"
 #~ msgstr "алашара"
 
-#~ msgid "limit reached"
-#~ msgstr "аҳәааҿ инаӡоуп"
+msgid "limit reached"
+msgstr "аҳәааҿ инаӡоуп"
 
 msgid "Line"
 msgstr "Ацәаҳәа"
@@ -937,8 +937,8 @@ msgstr "аҽеиҭак ахьӡ ҧсахтәуп"
 #~ msgid "Replace existing project"
 #~ msgstr "Иҧсахтәуп иҟоу апроеқт "
 
-#~ msgid "requires sign in"
-#~ msgstr "иаҭахыуп абрахь аҭалара"
+msgid "requires sign in"
+msgstr "иаҭахыуп абрахь аҭалара"
 
 msgid "Reshape"
 msgstr "Аформа аҧсахра"
@@ -1106,8 +1106,8 @@ msgstr "аҭынчра"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "ашәагаа"
+#~ msgid "size"
+#~ msgstr "ашәагаа"
 
 msgid "slider"
 msgstr "арымаа хәуҷ"
@@ -1394,11 +1394,11 @@ msgstr "Амҿтәы флеита"
 #~ msgid "world"
 #~ msgstr "аҭынчра"
 
-msgid "x position"
-msgstr "x аҭыҧ"
+#~ msgid "x position"
+#~ msgstr "x аҭыҧ"
 
-msgid "y position"
-msgstr "у аҭыҧ"
+#~ msgid "y position"
+#~ msgstr "у аҭыҧ"
 
 msgid "year"
 msgstr "ашықәс"
@@ -1563,4 +1563,25 @@ msgid "when Stage clicked"
 msgstr ""
 
 msgid "random position"
+msgstr ""
+
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
 msgstr ""

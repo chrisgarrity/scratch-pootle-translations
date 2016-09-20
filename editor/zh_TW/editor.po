@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2016-04-05 03:06+0000\n"
+"PO-Revision-Date: 2016-09-03 01:54+0000\n"
 "Last-Translator: Chun-Nan <brian030218@outlook.com>\n"
 "Language-Team: Chinese (traditional)  <zh-l10n@lists.linux.org.tw>\n"
 "Language: zh_TW\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1459825594.000000\n"
+"X-POOTLE-MTIME: 1472867679.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -220,7 +220,7 @@ msgid "ceiling"
 msgstr "ceiling"
 
 msgid "Cello"
-msgstr "大提琴 "
+msgstr "大提琴"
 
 msgid "Check for updates"
 msgstr "檢查更新"
@@ -276,8 +276,8 @@ msgstr "閉合雙面拔"
 msgid "Cloud data"
 msgstr "雲端資料"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "雲端變數 (資料將會儲存在伺服器)"
+msgid "Cloud variable (stored on server)"
+msgstr "雲端變數 (儲存於伺服器)"
 
 msgid "color"
 msgstr "顏色"
@@ -312,14 +312,14 @@ msgstr "cos"
 msgid "Costume"
 msgstr "造型"
 
-msgid "costume #"
-msgstr "造型編號"
+#~ msgid "costume #"
+#~ msgstr "造型編號"
 
 msgid "Costume Library"
 msgstr "造型範例庫"
 
-msgid "costume name"
-msgstr "造型名稱"
+#~ msgid "costume name"
+#~ msgstr "造型名稱"
 
 msgid "costume1"
 msgstr "造型1"
@@ -349,7 +349,7 @@ msgid "Creating..."
 msgstr "正在建立…"
 
 msgid "Currently, only numbers can be stored in Cloud variables."
-msgstr "目前，雲端變數只能儲存數字"
+msgstr "目前，雲端變數只能儲存數字。"
 
 msgid "cut"
 msgstr "剪下"
@@ -616,8 +616,8 @@ msgstr "光線"
 #~ msgid "lights"
 #~ msgstr "光線"
 
-#~ msgid "limit reached"
-#~ msgstr "抵達限制"
+msgid "limit reached"
+msgstr "抵達限制"
 
 msgid "Line"
 msgstr "線條"
@@ -923,10 +923,10 @@ msgid "redo"
 msgstr "重做"
 
 msgid "Remix"
-msgstr "融合"
+msgstr "改編"
 
 msgid "Remixing..."
-msgstr "正在融合…"
+msgstr "正在改編…"
 
 #~ msgid "Remove extension blocks"
 #~ msgstr "移除擴充功能積木"
@@ -940,8 +940,8 @@ msgstr "重新命名變數"
 #~ msgid "Replace existing project"
 #~ msgstr "取代現有專案"
 
-#~ msgid "requires sign in"
-#~ msgstr "需要登入"
+msgid "requires sign in"
+msgstr "需要登入"
 
 msgid "Reshape"
 msgstr "重新塑形"
@@ -1107,8 +1107,8 @@ msgstr "靜音"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "大小"
+#~ msgid "size"
+#~ msgstr "大小"
 
 msgid "slider"
 msgstr "滑桿"
@@ -1226,12 +1226,12 @@ msgstr "這是最新的版本。"
 msgid ""
 "This project can detect who is using it, through the “username” block. To "
 "hide your identity, sign out before using the project."
-msgstr "此專案包含「帳戶名稱」積木，可以偵測出誰正在使用此專案。想要隱藏您的身份的話，先登出再使用即可。"
+msgstr "此專案包含「帳號名稱」積木，可以偵測誰正在使用此專案。若要隱藏您的身份的話，先登出再使用。"
 
 msgid ""
 "This project uses Cloud data ‒ a feature that is available only to signed in "
 "users."
-msgstr "這個專案使用「雲端資料」- 只有已登入使用者才能使用此功能。 "
+msgstr "這個專案使用「雲端資料」- 只有已登入使用者才能使用此功能。"
 
 msgid "this script"
 msgstr "這個程式"
@@ -1320,7 +1320,7 @@ msgid "Upload costume from file"
 msgstr "上傳造型檔案"
 
 msgid "Upload from your computer"
-msgstr "上傳"
+msgstr "從你的電腦上傳"
 
 msgid "Upload sound from file"
 msgstr "上傳音效檔案"
@@ -1374,7 +1374,7 @@ msgid "Walking"
 msgstr "步行"
 
 msgid "Want to save? Click remix"
-msgstr "要儲存嗎？請點擊「融合」"
+msgstr "要儲存嗎？請點擊「改編」"
 
 msgid "Which column do you want to import"
 msgstr "您想匯入到哪個欄位"
@@ -1394,11 +1394,11 @@ msgstr "木笛"
 #~ msgid "world"
 #~ msgstr "世界"
 
-msgid "x position"
-msgstr "x 座標"
+#~ msgid "x position"
+#~ msgstr "x 座標"
 
-msgid "y position"
-msgstr "y 座標"
+#~ msgid "y position"
+#~ msgstr "y 座標"
 
 msgid "year"
 msgstr "年"
@@ -1600,3 +1600,24 @@ msgstr "移除背景"
 
 msgid "random position"
 msgstr "隨機位置"
+
+msgid "Cloud list (stored on server)"
+msgstr "雲端清單 (儲存於伺服器)"
+
+msgid "Dance"
+msgstr "舞蹈"
+
+msgid "Dress-Up"
+msgstr "服裝配件"
+
+msgid "Music"
+msgstr "音樂"
+
+msgid "Musical Notes"
+msgstr "音符"
+
+msgid "My Class"
+msgstr "我的班級"
+
+msgid "My Classes"
+msgstr "我的班級"

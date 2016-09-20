@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2016-03-14 22:25+0000\n"
+"PO-Revision-Date: 2016-08-23 19:32+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: km\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1457994348.000000\n"
+"X-POOTLE-MTIME: 1471980742.000000\n"
 
 msgid "%b and %b"
 msgstr "%b និង %b"
@@ -815,9 +815,6 @@ msgstr "コスチューム"
 msgid "Costume Library"
 msgstr "コスチュームライブラリー"
 
-msgid "costume name"
-msgstr "コスチュームめい"
-
 msgid "costume1"
 msgstr "コスチューム1"
 
@@ -1121,6 +1118,9 @@ msgstr "あかるさ"
 #, fuzzy
 msgid "lights"
 msgstr "あかるさ"
+
+msgid "limit reached"
+msgstr "げんかいにとうたつ"
 
 msgid "Line"
 msgstr "ちょくせん"
@@ -1456,6 +1456,9 @@ msgstr "へんすうめいをへんこう"
 
 msgid "Replace existing project"
 msgstr ""
+
+msgid "requires sign in"
+msgstr "サインインがひつようです"
 
 msgid "Reshape"
 msgstr "かたちをかえる"
@@ -2045,6 +2048,27 @@ msgstr ""
 msgid "random position"
 msgstr ""
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "សំលៀកបំពាក"
@@ -2088,14 +2112,11 @@ msgstr ""
 #~ msgid "Cloud"
 #~ msgstr "クラウド"
 
+#~ msgid "costume name"
+#~ msgstr "コスチュームめい"
+
 #~ msgid "Costumes:"
 #~ msgstr "コスチューム:"
-
-#~ msgid "limit reached"
-#~ msgstr "げんかいにとうたつ"
-
-#~ msgid "requires sign in"
-#~ msgstr "サインインがひつようです"
 
 #~ msgid "Scripts:"
 #~ msgstr "スクリプト:"

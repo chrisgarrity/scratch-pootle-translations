@@ -721,6 +721,9 @@ msgstr "Charleston"
 msgid "Cloud data"
 msgstr "Datos in sa nue"
 
+msgid "Cloud variable (stored on server)"
+msgstr "Variàbile de sa nue (allogada in su serbidore)"
+
 msgid "color"
 msgstr "colore"
 
@@ -756,9 +759,6 @@ msgstr "Costùmene"
 
 msgid "Costume Library"
 msgstr "Regorta costùmenes"
-
-msgid "costume name"
-msgstr "nùmene costùmene"
 
 msgid "costume1"
 msgstr "costùmene1"
@@ -1010,6 +1010,9 @@ msgstr "Regorta"
 
 msgid "light"
 msgstr "lughe"
+
+msgid "limit reached"
+msgstr "làcana lòmpida"
 
 msgid "Line"
 msgstr "Lìnia"
@@ -1304,6 +1307,9 @@ msgstr "Càmbia su nùmene"
 
 msgid "rename variable"
 msgstr "càmbia nùmene a sa variàbile"
+
+msgid "requires sign in"
+msgstr "rechedet de imbucare"
 
 msgid "Reshape"
 msgstr "Càmbia forma"
@@ -1834,6 +1840,27 @@ msgstr "calesisiat"
 msgid "random position"
 msgstr "positzione a casu"
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "Sardu"
@@ -1887,8 +1914,8 @@ msgstr "positzione a casu"
 #~ msgid "Cloud"
 #~ msgstr "Nue"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "Variàbile de sa nue (allogada in su serbidore)"
+#~ msgid "costume name"
+#~ msgstr "nùmene costùmene"
 
 #~ msgid "Costumes:"
 #~ msgstr "Costùmenes:"
@@ -1927,9 +1954,6 @@ msgstr "positzione a casu"
 #~ msgid "lights"
 #~ msgstr "lughes"
 
-#~ msgid "limit reached"
-#~ msgstr "làcana lòmpida"
-
 #~ msgid "motor"
 #~ msgstr "motore"
 
@@ -1947,9 +1971,6 @@ msgstr "positzione a casu"
 
 #~ msgid "Replace existing project"
 #~ msgstr "Càmbia su progetu"
-
-#~ msgid "requires sign in"
-#~ msgstr "rechedet de imbucare"
 
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "Editore locale de Scratch 2.0"

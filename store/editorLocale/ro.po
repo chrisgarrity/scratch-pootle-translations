@@ -781,9 +781,6 @@ msgstr "Costum"
 msgid "Costume Library"
 msgstr "Bibliotecă de costume"
 
-msgid "costume name"
-msgstr "denumirea costumului"
-
 msgid "costume1"
 msgstr "costum1"
 
@@ -1070,6 +1067,9 @@ msgstr "lumină"
 #, fuzzy
 msgid "lights"
 msgstr "lumina"
+
+msgid "limit reached"
+msgstr "s-a atins limita"
 
 msgid "Line"
 msgstr "Linie"
@@ -1384,6 +1384,9 @@ msgstr "redenumește variabila"
 
 msgid "Replace existing project"
 msgstr ""
+
+msgid "requires sign in"
+msgstr "este necesara logarea"
 
 msgid "Reshape"
 msgstr "Remodelează"
@@ -1958,6 +1961,27 @@ msgstr "Elimină decorul"
 msgid "random position"
 msgstr "poziție aleatoare"
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "Română"
@@ -2028,14 +2052,11 @@ msgstr "poziție aleatoare"
 #~ msgid "Cloud"
 #~ msgstr "Cloud"
 
+#~ msgid "costume name"
+#~ msgstr "denumirea costumului"
+
 #~ msgid "Costumes:"
 #~ msgstr "Costume:"
-
-#~ msgid "limit reached"
-#~ msgstr "s-a atins limita"
-
-#~ msgid "requires sign in"
-#~ msgstr "este necesara logarea"
 
 #~ msgid "Scripts:"
 #~ msgstr "Script-uri:"

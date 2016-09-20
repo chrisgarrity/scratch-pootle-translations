@@ -280,8 +280,8 @@ msgstr "Затворен хај-хет чинел-42п"
 msgid "Cloud data"
 msgstr "Мноштво податоци"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "Променлива (зачувана на сервер)"
+msgid "Cloud variable (stored on server)"
+msgstr "Променлива (зачувана на сервер)"
 
 msgid "color"
 msgstr "боја"
@@ -316,14 +316,14 @@ msgstr "косинус"
 msgid "Costume"
 msgstr "Маска"
 
-msgid "costume #"
-msgstr "маска #"
+#~ msgid "costume #"
+#~ msgstr "маска #"
 
 msgid "Costume Library"
 msgstr "Библиотека со Маски"
 
-msgid "costume name"
-msgstr "име на маска"
+#~ msgid "costume name"
+#~ msgstr "име на маска"
 
 msgid "costume1"
 msgstr "маска1"
@@ -619,8 +619,8 @@ msgstr "светло"
 #~ msgid "lights"
 #~ msgstr "светлa"
 
-#~ msgid "limit reached"
-#~ msgstr "достигнат лимит"
+msgid "limit reached"
+msgstr "достигнат лимит"
 
 msgid "Line"
 msgstr "Линија"
@@ -942,8 +942,8 @@ msgstr "преименувај променлива"
 #~ msgid "Replace existing project"
 #~ msgstr "Замени го постоечкиот проект"
 
-#~ msgid "requires sign in"
-#~ msgstr "потребна е најава"
+msgid "requires sign in"
+msgstr "потребна е најава"
 
 msgid "Reshape"
 msgstr "Преобликувај"
@@ -1111,8 +1111,8 @@ msgstr "тишина"
 msgid "sin"
 msgstr "синус"
 
-msgid "size"
-msgstr "големина"
+#~ msgid "size"
+#~ msgstr "големина"
 
 msgid "slider"
 msgstr "лизгач"
@@ -1403,11 +1403,11 @@ msgstr "Дрвена флејта"
 #~ msgid "world"
 #~ msgstr "Свет"
 
-msgid "x position"
-msgstr "х позиција"
+#~ msgid "x position"
+#~ msgstr "х позиција"
 
-msgid "y position"
-msgstr "у позиција"
+#~ msgid "y position"
+#~ msgstr "у позиција"
 
 msgid "year"
 msgstr "година"
@@ -1616,4 +1616,25 @@ msgid "when Stage clicked"
 msgstr ""
 
 msgid "random position"
+msgstr ""
+
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
 msgstr ""

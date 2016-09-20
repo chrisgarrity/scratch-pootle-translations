@@ -624,9 +624,6 @@ msgstr "положение x"
 msgid "y position"
 msgstr "положение y"
 
-msgid "%m.list contains %s"
-msgstr "%m.list содержит %s"
-
 msgid "go to %m.location"
 msgstr "перейти в %m.location"
 
@@ -930,9 +927,6 @@ msgstr "Костюм"
 msgid "Costume Library"
 msgstr "Библиотека костюмов"
 
-msgid "costume name"
-msgstr "имя костюма"
-
 msgid "costume1"
 msgstr "костюм1"
 
@@ -1209,6 +1203,9 @@ msgstr "Библиотека"
 
 msgid "light"
 msgstr "свет"
+
+msgid "limit reached"
+msgstr "достигнут предел"
 
 msgid "Line"
 msgstr "Линия"
@@ -1513,6 +1510,9 @@ msgstr "переименовать переменную"
 
 msgid "Replace existing project"
 msgstr ""
+
+msgid "requires sign in"
+msgstr "требует входа"
 
 msgid "Reshape"
 msgstr "Изменение формы"
@@ -2072,8 +2072,32 @@ msgstr "Удалить фон"
 msgid "random position"
 msgstr "случайная позиция"
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
 #~ msgid "go to %m.spriteOrMouse"
 #~ msgstr "перейти в %m.spriteOrMouse"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list содержит %s"
 
 #~ msgid "About LEGO WeDo extension..."
 #~ msgstr "О дополнении LEGO WeDo..."
@@ -2086,6 +2110,9 @@ msgstr "случайная позиция"
 
 #~ msgid "Cloud"
 #~ msgstr "Облако"
+
+#~ msgid "costume name"
+#~ msgstr "имя костюма"
 
 #~ msgid "Costumes:"
 #~ msgstr "Костюмы:"
@@ -2103,9 +2130,6 @@ msgstr "случайная позиция"
 #~ msgid "lights"
 #~ msgstr "свет"
 
-#~ msgid "limit reached"
-#~ msgstr "достигнут предел"
-
 #~ msgid "motor"
 #~ msgstr "двигатель"
 
@@ -2120,9 +2144,6 @@ msgstr "случайная позиция"
 
 #~ msgid "Remove extension blocks"
 #~ msgstr "Удалить блоки дополнений"
-
-#~ msgid "requires sign in"
-#~ msgstr "требует входа"
 
 # 87%
 #~ msgid "Scripts:"

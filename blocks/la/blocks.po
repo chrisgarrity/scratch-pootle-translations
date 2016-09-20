@@ -354,11 +354,13 @@ msgstr "siste y ad %n"
 msgid "show"
 msgstr "demonstra"
 
+#, fuzzy
 msgid "show list %m.list"
-msgstr ""
+msgstr "late %m.list rationem"
 
+#, fuzzy
 msgid "show variable %m.var"
-msgstr ""
+msgstr "late %m.var numerum mutabilem"
 
 msgid "size"
 msgstr "magnitudo"

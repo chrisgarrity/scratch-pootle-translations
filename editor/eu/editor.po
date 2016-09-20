@@ -281,8 +281,8 @@ msgstr "Hi-Hata itxi"
 msgid "Cloud data"
 msgstr "Hodeieko datuak"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "Hodei-aldagaia (zerbitzarian gordea)"
+msgid "Cloud variable (stored on server)"
+msgstr "Hodei-aldagaia (zerbitzarian gordea)"
 
 msgid "color"
 msgstr "kolorea"
@@ -317,14 +317,14 @@ msgstr "cos"
 msgid "Costume"
 msgstr "Mozorroa"
 
-msgid "costume #"
-msgstr "# mozorroa"
+#~ msgid "costume #"
+#~ msgstr "# mozorroa"
 
 msgid "Costume Library"
 msgstr "Mozorroen liburutegia"
 
-msgid "costume name"
-msgstr "mozorroaren izena"
+#~ msgid "costume name"
+#~ msgstr "mozorroaren izena"
 
 msgid "costume1"
 msgstr "mozorroa1"
@@ -620,8 +620,8 @@ msgstr "argia"
 #~ msgid "lights"
 #~ msgstr "argiak"
 
-#~ msgid "limit reached"
-#~ msgstr "mugara iritsita"
+msgid "limit reached"
+msgstr "mugara iritsita"
 
 msgid "Line"
 msgstr "Marra"
@@ -943,8 +943,8 @@ msgstr "aldagaia berrizendatu"
 #~ msgid "Replace existing project"
 #~ msgstr "Ordezkatu existitzen den proiektu bat"
 
-#~ msgid "requires sign in"
-#~ msgstr "Saioa berriz hastea eskatzen da"
+msgid "requires sign in"
+msgstr "Saioa berriz hastea eskatzen da"
 
 msgid "Reshape"
 msgstr "Forma aldatu"
@@ -1112,8 +1112,8 @@ msgstr "isildu"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "tamaina"
+#~ msgid "size"
+#~ msgstr "tamaina"
 
 msgid "slider"
 msgstr "irristailua"
@@ -1406,11 +1406,11 @@ msgstr "Egurrezko txirula"
 #~ msgid "world"
 #~ msgstr "mundua"
 
-msgid "x position"
-msgstr "x-en posizioa"
+#~ msgid "x position"
+#~ msgstr "x-en posizioa"
 
-msgid "y position"
-msgstr "y-ren posizioa"
+#~ msgid "y position"
+#~ msgstr "y-ren posizioa"
 
 msgid "year"
 msgstr "urtea"
@@ -1585,3 +1585,24 @@ msgstr ""
 
 msgid "random position"
 msgstr "ausazko kokapena"
+
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""

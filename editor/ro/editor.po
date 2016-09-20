@@ -319,14 +319,14 @@ msgstr "cos"
 msgid "Costume"
 msgstr "Costum"
 
-msgid "costume #"
-msgstr "costum #"
+#~ msgid "costume #"
+#~ msgstr "costum #"
 
 msgid "Costume Library"
 msgstr "Bibliotecă de costume"
 
-msgid "costume name"
-msgstr "denumirea costumului"
+#~ msgid "costume name"
+#~ msgstr "denumirea costumului"
 
 msgid "costume1"
 msgstr "costum1"
@@ -624,8 +624,8 @@ msgstr "lumină"
 msgid "lights"
 msgstr "lumina"
 
-#~ msgid "limit reached"
-#~ msgstr "s-a atins limita"
+msgid "limit reached"
+msgstr "s-a atins limita"
 
 msgid "Line"
 msgstr "Linie"
@@ -947,8 +947,8 @@ msgstr "redenumește variabila"
 msgid "Replace existing project"
 msgstr ""
 
-#~ msgid "requires sign in"
-#~ msgstr "este necesara logarea"
+msgid "requires sign in"
+msgstr "este necesara logarea"
 
 msgid "Reshape"
 msgstr "Remodelează"
@@ -1114,8 +1114,8 @@ msgstr "liniște"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "dimensiunea"
+#~ msgid "size"
+#~ msgstr "dimensiunea"
 
 msgid "slider"
 msgstr "indicator"
@@ -1408,11 +1408,11 @@ msgstr "Flaut de lemn"
 msgid "world"
 msgstr ""
 
-msgid "x position"
-msgstr "poziția x"
+#~ msgid "x position"
+#~ msgstr "poziția x"
 
-msgid "y position"
-msgstr "poziția y"
+#~ msgid "y position"
+#~ msgstr "poziția y"
 
 msgid "year"
 msgstr "anul"
@@ -1592,3 +1592,24 @@ msgstr ""
 
 msgid "random position"
 msgstr "poziție aleatoare"
+
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""

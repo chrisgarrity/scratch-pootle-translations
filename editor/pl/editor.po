@@ -328,14 +328,14 @@ msgstr "cos"
 msgid "Costume"
 msgstr "Kostium"
 
-msgid "costume #"
-msgstr "kostium #"
+#~ msgid "costume #"
+#~ msgstr "kostium #"
 
 msgid "Costume Library"
 msgstr "Biblioteka kostiumów"
 
-msgid "costume name"
-msgstr "nazwa kostiumu"
+#~ msgid "costume name"
+#~ msgstr "nazwa kostiumu"
 
 msgid "costume1"
 msgstr "kostium1"
@@ -636,8 +636,8 @@ msgstr "światło"
 #~ msgid "lights"
 #~ msgstr "światła"
 
-#~ msgid "limit reached"
-#~ msgstr "limit osiągnięty"
+msgid "limit reached"
+msgstr "limit osiągnięty"
 
 msgid "Line"
 msgstr "Linia"
@@ -965,8 +965,8 @@ msgstr "zmień nazwę zmiennej"
 msgid "Replace existing project"
 msgstr ""
 
-#~ msgid "requires sign in"
-#~ msgstr "wymaga zalogowania"
+msgid "requires sign in"
+msgstr "wymaga zalogowania"
 
 msgid "Reshape"
 msgstr "Przekształć"
@@ -1135,8 +1135,8 @@ msgstr "cisza"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "rozmiar"
+#~ msgid "size"
+#~ msgstr "rozmiar"
 
 msgid "slider"
 msgstr "suwak"
@@ -1429,11 +1429,11 @@ msgstr "Drewniany flet"
 msgid "world"
 msgstr ""
 
-msgid "x position"
-msgstr "pozycja x"
+#~ msgid "x position"
+#~ msgstr "pozycja x"
 
-msgid "y position"
-msgstr "pozycja y"
+#~ msgid "y position"
+#~ msgstr "pozycja y"
 
 msgid "year"
 msgstr "rok"
@@ -1750,3 +1750,24 @@ msgstr ""
 
 msgid "random position"
 msgstr "losowe położenie"
+
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""

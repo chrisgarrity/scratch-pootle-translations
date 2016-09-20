@@ -763,9 +763,6 @@ msgstr "Kostým"
 msgid "Costume Library"
 msgstr "Knižnica kostýmov"
 
-msgid "costume name"
-msgstr "meno kostýmu"
-
 msgid "costume1"
 msgstr "kostým1"
 
@@ -1027,6 +1024,9 @@ msgstr "Knižnica"
 
 msgid "light"
 msgstr "svetlo"
+
+msgid "limit reached"
+msgstr "limit dosiahnutý"
 
 msgid "Line"
 msgstr "Úsečka"
@@ -1333,6 +1333,9 @@ msgstr "premenuj premennú"
 
 msgid "Replace existing project"
 msgstr ""
+
+msgid "requires sign in"
+msgstr "vyžaduje prihlásenie"
 
 msgid "Reshape"
 msgstr "Zmena tvaru"
@@ -1892,6 +1895,27 @@ msgstr "Odstráň pozadie"
 msgid "random position"
 msgstr "náhodná pozícia"
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "Slovenčina"
@@ -1973,6 +1997,9 @@ msgstr "náhodná pozícia"
 #~ msgid "Cloud"
 #~ msgstr "Cloud"
 
+#~ msgid "costume name"
+#~ msgstr "meno kostýmu"
+
 #~ msgid "Costumes:"
 #~ msgstr "Kostýmy:"
 
@@ -2001,9 +2028,6 @@ msgstr "náhodná pozícia"
 #~ msgid "lights"
 #~ msgstr "svetlá"
 
-#~ msgid "limit reached"
-#~ msgstr "limit dosiahnutý"
-
 #~ msgid "motor"
 #~ msgstr "motor"
 
@@ -2012,9 +2036,6 @@ msgstr "náhodná pozícia"
 
 #~ msgid "motor B"
 #~ msgstr "motor B"
-
-#~ msgid "requires sign in"
-#~ msgstr "vyžaduje prihlásenie"
 
 #~ msgid "Scripts:"
 #~ msgstr "Scenáre:"

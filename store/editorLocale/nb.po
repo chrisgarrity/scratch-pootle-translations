@@ -734,6 +734,9 @@ msgstr "Lukket hi-hat"
 msgid "Cloud data"
 msgstr "Nettdata"
 
+msgid "Cloud variable (stored on server)"
+msgstr "Nettvariabel (lagret på nettstedet til Scratch)"
+
 msgid "color"
 msgstr "farge"
 
@@ -770,9 +773,6 @@ msgstr "Drakt"
 
 msgid "Costume Library"
 msgstr "Drakter i biblioteket"
-
-msgid "costume name"
-msgstr "draktnavn"
 
 msgid "costume1"
 msgstr "drakt1"
@@ -1028,6 +1028,9 @@ msgstr "Bibliotek"
 
 msgid "light"
 msgstr "lys"
+
+msgid "limit reached"
+msgstr "ved grensen"
 
 msgid "Line"
 msgstr "Linje"
@@ -1330,6 +1333,9 @@ msgstr "Nytt navn"
 
 msgid "rename variable"
 msgstr "gi nytt navn til variabel"
+
+msgid "requires sign in"
+msgstr "krever innlogging"
 
 msgid "Reshape"
 msgstr "Bøy"
@@ -1866,6 +1872,27 @@ msgstr "Slett bakgrunn"
 msgid "random position"
 msgstr "tilfeldig sted"
 
+msgid "Cloud list (stored on server)"
+msgstr "Nettliste (lagret på nettstedet til Scratch)"
+
+msgid "Dance"
+msgstr "Dans"
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr "Musikk"
+
+msgid "Musical Notes"
+msgstr "Noter"
+
+msgid "My Class"
+msgstr "Min klasse"
+
+msgid "My Classes"
+msgstr "Mine klasser"
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "Norsk Bokmål"
@@ -1972,8 +1999,8 @@ msgstr "tilfeldig sted"
 #~ msgid "Cloud"
 #~ msgstr "Nett"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "Nettvariabel (lagret på nettstedet til Scratch)"
+#~ msgid "costume name"
+#~ msgstr "draktnavn"
 
 #~ msgid "Costumes:"
 #~ msgstr "Drakter:"
@@ -2012,9 +2039,6 @@ msgstr "tilfeldig sted"
 #~ msgid "lights"
 #~ msgstr "lys"
 
-#~ msgid "limit reached"
-#~ msgstr "ved grensen"
-
 #~ msgid "motor"
 #~ msgstr "motor"
 
@@ -2032,9 +2056,6 @@ msgstr "tilfeldig sted"
 
 #~ msgid "Replace existing project"
 #~ msgstr "Erstatt det nåværende prosjektet"
-
-#~ msgid "requires sign in"
-#~ msgstr "krever innlogging"
 
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "Scratch 2.0 for maskiner uten nettforbindelse"

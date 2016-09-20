@@ -780,9 +780,6 @@ msgstr "Asuste"
 msgid "Costume Library"
 msgstr "Asustekirjasto"
 
-msgid "costume name"
-msgstr "asusteen nimi"
-
 msgid "costume1"
 msgstr "asuste1"
 
@@ -1059,6 +1056,9 @@ msgstr "Kirjasto"
 
 msgid "light"
 msgstr "vaalea"
+
+msgid "limit reached"
+msgstr "raja saavutettu"
 
 msgid "Line"
 msgstr "Viiva"
@@ -1364,6 +1364,9 @@ msgstr "uudelleennimeä muuttuja"
 
 msgid "Replace existing project"
 msgstr ""
+
+msgid "requires sign in"
+msgstr "vaatii sisäänkirjautumisen"
 
 msgid "Reshape"
 msgstr "Uudelleenhahmota"
@@ -1922,6 +1925,27 @@ msgstr ""
 msgid "random position"
 msgstr ""
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "Suomi"
@@ -2018,6 +2042,9 @@ msgstr ""
 #~ msgid "Cloud"
 #~ msgstr "Pilvi"
 
+#~ msgid "costume name"
+#~ msgstr "asusteen nimi"
+
 #~ msgid "Costumes:"
 #~ msgstr "Asusteet:"
 
@@ -2034,9 +2061,6 @@ msgstr ""
 #~ msgid "lights"
 #~ msgstr "valot"
 
-#~ msgid "limit reached"
-#~ msgstr "raja saavutettu"
-
 #~ msgid "motor"
 #~ msgstr "moottori"
 
@@ -2051,9 +2075,6 @@ msgstr ""
 
 #~ msgid "Remove extension blocks"
 #~ msgstr "Poista laajennuslohkot"
-
-#~ msgid "requires sign in"
-#~ msgstr "vaatii sisäänkirjautumisen"
 
 #~ msgid "Scripts:"
 #~ msgstr "Skriptit:"

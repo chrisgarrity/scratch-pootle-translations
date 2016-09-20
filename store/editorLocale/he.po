@@ -461,8 +461,9 @@ msgstr "כאשר מתקבל מסר %m.broadcast"
 msgid "when I start as a clone"
 msgstr "כשאני מופעל ככפיל"
 
+#, fuzzy
 msgid "when Stage clicked"
-msgstr ""
+msgstr "כאשר לוחצים עלי"
 
 msgid "when this sprite clicked"
 msgstr "כאשר לוחצים על דמות זו"
@@ -781,9 +782,6 @@ msgstr "תלבושת1"
 msgid "Costume Library"
 msgstr "ספריית תלבושות"
 
-msgid "costume name"
-msgstr "שם התלבושת"
-
 msgid "costume1"
 msgstr "תלבושת1"
 
@@ -1075,6 +1073,9 @@ msgstr "אור"
 #, fuzzy
 msgid "lights"
 msgstr "אור"
+
+msgid "limit reached"
+msgstr "הגעה לקצה"
 
 msgid "Line"
 msgstr "קו"
@@ -1395,6 +1396,9 @@ msgstr "שנה שם משתנה"
 
 msgid "Replace existing project"
 msgstr ""
+
+msgid "requires sign in"
+msgstr "חובה להתחבר"
 
 msgid "Reshape"
 msgstr "שנה צורה"
@@ -1954,6 +1958,27 @@ msgstr ""
 msgid "random position"
 msgstr ""
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "עִבְרִית"
@@ -2035,14 +2060,11 @@ msgstr ""
 #~ msgid "Cloud"
 #~ msgstr "ענן"
 
+#~ msgid "costume name"
+#~ msgstr "שם התלבושת"
+
 #~ msgid "Costumes:"
 #~ msgstr "תלבושות:"
-
-#~ msgid "limit reached"
-#~ msgstr "הגעה לקצה"
-
-#~ msgid "requires sign in"
-#~ msgstr "חובה להתחבר"
 
 # 87%
 #~ msgid "Scripts:"

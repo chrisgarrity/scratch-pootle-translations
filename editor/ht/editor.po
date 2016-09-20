@@ -309,14 +309,14 @@ msgstr ""
 msgid "Costume"
 msgstr "Degizman"
 
-msgid "costume #"
-msgstr "degizman #"
+#~ msgid "costume #"
+#~ msgstr "degizman #"
 
 msgid "Costume Library"
 msgstr ""
 
-msgid "costume name"
-msgstr "non degizman"
+#~ msgid "costume name"
+#~ msgstr "non degizman"
 
 msgid "costume1"
 msgstr "degizman1"
@@ -1107,8 +1107,8 @@ msgstr ""
 msgid "sin"
 msgstr "sinis envès"
 
-msgid "size"
-msgstr "gwosè"
+#~ msgid "size"
+#~ msgstr "gwosè"
 
 msgid "slider"
 msgstr "glisè"
@@ -1394,11 +1394,11 @@ msgstr "Flit bwa"
 msgid "world"
 msgstr ""
 
-msgid "x position"
-msgstr "pozisyon x"
+#~ msgid "x position"
+#~ msgstr "pozisyon x"
 
-msgid "y position"
-msgstr "pozisyon y"
+#~ msgid "y position"
+#~ msgstr "pozisyon y"
 
 msgid "year"
 msgstr "ane"
@@ -1550,4 +1550,25 @@ msgid "when Stage clicked"
 msgstr ""
 
 msgid "random position"
+msgstr ""
+
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
 msgstr ""

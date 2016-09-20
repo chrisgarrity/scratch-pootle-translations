@@ -725,6 +725,9 @@ msgstr "Hi-Hata itxi"
 msgid "Cloud data"
 msgstr "Hodeieko datuak"
 
+msgid "Cloud variable (stored on server)"
+msgstr "Hodei-aldagaia (zerbitzarian gordea)"
+
 msgid "color"
 msgstr "kolorea"
 
@@ -760,9 +763,6 @@ msgstr "Mozorroa"
 
 msgid "Costume Library"
 msgstr "Mozorroen liburutegia"
-
-msgid "costume name"
-msgstr "mozorroaren izena"
 
 msgid "costume1"
 msgstr "mozorroa1"
@@ -1014,6 +1014,9 @@ msgstr "Liburutegia"
 
 msgid "light"
 msgstr "argia"
+
+msgid "limit reached"
+msgstr "mugara iritsita"
 
 msgid "Line"
 msgstr "Marra"
@@ -1310,6 +1313,9 @@ msgstr "Berrizendatu"
 
 msgid "rename variable"
 msgstr "aldagaia berrizendatu"
+
+msgid "requires sign in"
+msgstr "Saioa berriz hastea eskatzen da"
 
 msgid "Reshape"
 msgstr "Forma aldatu"
@@ -1840,6 +1846,27 @@ msgstr "Atzealdea ezabatu"
 msgid "random position"
 msgstr "ausazko kokapena"
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "Euskara"
@@ -1921,8 +1948,8 @@ msgstr "ausazko kokapena"
 #~ msgid "Cloud"
 #~ msgstr "Hodeia"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "Hodei-aldagaia (zerbitzarian gordea)"
+#~ msgid "costume name"
+#~ msgstr "mozorroaren izena"
 
 #~ msgid "Costumes:"
 #~ msgstr "Mozorroak:"
@@ -1961,9 +1988,6 @@ msgstr "ausazko kokapena"
 #~ msgid "lights"
 #~ msgstr "argiak"
 
-#~ msgid "limit reached"
-#~ msgstr "mugara iritsita"
-
 #~ msgid "motor"
 #~ msgstr "motorea"
 
@@ -1981,9 +2005,6 @@ msgstr "ausazko kokapena"
 
 #~ msgid "Replace existing project"
 #~ msgstr "Ordezkatu existitzen den proiektu bat"
-
-#~ msgid "requires sign in"
-#~ msgstr "Saioa berriz hastea eskatzen da"
 
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "Scratch 2.0 Offline Editorea"

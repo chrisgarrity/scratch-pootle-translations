@@ -281,8 +281,8 @@ msgstr "Charleston"
 msgid "Cloud data"
 msgstr "Datos in sa nue"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "Variàbile de sa nue (allogada in su serbidore)"
+msgid "Cloud variable (stored on server)"
+msgstr "Variàbile de sa nue (allogada in su serbidore)"
 
 msgid "color"
 msgstr "colore"
@@ -317,14 +317,14 @@ msgstr "cos"
 msgid "Costume"
 msgstr "Costùmene"
 
-msgid "costume #"
-msgstr "nùmeru costumène"
+#~ msgid "costume #"
+#~ msgstr "nùmeru costumène"
 
 msgid "Costume Library"
 msgstr "Regorta costùmenes"
 
-msgid "costume name"
-msgstr "nùmene costùmene"
+#~ msgid "costume name"
+#~ msgstr "nùmene costùmene"
 
 msgid "costume1"
 msgstr "costùmene1"
@@ -620,8 +620,8 @@ msgstr "lughe"
 #~ msgid "lights"
 #~ msgstr "lughes"
 
-#~ msgid "limit reached"
-#~ msgstr "làcana lòmpida"
+msgid "limit reached"
+msgstr "làcana lòmpida"
 
 msgid "Line"
 msgstr "Lìnia"
@@ -941,8 +941,8 @@ msgstr "càmbia nùmene a sa variàbile"
 #~ msgid "Replace existing project"
 #~ msgstr "Càmbia su progetu"
 
-#~ msgid "requires sign in"
-#~ msgstr "rechedet de imbucare"
+msgid "requires sign in"
+msgstr "rechedet de imbucare"
 
 msgid "Reshape"
 msgstr "Càmbia forma"
@@ -1110,8 +1110,8 @@ msgstr "mudu"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "mannària"
+#~ msgid "size"
+#~ msgstr "mannària"
 
 msgid "slider"
 msgstr "barra de iscurrimentu"
@@ -1401,11 +1401,11 @@ msgstr "Flàutu de Linna"
 #~ msgid "world"
 #~ msgstr "mundu"
 
-msgid "x position"
-msgstr "positzione x"
+#~ msgid "x position"
+#~ msgstr "positzione x"
 
-msgid "y position"
-msgstr "positzione y"
+#~ msgid "y position"
+#~ msgstr "positzione y"
 
 msgid "year"
 msgstr "annu"
@@ -1571,3 +1571,24 @@ msgstr ""
 
 msgid "random position"
 msgstr "positzione a casu"
+
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""

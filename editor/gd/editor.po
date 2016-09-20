@@ -283,8 +283,8 @@ msgstr "Hi-hat dùinte"
 msgid "Cloud data"
 msgstr "Dàta san neul"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "Caochladair san neul (ga stòradh air an fhrithealaiche)"
+msgid "Cloud variable (stored on server)"
+msgstr "Caochladair san neul (ga stòradh air an fhrithealaiche)"
 
 msgid "color"
 msgstr "datha"
@@ -319,14 +319,14 @@ msgstr "co-shìneas"
 msgid "Costume"
 msgstr "Aodach"
 
-msgid "costume #"
-msgstr "àireamh an aodaich"
+#~ msgid "costume #"
+#~ msgstr "àireamh an aodaich"
 
 msgid "Costume Library"
 msgstr "Leabhar-lann nan aodach"
 
-msgid "costume name"
-msgstr "ainm an aodaich"
+#~ msgid "costume name"
+#~ msgstr "ainm an aodaich"
 
 msgid "costume1"
 msgstr "aodach1"
@@ -621,8 +621,8 @@ msgstr "an solas"
 #~ msgid "lights"
 #~ msgstr "na solasan"
 
-#~ msgid "limit reached"
-#~ msgstr "crìoch air a ruigsinn"
+msgid "limit reached"
+msgstr "crìoch air a ruigsinn"
 
 msgid "Line"
 msgstr "Loidhne"
@@ -943,8 +943,8 @@ msgstr "thoir ainm ùr air caochladair"
 #~ msgid "Replace existing project"
 #~ msgstr "Cuir an àite pròiseict eile"
 
-#~ msgid "requires sign in"
-#~ msgstr "tha e ag iarraidh clàradh a-steach"
+msgid "requires sign in"
+msgstr "tha e ag iarraidh clàradh a-steach"
 
 msgid "Reshape"
 msgstr "Atharraich cruth"
@@ -1114,8 +1114,8 @@ msgstr "tost"
 msgid "sin"
 msgstr "sìneas"
 
-msgid "size"
-msgstr "meud"
+#~ msgid "size"
+#~ msgstr "meud"
 
 msgid "slider"
 msgstr "an sleamhnachan"
@@ -1409,11 +1409,11 @@ msgstr "Duiseal fiodha"
 #~ msgid "world"
 #~ msgstr "a shaoghail"
 
-msgid "x position"
-msgstr "ionad x"
+#~ msgid "x position"
+#~ msgstr "ionad x"
 
-msgid "y position"
-msgstr "ionad y"
+#~ msgid "y position"
+#~ msgstr "ionad y"
 
 msgid "year"
 msgstr "bliadhna"
@@ -1573,3 +1573,24 @@ msgstr ""
 
 msgid "random position"
 msgstr "ionad air thuaiream"
+
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""

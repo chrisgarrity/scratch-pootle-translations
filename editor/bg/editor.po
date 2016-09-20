@@ -286,8 +286,8 @@ msgstr "Затворен педален чинел"
 msgid "Cloud data"
 msgstr "Облачни данни"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "Облачна променлива (съхранявана на сървър)"
+msgid "Cloud variable (stored on server)"
+msgstr "Облачна променлива (съхранявана на сървър)"
 
 msgid "color"
 msgstr "цвят"
@@ -323,14 +323,14 @@ msgstr ""
 msgid "Costume"
 msgstr "Костюм"
 
-msgid "costume #"
-msgstr "костюм #"
+#~ msgid "costume #"
+#~ msgstr "костюм #"
 
 msgid "Costume Library"
 msgstr "Библиотека с костюми"
 
-msgid "costume name"
-msgstr "име на костюм"
+#~ msgid "costume name"
+#~ msgstr "име на костюм"
 
 msgid "costume1"
 msgstr "костюм1"
@@ -630,8 +630,8 @@ msgstr "осветеност"
 msgid "lights"
 msgstr "осветеност"
 
-#~ msgid "limit reached"
-#~ msgstr "достигнат е лимита"
+msgid "limit reached"
+msgstr "достигнат е лимита"
 
 msgid "Line"
 msgstr "Линия"
@@ -960,8 +960,8 @@ msgstr "преименуване на променливата"
 msgid "Replace existing project"
 msgstr ""
 
-#~ msgid "requires sign in"
-#~ msgstr "трябва да сте влезли"
+msgid "requires sign in"
+msgstr "трябва да сте влезли"
 
 msgid "Reshape"
 msgstr "Оформяне"
@@ -1133,8 +1133,8 @@ msgstr "тишина"
 msgid "sin"
 msgstr ""
 
-msgid "size"
-msgstr "размер"
+#~ msgid "size"
+#~ msgstr "размер"
 
 msgid "slider"
 msgstr "плъзгач"
@@ -1427,11 +1427,11 @@ msgstr "Дървена флейта"
 msgid "world"
 msgstr ""
 
-msgid "x position"
-msgstr "x позиция"
+#~ msgid "x position"
+#~ msgstr "x позиция"
 
-msgid "y position"
-msgstr "y позиция"
+#~ msgid "y position"
+#~ msgstr "y позиция"
 
 msgid "year"
 msgstr "година"
@@ -1645,4 +1645,25 @@ msgid "when Stage clicked"
 msgstr ""
 
 msgid "random position"
+msgstr ""
+
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
 msgstr ""

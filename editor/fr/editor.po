@@ -286,8 +286,8 @@ msgstr "Charleston fermé"
 msgid "Cloud data"
 msgstr "Données du Cloud"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "Variable serveur (stockée sur le Cloud)"
+msgid "Cloud variable (stored on server)"
+msgstr "Variable serveur (stockée sur le Cloud)"
 
 msgid "color"
 msgstr "couleur"
@@ -323,14 +323,14 @@ msgstr "cos"
 msgid "Costume"
 msgstr "Costume"
 
-msgid "costume #"
-msgstr "costume n°"
+#~ msgid "costume #"
+#~ msgstr "costume n°"
 
 msgid "Costume Library"
 msgstr "Bibliothèque des costumes"
 
-msgid "costume name"
-msgstr "nom du costume"
+#~ msgid "costume name"
+#~ msgstr "nom du costume"
 
 msgid "costume1"
 msgstr "costume1"
@@ -634,8 +634,8 @@ msgstr "lumière"
 #~ msgid "lights"
 #~ msgstr "lumières"
 
-#~ msgid "limit reached"
-#~ msgstr "limite atteinte"
+msgid "limit reached"
+msgstr "limite atteinte"
 
 msgid "Line"
 msgstr "Ligne"
@@ -963,8 +963,8 @@ msgstr "renommer la variable"
 #~ msgid "Replace existing project"
 #~ msgstr "Remplacer un projet existant"
 
-#~ msgid "requires sign in"
-#~ msgstr "exige de s'inscrire"
+msgid "requires sign in"
+msgstr "exige de s'inscrire"
 
 msgid "Reshape"
 msgstr "Redessiner"
@@ -1135,8 +1135,8 @@ msgstr "silence"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "taille"
+#~ msgid "size"
+#~ msgstr "taille"
 
 msgid "slider"
 msgstr "potentiomètre"
@@ -1434,11 +1434,11 @@ msgstr "Flûte en bois"
 #~ msgid "world"
 #~ msgstr "monde"
 
-msgid "x position"
-msgstr "position x"
+#~ msgid "x position"
+#~ msgstr "position x"
 
-msgid "y position"
-msgstr "position y"
+#~ msgid "y position"
+#~ msgstr "position y"
 
 msgid "year"
 msgstr "année"
@@ -1752,3 +1752,24 @@ msgstr ""
 
 msgid "random position"
 msgstr "Position aléatoire"
+
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""

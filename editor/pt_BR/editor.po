@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2016-06-07 14:23+0000\n"
-"Last-Translator: Alexandre <khemis@bol.com.br>\n"
+"PO-Revision-Date: 2016-09-15 00:56+0000\n"
+"Last-Translator: jlmmorais <wannoby@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1465309420.000000\n"
+"X-POOTLE-MTIME: 1473900967.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -280,8 +280,8 @@ msgstr "Chimbal fechado"
 msgid "Cloud data"
 msgstr "Dados da nuvem"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "Variável na nuvem (armazenada no servidor)"
+msgid "Cloud variable (stored on server)"
+msgstr "Variável na nuvem (armazenada no servidor)"
 
 msgid "color"
 msgstr "cor"
@@ -316,14 +316,14 @@ msgstr "cosseno"
 msgid "Costume"
 msgstr "Fantasia"
 
-msgid "costume #"
-msgstr "n° da fantasia"
+#~ msgid "costume #"
+#~ msgstr "n° da fantasia"
 
 msgid "Costume Library"
 msgstr "Biblioteca de Fantasias"
 
-msgid "costume name"
-msgstr "nome da fantasia"
+#~ msgid "costume name"
+#~ msgstr "nome da fantasia"
 
 msgid "costume1"
 msgstr "fantasia1"
@@ -620,8 +620,8 @@ msgstr "luz"
 #~ msgid "lights"
 #~ msgstr "luzes"
 
-#~ msgid "limit reached"
-#~ msgstr "limite atingido"
+msgid "limit reached"
+msgstr "limite atingido"
 
 msgid "Line"
 msgstr "Linha"
@@ -944,8 +944,8 @@ msgstr "renomear variável"
 #~ msgid "Replace existing project"
 #~ msgstr "Substituir o projeto existente"
 
-#~ msgid "requires sign in"
-#~ msgstr "requer autenticação"
+msgid "requires sign in"
+msgstr "requer autenticação"
 
 msgid "Reshape"
 msgstr "Remodelar"
@@ -1116,8 +1116,8 @@ msgstr "silêncio"
 msgid "sin"
 msgstr "seno"
 
-msgid "size"
-msgstr "tamanho"
+#~ msgid "size"
+#~ msgstr "tamanho"
 
 msgid "slider"
 msgstr "controle deslizante"
@@ -1414,11 +1414,11 @@ msgstr "Flauta de Madeira"
 #~ msgid "world"
 #~ msgstr "mundo"
 
-msgid "x position"
-msgstr "coordenada x da posição"
+#~ msgid "x position"
+#~ msgstr "coordenada x da posição"
 
-msgid "y position"
-msgstr "coordenada y da posição"
+#~ msgid "y position"
+#~ msgstr "coordenada y da posição"
 
 msgid "year"
 msgstr "ano"
@@ -1584,3 +1584,24 @@ msgstr "qualquer"
 
 msgid "random position"
 msgstr "posição aleatória"
+
+msgid "Cloud list (stored on server)"
+msgstr "Lista da nuvem (armazenada no servidor)"
+
+msgid "Dance"
+msgstr "Dançar"
+
+msgid "Dress-Up"
+msgstr "Vestir-se"
+
+msgid "Music"
+msgstr "Música"
+
+msgid "Musical Notes"
+msgstr "Notas Musicais"
+
+msgid "My Class"
+msgstr "Minha Turma"
+
+msgid "My Classes"
+msgstr "Minhas Turmas"

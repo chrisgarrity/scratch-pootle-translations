@@ -471,8 +471,9 @@ msgstr "כאשר מתקבל מסר %m.broadcast"
 msgid "when I start as a clone"
 msgstr "כשאני מופעל ככפיל"
 
+#, fuzzy
 msgid "when Stage clicked"
-msgstr ""
+msgstr "כאשר לוחצים עלי"
 
 msgid "when this sprite clicked"
 msgstr "כאשר לוחצים על דמות זו"

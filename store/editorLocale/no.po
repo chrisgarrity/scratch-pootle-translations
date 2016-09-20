@@ -464,8 +464,9 @@ msgstr "når jeg mottar %m.broadcast"
 msgid "when I start as a clone"
 msgstr "når jeg starter som klon"
 
+#, fuzzy
 msgid "when Stage clicked"
-msgstr ""
+msgstr "når jeg klikkes"
 
 msgid "when this sprite clicked"
 msgstr "når denne figuren klikkes"
@@ -794,9 +795,6 @@ msgstr "drakt1"
 
 msgid "Costume Library"
 msgstr ""
-
-msgid "costume name"
-msgstr "draktnavn"
 
 msgid "costume1"
 msgstr "drakt1"
@@ -2027,6 +2025,27 @@ msgstr ""
 msgid "random position"
 msgstr ""
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "Norsk"
@@ -2111,6 +2130,9 @@ msgstr ""
 
 #~ msgid "when I am clicked"
 #~ msgstr "når jeg klikkes"
+
+#~ msgid "costume name"
+#~ msgstr "draktnavn"
 
 #~ msgid "show receivers"
 #~ msgstr "vis mottakere"

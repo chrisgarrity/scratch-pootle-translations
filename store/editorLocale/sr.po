@@ -749,7 +749,7 @@ msgid "Cloud data"
 msgstr "Интернет подаци у облаку"
 
 msgid "Cloud variable (stored on server)"
-msgstr ""
+msgstr "Променљива у облаку (чува се на серверу путем интернета)"
 
 msgid "color"
 msgstr "боја"
@@ -787,9 +787,6 @@ msgstr "Костим"
 
 msgid "Costume Library"
 msgstr "Библиотека костима"
-
-msgid "costume name"
-msgstr "име костима"
 
 msgid "costume1"
 msgstr "костим1"
@@ -1080,6 +1077,9 @@ msgstr "светло"
 #, fuzzy
 msgid "lights"
 msgstr "светло"
+
+msgid "limit reached"
+msgstr "достигнута је граница"
 
 msgid "Line"
 msgstr "Линија"
@@ -1398,6 +1398,9 @@ msgstr "преименуј променљиву"
 
 msgid "Replace existing project"
 msgstr ""
+
+msgid "requires sign in"
+msgstr "потребно је да будеш пријављен"
 
 msgid "Reshape"
 msgstr "Преобликуј"
@@ -1965,6 +1968,27 @@ msgstr "Уклони позадину"
 msgid "random position"
 msgstr "случајан положај"
 
+msgid "Cloud list (stored on server)"
+msgstr "Листа у облаку (чува се на серверу путем интернета)"
+
+msgid "Dance"
+msgstr "Плес"
+
+msgid "Dress-Up"
+msgstr "Облачење, дотеривање"
+
+msgid "Music"
+msgstr "Музика"
+
+msgid "Musical Notes"
+msgstr "Музичке ноте"
+
+msgid "My Class"
+msgstr "Моје одељење"
+
+msgid "My Classes"
+msgstr "Моја Одељењљ"
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "Српски"
@@ -2049,16 +2073,13 @@ msgstr "случајан положај"
 #~ msgid "Cloud"
 #~ msgstr "Облак"
 
+#~ msgid "costume name"
+#~ msgstr "име костима"
+
 # 75%
 # 88%
 #~ msgid "Costumes:"
 #~ msgstr "Костими:"
-
-#~ msgid "limit reached"
-#~ msgstr "достигнута је граница"
-
-#~ msgid "requires sign in"
-#~ msgstr "потребно је да будеш пријављен"
 
 # 87%
 #~ msgid "Scripts:"

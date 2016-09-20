@@ -313,8 +313,9 @@ msgstr "Imitare"
 msgid "Copying..."
 msgstr "Duplicatur..."
 
+#, fuzzy
 msgid "cos"
-msgstr ""
+msgstr "acos"
 
 msgid "Costume"
 msgstr "Vestitus"
@@ -328,11 +329,13 @@ msgstr "Museum vestituus"
 msgid "costume name"
 msgstr ""
 
+#, fuzzy
 msgid "costume1"
-msgstr ""
+msgstr "Vestitus"
 
+#, fuzzy
 msgid "costume2"
-msgstr ""
+msgstr "Vestitus"
 
 msgid "Costumes"
 msgstr "Vestitus"
@@ -407,8 +410,9 @@ msgstr "In computatorem tuum acquirere"
 msgid "Downloading new version"
 msgstr ""
 
+#, fuzzy
 msgid "duplicate"
-msgstr ""
+msgstr "Duplicare"
 
 msgid "Duplicate"
 msgstr "Duplicare"
@@ -422,8 +426,9 @@ msgstr ""
 msgid "Edit"
 msgstr "Mutare"
 
+#, fuzzy
 msgid "edit"
-msgstr ""
+msgstr "Mutare"
 
 msgid "Edit Block"
 msgstr "Quadratum programmatis mutare"
@@ -1105,8 +1110,9 @@ msgstr ""
 msgid "silence"
 msgstr ""
 
+#, fuzzy
 msgid "sin"
-msgstr ""
+msgstr "asin"
 
 msgid "size"
 msgstr ""
@@ -1189,8 +1195,9 @@ msgstr ""
 msgid "Tambourine"
 msgstr ""
 
+#, fuzzy
 msgid "tan"
-msgstr ""
+msgstr "atan"
 
 msgid "text"
 msgstr ""
@@ -1545,4 +1552,25 @@ msgid "when Stage clicked"
 msgstr ""
 
 msgid "random position"
+msgstr ""
+
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
 msgstr ""

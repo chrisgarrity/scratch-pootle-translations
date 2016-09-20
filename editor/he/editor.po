@@ -317,14 +317,14 @@ msgstr "cos"
 msgid "Costume"
 msgstr "תלבושת1"
 
-msgid "costume #"
-msgstr "תלבושת #"
+#~ msgid "costume #"
+#~ msgstr "תלבושת #"
 
 msgid "Costume Library"
 msgstr "ספריית תלבושות"
 
-msgid "costume name"
-msgstr "שם התלבושת"
+#~ msgid "costume name"
+#~ msgstr "שם התלבושת"
 
 msgid "costume1"
 msgstr "תלבושת1"
@@ -627,8 +627,8 @@ msgstr "אור"
 msgid "lights"
 msgstr "אור"
 
-#~ msgid "limit reached"
-#~ msgstr "הגעה לקצה"
+msgid "limit reached"
+msgstr "הגעה לקצה"
 
 msgid "Line"
 msgstr "קו"
@@ -956,8 +956,8 @@ msgstr "שנה שם משתנה"
 msgid "Replace existing project"
 msgstr ""
 
-#~ msgid "requires sign in"
-#~ msgstr "חובה להתחבר"
+msgid "requires sign in"
+msgstr "חובה להתחבר"
 
 msgid "Reshape"
 msgstr "שנה צורה"
@@ -1127,8 +1127,8 @@ msgstr "שקט"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "גודל"
+#~ msgid "size"
+#~ msgstr "גודל"
 
 msgid "slider"
 msgstr "גולל"
@@ -1418,11 +1418,11 @@ msgstr "חליל עץ"
 msgid "world"
 msgstr ""
 
-msgid "x position"
-msgstr "מיקום על ציר ה-x"
+#~ msgid "x position"
+#~ msgstr "מיקום על ציר ה-x"
 
-msgid "y position"
-msgstr "מיקום על ציר ה-y"
+#~ msgid "y position"
+#~ msgstr "מיקום על ציר ה-y"
 
 msgid "year"
 msgstr "שנה"
@@ -1661,4 +1661,25 @@ msgid "when Stage clicked"
 msgstr ""
 
 msgid "random position"
+msgstr ""
+
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
 msgstr ""

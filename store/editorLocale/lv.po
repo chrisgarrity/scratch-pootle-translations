@@ -729,6 +729,9 @@ msgstr "Slēgtai Hi-Hat šķīvji"
 msgid "Cloud data"
 msgstr "Mākoņdati"
 
+msgid "Cloud variable (stored on server)"
+msgstr "Mākoņmainīgais (saglabāts serverī)"
+
 msgid "color"
 msgstr "krāsa"
 
@@ -765,9 +768,6 @@ msgstr "Tērps"
 
 msgid "Costume Library"
 msgstr "Tērpu bibliotēka"
-
-msgid "costume name"
-msgstr "tērpa nosaukums"
 
 msgid "costume1"
 msgstr "tērps1"
@@ -1021,6 +1021,9 @@ msgstr "Bibliotēka"
 
 msgid "light"
 msgstr "gaisma"
+
+msgid "limit reached"
+msgstr "limits sasniegts"
 
 msgid "Line"
 msgstr "Līnija"
@@ -1320,6 +1323,9 @@ msgstr "Pārsaukt"
 
 msgid "rename variable"
 msgstr "pārsaukt mainīgo"
+
+msgid "requires sign in"
+msgstr "nepieciešams pieslēgties"
 
 msgid "Reshape"
 msgstr "Pārveidot"
@@ -1853,6 +1859,27 @@ msgstr ""
 msgid "random position"
 msgstr ""
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "Latviešu"
@@ -1925,8 +1952,8 @@ msgstr ""
 #~ msgid "Cloud"
 #~ msgstr "Mākonis"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "Mākoņmainīgais (saglabāts serverī)"
+#~ msgid "costume name"
+#~ msgstr "tērpa nosaukums"
 
 # 75%
 # 88%
@@ -1967,9 +1994,6 @@ msgstr ""
 #~ msgid "lights"
 #~ msgstr "gaismas"
 
-#~ msgid "limit reached"
-#~ msgstr "limits sasniegts"
-
 #~ msgid "motor"
 #~ msgstr "motors"
 
@@ -1987,9 +2011,6 @@ msgstr ""
 
 #~ msgid "Replace existing project"
 #~ msgstr "Aizvietot esošu projektu"
-
-#~ msgid "requires sign in"
-#~ msgstr "nepieciešams pieslēgties"
 
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "Scatch 2.0 Bezsaistes redaktors"

@@ -290,8 +290,8 @@ msgstr "Slēgtai Hi-Hat šķīvji"
 msgid "Cloud data"
 msgstr "Mākoņdati"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "Mākoņmainīgais (saglabāts serverī)"
+msgid "Cloud variable (stored on server)"
+msgstr "Mākoņmainīgais (saglabāts serverī)"
 
 msgid "color"
 msgstr "krāsa"
@@ -327,14 +327,14 @@ msgstr "cos"
 msgid "Costume"
 msgstr "Tērps"
 
-msgid "costume #"
-msgstr "tērps nr"
+#~ msgid "costume #"
+#~ msgstr "tērps nr"
 
 msgid "Costume Library"
 msgstr "Tērpu bibliotēka"
 
-msgid "costume name"
-msgstr "tērpa nosaukums"
+#~ msgid "costume name"
+#~ msgstr "tērpa nosaukums"
 
 msgid "costume1"
 msgstr "tērps1"
@@ -634,8 +634,8 @@ msgstr "gaisma"
 #~ msgid "lights"
 #~ msgstr "gaismas"
 
-#~ msgid "limit reached"
-#~ msgstr "limits sasniegts"
+msgid "limit reached"
+msgstr "limits sasniegts"
 
 msgid "Line"
 msgstr "Līnija"
@@ -960,8 +960,8 @@ msgstr "pārsaukt mainīgo"
 #~ msgid "Replace existing project"
 #~ msgstr "Aizvietot esošu projektu"
 
-#~ msgid "requires sign in"
-#~ msgstr "nepieciešams pieslēgties"
+msgid "requires sign in"
+msgstr "nepieciešams pieslēgties"
 
 msgid "Reshape"
 msgstr "Pārveidot"
@@ -1129,8 +1129,8 @@ msgstr "klusums"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "izmērs"
+#~ msgid "size"
+#~ msgstr "izmērs"
 
 msgid "slider"
 msgstr "slīdnis"
@@ -1426,11 +1426,11 @@ msgstr "Koka flauta"
 #~ msgid "world"
 #~ msgstr "pasaule"
 
-msgid "x position"
-msgstr "x pozīcija"
+#~ msgid "x position"
+#~ msgstr "x pozīcija"
 
-msgid "y position"
-msgstr "y pozīcija"
+#~ msgid "y position"
+#~ msgstr "y pozīcija"
 
 msgid "year"
 msgstr "gads"
@@ -1653,4 +1653,25 @@ msgid "when Stage clicked"
 msgstr ""
 
 msgid "random position"
+msgstr ""
+
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
 msgstr ""

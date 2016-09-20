@@ -289,8 +289,8 @@ msgstr "Закритий хет"
 msgid "Cloud data"
 msgstr "Хмарні дані"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "\"Хмарна\" змінна (зберігається на сервері)"
+msgid "Cloud variable (stored on server)"
+msgstr "\"Хмарна\" змінна (зберігається на сервері)"
 
 msgid "color"
 msgstr "колір"
@@ -326,14 +326,14 @@ msgstr "cos"
 msgid "Costume"
 msgstr "Образ"
 
-msgid "costume #"
-msgstr "образ #"
+#~ msgid "costume #"
+#~ msgstr "образ #"
 
 msgid "Costume Library"
 msgstr "Бібліотека образів"
 
-msgid "costume name"
-msgstr "ім’я образу:"
+#~ msgid "costume name"
+#~ msgstr "ім’я образу:"
 
 msgid "costume1"
 msgstr "образ1"
@@ -633,8 +633,8 @@ msgstr "світло"
 #~ msgid "lights"
 #~ msgstr "вогні"
 
-#~ msgid "limit reached"
-#~ msgstr "досягнуто межі"
+msgid "limit reached"
+msgstr "досягнуто межі"
 
 msgid "Line"
 msgstr "Лінія"
@@ -962,8 +962,8 @@ msgstr "перейменувати змінну"
 #~ msgid "Replace existing project"
 #~ msgstr "Замінити існуючий проект"
 
-#~ msgid "requires sign in"
-#~ msgstr "потрібно ввійти"
+msgid "requires sign in"
+msgstr "потрібно ввійти"
 
 msgid "Reshape"
 msgstr "Реформувати"
@@ -1134,8 +1134,8 @@ msgstr "тихо"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "розмір"
+#~ msgid "size"
+#~ msgstr "розмір"
 
 msgid "slider"
 msgstr "слайдер"
@@ -1430,11 +1430,11 @@ msgstr "Дерев’яна флейта"
 #~ msgid "world"
 #~ msgstr "світ"
 
-msgid "x position"
-msgstr "х позиція"
+#~ msgid "x position"
+#~ msgstr "х позиція"
 
-msgid "y position"
-msgstr "у позиція"
+#~ msgid "y position"
+#~ msgstr "у позиція"
 
 msgid "year"
 msgstr "рік"
@@ -1744,4 +1744,25 @@ msgid "when Stage clicked"
 msgstr ""
 
 msgid "random position"
+msgstr ""
+
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
 msgstr ""

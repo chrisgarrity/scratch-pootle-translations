@@ -279,8 +279,8 @@ msgstr "Sera Hi-Hat"
 msgid "Cloud data"
 msgstr "Data di cloud"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "Variabel di cloud (wardá riba server)"
+msgid "Cloud variable (stored on server)"
+msgstr "Variabel di cloud (wardá riba server)"
 
 msgid "color"
 msgstr "kolor"
@@ -315,14 +315,14 @@ msgstr "cos"
 msgid "Costume"
 msgstr "Trage"
 
-msgid "costume #"
-msgstr "trage #"
+#~ msgid "costume #"
+#~ msgstr "trage #"
 
 msgid "Costume Library"
 msgstr "Biblioteka di Trage"
 
-msgid "costume name"
-msgstr "nomber di trage"
+#~ msgid "costume name"
+#~ msgstr "nomber di trage"
 
 msgid "costume1"
 msgstr "trage1"
@@ -625,8 +625,8 @@ msgstr "derechi"
 msgid "lights"
 msgstr "derechi"
 
-#~ msgid "limit reached"
-#~ msgstr "limite a wordu alkansá"
+msgid "limit reached"
+msgstr "limite a wordu alkansá"
 
 msgid "Line"
 msgstr "Linea"
@@ -946,8 +946,8 @@ msgstr "renombrá variabel"
 #~ msgid "Replace existing project"
 #~ msgstr "Reemplasá proyekto eksistente"
 
-#~ msgid "requires sign in"
-#~ msgstr "registrashon ta rekerí"
+msgid "requires sign in"
+msgstr "registrashon ta rekerí"
 
 msgid "Reshape"
 msgstr "Reformá"
@@ -1115,8 +1115,8 @@ msgstr "silensio"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "grandura"
+#~ msgid "size"
+#~ msgstr "grandura"
 
 msgid "slider"
 msgstr "slaider"
@@ -1409,11 +1409,11 @@ msgstr "Fluit di palu"
 #~ msgid "world"
 #~ msgstr "mundu"
 
-msgid "x position"
-msgstr "posishon x"
+#~ msgid "x position"
+#~ msgstr "posishon x"
 
-msgid "y position"
-msgstr "posishon y"
+#~ msgid "y position"
+#~ msgstr "posishon y"
 
 msgid "year"
 msgstr "aña"
@@ -1571,4 +1571,25 @@ msgid "when Stage clicked"
 msgstr ""
 
 msgid "random position"
+msgstr ""
+
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
 msgstr ""

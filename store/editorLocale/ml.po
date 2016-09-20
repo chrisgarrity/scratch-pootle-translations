@@ -769,9 +769,6 @@ msgstr "രൂപം"
 msgid "Costume Library"
 msgstr "രൂപങ്ങളുടെ കൂട്ടം"
 
-msgid "costume name"
-msgstr "രൂപത്തിന്‍റെ പേര്"
-
 msgid "costume1"
 msgstr "രൂപം 1"
 
@@ -1055,6 +1052,9 @@ msgstr "പ്രകാശം"
 #, fuzzy
 msgid "lights"
 msgstr "പ്രകാശം"
+
+msgid "limit reached"
+msgstr "പരിധി എത്തിച്ചേര്‍ന്നു"
 
 msgid "Line"
 msgstr "വര"
@@ -1362,6 +1362,9 @@ msgstr "ചരത്തിനു പുതിയ പേര് കൊടുക്
 
 msgid "Replace existing project"
 msgstr ""
+
+msgid "requires sign in"
+msgstr "അകത്തു പ്രവേശിക്കണം"
 
 msgid "Reshape"
 msgstr "വീണ്ടും രൂപപ്പെടുത്തുക"
@@ -1923,6 +1926,27 @@ msgstr ""
 msgid "random position"
 msgstr ""
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "മലയാളം"
@@ -1973,14 +1997,14 @@ msgstr ""
 #~ msgid "Cloud"
 #~ msgstr "ക്ലൌഡ്"
 
+#~ msgid "costume name"
+#~ msgstr "രൂപത്തിന്‍റെ പേര്"
+
 #~ msgid "Costumes:"
 #~ msgstr "രൂപങ്ങള്‍:"
 
 #~ msgid "Extension Library"
 #~ msgstr "വിപുലീകരിച്ച ലൈബ്രറി"
-
-#~ msgid "limit reached"
-#~ msgstr "പരിധി എത്തിച്ചേര്‍ന്നു"
 
 #~ msgid "motor"
 #~ msgstr "മോട്ടോര്‍"
@@ -1990,9 +2014,6 @@ msgstr ""
 
 #~ msgid "motor B"
 #~ msgstr "മോട്ടോര്‍ "
-
-#~ msgid "requires sign in"
-#~ msgstr "അകത്തു പ്രവേശിക്കണം"
 
 #~ msgid "Scripts:"
 #~ msgstr "പ്രോഗ്രാമുകള്‍:"

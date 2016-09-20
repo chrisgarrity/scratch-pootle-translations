@@ -764,9 +764,6 @@ msgstr "Búningur"
 msgid "Costume Library"
 msgstr "Búningasafn"
 
-msgid "costume name"
-msgstr "heiti búnings"
-
 msgid "costume1"
 msgstr "búningur1"
 
@@ -1054,6 +1051,9 @@ msgstr "ljós"
 #, fuzzy
 msgid "lights"
 msgstr "ljós"
+
+msgid "limit reached"
+msgstr "marki náð"
 
 msgid "Line"
 msgstr "Lína"
@@ -1369,6 +1369,9 @@ msgstr "Endurskýra breytu"
 
 msgid "Replace existing project"
 msgstr ""
+
+msgid "requires sign in"
+msgstr "þarfnast innskráningar"
 
 msgid "Reshape"
 msgstr "Ummynda"
@@ -1932,6 +1935,27 @@ msgstr "Fjarlægja bakgrunn"
 msgid "random position"
 msgstr "slembin staðsetning"
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "Íslenska"
@@ -2038,14 +2062,11 @@ msgstr "slembin staðsetning"
 #~ msgid "Cloud"
 #~ msgstr "Ský"
 
+#~ msgid "costume name"
+#~ msgstr "heiti búnings"
+
 #~ msgid "Costumes:"
 #~ msgstr "Búningar:"
-
-#~ msgid "limit reached"
-#~ msgstr "marki náð"
-
-#~ msgid "requires sign in"
-#~ msgstr "þarfnast innskráningar"
 
 #~ msgid "Scripts:"
 #~ msgstr "Stefjur:"

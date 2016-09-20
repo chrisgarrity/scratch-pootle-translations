@@ -773,9 +773,6 @@ msgstr "Ενδυμασία"
 msgid "Costume Library"
 msgstr "Βιβλιοθήκη Ενδυμασιών"
 
-msgid "costume name"
-msgstr "Όνομα ενδυμασίας"
-
 msgid "costume1"
 msgstr "ενδυμασία1"
 
@@ -1063,6 +1060,9 @@ msgstr "φως"
 #, fuzzy
 msgid "lights"
 msgstr "φως"
+
+msgid "limit reached"
+msgstr "Το όριο έχει φταστεί"
 
 msgid "Line"
 msgstr "Γραμμή"
@@ -1379,6 +1379,9 @@ msgstr "Μετονομασία Μεταβλητής"
 msgid "Replace existing project"
 msgstr ""
 
+msgid "requires sign in"
+msgstr "Απαιτείται σύνδεση Λογαριασμού"
+
 msgid "Reshape"
 msgstr "Αλλαγή του σχήματος"
 
@@ -1430,8 +1433,9 @@ msgstr "Αποθήκευση ενός Αντιγράφου"
 msgid "Save now"
 msgstr "Αποθήκευση τώρα"
 
+#, fuzzy
 msgid "Save project?"
-msgstr ""
+msgstr "Αποθήκευση έργου"
 
 msgid "save to local file"
 msgstr "Αποθήκευση σε Τοπικό Αρχείο"
@@ -1939,6 +1943,27 @@ msgstr "Αφαίρεση υπόβαθρου"
 msgid "random position"
 msgstr ""
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "Ελληνικά"
@@ -2030,14 +2055,11 @@ msgstr ""
 #~ msgid "Cloud"
 #~ msgstr "Cloud"
 
+#~ msgid "costume name"
+#~ msgstr "Όνομα ενδυμασίας"
+
 #~ msgid "Costumes:"
 #~ msgstr "Ενδυμασίες:"
-
-#~ msgid "limit reached"
-#~ msgstr "Το όριο έχει φταστεί"
-
-#~ msgid "requires sign in"
-#~ msgstr "Απαιτείται σύνδεση Λογαριασμού"
 
 #~ msgid "Scripts:"
 #~ msgstr "Σενάρια:"

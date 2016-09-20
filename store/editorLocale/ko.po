@@ -737,6 +737,9 @@ msgstr "닫힌 하이-햇"
 msgid "Cloud data"
 msgstr "클라우드 데이터"
 
+msgid "Cloud variable (stored on server)"
+msgstr "클라우드 변수 (서버에 저장됨)"
+
 msgid "color"
 msgstr "색깔"
 
@@ -773,9 +776,6 @@ msgstr "모양"
 msgid "Costume Library"
 msgstr "모양 저장소"
 
-msgid "costume name"
-msgstr "모양 이름"
-
 msgid "costume1"
 msgstr "모양1"
 
@@ -801,7 +801,6 @@ msgid "Creating..."
 msgstr "생성중..."
 
 # A user reported that this message is translated as "'only Scratch members can use Cloud variables', and suggested a different translation. Please review.
-#  
 msgid "Currently, only numbers can be stored in Cloud variables."
 msgstr "현재, 스크래치 회원만 클라우드 변수를 사용할 수 있습니다."
 
@@ -1029,6 +1028,9 @@ msgstr "저장소"
 
 msgid "light"
 msgstr "빛"
+
+msgid "limit reached"
+msgstr "한계에 도달함"
 
 msgid "Line"
 msgstr "선"
@@ -1325,6 +1327,9 @@ msgstr "이름 수정하기"
 
 msgid "rename variable"
 msgstr "변수 이름 수정하기"
+
+msgid "requires sign in"
+msgstr "로그인 필요"
 
 msgid "Reshape"
 msgstr "형태고치기"
@@ -1860,6 +1865,27 @@ msgstr "배경 없애기"
 msgid "random position"
 msgstr "랜덤 위치"
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "한국어"
@@ -1942,8 +1968,8 @@ msgstr "랜덤 위치"
 #~ msgid "Cloud"
 #~ msgstr "클라우드"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "클라우드 변수 (서버에 저장됨)"
+#~ msgid "costume name"
+#~ msgstr "모양 이름"
 
 # 88%
 #~ msgid "Costumes:"
@@ -1983,9 +2009,6 @@ msgstr "랜덤 위치"
 #~ msgid "lights"
 #~ msgstr "빛"
 
-#~ msgid "limit reached"
-#~ msgstr "한계에 도달함"
-
 #~ msgid "motor"
 #~ msgstr "모터"
 
@@ -2003,9 +2026,6 @@ msgstr "랜덤 위치"
 
 #~ msgid "Replace existing project"
 #~ msgstr "기존 프로젝트 대체하기"
-
-#~ msgid "requires sign in"
-#~ msgstr "로그인 필요"
 
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "스크래치 2.0 오프라인 에디터"

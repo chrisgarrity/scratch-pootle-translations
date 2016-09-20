@@ -774,9 +774,6 @@ msgstr "コスチューム"
 msgid "Costume Library"
 msgstr "コスチュームライブラリー"
 
-msgid "costume name"
-msgstr "コスチュームめい"
-
 msgid "costume1"
 msgstr "コスチューム1"
 
@@ -1050,6 +1047,9 @@ msgstr "ライブラリ"
 
 msgid "light"
 msgstr "あかるさ"
+
+msgid "limit reached"
+msgstr "げんかいにとうたつ"
 
 msgid "Line"
 msgstr "ちょくせん"
@@ -1350,6 +1350,9 @@ msgstr "へんすうめいをへんこう"
 
 msgid "Replace existing project"
 msgstr ""
+
+msgid "requires sign in"
+msgstr "サインインがひつようです"
 
 msgid "Reshape"
 msgstr "かたちをかえる"
@@ -1906,6 +1909,27 @@ msgstr "にんいの"
 msgid "random position"
 msgstr "ランダムなばしょ"
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "にほんご"
@@ -2005,6 +2029,9 @@ msgstr "ランダムなばしょ"
 #~ msgid "Cloud"
 #~ msgstr "クラウド"
 
+#~ msgid "costume name"
+#~ msgstr "コスチュームめい"
+
 #~ msgid "Costumes:"
 #~ msgstr "コスチューム:"
 
@@ -2021,9 +2048,6 @@ msgstr "ランダムなばしょ"
 #~ msgid "lights"
 #~ msgstr "あかるさ"
 
-#~ msgid "limit reached"
-#~ msgstr "げんかいにとうたつ"
-
 #~ msgid "motor"
 #~ msgstr "モーター"
 
@@ -2038,9 +2062,6 @@ msgstr "ランダムなばしょ"
 
 #~ msgid "Remove extension blocks"
 #~ msgstr "かくちょうブロックをさくじょ"
-
-#~ msgid "requires sign in"
-#~ msgstr "サインインがひつようです"
 
 #~ msgid "Scripts:"
 #~ msgstr "スクリプト:"

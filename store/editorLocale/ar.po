@@ -738,6 +738,9 @@ msgstr "Closed Hi-Hat"
 msgid "Cloud data"
 msgstr "البيانات السحابية"
 
+msgid "Cloud variable (stored on server)"
+msgstr "متغير سحابي (مخزّن على المخدّم)"
+
 msgid "color"
 msgstr "اللون"
 
@@ -775,9 +778,6 @@ msgstr "المظهر"
 
 msgid "Costume Library"
 msgstr "مكتبة المظاهر"
-
-msgid "costume name"
-msgstr "اسم المظهر"
 
 msgid "costume1"
 msgstr "المظهر ١"
@@ -1033,6 +1033,9 @@ msgstr "المكتبة"
 
 msgid "light"
 msgstr "الضوء"
+
+msgid "limit reached"
+msgstr "وصلت الحد الأقصى"
 
 msgid "Line"
 msgstr "خط مستقيم"
@@ -1337,6 +1340,10 @@ msgstr "إعادة تسمية المتغير"
 
 msgid "Replace existing project"
 msgstr ""
+
+# 75%
+msgid "requires sign in"
+msgstr "يتطلب تسجيل الدخول"
 
 msgid "Reshape"
 msgstr "إعادة تشكيل"
@@ -1873,6 +1880,27 @@ msgstr "إزالة الخلفية"
 msgid "random position"
 msgstr "موضع عشوائي"
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "العربية"
@@ -1987,8 +2015,8 @@ msgstr "موضع عشوائي"
 #~ msgid "Cloud"
 #~ msgstr "السحابة"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "متغير سحابي (مخزّن على المخدّم)"
+#~ msgid "costume name"
+#~ msgstr "اسم المظهر"
 
 # 75%
 # 88%
@@ -2029,9 +2057,6 @@ msgstr "موضع عشوائي"
 #~ msgid "lights"
 #~ msgstr "الضوء"
 
-#~ msgid "limit reached"
-#~ msgstr "وصلت الحد الأقصى"
-
 #~ msgid "motor"
 #~ msgstr "المحرك"
 
@@ -2046,10 +2071,6 @@ msgstr "موضع عشوائي"
 
 #~ msgid "Remove extension blocks"
 #~ msgstr "إزالة لبنات الإضافة"
-
-# 75%
-#~ msgid "requires sign in"
-#~ msgstr "يتطلب تسجيل الدخول"
 
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "سكراتش ٢,٠"

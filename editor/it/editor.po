@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2016-03-11 06:53+0000\n"
+"PO-Revision-Date: 2016-08-28 10:00+0000\n"
 "Last-Translator: s_federici <s_federici@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: it\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1457679232.000000\n"
+"X-POOTLE-MTIME: 1472378405.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -288,8 +288,8 @@ msgstr "Charleston"
 msgid "Cloud data"
 msgstr "Dati cloud"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "Variabile cloud  (salvata sul server)"
+msgid "Cloud variable (stored on server)"
+msgstr "Variabile cloud  (salvata sul server)"
 
 msgid "color"
 msgstr "colore"
@@ -325,14 +325,14 @@ msgstr "cos"
 msgid "Costume"
 msgstr "Costume"
 
-msgid "costume #"
-msgstr "numero costume"
+#~ msgid "costume #"
+#~ msgstr "numero costume"
 
 msgid "Costume Library"
 msgstr "Libreria costumi"
 
-msgid "costume name"
-msgstr "nome costume"
+#~ msgid "costume name"
+#~ msgstr "nome costume"
 
 msgid "costume1"
 msgstr "costume1"
@@ -633,8 +633,8 @@ msgstr "luce"
 #~ msgid "lights"
 #~ msgstr "luci"
 
-#~ msgid "limit reached"
-#~ msgstr "limite raggiunto"
+msgid "limit reached"
+msgstr "limite raggiunto"
 
 msgid "Line"
 msgstr "Linea"
@@ -961,8 +961,8 @@ msgstr "rinomina variabile"
 #~ msgid "Replace existing project"
 #~ msgstr "Sostituisci il progetto esistente"
 
-#~ msgid "requires sign in"
-#~ msgstr "richiede l'accesso"
+msgid "requires sign in"
+msgstr "richiede l'accesso"
 
 msgid "Reshape"
 msgstr "Cambia forma"
@@ -1133,8 +1133,8 @@ msgstr "silenzio"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "dimensione"
+#~ msgid "size"
+#~ msgstr "dimensione"
 
 msgid "slider"
 msgstr "cursore"
@@ -1432,11 +1432,11 @@ msgstr "Flauto di legno"
 #~ msgid "world"
 #~ msgstr "mondo"
 
-msgid "x position"
-msgstr "posizione x"
+#~ msgid "x position"
+#~ msgstr "posizione x"
 
-msgid "y position"
-msgstr "posizione y"
+#~ msgid "y position"
+#~ msgstr "posizione y"
 
 msgid "year"
 msgstr "anno"
@@ -1729,3 +1729,24 @@ msgstr ""
 
 msgid "random position"
 msgstr "posizione scelta a caso"
+
+msgid "Cloud list (stored on server)"
+msgstr "Liste Cloud (memorizzate sul server)"
+
+msgid "Dance"
+msgstr "Ballo"
+
+msgid "Dress-Up"
+msgstr "Moda"
+
+msgid "Music"
+msgstr "Musica"
+
+msgid "Musical Notes"
+msgstr "Note Musicali"
+
+msgid "My Class"
+msgstr "La Mia Classe"
+
+msgid "My Classes"
+msgstr "Le Mie Classi"

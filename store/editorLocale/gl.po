@@ -721,6 +721,9 @@ msgstr "Charles pechado"
 msgid "Cloud data"
 msgstr "Datos na nube"
 
+msgid "Cloud variable (stored on server)"
+msgstr "Variable na nube (gardada no servidor)"
+
 msgid "color"
 msgstr "cor"
 
@@ -756,9 +759,6 @@ msgstr "Vestimenta"
 
 msgid "Costume Library"
 msgstr "Biblioteca de vestimentas"
-
-msgid "costume name"
-msgstr "nome da vestimenta"
 
 msgid "costume1"
 msgstr "vestimenta1"
@@ -1009,6 +1009,9 @@ msgstr "Biblioteca"
 # 80%
 msgid "light"
 msgstr "luz"
+
+msgid "limit reached"
+msgstr "límite acadado"
 
 msgid "Line"
 msgstr "Liña"
@@ -1303,6 +1306,9 @@ msgstr "Renomear"
 
 msgid "rename variable"
 msgstr "renomear variable"
+
+msgid "requires sign in"
+msgstr "require entrar"
 
 msgid "Reshape"
 msgstr "Reformar"
@@ -1835,6 +1841,27 @@ msgstr ""
 msgid "random position"
 msgstr ""
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "Galego"
@@ -1897,8 +1924,8 @@ msgstr ""
 #~ msgid "Cloud"
 #~ msgstr "Nube"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "Variable na nube (gardada no servidor)"
+#~ msgid "costume name"
+#~ msgstr "nome da vestimenta"
 
 #~ msgid "Costumes:"
 #~ msgstr "Vestimentas:"
@@ -1938,9 +1965,6 @@ msgstr ""
 #~ msgid "lights"
 #~ msgstr "luces"
 
-#~ msgid "limit reached"
-#~ msgstr "límite acadado"
-
 #~ msgid "motor"
 #~ msgstr "motor"
 
@@ -1958,9 +1982,6 @@ msgstr ""
 
 #~ msgid "Replace existing project"
 #~ msgstr "Reemplazar o proxecto existente"
-
-#~ msgid "requires sign in"
-#~ msgstr "require entrar"
 
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "Editor Local Scratch 2.0"

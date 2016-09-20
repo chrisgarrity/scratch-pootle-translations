@@ -618,8 +618,8 @@ msgstr "แสง"
 msgid "lights"
 msgstr "แสง"
 
-#~ msgid "limit reached"
-#~ msgstr "ถึงค่าสุดแล้ว"
+msgid "limit reached"
+msgstr "ถึงค่าสุดแล้ว"
 
 msgid "Line"
 msgstr "เส้น"
@@ -944,8 +944,8 @@ msgstr "เปลี่ยนชื่อตัวแปร"
 msgid "Replace existing project"
 msgstr ""
 
-#~ msgid "requires sign in"
-#~ msgstr "ต้องเข้าระบบก่อน"
+msgid "requires sign in"
+msgstr "ต้องเข้าระบบก่อน"
 
 msgid "Reshape"
 msgstr ""
@@ -1111,8 +1111,8 @@ msgstr "เงียบ"
 msgid "sin"
 msgstr ""
 
-msgid "size"
-msgstr "ขนาด"
+#~ msgid "size"
+#~ msgstr "ขนาด"
 
 msgid "slider"
 msgstr "ตัวเลื่อน"
@@ -1404,11 +1404,11 @@ msgstr ""
 msgid "world"
 msgstr ""
 
-msgid "x position"
-msgstr "ตำแหน่ง x"
+#~ msgid "x position"
+#~ msgstr "ตำแหน่ง x"
 
-msgid "y position"
-msgstr "ตำแหน่ง y"
+#~ msgid "y position"
+#~ msgstr "ตำแหน่ง y"
 
 msgid "year"
 msgstr "ปี"
@@ -1601,4 +1601,25 @@ msgid "when Stage clicked"
 msgstr ""
 
 msgid "random position"
+msgstr ""
+
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
 msgstr ""

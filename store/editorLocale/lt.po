@@ -815,9 +815,6 @@ msgstr "Kaukė"
 msgid "Costume Library"
 msgstr "Kaukių katalogas"
 
-msgid "costume name"
-msgstr "kaukės pavadinimas"
-
 msgid "costume1"
 msgstr "kaukė 1"
 
@@ -2040,6 +2037,27 @@ msgstr ""
 msgid "random position"
 msgstr ""
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "Lietuvių"
@@ -2101,6 +2119,9 @@ msgstr ""
 
 #~ msgid "Cloud"
 #~ msgstr "\"Debesis\""
+
+#~ msgid "costume name"
+#~ msgstr "kaukės pavadinimas"
 
 # 75%
 # 88%

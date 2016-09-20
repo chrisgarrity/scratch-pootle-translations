@@ -745,6 +745,9 @@ msgstr "Tutup hi-hat"
 msgid "Cloud data"
 msgstr "Cloud data"
 
+msgid "Cloud variable (stored on server)"
+msgstr "Variabel Cloud (disimpan di server)"
+
 msgid "color"
 msgstr "warna"
 
@@ -782,9 +785,6 @@ msgstr "Kostum"
 
 msgid "Costume Library"
 msgstr "Pustaka Kostum"
-
-msgid "costume name"
-msgstr "nama kostum"
 
 msgid "costume1"
 msgstr "kostum1"
@@ -1042,6 +1042,9 @@ msgstr "Perpustakaan"
 
 msgid "light"
 msgstr "cahaya"
+
+msgid "limit reached"
+msgstr "batas telah tercapai"
 
 msgid "Line"
 msgstr "Garis"
@@ -1341,6 +1344,9 @@ msgstr "Namai ulang"
 
 msgid "rename variable"
 msgstr "namai ulang variabel"
+
+msgid "requires sign in"
+msgstr "mengharuskan untuk masuk"
 
 msgid "Reshape"
 msgstr "Bentuk ulang"
@@ -1789,9 +1795,8 @@ msgstr ""
 "situs Scratch."
 
 # Offline editor only
-#, fuzzy
 msgid "Could not retrieve update location from server."
-msgstr "Tidak dapat menerima aplikasi baru dari server."
+msgstr "Tidak mampu mendapatkan lokasi pembaruan dari server."
 
 # Offline editor only
 msgid "Could not retrieve version information from server."
@@ -1810,9 +1815,8 @@ msgid "Error saving project"
 msgstr "Error menyimpan karya"
 
 # Offline editor only
-#, fuzzy
 msgid "Force help file update"
-msgstr "Perbarui paksa berkas bantuan"
+msgstr "Paksa pembaruan berkas bantuan"
 
 # Offline editor only
 msgid "Import experimental HTTP extension"
@@ -1886,13 +1890,34 @@ msgid "any"
 msgstr "sembarang"
 
 msgid "Record Project Video"
-msgstr ""
+msgstr "Rekam Video Karya"
 
 msgid "Remove Background"
-msgstr ""
+msgstr "Hilangkan Latar"
 
 msgid "random position"
-msgstr ""
+msgstr "posisi sembarang"
+
+msgid "Cloud list (stored on server)"
+msgstr "Daftar cloud (disimpan di server)"
+
+msgid "Dance"
+msgstr "Menari"
+
+msgid "Dress-Up"
+msgstr "Dress-Up"
+
+msgid "Music"
+msgstr "Musik"
+
+msgid "Musical Notes"
+msgstr "Nada Musikal"
+
+msgid "My Class"
+msgstr "Kelas Saya"
+
+msgid "My Classes"
+msgstr "Kelas Saya"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
@@ -1973,8 +1998,8 @@ msgstr ""
 #~ msgid "Cloud"
 #~ msgstr "Cloud"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "Variabel Cloud (disimpan di server)"
+#~ msgid "costume name"
+#~ msgstr "nama kostum"
 
 #~ msgid "Costumes:"
 #~ msgstr "Kostum:"
@@ -2013,9 +2038,6 @@ msgstr ""
 #~ msgid "lights"
 #~ msgstr "cahaya"
 
-#~ msgid "limit reached"
-#~ msgstr "batas telah tercapai"
-
 #~ msgid "motor"
 #~ msgstr "motor"
 
@@ -2033,9 +2055,6 @@ msgstr ""
 
 #~ msgid "Replace existing project"
 #~ msgstr "Ganti karya yang ada"
-
-#~ msgid "requires sign in"
-#~ msgstr "mengharuskan untuk masuk"
 
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "Editor Scratch 2.0 Offline"

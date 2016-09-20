@@ -290,8 +290,8 @@ msgstr "Kapalı Zil"
 msgid "Cloud data"
 msgstr "Bulut veri"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "Bulut değişkeni (sunucuda saklanır)"
+msgid "Cloud variable (stored on server)"
+msgstr "Bulut değişkeni (sunucuda saklanır)"
 
 msgid "color"
 msgstr "renk"
@@ -327,14 +327,14 @@ msgstr "cos"
 msgid "Costume"
 msgstr "Kılık"
 
-msgid "costume #"
-msgstr "kılık #"
+#~ msgid "costume #"
+#~ msgstr "kılık #"
 
 msgid "Costume Library"
 msgstr "Kılık Kütüphanesi"
 
-msgid "costume name"
-msgstr "kılığının adı"
+#~ msgid "costume name"
+#~ msgstr "kılığının adı"
 
 msgid "costume1"
 msgstr "kılık1"
@@ -645,8 +645,8 @@ msgstr "ışık"
 #~ msgid "lights"
 #~ msgstr "ışıkların"
 
-#~ msgid "limit reached"
-#~ msgstr "limite ulaşıldı"
+msgid "limit reached"
+msgstr "limite ulaşıldı"
 
 msgid "Line"
 msgstr "Çizgi"
@@ -973,8 +973,8 @@ msgstr "değişkeni yeniden adlandır"
 #~ msgid "Replace existing project"
 #~ msgstr "Mevcut projenin üstüne yaz"
 
-#~ msgid "requires sign in"
-#~ msgstr "giriş yapman gerek"
+msgid "requires sign in"
+msgstr "giriş yapman gerek"
 
 msgid "Reshape"
 msgstr "Şekli değiştir"
@@ -1145,8 +1145,8 @@ msgstr "sessizlik"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "büyüklük"
+#~ msgid "size"
+#~ msgstr "büyüklük"
 
 msgid "slider"
 msgstr "sürgü"
@@ -1443,11 +1443,11 @@ msgstr "Ahşap Flüt"
 #~ msgid "world"
 #~ msgstr "dünya"
 
-msgid "x position"
-msgstr "x konumu"
+#~ msgid "x position"
+#~ msgstr "x konumu"
 
-msgid "y position"
-msgstr "y konumu"
+#~ msgid "y position"
+#~ msgstr "y konumu"
 
 msgid "year"
 msgstr "yıl"
@@ -1735,3 +1735,24 @@ msgstr ""
 
 msgid "random position"
 msgstr "rastgele konum"
+
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""

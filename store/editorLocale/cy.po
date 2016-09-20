@@ -729,6 +729,9 @@ msgstr "Hi-Hat Caeedig"
 msgid "Cloud data"
 msgstr "Data cwmwl"
 
+msgid "Cloud variable (stored on server)"
+msgstr "Newidyn cwmwl (cedwir ar y gweinydd)"
+
 msgid "color"
 msgstr "lliw"
 
@@ -764,9 +767,6 @@ msgstr "Gwisg"
 
 msgid "Costume Library"
 msgstr "Rhestr Wisgoedd"
-
-msgid "costume name"
-msgstr "enw'r wisg"
 
 msgid "costume1"
 msgstr "gwisg1"
@@ -1018,6 +1018,9 @@ msgstr "Rhestr"
 
 msgid "light"
 msgstr "golau"
+
+msgid "limit reached"
+msgstr "terfyn eithaf wedi ei gyrraedd"
 
 msgid "Line"
 msgstr "Llinell"
@@ -1314,6 +1317,9 @@ msgstr "Ailenwi"
 
 msgid "rename variable"
 msgstr "ailenwi newidyn"
+
+msgid "requires sign in"
+msgstr "angen mewngofnodi"
 
 msgid "Reshape"
 msgstr "Ail siapio"
@@ -1842,6 +1848,27 @@ msgstr ""
 msgid "random position"
 msgstr ""
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "Cymraeg"
@@ -1928,8 +1955,8 @@ msgstr ""
 #~ msgid "Cloud"
 #~ msgstr "Cwmwl"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "Newidyn cwmwl (cedwir ar y gweinydd)"
+#~ msgid "costume name"
+#~ msgstr "enw'r wisg"
 
 #~ msgid "Costumes:"
 #~ msgstr "Gwisgoedd:"
@@ -1968,9 +1995,6 @@ msgstr ""
 #~ msgid "lights"
 #~ msgstr "goleuadau"
 
-#~ msgid "limit reached"
-#~ msgstr "terfyn eithaf wedi ei gyrraedd"
-
 #~ msgid "motor"
 #~ msgstr "modur"
 
@@ -1988,9 +2012,6 @@ msgstr ""
 
 #~ msgid "Replace existing project"
 #~ msgstr "Disodli'r prosiect presennol"
-
-#~ msgid "requires sign in"
-#~ msgstr "angen mewngofnodi"
 
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "Golygydd Scratch 2.0 Oddi-ar-lein"

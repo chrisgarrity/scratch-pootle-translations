@@ -727,6 +727,9 @@ msgstr "Charles cerrado"
 msgid "Cloud data"
 msgstr "Información de la nube"
 
+msgid "Cloud variable (stored on server)"
+msgstr "Variable en la nube (guardada en el servidor)"
+
 msgid "color"
 msgstr "color"
 
@@ -762,9 +765,6 @@ msgstr "Disfraz"
 
 msgid "Costume Library"
 msgstr "Biblioteca de disfraces"
-
-msgid "costume name"
-msgstr "nombre del disfraz"
 
 msgid "costume1"
 msgstr "disfraz1"
@@ -1016,6 +1016,9 @@ msgstr "Biblioteca"
 
 msgid "light"
 msgstr "luz"
+
+msgid "limit reached"
+msgstr "límite alcanzado"
 
 msgid "Line"
 msgstr "Línea"
@@ -1312,6 +1315,9 @@ msgstr "Renombrar"
 
 msgid "rename variable"
 msgstr "renombrar variable"
+
+msgid "requires sign in"
+msgstr "requiere ingresar"
 
 msgid "Reshape"
 msgstr "Reformar"
@@ -1843,6 +1849,27 @@ msgstr "cualquiera"
 msgid "random position"
 msgstr "posición aleatoria"
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "Español"
@@ -1940,8 +1967,8 @@ msgstr "posición aleatoria"
 #~ msgid "Cloud"
 #~ msgstr "Nube"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "Variable en la nube (guardada en el servidor)"
+#~ msgid "costume name"
+#~ msgstr "nombre del disfraz"
 
 #~ msgid "Costumes:"
 #~ msgstr "Disfraces:"
@@ -1980,9 +2007,6 @@ msgstr "posición aleatoria"
 #~ msgid "lights"
 #~ msgstr "luces"
 
-#~ msgid "limit reached"
-#~ msgstr "límite alcanzado"
-
 #~ msgid "motor"
 #~ msgstr "motor"
 
@@ -2000,9 +2024,6 @@ msgstr "posición aleatoria"
 
 #~ msgid "Replace existing project"
 #~ msgstr "Reemplazar proyecto existente"
-
-#~ msgid "requires sign in"
-#~ msgstr "requiere ingresar"
 
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "Scratch 2.0 Sin Conexión"

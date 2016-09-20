@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2016-05-15 09:25+0000\n"
+"PO-Revision-Date: 2016-08-25 11:48+0000\n"
 "Last-Translator: Manuel <mmsequeira@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1463304319.000000\n"
+"X-POOTLE-MTIME: 1472125731.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -285,8 +285,8 @@ msgstr "Pratos de Choque Fechados"
 msgid "Cloud data"
 msgstr "Dados de nuvem"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "Variável de nuvem (guardada num servidor)"
+msgid "Cloud variable (stored on server)"
+msgstr "Variável de nuvem (guardada num servidor)"
 
 msgid "color"
 msgstr "cor"
@@ -322,14 +322,14 @@ msgstr "cosseno"
 msgid "Costume"
 msgstr "Traje"
 
-msgid "costume #"
-msgstr "o número do traje"
+#~ msgid "costume #"
+#~ msgstr "o número do traje"
 
 msgid "Costume Library"
 msgstr "Biblioteca de Trajes"
 
-msgid "costume name"
-msgstr "o nome do traje"
+#~ msgid "costume name"
+#~ msgstr "o nome do traje"
 
 msgid "costume1"
 msgstr "o traje 1"
@@ -628,8 +628,8 @@ msgstr "luz"
 #~ msgid "lights"
 #~ msgstr "luzes"
 
-#~ msgid "limit reached"
-#~ msgstr "limite atingido"
+msgid "limit reached"
+msgstr "limite atingido"
 
 msgid "Line"
 msgstr "Linha"
@@ -956,8 +956,8 @@ msgstr "renomear variável"
 #~ msgid "Replace existing project"
 #~ msgstr "Substituir o projecto existente"
 
-#~ msgid "requires sign in"
-#~ msgstr "requer autenticação"
+msgid "requires sign in"
+msgstr "requer autenticação"
 
 msgid "Reshape"
 msgstr "Remodelar"
@@ -1128,8 +1128,8 @@ msgstr "silêncio"
 msgid "sin"
 msgstr "o seno"
 
-msgid "size"
-msgstr "o tamanho"
+#~ msgid "size"
+#~ msgstr "o tamanho"
 
 msgid "slider"
 msgstr "deslizador"
@@ -1427,11 +1427,11 @@ msgstr "Flauta de Madeira"
 #~ msgid "world"
 #~ msgstr "mundo"
 
-msgid "x position"
-msgstr "a coordenada x da posição"
+#~ msgid "x position"
+#~ msgstr "a coordenada x da posição"
 
-msgid "y position"
-msgstr "a coordenada y da posição"
+#~ msgid "y position"
+#~ msgstr "a coordenada y da posição"
 
 msgid "year"
 msgstr "o ano"
@@ -1687,3 +1687,24 @@ msgstr "Remover o Fundo"
 
 msgid "random position"
 msgstr "uma posição ao acaso"
+
+msgid "Cloud list (stored on server)"
+msgstr "Lista de nuvem (guardada no servidor)"
+
+msgid "Dance"
+msgstr "Dança"
+
+msgid "Dress-Up"
+msgstr "Vestir-se"
+
+msgid "Music"
+msgstr "Música"
+
+msgid "Musical Notes"
+msgstr "Notas Musicais"
+
+msgid "My Class"
+msgstr "A Minha Turma"
+
+msgid "My Classes"
+msgstr "As Minhas Turmas"

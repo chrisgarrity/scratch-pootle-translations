@@ -784,9 +784,6 @@ msgstr "Kostim"
 msgid "Costume Library"
 msgstr "Knjižnica kostima"
 
-msgid "costume name"
-msgstr "naziv kostima"
-
 msgid "costume1"
 msgstr "kostim1"
 
@@ -1076,6 +1073,9 @@ msgstr "svjetlo"
 #, fuzzy
 msgid "lights"
 msgstr "svjetlo"
+
+msgid "limit reached"
+msgstr "dosegnut limit"
 
 msgid "Line"
 msgstr "Linija"
@@ -1391,6 +1391,9 @@ msgstr "preimenuj varijablu"
 
 msgid "Replace existing project"
 msgstr ""
+
+msgid "requires sign in"
+msgstr "zahtijeva prijavu"
 
 msgid "Reshape"
 msgstr "Preoblikuj"
@@ -1945,6 +1948,27 @@ msgstr ""
 msgid "random position"
 msgstr ""
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "Hrvatski"
@@ -2011,14 +2035,11 @@ msgstr ""
 #~ msgid "Cloud"
 #~ msgstr "Oblak"
 
+#~ msgid "costume name"
+#~ msgstr "naziv kostima"
+
 #~ msgid "Costumes:"
 #~ msgstr "Kostimi:"
-
-#~ msgid "limit reached"
-#~ msgstr "dosegnut limit"
-
-#~ msgid "requires sign in"
-#~ msgstr "zahtijeva prijavu"
 
 # 87%
 #~ msgid "Scripts:"

@@ -474,26 +474,26 @@ msgstr "x-ன் நிலை"
 msgid "y position"
 msgstr "y-ன் நிலை"
 
-msgid "set motor direction %m.motorDirection"
-msgstr "விசைப்பொறி திசையை %m.motorDirection ஆகசெய்"
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "விசைப்பொறி திசையை %m.motorDirection ஆகசெய்"
 
-msgid "set motor power %n"
-msgstr "விசைப்பொறி சக்தியை %n ஆக செய்"
+#~ msgid "set motor power %n"
+#~ msgstr "விசைப்பொறி சக்தியை %n ஆக செய்"
 
-msgid "turn motor off"
-msgstr "விசைப்பொறியை நிறுத்து"
+#~ msgid "turn motor off"
+#~ msgstr "விசைப்பொறியை நிறுத்து"
 
-msgid "turn motor on"
-msgstr "விசைப்பொறியை செயலாக்கு"
+#~ msgid "turn motor on"
+#~ msgstr "விசைப்பொறியை செயலாக்கு"
 
-msgid "turn motor on for %n secs"
-msgstr "விசைப்பொறியை %n வினாடிகளுக்கு செயலாக்கு"
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "விசைப்பொறியை %n வினாடிகளுக்கு செயலாக்கு"
 
 #~ msgid "when distance < %n"
 #~ msgstr "தூரம் %n விட குறையும் போது"
 
-msgid "when tilt = %n"
-msgstr "சாய்நிலை = %n ஆகும் பொழுது"
+#~ msgid "when tilt = %n"
+#~ msgstr "சாய்நிலை = %n ஆகும் பொழுது"
 
 #: commands-online.txt:7
 #: commands-offline.txt:7

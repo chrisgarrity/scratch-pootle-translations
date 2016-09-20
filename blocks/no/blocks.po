@@ -474,8 +474,9 @@ msgstr "når jeg mottar %m.broadcast"
 msgid "when I start as a clone"
 msgstr "når jeg starter som klon"
 
+#, fuzzy
 msgid "when Stage clicked"
-msgstr ""
+msgstr "når jeg klikkes"
 
 msgid "when this sprite clicked"
 msgstr "når denne figuren klikkes"

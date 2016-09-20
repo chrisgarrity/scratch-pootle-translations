@@ -1070,6 +1070,9 @@ msgstr "แสง"
 msgid "lights"
 msgstr "แสง"
 
+msgid "limit reached"
+msgstr "ถึงค่าสุดแล้ว"
+
 msgid "Line"
 msgstr "เส้น"
 
@@ -1377,6 +1380,9 @@ msgstr "เปลี่ยนชื่อตัวแปร"
 
 msgid "Replace existing project"
 msgstr ""
+
+msgid "requires sign in"
+msgstr "ต้องเข้าระบบก่อน"
 
 msgid "Reshape"
 msgstr ""
@@ -1945,6 +1951,27 @@ msgstr ""
 msgid "random position"
 msgstr ""
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "ไทย"
@@ -2021,9 +2048,6 @@ msgstr ""
 #~ msgid "Extension Problem"
 #~ msgstr "ปัญหาส่วนขยาย"
 
-#~ msgid "limit reached"
-#~ msgstr "ถึงค่าสุดแล้ว"
-
 #~ msgid "motor"
 #~ msgstr "มอเตอร์"
 
@@ -2032,9 +2056,6 @@ msgstr ""
 
 #~ msgid "motor B"
 #~ msgstr "มอเตอร์ B"
-
-#~ msgid "requires sign in"
-#~ msgstr "ต้องเข้าระบบก่อน"
 
 #~ msgid "Scripts:"
 #~ msgstr "สคริปต์:"

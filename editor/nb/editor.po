@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2016-05-22 20:48+0000\n"
+"PO-Revision-Date: 2016-09-14 19:31+0000\n"
 "Last-Translator: Torbjorn <torbjorn.skauli@ffi.no>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nb\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1463950101.000000\n"
+"X-POOTLE-MTIME: 1473881470.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -289,8 +289,8 @@ msgstr "Lukket hi-hat"
 msgid "Cloud data"
 msgstr "Nettdata"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "Nettvariabel (lagret på nettstedet til Scratch)"
+msgid "Cloud variable (stored on server)"
+msgstr "Nettvariabel (lagret på nettstedet til Scratch)"
 
 msgid "color"
 msgstr "farge"
@@ -326,14 +326,14 @@ msgstr "cos"
 msgid "Costume"
 msgstr "Drakt"
 
-msgid "costume #"
-msgstr "drakt nr."
+#~ msgid "costume #"
+#~ msgstr "drakt nr."
 
 msgid "Costume Library"
 msgstr "Drakter i biblioteket"
 
-msgid "costume name"
-msgstr "draktnavn"
+#~ msgid "costume name"
+#~ msgstr "draktnavn"
 
 msgid "costume1"
 msgstr "drakt1"
@@ -633,8 +633,8 @@ msgstr "lys"
 #~ msgid "lights"
 #~ msgstr "lys"
 
-#~ msgid "limit reached"
-#~ msgstr "ved grensen"
+msgid "limit reached"
+msgstr "ved grensen"
 
 msgid "Line"
 msgstr "Linje"
@@ -962,8 +962,8 @@ msgstr "gi nytt navn til variabel"
 #~ msgid "Replace existing project"
 #~ msgstr "Erstatt det nåværende prosjektet"
 
-#~ msgid "requires sign in"
-#~ msgstr "krever innlogging"
+msgid "requires sign in"
+msgstr "krever innlogging"
 
 msgid "Reshape"
 msgstr "Bøy"
@@ -1132,8 +1132,8 @@ msgstr "stille"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "størrelse"
+#~ msgid "size"
+#~ msgstr "størrelse"
 
 msgid "slider"
 msgstr "skyveknapp"
@@ -1430,11 +1430,11 @@ msgstr "Trefløyte"
 #~ msgid "world"
 #~ msgstr "verden"
 
-msgid "x position"
-msgstr "x-posisjon"
+#~ msgid "x position"
+#~ msgstr "x-posisjon"
 
-msgid "y position"
-msgstr "y-posisjon"
+#~ msgid "y position"
+#~ msgstr "y-posisjon"
 
 msgid "year"
 msgstr "år"
@@ -1745,3 +1745,24 @@ msgstr "Slett bakgrunn"
 
 msgid "random position"
 msgstr "tilfeldig sted"
+
+msgid "Cloud list (stored on server)"
+msgstr "Nettliste (lagret på nettstedet til Scratch)"
+
+msgid "Dance"
+msgstr "Dans"
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr "Musikk"
+
+msgid "Musical Notes"
+msgstr "Noter"
+
+msgid "My Class"
+msgstr "Min klasse"
+
+msgid "My Classes"
+msgstr "Mine klasser"

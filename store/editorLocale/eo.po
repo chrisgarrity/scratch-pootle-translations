@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1469625532.000000\n"
+"X-POOTLE-MTIME: 1469625533.000000\n"
 
 msgid "%b and %b"
 msgstr "%b kaj %b"
@@ -784,9 +784,6 @@ msgstr "Kostumo"
 msgid "Costume Library"
 msgstr "Biblioteko de kostumoj"
 
-msgid "costume name"
-msgstr "nomo de kostumo"
-
 msgid "costume1"
 msgstr "kostumo1"
 
@@ -1074,6 +1071,9 @@ msgstr "lumo"
 #, fuzzy
 msgid "lights"
 msgstr "lumo"
+
+msgid "limit reached"
+msgstr "limo atingita"
 
 msgid "Line"
 msgstr "Linio"
@@ -1391,6 +1391,9 @@ msgstr "ŝanĝi la variablonomon"
 
 msgid "Replace existing project"
 msgstr ""
+
+msgid "requires sign in"
+msgstr "ensaluto bezonata"
 
 msgid "Reshape"
 msgstr "Ŝanĝi formon"
@@ -1952,6 +1955,27 @@ msgstr ""
 msgid "random position"
 msgstr ""
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "Esperanto"
@@ -2019,14 +2043,11 @@ msgstr ""
 #~ msgid "Cloud"
 #~ msgstr "Nubo"
 
+#~ msgid "costume name"
+#~ msgstr "nomo de kostumo"
+
 #~ msgid "Costumes:"
 #~ msgstr "Kostumoj:"
-
-#~ msgid "limit reached"
-#~ msgstr "limo atingita"
-
-#~ msgid "requires sign in"
-#~ msgstr "ensaluto bezonata"
 
 #~ msgid "Scripts:"
 #~ msgstr "Skriptoj:"

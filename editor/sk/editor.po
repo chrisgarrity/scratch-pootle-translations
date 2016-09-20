@@ -316,14 +316,14 @@ msgstr "cos"
 msgid "Costume"
 msgstr "Kostým"
 
-msgid "costume #"
-msgstr "číslo kostýmu"
+#~ msgid "costume #"
+#~ msgstr "číslo kostýmu"
 
 msgid "Costume Library"
 msgstr "Knižnica kostýmov"
 
-msgid "costume name"
-msgstr "meno kostýmu"
+#~ msgid "costume name"
+#~ msgstr "meno kostýmu"
 
 msgid "costume1"
 msgstr "kostým1"
@@ -621,8 +621,8 @@ msgstr "svetlo"
 #~ msgid "lights"
 #~ msgstr "svetlá"
 
-#~ msgid "limit reached"
-#~ msgstr "limit dosiahnutý"
+msgid "limit reached"
+msgstr "limit dosiahnutý"
 
 msgid "Line"
 msgstr "Úsečka"
@@ -945,8 +945,8 @@ msgstr "premenuj premennú"
 msgid "Replace existing project"
 msgstr ""
 
-#~ msgid "requires sign in"
-#~ msgstr "vyžaduje prihlásenie"
+msgid "requires sign in"
+msgstr "vyžaduje prihlásenie"
 
 msgid "Reshape"
 msgstr "Zmena tvaru"
@@ -1112,8 +1112,8 @@ msgstr "ticho"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "veľkosť"
+#~ msgid "size"
+#~ msgstr "veľkosť"
 
 msgid "slider"
 msgstr "posuvník"
@@ -1403,11 +1403,11 @@ msgstr "Zobcová flauta"
 msgid "world"
 msgstr ""
 
-msgid "x position"
-msgstr "pozícia x"
+#~ msgid "x position"
+#~ msgstr "pozícia x"
 
-msgid "y position"
-msgstr "pozícia y"
+#~ msgid "y position"
+#~ msgstr "pozícia y"
 
 msgid "year"
 msgstr "rok"
@@ -1612,3 +1612,24 @@ msgstr ""
 
 msgid "random position"
 msgstr "náhodná pozícia"
+
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""

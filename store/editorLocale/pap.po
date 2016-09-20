@@ -723,6 +723,9 @@ msgstr "Sera Hi-Hat"
 msgid "Cloud data"
 msgstr "Data di cloud"
 
+msgid "Cloud variable (stored on server)"
+msgstr "Variabel di cloud (wardá riba server)"
+
 msgid "color"
 msgstr "kolor"
 
@@ -758,9 +761,6 @@ msgstr "Trage"
 
 msgid "Costume Library"
 msgstr "Biblioteka di Trage"
-
-msgid "costume name"
-msgstr "nomber di trage"
 
 msgid "costume1"
 msgstr "trage1"
@@ -1026,6 +1026,9 @@ msgstr "derechi"
 #, fuzzy
 msgid "lights"
 msgstr "derechi"
+
+msgid "limit reached"
+msgstr "limite a wordu alkansá"
 
 msgid "Line"
 msgstr "Linea"
@@ -1323,6 +1326,9 @@ msgstr "Renombrá"
 
 msgid "rename variable"
 msgstr "renombrá variabel"
+
+msgid "requires sign in"
+msgstr "registrashon ta rekerí"
 
 msgid "Reshape"
 msgstr "Reformá"
@@ -1865,6 +1871,27 @@ msgstr ""
 msgid "random position"
 msgstr ""
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "Idoma-Nòmber"
@@ -1947,8 +1974,8 @@ msgstr ""
 #~ msgid "Cloud"
 #~ msgstr "Cloud"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "Variabel di cloud (wardá riba server)"
+#~ msgid "costume name"
+#~ msgstr "nomber di trage"
 
 #~ msgid "Costumes:"
 #~ msgstr "Tragenan:"
@@ -1980,9 +2007,6 @@ msgstr ""
 #~ msgid "hello"
 #~ msgstr "hello"
 
-#~ msgid "limit reached"
-#~ msgstr "limite a wordu alkansá"
-
 #~ msgid "motor"
 #~ msgstr "motor"
 
@@ -1997,9 +2021,6 @@ msgstr ""
 
 #~ msgid "Replace existing project"
 #~ msgstr "Reemplasá proyekto eksistente"
-
-#~ msgid "requires sign in"
-#~ msgstr "registrashon ta rekerí"
 
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "Scratch 2.0 Editor Offline"

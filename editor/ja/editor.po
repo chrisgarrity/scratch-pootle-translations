@@ -279,8 +279,8 @@ msgstr "閉じたハイハット"
 msgid "Cloud data"
 msgstr "クラウドデータ"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "クラウド変数 (サーバーに保存)"
+msgid "Cloud variable (stored on server)"
+msgstr "クラウド変数 (サーバーに保存)"
 
 msgid "color"
 msgstr "色"
@@ -315,14 +315,14 @@ msgstr "cos"
 msgid "Costume"
 msgstr "コスチューム"
 
-msgid "costume #"
-msgstr "コスチューム #"
+#~ msgid "costume #"
+#~ msgstr "コスチューム #"
 
 msgid "Costume Library"
 msgstr "コスチュームライブラリー"
 
-msgid "costume name"
-msgstr "コスチューム名"
+#~ msgid "costume name"
+#~ msgstr "コスチューム名"
 
 msgid "costume1"
 msgstr "コスチューム1"
@@ -619,8 +619,8 @@ msgstr "明るさ"
 #~ msgid "lights"
 #~ msgstr "明るさ"
 
-#~ msgid "limit reached"
-#~ msgstr "限界に到達"
+msgid "limit reached"
+msgstr "限界に到達"
 
 msgid "Line"
 msgstr "直線"
@@ -943,8 +943,8 @@ msgstr "変数名を変更"
 #~ msgid "Replace existing project"
 #~ msgstr "既存のプロジェクトを置換"
 
-#~ msgid "requires sign in"
-#~ msgstr "サインインが必要です"
+msgid "requires sign in"
+msgstr "サインインが必要です"
 
 msgid "Reshape"
 msgstr "形を変える"
@@ -1110,8 +1110,8 @@ msgstr "サイレンス"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "大きさ"
+#~ msgid "size"
+#~ msgstr "大きさ"
 
 msgid "slider"
 msgstr "スライダー"
@@ -1394,11 +1394,11 @@ msgstr "木管フルート"
 #~ msgid "world"
 #~ msgstr "世界"
 
-msgid "x position"
-msgstr "x座標"
+#~ msgid "x position"
+#~ msgstr "x座標"
 
-msgid "y position"
-msgstr "y座標"
+#~ msgid "y position"
+#~ msgstr "y座標"
 
 msgid "year"
 msgstr "年"
@@ -1592,3 +1592,24 @@ msgstr ""
 
 msgid "random position"
 msgstr "ランダムな場所"
+
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""

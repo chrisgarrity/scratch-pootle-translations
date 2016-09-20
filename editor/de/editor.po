@@ -297,8 +297,8 @@ msgstr "Geschlossene Hi-Hat"
 msgid "Cloud data"
 msgstr "Cloud-Daten"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "Cloud-Variable (auf dem Server gespeichert)"
+msgid "Cloud variable (stored on server)"
+msgstr "Cloud-Variable (auf dem Server gespeichert)"
 
 msgid "color"
 msgstr "Farbe"
@@ -333,14 +333,14 @@ msgstr "cos"
 msgid "Costume"
 msgstr "Kostüm"
 
-msgid "costume #"
-msgstr "Kostümnummer"
+#~ msgid "costume #"
+#~ msgstr "Kostümnummer"
 
 msgid "Costume Library"
 msgstr "Kostüm-Bibliothek"
 
-msgid "costume name"
-msgstr "Kostümname"
+#~ msgid "costume name"
+#~ msgstr "Kostümname"
 
 msgid "costume1"
 msgstr "Kostüm1"
@@ -644,8 +644,8 @@ msgstr "Helligkeit"
 #~ msgid "lights"
 #~ msgstr "Leuchten"
 
-#~ msgid "limit reached"
-#~ msgstr "Grenze erreicht"
+msgid "limit reached"
+msgstr "Grenze erreicht"
 
 msgid "Line"
 msgstr "Linie"
@@ -980,8 +980,8 @@ msgstr "Variable umbenennen"
 #~ msgid "Replace existing project"
 #~ msgstr "Existierendes Projekt ersetzen"
 
-#~ msgid "requires sign in"
-#~ msgstr "Hierzu musst du angemeldet sein."
+msgid "requires sign in"
+msgstr "Hierzu musst du angemeldet sein."
 
 msgid "Reshape"
 msgstr "Verformen"
@@ -1155,8 +1155,8 @@ msgstr "stumm"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "Größe"
+#~ msgid "size"
+#~ msgstr "Größe"
 
 msgid "slider"
 msgstr "Schieberegler"
@@ -1460,11 +1460,11 @@ msgstr "Blockflöte"
 #~ msgid "world"
 #~ msgstr "Welt"
 
-msgid "x position"
-msgstr "x-Position"
+#~ msgid "x position"
+#~ msgstr "x-Position"
 
-msgid "y position"
-msgstr "y-Position"
+#~ msgid "y position"
+#~ msgstr "y-Position"
 
 msgid "year"
 msgstr "Jahr"
@@ -1780,3 +1780,24 @@ msgstr ""
 
 msgid "random position"
 msgstr "Zufallsposition"
+
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""

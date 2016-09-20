@@ -739,6 +739,9 @@ msgstr "Затворен педален чинел"
 msgid "Cloud data"
 msgstr "Облачни данни"
 
+msgid "Cloud variable (stored on server)"
+msgstr "Облачна променлива (съхранявана на сървър)"
+
 msgid "color"
 msgstr "цвят"
 
@@ -775,9 +778,6 @@ msgstr "Костюм"
 
 msgid "Costume Library"
 msgstr "Библиотека с костюми"
-
-msgid "costume name"
-msgstr "име на костюм"
 
 msgid "costume1"
 msgstr "костюм1"
@@ -1046,6 +1046,9 @@ msgstr "осветеност"
 #, fuzzy
 msgid "lights"
 msgstr "осветеност"
+
+msgid "limit reached"
+msgstr "достигнат е лимита"
 
 msgid "Line"
 msgstr "Линия"
@@ -1352,6 +1355,9 @@ msgstr "преименуване на променливата"
 
 msgid "Replace existing project"
 msgstr ""
+
+msgid "requires sign in"
+msgstr "трябва да сте влезли"
 
 msgid "Reshape"
 msgstr "Оформяне"
@@ -1908,6 +1914,27 @@ msgstr ""
 msgid "random position"
 msgstr ""
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "Български"
@@ -1993,8 +2020,8 @@ msgstr ""
 #~ msgid "Cloud"
 #~ msgstr "Облачна"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "Облачна променлива (съхранявана на сървър)"
+#~ msgid "costume name"
+#~ msgstr "име на костюм"
 
 #~ msgid "Costumes:"
 #~ msgstr "Костюми:"
@@ -2020,9 +2047,6 @@ msgstr ""
 #~ msgid "hello"
 #~ msgstr "здравей"
 
-#~ msgid "limit reached"
-#~ msgstr "достигнат е лимита"
-
 #~ msgid "motor"
 #~ msgstr "мотор"
 
@@ -2037,9 +2061,6 @@ msgstr ""
 
 #~ msgid "Remove extension blocks"
 #~ msgstr "Премахни блоковета на приставката"
-
-#~ msgid "requires sign in"
-#~ msgstr "трябва да сте влезли"
 
 # 87%
 #~ msgid "Scripts:"

@@ -808,9 +808,6 @@ msgstr "Kostüüm"
 msgid "Costume Library"
 msgstr "Kostüümide teek"
 
-msgid "costume name"
-msgstr "kostüümi nimi"
-
 msgid "costume1"
 msgstr "kostüüm1"
 
@@ -1097,6 +1094,9 @@ msgstr "valgus"
 #, fuzzy
 msgid "lights"
 msgstr "heledus"
+
+msgid "limit reached"
+msgstr "limiit ületatud"
 
 msgid "Line"
 msgstr "Joon"
@@ -1403,6 +1403,9 @@ msgstr "muuda muutuja nime"
 
 msgid "Replace existing project"
 msgstr ""
+
+msgid "requires sign in"
+msgstr "nõuab sisselogimist"
 
 msgid "Reshape"
 msgstr "Kuju muutmine"
@@ -1965,6 +1968,27 @@ msgstr ""
 msgid "random position"
 msgstr ""
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "Eesti"
@@ -2067,6 +2091,9 @@ msgstr ""
 #~ msgid "Cloud"
 #~ msgstr "Pilv"
 
+#~ msgid "costume name"
+#~ msgstr "kostüümi nimi"
+
 #~ msgid "Costumes:"
 #~ msgstr "Kostüümid:"
 
@@ -2075,9 +2102,6 @@ msgstr ""
 
 #~ msgid "Extension Problem"
 #~ msgstr "Probleem laiendusega"
-
-#~ msgid "limit reached"
-#~ msgstr "limiit ületatud"
 
 #~ msgid "motor"
 #~ msgstr "mootor"
@@ -2093,9 +2117,6 @@ msgstr ""
 
 #~ msgid "Remove extension blocks"
 #~ msgstr "Eemalda laienduse plokid"
-
-#~ msgid "requires sign in"
-#~ msgstr "nõuab sisselogimist"
 
 # 87%
 #~ msgid "Scripts:"

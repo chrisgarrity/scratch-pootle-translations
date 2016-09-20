@@ -321,14 +321,14 @@ msgstr "cos"
 msgid "Costume"
 msgstr "Kostim"
 
-msgid "costume #"
-msgstr "kostim #"
+#~ msgid "costume #"
+#~ msgstr "kostim #"
 
 msgid "Costume Library"
 msgstr "Knjižnica kostima"
 
-msgid "costume name"
-msgstr "naziv kostima"
+#~ msgid "costume name"
+#~ msgstr "naziv kostima"
 
 msgid "costume1"
 msgstr "kostim1"
@@ -629,8 +629,8 @@ msgstr "svjetlo"
 msgid "lights"
 msgstr "svjetlo"
 
-#~ msgid "limit reached"
-#~ msgstr "dosegnut limit"
+msgid "limit reached"
+msgstr "dosegnut limit"
 
 msgid "Line"
 msgstr "Linija"
@@ -953,8 +953,8 @@ msgstr "preimenuj varijablu"
 msgid "Replace existing project"
 msgstr ""
 
-#~ msgid "requires sign in"
-#~ msgstr "zahtijeva prijavu"
+msgid "requires sign in"
+msgstr "zahtijeva prijavu"
 
 msgid "Reshape"
 msgstr "Preoblikuj"
@@ -1122,8 +1122,8 @@ msgstr "tišina"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "veličina"
+#~ msgid "size"
+#~ msgstr "veličina"
 
 msgid "slider"
 msgstr "klizač"
@@ -1411,11 +1411,11 @@ msgstr "Drvena flauta"
 msgid "world"
 msgstr ""
 
-msgid "x position"
-msgstr "x položaj"
+#~ msgid "x position"
+#~ msgstr "x položaj"
 
-msgid "y position"
-msgstr "y položaj"
+#~ msgid "y position"
+#~ msgstr "y položaj"
 
 msgid "year"
 msgstr "godina"
@@ -1621,4 +1621,25 @@ msgid "when Stage clicked"
 msgstr ""
 
 msgid "random position"
+msgstr ""
+
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
 msgstr ""

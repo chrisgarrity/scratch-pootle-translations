@@ -290,8 +290,8 @@ msgstr "Closed Hi-Hat"
 msgid "Cloud data"
 msgstr "البيانات السحابية"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "متغير سحابي (مخزّن على المخدّم)"
+msgid "Cloud variable (stored on server)"
+msgstr "متغير سحابي (مخزّن على المخدّم)"
 
 msgid "color"
 msgstr "اللون"
@@ -328,14 +328,14 @@ msgstr "جيب التمام"
 msgid "Costume"
 msgstr "المظهر"
 
-msgid "costume #"
-msgstr "رقم المظهر"
+#~ msgid "costume #"
+#~ msgstr "رقم المظهر"
 
 msgid "Costume Library"
 msgstr "مكتبة المظاهر"
 
-msgid "costume name"
-msgstr "اسم المظهر"
+#~ msgid "costume name"
+#~ msgstr "اسم المظهر"
 
 msgid "costume1"
 msgstr "المظهر ١"
@@ -637,8 +637,8 @@ msgstr "الضوء"
 #~ msgid "lights"
 #~ msgstr "الضوء"
 
-#~ msgid "limit reached"
-#~ msgstr "وصلت الحد الأقصى"
+msgid "limit reached"
+msgstr "وصلت الحد الأقصى"
 
 msgid "Line"
 msgstr "خط مستقيم"
@@ -966,8 +966,8 @@ msgid "Replace existing project"
 msgstr ""
 
 # 75%
-#~ msgid "requires sign in"
-#~ msgstr "يتطلب تسجيل الدخول"
+msgid "requires sign in"
+msgstr "يتطلب تسجيل الدخول"
 
 msgid "Reshape"
 msgstr "إعادة تشكيل"
@@ -1142,8 +1142,8 @@ msgstr "صمت"
 msgid "sin"
 msgstr "الجيب"
 
-msgid "size"
-msgstr "الحجم"
+#~ msgid "size"
+#~ msgstr "الحجم"
 
 msgid "slider"
 msgstr "المنزلقة"
@@ -1438,11 +1438,11 @@ msgstr "ناي خشبي"
 #~ msgid "world"
 #~ msgstr "بالعالم"
 
-msgid "x position"
-msgstr "الموضع س"
+#~ msgid "x position"
+#~ msgstr "الموضع س"
 
-msgid "y position"
-msgstr "الموضع ص"
+#~ msgid "y position"
+#~ msgstr "الموضع ص"
 
 msgid "year"
 msgstr "السنة"
@@ -1746,3 +1746,24 @@ msgstr ""
 
 msgid "random position"
 msgstr "موضع عشوائي"
+
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""

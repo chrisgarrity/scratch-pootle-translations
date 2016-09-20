@@ -731,6 +731,9 @@ msgstr "Charleston fermé"
 msgid "Cloud data"
 msgstr "Données du Cloud"
 
+msgid "Cloud variable (stored on server)"
+msgstr "Variable serveur (stockée sur le Cloud)"
+
 msgid "color"
 msgstr "couleur"
 
@@ -767,9 +770,6 @@ msgstr "Costume"
 
 msgid "Costume Library"
 msgstr "Bibliothèque des costumes"
-
-msgid "costume name"
-msgstr "nom du costume"
 
 msgid "costume1"
 msgstr "costume1"
@@ -1027,6 +1027,9 @@ msgstr "Bibliothèque"
 
 msgid "light"
 msgstr "lumière"
+
+msgid "limit reached"
+msgstr "limite atteinte"
 
 msgid "Line"
 msgstr "Ligne"
@@ -1329,6 +1332,9 @@ msgstr "Renommer"
 
 msgid "rename variable"
 msgstr "renommer la variable"
+
+msgid "requires sign in"
+msgstr "exige de s'inscrire"
 
 msgid "Reshape"
 msgstr "Redessiner"
@@ -1868,6 +1874,27 @@ msgstr "Retirer l'arrière-plan"
 msgid "random position"
 msgstr "Position aléatoire"
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "Français"
@@ -1970,8 +1997,8 @@ msgstr "Position aléatoire"
 #~ msgid "Cloud"
 #~ msgstr "Cloud"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "Variable serveur (stockée sur le Cloud)"
+#~ msgid "costume name"
+#~ msgstr "nom du costume"
 
 # 75%
 # 88%
@@ -2012,9 +2039,6 @@ msgstr "Position aléatoire"
 #~ msgid "lights"
 #~ msgstr "lumières"
 
-#~ msgid "limit reached"
-#~ msgstr "limite atteinte"
-
 #~ msgid "motor"
 #~ msgstr "moteur"
 
@@ -2032,9 +2056,6 @@ msgstr "Position aléatoire"
 
 #~ msgid "Replace existing project"
 #~ msgstr "Remplacer un projet existant"
-
-#~ msgid "requires sign in"
-#~ msgstr "exige de s'inscrire"
 
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "Editeur hors ligne de Scratch"

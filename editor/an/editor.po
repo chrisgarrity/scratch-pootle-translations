@@ -284,8 +284,8 @@ msgstr "Charles zarrau"
 msgid "Cloud data"
 msgstr "Datos en a boira"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "Variable en a boira (alzada en o servidor)"
+msgid "Cloud variable (stored on server)"
+msgstr "Variable en a boira (alzada en o servidor)"
 
 msgid "color"
 msgstr "color"
@@ -321,14 +321,14 @@ msgstr "cos"
 msgid "Costume"
 msgstr "Vestiu"
 
-msgid "costume #"
-msgstr "# de vestiu"
+#~ msgid "costume #"
+#~ msgstr "# de vestiu"
 
 msgid "Costume Library"
 msgstr "Galería de vestius"
 
-msgid "costume name"
-msgstr "nombre d'o vestiu"
+#~ msgid "costume name"
+#~ msgstr "nombre d'o vestiu"
 
 msgid "costume1"
 msgstr "vestiu1"
@@ -625,8 +625,8 @@ msgstr "luz"
 #~ msgid "lights"
 #~ msgstr "luces"
 
-#~ msgid "limit reached"
-#~ msgstr "limite alcanzau"
+msgid "limit reached"
+msgstr "limite alcanzau"
 
 msgid "Line"
 msgstr "Linia"
@@ -953,8 +953,8 @@ msgstr "cambiar o nombre d'a variable"
 #~ msgid "Replace existing project"
 #~ msgstr "Substituir un prochecto existent"
 
-#~ msgid "requires sign in"
-#~ msgstr "requiere iniciar a sesión"
+msgid "requires sign in"
+msgstr "requiere iniciar a sesión"
 
 msgid "Reshape"
 msgstr "Redibuixar"
@@ -1125,8 +1125,8 @@ msgstr "silencio"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "mida"
+#~ msgid "size"
+#~ msgstr "mida"
 
 msgid "slider"
 msgstr "eslizador"
@@ -1425,11 +1425,11 @@ msgstr "Flauta de fusta"
 #~ msgid "world"
 #~ msgstr "mundo"
 
-msgid "x position"
-msgstr "posición en x"
+#~ msgid "x position"
+#~ msgstr "posición en x"
 
-msgid "y position"
-msgstr "posición en y"
+#~ msgid "y position"
+#~ msgstr "posición en y"
 
 msgid "year"
 msgstr "anyo"
@@ -1675,4 +1675,25 @@ msgid "when Stage clicked"
 msgstr ""
 
 msgid "random position"
+msgstr ""
+
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
 msgstr ""

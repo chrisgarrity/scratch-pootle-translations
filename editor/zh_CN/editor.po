@@ -283,8 +283,8 @@ msgstr "闭合双面钹"
 msgid "Cloud data"
 msgstr "云数据"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "云变量（存储在服务器上）"
+msgid "Cloud variable (stored on server)"
+msgstr "云变量（存储在服务器上）"
 
 msgid "color"
 msgstr "颜色"
@@ -320,14 +320,14 @@ msgstr "cos"
 msgid "Costume"
 msgstr "造型"
 
-msgid "costume #"
-msgstr "造型编号"
+#~ msgid "costume #"
+#~ msgstr "造型编号"
 
 msgid "Costume Library"
 msgstr "造型库"
 
-msgid "costume name"
-msgstr "造型名称"
+#~ msgid "costume name"
+#~ msgstr "造型名称"
 
 msgid "costume1"
 msgstr "造型1"
@@ -629,8 +629,8 @@ msgstr "光线"
 #~ msgid "lights"
 #~ msgstr "照明"
 
-#~ msgid "limit reached"
-#~ msgstr "已达到限制"
+msgid "limit reached"
+msgstr "已达到限制"
 
 msgid "Line"
 msgstr "线段"
@@ -958,8 +958,8 @@ msgstr "重命名变量"
 #~ msgid "Replace existing project"
 #~ msgstr "替换现存项目"
 
-#~ msgid "requires sign in"
-#~ msgstr "需要登录"
+msgid "requires sign in"
+msgstr "需要登录"
 
 msgid "Reshape"
 msgstr "变形"
@@ -1128,8 +1128,8 @@ msgstr "无声"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "大小"
+#~ msgid "size"
+#~ msgstr "大小"
 
 msgid "slider"
 msgstr "滑杆"
@@ -1420,11 +1420,11 @@ msgstr "木笛"
 #~ msgid "world"
 #~ msgstr "世界"
 
-msgid "x position"
-msgstr "x坐标"
+#~ msgid "x position"
+#~ msgstr "x坐标"
 
-msgid "y position"
-msgstr "y坐标"
+#~ msgid "y position"
+#~ msgstr "y坐标"
 
 msgid "year"
 msgstr "年"
@@ -1730,4 +1730,25 @@ msgid "when Stage clicked"
 msgstr ""
 
 msgid "random position"
+msgstr ""
+
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
 msgstr ""

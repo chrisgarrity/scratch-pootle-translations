@@ -276,8 +276,8 @@ msgstr "Dún"
 msgid "Closed Hi-Hat"
 msgstr "Ard-hata dúnta"
 
-msgid "Cloud"
-msgstr "Scamall"
+#~ msgid "Cloud"
+#~ msgstr "Scamall"
 
 msgid "Cloud data"
 msgstr "Néalsonraí"
@@ -318,14 +318,14 @@ msgstr "cos"
 msgid "Costume"
 msgstr "Culaith"
 
-msgid "costume #"
-msgstr "culaith #"
+#~ msgid "costume #"
+#~ msgstr "culaith #"
 
 msgid "Costume Library"
 msgstr "Leabharlann Cultacha"
 
-msgid "costume name"
-msgstr "ainm na culaithe"
+#~ msgid "costume name"
+#~ msgstr "ainm na culaithe"
 
 msgid "costume1"
 msgstr "culaith1"
@@ -339,8 +339,8 @@ msgstr "Cultacha"
 msgid "Costumes > 1"
 msgstr "Cultacha > 1"
 
-msgid "Costumes:"
-msgstr "Cultacha:"
+#~ msgid "Costumes:"
+#~ msgstr "Cultacha:"
 
 msgid "Could not retrieve new application from server."
 msgstr "Níorbh fhéidir feidhmchlár nua a fháil ón bhfreastalaí."
@@ -782,8 +782,8 @@ msgstr "Gan bloic gluaiseachta"
 msgid "normal readout"
 msgstr "gnáth-asléamh"
 
-msgid "not ="
-msgstr "ní ionann"
+#~ msgid "not ="
+#~ msgstr "ní ionann"
 
 msgid "Not saved; network or server problem."
 msgstr "Níor sábháladh é; fadhb leis an líonra nó leis an bhfreastalaí."
@@ -1016,8 +1016,8 @@ msgstr "Sacsafón"
 msgid "Scratch Updater"
 msgstr "Nuashonraitheoir Scratch"
 
-msgid "Scratch 2.0 Offline Editor"
-msgstr "Eagarthóir As Líne Scratch 2.0"
+#~ msgid "Scratch 2.0 Offline Editor"
+#~ msgstr "Eagarthóir As Líne Scratch 2.0"
 
 msgid "Script"
 msgstr "Script"
@@ -1025,8 +1025,8 @@ msgstr "Script"
 msgid "Scripts"
 msgstr "Scripteanna"
 
-msgid "Scripts:"
-msgstr "Scripteanna:"
+#~ msgid "Scripts:"
+#~ msgstr "Scripteanna:"
 
 msgid "second"
 msgstr "soicind"
@@ -1034,10 +1034,10 @@ msgstr "soicind"
 msgid "See project page"
 msgstr "Féach ar leathanach an tionscadail"
 
-msgid ""
-"See the Tips window (on the right) to install the plug-in and get the "
-"extension working."
-msgstr "Féach an fhuinneog Leideanna (ar dheis) chun an breiseán a shuiteáil agus an eisínteacht a chur i bhfeidhm."
+#~ msgid ""
+#~ "See the Tips window (on the right) to install the plug-in and get the "
+#~ "extension working."
+#~ msgstr "Féach an fhuinneog Leideanna (ar dheis) chun an breiseán a shuiteáil agus an eisínteacht a chur i bhfeidhm."
 
 msgid "Select"
 msgstr "Roghnaigh"
@@ -1066,8 +1066,8 @@ msgstr "Comhroinn"
 msgid "Share to website"
 msgstr "Comhroinn ar an suíomh Gréasáin"
 
-msgid "Share to Scratch website"
-msgstr "Comhroinn ar shuíomh Gréasáin Scratch"
+#~ msgid "Share to Scratch website"
+#~ msgstr "Comhroinn ar shuíomh Gréasáin Scratch"
 
 msgid "shared"
 msgstr "comhroinnte"
@@ -1078,11 +1078,11 @@ msgstr "Aistriú:"
 msgid "show"
 msgstr "taispeáin"
 
-msgid "show receivers"
-msgstr "taispeáin faighteoirí"
+#~ msgid "show receivers"
+#~ msgstr "taispeáin faighteoirí"
 
-msgid "show senders"
-msgstr "taispeáin seoltóirí"
+#~ msgid "show senders"
+#~ msgstr "taispeáin seoltóirí"
 
 msgid "show:"
 msgstr "taispeáin:"
@@ -1108,8 +1108,8 @@ msgstr "tost"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "méid"
+#~ msgid "size"
+#~ msgstr "méid"
 
 msgid "slider"
 msgstr "sleamhnán"
@@ -1177,8 +1177,8 @@ msgstr "Stáitse roghnaithe:"
 msgid "Steel Drum"
 msgstr "Druma Cruach"
 
-msgid "stored on server"
-msgstr "sábháilte ar an bhfreastalaí"
+#~ msgid "stored on server"
+#~ msgstr "sábháilte ar an bhfreastalaí"
 
 msgid "Synth Lead"
 msgstr "Príomhshintéiseoir"
@@ -1400,11 +1400,11 @@ msgstr "Fliúit Adhmaid"
 #~ msgid "world"
 #~ msgstr "domhan"
 
-msgid "x position"
-msgstr "ionad x"
+#~ msgid "x position"
+#~ msgstr "ionad x"
 
-msgid "y position"
-msgstr "ionad y"
+#~ msgid "y position"
+#~ msgstr "ionad y"
 
 msgid "year"
 msgstr "bliain"
@@ -1422,22 +1422,22 @@ msgstr "Do leasainm Scratch"
 msgid "Your Scratch name is required"
 msgstr "Ní mór leasainm Scratch a thabhairt"
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr "<b>Tuilleadh eolais faoi Néalathróga</b><br>&nbsp;<br>Faoi láthair, ní cheadaímid ach uimhreacha<br>Níl seomraí comhrá ceadaithe, agus scriosfar iad<br>Chun tuilleadh eolais a fháil, féach <a href= target=>ceisteanna coitianta faoi néalsonraí</a>!"
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr "<b>Tuilleadh eolais faoi Néalathróga</b><br>&nbsp;<br>Faoi láthair, ní cheadaímid ach uimhreacha<br>Níl seomraí comhrá ceadaithe, agus scriosfar iad<br>Chun tuilleadh eolais a fháil, féach <a href= target=>ceisteanna coitianta faoi néalsonraí</a>!"
 
-msgid "Click  to try again or  to save"
-msgstr "Cliceáil chun triail eile a bhaint as nó sábháil"
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Cliceáil chun triail eile a bhaint as nó sábháil"
 
 # 92%
-msgid "Eraser width:"
-msgstr "Leithead an léirscriosáin:"
+#~ msgid "Eraser width:"
+#~ msgstr "Leithead an léirscriosáin:"
 
 # 90%
-msgid "Line width:"
-msgstr "Leithead líne:"
+#~ msgid "Line width:"
+#~ msgstr "Leithead líne:"
 
 # Offline editor only
 msgid "All Tips"
@@ -1555,5 +1555,30 @@ msgstr "Bain an Cúlra"
 msgid "any"
 msgstr "ceann ar bith"
 
-msgid "when Stage clicked"
-msgstr "nuair a chliceáiltear an Stáitse"
+#~ msgid "when Stage clicked"
+#~ msgstr "nuair a chliceáiltear an Stáitse"
+
+#, fuzzy
+msgid "Cloud list (stored on server)"
+msgstr "Néalathróg (sábháilte ar an bhfreastalaí)"
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
+msgid "random position"
+msgstr ""

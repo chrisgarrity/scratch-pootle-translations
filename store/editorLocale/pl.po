@@ -628,9 +628,6 @@ msgstr "współrzędna x"
 msgid "y position"
 msgstr "współrzędna y"
 
-msgid "%m.list contains %s"
-msgstr "%m.list zawiera %s"
-
 msgid "go to %m.location"
 msgstr "idź do %m.location"
 
@@ -938,9 +935,6 @@ msgstr "Kostium"
 msgid "Costume Library"
 msgstr "Biblioteka kostiumów"
 
-msgid "costume name"
-msgstr "nazwa kostiumu"
-
 msgid "costume1"
 msgstr "kostium1"
 
@@ -1217,6 +1211,9 @@ msgstr "Biblioteka"
 
 msgid "light"
 msgstr "światło"
+
+msgid "limit reached"
+msgstr "limit osiągnięty"
 
 msgid "Line"
 msgstr "Linia"
@@ -1525,6 +1522,9 @@ msgstr "zmień nazwę zmiennej"
 
 msgid "Replace existing project"
 msgstr ""
+
+msgid "requires sign in"
+msgstr "wymaga zalogowania"
 
 msgid "Reshape"
 msgstr "Przekształć"
@@ -2091,8 +2091,32 @@ msgstr "Usuń tło"
 msgid "random position"
 msgstr "losowe położenie"
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
 #~ msgid "go to %m.spriteOrMouse"
 #~ msgstr "idź do %m.spriteOrMouse"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list zawiera %s"
 
 #~ msgid "About LEGO WeDo extension..."
 #~ msgstr "O rozszerzeniu LEGO WeDo..."
@@ -2102,6 +2126,9 @@ msgstr "losowe położenie"
 
 #~ msgid "Cloud"
 #~ msgstr "Chmura"
+
+#~ msgid "costume name"
+#~ msgstr "nazwa kostiumu"
 
 #~ msgid "Costumes:"
 #~ msgstr "Kostiumy:"
@@ -2119,9 +2146,6 @@ msgstr "losowe położenie"
 #~ msgid "lights"
 #~ msgstr "światła"
 
-#~ msgid "limit reached"
-#~ msgstr "limit osiągnięty"
-
 #~ msgid "motor"
 #~ msgstr "silnik"
 
@@ -2133,9 +2157,6 @@ msgstr "losowe położenie"
 
 #~ msgid "not ="
 #~ msgstr "nie ="
-
-#~ msgid "requires sign in"
-#~ msgstr "wymaga zalogowania"
 
 # 87%
 #~ msgid "Scripts:"

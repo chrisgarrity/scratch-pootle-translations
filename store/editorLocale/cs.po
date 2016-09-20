@@ -741,6 +741,9 @@ msgstr "Zavřená Hi-hat"
 msgid "Cloud data"
 msgstr "Cloudová data"
 
+msgid "Cloud variable (stored on server)"
+msgstr "cloudová proměnná (uložená na serveru)"
+
 msgid "color"
 msgstr "barva"
 
@@ -777,9 +780,6 @@ msgstr "Kostým"
 
 msgid "Costume Library"
 msgstr "Knihovna kostýmů"
-
-msgid "costume name"
-msgstr "název kostýmu"
 
 msgid "costume1"
 msgstr "kostým1"
@@ -1035,6 +1035,9 @@ msgstr "Knihovna"
 
 msgid "light"
 msgstr "světlo"
+
+msgid "limit reached"
+msgstr "dosáhlo limitu"
 
 msgid "Line"
 msgstr "Úsečka"
@@ -1338,6 +1341,9 @@ msgstr "Přejmenovat"
 
 msgid "rename variable"
 msgstr "přejmenovat proměnnou"
+
+msgid "requires sign in"
+msgstr "vyžaduje přihlášení"
 
 msgid "Reshape"
 msgstr "Změna tvaru"
@@ -1874,6 +1880,27 @@ msgstr "Odstraň pozadí"
 msgid "random position"
 msgstr "náhodná pozice"
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
 # The language name as it will appear in the language menu
 # The language name as it will appear in the language menu. "Č" v 1.4 je na konci abecedy!
 #~ msgid "Language-Name"
@@ -1986,8 +2013,8 @@ msgstr "náhodná pozice"
 #~ msgid "Cloud"
 #~ msgstr "Cloud"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "cloudová proměnná (uložená na serveru)"
+#~ msgid "costume name"
+#~ msgstr "název kostýmu"
 
 #~ msgid "Costumes:"
 #~ msgstr "Kostýmy:"
@@ -2026,9 +2053,6 @@ msgstr "náhodná pozice"
 #~ msgid "lights"
 #~ msgstr "světla"
 
-#~ msgid "limit reached"
-#~ msgstr "dosáhlo limitu"
-
 #~ msgid "motor"
 #~ msgstr "motor"
 
@@ -2046,9 +2070,6 @@ msgstr "náhodná pozice"
 
 #~ msgid "Replace existing project"
 #~ msgstr "Nahraď existující projekt"
-
-#~ msgid "requires sign in"
-#~ msgstr "vyžaduje přihlášení"
 
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "Scratch 2.0 offline editor"

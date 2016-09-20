@@ -716,6 +716,9 @@ msgstr "Hi-hat dùinte"
 msgid "Cloud data"
 msgstr "Dàta san neul"
 
+msgid "Cloud variable (stored on server)"
+msgstr "Caochladair san neul (ga stòradh air an fhrithealaiche)"
+
 msgid "color"
 msgstr "datha"
 
@@ -751,9 +754,6 @@ msgstr "Aodach"
 
 msgid "Costume Library"
 msgstr "Leabhar-lann nan aodach"
-
-msgid "costume name"
-msgstr "ainm an aodaich"
 
 msgid "costume1"
 msgstr "aodach1"
@@ -1008,6 +1008,9 @@ msgstr "Leabhar-lann"
 
 msgid "light"
 msgstr "an solas"
+
+msgid "limit reached"
+msgstr "crìoch air a ruigsinn"
 
 msgid "Line"
 msgstr "Loidhne"
@@ -1303,6 +1306,9 @@ msgstr "Thoir ainm ùr air"
 
 msgid "rename variable"
 msgstr "thoir ainm ùr air caochladair"
+
+msgid "requires sign in"
+msgstr "tha e ag iarraidh clàradh a-steach"
 
 msgid "Reshape"
 msgstr "Atharraich cruth"
@@ -1839,6 +1845,27 @@ msgstr "sam bith"
 msgid "random position"
 msgstr "ionad air thuaiream"
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "Gàidhlig"
@@ -1888,8 +1915,8 @@ msgstr "ionad air thuaiream"
 #~ msgid "Cloud"
 #~ msgstr "Neul"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "Caochladair san neul (ga stòradh air an fhrithealaiche)"
+#~ msgid "costume name"
+#~ msgstr "ainm an aodaich"
 
 #~ msgid "Costumes:"
 #~ msgstr "Aodaich:"
@@ -1924,9 +1951,6 @@ msgstr "ionad air thuaiream"
 #~ msgid "lights"
 #~ msgstr "na solasan"
 
-#~ msgid "limit reached"
-#~ msgstr "crìoch air a ruigsinn"
-
 #~ msgid "motor"
 #~ msgstr "motar"
 
@@ -1944,9 +1968,6 @@ msgstr "ionad air thuaiream"
 
 #~ msgid "Replace existing project"
 #~ msgstr "Cuir an àite pròiseict eile"
-
-#~ msgid "requires sign in"
-#~ msgstr "tha e ag iarraidh clàradh a-steach"
 
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "Deasaiche far loidhne Scratch 2.0"

@@ -727,6 +727,9 @@ msgstr "Chimbal fechado"
 msgid "Cloud data"
 msgstr "Dados da nuvem"
 
+msgid "Cloud variable (stored on server)"
+msgstr "Variável na nuvem (armazenada no servidor)"
+
 msgid "color"
 msgstr "cor"
 
@@ -762,9 +765,6 @@ msgstr "Fantasia"
 
 msgid "Costume Library"
 msgstr "Biblioteca de Fantasias"
-
-msgid "costume name"
-msgstr "nome da fantasia"
 
 msgid "costume1"
 msgstr "fantasia1"
@@ -1018,6 +1018,9 @@ msgstr "Biblioteca"
 
 msgid "light"
 msgstr "luz"
+
+msgid "limit reached"
+msgstr "limite atingido"
 
 msgid "Line"
 msgstr "Linha"
@@ -1315,6 +1318,9 @@ msgstr "Renomear"
 
 msgid "rename variable"
 msgstr "renomear variável"
+
+msgid "requires sign in"
+msgstr "requer autenticação"
 
 msgid "Reshape"
 msgstr "Remodelar"
@@ -1851,6 +1857,27 @@ msgstr "qualquer"
 msgid "random position"
 msgstr "posição aleatória"
 
+msgid "Cloud list (stored on server)"
+msgstr "Lista da nuvem (armazenada no servidor)"
+
+msgid "Dance"
+msgstr "Dançar"
+
+msgid "Dress-Up"
+msgstr "Vestir-se"
+
+msgid "Music"
+msgstr "Música"
+
+msgid "Musical Notes"
+msgstr "Notas Musicais"
+
+msgid "My Class"
+msgstr "Minha Turma"
+
+msgid "My Classes"
+msgstr "Minhas Turmas"
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "Português Brasileiro"
@@ -1938,8 +1965,8 @@ msgstr "posição aleatória"
 #~ msgid "Cloud"
 #~ msgstr "Nuvem"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "Variável na nuvem (armazenada no servidor)"
+#~ msgid "costume name"
+#~ msgstr "nome da fantasia"
 
 #~ msgid "Costumes:"
 #~ msgstr "Fantasias:"
@@ -1978,9 +2005,6 @@ msgstr "posição aleatória"
 #~ msgid "lights"
 #~ msgstr "luzes"
 
-#~ msgid "limit reached"
-#~ msgstr "limite atingido"
-
 #~ msgid "motor"
 #~ msgstr "motor"
 
@@ -1998,9 +2022,6 @@ msgstr "posição aleatória"
 
 #~ msgid "Replace existing project"
 #~ msgstr "Substituir o projeto existente"
-
-#~ msgid "requires sign in"
-#~ msgstr "requer autenticação"
 
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "Scratch 2.0 Offline Editor"

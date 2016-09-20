@@ -728,6 +728,9 @@ msgstr "Closed Hi-Hat"
 msgid "Cloud data"
 msgstr "داده ابری"
 
+msgid "Cloud variable (stored on server)"
+msgstr "متغیر ابری (ذخیره شده در سرور)"
+
 msgid "color"
 msgstr "رنگ"
 
@@ -764,9 +767,6 @@ msgstr "لباس"
 
 msgid "Costume Library"
 msgstr "کتابخانه لباس"
-
-msgid "costume name"
-msgstr "نام لباس"
 
 msgid "costume1"
 msgstr "لباس1"
@@ -1020,6 +1020,9 @@ msgstr "کتابخانه"
 
 msgid "light"
 msgstr "نور"
+
+msgid "limit reached"
+msgstr "به حدش رسید"
 
 msgid "Line"
 msgstr "خط"
@@ -1318,6 +1321,9 @@ msgstr "تغییرنام"
 
 msgid "rename variable"
 msgstr "تغییر نام متغیر"
+
+msgid "requires sign in"
+msgstr "باید وارد شوید"
 
 msgid "Reshape"
 msgstr "تغییر شکل"
@@ -1852,6 +1858,27 @@ msgstr ""
 msgid "random position"
 msgstr ""
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "فارسی"
@@ -1934,8 +1961,8 @@ msgstr ""
 #~ msgid "Cloud"
 #~ msgstr "ابر"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "متغیر ابری (ذخیره شده در سرور)"
+#~ msgid "costume name"
+#~ msgstr "نام لباس"
 
 # 75%
 # 88%
@@ -1976,9 +2003,6 @@ msgstr ""
 #~ msgid "lights"
 #~ msgstr "نورها"
 
-#~ msgid "limit reached"
-#~ msgstr "به حدش رسید"
-
 #~ msgid "motor"
 #~ msgstr "موتور"
 
@@ -1996,9 +2020,6 @@ msgstr ""
 
 #~ msgid "Replace existing project"
 #~ msgstr "جایگزینی روی پروژه ای که هست"
-
-#~ msgid "requires sign in"
-#~ msgstr "باید وارد شوید"
 
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "ویرایشگر آفلاین Scratch 2.0"

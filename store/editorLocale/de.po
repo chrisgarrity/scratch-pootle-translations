@@ -743,6 +743,9 @@ msgstr "Geschlossene Hi-Hat"
 msgid "Cloud data"
 msgstr "Cloud-Daten"
 
+msgid "Cloud variable (stored on server)"
+msgstr "Cloud-Variable (auf dem Server gespeichert)"
+
 msgid "color"
 msgstr "Farbe"
 
@@ -778,9 +781,6 @@ msgstr "Kostüm"
 
 msgid "Costume Library"
 msgstr "Kostüm-Bibliothek"
-
-msgid "costume name"
-msgstr "Kostümname"
 
 msgid "costume1"
 msgstr "Kostüm1"
@@ -1039,6 +1039,9 @@ msgstr "Bibliothek"
 # Sensor? LegoWeDo: ein- und ausschalten
 msgid "light"
 msgstr "Helligkeit"
+
+msgid "limit reached"
+msgstr "Grenze erreicht"
 
 msgid "Line"
 msgstr "Linie"
@@ -1348,6 +1351,9 @@ msgstr "Umbenennen"
 
 msgid "rename variable"
 msgstr "Variable umbenennen"
+
+msgid "requires sign in"
+msgstr "Hierzu musst du angemeldet sein."
 
 msgid "Reshape"
 msgstr "Verformen"
@@ -1893,6 +1899,27 @@ msgstr "Hintergrund entfernen"
 msgid "random position"
 msgstr "Zufallsposition"
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "Deutsch"
@@ -1996,8 +2023,8 @@ msgstr "Zufallsposition"
 #~ msgid "Cloud"
 #~ msgstr "Cloud"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "Cloud-Variable (auf dem Server gespeichert)"
+#~ msgid "costume name"
+#~ msgstr "Kostümname"
 
 #~ msgid "Costumes:"
 #~ msgstr "Kostüme:"
@@ -2036,9 +2063,6 @@ msgstr "Zufallsposition"
 #~ msgid "lights"
 #~ msgstr "Leuchten"
 
-#~ msgid "limit reached"
-#~ msgstr "Grenze erreicht"
-
 #~ msgid "motor"
 #~ msgstr "Motor"
 
@@ -2056,9 +2080,6 @@ msgstr "Zufallsposition"
 
 #~ msgid "Replace existing project"
 #~ msgstr "Existierendes Projekt ersetzen"
-
-#~ msgid "requires sign in"
-#~ msgstr "Hierzu musst du angemeldet sein."
 
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "Scratch 2.0 Offline-Editor"

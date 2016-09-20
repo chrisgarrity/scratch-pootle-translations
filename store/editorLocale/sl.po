@@ -758,9 +758,6 @@ msgstr "Videz"
 msgid "Costume Library"
 msgstr "Knjižnica videzov"
 
-msgid "costume name"
-msgstr "ime videza"
-
 msgid "costume1"
 msgstr "videz1"
 
@@ -1009,6 +1006,9 @@ msgstr "Knjižnica"
 
 msgid "light"
 msgstr "nepoudarjeno"
+
+msgid "limit reached"
+msgstr "meja je dosežena"
 
 msgid "Line"
 msgstr "Črta"
@@ -1303,6 +1303,9 @@ msgstr "Preimenuj"
 
 msgid "rename variable"
 msgstr "preimenuj spremenljivko"
+
+msgid "requires sign in"
+msgstr "zahteva prijavo"
 
 msgid "Reshape"
 msgstr "Preoblikuj"
@@ -1829,6 +1832,27 @@ msgstr "Odstrani ozadje"
 msgid "random position"
 msgstr "naključni položaj"
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "Slovenščina"
@@ -1905,6 +1929,9 @@ msgstr "naključni položaj"
 #~ msgid "Cloud"
 #~ msgstr "Oblak"
 
+#~ msgid "costume name"
+#~ msgstr "ime videza"
+
 #~ msgid "Costumes:"
 #~ msgstr "Videzi:"
 
@@ -1942,9 +1969,6 @@ msgstr "naključni položaj"
 #~ msgid "lights"
 #~ msgstr "nepoudarjeno"
 
-#~ msgid "limit reached"
-#~ msgstr "meja je dosežena"
-
 #~ msgid "motor"
 #~ msgstr "motor"
 
@@ -1962,9 +1986,6 @@ msgstr "naključni položaj"
 
 #~ msgid "Replace existing project"
 #~ msgstr "Nadomesti obstoječ projekt"
-
-#~ msgid "requires sign in"
-#~ msgstr "zahteva prijavo"
 
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "Urejevalnik za Scratch 2.0"

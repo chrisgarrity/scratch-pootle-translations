@@ -724,6 +724,9 @@ msgstr "Затворен хај-хет чинел-42п"
 msgid "Cloud data"
 msgstr "Мноштво податоци"
 
+msgid "Cloud variable (stored on server)"
+msgstr "Променлива (зачувана на сервер)"
+
 msgid "color"
 msgstr "боја"
 
@@ -759,9 +762,6 @@ msgstr "Маска"
 
 msgid "Costume Library"
 msgstr "Библиотека со Маски"
-
-msgid "costume name"
-msgstr "име на маска"
 
 msgid "costume1"
 msgstr "маска1"
@@ -1013,6 +1013,9 @@ msgstr "Библиотека"
 
 msgid "light"
 msgstr "светло"
+
+msgid "limit reached"
+msgstr "достигнат лимит"
 
 msgid "Line"
 msgstr "Линија"
@@ -1309,6 +1312,9 @@ msgstr "Преименувај"
 
 msgid "rename variable"
 msgstr "преименувај променлива"
+
+msgid "requires sign in"
+msgstr "потребна е најава"
 
 msgid "Reshape"
 msgstr "Преобликувај"
@@ -1842,6 +1848,27 @@ msgstr ""
 msgid "random position"
 msgstr ""
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "Македонски"
@@ -1923,8 +1950,8 @@ msgstr ""
 #~ msgid "Cloud"
 #~ msgstr "Облак"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "Променлива (зачувана на сервер)"
+#~ msgid "costume name"
+#~ msgstr "име на маска"
 
 #~ msgid "Costumes:"
 #~ msgstr "Маски:"
@@ -1963,9 +1990,6 @@ msgstr ""
 #~ msgid "lights"
 #~ msgstr "светлa"
 
-#~ msgid "limit reached"
-#~ msgstr "достигнат лимит"
-
 #~ msgid "motor"
 #~ msgstr "мотор"
 
@@ -1983,9 +2007,6 @@ msgstr ""
 
 #~ msgid "Replace existing project"
 #~ msgstr "Замени го постоечкиот проект"
-
-#~ msgid "requires sign in"
-#~ msgstr "потребна е најава"
 
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "Скреч 2.0 Офлајн Едитор"

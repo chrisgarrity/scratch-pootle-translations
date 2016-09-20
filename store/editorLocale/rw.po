@@ -145,9 +145,6 @@ msgstr "kunyereza %n amasegonda ku  x:%n y:%n"
 msgid "go back %n layers"
 msgstr "subira inyuma %n kushe"
 
-msgid "go to %m.spriteOrMouse"
-msgstr "jya ku %m.spriteOrMouse"
-
 msgid "go to front"
 msgstr "jya imbere"
 
@@ -2014,12 +2011,36 @@ msgstr ""
 msgid "random position"
 msgstr ""
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "Kinyarwanda"
 
 #~ msgid "%m.list contains %s"
 #~ msgstr "%m.list irimo %s"
+
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "jya ku %m.spriteOrMouse"
 
 # 89%
 # 86%

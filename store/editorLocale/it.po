@@ -733,6 +733,9 @@ msgstr "Charleston"
 msgid "Cloud data"
 msgstr "Dati cloud"
 
+msgid "Cloud variable (stored on server)"
+msgstr "Variabile cloud  (salvata sul server)"
+
 msgid "color"
 msgstr "colore"
 
@@ -769,9 +772,6 @@ msgstr "Costume"
 
 msgid "Costume Library"
 msgstr "Libreria costumi"
-
-msgid "costume name"
-msgstr "nome costume"
 
 msgid "costume1"
 msgstr "costume1"
@@ -1028,6 +1028,9 @@ msgstr "Libreria"
 
 msgid "light"
 msgstr "luce"
+
+msgid "limit reached"
+msgstr "limite raggiunto"
 
 msgid "Line"
 msgstr "Linea"
@@ -1329,6 +1332,9 @@ msgstr "Rinomina"
 
 msgid "rename variable"
 msgstr "rinomina variabile"
+
+msgid "requires sign in"
+msgstr "richiede l'accesso"
 
 msgid "Reshape"
 msgstr "Cambia forma"
@@ -1867,6 +1873,27 @@ msgstr "Rimuovi Sfondo"
 msgid "random position"
 msgstr "posizione scelta a caso"
 
+msgid "Cloud list (stored on server)"
+msgstr "Liste Cloud (memorizzate sul server)"
+
+msgid "Dance"
+msgstr "Ballo"
+
+msgid "Dress-Up"
+msgstr "Moda"
+
+msgid "Music"
+msgstr "Musica"
+
+msgid "Musical Notes"
+msgstr "Note Musicali"
+
+msgid "My Class"
+msgstr "La Mia Classe"
+
+msgid "My Classes"
+msgstr "Le Mie Classi"
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "Italiano"
@@ -1972,8 +1999,8 @@ msgstr "posizione scelta a caso"
 #~ msgid "Cloud"
 #~ msgstr "Cloud"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "Variabile cloud  (salvata sul server)"
+#~ msgid "costume name"
+#~ msgstr "nome costume"
 
 #~ msgid "Costumes:"
 #~ msgstr "Costumi:"
@@ -2012,9 +2039,6 @@ msgstr "posizione scelta a caso"
 #~ msgid "lights"
 #~ msgstr "luci"
 
-#~ msgid "limit reached"
-#~ msgstr "limite raggiunto"
-
 #~ msgid "motor"
 #~ msgstr "motore"
 
@@ -2032,9 +2056,6 @@ msgstr "posizione scelta a caso"
 
 #~ msgid "Replace existing project"
 #~ msgstr "Sostituisci il progetto esistente"
-
-#~ msgid "requires sign in"
-#~ msgstr "richiede l'accesso"
 
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "Editor Offline di Scratch 2.0 "

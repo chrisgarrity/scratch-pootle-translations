@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2016-04-09 09:58+0000\n"
+"PO-Revision-Date: 2016-09-08 18:28+0000\n"
 "Last-Translator: Anders <anders.berggren@smedjebacken.se>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sv\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1460195928.000000\n"
+"X-POOTLE-MTIME: 1473359332.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -287,8 +287,8 @@ msgstr "Stängd Hi-Hat"
 msgid "Cloud data"
 msgstr "Molndata"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "Molnvariabel (sparad på servern)"
+msgid "Cloud variable (stored on server)"
+msgstr "Molnvariabel (sparad på servern)"
 
 msgid "color"
 msgstr "färg"
@@ -324,14 +324,14 @@ msgstr "cos"
 msgid "Costume"
 msgstr "Klädsel"
 
-msgid "costume #"
-msgstr "klädselnummer"
+#~ msgid "costume #"
+#~ msgstr "klädselnummer"
 
 msgid "Costume Library"
 msgstr "Klädsel - bibliotek"
 
-msgid "costume name"
-msgstr "klädselnamn"
+#~ msgid "costume name"
+#~ msgstr "klädselnamn"
 
 msgid "costume1"
 msgstr "klädsel1"
@@ -633,8 +633,8 @@ msgstr "ljus"
 #~ msgid "lights"
 #~ msgstr "ljus"
 
-#~ msgid "limit reached"
-#~ msgstr "gränsen är nådd"
+msgid "limit reached"
+msgstr "gränsen är nådd"
 
 msgid "Line"
 msgstr "Linje"
@@ -962,8 +962,8 @@ msgstr "ändra variabelnamn"
 #~ msgid "Replace existing project"
 #~ msgstr "Ersätt befintligt projekt"
 
-#~ msgid "requires sign in"
-#~ msgstr "kräver inloggning"
+msgid "requires sign in"
+msgstr "kräver inloggning"
 
 msgid "Reshape"
 msgstr "Omforma"
@@ -1133,8 +1133,8 @@ msgstr "tystnad"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "storlek"
+#~ msgid "size"
+#~ msgstr "storlek"
 
 msgid "slider"
 msgstr "reglage"
@@ -1432,11 +1432,11 @@ msgstr "Träflöjt"
 #~ msgid "world"
 #~ msgstr "världen"
 
-msgid "x position"
-msgstr "x-läge"
+#~ msgid "x position"
+#~ msgstr "x-läge"
 
-msgid "y position"
-msgstr "y-läge"
+#~ msgid "y position"
+#~ msgstr "y-läge"
 
 msgid "year"
 msgstr "år"
@@ -1748,3 +1748,25 @@ msgstr ""
 
 msgid "random position"
 msgstr "slumpmässig position"
+
+msgid "Cloud list (stored on server)"
+msgstr "Molnlista (sparad på servern)"
+
+msgid "Dance"
+msgstr "Dansa"
+
+# Osäkert vad som menas. Provar med Klä på
+msgid "Dress-Up"
+msgstr "Klä på"
+
+msgid "Music"
+msgstr "Musik"
+
+msgid "Musical Notes"
+msgstr "Musiknoter"
+
+msgid "My Class"
+msgstr "Min klass"
+
+msgid "My Classes"
+msgstr "Mina klasser"

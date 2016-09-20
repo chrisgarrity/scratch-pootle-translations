@@ -15,8 +15,8 @@ msgstr ""
 "X-POOTLE-MTIME: 1471527804.000000\n"
 
 # The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "বাংলা"
+#~ msgid "Language-Name"
+#~ msgstr "বাংলা"
 
 msgid "%b and %b"
 msgstr "%b এবং %b"
@@ -27,8 +27,8 @@ msgstr "%b অথবা %b"
 msgid "%m.attribute of %m.spriteOrStage"
 msgstr "%m.attribute এর %m.spriteOrStage"
 
-msgid "%m.list contains %s"
-msgstr "%m.list এর তালিকায় রয়েছে %s"
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list এর তালিকায় রয়েছে %s"
 
 msgid "%m.mathOp of %n"
 msgstr "%m.mathOp এর %n"
@@ -72,8 +72,9 @@ msgstr ""
 msgid "change pen color by %n"
 msgstr "কলমের রং %n বদলাও"
 
+#, fuzzy
 msgid "change pen shade by %n"
-msgstr ""
+msgstr "কলমের আকার %n বদলাও"
 
 msgid "change pen size by %n"
 msgstr "কলমের আকার %n বদলাও"
@@ -153,8 +154,8 @@ msgstr ""
 msgid "go back %n layers"
 msgstr ""
 
-msgid "go to %m.spriteOrMouse"
-msgstr "%m.spriteOrMouse এর কাছে যাও"
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "%m.spriteOrMouse এর কাছে যাও"
 
 msgid "go to front"
 msgstr "সামনে যাও"
@@ -313,8 +314,9 @@ msgstr ""
 msgid "set pen color to %c"
 msgstr "কলমের রং %c নির্বাচন কর"
 
+#, fuzzy
 msgid "set pen color to %n"
-msgstr ""
+msgstr "কলমের রং %c নির্বাচন কর"
 
 msgid "set pen shade to %n"
 msgstr ""
@@ -483,25 +485,26 @@ msgstr ""
 msgid "set motor power %n"
 msgstr ""
 
-msgid "turn motor off"
-msgstr "মোটর বন্ধ করো"
+#~ msgid "turn motor off"
+#~ msgstr "মোটর বন্ধ করো"
 
-msgid "turn motor on"
-msgstr "মটর চালু করো"
+#~ msgid "turn motor on"
+#~ msgstr "মটর চালু করো"
 
 msgid "turn motor on for %n secs"
 msgstr ""
 
-msgid "when distance < %n"
-msgstr "যখন দূরত্ব < %n থাকে"
+#~ msgid "when distance < %n"
+#~ msgstr "যখন দূরত্ব < %n থাকে"
 
-msgid "when tilt = %n"
-msgstr "যখন ঢালুর পরিমান = %n"
+#~ msgid "when tilt = %n"
+#~ msgstr "যখন ঢালুর পরিমান = %n"
 
 #: commands-online.txt:7
 #: commands-offline.txt:7
+#, fuzzy
 msgid "%m.list contains %s?"
-msgstr ""
+msgstr "%m.list এর তালিকায় রয়েছে %s"
 
 msgid "go to %m.location"
 msgstr "%m.location যাও"

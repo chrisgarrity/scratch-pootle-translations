@@ -731,6 +731,9 @@ msgstr "Stängd Hi-Hat"
 msgid "Cloud data"
 msgstr "Molndata"
 
+msgid "Cloud variable (stored on server)"
+msgstr "Molnvariabel (sparad på servern)"
+
 msgid "color"
 msgstr "färg"
 
@@ -767,9 +770,6 @@ msgstr "Klädsel"
 
 msgid "Costume Library"
 msgstr "Klädsel - bibliotek"
-
-msgid "costume name"
-msgstr "klädselnamn"
 
 msgid "costume1"
 msgstr "klädsel1"
@@ -1025,6 +1025,9 @@ msgstr "Bibliotek"
 
 msgid "light"
 msgstr "ljus"
+
+msgid "limit reached"
+msgstr "gränsen är nådd"
 
 msgid "Line"
 msgstr "Linje"
@@ -1327,6 +1330,9 @@ msgstr "Ändra namn"
 
 msgid "rename variable"
 msgstr "ändra variabelnamn"
+
+msgid "requires sign in"
+msgstr "kräver inloggning"
 
 msgid "Reshape"
 msgstr "Omforma"
@@ -1864,6 +1870,28 @@ msgstr "Ta bort bakgrund"
 msgid "random position"
 msgstr "slumpmässig position"
 
+msgid "Cloud list (stored on server)"
+msgstr "Molnlista (sparad på servern)"
+
+msgid "Dance"
+msgstr "Dansa"
+
+# Osäkert vad som menas. Provar med Klä på
+msgid "Dress-Up"
+msgstr "Klä på"
+
+msgid "Music"
+msgstr "Musik"
+
+msgid "Musical Notes"
+msgstr "Musiknoter"
+
+msgid "My Class"
+msgstr "Min klass"
+
+msgid "My Classes"
+msgstr "Mina klasser"
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "Svenska"
@@ -1967,8 +1995,8 @@ msgstr "slumpmässig position"
 #~ msgid "Cloud"
 #~ msgstr "Moln"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "Molnvariabel (sparad på servern)"
+#~ msgid "costume name"
+#~ msgstr "klädselnamn"
 
 # 75%
 # 88%
@@ -2009,9 +2037,6 @@ msgstr "slumpmässig position"
 #~ msgid "lights"
 #~ msgstr "ljus"
 
-#~ msgid "limit reached"
-#~ msgstr "gränsen är nådd"
-
 #~ msgid "motor"
 #~ msgstr "motor"
 
@@ -2029,9 +2054,6 @@ msgstr "slumpmässig position"
 
 #~ msgid "Replace existing project"
 #~ msgstr "Ersätt befintligt projekt"
-
-#~ msgid "requires sign in"
-#~ msgstr "kräver inloggning"
 
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "Scratch 2.0 Offlineredigerare"

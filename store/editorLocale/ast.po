@@ -768,9 +768,6 @@ msgstr "Disfraz"
 msgid "Costume Library"
 msgstr "Biblioteca de disfraces"
 
-msgid "costume name"
-msgstr "nome del disfraz"
-
 msgid "costume1"
 msgstr "disfraz1"
 
@@ -1940,6 +1937,27 @@ msgstr ""
 msgid "random position"
 msgstr ""
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "Asturianu"
@@ -1987,6 +2005,9 @@ msgstr ""
 
 #~ msgid "Cloud"
 #~ msgstr "Nube"
+
+#~ msgid "costume name"
+#~ msgstr "nome del disfraz"
 
 #~ msgid "Costumes:"
 #~ msgstr "Disfraces:"

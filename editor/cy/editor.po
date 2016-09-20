@@ -280,8 +280,8 @@ msgstr "Hi-Hat Caeedig"
 msgid "Cloud data"
 msgstr "Data cwmwl"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "Newidyn cwmwl (cedwir ar y gweinydd)"
+msgid "Cloud variable (stored on server)"
+msgstr "Newidyn cwmwl (cedwir ar y gweinydd)"
 
 msgid "color"
 msgstr "lliw"
@@ -316,14 +316,14 @@ msgstr "cos"
 msgid "Costume"
 msgstr "Gwisg"
 
-msgid "costume #"
-msgstr "gwisg #"
+#~ msgid "costume #"
+#~ msgstr "gwisg #"
 
 msgid "Costume Library"
 msgstr "Rhestr Wisgoedd"
 
-msgid "costume name"
-msgstr "enw'r wisg"
+#~ msgid "costume name"
+#~ msgstr "enw'r wisg"
 
 msgid "costume1"
 msgstr "gwisg1"
@@ -619,8 +619,8 @@ msgstr "golau"
 #~ msgid "lights"
 #~ msgstr "goleuadau"
 
-#~ msgid "limit reached"
-#~ msgstr "terfyn eithaf wedi ei gyrraedd"
+msgid "limit reached"
+msgstr "terfyn eithaf wedi ei gyrraedd"
 
 msgid "Line"
 msgstr "Llinell"
@@ -942,8 +942,8 @@ msgstr "ailenwi newidyn"
 #~ msgid "Replace existing project"
 #~ msgstr "Disodli'r prosiect presennol"
 
-#~ msgid "requires sign in"
-#~ msgstr "angen mewngofnodi"
+msgid "requires sign in"
+msgstr "angen mewngofnodi"
 
 msgid "Reshape"
 msgstr "Ail siapio"
@@ -1111,8 +1111,8 @@ msgstr "distawrwydd"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "maint"
+#~ msgid "size"
+#~ msgstr "maint"
 
 msgid "slider"
 msgstr "llithrydd"
@@ -1404,11 +1404,11 @@ msgstr "Ffliwt Bren"
 #~ msgid "world"
 #~ msgstr "y byd"
 
-msgid "x position"
-msgstr "safle x"
+#~ msgid "x position"
+#~ msgstr "safle x"
 
-msgid "y position"
-msgstr "safle y"
+#~ msgid "y position"
+#~ msgstr "safle y"
 
 msgid "year"
 msgstr "blwyddyn"
@@ -1604,4 +1604,25 @@ msgid "when Stage clicked"
 msgstr ""
 
 msgid "random position"
+msgstr ""
+
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
 msgstr ""

@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2016-07-11 17:38+0000\n"
-"Last-Translator: ipernjakovic <ivan@pernjakovic.com>\n"
+"PO-Revision-Date: 2016-09-16 09:41+0000\n"
+"Last-Translator: Milan <milan.cajic@mts.rs>\n"
 "Language-Team: српски <>\n"
 "Language: sr\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1468258716.000000\n"
+"X-POOTLE-MTIME: 1474018904.000000\n"
 "X-Language: sr_RS\n"
 "X-Source-Language: C\n"
 
@@ -295,7 +295,7 @@ msgid "Cloud data"
 msgstr "Интернет подаци у облаку"
 
 msgid "Cloud variable (stored on server)"
-msgstr ""
+msgstr "Променљива у облаку (чува се на серверу путем интернета)"
 
 msgid "color"
 msgstr "боја"
@@ -331,14 +331,14 @@ msgstr "cos"
 msgid "Costume"
 msgstr "Костим"
 
-msgid "costume #"
-msgstr "костим број"
+#~ msgid "costume #"
+#~ msgstr "костим број"
 
 msgid "Costume Library"
 msgstr "Библиотека костима"
 
-msgid "costume name"
-msgstr "име костима"
+#~ msgid "costume name"
+#~ msgstr "име костима"
 
 msgid "costume1"
 msgstr "костим1"
@@ -641,8 +641,8 @@ msgstr "светло"
 msgid "lights"
 msgstr "светло"
 
-#~ msgid "limit reached"
-#~ msgstr "достигнута је граница"
+msgid "limit reached"
+msgstr "достигнута је граница"
 
 msgid "Line"
 msgstr "Линија"
@@ -968,8 +968,8 @@ msgstr "преименуј променљиву"
 msgid "Replace existing project"
 msgstr ""
 
-#~ msgid "requires sign in"
-#~ msgstr "потребно је да будеш пријављен"
+msgid "requires sign in"
+msgstr "потребно је да будеш пријављен"
 
 msgid "Reshape"
 msgstr "Преобликуј"
@@ -1138,8 +1138,8 @@ msgstr "тишина"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "величина"
+#~ msgid "size"
+#~ msgstr "величина"
 
 msgid "slider"
 msgstr "клизач"
@@ -1434,11 +1434,11 @@ msgstr "Дрвена флаута"
 msgid "world"
 msgstr ""
 
-msgid "x position"
-msgstr "x позиција"
+#~ msgid "x position"
+#~ msgstr "x позиција"
 
-msgid "y position"
-msgstr "y позиција"
+#~ msgid "y position"
+#~ msgstr "y позиција"
 
 msgid "year"
 msgstr "година"
@@ -1748,3 +1748,24 @@ msgstr ""
 
 msgid "random position"
 msgstr "случајан положај"
+
+msgid "Cloud list (stored on server)"
+msgstr "Листа у облаку (чува се на серверу путем интернета)"
+
+msgid "Dance"
+msgstr "Плес"
+
+msgid "Dress-Up"
+msgstr "Облачење, дотеривање"
+
+msgid "Music"
+msgstr "Музика"
+
+msgid "Musical Notes"
+msgstr "Музичке ноте"
+
+msgid "My Class"
+msgstr "Моје одељење"
+
+msgid "My Classes"
+msgstr "Моја Одељењљ"

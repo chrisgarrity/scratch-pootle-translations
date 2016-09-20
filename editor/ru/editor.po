@@ -327,14 +327,14 @@ msgstr "cos"
 msgid "Costume"
 msgstr "Костюм"
 
-msgid "costume #"
-msgstr "костюм №"
+#~ msgid "costume #"
+#~ msgstr "костюм №"
 
 msgid "Costume Library"
 msgstr "Библиотека костюмов"
 
-msgid "costume name"
-msgstr "имя костюма"
+#~ msgid "costume name"
+#~ msgstr "имя костюма"
 
 msgid "costume1"
 msgstr "костюм1"
@@ -635,8 +635,8 @@ msgstr "свет"
 #~ msgid "lights"
 #~ msgstr "свет"
 
-#~ msgid "limit reached"
-#~ msgstr "достигнут предел"
+msgid "limit reached"
+msgstr "достигнут предел"
 
 msgid "Line"
 msgstr "Линия"
@@ -963,8 +963,8 @@ msgstr "переименовать переменную"
 msgid "Replace existing project"
 msgstr ""
 
-#~ msgid "requires sign in"
-#~ msgstr "требует входа"
+msgid "requires sign in"
+msgstr "требует входа"
 
 msgid "Reshape"
 msgstr "Изменение формы"
@@ -1135,8 +1135,8 @@ msgstr "тишина"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "размер"
+#~ msgid "size"
+#~ msgstr "размер"
 
 msgid "slider"
 msgstr "рычажок"
@@ -1430,11 +1430,11 @@ msgstr "Деревянная флейта"
 msgid "world"
 msgstr ""
 
-msgid "x position"
-msgstr "положение по оси x"
+#~ msgid "x position"
+#~ msgstr "положение по оси x"
 
-msgid "y position"
-msgstr "положение по оси y"
+#~ msgid "y position"
+#~ msgstr "положение по оси y"
 
 msgid "year"
 msgstr "год"
@@ -1724,3 +1724,24 @@ msgstr ""
 
 msgid "random position"
 msgstr "случайная позиция"
+
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""

@@ -486,37 +486,6 @@ msgstr "posizion x"
 msgid "y position"
 msgstr "posizion y"
 
-# The language name as it will appear in the language menu
-msgid "Language-Name"
-msgstr "Furlan"
-
-msgid "%m.list contains %s"
-msgstr "%m.list al à dentri %s"
-
-msgid "go to %m.spriteOrMouse"
-msgstr "cjape %m.spriteOrMouse"
-
-msgid "set motor direction %m.motorDirection"
-msgstr "puarte direzion motôr a %m.motorDirection"
-
-msgid "set motor power %n"
-msgstr "puarte potence motôr a %n"
-
-msgid "turn motor off"
-msgstr "distude motôr"
-
-msgid "turn motor on"
-msgstr "impie motôr"
-
-msgid "turn motor on for %n secs"
-msgstr "impie motôr par %n seconts"
-
-msgid "when distance < %n"
-msgstr "cuant che la distance < %n"
-
-msgid "when tilt = %n"
-msgstr "cuant che inclinazion = %n"
-
 msgid "10 ^"
 msgstr "10 ^"
 
@@ -1604,9 +1573,6 @@ msgstr "copie"
 msgid "cos"
 msgstr "cos"
 
-msgid "costume name"
-msgstr "non costum"
-
 msgid "costume1"
 msgstr "costum1"
 
@@ -1904,46 +1870,104 @@ msgstr "mulinel"
 msgid "year"
 msgstr "an"
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be "
-"removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Informazions su lis variabilis Cloud</b><br>&nbsp;<br>Pal moment a son "
-"supuartâts dome valôrs numerics<br>Nol è nancje permetût il disvilup di Chat "
-"room, che vignaran scanceladis<br>Par vê plui informazions viodêt la pagjine "
-"<a href= target=>Domandis Fatis dispès sui dâts Cloud</a>"
-
-msgid "Click  to try again or  to save"
-msgstr "Frache  par tornâ a provâ o  par salvâ"
-
-msgid "Cloud"
-msgstr "Cloud"
-
-msgid "Costumes:"
-msgstr "Costums:"
-
-msgid "Eraser width:"
-msgstr "Dimension de gome:"
-
 msgid "limit reached"
 msgstr "rivât al limit"
-
-msgid "Line width:"
-msgstr "Dimension de linie:"
 
 msgid "requires sign in"
 msgstr "si scugne jentrâ"
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Cloud variable (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
+# The language name as it will appear in the language menu
+#~ msgid "Language-Name"
+#~ msgstr "Furlan"
+
+#~ msgid "%m.list contains %s"
+#~ msgstr "%m.list al à dentri %s"
+
+#~ msgid "go to %m.spriteOrMouse"
+#~ msgstr "cjape %m.spriteOrMouse"
+
+#~ msgid "set motor direction %m.motorDirection"
+#~ msgstr "puarte direzion motôr a %m.motorDirection"
+
+#~ msgid "set motor power %n"
+#~ msgstr "puarte potence motôr a %n"
+
+#~ msgid "turn motor off"
+#~ msgstr "distude motôr"
+
+#~ msgid "turn motor on"
+#~ msgstr "impie motôr"
+
+#~ msgid "turn motor on for %n secs"
+#~ msgstr "impie motôr par %n seconts"
+
+#~ msgid "when distance < %n"
+#~ msgstr "cuant che la distance < %n"
+
+#~ msgid "when tilt = %n"
+#~ msgstr "cuant che inclinazion = %n"
+
+#~ msgid "costume name"
+#~ msgstr "non costum"
+
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be "
+#~ "removed<br>For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Informazions su lis variabilis Cloud</b><br>&nbsp;<br>Pal moment a son "
+#~ "supuartâts dome valôrs numerics<br>Nol è nancje permetût il disvilup di "
+#~ "Chat room, che vignaran scanceladis<br>Par vê plui informazions viodêt la "
+#~ "pagjine <a href= target=>Domandis Fatis dispès sui dâts Cloud</a>"
+
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Frache  par tornâ a provâ o  par salvâ"
+
+#~ msgid "Cloud"
+#~ msgstr "Cloud"
+
+#~ msgid "Costumes:"
+#~ msgstr "Costums:"
+
+#~ msgid "Eraser width:"
+#~ msgstr "Dimension de gome:"
+
+#~ msgid "Line width:"
+#~ msgstr "Dimension de linie:"
+
 # 87%
-msgid "Scripts:"
-msgstr "Script:"
+#~ msgid "Scripts:"
+#~ msgstr "Script:"
 
-msgid "show receivers"
-msgstr "mostre ricevents"
+#~ msgid "show receivers"
+#~ msgstr "mostre ricevents"
 
-msgid "show senders"
-msgstr "mostre mitents"
+#~ msgid "show senders"
+#~ msgstr "mostre mitents"
 
-msgid "stored on server"
-msgstr "salvât sul server"
+#~ msgid "stored on server"
+#~ msgstr "salvât sul server"

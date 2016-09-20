@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2016-03-08 21:29+0000\n"
+"PO-Revision-Date: 2016-08-23 19:16+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: km\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1457472585.000000\n"
+"X-POOTLE-MTIME: 1471979816.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -321,14 +321,14 @@ msgstr "cos"
 msgid "Costume"
 msgstr "コスチューム"
 
-msgid "costume #"
-msgstr "コスチューム #"
+#~ msgid "costume #"
+#~ msgstr "コスチューム #"
 
 msgid "Costume Library"
 msgstr "コスチュームライブラリー"
 
-msgid "costume name"
-msgstr "コスチュームめい"
+#~ msgid "costume name"
+#~ msgstr "コスチュームめい"
 
 msgid "costume1"
 msgstr "コスチューム1"
@@ -643,8 +643,8 @@ msgstr "あかるさ"
 msgid "lights"
 msgstr "あかるさ"
 
-#~ msgid "limit reached"
-#~ msgstr "げんかいにとうたつ"
+msgid "limit reached"
+msgstr "げんかいにとうたつ"
 
 msgid "Line"
 msgstr "ちょくせん"
@@ -987,8 +987,8 @@ msgstr "へんすうめいをへんこう"
 msgid "Replace existing project"
 msgstr ""
 
-#~ msgid "requires sign in"
-#~ msgstr "サインインがひつようです"
+msgid "requires sign in"
+msgstr "サインインがひつようです"
 
 msgid "Reshape"
 msgstr "かたちをかえる"
@@ -1158,8 +1158,8 @@ msgstr "サイレンス"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "おおきさ"
+#~ msgid "size"
+#~ msgstr "おおきさ"
 
 #, fuzzy
 msgid "slider"
@@ -1468,11 +1468,11 @@ msgstr "もっかんフルート"
 msgid "world"
 msgstr ""
 
-msgid "x position"
-msgstr "xざひょう"
+#~ msgid "x position"
+#~ msgstr "xざひょう"
 
-msgid "y position"
-msgstr "yざひょう"
+#~ msgid "y position"
+#~ msgstr "yざひょう"
 
 msgid "year"
 msgstr "とし"
@@ -1707,4 +1707,25 @@ msgid "when Stage clicked"
 msgstr ""
 
 msgid "random position"
+msgstr ""
+
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
 msgstr ""

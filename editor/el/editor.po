@@ -320,14 +320,14 @@ msgstr "cos"
 msgid "Costume"
 msgstr "Ενδυμασία"
 
-msgid "costume #"
-msgstr "ενδυμασία #"
+#~ msgid "costume #"
+#~ msgstr "ενδυμασία #"
 
 msgid "Costume Library"
 msgstr "Βιβλιοθήκη Ενδυμασιών"
 
-msgid "costume name"
-msgstr "Όνομα ενδυμασίας"
+#~ msgid "costume name"
+#~ msgstr "Όνομα ενδυμασίας"
 
 msgid "costume1"
 msgstr "ενδυμασία1"
@@ -626,8 +626,8 @@ msgstr "φως"
 msgid "lights"
 msgstr "φως"
 
-#~ msgid "limit reached"
-#~ msgstr "Το όριο έχει φταστεί"
+msgid "limit reached"
+msgstr "Το όριο έχει φταστεί"
 
 msgid "Line"
 msgstr "Γραμμή"
@@ -950,8 +950,8 @@ msgstr "Μετονομασία Μεταβλητής"
 msgid "Replace existing project"
 msgstr ""
 
-#~ msgid "requires sign in"
-#~ msgstr "Απαιτείται σύνδεση Λογαριασμού"
+msgid "requires sign in"
+msgstr "Απαιτείται σύνδεση Λογαριασμού"
 
 msgid "Reshape"
 msgstr "Αλλαγή του σχήματος"
@@ -1004,8 +1004,9 @@ msgstr "Αποθήκευση ενός Αντιγράφου"
 msgid "Save now"
 msgstr "Αποθήκευση τώρα"
 
+#, fuzzy
 msgid "Save project?"
-msgstr ""
+msgstr "Αποθήκευση έργου"
 
 msgid "save to local file"
 msgstr "Αποθήκευση σε Τοπικό Αρχείο"
@@ -1117,8 +1118,8 @@ msgstr "Σίγαση"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "μέγεθος"
+#~ msgid "size"
+#~ msgstr "μέγεθος"
 
 msgid "slider"
 msgstr "Γραμμή κύλισης"
@@ -1407,11 +1408,11 @@ msgstr "Ξύλινο φλάουτο"
 msgid "world"
 msgstr ""
 
-msgid "x position"
-msgstr "Θέση x"
+#~ msgid "x position"
+#~ msgstr "Θέση x"
 
-msgid "y position"
-msgstr "Θέση y"
+#~ msgid "y position"
+#~ msgstr "Θέση y"
 
 msgid "year"
 msgstr "χρόνος"
@@ -1698,4 +1699,25 @@ msgid "when Stage clicked"
 msgstr ""
 
 msgid "random position"
+msgstr ""
+
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
 msgstr ""

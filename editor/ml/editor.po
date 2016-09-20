@@ -317,14 +317,14 @@ msgstr "cos"
 msgid "Costume"
 msgstr "രൂപം"
 
-msgid "costume #"
-msgstr "രൂപം #"
+#~ msgid "costume #"
+#~ msgstr "രൂപം #"
 
 msgid "Costume Library"
 msgstr "രൂപങ്ങളുടെ കൂട്ടം"
 
-msgid "costume name"
-msgstr "രൂപത്തിന്‍റെ പേര്"
+#~ msgid "costume name"
+#~ msgstr "രൂപത്തിന്‍റെ പേര്"
 
 msgid "costume1"
 msgstr "രൂപം 1"
@@ -622,8 +622,8 @@ msgstr "പ്രകാശം"
 msgid "lights"
 msgstr "പ്രകാശം"
 
-#~ msgid "limit reached"
-#~ msgstr "പരിധി എത്തിച്ചേര്‍ന്നു"
+msgid "limit reached"
+msgstr "പരിധി എത്തിച്ചേര്‍ന്നു"
 
 msgid "Line"
 msgstr "വര"
@@ -947,8 +947,8 @@ msgstr "ചരത്തിനു പുതിയ പേര് കൊടുക്
 msgid "Replace existing project"
 msgstr ""
 
-#~ msgid "requires sign in"
-#~ msgstr "അകത്തു പ്രവേശിക്കണം"
+msgid "requires sign in"
+msgstr "അകത്തു പ്രവേശിക്കണം"
 
 msgid "Reshape"
 msgstr "വീണ്ടും രൂപപ്പെടുത്തുക"
@@ -1114,8 +1114,8 @@ msgstr "നിശ്ശബ്ദത"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "വലിപ്പം"
+#~ msgid "size"
+#~ msgstr "വലിപ്പം"
 
 msgid "slider"
 msgstr "സ്ലൈഡര്‍"
@@ -1408,11 +1408,11 @@ msgstr "ഓടക്കുഴല്‍"
 msgid "world"
 msgstr ""
 
-msgid "x position"
-msgstr "xസ്ഥാനം"
+#~ msgid "x position"
+#~ msgstr "xസ്ഥാനം"
 
-msgid "y position"
-msgstr "yസ്ഥാനം"
+#~ msgid "y position"
+#~ msgstr "yസ്ഥാനം"
 
 msgid "year"
 msgstr "വര്‍ഷം"
@@ -1585,4 +1585,25 @@ msgid "when Stage clicked"
 msgstr ""
 
 msgid "random position"
+msgstr ""
+
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
 msgstr ""

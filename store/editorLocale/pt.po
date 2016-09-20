@@ -731,6 +731,9 @@ msgstr "Pratos de Choque Fechados"
 msgid "Cloud data"
 msgstr "Dados de nuvem"
 
+msgid "Cloud variable (stored on server)"
+msgstr "Variável de nuvem (guardada num servidor)"
+
 msgid "color"
 msgstr "cor"
 
@@ -767,9 +770,6 @@ msgstr "Traje"
 
 msgid "Costume Library"
 msgstr "Biblioteca de Trajes"
-
-msgid "costume name"
-msgstr "o nome do traje"
 
 msgid "costume1"
 msgstr "o traje 1"
@@ -1024,6 +1024,9 @@ msgstr "Biblioteca"
 
 msgid "light"
 msgstr "luz"
+
+msgid "limit reached"
+msgstr "limite atingido"
 
 msgid "Line"
 msgstr "Linha"
@@ -1325,6 +1328,9 @@ msgstr "Renomear"
 
 msgid "rename variable"
 msgstr "renomear variável"
+
+msgid "requires sign in"
+msgstr "requer autenticação"
 
 msgid "Reshape"
 msgstr "Remodelar"
@@ -1863,6 +1869,27 @@ msgstr "Remover o Fundo"
 msgid "random position"
 msgstr "uma posição ao acaso"
 
+msgid "Cloud list (stored on server)"
+msgstr "Lista de nuvem (guardada no servidor)"
+
+msgid "Dance"
+msgstr "Dança"
+
+msgid "Dress-Up"
+msgstr "Vestir-se"
+
+msgid "Music"
+msgstr "Música"
+
+msgid "Musical Notes"
+msgstr "Notas Musicais"
+
+msgid "My Class"
+msgstr "A Minha Turma"
+
+msgid "My Classes"
+msgstr "As Minhas Turmas"
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "Português"
@@ -1950,8 +1977,8 @@ msgstr "uma posição ao acaso"
 #~ msgid "Cloud"
 #~ msgstr "Nuvem"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "Variável de nuvem (guardada num servidor)"
+#~ msgid "costume name"
+#~ msgstr "o nome do traje"
 
 #~ msgid "Costumes:"
 #~ msgstr "Trajes:"
@@ -1990,9 +2017,6 @@ msgstr "uma posição ao acaso"
 #~ msgid "lights"
 #~ msgstr "luzes"
 
-#~ msgid "limit reached"
-#~ msgstr "limite atingido"
-
 #~ msgid "motor"
 #~ msgstr "o motor"
 
@@ -2010,9 +2034,6 @@ msgstr "uma posição ao acaso"
 
 #~ msgid "Replace existing project"
 #~ msgstr "Substituir o projecto existente"
-
-#~ msgid "requires sign in"
-#~ msgstr "requer autenticação"
 
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "Editor Desconectado do Scratch 2.0"

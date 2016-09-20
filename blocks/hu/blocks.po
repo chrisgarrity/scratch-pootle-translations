@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2016-06-12 08:52+0000\n"
+"PO-Revision-Date: 2016-09-17 05:22+0000\n"
 "Last-Translator: Péter <bernatp@hotmail.hu>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hu\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1465721560.000000\n"
+"X-POOTLE-MTIME: 1474089747.000000\n"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
@@ -40,7 +40,7 @@ msgid "%n mod %n"
 msgstr "%n mod %n"
 
 msgid "add %s to %m.list"
-msgstr "%s hozzáadása %m.list listához"
+msgstr "add hozzá: %s %m.list listához"
 
 msgid "answer"
 msgstr "válasz"
@@ -120,12 +120,13 @@ msgstr "Adatok"
 msgid "days since 2000"
 msgstr "napok 2000 óta"
 
+# így csináld: ... <-- erről mi a véleményetek?
 msgid "define"
 msgstr "meghatározás:"
 
 # A változók fordított sorrendje esetén magyarosabb lenne, de úgy nem jelenik meg a Scratch-ben a fordítás
 msgid "delete %d.listDeleteItem of %m.list"
-msgstr "töröld %d.listDeleteItem elemét: %m.list"
+msgstr "töröld %d.listDeleteItem elemet %m.list listából"
 
 msgid "delete this clone"
 msgstr "töröld ezt a másolatot"
@@ -182,7 +183,7 @@ msgstr "ha szélen vagy, pattanj vissza"
 
 # Nem magyaros, de sajnos a változóknak eredeti sorrendben kell lenniük, hogy átmenjen a fordítás.
 msgid "insert %s at %d.listItem of %m.list"
-msgstr "szúrd be %s %d.listItem helyére: %m.list"
+msgstr "szúrd be: %s %d.listItem helyen %m.list listába"
 
 # Nem magyaros a szórend, de csak így jelenik meg a Scratch-ben.
 msgid "item %d.listItem of %m.list"
@@ -279,7 +280,7 @@ msgid "repeat until %b"
 msgstr "ismételd eddig: %b"
 
 msgid "replace item %d.listItem of %m.list with %s"
-msgstr "cseréld le %d.listItem elemét %m.list : %s"
+msgstr "cseréld le %d.listItem elemet %m.list listában: %s"
 
 msgid "reset timer"
 msgstr "nullázd az időmérőt"
@@ -377,7 +378,7 @@ msgid "stop %m.stop"
 msgstr "%m.stop álljon le"
 
 msgid "stop all sounds"
-msgstr "minden hangot állíts le"
+msgstr "minden hang álljon le"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"

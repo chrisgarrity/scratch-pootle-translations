@@ -1114,11 +1114,11 @@ msgstr "copie"
 msgid "cos"
 msgstr "cos"
 
-msgid "costume #"
-msgstr "numar costum"
+#~ msgid "costume #"
+#~ msgstr "numar costum"
 
-msgid "costume name"
-msgstr "non costum"
+#~ msgid "costume name"
+#~ msgstr "non costum"
 
 msgid "costume1"
 msgstr "costum1"
@@ -1372,8 +1372,8 @@ msgstr "cidin"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "dimension"
+#~ msgid "size"
+#~ msgstr "dimension"
 
 msgid "slider"
 msgstr "cursôr"
@@ -1438,55 +1438,79 @@ msgstr "volum"
 msgid "whirl"
 msgstr "mulinel"
 
-msgid "x position"
-msgstr "posizion x"
+#~ msgid "x position"
+#~ msgstr "posizion x"
 
-msgid "y position"
-msgstr "posizion y"
+#~ msgid "y position"
+#~ msgstr "posizion y"
 
 msgid "year"
 msgstr "an"
 
-msgid ""
-"<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
-"numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
-"For more info, <a href= target=>see the cloud data FAQ!</a>"
-msgstr ""
-"<b>Informazions su lis variabilis Cloud</b><br>&nbsp;<br>Pal moment a son "
-"supuartâts dome valôrs numerics<br>Nol è nancje permetût il disvilup di Chat "
-"room, che vignaran scanceladis<br>Par vê plui informazions viodêt la pagjine "
-"<a href= target=>Domandis Fatis dispès sui dâts Cloud</a>"
+#~ msgid ""
+#~ "<b>Information about Cloud variables</b><br>&nbsp;<br>Currently, only "
+#~ "numbers are supported<br>Chat rooms are not allowed, and will be removed<br>"
+#~ "For more info, <a href= target=>see the cloud data FAQ!</a>"
+#~ msgstr ""
+#~ "<b>Informazions su lis variabilis Cloud</b><br>&nbsp;<br>Pal moment a son "
+#~ "supuartâts dome valôrs numerics<br>Nol è nancje permetût il disvilup di Chat "
+#~ "room, che vignaran scanceladis<br>Par vê plui informazions viodêt la pagjine "
+#~ "<a href= target=>Domandis Fatis dispès sui dâts Cloud</a>"
 
-msgid "Click  to try again or  to save"
-msgstr "Frache  par tornâ a provâ o  par salvâ"
+#~ msgid "Click  to try again or  to save"
+#~ msgstr "Frache  par tornâ a provâ o  par salvâ"
 
-msgid "Cloud"
-msgstr "Cloud"
+#~ msgid "Cloud"
+#~ msgstr "Cloud"
 
-msgid "Costumes:"
-msgstr "Costums:"
+#~ msgid "Costumes:"
+#~ msgstr "Costums:"
 
-msgid "Eraser width:"
-msgstr "Dimension de gome:"
+#~ msgid "Eraser width:"
+#~ msgstr "Dimension de gome:"
 
 msgid "limit reached"
 msgstr "rivât al limit"
 
-msgid "Line width:"
-msgstr "Dimension de linie:"
+#~ msgid "Line width:"
+#~ msgstr "Dimension de linie:"
 
 msgid "requires sign in"
 msgstr "si scugne jentrâ"
 
 # 87%
-msgid "Scripts:"
-msgstr "Script:"
+#~ msgid "Scripts:"
+#~ msgstr "Script:"
 
-msgid "show receivers"
-msgstr "mostre ricevents"
+#~ msgid "show receivers"
+#~ msgstr "mostre ricevents"
 
-msgid "show senders"
-msgstr "mostre mitents"
+#~ msgid "show senders"
+#~ msgstr "mostre mitents"
 
-msgid "stored on server"
-msgstr "salvât sul server"
+#~ msgid "stored on server"
+#~ msgstr "salvât sul server"
+
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Cloud variable (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""

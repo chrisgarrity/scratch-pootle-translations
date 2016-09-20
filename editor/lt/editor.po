@@ -331,14 +331,14 @@ msgstr "cos"
 msgid "Costume"
 msgstr "Kaukė"
 
-msgid "costume #"
-msgstr "kaukės nr."
+#~ msgid "costume #"
+#~ msgstr "kaukės nr."
 
 msgid "Costume Library"
 msgstr "Kaukių katalogas"
 
-msgid "costume name"
-msgstr "kaukės pavadinimas"
+#~ msgid "costume name"
+#~ msgstr "kaukės pavadinimas"
 
 msgid "costume1"
 msgstr "kaukė 1"
@@ -1170,8 +1170,8 @@ msgstr "tyla"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "dydis"
+#~ msgid "size"
+#~ msgstr "dydis"
 
 msgid "slider"
 msgstr "slinktis"
@@ -1474,11 +1474,11 @@ msgstr "Medinė fleita"
 msgid "world"
 msgstr ""
 
-msgid "x position"
-msgstr "x"
+#~ msgid "x position"
+#~ msgstr "x"
 
-msgid "y position"
-msgstr "y"
+#~ msgid "y position"
+#~ msgstr "y"
 
 msgid "year"
 msgstr "metai"
@@ -1720,4 +1720,25 @@ msgid "when Stage clicked"
 msgstr ""
 
 msgid "random position"
+msgstr ""
+
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
 msgstr ""

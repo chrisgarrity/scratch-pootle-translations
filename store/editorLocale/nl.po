@@ -769,9 +769,6 @@ msgstr "Uiterlijk"
 msgid "Costume Library"
 msgstr "Uiterlijkenbibliotheek"
 
-msgid "costume name"
-msgstr "naam uiterlijk"
-
 msgid "costume1"
 msgstr "uiterlijk1"
 
@@ -1047,6 +1044,9 @@ msgstr "Bibliotheek"
 
 msgid "light"
 msgstr "licht"
+
+msgid "limit reached"
+msgstr "limiet bereikt"
 
 msgid "Line"
 msgstr "Lijn"
@@ -1346,6 +1346,9 @@ msgstr "geef variabele andere naam"
 
 msgid "Replace existing project"
 msgstr ""
+
+msgid "requires sign in"
+msgstr "moet hiervoor ingelogd zijn"
 
 msgid "Reshape"
 msgstr "Opnieuw vormen"
@@ -1900,6 +1903,27 @@ msgstr "Verwijder achtergrond"
 msgid "random position"
 msgstr "willekeurige positie"
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
 #~ msgstr "Nederlands"
@@ -1999,6 +2023,9 @@ msgstr "willekeurige positie"
 #~ msgid "Cloud"
 #~ msgstr "Cloud"
 
+#~ msgid "costume name"
+#~ msgstr "naam uiterlijk"
+
 #~ msgid "Costumes:"
 #~ msgstr "Uiterlijken:"
 
@@ -2015,9 +2042,6 @@ msgstr "willekeurige positie"
 #~ msgid "lights"
 #~ msgstr "lichten"
 
-#~ msgid "limit reached"
-#~ msgstr "limiet bereikt"
-
 #~ msgid "motor"
 #~ msgstr "motor"
 
@@ -2032,9 +2056,6 @@ msgstr "willekeurige positie"
 
 #~ msgid "Remove extension blocks"
 #~ msgstr "Verwijder uitbreidingsblokken"
-
-#~ msgid "requires sign in"
-#~ msgstr "moet hiervoor ingelogd zijn"
 
 # 87%
 #~ msgid "Scripts:"

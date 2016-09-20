@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2016-05-02 17:27+0000\n"
+"PO-Revision-Date: 2016-09-01 15:21+0000\n"
 "Last-Translator: paunin <nindemateo@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ca\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1462210058.000000\n"
+"X-POOTLE-MTIME: 1472743288.000000\n"
 
 msgid "10 ^"
 msgstr "10 ^"
@@ -275,7 +275,8 @@ msgstr "neteja emissors/receptors"
 
 msgid "Click \"Save now\" to try again or \"Download\" to save"
 msgstr ""
-"Fes clic a «Desa ara»  per tornar-ho a intentar o bé «Descarrega» per desar"
+"Fes clic a \"Desa ara\" per tornar-ho a intentar o bé \"Descarrega\" per "
+"desar"
 
 msgid "Close"
 msgstr "Tanca"
@@ -290,7 +291,7 @@ msgid "Cloud data"
 msgstr "Dades al núvol"
 
 msgid "Cloud variable (stored on server)"
-msgstr ""
+msgstr "Variable al núvol (emmagatzemada en el servidor)"
 
 msgid "color"
 msgstr "color"
@@ -326,14 +327,14 @@ msgstr "cos"
 msgid "Costume"
 msgstr "Vestit"
 
-msgid "costume #"
-msgstr "vestit nr"
+#~ msgid "costume #"
+#~ msgstr "vestit nr"
 
 msgid "Costume Library"
 msgstr "Galeria de Vestits"
 
-msgid "costume name"
-msgstr "nom del vestit"
+#~ msgid "costume name"
+#~ msgstr "nom del vestit"
 
 msgid "costume1"
 msgstr "vestit1"
@@ -634,8 +635,8 @@ msgstr "llum"
 #~ msgid "lights"
 #~ msgstr "llums"
 
-#~ msgid "limit reached"
-#~ msgstr "límit assolit"
+msgid "limit reached"
+msgstr "límit assolit"
 
 msgid "Line"
 msgstr "Línia"
@@ -963,8 +964,8 @@ msgstr "canvia el nom de la variable"
 msgid "Replace existing project"
 msgstr ""
 
-#~ msgid "requires sign in"
-#~ msgstr "requereix iniciar la sessió"
+msgid "requires sign in"
+msgstr "requereix iniciar la sessió"
 
 msgid "Reshape"
 msgstr "Redibuixa"
@@ -1135,8 +1136,8 @@ msgstr "silenci"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "mida"
+#~ msgid "size"
+#~ msgstr "mida"
 
 msgid "slider"
 msgstr "lliscador"
@@ -1396,7 +1397,7 @@ msgid "Vibraslap"
 msgstr "Vibraslap"
 
 msgid "video direction"
-msgstr "Direcció del vídeo"
+msgstr "direcció del vídeo"
 
 msgid "video motion"
 msgstr "moviment de vídeo"
@@ -1434,11 +1435,11 @@ msgstr "Flauta dolça"
 msgid "world"
 msgstr ""
 
-msgid "x position"
-msgstr "posició x"
+#~ msgid "x position"
+#~ msgstr "posició x"
 
-msgid "y position"
-msgstr "posició y"
+#~ msgid "y position"
+#~ msgstr "posició y"
 
 msgid "year"
 msgstr "any"
@@ -1751,3 +1752,24 @@ msgstr ""
 
 msgid "random position"
 msgstr "posició aleatòria"
+
+msgid "Cloud list (stored on server)"
+msgstr "Llista al núvol (emmagatzemada en el servidor)"
+
+msgid "Dance"
+msgstr "Balla"
+
+msgid "Dress-Up"
+msgstr "Disfressa"
+
+msgid "Music"
+msgstr "Música"
+
+msgid "Musical Notes"
+msgstr "Notes musicals"
+
+msgid "My Class"
+msgstr "La meva classe"
+
+msgid "My Classes"
+msgstr "Les meves classes"

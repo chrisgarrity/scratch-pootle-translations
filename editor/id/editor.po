@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-11-23 12:54+0000\n"
-"PO-Revision-Date: 2015-05-10 12:06+0000\n"
+"PO-Revision-Date: 2016-09-18 13:27+0000\n"
 "Last-Translator: Emmanuella <emma.rumanti@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: id\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1431259612.000000\n"
+"X-POOTLE-MTIME: 1474205238.000000\n"
 
 # Sepertinya ini matematika... ~R
 msgid "10 ^"
@@ -290,8 +290,8 @@ msgstr "Tutup hi-hat"
 msgid "Cloud data"
 msgstr "Cloud data"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "Variabel Cloud (disimpan di server)"
+msgid "Cloud variable (stored on server)"
+msgstr "Variabel Cloud (disimpan di server)"
 
 msgid "color"
 msgstr "warna"
@@ -328,14 +328,14 @@ msgstr "cos"
 msgid "Costume"
 msgstr "Kostum"
 
-msgid "costume #"
-msgstr "kostum #"
+#~ msgid "costume #"
+#~ msgstr "kostum #"
 
 msgid "Costume Library"
 msgstr "Pustaka Kostum"
 
-msgid "costume name"
-msgstr "nama kostum"
+#~ msgid "costume name"
+#~ msgstr "nama kostum"
 
 msgid "costume1"
 msgstr "kostum1"
@@ -637,8 +637,8 @@ msgstr "cahaya"
 #~ msgid "lights"
 #~ msgstr "cahaya"
 
-#~ msgid "limit reached"
-#~ msgstr "batas telah tercapai"
+msgid "limit reached"
+msgstr "batas telah tercapai"
 
 msgid "Line"
 msgstr "Garis"
@@ -963,8 +963,8 @@ msgstr "namai ulang variabel"
 #~ msgid "Replace existing project"
 #~ msgstr "Ganti karya yang ada"
 
-#~ msgid "requires sign in"
-#~ msgstr "mengharuskan untuk masuk"
+msgid "requires sign in"
+msgstr "mengharuskan untuk masuk"
 
 msgid "Reshape"
 msgstr "Bentuk ulang"
@@ -1132,8 +1132,8 @@ msgstr "sunyi"
 msgid "sin"
 msgstr "sin"
 
-msgid "size"
-msgstr "ukuran"
+#~ msgid "size"
+#~ msgstr "ukuran"
 
 msgid "slider"
 msgstr "slider"
@@ -1431,11 +1431,11 @@ msgstr "Seruling Kayu"
 msgid "world"
 msgstr ""
 
-msgid "x position"
-msgstr "posisi x"
+#~ msgid "x position"
+#~ msgstr "posisi x"
 
-msgid "y position"
-msgstr "posisi y"
+#~ msgid "y position"
+#~ msgstr "posisi y"
 
 msgid "year"
 msgstr "tahun"
@@ -1484,9 +1484,8 @@ msgstr ""
 "situs Scratch."
 
 # Offline editor only
-#, fuzzy
 msgid "Could not retrieve update location from server."
-msgstr "Tidak dapat menerima aplikasi baru dari server."
+msgstr "Tidak mampu mendapatkan lokasi pembaruan dari server."
 
 # Offline editor only
 msgid "Could not retrieve version information from server."
@@ -1505,9 +1504,8 @@ msgid "Error saving project"
 msgstr "Error menyimpan karya"
 
 # Offline editor only
-#, fuzzy
 msgid "Force help file update"
-msgstr "Perbarui paksa berkas bantuan"
+msgstr "Paksa pembaruan berkas bantuan"
 
 # Offline editor only
 msgid "Import experimental HTTP extension"
@@ -1635,13 +1633,34 @@ msgstr "sembarang"
 #~ msgstr "Guiro Pendek"
 
 msgid "Record Project Video"
-msgstr ""
+msgstr "Rekam Video Karya"
 
 msgid "Remove Background"
-msgstr ""
+msgstr "Hilangkan Latar"
 
 msgid "when Stage clicked"
 msgstr ""
 
 msgid "random position"
-msgstr ""
+msgstr "posisi sembarang"
+
+msgid "Cloud list (stored on server)"
+msgstr "Daftar cloud (disimpan di server)"
+
+msgid "Dance"
+msgstr "Menari"
+
+msgid "Dress-Up"
+msgstr "Dress-Up"
+
+msgid "Music"
+msgstr "Musik"
+
+msgid "Musical Notes"
+msgstr "Nada Musikal"
+
+msgid "My Class"
+msgstr "Kelas Saya"
+
+msgid "My Classes"
+msgstr "Kelas Saya"

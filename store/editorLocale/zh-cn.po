@@ -732,6 +732,9 @@ msgstr "闭合双面钹"
 msgid "Cloud data"
 msgstr "云数据"
 
+msgid "Cloud variable (stored on server)"
+msgstr "云变量（存储在服务器上）"
+
 msgid "color"
 msgstr "颜色"
 
@@ -768,9 +771,6 @@ msgstr "造型"
 
 msgid "Costume Library"
 msgstr "造型库"
-
-msgid "costume name"
-msgstr "造型名称"
 
 msgid "costume1"
 msgstr "造型1"
@@ -1026,6 +1026,9 @@ msgstr "库"
 
 msgid "light"
 msgstr "光线"
+
+msgid "limit reached"
+msgstr "已达到限制"
 
 msgid "Line"
 msgstr "线段"
@@ -1328,6 +1331,9 @@ msgstr "重命名"
 
 msgid "rename variable"
 msgstr "重命名变量"
+
+msgid "requires sign in"
+msgstr "需要登录"
 
 msgid "Reshape"
 msgstr "变形"
@@ -1863,6 +1869,27 @@ msgstr ""
 msgid "random position"
 msgstr ""
 
+msgid "Cloud list (stored on server)"
+msgstr ""
+
+msgid "Dance"
+msgstr ""
+
+msgid "Dress-Up"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+msgid "Musical Notes"
+msgstr ""
+
+msgid "My Class"
+msgstr ""
+
+msgid "My Classes"
+msgstr ""
+
 # The language name as it will appear in the language menu
 # Note: This should be translated as 简体中文 because it's the name of the current language (not 语言名称).
 #~ msgid "Language-Name"
@@ -1967,8 +1994,8 @@ msgstr ""
 #~ msgid "Cloud"
 #~ msgstr "云"
 
-#~ msgid "Cloud variable (stored on server)"
-#~ msgstr "云变量（存储在服务器上）"
+#~ msgid "costume name"
+#~ msgstr "造型名称"
 
 # 75%
 # 88%
@@ -2009,9 +2036,6 @@ msgstr ""
 #~ msgid "lights"
 #~ msgstr "照明"
 
-#~ msgid "limit reached"
-#~ msgstr "已达到限制"
-
 #~ msgid "motor"
 #~ msgstr "马达"
 
@@ -2029,9 +2053,6 @@ msgstr ""
 
 #~ msgid "Replace existing project"
 #~ msgstr "替换现存项目"
-
-#~ msgid "requires sign in"
-#~ msgstr "需要登录"
 
 #~ msgid "Scratch 2.0 Offline Editor"
 #~ msgstr "Scratch2.0离线编辑器"

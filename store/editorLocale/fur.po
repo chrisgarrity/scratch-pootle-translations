@@ -1877,28 +1877,28 @@ msgid "requires sign in"
 msgstr "si scugne jentrâ"
 
 msgid "Cloud list (stored on server)"
-msgstr ""
+msgstr "Liste Cloud (salvade sul server)"
 
 msgid "Cloud variable (stored on server)"
-msgstr ""
+msgstr "Variabile Cloud (salvade sul server)"
 
 msgid "Dance"
-msgstr ""
+msgstr "Danze"
 
 msgid "Dress-Up"
-msgstr ""
+msgstr "Mode"
 
 msgid "Music"
-msgstr ""
+msgstr "Musiche"
 
 msgid "Musical Notes"
-msgstr ""
+msgstr "Notis Musicâl"
 
 msgid "My Class"
-msgstr ""
+msgstr "La Me Classe"
 
 msgid "My Classes"
-msgstr ""
+msgstr "Lis Mês Classis"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"

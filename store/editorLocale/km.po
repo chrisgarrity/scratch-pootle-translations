@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2016-08-23 19:32+0000\n"
-"Last-Translator: Anonymous Pootle User\n"
+"PO-Revision-Date: 2016-10-12 12:44+0000\n"
+"Last-Translator: Vuthy <vuthy.v@ligercambodia.org>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: km\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1471980742.000000\n"
+"X-POOTLE-MTIME: 1476276241.000000\n"
 
 msgid "%b and %b"
 msgstr "%b និង %b"
@@ -36,19 +36,18 @@ msgid "add %s to %m.list"
 msgstr "បន្ថែម %s លើ %m.list"
 
 msgid "answer"
-msgstr "ឆ្លើយ"
+msgstr "ចម្លើយ"
 
 msgid "ask %s and wait"
 msgstr "សួរ %s ហើយរង់ចាំ"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
-#, fuzzy
 msgid "backdrop #"
-msgstr "ផ្ទៃខាងក្រោយ #"
+msgstr " # ផ្ទៃខាងក្រោយ"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
-msgstr ""
+msgstr "ឈ្មោះផ្ទៃខាងក្រោយ"
 
 msgid "broadcast %m.broadcast"
 msgstr "ប្រកាស %m.broadcast"
@@ -57,7 +56,7 @@ msgid "broadcast %m.broadcast and wait"
 msgstr "ប្រកាស %m.broadcast ហើយរង់ចាំ"
 
 msgid "change %m.effect effect by %n"
-msgstr "ប្ដូរ %m.effect អ៊ីហ្វិកដោយ %n"
+msgstr "ប្ដូរeffect%m.effect ដោយ %n"
 
 msgid "change %m.var by %n"
 msgstr "ប្ដូរ %m.var ដោយ %n"
@@ -90,58 +89,58 @@ msgid "clear"
 msgstr "សម្អាត"
 
 msgid "clear graphic effects"
-msgstr "ដកក្រាហ្វិកអ៊ីហ្វិក"
+msgstr "សម្អាតក្រាហ្វិកeffects"
 
 msgid "color %c is touching %c?"
-msgstr "ពណ៌ %c ប៉ះ %c មែនទេ?"
+msgstr "តើពណ៌ %c ប៉ះ %c មែនឫទេ?"
 
 msgid "Control"
-msgstr "ខុនត្រូល"
+msgstr "គ្រប់គ្រង"
 
 msgid "costume #"
-msgstr "រូបភាព #"
+msgstr "លេខរូបភាព"
 
 msgid "create clone of %m.spriteOnly"
-msgstr ""
+msgstr "ចម្លងរូបរាងនៃ %m.spriteOnly"
 
 msgid "current %m.timeAndDate"
-msgstr ""
+msgstr "%m.timeAndDate បច្ចុប្បន្ន"
 
 msgid "Data"
-msgstr ""
+msgstr "ទិន្នន័យ"
 
 msgid "days since 2000"
-msgstr ""
+msgstr "ចំនួនថ្ងៃចាប់ពីឆ្នាំ ២០០០"
 
 msgid "define"
-msgstr ""
+msgstr "អោយអត្ថន័យ"
 
 msgid "delete %d.listDeleteItem of %m.list"
 msgstr "លុប %d.listDeleteItem នៃ %m.list"
 
 msgid "delete this clone"
-msgstr ""
+msgstr "លុបរូបភាពចម្លង"
 
 msgid "direction"
 msgstr "ទិសដៅ"
 
 msgid "distance"
-msgstr ""
+msgstr "ចម្ងាយ"
 
 msgid "distance to %m.spriteOrMouse"
 msgstr "ចម្ងាយទៅ %m.spriteOrMouse"
 
 msgid "else"
-msgstr "ផ្សេងពីនេះ (else)"
+msgstr "ផ្សេងពីនេះ"
 
 msgid "Events"
-msgstr ""
+msgstr "ព្រឹត្តិការណ៍៍"
 
 msgid "forever"
-msgstr "ធ្វើរហូត (forever)"
+msgstr "ធ្វើរហូត"
 
 msgid "glide %n secs to x:%n y:%n"
-msgstr "រំកិល %n វិនាទី ទៅ x:%n y:%n"
+msgstr "រំកិលក្នុងរយៈពេល %n វិនាទី ទៅ x:%n y:%n"
 
 msgid "go back %n layers"
 msgstr "បកក្រោយ %n ស្រទាប់"
@@ -153,34 +152,34 @@ msgid "go to x:%n y:%n"
 msgstr "ទៅកាន់ x:%n y:%n"
 
 msgid "hide"
-msgstr "លាក់"
+msgstr "លាក់ខ្លួន"
 
 msgid "hide list %m.list"
-msgstr ""
+msgstr "លាក់តារាង %m.list"
 
 msgid "hide variable %m.var"
-msgstr ""
+msgstr "លាក់variable %m.var"
 
 msgid "if %b then"
-msgstr ""
+msgstr "បើសិនជា %b លុះធ្វើ"
 
 msgid "if on edge, bounce"
-msgstr "បើនៅគែម, ប្លាត"
+msgstr "បើនៅគែម ខ្ទាត"
 
 msgid "insert %s at %d.listItem of %m.list"
 msgstr "ដាក់ %s នៅទីតាំង %d.listItem នៃ %m.list"
 
 msgid "item %d.listItem of %m.list"
-msgstr "ធាតុទី %d.listItem នៃ %m.list"
+msgstr "item %d.listItem នៃ %m.list"
 
 msgid "join %s %s"
 msgstr "ភ្ជាប់ %s %s"
 
 msgid "key %m.key pressed?"
-msgstr "ឃី %m.key បានចុច?"
+msgstr "តើ key %m.key បានចុចមែនឫទេ?"
 
 msgid "length of %m.list"
-msgstr "ប្រវែងនៃ %m.list"
+msgstr "ប្រវែងនៃតារាង %m.list"
 
 msgid "length of %s"
 msgstr "ប្រវែងនៃ %s"
@@ -195,7 +194,7 @@ msgid "loudness"
 msgstr "កម្រិតឮ"
 
 msgid "More Blocks"
-msgstr ""
+msgstr "Blocks ផ្សេងទៀត"
 
 msgid "Motion"
 msgstr "ចលនា"
@@ -230,21 +229,20 @@ msgid "Pen"
 msgstr "ប៊ិច"
 
 msgid "pen down"
-msgstr "ចាប់សរសេរ"
+msgstr "ចាប់គូស"
 
 msgid "pen up"
-msgstr "ឈប់សរសេរ"
+msgstr "ឈប់គូស"
 
 msgid "pick random %n to %n"
 msgstr "យកតម្លៃចៃដន្យពី %n ទៅ %n"
 
 msgid "play drum %d.drum for %n beats"
-msgstr "ផ្លេយដ្រាំ %d.drum ចំនួន %n ដង(ប៊ីត)"
+msgstr "លេងស្គរ %d.drum ចំនួន %n ដង"
 
 # 83%
-#, fuzzy
 msgid "play note %d.note for %n beats"
-msgstr "ផ្លេយណូត %d.note ចំនួន %n ដង(ប៊ីត)"
+msgstr "លេងណូត %d.note ចំនួន %n ដង"
 
 msgid "play sound %m.sound"
 msgstr "ផ្លេយសំឡេង %m.sound"
@@ -292,7 +290,7 @@ msgid "set %m.effect effect to %n"
 msgstr "កំណត់ %m.effect អ៊ីហ្វិកដោយ %n"
 
 msgid "set %m.var to %s"
-msgstr "កំណត់ %m.var ដោយ %n"
+msgstr "កំណត់ %m.var ដោយ %s"
 
 msgid "set instrument to %d.instrument"
 msgstr "កំណត់ឧបករណ៍ភ្លេង %d.instrument"
@@ -300,21 +298,19 @@ msgstr "កំណត់ឧបករណ៍ភ្លេង %d.instrument"
 # 89%
 # 86%
 # 97%
-#, fuzzy
 msgid "set %m.motor2 direction to %m.motorDirection"
-msgstr "ទិសដៅម៉ូទ័រ %m.motorDirection"
+msgstr "កំណត់​%m.motor2 ទិសដៅម៉ូទ័រទៅ%m.motorDirection"
 
 # 77%
 # 75%
-#, fuzzy
 msgid "set %m.motor power to %n"
-msgstr "កម្លាំងម៉ូទ័រ %n"
+msgstr "កំណត់​ %m. កម្លាំងម៉ូទ័រទៅ %n"
 
 msgid "set pen color to %c"
 msgstr "កំណត់ពណ៌ប៊ិចដោយ %c"
 
 msgid "set pen color to %n"
-msgstr "កំណត់ពណ៌ប៊ិចដោយ %c"
+msgstr "កំណត់ពណ៌ប៊ិចទៅ %n"
 
 msgid "set pen shade to %n"
 msgstr "ប្ដូរសេដប៊ិចដោយ %n"
@@ -332,7 +328,7 @@ msgid "set tempo to %n bpm"
 msgstr "កំណត់ចង្វាក់ %n bpm"
 
 msgid "set video transparency to %n%"
-msgstr ""
+msgstr "កំណត់ការឆ្លុះ​មើល​ឃើញទៅ %n%"
 
 msgid "set volume to %n%"
 msgstr "កំណត់វ៉ូលឹម %n%"
@@ -347,10 +343,10 @@ msgid "show"
 msgstr "បង្ហាញ"
 
 msgid "show list %m.list"
-msgstr ""
+msgstr "បង្ហាញតារាង %m.list"
 
 msgid "show variable %m.var"
-msgstr ""
+msgstr "បង្ហាញ variable %m.var"
 
 msgid "size"
 msgstr "ទំហំ"
@@ -362,21 +358,21 @@ msgid "stamp"
 msgstr "បង្ហាញស្នាម"
 
 msgid "stop %m.stop"
-msgstr ""
+msgstr "បញ្ឈប់ %m.stop"
 
 msgid "stop all sounds"
 msgstr "បញ្ឈប់សំឡេងទាំងអស់"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop"
-msgstr ""
+msgstr "ប្ដូរផ្ទៃ​ខាងក្រោយ​ទៅ %m.backdrop"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "switch backdrop to %m.backdrop and wait"
-msgstr ""
+msgstr "ប្ដូរផ្ទៃខាង​ក្រោយ​ទៅ%m.backdrop ហើយ​រងចាំ"
 
 msgid "switch costume to %m.costume"
-msgstr ""
+msgstr "ប្ដូររូបភាពទៅ %m.costume"
 
 msgid "tempo"
 msgstr "ចង្វាក់"
@@ -390,8 +386,9 @@ msgstr "គិត %s ក្នុង %n វិនាទី"
 msgid "tilt"
 msgstr ""
 
+#, fuzzy
 msgid "timer"
-msgstr "ថៃមម័រ"
+msgstr "អ្្នកកត់ម៉ោង"
 
 msgid "touching %m.touching?"
 msgstr "ប៉ះ %m.touching?"
@@ -400,82 +397,80 @@ msgid "touching color %c?"
 msgstr "ប៉ះនឹងពណ៌ %c?"
 
 msgid "turn @turnLeft %n degrees"
-msgstr ""
+msgstr "បង្វិល @turnLeft %n ដឺក្រេ"
 
 msgid "turn @turnRight %n degrees"
-msgstr ""
+msgstr "បង្វិល @turnRight​ %n ដឺក្រេ"
 
 msgid "turn %m.motor off"
-msgstr ""
+msgstr "បិទ %m.motor"
 
 msgid "turn %m.motor on"
-msgstr ""
+msgstr "បើក %m.motor"
 
 # 80%
 # 89%
-#, fuzzy
 msgid "turn %m.motor on for %n secs"
-msgstr "បញ្ឆេះម៉ូទ័ររយៈពេល %n វិនាទី"
+msgstr "បើកម៉ូទ័រ%m.motorរយៈពេល %n វិនាទី"
 
 msgid "turn video %m.videoState"
-msgstr ""
+msgstr "%m.videoState វីដេអូ"
 
 msgid "username"
-msgstr ""
+msgstr "ឈ្មោះអ្នកប្រើ"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr ""
+msgstr "%m.videoMotionType វីដេអូ នៅលើ %m.stageOrThis"
 
 msgid "volume"
 msgstr "វ៉ូលឹម"
 
 msgid "wait %n secs"
-msgstr "រង់ចាំ %m.spriteOrMouse វិនាទី"
+msgstr "រង់ចាំ %n វិនាទី"
 
 msgid "wait until %b"
 msgstr "រង់ចាំរហូតដល់ %b"
 
 # 75%
-#, fuzzy
 msgid "when %m.booleanSensor"
-msgstr "សិនស័រ %m.booleanSensor?"
+msgstr "ពេល %m.booleanSensor"
 
 msgid "when %m.key key pressed"
 msgstr "ពេលឃី %m.key បានចុច"
 
 msgid "when %m.sensor %m.lessMore %n"
-msgstr ""
+msgstr "ពេល%m.sensor %m.lessMore %n"
 
 msgid "when %m.triggerSensor > %n"
-msgstr ""
+msgstr "ពេល %m.triggerSensor > %n"
 
 msgid "when @greenFlag clicked"
 msgstr "ពេល @greenFlag បានឃ្លីក"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "when backdrop switches to %m.backdrop"
-msgstr ""
+msgstr "នៅពេលដែលស្ថានភាពប្តូរទៅ%m.backdrop"
 
 msgid "when distance %m.lessMore %n"
-msgstr ""
+msgstr "នៅពេលដែលចម្ងាយ%m.lessMore %n"
 
 msgid "when I receive %m.broadcast"
-msgstr ""
+msgstr "នៅពេលដែលខ្ញុំទទួលបាន %m.broadcast"
 
 msgid "when I start as a clone"
-msgstr ""
+msgstr "នៅពេលដែលខ្ញុំចាប់ផ្តើមជាក្លូន"
 
 msgid "when Stage clicked"
-msgstr ""
+msgstr "នៅពេលដែលចុច"
 
 msgid "when this sprite clicked"
-msgstr ""
+msgstr "ពេលចុច sprite"
 
 msgid "when tilt %m.eNe %n"
-msgstr ""
+msgstr "នៅពេលដែលលំអៀងm.eNe %n"
 
 msgid "x position"
-msgstr "x ទីតាំង"
+msgstr "ទីតាំង x "
 
 msgid "y position"
 msgstr "ទីតាំង y"
@@ -508,9 +503,8 @@ msgid "when tilt = %n"
 msgstr ""
 
 #: commands-online.txt:7 commands-offline.txt:7
-#, fuzzy
 msgid "%m.list contains %s?"
-msgstr "%m.list មាន %s"
+msgstr "%m.list មាន %s?"
 
 msgid "go to %m.location"
 msgstr "ទៅកាន់ %m.location"
@@ -535,7 +529,7 @@ msgid "A newer version of Scratch is available"
 msgstr ""
 
 msgid "About"
-msgstr ""
+msgstr "អំពី"
 
 msgid "About LEGO WeDo extension..."
 msgstr ""
@@ -563,7 +557,7 @@ msgid "Add boolean input:"
 msgstr ""
 
 msgid "add comment"
-msgstr ""
+msgstr "សរសេរ​យោបល់"
 
 msgid "add comment here..."
 msgstr ""
@@ -584,7 +578,7 @@ msgid "All"
 msgstr ""
 
 msgid "all around"
-msgstr ""
+msgstr "គ្រប់ទាំងអស់"
 
 msgid "all motors"
 msgstr ""
@@ -612,7 +606,7 @@ msgstr ""
 
 # 88%
 msgid "backdrop"
-msgstr ""
+msgstr "ផ្ទៃ​ខាង​ក្រោយ"
 
 msgid "Backdrop"
 msgstr ""
@@ -621,11 +615,11 @@ msgid "Backdrop Library"
 msgstr ""
 
 msgid "backdrop1"
-msgstr ""
+msgstr "ផ្ទៃ​ខាង​ក្រាយ១"
 
 # 88%
 msgid "backdrops"
-msgstr ""
+msgstr "ផ្ទៃ​ខាង​ក្រោយជាច្រើន"
 
 msgid "Backdrops"
 msgstr ""
@@ -662,7 +656,7 @@ msgid "Bongo"
 msgstr ""
 
 msgid "brightness"
-msgstr ""
+msgstr "ពន្លឺ"
 
 msgid "Bring to front"
 msgstr ""
@@ -674,10 +668,10 @@ msgid "Brush"
 msgstr ""
 
 msgid "button pressed"
-msgstr ""
+msgstr "ប៊ូតុង​ត្រូវ​បាន​ចុច"
 
 msgid "by"
-msgstr ""
+msgstr "ដោយ"
 
 msgid "bytes loaded"
 msgstr ""
@@ -687,11 +681,10 @@ msgstr ""
 
 #, fuzzy
 msgid "Cabasa"
-msgstr "カバサ"
+msgstr "ឧបករណ៍កាបាសា"
 
-#, fuzzy
 msgid "Camera"
-msgstr "カメラ"
+msgstr "កាមេរ៉ា"
 
 msgid "can drag in player:"
 msgstr ""
@@ -717,9 +710,8 @@ msgstr ""
 msgid "ceiling"
 msgstr ""
 
-#, fuzzy
 msgid "Cello"
-msgstr "チェロ"
+msgstr "ឧបករណ៍តន្រ្តីសែលឡូ"
 
 msgid "Check for updates"
 msgstr ""
@@ -754,7 +746,7 @@ msgid "Claves"
 msgstr "クラーベ"
 
 msgid "clean up"
-msgstr ""
+msgstr "សម្អាត"
 
 msgid "Clear"
 msgstr ""
@@ -815,11 +807,11 @@ msgid "Costume Library"
 msgstr ""
 
 msgid "costume1"
-msgstr ""
+msgstr "រូប​ភាព​១"
 
 # 87%
 msgid "costume2"
-msgstr ""
+msgstr "រូបភាព​២"
 
 msgid "Costumes"
 msgstr ""
@@ -844,16 +836,16 @@ msgid "Currently, only numbers can be stored in Cloud variables."
 msgstr ""
 
 msgid "cut"
-msgstr ""
+msgstr "កាត់ទុក"
 
 msgid "D connected"
 msgstr ""
 
 msgid "date"
-msgstr ""
+msgstr "ថ្ងៃខែ"
 
 msgid "day of week"
-msgstr ""
+msgstr "ថ្ងៃ​នៃ​សប្តាហ៍​"
 
 msgid "delete"
 msgstr "លុប"
@@ -867,10 +859,10 @@ msgid "delete variable"
 msgstr ""
 
 msgid "direction:"
-msgstr ""
+msgstr "ទិស​ដៅ:"
 
 msgid "don't rotate"
-msgstr ""
+msgstr "កុំ​បង្វិល"
 
 msgid "Don't save"
 msgstr ""
@@ -879,7 +871,7 @@ msgid "down"
 msgstr "ចុះក្រោម"
 
 msgid "down arrow"
-msgstr ""
+msgstr "ព្រួញមកក្រោម"
 
 msgid "Download"
 msgstr ""
@@ -900,7 +892,7 @@ msgid "e ^"
 msgstr "e ^"
 
 msgid "edge"
-msgstr ""
+msgstr "ជាយ"
 
 msgid "Edit"
 msgstr "កែសម្រួល"
@@ -941,13 +933,13 @@ msgid "Eraser width"
 msgstr "けしゴムのはば:"
 
 msgid "Error!"
-msgstr ""
+msgstr "មិនដំណើរការ!"
 
 msgid "everything"
 msgstr ""
 
 msgid "export"
-msgstr ""
+msgstr "នាំចេញ"
 
 msgid "Extension Library"
 msgstr ""
@@ -986,17 +978,16 @@ msgid "Flip up-down"
 msgstr ""
 
 msgid "floor"
-msgstr ""
+msgstr "floor"
 
-#, fuzzy
 msgid "Flute"
-msgstr "フルート"
+msgstr "ខ្លុយ"
 
 msgid "Flying"
 msgstr ""
 
 msgid "Font:"
-msgstr ""
+msgstr "ពុម្ពអក្សរ៖"
 
 msgid "For all sprites"
 msgstr ""
@@ -1008,7 +999,7 @@ msgid "Forward a layer"
 msgstr ""
 
 msgid "ghost"
-msgstr ""
+msgstr "ខ្មោច"
 
 msgid "Go to My Stuff"
 msgstr ""
@@ -1025,15 +1016,14 @@ msgstr ""
 msgid "Guitar"
 msgstr ""
 
-#, fuzzy
 msgid "Hand Clap"
-msgstr "はくしゅ"
+msgstr "ទះដៃ"
 
 msgid "Hardware"
 msgstr ""
 
 msgid "help"
-msgstr ""
+msgstr "ជំនួយ"
 
 msgid "Hello!"
 msgstr ""
@@ -1046,25 +1036,23 @@ msgid "hello"
 msgstr "チェロ"
 
 msgid "High C"
-msgstr ""
+msgstr "C ខ្ពស់"
 
 msgid "Holiday"
 msgstr ""
 
 msgid "hour"
-msgstr ""
+msgstr "ម៉ោង"
 
 msgid "Human"
 msgstr ""
 
 # 83%
-#, fuzzy
 msgid "import"
-msgstr "អ៊ីមផត"
+msgstr "នាំចូល"
 
-#, fuzzy
 msgid "Import"
-msgstr "よみこみ"
+msgstr "នាំចូល"
 
 msgid "Importing sound..."
 msgstr ""
@@ -1081,22 +1069,20 @@ msgstr ""
 msgid "large readout"
 msgstr ""
 
-#, fuzzy
 msgid "last"
-msgstr "さいご"
+msgstr "ចុងក្រោយ"
 
-#, fuzzy
 msgid "left"
-msgstr "ひだり"
+msgstr "ឆ្វេង"
 
 msgid "left arrow"
-msgstr ""
+msgstr "ព្រួញខាង​ឆ្វេង"
 
 msgid "left-right"
-msgstr ""
+msgstr "ព្រួញ​ខាង​ស្ដាំ"
 
 msgid "length"
-msgstr ""
+msgstr "ប្រវែង"
 
 msgid "Letters"
 msgstr ""
@@ -1105,7 +1091,7 @@ msgid "Library"
 msgstr ""
 
 msgid "light"
-msgstr ""
+msgstr "អំពូល​ភ្លើង"
 
 # 83%
 #, fuzzy
@@ -1124,9 +1110,8 @@ msgid "Line width"
 msgstr "せんのはば:"
 
 # 75%
-#, fuzzy
 msgid "list"
-msgstr "ចុងបង្អស់"
+msgstr "តារាង"
 
 msgid "List name"
 msgstr ""
@@ -1141,7 +1126,7 @@ msgid "log"
 msgstr "log"
 
 msgid "louder"
-msgstr ""
+msgstr "ដំឡើង​សម្លេង"
 
 msgid "Low C"
 msgstr ""
@@ -1163,13 +1148,13 @@ msgid "Max"
 msgstr ""
 
 msgid "meow"
-msgstr ""
+msgstr "ម៉ាវ"
 
 msgid "Message Name"
 msgstr ""
 
 msgid "message1"
-msgstr ""
+msgstr "សារ១"
 
 msgid "Microphone volume:"
 msgstr ""
@@ -1181,17 +1166,17 @@ msgid "Min"
 msgstr ""
 
 msgid "minute"
-msgstr ""
+msgstr "នាទី"
 
 msgid "month"
-msgstr ""
+msgstr "ខែ"
 
 #, fuzzy
 msgid "mosaic"
-msgstr "モザイク"
+msgstr "រូបផ្គុំតូចៗ"
 
 msgid "motion"
-msgstr ""
+msgstr "ចលនា"
 
 msgid "motor"
 msgstr ""
@@ -1204,7 +1189,7 @@ msgstr ""
 
 #, fuzzy
 msgid "mouse-pointer"
-msgstr "マウスのポインター"
+msgstr "ចង្អុលម៉ៅ"
 
 msgid "Multiple"
 msgstr ""
@@ -1223,7 +1208,7 @@ msgid "My Stuff"
 msgstr ""
 
 msgid "myself"
-msgstr ""
+msgstr "ខ្លួនឯង"
 
 msgid "Nature"
 msgstr ""
@@ -1254,7 +1239,7 @@ msgid "New Message"
 msgstr ""
 
 msgid "new message..."
-msgstr ""
+msgstr "សារ​ថ្មី..."
 
 msgid "New name"
 msgstr ""
@@ -1288,11 +1273,10 @@ msgid "Not saved; project did not load."
 msgstr ""
 
 msgid "of"
-msgstr ""
+msgstr "នៃ"
 
-#, fuzzy
 msgid "off"
-msgstr "せつ"
+msgstr "បិទ"
 
 msgid "Offline Editor"
 msgstr ""
@@ -1300,12 +1284,11 @@ msgstr ""
 msgid "OK"
 msgstr "OK"
 
-#, fuzzy
 msgid "on"
-msgstr "にゅう"
+msgstr "បើក"
 
 msgid "on-flipped"
-msgstr ""
+msgstr "បើក ហើយត្រឡប់"
 
 msgid "Open"
 msgstr ""
@@ -1332,9 +1315,8 @@ msgid "other scripts in sprite"
 msgstr ""
 
 # 82%
-#, fuzzy
 msgid "other scripts in stage"
-msgstr "スプライトのほかのスクリプト"
+msgstr ""
 
 msgid "Outdoors"
 msgstr ""
@@ -1355,7 +1337,7 @@ msgid "Password is required"
 msgstr ""
 
 msgid "paste"
-msgstr ""
+msgstr "paste"
 
 msgid "Pencil"
 msgstr ""
@@ -1367,7 +1349,7 @@ msgid "Percussion"
 msgstr ""
 
 msgid "photo1"
-msgstr ""
+msgstr "រូបថត១"
 
 msgid "Piano"
 msgstr ""
@@ -1375,19 +1357,18 @@ msgstr ""
 msgid "Pick up color"
 msgstr ""
 
-#, fuzzy
 msgid "pixelate"
-msgstr "ピクセルか"
+msgstr ""
 
 msgid "Pizzicato"
 msgstr ""
 
 #, fuzzy
 msgid "pop"
-msgstr "ポップ"
+msgstr "ផប"
 
 msgid "previous backdrop"
-msgstr ""
+msgstr "ផ្ទៃ​ខាង​ក្រោយ​មុន"
 
 msgid "Profile"
 msgstr ""
@@ -1405,7 +1386,7 @@ msgid "Project name is required"
 msgstr ""
 
 msgid "random"
-msgstr ""
+msgstr "ចៃដន្យ"
 
 #, fuzzy
 msgid "Record"
@@ -1415,10 +1396,10 @@ msgid "Record new sound"
 msgstr ""
 
 msgid "record..."
-msgstr ""
+msgstr "ថត​សម្លេង..."
 
 msgid "recording1"
-msgstr ""
+msgstr "សម្លេងថត​ហើយ១"
 
 msgid "Rectangle"
 msgstr ""
@@ -1478,13 +1459,11 @@ msgstr ""
 msgid "Reverting..."
 msgstr ""
 
-#, fuzzy
 msgid "right"
-msgstr "みぎ"
+msgstr "ស្ដាំ"
 
-#, fuzzy
 msgid "right arrow"
-msgstr "みぎむきやじるし"
+msgstr "ព្រួញ​ស្ដាំ"
 
 msgid "rotation style:"
 msgstr ""
@@ -1511,7 +1490,7 @@ msgid "Save project?"
 msgstr ""
 
 msgid "save to local file"
-msgstr ""
+msgstr "រក្សា​ទុក​នៅក្នុង local file"
 
 msgid "Saved"
 msgstr ""
@@ -1538,7 +1517,7 @@ msgid "Scripts"
 msgstr ""
 
 msgid "second"
-msgstr ""
+msgstr "វិនាទី"
 
 msgid "See project page"
 msgstr ""
@@ -1552,7 +1531,7 @@ msgid "Select"
 msgstr ""
 
 msgid "select all"
-msgstr ""
+msgstr "ជ្រើស​ទាំងអស់"
 
 msgid "Select and duplicate"
 msgstr ""
@@ -1567,7 +1546,7 @@ msgid "Set costume center"
 msgstr ""
 
 msgid "set slider min and max"
-msgstr ""
+msgstr "កំណត់អប្បបរិមា និងអតិបរមារបស់ slider"
 
 msgid "Share"
 msgstr ""
@@ -1579,13 +1558,13 @@ msgid "Share to Scratch website"
 msgstr ""
 
 msgid "shared"
-msgstr ""
+msgstr "បាន​ចែក​រំលែក"
 
 msgid "Shift:"
 msgstr ""
 
 msgid "show:"
-msgstr ""
+msgstr "បង្ហាញខ្លួន:"
 
 msgid "Shrink"
 msgstr ""
@@ -1604,13 +1583,13 @@ msgid "Sign out"
 msgstr ""
 
 msgid "silence"
-msgstr ""
+msgstr "ស្ងៀម​ស្ងាត់"
 
 msgid "sin"
 msgstr "sin"
 
 msgid "slider"
-msgstr ""
+msgstr "slider"
 
 msgid "Slider Range"
 msgstr ""
@@ -1628,7 +1607,7 @@ msgid "softer"
 msgstr ""
 
 msgid "sound"
-msgstr ""
+msgstr "សម្លេង"
 
 msgid "Sound Library"
 msgstr ""
@@ -1642,7 +1621,7 @@ msgid "Space"
 msgstr "ស្ប៉េស"
 
 msgid "space"
-msgstr ""
+msgstr "ប៊ូតុងដក​ឃ្លា"
 
 msgid "Sports"
 msgstr ""
@@ -1665,7 +1644,7 @@ msgid "Sprites"
 msgstr "スプライト"
 
 msgid "sqrt"
-msgstr ""
+msgstr "ឫស​ការ៉េ"
 
 msgid "Square"
 msgstr ""
@@ -1694,13 +1673,13 @@ msgid "tan"
 msgstr "tan"
 
 msgid "text"
-msgstr ""
+msgstr "អក្សរ"
 
 msgid "Text"
 msgstr ""
 
 msgid "that way"
-msgstr ""
+msgstr "របៀប​នោះ"
 
 msgid "The name is already in use."
 msgstr ""
@@ -1733,13 +1712,13 @@ msgid ""
 msgstr ""
 
 msgid "this script"
-msgstr ""
+msgstr "script នេះ"
 
 msgid "this sprite"
-msgstr ""
+msgstr "តួអង្គនេះ"
 
 msgid "this way"
-msgstr ""
+msgstr "របៀប​នេះ"
 
 msgid "Throw away all changes since opening this project?"
 msgstr ""
@@ -1781,7 +1760,7 @@ msgid "Underwater"
 msgstr ""
 
 msgid "undo"
-msgstr ""
+msgstr "undo"
 
 # 75%
 #, fuzzy
@@ -1795,13 +1774,13 @@ msgid "Ungroup"
 msgstr ""
 
 msgid "unshared"
-msgstr ""
+msgstr "មិនបានចែក​រំលែក"
 
 msgid "up"
-msgstr ""
+msgstr "លើ"
 
 msgid "up arrow"
-msgstr ""
+msgstr "ព្រួញ​ខាង​លើ"
 
 msgid "Update failed"
 msgstr ""
@@ -1836,8 +1815,9 @@ msgstr ""
 msgid "Uploading sprite..."
 msgstr ""
 
+#, fuzzy
 msgid "variable"
-msgstr ""
+msgstr "តាង"
 
 msgid "Variable name"
 msgstr ""
@@ -1857,10 +1837,10 @@ msgid "Vibraslap"
 msgstr "ビブラスラップ"
 
 msgid "video direction"
-msgstr ""
+msgstr "ទិស​ដៅ​វីដេអូ"
 
 msgid "video motion"
-msgstr ""
+msgstr "ចលនា​វីដេអូ"
 
 msgid "Video on:"
 msgstr ""
@@ -1893,7 +1873,7 @@ msgid "world"
 msgstr ""
 
 msgid "year"
-msgstr ""
+msgstr "ឆ្នាំ"
 
 msgid ""
 "You cannot edit cloud data in someone else's project.<br>Any change that you "
@@ -2015,7 +1995,7 @@ msgid "Your project has been uploaded to scratch.mit.edu"
 msgstr ""
 
 msgid "any"
-msgstr ""
+msgstr "ខ្លះ"
 
 msgid "Record Project Video"
 msgstr ""
@@ -2024,7 +2004,7 @@ msgid "Remove Background"
 msgstr ""
 
 msgid "random position"
-msgstr ""
+msgstr "ទីតាំង​ចៃ​ដន្យ"
 
 msgid "Cloud list (stored on server)"
 msgstr ""

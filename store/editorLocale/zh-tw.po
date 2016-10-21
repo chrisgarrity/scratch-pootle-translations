@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2016-09-03 01:49+0000\n"
+"PO-Revision-Date: 2016-10-20 01:04+0000\n"
 "Last-Translator: Chun-Nan <brian030218@outlook.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh_TW\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1472867347.000000\n"
+"X-POOTLE-MTIME: 1476925474.000000\n"
 
 msgid "%b and %b"
 msgstr "%b 和 %b"
@@ -44,7 +44,7 @@ msgstr "提問 %s 並等待"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop #"
-msgstr "背景編號 #"
+msgstr "背景編號"
 
 # "backdrop" in Scratch 2.0 is similar to "background" in Scratch 1.4
 msgid "backdrop name"
@@ -93,7 +93,7 @@ msgid "clear graphic effects"
 msgstr "清除所有圖形特效"
 
 msgid "color %c is touching %c?"
-msgstr "顏色 %c 碰到 顏色 %c？"
+msgstr "顏色 %c 碰到 顏色 %c?"
 
 msgid "Control"
 msgstr "控制"
@@ -102,7 +102,7 @@ msgid "costume #"
 msgstr "造型編號"
 
 msgid "create clone of %m.spriteOnly"
-msgstr "創造  %m.sprite  的分身"
+msgstr "建立 %m.spriteOnly 的分身"
 
 msgid "current %m.timeAndDate"
 msgstr "目前的 %m.timeAndDate"
@@ -272,7 +272,7 @@ msgid "rest for %n beats"
 msgstr "休息 %n 拍"
 
 msgid "round %n"
-msgstr "將 %n 四捨五入"
+msgstr "四捨五入 %n"
 
 msgid "say %s"
 msgstr "說 %s"
@@ -390,10 +390,10 @@ msgid "timer"
 msgstr "計時器"
 
 msgid "touching %m.touching?"
-msgstr "碰到 %m.touching？"
+msgstr "碰到 %m.touching?"
 
 msgid "touching color %c?"
-msgstr "碰到顏色 %c？"
+msgstr "碰到顏色 %c?"
 
 msgid "turn @turnLeft %n degrees"
 msgstr "向 @turnLeft 旋轉 %n 度"

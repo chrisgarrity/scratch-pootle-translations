@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2016-08-18 13:43+0000\n"
-"Last-Translator: ummerawmantrisha <urawman@gmail.com>\n"
+"PO-Revision-Date: 2016-10-01 17:22+0000\n"
+"Last-Translator: nahar <ngo.nahar@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bn\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1471527804.000000\n"
+"X-POOTLE-MTIME: 1475342536.000000\n"
 
 msgid "%b and %b"
 msgstr "%b এবং %b"
@@ -190,7 +190,7 @@ msgid "letter %n of %s"
 msgstr ""
 
 msgid "Looks"
-msgstr ""
+msgstr "চেহারা"
 
 msgid "loudness"
 msgstr "শব্দের মাত্রা"
@@ -533,7 +533,7 @@ msgid "Add boolean input:"
 msgstr "একটি বুলিয়ান ইনপুট যোগ করুন:"
 
 msgid "add comment"
-msgstr ""
+msgstr "মন্তব্য করুন"
 
 msgid "add comment here..."
 msgstr ""
@@ -554,7 +554,7 @@ msgid "All"
 msgstr "সব"
 
 msgid "all around"
-msgstr ""
+msgstr "চারদিকে"
 
 msgid "all motors"
 msgstr ""
@@ -578,11 +578,11 @@ msgid "B connected"
 msgstr "B সংযুক্ত"
 
 msgid "Back a layer"
-msgstr ""
+msgstr "একটি স্তর পেছনে যান"
 
 #, fuzzy
 msgid "backdrop"
-msgstr "পটভূমিগুলো"
+msgstr "পটভূমি"
 
 #, fuzzy
 msgid "Backdrop"
@@ -593,7 +593,7 @@ msgstr ""
 
 #, fuzzy
 msgid "backdrop1"
-msgstr "পটভূমিগুলো"
+msgstr "পটভূমি১ "
 
 #, fuzzy
 msgid "backdrops"
@@ -627,7 +627,7 @@ msgid "Bitmap Mode"
 msgstr ""
 
 msgid "Block help"
-msgstr ""
+msgstr "ব্লকের  সাহায্য"
 
 msgid "Bongo"
 msgstr ""
@@ -636,7 +636,7 @@ msgid "brightness"
 msgstr "উজ্জ্বলতা"
 
 msgid "Bring to front"
-msgstr ""
+msgstr "সামনে নিয়ে আসো"
 
 msgid "Broadcast"
 msgstr "সম্প্রচার"
@@ -645,17 +645,16 @@ msgid "Brush"
 msgstr "তুলি"
 
 msgid "button pressed"
-msgstr ""
+msgstr "বোতাম টেপা হয়েছে"
 
 msgid "by"
-msgstr ""
+msgstr "দিয়ে"
 
 msgid "bytes loaded"
 msgstr ""
 
-#, fuzzy
 msgid "C connected"
-msgstr "একটি সংযুক্ত"
+msgstr "C  সংযুক্ত"
 
 msgid "Cabasa"
 msgstr ""
@@ -673,7 +672,7 @@ msgid "Cannot Add"
 msgstr ""
 
 msgid "Cannot Delete"
-msgstr ""
+msgstr "মুছে ফেলা যাবে না"
 
 msgid "Can’t find network connection or reach server."
 msgstr "নেটওয়ার্ক সংযোগ বা সার্ভার খুঁজে পাওয়া যাচ্ছেনা।"
@@ -682,7 +681,7 @@ msgid "Castle"
 msgstr "দুর্গ"
 
 msgid "Category"
-msgstr ""
+msgstr "শ্রেণীবিভাগ"
 
 msgid "ceiling"
 msgstr "ছাদ"
@@ -700,10 +699,10 @@ msgid "Choose backdrop from library"
 msgstr ""
 
 msgid "Choose costume from library"
-msgstr ""
+msgstr "সংরেক্ষন থেকে পরিচ্ছদ নির্বাচন করুন"
 
 msgid "Choose sound from library"
-msgstr ""
+msgstr "সংরেক্ষন থেকে ধ্বনি নির্বাচন করুন"
 
 msgid "Choose sprite from library"
 msgstr ""
@@ -757,7 +756,7 @@ msgid "Conga"
 msgstr ""
 
 msgid "Connecting to Cloud data server..."
-msgstr ""
+msgstr "ডাটা উৎসের সাথে সংযুক্ত হচ্ছে..."
 
 msgid "Convert to bitmap"
 msgstr "বিটম্যাপে রূপান্তর কর"
@@ -769,19 +768,19 @@ msgid "Converting mp3..."
 msgstr ""
 
 msgid "copy"
-msgstr ""
+msgstr "নকল"
 
 msgid "Copying..."
-msgstr ""
+msgstr "অনুলিপি করা হচ্ছে ..."
 
 msgid "cos"
 msgstr ""
 
 msgid "Costume"
-msgstr ""
+msgstr "পরিধান"
 
 msgid "Costume Library"
-msgstr ""
+msgstr "পরিধান সংগ্রহ"
 
 msgid "costume name"
 msgstr ""
@@ -793,10 +792,10 @@ msgid "costume2"
 msgstr ""
 
 msgid "Costumes"
-msgstr ""
+msgstr "পরিচ্ছদ"
 
 msgid "Costumes > 1"
-msgstr ""
+msgstr "পরিচ্ছদ > 1"
 
 msgid "Costumes:"
 msgstr ""
@@ -814,7 +813,7 @@ msgid "Creating..."
 msgstr "তৈরি করা হচ্ছে..."
 
 msgid "Currently, only numbers can be stored in Cloud variables."
-msgstr ""
+msgstr "বর্তমানে , মেঘ ভেরিয়েবলের মধ্যে শুধুমাত্র সংখ্যা  সংরক্ষণ করা যেতে পারে ."
 
 msgid "cut"
 msgstr ""
@@ -826,7 +825,7 @@ msgid "date"
 msgstr "তারিখ"
 
 msgid "day of week"
-msgstr ""
+msgstr "সপ্তাহের দিন"
 
 #, fuzzy
 msgid "delete"
@@ -840,16 +839,16 @@ msgstr ""
 
 #, fuzzy
 msgid "direction:"
-msgstr "দিক"
+msgstr "দিক:"
 
 msgid "don't rotate"
-msgstr ""
+msgstr "ঘুরিও না"
 
 msgid "Don't save"
-msgstr ""
+msgstr "সংরক্ষণ করবেন না"
 
 msgid "down"
-msgstr ""
+msgstr "নিচে"
 
 msgid "down arrow"
 msgstr "নিম্নমুখী তীরচিহ্ন"
@@ -951,13 +950,13 @@ msgid "fisheye"
 msgstr "মাছের চোখ"
 
 msgid "Flip left-right"
-msgstr ""
+msgstr "ডান-বাম ওলটাও"
 
 msgid "Flip up-down"
-msgstr ""
+msgstr "উপর-নিচ ওলটাও"
 
 msgid "floor"
-msgstr ""
+msgstr "মেঝে"
 
 msgid "Flute"
 msgstr "বাঁশি"
@@ -978,7 +977,7 @@ msgid "Forward a layer"
 msgstr ""
 
 msgid "ghost"
-msgstr ""
+msgstr "ভূত"
 
 msgid "Go to My Stuff"
 msgstr ""
@@ -1002,7 +1001,7 @@ msgid "Hardware"
 msgstr ""
 
 msgid "help"
-msgstr ""
+msgstr "সাহায্য"
 
 msgid "Hello!"
 msgstr ""
@@ -1023,13 +1022,13 @@ msgid "hour"
 msgstr "ঘন্টা"
 
 msgid "Human"
-msgstr ""
+msgstr "মানুষ"
 
 msgid "import"
 msgstr ""
 
 msgid "Import"
-msgstr ""
+msgstr "আমদানি করো"
 
 msgid "Importing sound..."
 msgstr ""
@@ -1056,7 +1055,7 @@ msgid "left arrow"
 msgstr ""
 
 msgid "left-right"
-msgstr ""
+msgstr "বাম-ডান"
 
 msgid "length"
 msgstr "দৈর্ঘ্য"
@@ -1068,7 +1067,7 @@ msgid "Library"
 msgstr "গ্রন্থাগার"
 
 msgid "light"
-msgstr ""
+msgstr "আলো"
 
 msgid "lights"
 msgstr ""
@@ -1080,7 +1079,7 @@ msgid "Line"
 msgstr "রেখা"
 
 msgid "Line width"
-msgstr ""
+msgstr "রেখার প্রস্থ"
 
 #, fuzzy
 msgid "list"
@@ -1177,7 +1176,7 @@ msgid "My Stuff"
 msgstr ""
 
 msgid "myself"
-msgstr ""
+msgstr "নিজেকে"
 
 msgid "Nature"
 msgstr ""
@@ -1186,16 +1185,16 @@ msgid "New"
 msgstr "নতুন"
 
 msgid "New backdrop from camera"
-msgstr ""
+msgstr "ক্যামেরা থেকে নতুন পটভূমি"
 
 msgid "New backdrop:"
-msgstr ""
+msgstr "নতুন পটভূমি"
 
 msgid "New Block"
-msgstr ""
+msgstr "নতুন ব্লক"
 
 msgid "New costume from camera"
-msgstr ""
+msgstr "ক্যামেরা থেকে নতুন পোষাক"
 
 msgid "New costume:"
 msgstr "নতুন পোষাক:"
@@ -1207,7 +1206,7 @@ msgid "New Message"
 msgstr "নতুন বার্তা"
 
 msgid "new message..."
-msgstr ""
+msgstr "নতুন বার্তা..."
 
 msgid "New name"
 msgstr "নতুন নাম"
@@ -1249,7 +1248,7 @@ msgid "Offline Editor"
 msgstr ""
 
 msgid "OK"
-msgstr ""
+msgstr "ঠিক আছে"
 
 msgid "on"
 msgstr "চালু"
@@ -1267,7 +1266,7 @@ msgid "Open Hi-Hat"
 msgstr ""
 
 msgid "Options"
-msgstr ""
+msgstr "বিকল্পসমূহ"
 
 msgid "Organ"
 msgstr ""
@@ -1282,10 +1281,10 @@ msgid "other scripts in stage"
 msgstr ""
 
 msgid "Outdoors"
-msgstr ""
+msgstr "বাড়ির বাইরে"
 
 msgid "Paint new backdrop"
-msgstr ""
+msgstr "নতুন পটভূমি আঁকো"
 
 msgid "Paint new costume"
 msgstr ""
@@ -1339,7 +1338,7 @@ msgid "Project did not load."
 msgstr ""
 
 msgid "Project not saved!"
-msgstr ""
+msgstr "প্রকল্পটি সংরক্ষন করা হয়নি"
 
 msgid "Project name"
 msgstr "প্রকল্পের নাম"
@@ -1351,10 +1350,10 @@ msgid "random"
 msgstr ""
 
 msgid "Record"
-msgstr ""
+msgstr "লিপিবদ্ধ কর"
 
 msgid "Record new sound"
-msgstr ""
+msgstr "শব্দ রেকর্ড করুন"
 
 msgid "record..."
 msgstr ""
@@ -1447,7 +1446,7 @@ msgid "Save project?"
 msgstr "প্রকল্পটি কি সংরক্ষণ করবেন?"
 
 msgid "save to local file"
-msgstr ""
+msgstr "স্থানীয় ফাইলে সংরক্ষণ করো"
 
 msgid "Saved"
 msgstr "সংরক্ষণ করা হয়েছে"
@@ -1497,7 +1496,7 @@ msgid "Select and duplicate"
 msgstr ""
 
 msgid "Send to back"
-msgstr ""
+msgstr "পিছনে পাঠাও "
 
 msgid "Set Costume Center"
 msgstr ""
@@ -1548,7 +1547,7 @@ msgid "Sign out"
 msgstr ""
 
 msgid "silence"
-msgstr ""
+msgstr "নিঃশব্দ"
 
 msgid "sin"
 msgstr ""
@@ -1563,7 +1562,7 @@ msgid "Small stage layout"
 msgstr ""
 
 msgid "Smooth"
-msgstr ""
+msgstr "মসৃণ"
 
 msgid "Snare Drum"
 msgstr ""
@@ -1606,7 +1605,7 @@ msgid "sqrt"
 msgstr ""
 
 msgid "Square"
-msgstr ""
+msgstr "বর্গক্ষেত্র"
 
 msgid "Stage"
 msgstr "মঞ্চ"
@@ -1615,7 +1614,7 @@ msgid "Stage selected:"
 msgstr ""
 
 msgid "Steel Drum"
-msgstr ""
+msgstr "লোহার ড্রাম"
 
 msgid "stored on server"
 msgstr ""
@@ -1654,7 +1653,7 @@ msgid "Theme"
 msgstr ""
 
 msgid "Things"
-msgstr ""
+msgstr "সামগ্রী"
 
 msgid "thing"
 msgstr ""
@@ -1692,7 +1691,7 @@ msgid "To delete a block definition, first remove all uses of the block."
 msgstr ""
 
 msgid "Transportation"
-msgstr ""
+msgstr "পরিবহন"
 
 msgid "Triangle"
 msgstr "ত্রিভুজ"
@@ -1743,10 +1742,10 @@ msgid "Update failed"
 msgstr "হালনাগাদ করার চেষ্টা ব্যর্থ হয়েছে"
 
 msgid "Update not needed"
-msgstr ""
+msgstr "হালনাগাদ করার প্রয়োজন নেই"
 
 msgid "Update now"
-msgstr ""
+msgstr "এখন হালনাগাদ করুন"
 
 msgid "Upload backdrop from file"
 msgstr ""
@@ -1904,15 +1903,15 @@ msgstr ""
 
 # Offline editor only
 msgid "Open Project"
-msgstr ""
+msgstr " প্রকল্পটি খুলুন"
 
 # Offline editor only
 msgid "Please visit the download page to install it."
-msgstr ""
+msgstr "এটা ইনস্টল করার জন্য দয়া ডাউনলোড পাতা যান."
 
 # Offline editor only
 msgid "Quit"
-msgstr ""
+msgstr "বাহির"
 
 # Offline editor only
 msgid "Replace existing project?"
@@ -1928,7 +1927,7 @@ msgstr "প্রকল্পটি সংরক্ষণ কর"
 
 # Offline editor only
 msgid "Server error:"
-msgstr ""
+msgstr "সার্ভারের সমস্যা:"
 
 # Offline editor only
 msgid "Share to Scratch Website"
@@ -1956,7 +1955,7 @@ msgstr ""
 
 # Offline editor only
 msgid "Your project has been uploaded to scratch.mit.edu"
-msgstr ""
+msgstr "আপনার প্রকল্পটি scratch.mit.edu এ আপলোড করা হয়েছে"
 
 msgid "Record Project Video"
 msgstr ""
@@ -1965,7 +1964,7 @@ msgid "Remove Background"
 msgstr "পটভূমি অপসারন করুন"
 
 msgid "any"
-msgstr ""
+msgstr "যে কোনো"
 
 msgid "random position"
 msgstr ""
@@ -1974,13 +1973,13 @@ msgid "Cloud list (stored on server)"
 msgstr ""
 
 msgid "Dance"
-msgstr ""
+msgstr "নাচ"
 
 msgid "Dress-Up"
 msgstr ""
 
 msgid "Music"
-msgstr ""
+msgstr "সঙ্গীত"
 
 msgid "Musical Notes"
 msgstr ""

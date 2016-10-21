@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-04-25 22:29+0200\n"
-"PO-Revision-Date: 2014-02-27 22:33+0000\n"
-"Last-Translator: c.bajada <claudebajada@yahoo.com>\n"
+"PO-Revision-Date: 2016-10-06 10:58+0000\n"
+"Last-Translator: Claude <claudebajada@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: mt\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n==1 ? 0 : n==0 || ( n%100>1 && n%100<11) "
 "? 1 : (n%100>10 && n%100<20 ) ? 2 : 3);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1393540412.000000\n"
+"X-POOTLE-MTIME: 1475751539.000000\n"
 
 # The language name as it will appear in the language menu
 #~ msgid "Language-Name"
@@ -72,15 +72,12 @@ msgstr "biddel %m.var ma %n"
 msgid "change pen color by %n"
 msgstr "biddel il kulur tal-pinna minn %n"
 
-#, fuzzy
 msgid "change pen shade by %n"
 msgstr "biddel il-lewn tal-pinna minn %n"
 
-#, fuzzy
 msgid "change pen size by %n"
 msgstr "biddel id-daqs tal-pinna minn %n"
 
-#, fuzzy
 msgid "change size by %n"
 msgstr "biddel id-daqs minn %n"
 
@@ -434,14 +431,14 @@ msgid "turn %m.motor on for %n secs"
 msgstr "ixgħel il-mutur ghall %n sekondi"
 
 msgid "turn video %m.videoState"
-msgstr ""
+msgstr "dawwar il-video %m.videoState"
 
 #, fuzzy
 msgid "username"
 msgstr "username"
 
 msgid "video %m.videoMotionType on %m.stageOrThis"
-msgstr ""
+msgstr "video %m.videoMotionType fuq %m.stageOrThis"
 
 msgid "volume"
 msgstr "volum"
@@ -456,7 +453,7 @@ msgid "when %m.booleanSensor"
 msgstr "meta %m.booleanSensor"
 
 msgid "when %m.key key pressed"
-msgstr ""
+msgstr "meta %m.key il-buttuna tinghafas"
 
 msgid "when %m.sensor %m.lessMore %n"
 msgstr ""
@@ -490,10 +487,10 @@ msgid "when tilt %m.eNe %n"
 msgstr ""
 
 msgid "x position"
-msgstr "pozizzjoni ta x"
+msgstr "pożizzjoni ta x"
 
 msgid "y position"
-msgstr "pozizzjoni ta y"
+msgstr "pożizzjoni ta y"
 
 #~ msgid "set motor direction %m.motorDirection"
 #~ msgstr "qiegħed id-direzzjoni tal-mutur %m.motorDirection"

@@ -1632,7 +1632,7 @@ msgstr "Catégorie"
 
 # 75%
 msgid "Undelete"
-msgstr "Supprimer"
+msgstr "Restaurer"
 
 msgid "Underwater"
 msgstr "Monde aquatique"

@@ -726,7 +726,7 @@ msgid "Cloud data"
 msgstr "Gögn í Skýi"
 
 msgid "Cloud variable (stored on server)"
-msgstr ""
+msgstr "Skýjabreyta (geymd á miðlara)"
 
 msgid "color"
 msgstr "litur"
@@ -1936,16 +1936,16 @@ msgid "random position"
 msgstr "slembin staðsetning"
 
 msgid "Cloud list (stored on server)"
-msgstr ""
+msgstr "Skýjalisti (geymt á miðlara)"
 
 msgid "Dance"
-msgstr ""
+msgstr "Dans"
 
 msgid "Dress-Up"
 msgstr ""
 
 msgid "Music"
-msgstr ""
+msgstr "Tónlist"
 
 msgid "Musical Notes"
 msgstr ""

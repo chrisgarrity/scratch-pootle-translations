@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: Scratch\n"
 "Report-Msgid-Bugs-To: Evelyn Eastmond <evelyn@media.mit.edu>\n"
 "POT-Creation-Date: 2007-12-06\n"
-"PO-Revision-Date: 2014-10-26 19:15+0000\n"
-"Last-Translator: Андрей <aabuchba@mail.ru>\n"
+"PO-Revision-Date: 2015-10-04 17:58+0000\n"
+"Last-Translator: aabuchba <aabuchba@mail.ru>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Pootle 2.5.1.1\n"
-"X-POOTLE-MTIME: 1414350900.000000\n"
+"X-POOTLE-MTIME: 1443981522.000000\n"
 
 ############################################
 # FORMATTING
@@ -155,7 +155,7 @@ msgid "forever"
 msgstr "всегда"
 
 msgid "forever if %b"
-msgstr "всегда, если %b"
+msgstr "повторять пока %b"
 
 msgid "glide %n secs to x:%n y:%n"
 msgstr "плыть %n секунд в точку x:%n y:%n"

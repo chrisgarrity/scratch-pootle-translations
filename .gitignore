@@ -2,3 +2,5 @@
 .translation_index
 *.DS_Store
 *.mo
+.tmp
+templates/*
